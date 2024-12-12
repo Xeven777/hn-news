@@ -1,5 +1,8 @@
 ---
 import { Image } from "astro:assets";
+import img1 from "../assets/image1.jpeg";
+import img2 from "../assets/image2.jpeg";
+import img3 from "../assets/image3.jpeg";
 import stories from "../../dailyNews.json";
 ---
 
@@ -10,16 +13,12 @@ import stories from "../../dailyNews.json";
         <div class="pb-6 mx-auto w-full max-w-4xl">
           <div class="overflow-hidden rounded-2xl mx-auto relative">
             <Image
-              src={
-                "https://images.unsplash.com/photo-1447069387593-a5de0862481e?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-              }
-              width={1200}
-              height={700}
+              src={img1}
               alt={stories[0].title}
-              class="rounded-lg w-full hover:scale-105 hover:sepia-0 sepia transition-all duration-500"
+              class="rounded-lg w-full hover:scale-105 hover:sepia-0 sepia transition-all duration-500 aspect-[5/4] object-cover"
             />
             <div class="bg-gradient-to-b from-transparent via-stone-700/70 to-stone-900 absolute bottom-0 z-10 h-40 w-full" />
-            <h1 class="text-3xl line-clamp-2 md:text-4xl font-bold mb-4 absolute z-10 bottom-0 text-amber-100 px-4 py-1">
+            <h1 class="text-3xl md:text-5xl line-clamp-2 font-bold mb-4 absolute z-10 bottom-0 text-amber-100 px-4 py-1">
               {stories[0].title}
             </h1>
           </div>
@@ -70,8 +69,15 @@ import stories from "../../dailyNews.json";
 
     <div class="grid md:grid-cols-2 gap-6 px-4">
       {
-        stories.slice(1).map((story, index) => (
-          <div class="bg-amber-50 shadow-lg rounded-lg overflow-hidden transition-all duration-300 hover:shadow-xl">
+        stories.slice(1).map((story, i) => (
+          <div class="bg-amber-50/80 shadow-lg rounded-2xl overflow-hidden transition-all duration-300 hover:shadow-xl">
+            {i === 0 || i === 1 ? (
+              <Image
+                src={i === 0 ? img2 : img3}
+                alt={story.title}
+                class="w-full aspect-square object-cover hover:sepia-0 sepia-[0.3] transition-all duration-500"
+              />
+            ) : null}
             <div class="p-6 flex flex-col justify-between h-full">
               <h2 class="text-xl font-bold mb-2 text-stone-900">
                 {story.title}
