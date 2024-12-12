@@ -49,6 +49,13 @@ import stories from "../../dailyNews.json";
             <div class="flex items-center">
               <span class="mr-4">{stories[0].points} points</span>
               <span>{stories[0].num_comments} comments</span>
+              <a
+                href={stories[0].url}
+                target="_blank"
+                class="hover:underline ml-8"
+              >
+                Read more &gtcc;
+              </a>
             </div>
           </div>
         </div>
@@ -61,10 +68,10 @@ import stories from "../../dailyNews.json";
     </div>
 
     {/* Grid of Other Stories */}
-    <div class="grid md:grid-cols-3 gap-6">
+    <div class="grid md:grid-cols-2 gap-6">
       {
         stories.slice(1).map((story, index) => (
-          <div class="bg-white shadow-lg rounded-lg overflow-hidden transition-all duration-300 hover:shadow-xl">
+          <div class="bg-amber-50 shadow-lg rounded-lg overflow-hidden transition-all duration-300 hover:shadow-xl">
             <div class="p-6">
               <h2 class="text-xl font-semibold mb-2 text-stone-900">
                 {story.title}
