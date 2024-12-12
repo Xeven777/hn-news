@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Stephen Hawking has died",
+    "url": "http://www.bbc.com/news/uk-43396008",
+    "points": 6015,
+    "num_comments": 436,
+    "tags": ["story", "author_Cogito", "story_16582136"],
+    "author": "Cogito",
+    "created_at": "2018-03-14T03:50:30Z",
+    "aiHeadline": "Breaking News: The Universe Just Got a Little Less Brilliant as Renowned Physicist Stephen Hawking Leaves Us, But His Legacy of Explaining Complex Stuff in Simple Terms Will Live On, Probably in a Black Hole Somewhere, Because, You Know, Physics"
+  },
+  {
+    "title": "A Message to Our Customers",
+    "url": "http://www.apple.com/customer-letter/",
+    "points": 5771,
+    "num_comments": 967,
+    "tags": ["story", "author_epaga", "story_11116274"],
+    "author": "epaga",
+    "created_at": "2016-02-17T08:38:37Z",
+    "aiHeadline": "Apple Customers Rejoice: The Tech Giant Has a Message for You, Which Probably Involves Either an Apology for Something They Did Wrong or a Veiled Threat to Upgrade Your iPhone, Again, Because Let's Face It, Your Current One is So Last Season"
+  },
+  {
+    "title": "OpenAI's board has fired Sam Altman",
+    "url": "https://openai.com/blog/openai-announces-leadership-transition",
+    "points": 5710,
+    "num_comments": 2531,
+    "tags": ["story", "author_davidbarker", "story_38309611"],
+    "author": "davidbarker",
+    "created_at": "2023-11-17T20:28:50Z",
+    "aiHeadline": "Shakeup at OpenAI: Sam Altman Gets the Boot, Leaving Us All Wondering What Happens Next in the Wild World of AI, Will the New Guy Be Able to Make Chatbots That Are Actually Helpful Instead of Just Spewing Forth Existential Crises?"
+  },
+  {
+    "title": "Backdoor in upstream xz/liblzma leading to SSH server compromise",
+    "url": "https://www.openwall.com/lists/oss-security/2024/03/29/4",
+    "points": 4549,
+    "num_comments": 1849,
+    "tags": ["story", "author_rkta", "story_39865810"],
+    "author": "rkta",
+    "created_at": "2024-03-29T16:16:50Z",
+    "aiHeadline": "Beware of the Sneaky Backdoor in Your Favorite Compression Library, Because Who Doesn't Love a Good SSH Server Compromise to Spice Up Their Day, Said No One Ever, Except Maybe Some Mischievous Hackers with a Lot of Free Time on Their Hands"
+  },
+  {
+    "title": "CrowdStrike Update: Windows Bluescreen and Boot Loops",
+    "url": "https://old.reddit.com/r/crowdstrike/comments/1e6vmkf/bsod_error_in_latest_crowdstrike_update/",
+    "points": 4489,
+    "num_comments": 3859,
+    "tags": ["story", "author_BLKNSLVR", "story_41002195"],
+    "author": "BLKNSLVR",
+    "created_at": "2024-07-19T05:26:13Z",
+    "aiHeadline": "CrowdStrike Update: Because Who Needs a Functioning Computer When You Can Have a Lovely Blue Screen of Death to Stare at All Day, It's Like a Digital Version of a Relaxing Ocean View, But Without the Relaxing Part"
+  },
+  {
+    "title": "Steve Jobs has passed away.",
+    "url": "http://www.apple.com/stevejobs/",
+    "points": 4338,
+    "num_comments": 363,
+    "tags": ["story", "author_patricktomas", "story_3078128"],
+    "author": "patricktomas",
+    "created_at": "2011-10-05T23:42:23Z",
+    "aiHeadline": "The World Mourns the Loss of Steve Jobs, the Guy Who Made You Feel Bad About Your Own Innovative Ideas by Creating a Billion-Dollar Empire from Scratch, But Hey, at Least He Left Us with a Legacy of Overpriced, Yet Amazingly Designed Gadgets to Remember Him By"
+  }
+]
