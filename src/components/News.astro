@@ -3,6 +3,9 @@ import { Image } from "astro:assets";
 import img1 from "../assets/image1.jpeg";
 import img2 from "../assets/image2.jpeg";
 import img3 from "../assets/image3.jpeg";
+import img4 from "../assets/image4.jpeg";
+import img5 from "../assets/image5.jpeg";
+const images = [img1, img2, img3, img4, img5];
 import stories from "../../dailyNews.json";
 ---
 
@@ -13,7 +16,7 @@ import stories from "../../dailyNews.json";
         <div class="pb-6 mx-auto w-full max-w-4xl">
           <div class="overflow-hidden rounded-2xl mx-auto relative">
             <Image
-              src={img1}
+              src={images[0]}
               alt={stories[0].title}
               class="rounded-lg w-full hover:scale-105 hover:sepia-0 sepia transition-all duration-500 aspect-[5/4] object-cover"
             />
@@ -71,18 +74,17 @@ import stories from "../../dailyNews.json";
       {
         stories.slice(1).map((story, i) => (
           <div class="bg-amber-50/80 shadow-lg rounded-2xl overflow-hidden transition-all duration-300 hover:shadow-xl">
-            {i === 0 || i === 1 ? (
+            <div class="pb-6 flex flex-col justify-between h-full">
               <Image
-                src={i === 0 ? img2 : img3}
+                src={images[i + 1]}
                 alt={story.title}
-                class="w-full aspect-square object-cover hover:sepia-0 sepia-[0.3] transition-all duration-500"
+                class="w-full mb-6 aspect-square object-cover hover:sepia-0 sepia-[0.3] transition-all duration-500"
               />
-            ) : null}
-            <div class="p-6 flex flex-col justify-between h-full">
-              <h2 class="text-xl font-bold mb-2 text-stone-900">
+
+              <h2 class="px-6 text-xl font-bold mb-2 text-stone-900">
                 {story.title}
               </h2>
-              <div class="text-sm text-stone-600 mb-4">
+              <div class="px-6 text-sm text-stone-600 mb-4">
                 <span class="mr-4">By {story.author}</span>
                 <span>
                   on{" "}
@@ -93,8 +95,8 @@ import stories from "../../dailyNews.json";
                   })}
                 </span>
               </div>
-              <p class="text-stone-800/80 mb-8">{story.aiHeadline}</p>
-              <div class="flex gap-2 text-sm text-stone-600/90 mt-auto">
+              <p class="px-6 text-stone-800/80 mb-8">{story.aiHeadline}</p>
+              <div class="px-6 flex gap-2 text-sm text-stone-600/90 mt-auto">
                 <span>{story.points} points</span>
                 <span>{story.num_comments} comments</span>
                 <a

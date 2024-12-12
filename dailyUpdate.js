@@ -19,7 +19,7 @@ async function getDailyNews() {
         }
         console.log('Fetched news data:', data);
 
-        const imagePromises = data.slice(0, 3).map(async (item, index) => {
+        const imagePromises = data.map(async (item, index) => {
             const imgResponse = await fetch(
                 `https://ai-image-api.xeven.workers.dev/img?prompt=${generateImgPrompt(item.aiHeadline)}&model=flux-schnell`
             );
