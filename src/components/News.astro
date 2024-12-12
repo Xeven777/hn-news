@@ -71,38 +71,37 @@ import stories from "../../dailyNews.json";
     <div class="grid md:grid-cols-2 gap-6 px-4">
       {
         stories.slice(1).map((story, index) => (
-          <a href={story.url} target="_blank" rel="noopener noreferrer">
-            <div class="bg-amber-50 shadow-lg rounded-lg overflow-hidden transition-all duration-300 hover:shadow-xl">
-              <div class="p-6 flex flex-col justify-between h-full">
-                <h2 class="text-xl font-bold mb-2 text-stone-900">
-                  {story.title}
-                </h2>
-                <div class="text-sm text-stone-600 mb-4">
-                  <span class="mr-4">By {story.author}</span>
-                  <span>
-                    on{" "}
-                    {new Date(story.created_at).toLocaleDateString("en-US", {
-                      year: "numeric",
-                      month: "long",
-                      day: "numeric",
-                    })}
-                  </span>
-                </div>
-                <p class="text-stone-800/80 mb-8">{story.aiHeadline}</p>
-                <div class="flex gap-2 text-sm text-stone-600/90 mt-auto">
-                  <span>{story.points} points</span>
-                  <span>{story.num_comments} comments</span>
-                  <div class="ml-auto">
-                    {story.tags.map((tag) => (
-                      <span class="bg-amber-100 text-stone-700 px-2 py-1 rounded-full ml-2 text-xs cursor-pointer">
-                        {tag}
-                      </span>
-                    ))}
-                  </div>
-                </div>
+          <div class="bg-amber-50 shadow-lg rounded-lg overflow-hidden transition-all duration-300 hover:shadow-xl">
+            <div class="p-6 flex flex-col justify-between h-full">
+              <h2 class="text-xl font-bold mb-2 text-stone-900">
+                {story.title}
+              </h2>
+              <div class="text-sm text-stone-600 mb-4">
+                <span class="mr-4">By {story.author}</span>
+                <span>
+                  on{" "}
+                  {new Date(story.created_at).toLocaleDateString("en-US", {
+                    year: "numeric",
+                    month: "long",
+                    day: "numeric",
+                  })}
+                </span>
+              </div>
+              <p class="text-stone-800/80 mb-8">{story.aiHeadline}</p>
+              <div class="flex gap-2 text-sm text-stone-600/90 mt-auto">
+                <span>{story.points} points</span>
+                <span>{story.num_comments} comments</span>
+                <a
+                  href={stories[0].url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="hover:underline ml-auto"
+                >
+                  Read more &gtcc;
+                </a>
               </div>
             </div>
-          </a>
+          </div>
         ))
       }
     </div>
