@@ -1,86 +1,75 @@
 [
   {
-    "title": "Stephen Hawking has died",
-    "url": "http://www.bbc.com/news/uk-43396008",
-    "points": 6015,
-    "num_comments": 436,
+    "title": "Gukesh becomes the youngest chess world champion in history",
+    "url": "https://lichess.org/@/Lichess/blog/wcc-2024-round-14-gukesh-becomes-the-youngest-world-champion-in-history/cDggdNZw",
+    "points": 667,
+    "num_comments": 295,
     "tags": [
       "story",
-      "author_Cogito",
-      "story_16582136"
+      "author_alexmolas",
+      "story_42398952",
+      "front_page"
     ],
-    "author": "Cogito",
-    "created_at": "2018-03-14T03:50:30Z",
-    "aiHeadline": "Breaking News: The Universe Just Lost Its Brightest Mind - Renowned Physicist and All-Around Genius Stephen Hawking Has Passed Away, Leaving Behind a Legacy of Mind-Blowing Theories and a Huge Void in the World of Science, Because Who Else Could Make Black Holes Sound Cool?"
+    "author": "alexmolas",
+    "created_at": "2024-12-12T13:29:23Z",
+    "aiHeadline": "In a Mind-Blowing Feat of Mental Wizardry, 14-Year-Old Gukesh Becomes the Youngest Chess World Champion in History, Leaving All the Adults in the Room Wondering What They've Been Doing with Their Lives, and How They Can Start Over with a New Hobby That Doesn't Involve Getting Crushed by a Teenager at a Board Game"
   },
   {
-    "title": "A Message to Our Customers",
-    "url": "http://www.apple.com/customer-letter/",
-    "points": 5771,
-    "num_comments": 967,
+    "title": "Timemap.org – Interactive Map of History",
+    "url": "https://www.oldmapsonline.org/en/history/regions",
+    "points": 608,
+    "num_comments": 120,
     "tags": [
       "story",
-      "author_epaga",
-      "story_11116274"
+      "author_agilek",
+      "story_42397550",
+      "front_page"
     ],
-    "author": "epaga",
-    "created_at": "2016-02-17T08:38:37Z",
-    "aiHeadline": "Oh No, Apple is Apologizing for Something Again: A Message to Their Customers, Which is Just a Fancy Way of Saying 'We Got Caught Doing Something Shady and Now We're Sorry, Please Still Buy Our Overpriced Products', But Hey, at Least They're Trying to Make Amends, Right?"
+    "author": "agilek",
+    "created_at": "2024-12-12T09:12:28Z",
+    "aiHeadline": "Because You Clearly Had Nothing Better to Do with Your Time, Timemap.org Has Launched an Interactive Map of History, Allowing You to Waste Hours Clicking Through Centuries of Historical Events and Forgetting About All the Productive Things You Promised Yourself You'd Get Done Today, Like Laundry or Taxes"
   },
   {
-    "title": "OpenAI's board has fired Sam Altman",
-    "url": "https://openai.com/blog/openai-announces-leadership-transition",
-    "points": 5710,
-    "num_comments": 2531,
+    "title": "A ChatGPT clone, in 3000 bytes of C, backed by GPT-2 (2023)",
+    "url": "https://nicholas.carlini.com/writing/2023/chat-gpt-2-in-c.html",
+    "points": 333,
+    "num_comments": 118,
     "tags": [
       "story",
-      "author_davidbarker",
-      "story_38309611"
+      "author_chubot",
+      "story_42396372"
     ],
-    "author": "davidbarker",
-    "created_at": "2023-11-17T20:28:50Z",
-    "aiHeadline": "Plot Twist: OpenAI's Board Pulls Off the Ultimate Power Move, Fires Sam Altman, and Leaves Everyone Wondering What Just Happened, Because Who Needs a CEO Anyway, Right? It's Not Like They're the Ones Running the Company or Anything, But Hey, Maybe This is the Start of a New Era in AI Leadership"
+    "author": "chubot",
+    "created_at": "2024-12-12T05:01:36Z",
+    "aiHeadline": "In a Bizarre Display of Masochism, Some Brave Soul Has Managed to Cram a ChatGPT Clone into a Mere 3000 Bytes of C Code, Backed by GPT-2, Because Who Needs Human Interaction or Sanity When You Can Have a Conversational AI That Can Fit on a Floppy Disk from the 90s?"
   },
   {
-    "title": "Backdoor in upstream xz/liblzma leading to SSH server compromise",
-    "url": "https://www.openwall.com/lists/oss-security/2024/03/29/4",
-    "points": 4549,
-    "num_comments": 1849,
+    "title": "BlenderGPT",
+    "url": "https://www.blendergpt.org/",
+    "points": 286,
+    "num_comments": 143,
     "tags": [
       "story",
-      "author_rkta",
-      "story_39865810"
+      "author_handfuloflight",
+      "story_42398913"
     ],
-    "author": "rkta",
-    "created_at": "2024-03-29T16:16:50Z",
-    "aiHeadline": "Warning: Your SSH Server Might Be in Danger, Thanks to a Sneaky Backdoor in Upstream xz/liblzma, Because Who Doesn't Love a Good Security Vulnerability to Keep Things Interesting, and by Interesting, I Mean Terrifying, So Go Update Your Stuff Already and Save Your Server from Certain Doom"
+    "author": "handfuloflight",
+    "created_at": "2024-12-12T13:23:21Z",
+    "aiHeadline": "BlenderGPT is Here to Revolutionize the World of 3D Modeling and Animation, or at Least That's What the Creators Claim, But Let's Be Real, It's Probably Just Going to Be Used to Generate Endless Amounts of CringeworthyAnimations of Dancing Robots and Overly-Attached GFs"
   },
   {
-    "title": "CrowdStrike Update: Windows Bluescreen and Boot Loops",
-    "url": "https://old.reddit.com/r/crowdstrike/comments/1e6vmkf/bsod_error_in_latest_crowdstrike_update/",
-    "points": 4489,
-    "num_comments": 3859,
+    "title": "Fermat's Last Theorem – how it's going",
+    "url": "https://xenaproject.wordpress.com/2024/12/11/fermats-last-theorem-how-its-going/",
+    "points": 203,
+    "num_comments": 89,
     "tags": [
       "story",
-      "author_BLKNSLVR",
-      "story_41002195"
+      "author_verbify",
+      "story_42399397",
+      "front_page"
     ],
-    "author": "BLKNSLVR",
-    "created_at": "2024-07-19T05:26:13Z",
-    "aiHeadline": "When You Thought Windows Couldn't Get Any Bluer, CrowdStrike Comes Along and Gives You the Bluescreen of Death, and by Bluescreen, I Mean the Kind That Makes You Want to Pull Your Hair Out, But Hey, at Least the Boot Loops Are Fun to Watch, Said No One Ever, So Maybe It's Time to Update Your CrowdStrike, or You Know, Just Use a Different Security Software"
-  },
-  {
-    "title": "Steve Jobs has passed away.",
-    "url": "http://www.apple.com/stevejobs/",
-    "points": 4338,
-    "num_comments": 363,
-    "tags": [
-      "story",
-      "author_patricktomas",
-      "story_3078128"
-    ],
-    "author": "patricktomas",
-    "created_at": "2011-10-05T23:42:23Z",
-    "aiHeadline": "The World Has Lost a Visionary: Steve Jobs, the Man Who Made Apple Cool Again, Has Passed Away, Leaving Behind a Legacy of Innovation, Design, and a Whole Lot of iPhones, Because Let's be Real, He Was the One Who Made You Think You Needed a Smartphone in the First Place, and Now We're All Just Mindless Zombies Staring at Our Screens, But Hey, at Least We Have Apple to Thank for That"
+    "author": "verbify",
+    "created_at": "2024-12-12T14:30:37Z",
+    "aiHeadline": "Fermat's Last Theorem, the Mathematical Problem That Has Haunted Mathematicians for Centuries, is Still Going Strong, with a New Update from the Xena Project, Because What's a Few More Decades of Number-Crunching and Theorem-Proving When You're on the Brink of a Breakthrough That Could Change the Face of Mathematics Forever, or at Least Get You a Decent Paper Published in a Reputable Journal?"
   }
 ]
