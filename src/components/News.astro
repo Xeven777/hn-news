@@ -1,0 +1,87 @@
+---
+import { Image } from "astro:assets";
+import stories from "../../dailyNews.json";
+---
+
+<div class="min-h-screen p-4 md:p-8">
+  <div class="container mx-auto max-w-6xl">
+    {
+      stories[0] && (
+        <div class="pb-6 mx-auto w-full max-w-4xl">
+          <div class="overflow-hidden rounded-2xl mx-auto relative">
+            <Image
+              src={
+                "https://images.unsplash.com/photo-1447069387593-a5de0862481e?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              }
+              width={1200}
+              height={700}
+              alt={stories[0].title}
+              class="rounded-lg w-full hover:scale-105 hover:sepia-0 sepia transition-all duration-500"
+            />
+            <div class="bg-gradient-to-b from-transparent via-stone-700/70 to-stone-900 absolute bottom-0 z-10 h-40 w-full" />
+            <h1 class="text-3xl line-clamp-2 md:text-4xl font-bold mb-4 absolute z-10 bottom-0 text-amber-100 px-4 py-1">
+              {stories[0].title}
+            </h1>
+          </div>
+          <div class="p-4">
+            <div class="flex items-center text-stone-600 mb-4">
+              <span class="mr-8">by {stories[0].author}</span>
+              <span>
+                {" "}
+                on
+                {new Date(stories[0].created_at).toLocaleDateString("en-US", {
+                  year: "numeric",
+                  month: "long",
+                  day: "numeric",
+                })}
+              </span>
+              <div class="ml-auto">
+                {stories[0].tags.map((tag) => (
+                  <span class="bg-stone-700 text-amber-100 px-2 py-1 rounded-full ml-2 text-xs cursor-pointer">
+                    {tag}
+                  </span>
+                ))}
+              </div>
+            </div>
+            <p class="text-stone-700 text-base md:text-lg mb-4">
+              {stories[0].aiHeadline} ...
+            </p>
+            <div class="flex items-center">
+              <span class="mr-4">{stories[0].points} points</span>
+              <span>{stories[0].num_comments} comments</span>
+            </div>
+          </div>
+        </div>
+      )
+    }
+
+    <div
+      class="mt-6 mb-16 h-0.5 w-2/3 mx-auto bg-gradient-to-r from-transparent to-transparent via-amber-950/50"
+    >
+    </div>
+
+    {/* Grid of Other Stories */}
+    <div class="grid md:grid-cols-3 gap-6">
+      {
+        stories.slice(1).map((story, index) => (
+          <div class="bg-white shadow-lg rounded-lg overflow-hidden transition-all duration-300 hover:shadow-xl">
+            <div class="p-6">
+              <h2 class="text-xl font-semibold mb-2 text-stone-900">
+                {story.title}
+              </h2>
+              <div class="text-sm text-stone-600 mb-4">
+                <span class="mr-2">By {story.author}</span>
+                <span>{story.created_at}</span>
+              </div>
+              <p class="text-stone-700 italic mb-4">{story.aiHeadline}</p>
+              <div class="flex justify-between text-sm text-stone-600">
+                <span>{story.points} points</span>
+                <span>{story.num_comments} comments</span>
+              </div>
+            </div>
+          </div>
+        ))
+      }
+    </div>
+  </div>
+</div>
