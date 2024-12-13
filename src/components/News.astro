@@ -12,9 +12,9 @@ import stories from "../../dailyNews.json";
 <div class="min-h-screen p-4 md:p-8">
   <div class="container mx-auto max-w-6xl">
     <h1
-      class="mx-auto text-4xl md:text-7xl font-bold bg-gradient-to-b from-stone-950 py-2 to-stone-700/70 w-fit bg-clip-text text-transparent text-center mb-8 tracking-tight"
+      class="mx-auto text-4xl md:text-7xl font-bold text-stone-950/90 py-2 w-fit text-center mb-8 tracking-tight"
     >
-      Top 5 from Hacker News
+      Top 5 from HN but with AI fun 😂
     </h1>
     {
       stories[0] && (
@@ -23,7 +23,7 @@ import stories from "../../dailyNews.json";
             <Image
               src={images[0]}
               alt={stories[0].title}
-              class="rounded-lg w-full hover:scale-105 hover:sepia-0 sepia transition-all duration-500 aspect-[5/4] object-cover"
+              class="rounded-lg w-full hover:scale-105 hover:sepia-0 sepia transition-all duration-500 aspect-square md:aspect-[5/4] object-cover"
             />
             <div class="bg-gradient-to-b from-transparent via-stone-700/70 to-stone-900 absolute bottom-0 z-10 h-40 w-full" />
             <h1 class="text-3xl md:text-5xl line-clamp-2 font-bold mb-4 absolute z-10 bottom-0 text-amber-100 px-4 py-1">
@@ -105,7 +105,7 @@ import stories from "../../dailyNews.json";
                 <span>{story.points} points</span>
                 <span>{story.num_comments} comments</span>
                 <a
-                  href={stories[0].url}
+                  href={story.url}
                   target="_blank"
                   rel="noopener noreferrer"
                   class="hover:underline ml-auto"
