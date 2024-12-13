@@ -11,6 +11,11 @@ import stories from "../../dailyNews.json";
 
 <div class="min-h-screen p-4 md:p-8">
   <div class="container mx-auto max-w-6xl">
+    <h1
+      class="mx-auto text-4xl md:text-7xl font-bold bg-gradient-to-b from-stone-950 py-2 to-stone-700/70 w-fit bg-clip-text text-transparent text-center mb-8 tracking-tight"
+    >
+      Top 5 from Hacker News
+    </h1>
     {
       stories[0] && (
         <div class="pb-6 mx-auto w-full max-w-4xl">
@@ -26,7 +31,7 @@ import stories from "../../dailyNews.json";
             </h1>
           </div>
           <div class="p-4">
-            <div class="flex items-center text-stone-600 mb-4">
+            <div class="flex flex-wrap items-center text-stone-600 mb-4">
               <span class="mr-8">by {stories[0].author}</span>
               <span>
                 {" "}
@@ -37,7 +42,7 @@ import stories from "../../dailyNews.json";
                   day: "numeric",
                 })}
               </span>
-              <div class="ml-auto">
+              <div class="ml-auto hidden md:block">
                 {stories[0].tags.map((tag) => (
                   <span class="bg-stone-700 text-amber-100 px-2 py-1 rounded-full ml-2 text-xs cursor-pointer">
                     {tag}
@@ -70,7 +75,7 @@ import stories from "../../dailyNews.json";
     >
     </div>
 
-    <div class="grid md:grid-cols-2 gap-6 px-4">
+    <div class="grid md:grid-cols-2 gap-6">
       {
         stories.slice(1).map((story, i) => (
           <div class="bg-amber-50/80 shadow-lg rounded-2xl overflow-hidden transition-all duration-300 hover:shadow-xl">
