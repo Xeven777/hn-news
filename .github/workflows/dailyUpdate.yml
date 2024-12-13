@@ -20,7 +20,7 @@ jobs:
 
       - name: update the json file and get images
         run: |
-          bun run dev
+          bun run update
           git config --global user.email "xevenbiswas@gmail.com"
           git config --global user.name "Anish"
           git add .
