@@ -1,0 +1,28 @@
+name: Daily Update
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Bun & run
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - name: update the json file and get images
+        run: |
+          bun run dev
+          git config --global user.email "xevenbiswas@gmail.com"
+          git config --global user.name "Anish"
+          git add .
+          git commit -m "Updated README on $(TZ=Asia/Kolkata date +'%Y-%m-%d %H:%M')"
+          git push origin main
