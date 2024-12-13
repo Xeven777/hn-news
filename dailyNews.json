@@ -1,75 +1,75 @@
 [
   {
-    "title": "Gukesh becomes the youngest chess world champion in history",
-    "url": "https://lichess.org/@/Lichess/blog/wcc-2024-round-14-gukesh-becomes-the-youngest-world-champion-in-history/cDggdNZw",
-    "points": 667,
-    "num_comments": 295,
+    "title": "Show HN: I designed an espresso machine and coffee grinder",
+    "url": "https://velofuso.com",
+    "points": 502,
+    "num_comments": 239,
     "tags": [
       "story",
-      "author_alexmolas",
-      "story_42398952",
+      "author_smeeeeeeeeeeeee",
+      "story_42405046",
+      "show_hn",
       "front_page"
     ],
-    "author": "alexmolas",
-    "created_at": "2024-12-12T13:29:23Z",
-    "aiHeadline": "In a Mind-Blowing Feat of Mental Wizardry, 14-Year-Old Gukesh Becomes the Youngest Chess World Champion in History, Leaving All the Adults in the Room Wondering What They've Been Doing with Their Lives, and How They Can Start Over with a New Hobby That Doesn't Involve Getting Crushed by a Teenager at a Board Game"
+    "author": "smeeeeeeeeeeeee",
+    "created_at": "2024-12-13T01:03:27Z",
+    "aiHeadline": "In a shocking turn of events, someone actually used their engineering skills for good and designed an espresso machine and coffee grinder that doesn't look like it was built by a time-traveling Victorian, because who needs sleep when you can have a perfectly brewed cup of coffee to fuel your late-night coding sessions, am I right?"
   },
   {
-    "title": "Timemap.org – Interactive Map of History",
-    "url": "https://www.oldmapsonline.org/en/history/regions",
-    "points": 608,
-    "num_comments": 120,
+    "title": "Android XR",
+    "url": "https://blog.google/products/android/android-xr/",
+    "points": 324,
+    "num_comments": 276,
     "tags": [
       "story",
-      "author_agilek",
-      "story_42397550",
+      "author_dagmx",
+      "story_42400556"
+    ],
+    "author": "dagmx",
+    "created_at": "2024-12-12T16:26:31Z",
+    "aiHeadline": "Google just announced Android XR, because what the world really needed was another platform to make our lives more complicated, but hey, at least now you can experience the thrill of augmented reality on your Android device, if you can figure out how to use it without getting a headache, that is."
+  },
+  {
+    "title": "A new video captures a 1968 demo of IBM’s Executive Terminal",
+    "url": "https://spectrum.ieee.org/ibm-demo",
+    "points": 245,
+    "num_comments": 59,
+    "tags": [
+      "story",
+      "author_sohkamyung",
+      "story_42405462",
       "front_page"
     ],
-    "author": "agilek",
-    "created_at": "2024-12-12T09:12:28Z",
-    "aiHeadline": "Because You Clearly Had Nothing Better to Do with Your Time, Timemap.org Has Launched an Interactive Map of History, Allowing You to Waste Hours Clicking Through Centuries of Historical Events and Forgetting About All the Productive Things You Promised Yourself You'd Get Done Today, Like Laundry or Taxes"
+    "author": "sohkamyung",
+    "created_at": "2024-12-13T02:30:01Z",
+    "aiHeadline": "Get ready for a blast from the past: a new video has surfaced of a 1968 demo of IBM's Executive Terminal, which is basically the equivalent of your grandparents showing you their old flip phone and saying 'this is how we used to do it back in my day', but with more mainframes and less Snapchat."
   },
   {
-    "title": "A ChatGPT clone, in 3000 bytes of C, backed by GPT-2 (2023)",
-    "url": "https://nicholas.carlini.com/writing/2023/chat-gpt-2-in-c.html",
-    "points": 333,
-    "num_comments": 118,
+    "title": "Carta is making it too difficult to cancel subscriptions, some founders say",
+    "url": "https://techcrunch.com/2024/12/12/carta-is-making-it-too-difficult-to-cancel-subscriptions-some-founders-say/",
+    "points": 201,
+    "num_comments": 65,
     "tags": [
       "story",
-      "author_chubot",
-      "story_42396372"
+      "author_impish9208",
+      "story_42404144"
     ],
-    "author": "chubot",
-    "created_at": "2024-12-12T05:01:36Z",
-    "aiHeadline": "In a Bizarre Display of Masochism, Some Brave Soul Has Managed to Cram a ChatGPT Clone into a Mere 3000 Bytes of C Code, Backed by GPT-2, Because Who Needs Human Interaction or Sanity When You Can Have a Conversational AI That Can Fit on a Floppy Disk from the 90s?"
+    "author": "impish9208",
+    "created_at": "2024-12-12T22:37:32Z",
+    "aiHeadline": "Carta, the company that's supposed to make managing investments easier, is being accused of making it too difficult to cancel subscriptions, which is like being trapped in some kind of never-ending software update loop, except instead of just restarting your computer, you have to deal with actual human customer support, and we all know how fun that is."
   },
   {
-    "title": "BlenderGPT",
-    "url": "https://www.blendergpt.org/",
-    "points": 286,
-    "num_comments": 143,
+    "title": "Microsoft Recall still storing credit card, social security numbers",
+    "url": "https://www.tomshardware.com/software/windows/microsoft-recall-screenshots-credit-cards-and-social-security-numbers-even-with-the-sensitive-information-filter-enabled",
+    "points": 200,
+    "num_comments": 100,
     "tags": [
       "story",
-      "author_handfuloflight",
-      "story_42398913"
+      "author_geekinchief",
+      "story_42400935"
     ],
-    "author": "handfuloflight",
-    "created_at": "2024-12-12T13:23:21Z",
-    "aiHeadline": "BlenderGPT is Here to Revolutionize the World of 3D Modeling and Animation, or at Least That's What the Creators Claim, But Let's Be Real, It's Probably Just Going to Be Used to Generate Endless Amounts of CringeworthyAnimations of Dancing Robots and Overly-Attached GFs"
-  },
-  {
-    "title": "Fermat's Last Theorem – how it's going",
-    "url": "https://xenaproject.wordpress.com/2024/12/11/fermats-last-theorem-how-its-going/",
-    "points": 203,
-    "num_comments": 89,
-    "tags": [
-      "story",
-      "author_verbify",
-      "story_42399397",
-      "front_page"
-    ],
-    "author": "verbify",
-    "created_at": "2024-12-12T14:30:37Z",
-    "aiHeadline": "Fermat's Last Theorem, the Mathematical Problem That Has Haunted Mathematicians for Centuries, is Still Going Strong, with a New Update from the Xena Project, Because What's a Few More Decades of Number-Crunching and Theorem-Proving When You're on the Brink of a Breakthrough That Could Change the Face of Mathematics Forever, or at Least Get You a Decent Paper Published in a Reputable Journal?"
+    "author": "geekinchief",
+    "created_at": "2024-12-12T17:01:16Z",
+    "aiHeadline": "Microsoft Recall is still storing credit card and social security numbers, because who needs data security when you can have the thrill of possibly having your identity stolen, and let's be real, it's not like you're going to notice anything until you're trying to buy a house and suddenly your credit score is in the toilet, at which point you'll be like 'oh wait, I think I know why this is happening...'"
   }
 ]
