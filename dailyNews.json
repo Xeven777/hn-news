@@ -1,75 +1,75 @@
 [
   {
-    "title": "Show HN: I designed an espresso machine and coffee grinder",
-    "url": "https://velofuso.com",
-    "points": 502,
-    "num_comments": 239,
+    "title": "OpenAI whistleblower found dead in San Francisco apartment",
+    "url": "https://www.mercurynews.com/2024/12/13/openai-whistleblower-found-dead-in-san-francisco-apartment/",
+    "points": 575,
+    "num_comments": 210,
     "tags": [
       "story",
-      "author_smeeeeeeeeeeeee",
-      "story_42405046",
-      "show_hn",
+      "author_mmorearty",
+      "story_42412718",
       "front_page"
     ],
-    "author": "smeeeeeeeeeeeee",
-    "created_at": "2024-12-13T01:03:27Z",
-    "aiHeadline": "In a shocking turn of events, someone actually used their engineering skills for good and designed an espresso machine and coffee grinder that doesn't look like it was built by a time-traveling Victorian, because who needs sleep when you can have a perfectly brewed cup of coffee to fuel your late-night coding sessions, am I right?"
+    "author": "mmorearty",
+    "created_at": "2024-12-13T21:56:29Z",
+    "aiHeadline": "Breaking News: OpenAI Whistleblower Found Dead in San Francisco Apartment, Because Clearly Someone Wanted to Keep a Secret Secret, and Now We're Left Wondering What Other Juicy Secrets Are Being Hidden Behind the Scenes of the AI World"
   },
   {
-    "title": "Android XR",
-    "url": "https://blog.google/products/android/android-xr/",
-    "points": 324,
-    "num_comments": 276,
+    "title": "Test",
+    "url": "https://www.defense.gov/News/News-Stories/Article/Article/4000004/test/",
+    "points": 503,
+    "num_comments": 120,
     "tags": [
       "story",
-      "author_dagmx",
-      "story_42400556"
-    ],
-    "author": "dagmx",
-    "created_at": "2024-12-12T16:26:31Z",
-    "aiHeadline": "Google just announced Android XR, because what the world really needed was another platform to make our lives more complicated, but hey, at least now you can experience the thrill of augmented reality on your Android device, if you can figure out how to use it without getting a headache, that is."
-  },
-  {
-    "title": "A new video captures a 1968 demo of IBM’s Executive Terminal",
-    "url": "https://spectrum.ieee.org/ibm-demo",
-    "points": 245,
-    "num_comments": 59,
-    "tags": [
-      "story",
-      "author_sohkamyung",
-      "story_42405462",
+      "author_ajdude",
+      "story_42408202",
       "front_page"
     ],
-    "author": "sohkamyung",
-    "created_at": "2024-12-13T02:30:01Z",
-    "aiHeadline": "Get ready for a blast from the past: a new video has surfaced of a 1968 demo of IBM's Executive Terminal, which is basically the equivalent of your grandparents showing you their old flip phone and saying 'this is how we used to do it back in my day', but with more mainframes and less Snapchat."
+    "author": "ajdude",
+    "created_at": "2024-12-13T13:23:54Z",
+    "aiHeadline": "In a Shocking Turn of Events, a Mysterious 'Test' Article Appeared on the Defense Department's Website, Leaving Everyone Scratching Their Heads and Wondering if it's a Clever Ploy to Distract Us from the Real News or Just a Glitch in the Matrix"
   },
   {
-    "title": "Carta is making it too difficult to cancel subscriptions, some founders say",
-    "url": "https://techcrunch.com/2024/12/12/carta-is-making-it-too-difficult-to-cancel-subscriptions-some-founders-say/",
-    "points": 201,
-    "num_comments": 65,
+    "title": "Elon Musk wanted an OpenAI for-profit",
+    "url": "https://openai.com/index/elon-musk-wanted-an-openai-for-profit/",
+    "points": 483,
+    "num_comments": 492,
     "tags": [
       "story",
-      "author_impish9208",
-      "story_42404144"
+      "author_arvindh-manian",
+      "story_42411608"
     ],
-    "author": "impish9208",
-    "created_at": "2024-12-12T22:37:32Z",
-    "aiHeadline": "Carta, the company that's supposed to make managing investments easier, is being accused of making it too difficult to cancel subscriptions, which is like being trapped in some kind of never-ending software update loop, except instead of just restarting your computer, you have to deal with actual human customer support, and we all know how fun that is."
+    "author": "arvindh-manian",
+    "created_at": "2024-12-13T19:36:41Z",
+    "aiHeadline": "Elon Musk's Latest Revelation: He Wanted OpenAI to be a For-Profit Venture, Because Who Needs Transparency and Accountability When You Can Have Cold, Hard Cash and a Private Jet to Match Your Private Personality"
   },
   {
-    "title": "Microsoft Recall still storing credit card, social security numbers",
-    "url": "https://www.tomshardware.com/software/windows/microsoft-recall-screenshots-credit-cards-and-social-security-numbers-even-with-the-sensitive-information-filter-enabled",
-    "points": 200,
-    "num_comments": 100,
+    "title": "macOS 15.2 breaks the ability to copy the OS to another drive",
+    "url": "https://www.shirtpocket.com/blog/index.php/shadedgrey/youre_a_mean_one/",
+    "points": 287,
+    "num_comments": 167,
     "tags": [
       "story",
-      "author_geekinchief",
-      "story_42400935"
+      "author_zdw",
+      "story_42413757",
+      "front_page"
     ],
-    "author": "geekinchief",
-    "created_at": "2024-12-12T17:01:16Z",
-    "aiHeadline": "Microsoft Recall is still storing credit card and social security numbers, because who needs data security when you can have the thrill of possibly having your identity stolen, and let's be real, it's not like you're going to notice anything until you're trying to buy a house and suddenly your credit score is in the toilet, at which point you'll be like 'oh wait, I think I know why this is happening...'"
+    "author": "zdw",
+    "created_at": "2024-12-14T01:04:24Z",
+    "aiHeadline": "macOS 15.2 Update: Because Who Needs to Copy Their OS to Another Drive Anyway, It's Not Like You Have Better Things to Do, Like Actually Using Your Computer for Productive Things Instead of Just Staring at the Screen in Frustration"
+  },
+  {
+    "title": "MarkItDown: Python tool for converting files and office documents to Markdown",
+    "url": "https://github.com/microsoft/markitdown",
+    "points": 259,
+    "num_comments": 64,
+    "tags": [
+      "story",
+      "author_Handy-Man",
+      "story_42410803"
+    ],
+    "author": "Handy-Man",
+    "created_at": "2024-12-13T18:02:03Z",
+    "aiHeadline": "Introducing MarkItDown: The Python Tool That's About to Change the Game for Converting Files and Office Documents to Markdown, or at the Very Least Make Your Life Slightly Easier, Which is More Than We Can Say for Most Software Updates These Days"
   }
 ]
