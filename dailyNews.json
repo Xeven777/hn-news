@@ -1,75 +1,77 @@
 [
   {
-    "title": "OpenAI whistleblower found dead in San Francisco apartment",
-    "url": "https://www.mercurynews.com/2024/12/13/openai-whistleblower-found-dead-in-san-francisco-apartment/",
-    "points": 575,
-    "num_comments": 210,
+    "title": "Byte Latent Transformer: Patches Scale Better Than Tokens",
+    "url": "https://ai.meta.com/research/publications/byte-latent-transformer-patches-scale-better-than-tokens/?_fb_noscript=1",
+    "points": 282,
+    "num_comments": 71,
     "tags": [
       "story",
-      "author_mmorearty",
-      "story_42412718",
+      "author_zxexz",
+      "story_42415122",
       "front_page"
     ],
-    "author": "mmorearty",
-    "created_at": "2024-12-13T21:56:29Z",
-    "aiHeadline": "Breaking News: OpenAI Whistleblower Found Dead in San Francisco Apartment, Because Clearly Someone Wanted to Keep a Secret Secret, and Now We're Left Wondering What Other Juicy Secrets Are Being Hidden Behind the Scenes of the AI World"
+    "author": "zxexz",
+    "created_at": "2024-12-14T06:36:35Z",
+    "aiHeadline": "Breakthrough Alert: Byte Latent Transformer Proves Patches Are the New Tokens, Because Who Needs Tokens Anyway, Right? It's Time to Rethink Everything We Thought We Knew About AI and Start Patching Our Way to Success, or at Least That's What the Researchers at Meta Are Claiming"
   },
   {
-    "title": "Test",
-    "url": "https://www.defense.gov/News/News-Stories/Article/Article/4000004/test/",
-    "points": 503,
-    "num_comments": 120,
+    "title": "What Is Entropy? A Measure of Just How Little We Know",
+    "url": "https://www.quantamagazine.org/what-is-entropy-a-measure-of-just-how-little-we-really-know-20241213/",
+    "points": 234,
+    "num_comments": 95,
     "tags": [
       "story",
-      "author_ajdude",
-      "story_42408202",
+      "author_nsoonhui",
+      "story_42415386",
       "front_page"
     ],
-    "author": "ajdude",
-    "created_at": "2024-12-13T13:23:54Z",
-    "aiHeadline": "In a Shocking Turn of Events, a Mysterious 'Test' Article Appeared on the Defense Department's Website, Leaving Everyone Scratching Their Heads and Wondering if it's a Clever Ploy to Distract Us from the Real News or Just a Glitch in the Matrix"
+    "author": "nsoonhui",
+    "created_at": "2024-12-14T07:49:10Z",
+    "aiHeadline": "Entropy: The Ultimate Measure of Our Collective Ignorance, or How Little We Actually Know About the World, and Isn't It Refreshing to Admit That We're All Just Making It Up as We Go Along, Thanks to This Enlightening Article from Quantamagazine That's Left Us All Feeling Enlightened and Confused at the Same Time"
   },
   {
-    "title": "Elon Musk wanted an OpenAI for-profit",
-    "url": "https://openai.com/index/elon-musk-wanted-an-openai-for-profit/",
-    "points": 483,
-    "num_comments": 492,
+    "title": "I made a free Figma library packed with components for fast prototyping",
+    "url": "https://veryfront.com/figma-kit",
+    "points": 194,
+    "num_comments": 53,
     "tags": [
       "story",
-      "author_arvindh-manian",
-      "story_42411608"
-    ],
-    "author": "arvindh-manian",
-    "created_at": "2024-12-13T19:36:41Z",
-    "aiHeadline": "Elon Musk's Latest Revelation: He Wanted OpenAI to be a For-Profit Venture, Because Who Needs Transparency and Accountability When You Can Have Cold, Hard Cash and a Private Jet to Match Your Private Personality"
-  },
-  {
-    "title": "macOS 15.2 breaks the ability to copy the OS to another drive",
-    "url": "https://www.shirtpocket.com/blog/index.php/shadedgrey/youre_a_mean_one/",
-    "points": 287,
-    "num_comments": 167,
-    "tags": [
-      "story",
-      "author_zdw",
-      "story_42413757",
+      "author_kojiwakayama",
+      "story_42415637",
       "front_page"
     ],
-    "author": "zdw",
-    "created_at": "2024-12-14T01:04:24Z",
-    "aiHeadline": "macOS 15.2 Update: Because Who Needs to Copy Their OS to Another Drive Anyway, It's Not Like You Have Better Things to Do, Like Actually Using Your Computer for Productive Things Instead of Just Staring at the Screen in Frustration"
+    "author": "kojiwakayama",
+    "created_at": "2024-12-14T08:54:03Z",
+    "aiHeadline": "Free Figma Library Alert: Because Who Doesn't Love Free Stuff, Especially When It Comes to Prototyping, and This Generous Developer Has Given Us All a Gift, a Shiny New Figma Kit Packed with Components to Make Our Lives Easier, or at Least Our Prototyping Lives, Thanks to the Kindness of Strangers and the Magic of Open-Source"
   },
   {
-    "title": "MarkItDown: Python tool for converting files and office documents to Markdown",
-    "url": "https://github.com/microsoft/markitdown",
-    "points": 259,
-    "num_comments": 64,
+    "title": "Humans are unreliable models of mouse disease",
+    "url": "https://www.cell.com/cell/abstract/S0092-8674(24)00897-3",
+    "points": 181,
+    "num_comments": 76,
     "tags": [
       "story",
-      "author_Handy-Man",
-      "story_42410803"
+      "author_XzetaU8",
+      "story_42418272",
+      "front_page"
     ],
-    "author": "Handy-Man",
-    "created_at": "2024-12-13T18:02:03Z",
-    "aiHeadline": "Introducing MarkItDown: The Python Tool That's About to Change the Game for Converting Files and Office Documents to Markdown, or at the Very Least Make Your Life Slightly Easier, Which is More Than We Can Say for Most Software Updates These Days"
+    "author": "XzetaU8",
+    "created_at": "2024-12-14T17:23:13Z",
+    "aiHeadline": "Science News: Humans Are Officially Terrible at Modeling Mouse Diseases, Who Knew, and It Turns Out We're Not as Good at This Whole 'Science' Thing as We Thought, ButHey, at Least We're Good at Making Fun of Ourselves and Our Lack of Understanding, Thanks to This Groundbreaking Study That's Left Us All Laughing and Cryingsimultaneously"
+  },
+  {
+    "title": "They See Your Photos",
+    "url": "https://theyseeyourphotos.com/",
+    "points": 179,
+    "num_comments": 106,
+    "tags": [
+      "story",
+      "author_vladyslavfox",
+      "story_42419469",
+      "front_page"
+    ],
+    "author": "vladyslavfox",
+    "created_at": "2024-12-14T21:09:51Z",
+    "aiHeadline": "They See Your Photos, and Honestly, It's a Little Creepy, But Also Kind of Fascinating in a Voyeuristic Sort of Way, Like Watching a Train Wreck That You Can't Look Away from, and This Website Is Exposing the Harsh Reality of Photo Privacy, or Lack Thereof, and We're All Just Along for the Ride, Whether We Like It or Not"
   }
 ]
