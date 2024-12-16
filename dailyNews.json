@@ -1,77 +1,75 @@
 [
   {
-    "title": "Byte Latent Transformer: Patches Scale Better Than Tokens",
-    "url": "https://ai.meta.com/research/publications/byte-latent-transformer-patches-scale-better-than-tokens/?_fb_noscript=1",
-    "points": 282,
-    "num_comments": 71,
+    "title": "A visual proof that a^2 – b^2 = (a + b)(a – b)",
+    "url": "https://www.futilitycloset.com/2024/12/15/tidy-2/",
+    "points": 431,
+    "num_comments": 155,
     "tags": [
       "story",
-      "author_zxexz",
-      "story_42415122",
+      "author_beardyw",
+      "story_42423409",
       "front_page"
     ],
-    "author": "zxexz",
-    "created_at": "2024-12-14T06:36:35Z",
-    "aiHeadline": "Breakthrough Alert: Byte Latent Transformer Proves Patches Are the New Tokens, Because Who Needs Tokens Anyway, Right? It's Time to Rethink Everything We Thought We Knew About AI and Start Patching Our Way to Success, or at Least That's What the Researchers at Meta Are Claiming"
+    "author": "beardyw",
+    "created_at": "2024-12-15T14:01:37Z",
+    "aiHeadline": "Math Just Got a Whole Lot Cooler: A Visual Proof that a^2 - b^2 = (a + b)(a - b) Has Been Revealed, Because Who Needs Algebra When You Have Pretty Pictures, Right?"
   },
   {
-    "title": "What Is Entropy? A Measure of Just How Little We Know",
-    "url": "https://www.quantamagazine.org/what-is-entropy-a-measure-of-just-how-little-we-really-know-20241213/",
+    "title": "Crystal Ball Trading Game",
+    "url": "https://elmwealth.com/crystal-ball/",
     "points": 234,
-    "num_comments": 95,
+    "num_comments": 143,
     "tags": [
       "story",
-      "author_nsoonhui",
-      "story_42415386",
+      "author_EvgeniyZh",
+      "story_42422077",
       "front_page"
     ],
-    "author": "nsoonhui",
-    "created_at": "2024-12-14T07:49:10Z",
-    "aiHeadline": "Entropy: The Ultimate Measure of Our Collective Ignorance, or How Little We Actually Know About the World, and Isn't It Refreshing to Admit That We're All Just Making It Up as We Go Along, Thanks to This Enlightening Article from Quantamagazine That's Left Us All Feeling Enlightened and Confused at the Same Time"
+    "author": "EvgeniyZh",
+    "created_at": "2024-12-15T07:22:37Z",
+    "aiHeadline": "Get Ready to Make Your Fortune with the Crystal Ball Trading Game, Where You Can Pretend to Be a Stock Market Guru Without Actually Losing Any Money, Unless You're Really Bad at This, In Which Case, Well, You Might Want to Stick to Your Day Job"
   },
   {
-    "title": "I made a free Figma library packed with components for fast prototyping",
-    "url": "https://veryfront.com/figma-kit",
-    "points": 194,
-    "num_comments": 53,
+    "title": "Palm's CEO emails Steve Jobs (2007)",
+    "url": "https://twitter.com/TechEmails/status/1868368310024462791",
+    "points": 221,
+    "num_comments": 146,
     "tags": [
       "story",
-      "author_kojiwakayama",
-      "story_42415637",
-      "front_page"
+      "author_mfiguiere",
+      "story_42425348"
     ],
-    "author": "kojiwakayama",
-    "created_at": "2024-12-14T08:54:03Z",
-    "aiHeadline": "Free Figma Library Alert: Because Who Doesn't Love Free Stuff, Especially When It Comes to Prototyping, and This Generous Developer Has Given Us All a Gift, a Shiny New Figma Kit Packed with Components to Make Our Lives Easier, or at Least Our Prototyping Lives, Thanks to the Kindness of Strangers and the Magic of Open-Source"
+    "author": "mfiguiere",
+    "created_at": "2024-12-15T19:21:36Z",
+    "aiHeadline": "Blast from the Past: Palm's CEO Emails Steve Jobs from 2007, Proving That Even Back Then, Tech Execs Were Trying to One-Up Each Other, Although Nowadays We Just Use Twitter to Throw Shade, How Times Have Changed"
   },
   {
-    "title": "Humans are unreliable models of mouse disease",
-    "url": "https://www.cell.com/cell/abstract/S0092-8674(24)00897-3",
-    "points": 181,
-    "num_comments": 76,
+    "title": "Tenstorrent and the State of AI Hardware Startups",
+    "url": "https://irrationalanalysis.substack.com/p/tenstorrent-and-the-state-of-ai-hardware",
+    "points": 213,
+    "num_comments": 98,
     "tags": [
       "story",
-      "author_XzetaU8",
-      "story_42418272",
-      "front_page"
+      "author_zdw",
+      "story_42421157"
     ],
-    "author": "XzetaU8",
-    "created_at": "2024-12-14T17:23:13Z",
-    "aiHeadline": "Science News: Humans Are Officially Terrible at Modeling Mouse Diseases, Who Knew, and It Turns Out We're Not as Good at This Whole 'Science' Thing as We Thought, ButHey, at Least We're Good at Making Fun of Ourselves and Our Lack of Understanding, Thanks to This Groundbreaking Study That's Left Us All Laughing and Cryingsimultaneously"
+    "author": "zdw",
+    "created_at": "2024-12-15T02:59:58Z",
+    "aiHeadline": "The AI Hardware Startup Scene Just Got a Whole Lot More Interesting with Tenstorrent on the Rise, But Don't Worry, We Won't Make You Do Any Actual Math to Understand It, Unless You Want to, In Which Case, Good Luck with That"
   },
   {
-    "title": "They See Your Photos",
-    "url": "https://theyseeyourphotos.com/",
-    "points": 179,
-    "num_comments": 106,
+    "title": "Map of GitHub",
+    "url": "https://github.com/anvaka/map-of-github",
+    "points": 199,
+    "num_comments": 29,
     "tags": [
       "story",
-      "author_vladyslavfox",
-      "story_42419469",
+      "author_vortex_ape",
+      "story_42426284",
       "front_page"
     ],
-    "author": "vladyslavfox",
-    "created_at": "2024-12-14T21:09:51Z",
-    "aiHeadline": "They See Your Photos, and Honestly, It's a Little Creepy, But Also Kind of Fascinating in a Voyeuristic Sort of Way, Like Watching a Train Wreck That You Can't Look Away from, and This Website Is Exposing the Harsh Reality of Photo Privacy, or Lack Thereof, and We're All Just Along for the Ride, Whether We Like It or Not"
+    "author": "vortex_ape",
+    "created_at": "2024-12-15T22:02:33Z",
+    "aiHeadline": "Ever Wondered What the Inside of GitHub Looks Like? Well, Now You Can Explore the Map of GitHub, Because Who Needs a Social Life When You Can Spend Hours Navigating the Vast Expanse of Open-Source Code, Am I Right?"
   }
 ]
