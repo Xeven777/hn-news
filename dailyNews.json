@@ -1,75 +1,76 @@
 [
   {
-    "title": "A visual proof that a^2 – b^2 = (a + b)(a – b)",
-    "url": "https://www.futilitycloset.com/2024/12/15/tidy-2/",
-    "points": 431,
+    "title": "OpenERV",
+    "url": "https://www.openerv.ca",
+    "points": 757,
+    "num_comments": 244,
+    "tags": [
+      "story",
+      "author_graboy",
+      "story_42427888"
+    ],
+    "author": "graboy",
+    "created_at": "2024-12-16T03:55:10Z",
+    "aiHeadline": "Breaking News: OpenERV is Here, Because You Clearly Didn't Have Enough Tabs Open Already, and Now You Can Open Even More with This Exciting New Tool That's Got Everyone Talking!"
+  },
+  {
+    "title": "Why is it so hard to buy things that work well? (2022)",
+    "url": "https://danluu.com/nothing-works/",
+    "points": 487,
+    "num_comments": 416,
+    "tags": [
+      "story",
+      "author_janandonly",
+      "story_42430450",
+      "front_page"
+    ],
+    "author": "janandonly",
+    "created_at": "2024-12-16T12:38:11Z",
+    "aiHeadline": "The Agony and the Ecstasy of Buying Things That Actually Work: A Tale of Woe and Despair, as Explored in the Viral 2022 Article 'Why is it so hard to buy things that work well?' Which Apparently Still Rings True Today"
+  },
+  {
+    "title": "Xiaomi Home Integration for Home Assistant",
+    "url": "https://github.com/XiaoMi/ha_xiaomi_home",
+    "points": 413,
+    "num_comments": 211,
+    "tags": [
+      "story",
+      "author_coherence73",
+      "story_42432151",
+      "front_page"
+    ],
+    "author": "coherence73",
+    "created_at": "2024-12-16T15:52:47Z",
+    "aiHeadline": "Xiaomi Home Integration for Home Assistant is Here, Because Controlling Your Smart Home Devices with a Million Different Apps Was Getting Old, and Now You Can Do It All in One Place, Huzzah!"
+  },
+  {
+    "title": "Lfgss shutting down 16th March 2025 (day before Online Safety Act is enforced)",
+    "url": "https://www.lfgss.com/conversations/401475/",
+    "points": 389,
+    "num_comments": 244,
+    "tags": [
+      "story",
+      "author_buro9",
+      "story_42433044",
+      "front_page"
+    ],
+    "author": "buro9",
+    "created_at": "2024-12-16T17:18:08Z",
+    "aiHeadline": "RIP Lfgss: The Beloved Platform is Shutting Down on March 16th, 2025, Just One Day Before the Online Safety Act Comes into Effect, Leaving Us All to Wonder if It's a Coincidence or a Cleverly Timed Exit Strategy"
+  },
+  {
+    "title": "Veo 2: Our video generation model",
+    "url": "https://deepmind.google/technologies/veo/veo-2/",
+    "points": 325,
     "num_comments": 155,
     "tags": [
       "story",
-      "author_beardyw",
-      "story_42423409",
+      "author_mvoodarla",
+      "story_42432914",
       "front_page"
     ],
-    "author": "beardyw",
-    "created_at": "2024-12-15T14:01:37Z",
-    "aiHeadline": "Math Just Got a Whole Lot Cooler: A Visual Proof that a^2 - b^2 = (a + b)(a - b) Has Been Revealed, Because Who Needs Algebra When You Have Pretty Pictures, Right?"
-  },
-  {
-    "title": "Crystal Ball Trading Game",
-    "url": "https://elmwealth.com/crystal-ball/",
-    "points": 234,
-    "num_comments": 143,
-    "tags": [
-      "story",
-      "author_EvgeniyZh",
-      "story_42422077",
-      "front_page"
-    ],
-    "author": "EvgeniyZh",
-    "created_at": "2024-12-15T07:22:37Z",
-    "aiHeadline": "Get Ready to Make Your Fortune with the Crystal Ball Trading Game, Where You Can Pretend to Be a Stock Market Guru Without Actually Losing Any Money, Unless You're Really Bad at This, In Which Case, Well, You Might Want to Stick to Your Day Job"
-  },
-  {
-    "title": "Palm's CEO emails Steve Jobs (2007)",
-    "url": "https://twitter.com/TechEmails/status/1868368310024462791",
-    "points": 221,
-    "num_comments": 146,
-    "tags": [
-      "story",
-      "author_mfiguiere",
-      "story_42425348"
-    ],
-    "author": "mfiguiere",
-    "created_at": "2024-12-15T19:21:36Z",
-    "aiHeadline": "Blast from the Past: Palm's CEO Emails Steve Jobs from 2007, Proving That Even Back Then, Tech Execs Were Trying to One-Up Each Other, Although Nowadays We Just Use Twitter to Throw Shade, How Times Have Changed"
-  },
-  {
-    "title": "Tenstorrent and the State of AI Hardware Startups",
-    "url": "https://irrationalanalysis.substack.com/p/tenstorrent-and-the-state-of-ai-hardware",
-    "points": 213,
-    "num_comments": 98,
-    "tags": [
-      "story",
-      "author_zdw",
-      "story_42421157"
-    ],
-    "author": "zdw",
-    "created_at": "2024-12-15T02:59:58Z",
-    "aiHeadline": "The AI Hardware Startup Scene Just Got a Whole Lot More Interesting with Tenstorrent on the Rise, But Don't Worry, We Won't Make You Do Any Actual Math to Understand It, Unless You Want to, In Which Case, Good Luck with That"
-  },
-  {
-    "title": "Map of GitHub",
-    "url": "https://github.com/anvaka/map-of-github",
-    "points": 199,
-    "num_comments": 29,
-    "tags": [
-      "story",
-      "author_vortex_ape",
-      "story_42426284",
-      "front_page"
-    ],
-    "author": "vortex_ape",
-    "created_at": "2024-12-15T22:02:33Z",
-    "aiHeadline": "Ever Wondered What the Inside of GitHub Looks Like? Well, Now You Can Explore the Map of GitHub, Because Who Needs a Social Life When You Can Spend Hours Navigating the Vast Expanse of Open-Source Code, Am I Right?"
+    "author": "mvoodarla",
+    "created_at": "2024-12-16T17:04:14Z",
+    "aiHeadline": "Google Unveils Veo 2: A Video Generation Model That's Either Going to Change the World or Destroy It, Depending on How You Feel About AI-Generated Videos Taking Over the Internet, Either Way It's Going to Be a Wild Ride"
   }
 ]
