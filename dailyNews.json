@@ -1,76 +1,75 @@
 [
   {
-    "title": "OpenERV",
-    "url": "https://www.openerv.ca",
-    "points": 757,
-    "num_comments": 244,
+    "title": "Moon",
+    "url": "https://ciechanow.ski/moon/",
+    "points": 2635,
+    "num_comments": 228,
     "tags": [
       "story",
-      "author_graboy",
-      "story_42427888"
-    ],
-    "author": "graboy",
-    "created_at": "2024-12-16T03:55:10Z",
-    "aiHeadline": "Breaking News: OpenERV is Here, Because You Clearly Didn't Have Enough Tabs Open Already, and Now You Can Open Even More with This Exciting New Tool That's Got Everyone Talking!"
-  },
-  {
-    "title": "Why is it so hard to buy things that work well? (2022)",
-    "url": "https://danluu.com/nothing-works/",
-    "points": 487,
-    "num_comments": 416,
-    "tags": [
-      "story",
-      "author_janandonly",
-      "story_42430450",
+      "author_todsacerdoti",
+      "story_42443229",
       "front_page"
     ],
-    "author": "janandonly",
-    "created_at": "2024-12-16T12:38:11Z",
-    "aiHeadline": "The Agony and the Ecstasy of Buying Things That Actually Work: A Tale of Woe and Despair, as Explored in the Viral 2022 Article 'Why is it so hard to buy things that work well?' Which Apparently Still Rings True Today"
+    "author": "todsacerdoti",
+    "created_at": "2024-12-17T17:26:26Z",
+    "aiHeadline": "Breaking News: Someone Finally Made a Website About the Moon, Because the World Was Clearly Missing That, and It's a Real Game-Changer, Said No One Ever, But Hey, It's Got a Nice Ring to It, So Check It Out, Maybe, If You're Bored or Something"
   },
   {
-    "title": "Xiaomi Home Integration for Home Assistant",
-    "url": "https://github.com/XiaoMi/ha_xiaomi_home",
-    "points": 413,
-    "num_comments": 211,
+    "title": "FTC bans hidden junk fees in hotel, event ticket prices",
+    "url": "https://www.cnbc.com/2024/12/17/ftc-bans-hidden-junk-fees-in-hotel-event-ticket-prices-.html",
+    "points": 441,
+    "num_comments": 442,
     "tags": [
       "story",
-      "author_coherence73",
-      "story_42432151",
-      "front_page"
+      "author_LordAtlas",
+      "story_42445037"
     ],
-    "author": "coherence73",
-    "created_at": "2024-12-16T15:52:47Z",
-    "aiHeadline": "Xiaomi Home Integration for Home Assistant is Here, Because Controlling Your Smart Home Devices with a Million Different Apps Was Getting Old, and Now You Can Do It All in One Place, Huzzah!"
+    "author": "LordAtlas",
+    "created_at": "2024-12-17T20:36:07Z",
+    "aiHeadline": "FTC Cracks Down on Hidden Junk Fees, Because Who Doesn't Love a Good Surprise Charge, Said No One, Ever, So Now You'll Actually Know How Much You're Paying for That Hotel Room or Concert Ticket, What a Novel Concept, and About Time, If You Ask Me"
   },
   {
-    "title": "Lfgss shutting down 16th March 2025 (day before Online Safety Act is enforced)",
-    "url": "https://www.lfgss.com/conversations/401475/",
-    "points": 389,
-    "num_comments": 244,
+    "title": "Ergo Chat – A modern IRC server written in Go",
+    "url": "https://github.com/ergochat/ergo",
+    "points": 226,
+    "num_comments": 102,
     "tags": [
       "story",
-      "author_buro9",
-      "story_42433044",
+      "author_OuterVale",
+      "story_42447071",
       "front_page"
     ],
-    "author": "buro9",
-    "created_at": "2024-12-16T17:18:08Z",
-    "aiHeadline": "RIP Lfgss: The Beloved Platform is Shutting Down on March 16th, 2025, Just One Day Before the Online Safety Act Comes into Effect, Leaving Us All to Wonder if It's a Coincidence or a Cleverly Timed Exit Strategy"
+    "author": "OuterVale",
+    "created_at": "2024-12-18T00:46:19Z",
+    "aiHeadline": "Get Ready for the Most Epic Chat Battles with Ergo Chat, the Modern IRC Server Written in Go, Because Who Needs Sleep When You Can Spend Hours Arguing with Strangers on the Internet, and Now You Can Do It with Style and Efficiency, Thanks to This Fancy New Server"
   },
   {
-    "title": "Veo 2: Our video generation model",
-    "url": "https://deepmind.google/technologies/veo/veo-2/",
-    "points": 325,
-    "num_comments": 155,
+    "title": "The XOR Texture (2004)",
+    "url": "https://lodev.org/cgtutor/xortexture.html",
+    "points": 186,
+    "num_comments": 42,
     "tags": [
       "story",
-      "author_mvoodarla",
-      "story_42432914",
+      "author_doener",
+      "story_42447053",
       "front_page"
     ],
-    "author": "mvoodarla",
-    "created_at": "2024-12-16T17:04:14Z",
-    "aiHeadline": "Google Unveils Veo 2: A Video Generation Model That's Either Going to Change the World or Destroy It, Depending on How You Feel About AI-Generated Videos Taking Over the Internet, Either Way It's Going to Be a Wild Ride"
+    "author": "doener",
+    "created_at": "2024-12-18T00:43:24Z",
+    "aiHeadline": "Blast from the Past: The 2004 XOR Texture is Back, and It's Still as Thrilling as It Was Two Decades Ago, Said No Graphics Designer Ever, But Hey, If You're Feeling Nostalgic or Just Want to See How Far We've Come, Check It Out, and Try Not to Fall Asleep"
+  },
+  {
+    "title": "Includeable minimal operating system for C++",
+    "url": "https://www.includeos.org/",
+    "points": 168,
+    "num_comments": 45,
+    "tags": [
+      "story",
+      "author_we-do-not-sow",
+      "story_42445508"
+    ],
+    "author": "we-do-not-sow",
+    "created_at": "2024-12-17T21:29:52Z",
+    "aiHeadline": "The Ultimate Solution for All Your C++ Needs: An Includeable Minimal Operating System, Because What Every Programmer Really Needs Is Another Operating System to Keep Track Of, But Hey, At Least This One Is Minimal, So It's Not Like It'll Take Up Too Much Space or Anything"
   }
 ]
