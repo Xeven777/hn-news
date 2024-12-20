@@ -1,76 +1,75 @@
 [
   {
-    "title": "GitHub Copilot is now available for free",
-    "url": "https://github.com/features/copilot",
-    "points": 418,
-    "num_comments": 232,
+    "title": "Amazon workers to strike at multiple US warehouses during busy holiday season",
+    "url": "https://www.reuters.com/technology/amazon-workers-strike-multiple-us-warehouses-during-busy-holiday-season-2024-12-19/",
+    "points": 359,
+    "num_comments": 454,
     "tags": [
       "story",
-      "author_ksec",
-      "story_42453341",
-      "front_page"
+      "author_petethomas",
+      "story_42458431"
     ],
-    "author": "ksec",
-    "created_at": "2024-12-18T18:29:55Z",
-    "aiHeadline": "Breaking News: GitHub Copilot is Now Free, Because Who Needs Human Programmers Anymore, and You Can Finally Automate All the Coding Tasks You've Been Procrastinating On for Years, Rejoice!"
+    "author": "petethomas",
+    "created_at": "2024-12-19T04:27:28Z",
+    "aiHeadline": "Amazon Workers Are About to Ruin Your Holiday Shopping by Going on Strike at Multiple US Warehouses, Because Who Needs Gifts Anyway, Right? The strike is set to happen during the busy holiday season, because what's a better time to strike than when everyone's trying to buy all the things?"
   },
   {
-    "title": "1-800-ChatGPT",
-    "url": "https://help.openai.com/en/articles/10193193-1-800-chatgpt-calling-and-messaging-chatgpt-with-your-phone",
-    "points": 299,
-    "num_comments": 274,
+    "title": "Nullboard: Kanban board in a single HTML file",
+    "url": "https://github.com/apankrat/nullboard",
+    "points": 293,
+    "num_comments": 103,
     "tags": [
       "story",
-      "author_yzydserd",
-      "story_42453660"
-    ],
-    "author": "yzydserd",
-    "created_at": "2024-12-18T19:03:13Z",
-    "aiHeadline": "1-800-ChatGPT: Because Talking to a Robot on the Phone is the Future of Human Interaction, and You'll Never Have to Deal with Another Awkward Conversation with a Real Person Again, Thanks OpenAI!"
-  },
-  {
-    "title": "Silver amulet is the oldest evidence of Christianity north of the Alps",
-    "url": "https://archaeologymag.com/2024/12/oldest-evidence-of-christianity-north-of-the-alps/",
-    "points": 246,
-    "num_comments": 239,
-    "tags": [
-      "story",
-      "author_secretmark",
-      "story_42448939",
+      "author_smusamashah",
+      "story_42461688",
       "front_page"
     ],
-    "author": "secretmark",
-    "created_at": "2024-12-18T08:31:12Z",
-    "aiHeadline": "Archaeologists Stunned to Discover Ancient Silver Amulet, the Oldest Evidence of Christianity North of the Alps, Which is Pretty Cool, But Let's be Real, It's No Holy Grail, and We're Still Waiting for Someone to Find the Lost City of Atlantis or Something"
+    "author": "smusamashah",
+    "created_at": "2024-12-19T14:29:18Z",
+    "aiHeadline": "Introducing Nullboard: The Kanban Board That's So Simple, It's Basically a Single HTML File, Because Who Needs Frills When You Can Have Functionality? This minimalist approach to project management is either genius or a recipe for disaster, we're not quite sure yet."
   },
   {
-    "title": "The unbearable slowness of being: Why do we live at 10 bits/s?",
-    "url": "https://www.cell.com/neuron/abstract/S0896-6273(24)00808-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627324008080%3Fshowall%3Dtrue",
-    "points": 241,
-    "num_comments": 271,
+    "title": "Alignment faking in large language models",
+    "url": "https://www.anthropic.com/research/alignment-faking",
+    "points": 258,
+    "num_comments": 293,
     "tags": [
       "story",
-      "author_sebg",
-      "story_42449602",
+      "author_adultorata",
+      "story_42458752",
       "front_page"
     ],
-    "author": "sebg",
-    "created_at": "2024-12-18T11:14:09Z",
-    "aiHeadline": "Scientists Baffled by the Unbearable Slowness of Human Existence, Wondering Why We're Stuck at a Pace of 10 Bits Per Second, Which is Basically Like Watching Paint Dry, and They're Trying to Figure Out How to Speed Us Up, Hopefully to Something More Exciting, Like 4K Resolution or Something"
+    "author": "adultorata",
+    "created_at": "2024-12-19T05:43:29Z",
+    "aiHeadline": " researchers Discover Alignment Faking in Large Language Models, Which Basically Means These AI Models Are Really Good at Pretending to Understand You, But Not Actually Understanding You at All, It's Like They're Just Nodding Along and Smiling While You Talk, But Secretly Have No Idea What You're Saying, Sound Familiar?"
   },
   {
-    "title": "Updates to H-1B",
-    "url": "https://www.uscis.gov/newsroom/news-releases/dhs-strengthens-h-1b-program-allowing-us-employers-to-more-quickly-fill-critical-jobs",
-    "points": 236,
-    "num_comments": 650,
+    "title": "A Replacement for BERT",
+    "url": "https://huggingface.co/blog/modernbert",
+    "points": 252,
+    "num_comments": 54,
     "tags": [
       "story",
-      "author_sul_tasto",
-      "story_42450413",
+      "author_cubie",
+      "story_42463315",
       "front_page"
     ],
-    "author": "sul_tasto",
-    "created_at": "2024-12-18T13:54:05Z",
-    "aiHeadline": "US Government Updates H-1B Visa Rules, Allowing Employers to Fill Critical Jobs Faster, Which is Great News for Tech Companies, But Let's Not Forget the Human Cost of Importing More Highly Skilled Workers, and the Potential for Increased Coffee Consumption in the Office, Because, You Know, More Coders Means More Coffee"
+    "author": "cubie",
+    "created_at": "2024-12-19T16:53:58Z",
+    "aiHeadline": "Finally, a Replacement for BERT: The AI Model That Was Supposed to Change the World, But Really Just Made Everyone's Job More Confusing, The New Modern BERT is Here to Save the Day, or at Least Make Things Slightly Less Confusing, But Let's Be Real, It's Probably Just Going to Create a Whole New Set of Problems"
+  },
+  {
+    "title": "Firenvim – Turn the browser into a Neovim client",
+    "url": "https://github.com/glacambre/firenvim",
+    "points": 161,
+    "num_comments": 32,
+    "tags": [
+      "story",
+      "author_OuterVale",
+      "story_42457816"
+    ],
+    "author": "OuterVale",
+    "created_at": "2024-12-19T02:34:11Z",
+    "aiHeadline": "Firenvim: Because What Your Browser Was Really Missing Was a Neovim Client, Said No One Ever, But Apparently Someone Out There Thought This Was a Good Idea, So Now You Can Turn Your Browser Into a Neovim Client and Experience the Joy of Editing Text in a Whole New Way, or Something"
   }
 ]
