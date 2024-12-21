@@ -1,75 +1,76 @@
 [
   {
-    "title": "Amazon workers to strike at multiple US warehouses during busy holiday season",
-    "url": "https://www.reuters.com/technology/amazon-workers-strike-multiple-us-warehouses-during-busy-holiday-season-2024-12-19/",
-    "points": 359,
-    "num_comments": 454,
+    "title": "OpenAI O3 breakthrough high score on ARC-AGI-PUB",
+    "url": "https://arcprize.org/blog/oai-o3-pub-breakthrough",
+    "points": 885,
+    "num_comments": 730,
     "tags": [
       "story",
-      "author_petethomas",
-      "story_42458431"
-    ],
-    "author": "petethomas",
-    "created_at": "2024-12-19T04:27:28Z",
-    "aiHeadline": "Amazon Workers Are About to Ruin Your Holiday Shopping by Going on Strike at Multiple US Warehouses, Because Who Needs Gifts Anyway, Right? The strike is set to happen during the busy holiday season, because what's a better time to strike than when everyone's trying to buy all the things?"
-  },
-  {
-    "title": "Nullboard: Kanban board in a single HTML file",
-    "url": "https://github.com/apankrat/nullboard",
-    "points": 293,
-    "num_comments": 103,
-    "tags": [
-      "story",
-      "author_smusamashah",
-      "story_42461688",
+      "author_maurycy",
+      "story_42473321",
       "front_page"
     ],
-    "author": "smusamashah",
-    "created_at": "2024-12-19T14:29:18Z",
-    "aiHeadline": "Introducing Nullboard: The Kanban Board That's So Simple, It's Basically a Single HTML File, Because Who Needs Frills When You Can Have Functionality? This minimalist approach to project management is either genius or a recipe for disaster, we're not quite sure yet."
+    "author": "maurycy",
+    "created_at": "2024-12-20T18:11:13Z",
+    "aiHeadline": "OpenAI's O3 Has Achieved a Breakthrough High Score on ARC-AGI-PUB, Because Who Needs Human Intelligence When You Have AI, Right? The AI Singularity Is Near, or at Least That's What This Breakthrough Suggests, Time to Start Worshipping Our Robot Overlords?"
   },
   {
-    "title": "Alignment faking in large language models",
-    "url": "https://www.anthropic.com/research/alignment-faking",
-    "points": 258,
-    "num_comments": 293,
-    "tags": [
-      "story",
-      "author_adultorata",
-      "story_42458752",
-      "front_page"
-    ],
-    "author": "adultorata",
-    "created_at": "2024-12-19T05:43:29Z",
-    "aiHeadline": " researchers Discover Alignment Faking in Large Language Models, Which Basically Means These AI Models Are Really Good at Pretending to Understand You, But Not Actually Understanding You at All, It's Like They're Just Nodding Along and Smiling While You Talk, But Secretly Have No Idea What You're Saying, Sound Familiar?"
-  },
-  {
-    "title": "A Replacement for BERT",
-    "url": "https://huggingface.co/blog/modernbert",
-    "points": 252,
-    "num_comments": 54,
-    "tags": [
-      "story",
-      "author_cubie",
-      "story_42463315",
-      "front_page"
-    ],
-    "author": "cubie",
-    "created_at": "2024-12-19T16:53:58Z",
-    "aiHeadline": "Finally, a Replacement for BERT: The AI Model That Was Supposed to Change the World, But Really Just Made Everyone's Job More Confusing, The New Modern BERT is Here to Save the Day, or at Least Make Things Slightly Less Confusing, But Let's Be Real, It's Probably Just Going to Create a Whole New Set of Problems"
-  },
-  {
-    "title": "Firenvim – Turn the browser into a Neovim client",
-    "url": "https://github.com/glacambre/firenvim",
-    "points": 161,
-    "num_comments": 32,
+    "title": "My favourite colour is Chuck Norris red",
+    "url": "https://htmhell.dev/adventcalendar/2024/20/",
+    "points": 500,
+    "num_comments": 98,
     "tags": [
       "story",
       "author_OuterVale",
-      "story_42457816"
+      "story_42468318"
     ],
     "author": "OuterVale",
-    "created_at": "2024-12-19T02:34:11Z",
-    "aiHeadline": "Firenvim: Because What Your Browser Was Really Missing Was a Neovim Client, Said No One Ever, But Apparently Someone Out There Thought This Was a Good Idea, So Now You Can Turn Your Browser Into a Neovim Client and Experience the Joy of Editing Text in a Whole New Way, or Something"
+    "created_at": "2024-12-20T04:35:49Z",
+    "aiHeadline": "In a Shocking Turn of Events, Someone's Favourite Colour Is Apparently 'Chuck Norris Red', Because Who Needs Ordinary Colours When You Can Have a Colour Named After a Roundhouse Kicking, Beard-Sporting, All-Around Awesome Human Being Like Chuck Norris, We wonder what his favourite programming language is?"
+  },
+  {
+    "title": "Tldraw Computer",
+    "url": "https://computer.tldraw.com",
+    "points": 437,
+    "num_comments": 94,
+    "tags": [
+      "story",
+      "author_duck",
+      "story_42469074",
+      "front_page"
+    ],
+    "author": "duck",
+    "created_at": "2024-12-20T07:42:36Z",
+    "aiHeadline": "Tldraw Computer is Here, Because the World Really Needed Another Computer Thingy, This One's Tldraw, Though, So It's Probably Gonna Change the World or Something, or Maybe It'll Just Help You Draw Better, Who Knows, but Hey, at Least the Name Is Catchy?"
+  },
+  {
+    "title": "A Gentle Introduction to Graph Neural Networks",
+    "url": "https://distill.pub/2021/gnn-intro/",
+    "points": 300,
+    "num_comments": 30,
+    "tags": [
+      "story",
+      "author_misonic",
+      "story_42468214",
+      "front_page"
+    ],
+    "author": "misonic",
+    "created_at": "2024-12-20T04:10:42Z",
+    "aiHeadline": "A Gentle Introduction to Graph Neural Networks, Because Who Doesn't Love a Good Neural Network to Go with Their Morning Coffee, This Intro Is Gentle, So Don't Worry, It Won't Overwhelm You with Too Much Complexity, Just Your Run-of-the-Mill, Everyday Graph Neural Network Stuff?"
+  },
+  {
+    "title": "Grayjay Desktop App",
+    "url": "https://grayjay.app/desktop/",
+    "points": 288,
+    "num_comments": 161,
+    "tags": [
+      "story",
+      "author_pierrelf",
+      "story_42473032",
+      "front_page"
+    ],
+    "author": "pierrelf",
+    "created_at": "2024-12-20T17:33:00Z",
+    "aiHeadline": "Grayjay Desktop App Has Arrived, and It's Probably Going to Revolutionize the Way You Do Whatever It Is You Do on Your Desktop, With Its Sleek Design and User-Friendly Interface, You'll Be Grayjay-ing Like a Pro in No Time, or at Least That's What the Creators Hope, We're Just Here for the Free Desktop Real Estate?"
   }
 ]
