@@ -1,76 +1,75 @@
 [
   {
-    "title": "OpenAI O3 breakthrough high score on ARC-AGI-PUB",
-    "url": "https://arcprize.org/blog/oai-o3-pub-breakthrough",
-    "points": 885,
-    "num_comments": 730,
+    "title": "US judge finds NSO Group liable for hacking journalists via WhatsApp",
+    "url": "https://www.reuters.com/technology/cybersecurity/us-judge-finds-israels-nso-group-liable-hacking-whatsapp-lawsuit-2024-12-21/",
+    "points": 462,
+    "num_comments": 142,
     "tags": [
       "story",
-      "author_maurycy",
-      "story_42473321",
+      "author_o999",
+      "story_42476828",
       "front_page"
     ],
-    "author": "maurycy",
-    "created_at": "2024-12-20T18:11:13Z",
-    "aiHeadline": "OpenAI's O3 Has Achieved a Breakthrough High Score on ARC-AGI-PUB, Because Who Needs Human Intelligence When You Have AI, Right? The AI Singularity Is Near, or at Least That's What This Breakthrough Suggests, Time to Start Worshipping Our Robot Overlords?"
+    "author": "o999",
+    "created_at": "2024-12-21T01:38:23Z",
+    "aiHeadline": "US Judge Drops the Hammer on NSO Group, Finds Them Guilty of Hacking Journalists via WhatsApp, Because Who Needs Privacy Anyway, and Now They're in a World of Trouble"
   },
   {
-    "title": "My favourite colour is Chuck Norris red",
-    "url": "https://htmhell.dev/adventcalendar/2024/20/",
-    "points": 500,
-    "num_comments": 98,
+    "title": "Query Apple's FindMy network with Python",
+    "url": "https://github.com/malmeloo/FindMy.py",
+    "points": 307,
+    "num_comments": 137,
     "tags": [
       "story",
-      "author_OuterVale",
-      "story_42468318"
-    ],
-    "author": "OuterVale",
-    "created_at": "2024-12-20T04:35:49Z",
-    "aiHeadline": "In a Shocking Turn of Events, Someone's Favourite Colour Is Apparently 'Chuck Norris Red', Because Who Needs Ordinary Colours When You Can Have a Colour Named After a Roundhouse Kicking, Beard-Sporting, All-Around Awesome Human Being Like Chuck Norris, We wonder what his favourite programming language is?"
-  },
-  {
-    "title": "Tldraw Computer",
-    "url": "https://computer.tldraw.com",
-    "points": 437,
-    "num_comments": 94,
-    "tags": [
-      "story",
-      "author_duck",
-      "story_42469074",
+      "author_nkko",
+      "story_42479233",
       "front_page"
     ],
-    "author": "duck",
-    "created_at": "2024-12-20T07:42:36Z",
-    "aiHeadline": "Tldraw Computer is Here, Because the World Really Needed Another Computer Thingy, This One's Tldraw, Though, So It's Probably Gonna Change the World or Something, or Maybe It'll Just Help You Draw Better, Who Knows, but Hey, at Least the Name Is Catchy?"
+    "author": "nkko",
+    "created_at": "2024-12-21T12:14:55Z",
+    "aiHeadline": "Python Fanatics Rejoice: You Can Now Query Apple's FindMy Network with Python, Because Who Needs Personal Space When You Can Track Your Friends' Every Move with Just a Few Lines of Code"
   },
   {
-    "title": "A Gentle Introduction to Graph Neural Networks",
-    "url": "https://distill.pub/2021/gnn-intro/",
-    "points": 300,
-    "num_comments": 30,
+    "title": "Introducing S2",
+    "url": "https://s2.dev/blog/intro",
+    "points": 230,
+    "num_comments": 119,
     "tags": [
       "story",
-      "author_misonic",
-      "story_42468214",
+      "author_brancz",
+      "story_42480105",
       "front_page"
     ],
-    "author": "misonic",
-    "created_at": "2024-12-20T04:10:42Z",
-    "aiHeadline": "A Gentle Introduction to Graph Neural Networks, Because Who Doesn't Love a Good Neural Network to Go with Their Morning Coffee, This Intro Is Gentle, So Don't Worry, It Won't Overwhelm You with Too Much Complexity, Just Your Run-of-the-Mill, Everyday Graph Neural Network Stuff?"
+    "author": "brancz",
+    "created_at": "2024-12-21T15:11:19Z",
+    "aiHeadline": "Introducing S2, the Latest and Greatest Thing You've Never Heard Of, Which Promises to Revolutionize the World, or at Least Make Your Life Slightly More Interesting, According to the Highly Biased and Totally Not Overhyped Blog Post"
   },
   {
-    "title": "Grayjay Desktop App",
-    "url": "https://grayjay.app/desktop/",
-    "points": 288,
-    "num_comments": 161,
+    "title": "The Ugly Truth About Spotify Is Finally Revealed",
+    "url": "https://www.honest-broker.com/p/the-ugly-truth-about-spotify-is-finally",
+    "points": 183,
+    "num_comments": 236,
     "tags": [
       "story",
-      "author_pierrelf",
-      "story_42473032",
-      "front_page"
+      "author_LordAtlas",
+      "story_42478107"
     ],
-    "author": "pierrelf",
-    "created_at": "2024-12-20T17:33:00Z",
-    "aiHeadline": "Grayjay Desktop App Has Arrived, and It's Probably Going to Revolutionize the Way You Do Whatever It Is You Do on Your Desktop, With Its Sleek Design and User-Friendly Interface, You'll Be Grayjay-ing Like a Pro in No Time, or at Least That's What the Creators Hope, We're Just Here for the Free Desktop Real Estate?"
+    "author": "LordAtlas",
+    "created_at": "2024-12-21T07:45:28Z",
+    "aiHeadline": "The Ugly Truth About Spotify Is Finally Revealed, and It's Not Just That Their Music Recommendations Are Terrible, But Also That They've Been Hiding Some Dirty Secrets, or So Claims This Scathing Exposé That's Totally Not Clickbait"
+  },
+  {
+    "title": "Escaping Google's manual reputation penalty and resuming business as usual",
+    "url": "https://recleudo.com/under-googles-watchfull-eye-getting-out-of-a-manual-site-reputation-abuse-penalty-and-continuing-business-as-usual/",
+    "points": 159,
+    "num_comments": 36,
+    "tags": [
+      "story",
+      "author_fueloil",
+      "story_42479866"
+    ],
+    "author": "fueloil",
+    "created_at": "2024-12-21T14:24:53Z",
+    "aiHeadline": "Escaping Google's Manual Reputation Penalty: A Thrilling Tale of Woe and Redemption, or How to Resume Business as Usual After Getting Slapped on the Wrist by the All-Powerful Google Overlords, with Tips and Tricks from a Seasoned Pro"
   }
 ]
