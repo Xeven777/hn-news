@@ -1,75 +1,76 @@
 [
   {
-    "title": "US judge finds NSO Group liable for hacking journalists via WhatsApp",
-    "url": "https://www.reuters.com/technology/cybersecurity/us-judge-finds-israels-nso-group-liable-hacking-whatsapp-lawsuit-2024-12-21/",
-    "points": 462,
-    "num_comments": 142,
+    "title": "Why we use our own hardware",
+    "url": "https://www.fastmail.com/blog/why-we-use-our-own-hardware/",
+    "points": 757,
+    "num_comments": 417,
     "tags": [
       "story",
-      "author_o999",
-      "story_42476828",
+      "author_nmjenkins",
+      "story_42485124",
       "front_page"
     ],
-    "author": "o999",
-    "created_at": "2024-12-21T01:38:23Z",
-    "aiHeadline": "US Judge Drops the Hammer on NSO Group, Finds Them Guilty of Hacking Journalists via WhatsApp, Because Who Needs Privacy Anyway, and Now They're in a World of Trouble"
+    "author": "nmjenkins",
+    "created_at": "2024-12-22T08:36:31Z",
+    "aiHeadline": "Breaking News: Fastmail Reveals the Shocking Truth Behind Their Use of Custom Hardware, and Honestly, It's About Time Someone Did Something About Those Slow Servers, Because Who Doesn't Love a Good Hardware Upgrade?"
   },
   {
-    "title": "Query Apple's FindMy network with Python",
-    "url": "https://github.com/malmeloo/FindMy.py",
-    "points": 307,
-    "num_comments": 137,
+    "title": "Rosetta 2 creator leaves Apple to work on Lean full-time",
+    "url": "https://www.linkedin.com/posts/leonardo-de-moura-26a27b5_leanlang-leanprover-leanfro-activity-7274523099394400256-0F0x",
+    "points": 363,
+    "num_comments": 118,
     "tags": [
       "story",
-      "author_nkko",
-      "story_42479233",
+      "author_ladberg",
+      "story_42483895"
+    ],
+    "author": "ladberg",
+    "created_at": "2024-12-22T02:01:51Z",
+    "aiHeadline": "In a Stunning Move, Rosetta 2 Creator Jumps Ship from Apple to Pursue Lean Full-Time, Proving That Even the Most Talented Engineers Can't Resist the Lure of a Good Side Hustle, and Who Can Blame Them, Really?"
+  },
+  {
+    "title": "Decoding the telephony signals in Pink Floyd's 'The Wall'",
+    "url": "https://corelatus.com/blog/Decoding_the_telephony_signals_in_Pink_Floyd_s__The_Wall_.html",
+    "points": 258,
+    "num_comments": 87,
+    "tags": [
+      "story",
+      "author_matthiasl",
+      "story_42485795",
       "front_page"
     ],
-    "author": "nkko",
-    "created_at": "2024-12-21T12:14:55Z",
-    "aiHeadline": "Python Fanatics Rejoice: You Can Now Query Apple's FindMy Network with Python, Because Who Needs Personal Space When You Can Track Your Friends' Every Move with Just a Few Lines of Code"
+    "author": "matthiasl",
+    "created_at": "2024-12-22T11:49:12Z",
+    "aiHeadline": "Get Ready for a Blast from the Past as Some Brave Soul Decodes the Telephony Signals in Pink Floyd's 'The Wall', Because What's More Fun Than Uncovering the Secrets Behind a 40-Year-Old Album, and Maybe, Just Maybe, Uncovering Some Hidden Messages from the Universe?"
   },
   {
-    "title": "Introducing S2",
-    "url": "https://s2.dev/blog/intro",
-    "points": 230,
-    "num_comments": 119,
+    "title": "GPT-5 is behind schedule",
+    "url": "https://www.wsj.com/tech/ai/openai-gpt5-orion-delays-639e7693",
+    "points": 196,
+    "num_comments": 337,
     "tags": [
       "story",
-      "author_brancz",
-      "story_42480105",
+      "author_owenthejumper",
+      "story_42485938",
       "front_page"
     ],
-    "author": "brancz",
-    "created_at": "2024-12-21T15:11:19Z",
-    "aiHeadline": "Introducing S2, the Latest and Greatest Thing You've Never Heard Of, Which Promises to Revolutionize the World, or at Least Make Your Life Slightly More Interesting, According to the Highly Biased and Totally Not Overhyped Blog Post"
+    "author": "owenthejumper",
+    "created_at": "2024-12-22T12:29:33Z",
+    "aiHeadline": "The AI Apocalypse Has Been Delayed: GPT-5 is Officially Behind Schedule, and We Can All Breathe a Sigh of Relief, Because Who Needs Artificial Intelligence Taking Over the World When We Have Enough Problems with Humans in Charge, and Now We Have a Little More Time to Prepare for the Inevitable Robot Uprising?"
   },
   {
-    "title": "The Ugly Truth About Spotify Is Finally Revealed",
-    "url": "https://www.honest-broker.com/p/the-ugly-truth-about-spotify-is-finally",
-    "points": 183,
-    "num_comments": 236,
+    "title": "How bloom filters made SQLite 10x faster",
+    "url": "https://avi.im/blag/2024/sqlite-past-present-future/",
+    "points": 194,
+    "num_comments": 21,
     "tags": [
       "story",
-      "author_LordAtlas",
-      "story_42478107"
+      "author_avinassh",
+      "story_42486610",
+      "front_page"
     ],
-    "author": "LordAtlas",
-    "created_at": "2024-12-21T07:45:28Z",
-    "aiHeadline": "The Ugly Truth About Spotify Is Finally Revealed, and It's Not Just That Their Music Recommendations Are Terrible, But Also That They've Been Hiding Some Dirty Secrets, or So Claims This Scathing Exposé That's Totally Not Clickbait"
-  },
-  {
-    "title": "Escaping Google's manual reputation penalty and resuming business as usual",
-    "url": "https://recleudo.com/under-googles-watchfull-eye-getting-out-of-a-manual-site-reputation-abuse-penalty-and-continuing-business-as-usual/",
-    "points": 159,
-    "num_comments": 36,
-    "tags": [
-      "story",
-      "author_fueloil",
-      "story_42479866"
-    ],
-    "author": "fueloil",
-    "created_at": "2024-12-21T14:24:53Z",
-    "aiHeadline": "Escaping Google's Manual Reputation Penalty: A Thrilling Tale of Woe and Redemption, or How to Resume Business as Usual After Getting Slapped on the Wrist by the All-Powerful Google Overlords, with Tips and Tricks from a Seasoned Pro"
+    "author": "avinassh",
+    "created_at": "2024-12-22T14:44:30Z",
+    "aiHeadline": "In a Stunning Turn of Events, Bloom Filters Have Made SQLite 10x Faster, and We're Not Sure What's More Impressive, the Fact That Someone Figured Out How to Make Databases Run Faster or the Fact That They Managed to Make a Blog Post About it Sound Actually Interesting, but Either Way, Our Database-Admin Friends Are Probably Doing the Happy Dance Right Now"
   }
 ]
