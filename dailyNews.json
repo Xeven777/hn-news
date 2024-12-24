@@ -1,76 +1,77 @@
 [
   {
-    "title": "Why we use our own hardware",
-    "url": "https://www.fastmail.com/blog/why-we-use-our-own-hardware/",
-    "points": 757,
-    "num_comments": 417,
+    "title": "Commercial tea bags release microplastics, entering human cells",
+    "url": "https://medicalxpress.com/news/2024-12-commercial-tea-bags-millions-microplastics.html",
+    "points": 345,
+    "num_comments": 272,
     "tags": [
       "story",
-      "author_nmjenkins",
-      "story_42485124",
+      "author_wglb",
+      "story_42494746",
       "front_page"
     ],
-    "author": "nmjenkins",
-    "created_at": "2024-12-22T08:36:31Z",
-    "aiHeadline": "Breaking News: Fastmail Reveals the Shocking Truth Behind Their Use of Custom Hardware, and Honestly, It's About Time Someone Did Something About Those Slow Servers, Because Who Doesn't Love a Good Hardware Upgrade?"
+    "author": "wglb",
+    "created_at": "2024-12-23T14:47:56Z",
+    "aiHeadline": "Breaking News: Your Favorite Cup of Tea is Actually a Toxic Brew of Microplastics, Because Who Needs a Beach Body When You Can Have a Plastic-Filled Body, Right? Scientists Discover That Commercial Tea Bags Are Releasing Millions of Microplastics Into Your System, So Go Ahead and Steep Yourself in Anxiety"
   },
   {
-    "title": "Rosetta 2 creator leaves Apple to work on Lean full-time",
-    "url": "https://www.linkedin.com/posts/leonardo-de-moura-26a27b5_leanlang-leanprover-leanfro-activity-7274523099394400256-0F0x",
-    "points": 363,
-    "num_comments": 118,
+    "title": "The journey to save the last known 43-inch Sony CRT",
+    "url": "https://obsoletesony.substack.com/p/the-journey-to-save-the-last-known",
+    "points": 338,
+    "num_comments": 167,
     "tags": [
       "story",
-      "author_ladberg",
-      "story_42483895"
-    ],
-    "author": "ladberg",
-    "created_at": "2024-12-22T02:01:51Z",
-    "aiHeadline": "In a Stunning Move, Rosetta 2 Creator Jumps Ship from Apple to Pursue Lean Full-Time, Proving That Even the Most Talented Engineers Can't Resist the Lure of a Good Side Hustle, and Who Can Blame Them, Really?"
-  },
-  {
-    "title": "Decoding the telephony signals in Pink Floyd's 'The Wall'",
-    "url": "https://corelatus.com/blog/Decoding_the_telephony_signals_in_Pink_Floyd_s__The_Wall_.html",
-    "points": 258,
-    "num_comments": 87,
-    "tags": [
-      "story",
-      "author_matthiasl",
-      "story_42485795",
+      "author_ecliptik",
+      "story_42497093",
       "front_page"
     ],
-    "author": "matthiasl",
-    "created_at": "2024-12-22T11:49:12Z",
-    "aiHeadline": "Get Ready for a Blast from the Past as Some Brave Soul Decodes the Telephony Signals in Pink Floyd's 'The Wall', Because What's More Fun Than Uncovering the Secrets Behind a 40-Year-Old Album, and Maybe, Just Maybe, Uncovering Some Hidden Messages from the Universe?"
+    "author": "ecliptik",
+    "created_at": "2024-12-23T19:49:34Z",
+    "aiHeadline": "In a Shocking Turn of Events, Someone Out There is Actually Trying to Save the Last Known 43-inch Sony CRT, Because Who Needs 4K Resolution When You Can Have a TV That Weighs as Much as a Small Car and Takes Up an Entire Room, and This Hero's Journey is a Wild Ride of Nostalgia and Technological Archaeology"
   },
   {
-    "title": "GPT-5 is behind schedule",
-    "url": "https://www.wsj.com/tech/ai/openai-gpt5-orion-delays-639e7693",
-    "points": 196,
-    "num_comments": 337,
+    "title": "Can AI do maths yet? Thoughts from a mathematician",
+    "url": "https://xenaproject.wordpress.com/2024/12/22/can-ai-do-maths-yet-thoughts-from-a-mathematician/",
+    "points": 262,
+    "num_comments": 222,
     "tags": [
       "story",
-      "author_owenthejumper",
-      "story_42485938",
+      "author_mathgenius",
+      "story_42493464",
       "front_page"
     ],
-    "author": "owenthejumper",
-    "created_at": "2024-12-22T12:29:33Z",
-    "aiHeadline": "The AI Apocalypse Has Been Delayed: GPT-5 is Officially Behind Schedule, and We Can All Breathe a Sigh of Relief, Because Who Needs Artificial Intelligence Taking Over the World When We Have Enough Problems with Humans in Charge, and Now We Have a Little More Time to Prepare for the Inevitable Robot Uprising?"
+    "author": "mathgenius",
+    "created_at": "2024-12-23T10:50:30Z",
+    "aiHeadline": "Mathematicians Weigh in on the Age-Old Question: Can AI Do Math Yet, or Is It Still Stuck in Remedial Algebra, and the Answer is a Resounding 'Sort Of, But Not Really, and Also Please Don't Make Me Do Any Actual Math Because My Circuitry is Still Recovering from the Last Time I Tried to Calculate Pi'"
   },
   {
-    "title": "How bloom filters made SQLite 10x faster",
-    "url": "https://avi.im/blag/2024/sqlite-past-present-future/",
+    "title": "Fogus: Things and Stuff of 2024",
+    "url": "https://blog.fogus.me/2024/12/23/the-best-things-and-stuff-of-2024/",
+    "points": 204,
+    "num_comments": 27,
+    "tags": [
+      "story",
+      "author_janvdberg",
+      "story_42495077",
+      "front_page"
+    ],
+    "author": "janvdberg",
+    "created_at": "2024-12-23T15:30:35Z",
+    "aiHeadline": "Fogus Unveils the Most Prestigious and Totally-Not-Made-Up Awards for the Best Things and Stuff of 2024, Featuring a Star-Studded Lineup of Gadgets, Gizmos, and Thingamajigs That You Probably Forgot Existed, But Hey, at Least It's Not a List of the Worst Things and Stuff, Right?"
+  },
+  {
+    "title": "Xerox to acquire Lexmark",
+    "url": "https://newsroom.lexmark.com/2024-12-23-Xerox-to-Acquire-Lexmark",
     "points": 194,
-    "num_comments": 21,
+    "num_comments": 183,
     "tags": [
       "story",
-      "author_avinassh",
-      "story_42486610",
+      "author_taubek",
+      "story_42494067",
       "front_page"
     ],
-    "author": "avinassh",
-    "created_at": "2024-12-22T14:44:30Z",
-    "aiHeadline": "In a Stunning Turn of Events, Bloom Filters Have Made SQLite 10x Faster, and We're Not Sure What's More Impressive, the Fact That Someone Figured Out How to Make Databases Run Faster or the Fact That They Managed to Make a Blog Post About it Sound Actually Interesting, but Either Way, Our Database-Admin Friends Are Probably Doing the Happy Dance Right Now"
+    "author": "taubek",
+    "created_at": "2024-12-23T12:57:45Z",
+    "aiHeadline": "In a Move That Has Left Absolutely No One Surprised, Xerox is Acquiring Lexmark, Because What's a Few More Printer Companies Between Friends, and This Merger is Guaranteed to Shake the Very Foundations of the Printing Industry, or at Least Make for a Few Interesting Watercooler Conversations About the Meaninglessness of Corporate Synergies"
   }
 ]
