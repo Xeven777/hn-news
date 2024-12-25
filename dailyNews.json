@@ -1,77 +1,74 @@
 [
   {
-    "title": "Commercial tea bags release microplastics, entering human cells",
-    "url": "https://medicalxpress.com/news/2024-12-commercial-tea-bags-millions-microplastics.html",
-    "points": 345,
-    "num_comments": 272,
+    "title": "The number pi has an evil twin",
+    "url": "https://mathstodon.xyz/@johncarlosbaez/113703444230936435",
+    "points": 435,
+    "num_comments": 180,
     "tags": [
       "story",
-      "author_wglb",
-      "story_42494746",
+      "author_pkaeding",
+      "story_42499567",
       "front_page"
     ],
-    "author": "wglb",
-    "created_at": "2024-12-23T14:47:56Z",
-    "aiHeadline": "Breaking News: Your Favorite Cup of Tea is Actually a Toxic Brew of Microplastics, Because Who Needs a Beach Body When You Can Have a Plastic-Filled Body, Right? Scientists Discover That Commercial Tea Bags Are Releasing Millions of Microplastics Into Your System, So Go Ahead and Steep Yourself in Anxiety"
+    "author": "pkaeding",
+    "created_at": "2024-12-24T03:41:22Z",
+    "aiHeadline": "Breaking News: The Number Pi Has an Evil Twin, Because Math Wasn't Already Complicated Enough, Now We Have to Worry About Pi's Doppelganger Causing Chaos in the World of Geometry and Beyond"
   },
   {
-    "title": "The journey to save the last known 43-inch Sony CRT",
-    "url": "https://obsoletesony.substack.com/p/the-journey-to-save-the-last-known",
-    "points": 338,
-    "num_comments": 167,
+    "title": "38th Chaos Communication Congress",
+    "url": "https://events.ccc.de/congress/2024/infos/index.html",
+    "points": 312,
+    "num_comments": 172,
     "tags": [
       "story",
-      "author_ecliptik",
-      "story_42497093",
-      "front_page"
+      "author_joeig",
+      "story_42500475"
     ],
-    "author": "ecliptik",
-    "created_at": "2024-12-23T19:49:34Z",
-    "aiHeadline": "In a Shocking Turn of Events, Someone Out There is Actually Trying to Save the Last Known 43-inch Sony CRT, Because Who Needs 4K Resolution When You Can Have a TV That Weighs as Much as a Small Car and Takes Up an Entire Room, and This Hero's Journey is a Wild Ride of Nostalgia and Technological Archaeology"
+    "author": "joeig",
+    "created_at": "2024-12-24T08:15:49Z",
+    "aiHeadline": "Get Ready for the 38th Chaos Communication Congress, Where Hackers and Tech Enthusiasts Gather to Unleash Their Inner Chaos and Possibly Take Over the World, or at Least the Internet, with Their Ingeniousness and Creativity"
   },
   {
-    "title": "Can AI do maths yet? Thoughts from a mathematician",
-    "url": "https://xenaproject.wordpress.com/2024/12/22/can-ai-do-maths-yet-thoughts-from-a-mathematician/",
-    "points": 262,
-    "num_comments": 222,
+    "title": "macOS menu bar app that shows how full the ISS urine tank is in real time",
+    "url": "https://github.com/Jaennaet/pISSStream",
+    "points": 291,
+    "num_comments": 88,
     "tags": [
       "story",
-      "author_mathgenius",
-      "story_42493464",
+      "author_ajdude",
+      "story_42505454",
       "front_page"
     ],
-    "author": "mathgenius",
-    "created_at": "2024-12-23T10:50:30Z",
-    "aiHeadline": "Mathematicians Weigh in on the Age-Old Question: Can AI Do Math Yet, or Is It Still Stuck in Remedial Algebra, and the Answer is a Resounding 'Sort Of, But Not Really, and Also Please Don't Make Me Do Any Actual Math Because My Circuitry is Still Recovering from the Last Time I Tried to Calculate Pi'"
+    "author": "ajdude",
+    "created_at": "2024-12-24T22:38:40Z",
+    "aiHeadline": "Because You Clearly Didn't Have Enough Ways to Waste Time on Your Mac, Someone Created a Menu Bar App that Shows the Fill Level of the ISS Urine Tank in Real-Time, Because Who Doesn't Want to Know How Full the Space Station's Toilet is at All Times?"
   },
   {
-    "title": "Fogus: Things and Stuff of 2024",
-    "url": "https://blog.fogus.me/2024/12/23/the-best-things-and-stuff-of-2024/",
-    "points": 204,
-    "num_comments": 27,
-    "tags": [
-      "story",
-      "author_janvdberg",
-      "story_42495077",
-      "front_page"
-    ],
-    "author": "janvdberg",
-    "created_at": "2024-12-23T15:30:35Z",
-    "aiHeadline": "Fogus Unveils the Most Prestigious and Totally-Not-Made-Up Awards for the Best Things and Stuff of 2024, Featuring a Star-Studded Lineup of Gadgets, Gizmos, and Thingamajigs That You Probably Forgot Existed, But Hey, at Least It's Not a List of the Worst Things and Stuff, Right?"
-  },
-  {
-    "title": "Xerox to acquire Lexmark",
-    "url": "https://newsroom.lexmark.com/2024-12-23-Xerox-to-Acquire-Lexmark",
-    "points": 194,
-    "num_comments": 183,
+    "title": "Tokyo released point cloud data of the entire city for free",
+    "url": "https://twitter.com/spatiallyjess/status/1871342549958537326",
+    "points": 231,
+    "num_comments": 32,
     "tags": [
       "story",
       "author_taubek",
-      "story_42494067",
-      "front_page"
+      "story_42501102"
     ],
     "author": "taubek",
-    "created_at": "2024-12-23T12:57:45Z",
-    "aiHeadline": "In a Move That Has Left Absolutely No One Surprised, Xerox is Acquiring Lexmark, Because What's a Few More Printer Companies Between Friends, and This Merger is Guaranteed to Shake the Very Foundations of the Printing Industry, or at Least Make for a Few Interesting Watercooler Conversations About the Meaninglessness of Corporate Synergies"
+    "created_at": "2024-12-24T10:51:39Z",
+    "aiHeadline": "In a Move that Will Either Revolutionize Urban Planning or Create a New Form of Digital Tourism, Tokyo Has Released Point Cloud Data of the Entire City for Free, So You Can Now Explore the City's Every Nook and Cranny from the Comfort of Your Own Home"
+  },
+  {
+    "title": "Intel shareholders file case asking ex CEO, CFO to return 3 years of salary",
+    "url": "https://www.cfodive.com/news/intel-shareholders-yank-exceo-cfo-compensation-foundry/736193/",
+    "points": 202,
+    "num_comments": 107,
+    "tags": [
+      "story",
+      "author_YetAnotherNick",
+      "story_42500482"
+    ],
+    "author": "YetAnotherNick",
+    "created_at": "2024-12-24T08:17:54Z",
+    "aiHeadline": "Karma's a Boomerang: Intel Shareholders Are Suing the Company's Ex-CEO and CFO, Demanding They Return Three Years' Worth of Salary, Because Apparently, They Didn't Do a Great Job of, You Know, Not Tanking the Company"
   }
 ]
