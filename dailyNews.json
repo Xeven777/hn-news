@@ -1,74 +1,78 @@
 [
   {
-    "title": "The number pi has an evil twin",
-    "url": "https://mathstodon.xyz/@johncarlosbaez/113703444230936435",
-    "points": 435,
-    "num_comments": 180,
+    "title": "Merry Christmas Everyone",
+    "points": 1340,
+    "num_comments": 349,
     "tags": [
       "story",
-      "author_pkaeding",
-      "story_42499567",
+      "author_joshagilend",
+      "story_42506577",
+      "ask_hn"
+    ],
+    "author": "joshagilend",
+    "created_at": "2024-12-25T03:10:07Z",
+    "aiHeadline": "Merry Christmas to all the coders out there, may your day be filled with debugged code, efficient algorithms, and no pesky merge conflicts, but let's be real, you're probably stuck working on a holiday project anyway, so here's to a quiet night in with your laptop and a glass of eggnog!"
+  },
+  {
+    "title": "This open problem taught me what topology is [video]",
+    "url": "https://www.youtube.com/watch?v=IQqtsm-bBRU",
+    "points": 357,
+    "num_comments": 54,
+    "tags": [
+      "story",
+      "author_surprisetalk",
+      "story_42507185",
       "front_page"
     ],
-    "author": "pkaeding",
-    "created_at": "2024-12-24T03:41:22Z",
-    "aiHeadline": "Breaking News: The Number Pi Has an Evil Twin, Because Math Wasn't Already Complicated Enough, Now We Have to Worry About Pi's Doppelganger Causing Chaos in the World of Geometry and Beyond"
+    "author": "surprisetalk",
+    "created_at": "2024-12-25T06:08:45Z",
+    "aiHeadline": "Because who needs actual human interaction on Christmas, this video on topology is the perfect excuse to stay indoors and learn about the intriguing world of shapes and spaces, all while eating leftover turkey and pretending you're a responsible adult, and hey, you might just learn something new, like what topology actually is, wow, mind blown!"
   },
   {
-    "title": "38th Chaos Communication Congress",
-    "url": "https://events.ccc.de/congress/2024/infos/index.html",
-    "points": 312,
-    "num_comments": 172,
+    "title": "Ruby 3.4.0",
+    "url": "https://www.ruby-lang.org/en/news/2024/12/25/ruby-3-4-0-released/",
+    "points": 305,
+    "num_comments": 178,
     "tags": [
       "story",
-      "author_joeig",
-      "story_42500475"
-    ],
-    "author": "joeig",
-    "created_at": "2024-12-24T08:15:49Z",
-    "aiHeadline": "Get Ready for the 38th Chaos Communication Congress, Where Hackers and Tech Enthusiasts Gather to Unleash Their Inner Chaos and Possibly Take Over the World, or at Least the Internet, with Their Ingeniousness and Creativity"
-  },
-  {
-    "title": "macOS menu bar app that shows how full the ISS urine tank is in real time",
-    "url": "https://github.com/Jaennaet/pISSStream",
-    "points": 291,
-    "num_comments": 88,
-    "tags": [
-      "story",
-      "author_ajdude",
-      "story_42505454",
+      "author_aaronbrethorst",
+      "story_42507312",
       "front_page"
     ],
-    "author": "ajdude",
-    "created_at": "2024-12-24T22:38:40Z",
-    "aiHeadline": "Because You Clearly Didn't Have Enough Ways to Waste Time on Your Mac, Someone Created a Menu Bar App that Shows the Fill Level of the ISS Urine Tank in Real-Time, Because Who Doesn't Want to Know How Full the Space Station's Toilet is at All Times?"
+    "author": "aaronbrethorst",
+    "created_at": "2024-12-25T06:40:07Z",
+    "aiHeadline": "Ruby 3.4.0 is finally here, because what's Christmas without a little gift from the Ruby community, and by gift, I mean a bunch of new features and bug fixes that you'll probably spend the next few days trying to understand and implement, but hey, at least you'll have something to do while avoiding your relatives, so go ahead and upgrade, your code will thank you, or not, depending on how well you've written it!"
   },
   {
-    "title": "Tokyo released point cloud data of the entire city for free",
-    "url": "https://twitter.com/spatiallyjess/status/1871342549958537326",
-    "points": 231,
-    "num_comments": 32,
+    "title": "Show HN: FixBrowser – a lightweight web browser created from scratch",
+    "url": "https://www.fixbrowser.org/",
+    "points": 218,
+    "num_comments": 105,
     "tags": [
       "story",
-      "author_taubek",
-      "story_42501102"
+      "author_jezek2",
+      "story_42506569",
+      "show_hn",
+      "front_page"
     ],
-    "author": "taubek",
-    "created_at": "2024-12-24T10:51:39Z",
-    "aiHeadline": "In a Move that Will Either Revolutionize Urban Planning or Create a New Form of Digital Tourism, Tokyo Has Released Point Cloud Data of the Entire City for Free, So You Can Now Explore the City's Every Nook and Cranny from the Comfort of Your Own Home"
+    "author": "jezek2",
+    "created_at": "2024-12-25T03:08:13Z",
+    "aiHeadline": "Introducing FixBrowser, the lightweight web browser that's so minimalist, it makes your grandma's browser look like a bloated mess, created from scratch by someone who clearly has too much time on their hands, but hey, who needs all those extra features anyway, it's not like you're going to use them, so go ahead and give FixBrowser a try, your RAM will thank you, or not, depending on how many tabs you have open!"
   },
   {
-    "title": "Intel shareholders file case asking ex CEO, CFO to return 3 years of salary",
-    "url": "https://www.cfodive.com/news/intel-shareholders-yank-exceo-cfo-compensation-foundry/736193/",
-    "points": 202,
-    "num_comments": 107,
+    "title": "Show HN: I made a website to semantically search ArXiv papers",
+    "url": "https://papermatch.mitanshu.tech/",
+    "points": 215,
+    "num_comments": 55,
     "tags": [
       "story",
-      "author_YetAnotherNick",
-      "story_42500482"
+      "author_Quizzical4230",
+      "story_42507116",
+      "show_hn",
+      "front_page"
     ],
-    "author": "YetAnotherNick",
-    "created_at": "2024-12-24T08:17:54Z",
-    "aiHeadline": "Karma's a Boomerang: Intel Shareholders Are Suing the Company's Ex-CEO and CFO, Demanding They Return Three Years' Worth of Salary, Because Apparently, They Didn't Do a Great Job of, You Know, Not Tanking the Company"
+    "author": "Quizzical4230",
+    "created_at": "2024-12-25T05:44:12Z",
+    "aiHeadline": "Tired of searching ArXiv papers like a normal human being, with keywords and stuff, well, say goodbye to those tedious days with PaperMatch, the website that lets you semantically search ArXiv papers, because who needs a social life when you can spend your Christmas searching for obscure research papers, and hey, you might just stumble upon something groundbreaking, or not, but at least you'll have learned something new, like how to waste an entire day browsing academic papers!"
   }
 ]
