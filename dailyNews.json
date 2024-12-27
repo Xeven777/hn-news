@@ -1,78 +1,76 @@
 [
   {
-    "title": "Merry Christmas Everyone",
-    "points": 1340,
-    "num_comments": 349,
+    "title": "Ghostty 1.0",
+    "url": "https://ghostty.org/",
+    "points": 871,
+    "num_comments": 195,
     "tags": [
       "story",
-      "author_joshagilend",
-      "story_42506577",
-      "ask_hn"
-    ],
-    "author": "joshagilend",
-    "created_at": "2024-12-25T03:10:07Z",
-    "aiHeadline": "Merry Christmas to all the coders out there, may your day be filled with debugged code, efficient algorithms, and no pesky merge conflicts, but let's be real, you're probably stuck working on a holiday project anyway, so here's to a quiet night in with your laptop and a glass of eggnog!"
-  },
-  {
-    "title": "This open problem taught me what topology is [video]",
-    "url": "https://www.youtube.com/watch?v=IQqtsm-bBRU",
-    "points": 357,
-    "num_comments": 54,
-    "tags": [
-      "story",
-      "author_surprisetalk",
-      "story_42507185",
+      "author_matrixhelix",
+      "story_42517447",
       "front_page"
     ],
-    "author": "surprisetalk",
-    "created_at": "2024-12-25T06:08:45Z",
-    "aiHeadline": "Because who needs actual human interaction on Christmas, this video on topology is the perfect excuse to stay indoors and learn about the intriguing world of shapes and spaces, all while eating leftover turkey and pretending you're a responsible adult, and hey, you might just learn something new, like what topology actually is, wow, mind blown!"
+    "author": "matrixhelix",
+    "created_at": "2024-12-26T20:14:57Z",
+    "aiHeadline": "Get ready for some spooky fun with Ghostty 1.0, the latest release that's supposed to revolutionize something, but let's be real, we're all just here for the catchy name and the promise of a goodghost story, so go ahead and check it out at https://ghostty.org/ if you dare, but don't say I didn't warn you!"
   },
   {
-    "title": "Ruby 3.4.0",
-    "url": "https://www.ruby-lang.org/en/news/2024/12/25/ruby-3-4-0-released/",
-    "points": 305,
-    "num_comments": 178,
+    "title": "Blackcandy: Self hosted music streaming server",
+    "url": "https://github.com/blackcandy-org/blackcandy",
+    "points": 593,
+    "num_comments": 253,
     "tags": [
       "story",
-      "author_aaronbrethorst",
-      "story_42507312",
+      "author_nateb2022",
+      "story_42512896",
       "front_page"
     ],
-    "author": "aaronbrethorst",
-    "created_at": "2024-12-25T06:40:07Z",
-    "aiHeadline": "Ruby 3.4.0 is finally here, because what's Christmas without a little gift from the Ruby community, and by gift, I mean a bunch of new features and bug fixes that you'll probably spend the next few days trying to understand and implement, but hey, at least you'll have something to do while avoiding your relatives, so go ahead and upgrade, your code will thank you, or not, depending on how well you've written it!"
+    "author": "nateb2022",
+    "created_at": "2024-12-26T03:17:34Z",
+    "aiHeadline": "Because who needs Spotify when you can have Blackcandy, the self-hosted music streaming server that's about to change the music game, or at least that's what the 253 commenters on Hacker News think, so if you're ready to take your music streaming to the next level, head on over to https://github.com/blackcandy-org/blackcandy and join the party!"
   },
   {
-    "title": "Show HN: FixBrowser – a lightweight web browser created from scratch",
-    "url": "https://www.fixbrowser.org/",
-    "points": 218,
-    "num_comments": 105,
+    "title": "Egui – An immediate mode GUI written in Rust",
+    "url": "https://www.egui.rs/",
+    "points": 273,
+    "num_comments": 134,
     "tags": [
       "story",
-      "author_jezek2",
-      "story_42506569",
-      "show_hn",
-      "front_page"
+      "author_josephcsible",
+      "story_42512636"
     ],
-    "author": "jezek2",
-    "created_at": "2024-12-25T03:08:13Z",
-    "aiHeadline": "Introducing FixBrowser, the lightweight web browser that's so minimalist, it makes your grandma's browser look like a bloated mess, created from scratch by someone who clearly has too much time on their hands, but hey, who needs all those extra features anyway, it's not like you're going to use them, so go ahead and give FixBrowser a try, your RAM will thank you, or not, depending on how many tabs you have open!"
+    "author": "josephcsible",
+    "created_at": "2024-12-26T02:06:10Z",
+    "aiHeadline": "Rust enthusiasts rejoice, Egui is here to bring a spark of excitement to your lives with its immediate mode GUI, because who doesn't love a good GUI, and the fact that it's written in Rust just makes it all the more thrilling, so go ahead and check out https://www.egui.rs/ to see what all the fuss is about, but don't forget to wear your party hat!"
   },
   {
-    "title": "Show HN: I made a website to semantically search ArXiv papers",
-    "url": "https://papermatch.mitanshu.tech/",
-    "points": 215,
-    "num_comments": 55,
+    "title": "A Minecraft server written in COBOL",
+    "url": "https://github.com/meyfa/CobolCraft",
+    "points": 261,
+    "num_comments": 82,
     "tags": [
       "story",
-      "author_Quizzical4230",
-      "story_42507116",
-      "show_hn",
+      "author_notamy",
+      "story_42513022",
       "front_page"
     ],
-    "author": "Quizzical4230",
-    "created_at": "2024-12-25T05:44:12Z",
-    "aiHeadline": "Tired of searching ArXiv papers like a normal human being, with keywords and stuff, well, say goodbye to those tedious days with PaperMatch, the website that lets you semantically search ArXiv papers, because who needs a social life when you can spend your Christmas searching for obscure research papers, and hey, you might just stumble upon something groundbreaking, or not, but at least you'll have learned something new, like how to waste an entire day browsing academic papers!"
+    "author": "notamy",
+    "created_at": "2024-12-26T03:59:54Z",
+    "aiHeadline": "In a bizarre turn of events, someone has decided to write a Minecraft server in COBOL because, why not, and the result is CobolCraft, a project that's equal parts fascinating and terrifying, so if you're feeling brave, head on over to https://github.com/meyfa/CobolCraft and see what kind of ancient programming magic you can conjure up!"
+  },
+  {
+    "title": "Differential Growth Addon for Blender",
+    "url": "https://boris.okunskiy.name/posts/blender-differential-growth",
+    "points": 246,
+    "num_comments": 30,
+    "tags": [
+      "story",
+      "author_kelseyfrog",
+      "story_42513157",
+      "front_page"
+    ],
+    "author": "kelseyfrog",
+    "created_at": "2024-12-26T04:41:31Z",
+    "aiHeadline": "Blender users, assemble, because the Differential Growth Addon is here to take your 3D modeling game to the next level, with all sorts of fancy features and whatnot, so if you're ready to unleash your inner artist, check out https://boris.okunskiy.name/posts/blender-differential-growth and get ready to create some masterpiece, or at the very least, something that won't make you cry yourself to sleep at night!"
   }
 ]
