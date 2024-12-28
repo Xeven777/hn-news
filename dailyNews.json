@@ -1,76 +1,74 @@
 [
   {
-    "title": "Ghostty 1.0",
-    "url": "https://ghostty.org/",
-    "points": 871,
-    "num_comments": 195,
+    "title": "Missiles are now the biggest killer of airline passengers",
+    "url": "https://www.wsj.com/world/flight-deaths-shot-from-sky-rising-798fd31e",
+    "points": 520,
+    "num_comments": 369,
     "tags": [
       "story",
-      "author_matrixhelix",
-      "story_42517447",
-      "front_page"
+      "author_JumpCrisscross",
+      "story_42521598"
     ],
-    "author": "matrixhelix",
-    "created_at": "2024-12-26T20:14:57Z",
-    "aiHeadline": "Get ready for some spooky fun with Ghostty 1.0, the latest release that's supposed to revolutionize something, but let's be real, we're all just here for the catchy name and the promise of a goodghost story, so go ahead and check it out at https://ghostty.org/ if you dare, but don't say I didn't warn you!"
+    "author": "JumpCrisscross",
+    "created_at": "2024-12-27T12:21:53Z",
+    "aiHeadline": "Missiles Have Officially Become the Unwelcome In-Flight Entertainment, Because Who Needs a Safe and Peaceful Journey Anyway, and It's Time to Add ' Missile Strike Insurance' to Your Travel Plans, Just in Case Your Flight Doesn't Land Safely"
   },
   {
-    "title": "Blackcandy: Self hosted music streaming server",
-    "url": "https://github.com/blackcandy-org/blackcandy",
-    "points": 593,
-    "num_comments": 253,
+    "title": "Does current AI represent a dead end?",
+    "url": "https://www.bcs.org/articles-opinion-and-research/does-current-ai-represent-a-dead-end/",
+    "points": 472,
+    "num_comments": 876,
     "tags": [
       "story",
-      "author_nateb2022",
-      "story_42512896",
-      "front_page"
+      "author_jnord",
+      "story_42521865"
     ],
-    "author": "nateb2022",
-    "created_at": "2024-12-26T03:17:34Z",
-    "aiHeadline": "Because who needs Spotify when you can have Blackcandy, the self-hosted music streaming server that's about to change the music game, or at least that's what the 253 commenters on Hacker News think, so if you're ready to take your music streaming to the next level, head on over to https://github.com/blackcandy-org/blackcandy and join the party!"
+    "author": "jnord",
+    "created_at": "2024-12-27T13:24:17Z",
+    "aiHeadline": "Current AI Models Are a Dead End, or So Claims a Recent Article, But Let's Be Real, We're Probably Just Going to Keep Using Them Until They Become Sentient and Take Over the World, at Which Point We'll Realize That Maybe We Should Have Listened to the Warning Signs and Invested in Some Robot Insurance"
   },
   {
-    "title": "Egui – An immediate mode GUI written in Rust",
-    "url": "https://www.egui.rs/",
-    "points": 273,
-    "num_comments": 134,
+    "title": "They have not been trained for this",
+    "url": "https://www.ccc.de/en/updates/2024/das-ist-vollig-entgleist",
+    "points": 438,
+    "num_comments": 71,
     "tags": [
       "story",
-      "author_josephcsible",
-      "story_42512636"
-    ],
-    "author": "josephcsible",
-    "created_at": "2024-12-26T02:06:10Z",
-    "aiHeadline": "Rust enthusiasts rejoice, Egui is here to bring a spark of excitement to your lives with its immediate mode GUI, because who doesn't love a good GUI, and the fact that it's written in Rust just makes it all the more thrilling, so go ahead and check out https://www.egui.rs/ to see what all the fuss is about, but don't forget to wear your party hat!"
-  },
-  {
-    "title": "A Minecraft server written in COBOL",
-    "url": "https://github.com/meyfa/CobolCraft",
-    "points": 261,
-    "num_comments": 82,
-    "tags": [
-      "story",
-      "author_notamy",
-      "story_42513022",
+      "author_hacka22",
+      "story_42524568",
       "front_page"
     ],
-    "author": "notamy",
-    "created_at": "2024-12-26T03:59:54Z",
-    "aiHeadline": "In a bizarre turn of events, someone has decided to write a Minecraft server in COBOL because, why not, and the result is CobolCraft, a project that's equal parts fascinating and terrifying, so if you're feeling brave, head on over to https://github.com/meyfa/CobolCraft and see what kind of ancient programming magic you can conjure up!"
+    "author": "hacka22",
+    "created_at": "2024-12-27T18:19:25Z",
+    "aiHeadline": "It Turns Out That AI Models Haven't Been Trained for the Apocalypse, But Honestly, Who Has, Right, and Can We Really Blame Them for Not Being Prepared for the Inevitable Robot Uprising, I Mean, We're Still Trying to Figure Out How to Use Them to Make a Decent Cup of Coffee"
   },
   {
-    "title": "Differential Growth Addon for Blender",
-    "url": "https://boris.okunskiy.name/posts/blender-differential-growth",
-    "points": 246,
-    "num_comments": 30,
+    "title": "Scale Model of Boeing 777-300ER, Made from Manila Folders",
+    "url": "https://www.lucaiaconistewart.com/model-777",
+    "points": 393,
+    "num_comments": 66,
     "tags": [
       "story",
-      "author_kelseyfrog",
-      "story_42513157",
+      "author_uticus",
+      "story_42523745",
       "front_page"
     ],
-    "author": "kelseyfrog",
-    "created_at": "2024-12-26T04:41:31Z",
-    "aiHeadline": "Blender users, assemble, because the Differential Growth Addon is here to take your 3D modeling game to the next level, with all sorts of fancy features and whatnot, so if you're ready to unleash your inner artist, check out https://boris.okunskiy.name/posts/blender-differential-growth and get ready to create some masterpiece, or at the very least, something that won't make you cry yourself to sleep at night!"
+    "author": "uticus",
+    "created_at": "2024-12-27T16:53:33Z",
+    "aiHeadline": "Someone Has Managed to Create a Scale Model of a Boeing 777-300ER Using Only Manila Folders, Because Who Needs Actual Engineering Skills When You Have a Lot of Paper and Some Spare Time, and We're Not Sure What's More Impressive, the Model Itself or the Fact That They Didn't Get a Paper Cut"
+  },
+  {
+    "title": "Quiver: A Modern Commutative Diagram Editor",
+    "url": "https://github.com/varkor/quiver",
+    "points": 312,
+    "num_comments": 35,
+    "tags": [
+      "story",
+      "author_peterkos",
+      "story_42520151"
+    ],
+    "author": "peterkos",
+    "created_at": "2024-12-27T05:27:41Z",
+    "aiHeadline": "Quiver: Because Commutative Diagrams Were Just Missing That Special Something, and Now We Have a Modern Editor to Make Them Shine, or at Least Make Them Slightly More Understandable to Those of Us Who Didn't Major in Math, and Hopefully It Comes with a Tutorial, Because Let's Face It, We're Going to Need It"
   }
 ]
