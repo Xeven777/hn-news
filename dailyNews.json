@@ -1,74 +1,76 @@
 [
   {
-    "title": "Missiles are now the biggest killer of airline passengers",
-    "url": "https://www.wsj.com/world/flight-deaths-shot-from-sky-rising-798fd31e",
-    "points": 520,
-    "num_comments": 369,
+    "title": "Where can you go in Europe by train in 8h?",
+    "url": "https://www.chronotrains.com/en",
+    "points": 381,
+    "num_comments": 283,
     "tags": [
       "story",
-      "author_JumpCrisscross",
-      "story_42521598"
-    ],
-    "author": "JumpCrisscross",
-    "created_at": "2024-12-27T12:21:53Z",
-    "aiHeadline": "Missiles Have Officially Become the Unwelcome In-Flight Entertainment, Because Who Needs a Safe and Peaceful Journey Anyway, and It's Time to Add ' Missile Strike Insurance' to Your Travel Plans, Just in Case Your Flight Doesn't Land Safely"
-  },
-  {
-    "title": "Does current AI represent a dead end?",
-    "url": "https://www.bcs.org/articles-opinion-and-research/does-current-ai-represent-a-dead-end/",
-    "points": 472,
-    "num_comments": 876,
-    "tags": [
-      "story",
-      "author_jnord",
-      "story_42521865"
-    ],
-    "author": "jnord",
-    "created_at": "2024-12-27T13:24:17Z",
-    "aiHeadline": "Current AI Models Are a Dead End, or So Claims a Recent Article, But Let's Be Real, We're Probably Just Going to Keep Using Them Until They Become Sentient and Take Over the World, at Which Point We'll Realize That Maybe We Should Have Listened to the Warning Signs and Invested in Some Robot Insurance"
-  },
-  {
-    "title": "They have not been trained for this",
-    "url": "https://www.ccc.de/en/updates/2024/das-ist-vollig-entgleist",
-    "points": 438,
-    "num_comments": 71,
-    "tags": [
-      "story",
-      "author_hacka22",
-      "story_42524568",
+      "author_vortex_ape",
+      "story_42530332",
       "front_page"
     ],
-    "author": "hacka22",
-    "created_at": "2024-12-27T18:19:25Z",
-    "aiHeadline": "It Turns Out That AI Models Haven't Been Trained for the Apocalypse, But Honestly, Who Has, Right, and Can We Really Blame Them for Not Being Prepared for the Inevitable Robot Uprising, I Mean, We're Still Trying to Figure Out How to Use Them to Make a Decent Cup of Coffee"
+    "author": "vortex_ape",
+    "created_at": "2024-12-28T11:43:15Z",
+    "aiHeadline": "Breaking News: You Can Now Explore Europe by Train in Under 8 Hours, Because Who Needs a Social Life Anyway, Just Hop on a Train and Forget Your Responsibilities, and Also Check Out This Cool Website chronotrains.com to Plan Your Spontaneous Eurotrip"
   },
   {
-    "title": "Scale Model of Boeing 777-300ER, Made from Manila Folders",
-    "url": "https://www.lucaiaconistewart.com/model-777",
-    "points": 393,
-    "num_comments": 66,
+    "title": "Google's Results Are Infested, Open AI Is Using Their Playbook from the 2000s",
+    "url": "https://chuckwnelson.com/blog/google-search-results-infested-open-ai-using-google-playbook",
+    "points": 336,
+    "num_comments": 382,
     "tags": [
       "story",
-      "author_uticus",
-      "story_42523745",
+      "author_chuckwnelson",
+      "story_42532441",
       "front_page"
     ],
-    "author": "uticus",
-    "created_at": "2024-12-27T16:53:33Z",
-    "aiHeadline": "Someone Has Managed to Create a Scale Model of a Boeing 777-300ER Using Only Manila Folders, Because Who Needs Actual Engineering Skills When You Have a Lot of Paper and Some Spare Time, and We're Not Sure What's More Impressive, the Model Itself or the Fact That They Didn't Get a Paper Cut"
+    "author": "chuckwnelson",
+    "created_at": "2024-12-28T17:06:40Z",
+    "aiHeadline": "Google's Search Results Have Officially Become a Hot Mess, and Open AI is Over Here Using Google's Old Playbook from the 2000s, Because Who Needs Originality When You Can Just Copy and Paste, and Also Read This Scathing Review on chuckwnelson.com to See Just How Bad It's Gotten"
   },
   {
-    "title": "Quiver: A Modern Commutative Diagram Editor",
-    "url": "https://github.com/varkor/quiver",
-    "points": 312,
-    "num_comments": 35,
+    "title": "Apple Photos phones home on iOS 18 and macOS 15",
+    "url": "https://lapcatsoftware.com/articles/2024/12/3.html",
+    "points": 327,
+    "num_comments": 229,
     "tags": [
       "story",
-      "author_peterkos",
-      "story_42520151"
+      "author_latexr",
+      "story_42533685",
+      "front_page"
     ],
-    "author": "peterkos",
-    "created_at": "2024-12-27T05:27:41Z",
-    "aiHeadline": "Quiver: Because Commutative Diagrams Were Just Missing That Special Something, and Now We Have a Modern Editor to Make Them Shine, or at Least Make Them Slightly More Understandable to Those of Us Who Didn't Major in Math, and Hopefully It Comes with a Tutorial, Because Let's Face It, We're Going to Need It"
+    "author": "latexr",
+    "created_at": "2024-12-28T19:22:30Z",
+    "aiHeadline": "Apple Photos is Secretly Judging You, and by Secretly Judging You, I Mean It's Sending All Your Private Photos Back to Apple HQ, or at Least That's What This Article on lapcatsoftware.com Wants You to Think, So Be Careful What You Snap, Because Big Brother is Watching, or Should I Say, Big Apple is Watching"
+  },
+  {
+    "title": "Fish 4.0: The Fish of Theseus",
+    "url": "https://fishshell.com/blog/rustport/",
+    "points": 274,
+    "num_comments": 23,
+    "tags": [
+      "story",
+      "author_jdxcode",
+      "story_42535217",
+      "front_page"
+    ],
+    "author": "jdxcode",
+    "created_at": "2024-12-28T22:07:15Z",
+    "aiHeadline": "The Fish Shell Has Turned 4.0, and by Turned 4.0, I Mean It's Gone Through a Midlife Crisis and is Now Questioning the Meaning of Life, Like the Ship of Theseus, It's No Longer the Same Fish It Used to Be, and You Can Read All About Its Existential Crisis on fishshell.com, Because Who Doesn't Love a Good Philosophical Fish Story"
+  },
+  {
+    "title": "Casual Viewing – Why Netflix looks like that",
+    "url": "https://www.nplusonemag.com/issue-49/essays/casual-viewing/",
+    "points": 270,
+    "num_comments": 315,
+    "tags": [
+      "story",
+      "author_exitb",
+      "story_42529756"
+    ],
+    "author": "exitb",
+    "created_at": "2024-12-28T09:32:32Z",
+    "aiHeadline": "The Real Reason Netflix Looks So Basic is Because It's Designed for Casual Viewing, aka the Art of Mindless Scrolling, and This Essay on nplusonemag.com Dives Deep into the Psychology of Why We Love Binge-Watching Our Lives Away, So Grab Some Popcorn, Get Cozy, and Let the Guilt Trip Begin"
   }
 ]
