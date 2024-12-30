@@ -1,76 +1,74 @@
 [
   {
-    "title": "Where can you go in Europe by train in 8h?",
-    "url": "https://www.chronotrains.com/en",
-    "points": 381,
-    "num_comments": 283,
+    "title": "Jimmy Carter has died",
+    "url": "https://www.washingtonpost.com/obituaries/2024/12/29/jimmy-carter-president-dead/",
+    "points": 773,
+    "num_comments": 381,
     "tags": [
       "story",
-      "author_vortex_ape",
-      "story_42530332",
+      "author_gkolli",
+      "story_42543128",
       "front_page"
     ],
-    "author": "vortex_ape",
-    "created_at": "2024-12-28T11:43:15Z",
-    "aiHeadline": "Breaking News: You Can Now Explore Europe by Train in Under 8 Hours, Because Who Needs a Social Life Anyway, Just Hop on a Train and Forget Your Responsibilities, and Also Check Out This Cool Website chronotrains.com to Plan Your Spontaneous Eurotrip"
+    "author": "gkolli",
+    "created_at": "2024-12-29T21:08:21Z",
+    "aiHeadline": "Breaking News: Jimmy Carter, the 39th President of the United States, Has Left the Building, Leaving Behind a Legacy of Peanut Butter and Good Deeds, But Let's Be Real, Most of You Were Probably Thinking 'Wait, He Was Still Alive?'"
   },
   {
-    "title": "Google's Results Are Infested, Open AI Is Using Their Playbook from the 2000s",
-    "url": "https://chuckwnelson.com/blog/google-search-results-infested-open-ai-using-google-playbook",
-    "points": 336,
-    "num_comments": 382,
+    "title": "38C3: Illegal Instructions",
+    "url": "https://media.ccc.de/c/38c3",
+    "points": 420,
+    "num_comments": 63,
     "tags": [
       "story",
-      "author_chuckwnelson",
-      "story_42532441",
+      "author_type0",
+      "story_42537631"
+    ],
+    "author": "type0",
+    "created_at": "2024-12-29T04:54:33Z",
+    "aiHeadline": "Get Ready to Level Up Your Geek Cred: The 38C3 Conference is Live, Featuring Talks on Illegal Instructions, Because Who Needs Rules Anyway, and We're Pretty Sure the Presenters Won't Get in Trouble for Sharing Their Secrets"
+  },
+  {
+    "title": "WebGL Fluid Simulation",
+    "url": "https://paveldogreat.github.io/WebGL-Fluid-Simulation/",
+    "points": 356,
+    "num_comments": 47,
+    "tags": [
+      "story",
+      "author_ChadNauseam",
+      "story_42537567",
       "front_page"
     ],
-    "author": "chuckwnelson",
-    "created_at": "2024-12-28T17:06:40Z",
-    "aiHeadline": "Google's Search Results Have Officially Become a Hot Mess, and Open AI is Over Here Using Google's Old Playbook from the 2000s, Because Who Needs Originality When You Can Just Copy and Paste, and Also Read This Scathing Review on chuckwnelson.com to See Just How Bad It's Gotten"
+    "author": "ChadNauseam",
+    "created_at": "2024-12-29T04:39:49Z",
+    "aiHeadline": "Warning: The WebGL Fluid Simulation Website May Cause Excessive Oohing and Aahing, as Well as a Strong Urge to Play with Virtual Water and Forget About All Your Adult Responsibilities, So Proceed with Caution (and a Full Battery)"
   },
   {
-    "title": "Apple Photos phones home on iOS 18 and macOS 15",
-    "url": "https://lapcatsoftware.com/articles/2024/12/3.html",
-    "points": 327,
-    "num_comments": 229,
+    "title": "We've not been trained for this: life after the Newag DRM disclosure [video]",
+    "url": "https://media.ccc.de/v/38c3-we-ve-not-been-trained-for-this-life-after-the-newag-drm-disclosure",
+    "points": 354,
+    "num_comments": 58,
     "tags": [
       "story",
-      "author_latexr",
-      "story_42533685",
-      "front_page"
+      "author_doener",
+      "story_42538914"
     ],
-    "author": "latexr",
-    "created_at": "2024-12-28T19:22:30Z",
-    "aiHeadline": "Apple Photos is Secretly Judging You, and by Secretly Judging You, I Mean It's Sending All Your Private Photos Back to Apple HQ, or at Least That's What This Article on lapcatsoftware.com Wants You to Think, So Be Careful What You Snap, Because Big Brother is Watching, or Should I Say, Big Apple is Watching"
+    "author": "doener",
+    "created_at": "2024-12-29T09:48:33Z",
+    "aiHeadline": "The Drama Continues: 'We've Not Been Trained for This' is the Battle Cry of the New Age, as Experts Scramble to Deal with the Fallout from the Newag DRM Disclosure, Because Who Needs a Plan When You Can Just Wing It and Hope for the Best?"
   },
   {
-    "title": "Fish 4.0: The Fish of Theseus",
-    "url": "https://fishshell.com/blog/rustport/",
-    "points": 274,
-    "num_comments": 23,
+    "title": "Jeju Air Jet Crashes in South Korea With Over 170 Dead or Missing",
+    "url": "https://www.bloomberg.com/news/articles/2024-12-29/plane-crashes-at-s-korea-airport-killing-at-least-23-yonhap",
+    "points": 228,
+    "num_comments": 231,
     "tags": [
       "story",
-      "author_jdxcode",
-      "story_42535217",
-      "front_page"
+      "author_toomuchtodo",
+      "story_42536647"
     ],
-    "author": "jdxcode",
-    "created_at": "2024-12-28T22:07:15Z",
-    "aiHeadline": "The Fish Shell Has Turned 4.0, and by Turned 4.0, I Mean It's Gone Through a Midlife Crisis and is Now Questioning the Meaning of Life, Like the Ship of Theseus, It's No Longer the Same Fish It Used to Be, and You Can Read All About Its Existential Crisis on fishshell.com, Because Who Doesn't Love a Good Philosophical Fish Story"
-  },
-  {
-    "title": "Casual Viewing – Why Netflix looks like that",
-    "url": "https://www.nplusonemag.com/issue-49/essays/casual-viewing/",
-    "points": 270,
-    "num_comments": 315,
-    "tags": [
-      "story",
-      "author_exitb",
-      "story_42529756"
-    ],
-    "author": "exitb",
-    "created_at": "2024-12-28T09:32:32Z",
-    "aiHeadline": "The Real Reason Netflix Looks So Basic is Because It's Designed for Casual Viewing, aka the Art of Mindless Scrolling, and This Essay on nplusonemag.com Dives Deep into the Psychology of Why We Love Binge-Watching Our Lives Away, So Grab Some Popcorn, Get Cozy, and Let the Guilt Trip Begin"
+    "author": "toomuchtodo",
+    "created_at": "2024-12-29T01:40:37Z",
+    "aiHeadline": "Tragedy Strikes in South Korea: A Jeju Air Jet Has Crashed, Leaving Over 170 People Dead or Missing, and We're Reminded Once Again of the Fragility of Life and the Importance of Checking Your Flight Status Before Boarding, But Let's Take a Moment to Appreciate the Miracle of Air Travel and the Brave Men and Women Who Keep Us Safe in the Skies"
   }
 ]
