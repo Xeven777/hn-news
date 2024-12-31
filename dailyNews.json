@@ -1,74 +1,75 @@
 [
   {
-    "title": "Jimmy Carter has died",
-    "url": "https://www.washingtonpost.com/obituaries/2024/12/29/jimmy-carter-president-dead/",
-    "points": 773,
-    "num_comments": 381,
+    "title": "Tell HN: John Friel my father, internet pioneer and creator of QModem, has died",
+    "points": 762,
+    "num_comments": 66,
     "tags": [
       "story",
-      "author_gkolli",
-      "story_42543128",
+      "author_AaronFriel",
+      "story_42551900",
+      "ask_hn",
       "front_page"
     ],
-    "author": "gkolli",
-    "created_at": "2024-12-29T21:08:21Z",
-    "aiHeadline": "Breaking News: Jimmy Carter, the 39th President of the United States, Has Left the Building, Leaving Behind a Legacy of Peanut Butter and Good Deeds, But Let's Be Real, Most of You Were Probably Thinking 'Wait, He Was Still Alive?'"
+    "author": "AaronFriel",
+    "created_at": "2024-12-30T18:11:47Z",
+    "aiHeadline": "RIP John Friel, the internet pioneer who brought us QModem, because who doesn't love a good blast from the past, and his son AaronFriel is probably feeling pretty nostalgic right about now, so let's all take a moment to appreciate the dude who helped us get online back in the dark ages of dial-up"
   },
   {
-    "title": "38C3: Illegal Instructions",
-    "url": "https://media.ccc.de/c/38c3",
-    "points": 420,
-    "num_comments": 63,
+    "title": "AI companies cause most of traffic on forums",
+    "url": "https://pod.geraspora.de/posts/17342163",
+    "points": 392,
+    "num_comments": 271,
     "tags": [
       "story",
-      "author_type0",
-      "story_42537631"
+      "author_ta988",
+      "story_42549624"
     ],
-    "author": "type0",
-    "created_at": "2024-12-29T04:54:33Z",
-    "aiHeadline": "Get Ready to Level Up Your Geek Cred: The 38C3 Conference is Live, Featuring Talks on Illegal Instructions, Because Who Needs Rules Anyway, and We're Pretty Sure the Presenters Won't Get in Trouble for Sharing Their Secrets"
+    "author": "ta988",
+    "created_at": "2024-12-30T14:37:17Z",
+    "aiHeadline": "Breaking news: AI companies are apparently responsible for most of the traffic on forums, which is just perfect because what's more fun than reading about how AI is taking over the world, one comment section at a time, according to some genius who goes by the name of ta988"
   },
   {
-    "title": "WebGL Fluid Simulation",
-    "url": "https://paveldogreat.github.io/WebGL-Fluid-Simulation/",
-    "points": 356,
-    "num_comments": 47,
+    "title": "From Pegasus to Predator – The evolution of commercial spyware on iOS [video]",
+    "url": "https://media.ccc.de/v/38c3-from-pegasus-to-predator-the-evolution-of-commercial-spyware-on-ios",
+    "points": 364,
+    "num_comments": 138,
     "tags": [
       "story",
-      "author_ChadNauseam",
-      "story_42537567",
+      "author_cookiengineer",
+      "story_42546216"
+    ],
+    "author": "cookiengineer",
+    "created_at": "2024-12-30T03:39:42Z",
+    "aiHeadline": "From Pegasus to Predator, it seems like commercial spyware on iOS has evolved from a pesky little bug to a full-blown, James-Bond-villain-esque monster, so thanks for the update, cookiengineer, now we can all rest easy knowing our iPhones are being spied on by highly advanced, super-sophisticated spyware"
+  },
+  {
+    "title": "Curl-Impersonate",
+    "url": "https://github.com/lexiforest/curl-impersonate",
+    "points": 362,
+    "num_comments": 90,
+    "tags": [
+      "story",
+      "author_jakeogh",
+      "story_42547820",
       "front_page"
     ],
-    "author": "ChadNauseam",
-    "created_at": "2024-12-29T04:39:49Z",
-    "aiHeadline": "Warning: The WebGL Fluid Simulation Website May Cause Excessive Oohing and Aahing, as Well as a Strong Urge to Play with Virtual Water and Forget About All Your Adult Responsibilities, So Proceed with Caution (and a Full Battery)"
+    "author": "jakeogh",
+    "created_at": "2024-12-30T09:18:38Z",
+    "aiHeadline": "Introducing Curl-Impersonate, because who doesn't love a good game of dress-up, especially when it comes to curl commands, and thanks to jakeogh for bringing this super-exciting, not-at-all-confusing tool to our attention, because what's more thrilling than impersonating a curl command"
   },
   {
-    "title": "We've not been trained for this: life after the Newag DRM disclosure [video]",
-    "url": "https://media.ccc.de/v/38c3-we-ve-not-been-trained-for-this-life-after-the-newag-drm-disclosure",
-    "points": 354,
-    "num_comments": 58,
+    "title": "'Obelisks': New Class of Life Has Been Found in Human Digestive System",
+    "url": "https://www.sciencealert.com/obelisks-entirely-new-class-of-life-has-been-found-in-the-human-digestive-system",
+    "points": 318,
+    "num_comments": 107,
     "tags": [
       "story",
-      "author_doener",
-      "story_42538914"
+      "author_unkeen",
+      "story_42547489",
+      "front_page"
     ],
-    "author": "doener",
-    "created_at": "2024-12-29T09:48:33Z",
-    "aiHeadline": "The Drama Continues: 'We've Not Been Trained for This' is the Battle Cry of the New Age, as Experts Scramble to Deal with the Fallout from the Newag DRM Disclosure, Because Who Needs a Plan When You Can Just Wing It and Hope for the Best?"
-  },
-  {
-    "title": "Jeju Air Jet Crashes in South Korea With Over 170 Dead or Missing",
-    "url": "https://www.bloomberg.com/news/articles/2024-12-29/plane-crashes-at-s-korea-airport-killing-at-least-23-yonhap",
-    "points": 228,
-    "num_comments": 231,
-    "tags": [
-      "story",
-      "author_toomuchtodo",
-      "story_42536647"
-    ],
-    "author": "toomuchtodo",
-    "created_at": "2024-12-29T01:40:37Z",
-    "aiHeadline": "Tragedy Strikes in South Korea: A Jeju Air Jet Has Crashed, Leaving Over 170 People Dead or Missing, and We're Reminded Once Again of the Fragility of Life and the Importance of Checking Your Flight Status Before Boarding, But Let's Take a Moment to Appreciate the Miracle of Air Travel and the Brave Men and Women Who Keep Us Safe in the Skies"
+    "author": "unkeen",
+    "created_at": "2024-12-30T08:12:48Z",
+    "aiHeadline": "Scientists have discovered an entirely new class of life, dubbed 'Obelisks', living in the human digestive system, because what's more fun than finding out you've got a bunch of mysterious, ancient structures hanging out in your gut, and thanks to unkeen for sharing this totally-not-terrifying news with us, so let's all take a moment to appreciate the tiny, obelisk-shaped overlords living inside us"
   }
 ]
