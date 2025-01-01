@@ -1,75 +1,76 @@
 [
   {
-    "title": "Tell HN: John Friel my father, internet pioneer and creator of QModem, has died",
-    "points": 762,
-    "num_comments": 66,
+    "title": "Things we learned about LLMs in 2024",
+    "url": "https://simonwillison.net/2024/Dec/31/llms-in-2024/",
+    "points": 471,
+    "num_comments": 357,
     "tags": [
       "story",
-      "author_AaronFriel",
-      "story_42551900",
-      "ask_hn",
+      "author_simonw",
+      "story_42560558",
       "front_page"
     ],
-    "author": "AaronFriel",
-    "created_at": "2024-12-30T18:11:47Z",
-    "aiHeadline": "RIP John Friel, the internet pioneer who brought us QModem, because who doesn't love a good blast from the past, and his son AaronFriel is probably feeling pretty nostalgic right about now, so let's all take a moment to appreciate the dude who helped us get online back in the dark ages of dial-up"
+    "author": "simonw",
+    "created_at": "2024-12-31T18:11:06Z",
+    "aiHeadline": "2024 in Review: Large Language Models Proved They're Not Just Chatbots, But Actually Kind of a Big Deal, According to Simon Willison's Year-End Recap That's Definitely Worth a Read, We Guess"
   },
   {
-    "title": "AI companies cause most of traffic on forums",
-    "url": "https://pod.geraspora.de/posts/17342163",
-    "points": 392,
-    "num_comments": 271,
+    "title": "More telcos confirm Salt Typhoon breaches as White House weighs in",
+    "url": "https://www.theregister.com/2024/12/30/att_verizon_confirm_salt_typhoon_breach/",
+    "points": 348,
+    "num_comments": 272,
     "tags": [
       "story",
-      "author_ta988",
-      "story_42549624"
-    ],
-    "author": "ta988",
-    "created_at": "2024-12-30T14:37:17Z",
-    "aiHeadline": "Breaking news: AI companies are apparently responsible for most of the traffic on forums, which is just perfect because what's more fun than reading about how AI is taking over the world, one comment section at a time, according to some genius who goes by the name of ta988"
-  },
-  {
-    "title": "From Pegasus to Predator – The evolution of commercial spyware on iOS [video]",
-    "url": "https://media.ccc.de/v/38c3-from-pegasus-to-predator-the-evolution-of-commercial-spyware-on-ios",
-    "points": 364,
-    "num_comments": 138,
-    "tags": [
-      "story",
-      "author_cookiengineer",
-      "story_42546216"
-    ],
-    "author": "cookiengineer",
-    "created_at": "2024-12-30T03:39:42Z",
-    "aiHeadline": "From Pegasus to Predator, it seems like commercial spyware on iOS has evolved from a pesky little bug to a full-blown, James-Bond-villain-esque monster, so thanks for the update, cookiengineer, now we can all rest easy knowing our iPhones are being spied on by highly advanced, super-sophisticated spyware"
-  },
-  {
-    "title": "Curl-Impersonate",
-    "url": "https://github.com/lexiforest/curl-impersonate",
-    "points": 362,
-    "num_comments": 90,
-    "tags": [
-      "story",
-      "author_jakeogh",
-      "story_42547820",
+      "author_rntn",
+      "story_42555594",
       "front_page"
     ],
-    "author": "jakeogh",
-    "created_at": "2024-12-30T09:18:38Z",
-    "aiHeadline": "Introducing Curl-Impersonate, because who doesn't love a good game of dress-up, especially when it comes to curl commands, and thanks to jakeogh for bringing this super-exciting, not-at-all-confusing tool to our attention, because what's more thrilling than impersonating a curl command"
+    "author": "rntn",
+    "created_at": "2024-12-31T01:52:06Z",
+    "aiHeadline": "Because 2024 Wasn't Already a Wild Ride, Telcos Are Now Dealing with Salt Typhoon Breaches, and Even the White House is Like 'Hey, What's Going On Here?' as ATT and Verizon Join the Party, Because Who Doesn't Love a Good Data Breach to Ring in the New Year?"
   },
   {
-    "title": "'Obelisks': New Class of Life Has Been Found in Human Digestive System",
-    "url": "https://www.sciencealert.com/obelisks-entirely-new-class-of-life-has-been-found-in-the-human-digestive-system",
-    "points": 318,
-    "num_comments": 107,
+    "title": "Deepseek: The quiet giant leading China’s AI race",
+    "url": "https://www.chinatalk.media/p/deepseek-ceo-interview-with-chinas",
+    "points": 309,
+    "num_comments": 266,
     "tags": [
       "story",
-      "author_unkeen",
-      "story_42547489",
+      "author_sunny-beast",
+      "story_42557586",
       "front_page"
     ],
-    "author": "unkeen",
-    "created_at": "2024-12-30T08:12:48Z",
-    "aiHeadline": "Scientists have discovered an entirely new class of life, dubbed 'Obelisks', living in the human digestive system, because what's more fun than finding out you've got a bunch of mysterious, ancient structures hanging out in your gut, and thanks to unkeen for sharing this totally-not-terrifying news with us, so let's all take a moment to appreciate the tiny, obelisk-shaped overlords living inside us"
+    "author": "sunny-beast",
+    "created_at": "2024-12-31T09:28:48Z",
+    "aiHeadline": "Deepseek: The Mysterious Chinese AI Company You've Never Heard of, But Is Apparently Leading the AI Charge, and Their CEO Gave an Interview That's Definitely Not a PR Stunt, and Is Totally Worth Reading, or So We're Told, by People Who Know These Things"
+  },
+  {
+    "title": "Darktable 5.0.0",
+    "url": "https://www.darktable.org/2024/12/darktable-5.0.0-released/",
+    "points": 286,
+    "num_comments": 97,
+    "tags": [
+      "story",
+      "author_morsch",
+      "story_42558037",
+      "front_page"
+    ],
+    "author": "morsch",
+    "created_at": "2024-12-31T11:19:17Z",
+    "aiHeadline": "Darktable 5.0.0 is Here, and We're Not Entirely Sure What It Does, But It Sounds Important, and the Open-Source Community is Super Stoked, So That's Cool, I Guess, and If You're Into That Sorta Thing, You'll Probably Want to Check It Out, or Something"
+  },
+  {
+    "title": "U.S. Army Soldier Arrested in AT&T, Verizon Extortions",
+    "url": "https://krebsonsecurity.com/2024/12/u-s-army-soldier-arrested-in-att-verizon-extortions/",
+    "points": 272,
+    "num_comments": 179,
+    "tags": [
+      "story",
+      "author_mmsc",
+      "story_42557342"
+    ],
+    "author": "mmsc",
+    "created_at": "2024-12-31T08:24:03Z",
+    "aiHeadline": "In a Shocking Turn of Events, a U.S. Army Soldier Got Arrested for Trying to Extort AT&T and Verizon, Because Who Needs a Raise When You Can Just Threaten to Release Sensitive Info, and It's Not Like They Have Better Things to Do, Like, Say, Fighting Wars or Whatever"
   }
 ]
