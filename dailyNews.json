@@ -1,76 +1,77 @@
 [
   {
-    "title": "Things we learned about LLMs in 2024",
-    "url": "https://simonwillison.net/2024/Dec/31/llms-in-2024/",
-    "points": 471,
-    "num_comments": 357,
+    "title": "DOOM CAPTCHA",
+    "url": "https://doom-captcha.vercel.app/",
+    "points": 720,
+    "num_comments": 184,
     "tags": [
       "story",
-      "author_simonw",
-      "story_42560558",
+      "author_denysvitali",
+      "story_42566112",
       "front_page"
     ],
-    "author": "simonw",
-    "created_at": "2024-12-31T18:11:06Z",
-    "aiHeadline": "2024 in Review: Large Language Models Proved They're Not Just Chatbots, But Actually Kind of a Big Deal, According to Simon Willison's Year-End Recap That's Definitely Worth a Read, We Guess"
+    "author": "denysvitali",
+    "created_at": "2025-01-01T14:12:15Z",
+    "aiHeadline": "BREAKING: DOOM CAPTCHA is the newest way to prove you're human, because what's more human than killing demons from hell in a browser window, and who needs actual productivity when you can spend your time shooting virtual monsters all day?"
   },
   {
-    "title": "More telcos confirm Salt Typhoon breaches as White House weighs in",
-    "url": "https://www.theregister.com/2024/12/30/att_verizon_confirm_salt_typhoon_breach/",
-    "points": 348,
-    "num_comments": 272,
+    "title": "30% drop in O1-preview accuracy when Putnam problems are slightly variated",
+    "url": "https://openreview.net/forum?id=YXnwlZe0yf&noteId=yrsGpHd0Sf",
+    "points": 464,
+    "num_comments": 429,
     "tags": [
       "story",
-      "author_rntn",
-      "story_42555594",
+      "author_optimalsolver",
+      "story_42565606",
       "front_page"
     ],
-    "author": "rntn",
-    "created_at": "2024-12-31T01:52:06Z",
-    "aiHeadline": "Because 2024 Wasn't Already a Wild Ride, Telcos Are Now Dealing with Salt Typhoon Breaches, and Even the White House is Like 'Hey, What's Going On Here?' as ATT and Verizon Join the Party, Because Who Doesn't Love a Good Data Breach to Ring in the New Year?"
+    "author": "optimalsolver",
+    "created_at": "2025-01-01T12:21:18Z",
+    "aiHeadline": "In a shocking turn of events, it's been discovered that AI models are actually really bad at math, with a whopping 30% drop in accuracy when faced with slightly varied Putnam problems, because who needs to solve actual math problems when you can just memorize the answers, right?"
   },
   {
-    "title": "Deepseek: The quiet giant leading China’s AI race",
-    "url": "https://www.chinatalk.media/p/deepseek-ceo-interview-with-chinas",
-    "points": 309,
-    "num_comments": 266,
+    "title": "Terence Tao: One of my papers got declined today",
+    "url": "https://mathstodon.xyz/@tao/113721192051328193",
+    "points": 393,
+    "num_comments": 143,
     "tags": [
       "story",
-      "author_sunny-beast",
-      "story_42557586",
+      "author_GavCo",
+      "story_42568399",
       "front_page"
     ],
-    "author": "sunny-beast",
-    "created_at": "2024-12-31T09:28:48Z",
-    "aiHeadline": "Deepseek: The Mysterious Chinese AI Company You've Never Heard of, But Is Apparently Leading the AI Charge, and Their CEO Gave an Interview That's Definitely Not a PR Stunt, and Is Totally Worth Reading, or So We're Told, by People Who Know These Things"
+    "author": "GavCo",
+    "created_at": "2025-01-01T19:12:57Z",
+    "aiHeadline": "World-renowned mathematician Terence Tao just had one of his papers rejected, because even geniuses get rejected sometimes, and now he's probably crying himself to sleep at night, wondering what he did wrong, or maybe he's just too busy solving actual math problems to care about a little thing like rejection."
   },
   {
-    "title": "Darktable 5.0.0",
-    "url": "https://www.darktable.org/2024/12/darktable-5.0.0-released/",
-    "points": 286,
-    "num_comments": 97,
+    "title": "Databases in 2024: A Year in Review",
+    "url": "https://www.cs.cmu.edu/~pavlo/blog/2025/01/2024-databases-retrospective.html",
+    "points": 373,
+    "num_comments": 115,
     "tags": [
       "story",
-      "author_morsch",
-      "story_42558037",
+      "author_avinassh",
+      "story_42566192",
       "front_page"
     ],
-    "author": "morsch",
-    "created_at": "2024-12-31T11:19:17Z",
-    "aiHeadline": "Darktable 5.0.0 is Here, and We're Not Entirely Sure What It Does, But It Sounds Important, and the Open-Source Community is Super Stoked, So That's Cool, I Guess, and If You're Into That Sorta Thing, You'll Probably Want to Check It Out, or Something"
+    "author": "avinassh",
+    "created_at": "2025-01-01T14:27:39Z",
+    "aiHeadline": "The year 2024 is finally over, and what a year it was for databases, with all sorts of advancements and breakthroughs that you probably didn't pay attention to, but don't worry, there's a whole blog post about it, so you can catch up on all the exciting developments you missed, and pretend like you care about databases."
   },
   {
-    "title": "U.S. Army Soldier Arrested in AT&T, Verizon Extortions",
-    "url": "https://krebsonsecurity.com/2024/12/u-s-army-soldier-arrested-in-att-verizon-extortions/",
-    "points": 272,
-    "num_comments": 179,
+    "title": "Books I Loved Reading in 2024",
+    "url": "https://thoughts.wyounas.com/p/books-i-enjoyed-most-in-2024",
+    "points": 322,
+    "num_comments": 133,
     "tags": [
       "story",
-      "author_mmsc",
-      "story_42557342"
+      "author_simplegeek",
+      "story_42564687",
+      "front_page"
     ],
-    "author": "mmsc",
-    "created_at": "2024-12-31T08:24:03Z",
-    "aiHeadline": "In a Shocking Turn of Events, a U.S. Army Soldier Got Arrested for Trying to Extort AT&T and Verizon, Because Who Needs a Raise When You Can Just Threaten to Release Sensitive Info, and It's Not Like They Have Better Things to Do, Like, Say, Fighting Wars or Whatever"
+    "author": "simplegeek",
+    "created_at": "2025-01-01T08:16:09Z",
+    "aiHeadline": "If you're looking for some book recommendations, look no further, because some guy on the internet has compiled a list of his favorite books from 2024, and who doesn't love a good list, especially when it's filled with books you've probably never heard of, but will definitely pretend to have read in order to sound smart at your next dinner party."
   }
 ]
