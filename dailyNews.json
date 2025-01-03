@@ -1,77 +1,74 @@
 [
   {
-    "title": "DOOM CAPTCHA",
-    "url": "https://doom-captcha.vercel.app/",
-    "points": 720,
-    "num_comments": 184,
+    "title": "uBlock Origin GPL code being stolen by team behind honey browser extension",
+    "url": "https://old.reddit.com/r/uBlockOrigin/comments/1hr6xjc/ubo_quick_filters_list_being_stolen_by_team/",
+    "points": 575,
+    "num_comments": 271,
     "tags": [
       "story",
-      "author_denysvitali",
-      "story_42566112",
+      "author_extesy",
+      "story_42576443",
       "front_page"
     ],
-    "author": "denysvitali",
-    "created_at": "2025-01-01T14:12:15Z",
-    "aiHeadline": "BREAKING: DOOM CAPTCHA is the newest way to prove you're human, because what's more human than killing demons from hell in a browser window, and who needs actual productivity when you can spend your time shooting virtual monsters all day?"
+    "author": "extesy",
+    "created_at": "2025-01-02T17:27:28Z",
+    "aiHeadline": "The Great uBlock Origin Heist: Because Who Needs Originality When You Can Just Steal Someone Else's Code, Right? The Team Behind Honey Browser Extension is Accused of Stealing uBlock Origin's GPL Code, Because Apparently They Didn't Get the Memo About Not Being a Bunch of Code Thieves"
   },
   {
-    "title": "30% drop in O1-preview accuracy when Putnam problems are slightly variated",
-    "url": "https://openreview.net/forum?id=YXnwlZe0yf&noteId=yrsGpHd0Sf",
-    "points": 464,
-    "num_comments": 429,
+    "title": "MitmProxy2Swagger: Automagically reverse-engineer REST APIs",
+    "url": "https://github.com/alufers/mitmproxy2swagger",
+    "points": 525,
+    "num_comments": 61,
     "tags": [
       "story",
-      "author_optimalsolver",
-      "story_42565606",
-      "front_page"
+      "author_AbuAssar",
+      "story_42572662"
     ],
-    "author": "optimalsolver",
-    "created_at": "2025-01-01T12:21:18Z",
-    "aiHeadline": "In a shocking turn of events, it's been discovered that AI models are actually really bad at math, with a whopping 30% drop in accuracy when faced with slightly varied Putnam problems, because who needs to solve actual math problems when you can just memorize the answers, right?"
+    "author": "AbuAssar",
+    "created_at": "2025-01-02T08:08:15Z",
+    "aiHeadline": "MitmProxy2Swagger: Because Reverse-Engineering REST APIs is Now as Easy as Clicking a Button, Thanks to This Amazing New Tool That's About to Make All Your API-Related Dreams Come True, or Your Worst Nightmares, Depending on How You Choose to Use It"
   },
   {
-    "title": "Terence Tao: One of my papers got declined today",
-    "url": "https://mathstodon.xyz/@tao/113721192051328193",
-    "points": 393,
-    "num_comments": 143,
+    "title": "The GPU, not the TPM, is the root of hardware DRM",
+    "url": "https://mjg59.dreamwidth.org/70954.html",
+    "points": 411,
+    "num_comments": 413,
     "tags": [
       "story",
-      "author_GavCo",
-      "story_42568399",
-      "front_page"
+      "author_DvdGiessen",
+      "story_42570988"
     ],
-    "author": "GavCo",
-    "created_at": "2025-01-01T19:12:57Z",
-    "aiHeadline": "World-renowned mathematician Terence Tao just had one of his papers rejected, because even geniuses get rejected sometimes, and now he's probably crying himself to sleep at night, wondering what he did wrong, or maybe he's just too busy solving actual math problems to care about a little thing like rejection."
+    "author": "DvdGiessen",
+    "created_at": "2025-01-02T02:09:45Z",
+    "aiHeadline": "The GPU: The Real Villain Behind Hardware DRM, Not the TPM, Because Who Needs Security When You Can Just Blame it on the Graphics Card, and Now We Know the Truth, Thanks to This Groundbreaking Revelation That's About to Change the Way We Think About Digital Rights Management Forever"
   },
   {
-    "title": "Databases in 2024: A Year in Review",
-    "url": "https://www.cs.cmu.edu/~pavlo/blog/2025/01/2024-databases-retrospective.html",
-    "points": 373,
-    "num_comments": 115,
+    "title": "Zasper: A Modern and Efficient Alternative to JupyterLab, Built in Go",
+    "url": "https://github.com/zasper-io/zasper",
+    "points": 380,
+    "num_comments": 89,
     "tags": [
       "story",
-      "author_avinassh",
-      "story_42566192",
-      "front_page"
+      "author_thunderbong",
+      "story_42572057"
     ],
-    "author": "avinassh",
-    "created_at": "2025-01-01T14:27:39Z",
-    "aiHeadline": "The year 2024 is finally over, and what a year it was for databases, with all sorts of advancements and breakthroughs that you probably didn't pay attention to, but don't worry, there's a whole blog post about it, so you can catch up on all the exciting developments you missed, and pretend like you care about databases."
+    "author": "thunderbong",
+    "created_at": "2025-01-02T05:55:20Z",
+    "aiHeadline": "Zasper: The New Kid on the Block, a Modern and Efficient Alternative to JupyterLab, Built in Go, Because Who Needs JupyterLab When You Can Have Something New and Shiny, and Possibly Even Better, But Let's Be Real, We'll Believe it When We See It"
   },
   {
-    "title": "Books I Loved Reading in 2024",
-    "url": "https://thoughts.wyounas.com/p/books-i-enjoyed-most-in-2024",
-    "points": 322,
-    "num_comments": 133,
+    "title": "Tell HN: Impassable Cloudflare challenges are ruining my browsing experience",
+    "points": 284,
+    "num_comments": 185,
     "tags": [
       "story",
-      "author_simplegeek",
-      "story_42564687",
+      "author_blakeashleyjr",
+      "story_42577076",
+      "ask_hn",
       "front_page"
     ],
-    "author": "simplegeek",
-    "created_at": "2025-01-01T08:16:09Z",
-    "aiHeadline": "If you're looking for some book recommendations, look no further, because some guy on the internet has compiled a list of his favorite books from 2024, and who doesn't love a good list, especially when it's filled with books you've probably never heard of, but will definitely pretend to have read in order to sound smart at your next dinner party."
+    "author": "blakeashleyjr",
+    "created_at": "2025-01-02T18:19:48Z",
+    "aiHeadline": "The Cloudflare Conundrum: Impassable Cloudflare Challenges are Ruining the Browsing Experience for Some, Because Who Doesn't Love a Good Game of 'Guess the Captcha' or 'Wait 30 Seconds to Access This Website', Said No One Ever, and Now We're All Stuck in This Never-Ending Cycle of Frustration"
   }
 ]
