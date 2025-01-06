@@ -1,75 +1,76 @@
 [
   {
-    "title": "Self driving 1993 Volvo with open pilot",
-    "url": "https://practicapp.com/carbagepilot-part1/",
-    "points": 506,
-    "num_comments": 116,
+    "title": "Researchers design wearable tech that can sense glucose levels more accurately",
+    "url": "https://uwaterloo.ca/news/media/no-more-needles-tracking-blood-sugar-your-wrist",
+    "points": 357,
+    "num_comments": 145,
     "tags": [
       "story",
-      "author_trainsarebetter",
-      "story_42592910",
+      "author_ndrwnaguib",
+      "story_42599189",
       "front_page"
     ],
-    "author": "trainsarebetter",
-    "created_at": "2025-01-04T06:30:24Z",
-    "aiHeadline": "Because What the World Really Needed Was a Self-Driving 1993 Volvo, Some Genius Has Managed to Make It Happen with Open Pilot, Because Who Needs a Boring New Car When You Can Have a Vintage Ride with a Mind of Its Own?"
+    "author": "ndrwnaguib",
+    "created_at": "2025-01-05T02:12:13Z",
+    "aiHeadline": "In a groundbreaking innovation that's sure to make diabetics rejoice, researchers have created wearable tech that can sense glucose levels with greater accuracy, because who needs needles when you can just wear a fancy smartwatch that judges you for eating that extra slice of cake?"
   },
   {
-    "title": "How to draw an outline in a video game",
-    "url": "https://ameye.dev/notes/rendering-outlines/",
-    "points": 397,
-    "num_comments": 45,
+    "title": "A messy experiment that changed how I think about AI code analysis",
+    "url": "https://nmn.gl/blog/ai-senior-developer",
+    "points": 356,
+    "num_comments": 195,
     "tags": [
       "story",
-      "author_alexanderameye",
-      "story_42593614",
+      "author_namanyayg",
+      "story_42601847"
+    ],
+    "author": "namanyayg",
+    "created_at": "2025-01-05T14:15:19Z",
+    "aiHeadline": "A developer's experiment with AI code analysis went hilariously wrong, but in a beautiful twist of fate, it changed their entire perspective on the field, proving that even the most epic of failures can be a valuable learning experience, or at least a great story to tell at parties."
+  },
+  {
+    "title": "How NAT Traversal Works (2020)",
+    "url": "https://tailscale.com/blog/how-nat-traversal-works",
+    "points": 340,
+    "num_comments": 67,
+    "tags": [
+      "story",
+      "author_hhthrowaway1230",
+      "story_42600846",
       "front_page"
     ],
-    "author": "alexanderameye",
-    "created_at": "2025-01-04T09:14:28Z",
-    "aiHeadline": "Gamers Rejoice: You Can Now Learn How to Draw an Outline in a Video Game, Because Let's be Real, the Most Important Part of Gaming Is Definitely the Artistic Expression and Not Just Mindless Button Mashing, and This Guide Will Teach You How to Do It Like a Pro"
+    "author": "hhthrowaway1230",
+    "created_at": "2025-01-05T10:15:58Z",
+    "aiHeadline": "For all you networking enthusiasts out there, a 2020 article about NAT Traversal has resurfaced, because who doesn't love a good blast from the past, and also because understanding how NAT Traversal works is still crucial in 2025, apparently, so go ahead and get ready to have your mind blown by some vintage tech knowledge."
   },
   {
-    "title": "A mole infiltrated the highest ranks of American militias",
-    "url": "https://www.propublica.org/article/ap3-oath-keepers-militia-mole",
-    "points": 368,
-    "num_comments": 241,
+    "title": "Web page annoyances that I don't inflict on you",
+    "url": "http://rachelbythebay.com/w/2025/01/04/cruft/",
+    "points": 315,
+    "num_comments": 166,
     "tags": [
       "story",
-      "author_colinprince",
-      "story_42594766"
+      "author_todsacerdoti",
+      "story_42599102"
     ],
-    "author": "colinprince",
-    "created_at": "2025-01-04T14:13:16Z",
-    "aiHeadline": "In a Shocking Turn of Events, It's Been Revealed That a Mole Infiltrated the Highest Ranks of American Militias, Because Who Needs a Spy Novel When You Have Real-Life Intrigue, and It's Got Everyone Wondering How This Sneaky Character Managed to Go Undetected for So Long"
+    "author": "todsacerdoti",
+    "created_at": "2025-01-05T01:54:53Z",
+    "aiHeadline": "In a heartwarming display of consideration, a developer has revealed the web page annoyances they refrain from inflicting upon their users, including but not limited to autoplaying videos, pesky pop-ups, and Comic Sans, because who doesn't love a good font-related trauma?"
   },
   {
-    "title": "Combining 15s interval whole-sky-camera photos to form a 4y spanning keogram",
-    "url": "https://astrodon.social/@cgbassa/113770318993975063",
-    "points": 352,
-    "num_comments": 53,
+    "title": "Show HN: Struggle with CSS Flexbox? This Playground Is for You",
+    "url": "https://yoavsbg.github.io/css-flexbox-playground/",
+    "points": 271,
+    "num_comments": 96,
     "tags": [
       "story",
-      "author_nebalee",
-      "story_42595190",
+      "author_yoav_sbg",
+      "story_42600586",
+      "show_hn",
       "front_page"
     ],
-    "author": "nebalee",
-    "created_at": "2025-01-04T15:18:13Z",
-    "aiHeadline": "For All You Space Nerds Out There, Get Ready to Have Your Minds Blown by This Incredible Keogram Formed by Combining 15-Second Interval Whole-Sky-Camera Photos Over Four Years, Because Who Needs a Time-Lapse When You Can Have a Majestic 4-Year Spanning Masterpiece?"
-  },
-  {
-    "title": "Breaking Up with Long Tasks or: how I learned to group loops and wield the yield",
-    "url": "https://calendar.perfplanet.com/2024/breaking-up-with-long-tasks-or-how-i-learned-to-group-loops-and-wield-the-yield/",
-    "points": 183,
-    "num_comments": 59,
-    "tags": [
-      "story",
-      "author_jcbhmr",
-      "story_42592224"
-    ],
-    "author": "jcbhmr",
-    "created_at": "2025-01-04T03:51:38Z",
-    "aiHeadline": "In a Groundbreaking Discovery, a Developer Has Figured Out How to Break Up with Long Tasks, and It's Not by Swiping Left, But by Learning to Group Loops and Wield the Yield, Because Who Knew That Coding Could be So Romantic, and This Article Will Teach You How to Do It Too"
+    "author": "yoav_sbg",
+    "created_at": "2025-01-05T09:02:01Z",
+    "aiHeadline": "Struggling with CSS Flexbox? Well, struggle no more, dear developer, for a hero has emerged with a Flexbox Playground that's here to save the day, or at least your sanity, with its interactive and hopefully non-frustrating interface, so go ahead and flex those coding muscles in a safe and judgement-free zone."
   }
 ]
