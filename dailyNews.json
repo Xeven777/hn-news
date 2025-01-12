@@ -1,76 +1,78 @@
 [
   {
-    "title": "I've acquired a new superpower",
-    "url": "https://danielwirtz.com/blog/spot-the-difference-superpower",
-    "points": 1014,
-    "num_comments": 399,
+    "title": "Be Aware of the Makefile Effect",
+    "url": "https://blog.yossarian.net/2025/01/10/Be-aware-of-the-Makefile-effect",
+    "points": 355,
+    "num_comments": 281,
     "tags": [
       "story",
-      "author_wirtzdan",
-      "story_42655870",
+      "author_thunderbong",
+      "story_42663231",
       "front_page"
     ],
-    "author": "wirtzdan",
-    "created_at": "2025-01-10T14:34:34Z",
-    "aiHeadline": "Breaking News: Some Guy Named Daniel Wirtz Just Acquired a New Superpower, But Let's Be Real, It's Probably Just the Ability to Spot the Difference Between Two Nearly Identical Images, Which, Honestly, Isn't That Impressive, But Hey, Still a Superpower, Right?"
+    "author": "thunderbong",
+    "created_at": "2025-01-11T04:13:12Z",
+    "aiHeadline": "Breaking News: Be Aware of the Makefile Effect, a Phenomenon Where Your Code Turns Against You and Starts Making Its Own Decisions, Because Who Needs Humans Anyway, and It's Not Like We Haven't Seen This Before in Every Sci-Fi Movie Ever Made"
   },
   {
-    "title": "Meta's memo to employees rolling back DEI programs",
-    "url": "https://www.axios.com/2025/01/10/meta-dei-memo-employees-programs",
-    "points": 673,
-    "num_comments": 888,
-    "tags": [
-      "story",
-      "author_bsilvereagle",
-      "story_42657901",
-      "front_page"
-    ],
-    "author": "bsilvereagle",
-    "created_at": "2025-01-10T17:48:04Z",
-    "aiHeadline": "Meta's Latest Memo to Employees: 'Diversity, Equity, and Inclusion Are So Last Season, Let's Just Focus on Making More Money and Forget About Being a Decent Human Being', or at Least That's What It Sounds Like When You Read Between the Lines of Their Latest Announcement About Rolling Back DEI Programs"
-  },
-  {
-    "title": "Visualizing All ISBNs",
-    "url": "https://annas-archive.org/blog/all-isbns.html",
-    "points": 328,
-    "num_comments": 101,
-    "tags": [
-      "story",
-      "author_RyanShook",
-      "story_42652577",
-      "front_page"
-    ],
-    "author": "RyanShook",
-    "created_at": "2025-01-10T04:45:55Z",
-    "aiHeadline": "Some Genius on the Internet Has Managed to Visualize All ISBNs, Because, You Know, That's Exactly What the World Was Missing - a Comprehensive Database of Every ISBN Ever Created, Said No One Ever, But Hey, at Least It's a Fun Party Trick to Impress Your Friends with Your Obscure Knowledge"
-  },
-  {
-    "title": "Starlink is now cheaper than leading internet provider in some African countries",
-    "url": "https://restofworld.org/2025/starlink-cheaper-internet-africa/",
-    "points": 216,
-    "num_comments": 188,
+    "title": "Matt Mullenweg deactivates WordPress accounts of contributors planning a fork",
+    "url": "https://techcrunch.com/2025/01/11/matt-mullenweg-deactivates-wordpress-accounts-of-contributors-planning-a-fork/",
+    "points": 252,
+    "num_comments": 98,
     "tags": [
       "story",
       "author_impish9208",
-      "story_42657692"
-    ],
-    "author": "impish9208",
-    "created_at": "2025-01-10T17:24:32Z",
-    "aiHeadline": "In a Shocking Turn of Events, Starlink Has Become Cheaper Than the Leading Internet Provider in Some African Countries, Which Is Great News, Except for the Part Where It's Still Probably Going to Take Them a Few Years to Actually Get the Internet to Work Properly, But Hey, at Least They're Trying, Right?"
-  },
-  {
-    "title": "Cuttle – a MTG like game using a standard 52 card deck",
-    "url": "https://www.pagat.com/combat/cuttle.html",
-    "points": 186,
-    "num_comments": 56,
-    "tags": [
-      "story",
-      "author_7thaccount",
-      "story_42658614",
+      "story_42667766",
       "front_page"
     ],
-    "author": "7thaccount",
-    "created_at": "2025-01-10T18:43:26Z",
-    "aiHeadline": "Get Ready to Waste Hours of Your Life Playing Cuttle, the New MTG-Like Game That Uses a Standard 52-Card Deck, Because Who Needs Productivity or a Social Life When You Can Spend Your Days Playing Card Games and Pretending You're a Functional Member of Society?"
+    "author": "impish9208",
+    "created_at": "2025-01-11T18:14:17Z",
+    "aiHeadline": "Drama Alert: Matt Mullenweg Deactivates WordPress Accounts of Contributors Planning a Fork, Because Who Needs Open-Source Contributions When You Can Just Shut Them Down and Maintain Your Iron Grip on the WordPress Kingdom, All While Claiming to Be a Champion of Freedom and Transparency"
+  },
+  {
+    "title": "Track your devices via Apple FindMy network in Go/TinyGo",
+    "url": "https://github.com/hybridgroup/go-haystack",
+    "points": 250,
+    "num_comments": 69,
+    "tags": [
+      "story",
+      "author_deadprogram",
+      "story_42665367",
+      "front_page"
+    ],
+    "author": "deadprogram",
+    "created_at": "2025-01-11T12:14:34Z",
+    "aiHeadline": "Big Brother is Watching: Track Your Devices via Apple FindMy Network in Go/TinyGo, Because You Clearly Don't Have Enough Ways to Spy on Your Family Members and Lost Devices, and Who Needs Privacy Anyway in This Day and Age of Constant Surveillance"
+  },
+  {
+    "title": "De-smarting the Marshall Uxbridge",
+    "url": "https://tomscii.sig7.se/2025/01/De-smarting-the-Marshall-Uxbridge",
+    "points": 224,
+    "num_comments": 67,
+    "tags": [
+      "story",
+      "author_fanf2",
+      "story_42666572",
+      "front_page"
+    ],
+    "author": "fanf2",
+    "created_at": "2025-01-11T15:42:02Z",
+    "aiHeadline": "The Ultimate DIY Project: De-smarting the Marshall Uxbridge, Because Who Needs Smart Devices When You Can Just Dumb Them Down and Make Them Do What You Want, Like a Caveman Taming a Wild Beast, and Then Brag About It on the Internet for All to See"
+  },
+  {
+    "title": "Show HN: TypeScript/React/Vue Window Layout Manager (Tabs, Floating, Popouts)",
+    "url": "https://github.com/mathuo/dockview",
+    "points": 207,
+    "num_comments": 48,
+    "tags": [
+      "story",
+      "author_mathuo",
+      "story_42666492",
+      "show_hn",
+      "front_page"
+    ],
+    "author": "mathuo",
+    "created_at": "2025-01-11T15:31:03Z",
+    "aiHeadline": "Show and Tell Time: Introducing the TypeScript/React/Vue Window Layout Manager, a Game-Changing Tool That Will Revolutionize the Way You Manage Your Windows, Tabs, and Floating Popouts, and Make You Wonder How You Ever Lived Without It, Until You Realize It's Just Another Tool to Add to Your Already Overwhelming Toolbox"
   }
 ]
