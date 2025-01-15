@@ -1,77 +1,73 @@
 [
   {
-    "title": "WordPress Is in Trouble",
-    "url": "https://anderegg.ca/2025/01/11/wordpress-is-in-trouble",
-    "points": 550,
-    "num_comments": 335,
+    "title": "I Switched to Firefox and Never Looked Back",
+    "url": "https://www.howtogeek.com/why-i-switched-to-firefox-and-never-looked-back/",
+    "points": 538,
+    "num_comments": 455,
     "tags": [
       "story",
-      "author_ulrischa",
-      "story_42687121",
-      "front_page"
+      "author_Vinnl",
+      "story_42696081"
     ],
-    "author": "ulrischa",
-    "created_at": "2025-01-13T18:55:31Z",
-    "aiHeadline": "WordPress Is in Trouble, and by Trouble, We Mean It's Probably Just Having a Midlife Crisis and Needs to Rebrand Itself as WordPress 2.0 or Something, But Seriously, What's Going On with the Most Popular CMS in the World?"
+    "author": "Vinnl",
+    "created_at": "2025-01-14T11:37:58Z",
+    "aiHeadline": "The Ultimate Betrayal: One Brave Soul Ditches Google Chrome for Firefox and Lives to Tell the Tale, Leaving Us All to Wonder If We've Been Missing Out on a Browser Utopia This Whole Time"
   },
   {
-    "title": "The Origins of Wokeness",
-    "url": "https://paulgraham.com/woke.html",
-    "points": 534,
-    "num_comments": 1378,
+    "title": "In the belly of the MrBeast",
+    "url": "https://kevinmunger.substack.com/p/in-the-belly-of-the-mrbeast",
+    "points": 452,
+    "num_comments": 344,
     "tags": [
       "story",
-      "author_crbelaus",
-      "story_42682305",
-      "front_page"
+      "author_stafford_beer",
+      "story_42696691"
     ],
-    "author": "crbelaus",
-    "created_at": "2025-01-13T11:21:01Z",
-    "aiHeadline": "The Origins of Wokeness: A Super Long and Winding Road That We're Not Entirely Sure About, But Apparently, It's Got Something to Do with Being Aware of Social Issues and Not Being a Total Jerk, According to This One Essay by Paul Graham"
+    "author": "stafford_beer",
+    "created_at": "2025-01-14T13:05:31Z",
+    "aiHeadline": "A Journey to the Center of Madness: Uncovering the Inner Workings of MrBeast's Empire, Where Clicks, Controversy, and Unbridled Chaos Reign Supreme, and We Can't Look Away"
   },
   {
-    "title": "Debugging: Indispensable rules for finding even the most elusive problems (2004)",
-    "url": "https://dwheeler.com/essays/debugging-agans.html",
+    "title": "Apple will soon receive 'made in America' chips from TSMC's Arizona fab",
+    "url": "https://www.tomshardware.com/tech-industry/apple-will-soon-receive-made-in-america-chips-from-tsmcs-arizona-fab-company-in-final-stages-of-quality-verification",
     "points": 410,
-    "num_comments": 177,
+    "num_comments": 399,
     "tags": [
       "story",
-      "author_omkar-foss",
-      "story_42682602",
-      "front_page"
+      "author_rbanffy",
+      "story_42699977"
     ],
-    "author": "omkar-foss",
-    "created_at": "2025-01-13T12:07:42Z",
-    "aiHeadline": "Debugging: Because Who Needs Sleep or a Social Life When You Can Spend Hours Trying to Find That One Pesky Error in Your Code, and These Indispensable Rules from 2004 Will Probably Help, But No Promises, Good Luck with That"
+    "author": "rbanffy",
+    "created_at": "2025-01-14T16:56:47Z",
+    "aiHeadline": "The Stars and Stripes of Silicon: Apple to Receive 'Made in America' Chips from TSMC's Arizona Fab, Because Who Needs Globalization When You Can Have Good Ol' American Ingenuity and a Side of Fries"
   },
   {
-    "title": "How did they make cars fall apart in old movies (2017)",
-    "url": "https://movies.stackexchange.com/questions/79161/how-did-they-make-cars-fall-apart-in-old-movies",
-    "points": 259,
-    "num_comments": 96,
+    "title": "Google’s OAuth login doesn’t protect against purchasing a failed startup domain",
+    "url": "https://trufflesecurity.com/blog/millions-at-risk-due-to-google-s-oauth-flaw",
+    "points": 401,
+    "num_comments": 216,
     "tags": [
       "story",
-      "author_mgsouth",
-      "story_42679127",
+      "author_simiones",
+      "story_42699099",
       "front_page"
     ],
-    "author": "mgsouth",
-    "created_at": "2025-01-13T01:41:52Z",
-    "aiHeadline": "The Magic of Making Cars Fall Apart in Old Movies: A Lost Art That Apparently Involved a Lot of Explosives, Skillful Editing, and a Prayer That the Stunt Driver Wouldn't Actually Get Hurt, But Hey, It Made for Some Great Action Scenes, Right?"
+    "author": "simiones",
+    "created_at": "2025-01-14T16:14:01Z",
+    "aiHeadline": "The Great OAuth Debacle: Google's Login System Exposed as the Ultimate Party Crashers, Allowing Anyone to Buy a Failed Startup Domain and Gatecrash the Web's Most Exclusive Clubs, Because Who Needs Security Anyway"
   },
   {
-    "title": "AI Engineer Reading List",
-    "url": "https://www.latent.space/p/2025-papers",
-    "points": 236,
-    "num_comments": 37,
+    "title": "1 in 5 online job postings are either fake or never filled, study finds",
+    "url": "https://gizmodo.com/1-in-5-online-job-postings-are-either-fake-or-never-filled-study-finds-2000549706",
+    "points": 384,
+    "num_comments": 341,
     "tags": [
       "story",
-      "author_ingve",
-      "story_42686457",
-      "front_page"
+      "author_belter",
+      "story_42697783"
     ],
-    "author": "ingve",
-    "created_at": "2025-01-13T18:11:17Z",
-    "aiHeadline": "The AI Engineer Reading List: Because If You Want to Survive in the Cutthroat World of Artificial Intelligence, You'd Better Be Willing to Read a Lot of Papers and Stay Up to Date on the Latest Developments, or You'll Be Left Behind, Probably to Be Replaced by a Robot or Something"
+    "author": "belter",
+    "created_at": "2025-01-14T14:44:20Z",
+    "aiHeadline": "The Job Market Mirage: Study Reveals 1 in 5 Online Job Postings Are About as Real as a Unicorn's Tears, Leaving Us to Question the Very Fabric of Our Online Existence and the True Meaning of 'Career Opportunities'"
   }
 ]
