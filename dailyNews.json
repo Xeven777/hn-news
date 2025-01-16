@@ -1,73 +1,74 @@
 [
   {
-    "title": "I Switched to Firefox and Never Looked Back",
-    "url": "https://www.howtogeek.com/why-i-switched-to-firefox-and-never-looked-back/",
-    "points": 538,
-    "num_comments": 455,
+    "title": "TikTok preparing for U.S. shut-off on Sunday",
+    "url": "https://www.reuters.com/technology/tiktok-preparing-us-shut-off-sunday-information-reports-2025-01-15/",
+    "points": 487,
+    "num_comments": 1386,
     "tags": [
       "story",
-      "author_Vinnl",
-      "story_42696081"
-    ],
-    "author": "Vinnl",
-    "created_at": "2025-01-14T11:37:58Z",
-    "aiHeadline": "The Ultimate Betrayal: One Brave Soul Ditches Google Chrome for Firefox and Lives to Tell the Tale, Leaving Us All to Wonder If We've Been Missing Out on a Browser Utopia This Whole Time"
-  },
-  {
-    "title": "In the belly of the MrBeast",
-    "url": "https://kevinmunger.substack.com/p/in-the-belly-of-the-mrbeast",
-    "points": 452,
-    "num_comments": 344,
-    "tags": [
-      "story",
-      "author_stafford_beer",
-      "story_42696691"
-    ],
-    "author": "stafford_beer",
-    "created_at": "2025-01-14T13:05:31Z",
-    "aiHeadline": "A Journey to the Center of Madness: Uncovering the Inner Workings of MrBeast's Empire, Where Clicks, Controversy, and Unbridled Chaos Reign Supreme, and We Can't Look Away"
-  },
-  {
-    "title": "Apple will soon receive 'made in America' chips from TSMC's Arizona fab",
-    "url": "https://www.tomshardware.com/tech-industry/apple-will-soon-receive-made-in-america-chips-from-tsmcs-arizona-fab-company-in-final-stages-of-quality-verification",
-    "points": 410,
-    "num_comments": 399,
-    "tags": [
-      "story",
-      "author_rbanffy",
-      "story_42699977"
-    ],
-    "author": "rbanffy",
-    "created_at": "2025-01-14T16:56:47Z",
-    "aiHeadline": "The Stars and Stripes of Silicon: Apple to Receive 'Made in America' Chips from TSMC's Arizona Fab, Because Who Needs Globalization When You Can Have Good Ol' American Ingenuity and a Side of Fries"
-  },
-  {
-    "title": "Google’s OAuth login doesn’t protect against purchasing a failed startup domain",
-    "url": "https://trufflesecurity.com/blog/millions-at-risk-due-to-google-s-oauth-flaw",
-    "points": 401,
-    "num_comments": 216,
-    "tags": [
-      "story",
-      "author_simiones",
-      "story_42699099",
+      "author_xnhbx",
+      "story_42710339",
       "front_page"
     ],
-    "author": "simiones",
-    "created_at": "2025-01-14T16:14:01Z",
-    "aiHeadline": "The Great OAuth Debacle: Google's Login System Exposed as the Ultimate Party Crashers, Allowing Anyone to Buy a Failed Startup Domain and Gatecrash the Web's Most Exclusive Clubs, Because Who Needs Security Anyway"
+    "author": "xnhbx",
+    "created_at": "2025-01-15T12:57:31Z",
+    "aiHeadline": "BREAKING: TikTok Braces for Potential US Shutdown on Sunday, Because Who Needs Viral Dance Challenges and Lip-Syncing Teens Anyway, Right? The Popular Social Media App is Preparing for the Worst, and Users are Left Wondering What They Did to Deserve Such a Fate"
   },
   {
-    "title": "1 in 5 online job postings are either fake or never filled, study finds",
-    "url": "https://gizmodo.com/1-in-5-online-job-postings-are-either-fake-or-never-filled-study-finds-2000549706",
-    "points": 384,
-    "num_comments": 341,
+    "title": "Nevada court shuts down police use of federal loophole for civil forfeiture",
+    "url": "https://ij.org/press-release/nevada-court-shuts-down-police-use-of-federal-loophole-for-civil-forfeiture/",
+    "points": 409,
+    "num_comments": 248,
     "tags": [
       "story",
-      "author_belter",
-      "story_42697783"
+      "author_greyface-",
+      "story_42707573"
     ],
-    "author": "belter",
-    "created_at": "2025-01-14T14:44:20Z",
-    "aiHeadline": "The Job Market Mirage: Study Reveals 1 in 5 Online Job Postings Are About as Real as a Unicorn's Tears, Leaving Us to Question the Very Fabric of Our Online Existence and the True Meaning of 'Career Opportunities'"
+    "author": "greyface-",
+    "created_at": "2025-01-15T05:15:24Z",
+    "aiHeadline": "Nevada Court Puts the Kibosh on Police Using a Sneaky Federal Loophole to Seize People's Stuff Without Due Process, Because Who Needs the 4th Amendment Anyway? Just Kidding, This is a Big Win for Civil Liberties and a Blow to Overzealous Cops"
+  },
+  {
+    "title": "Why is Cloudflare Pages' bandwidth unlimited?",
+    "url": "https://mattsayar.com/why-does-cloudflare-pages-have-such-a-generous-free-tier/",
+    "points": 385,
+    "num_comments": 245,
+    "tags": [
+      "story",
+      "author_MattSayar",
+      "story_42712433",
+      "front_page"
+    ],
+    "author": "MattSayar",
+    "created_at": "2025-01-15T15:55:13Z",
+    "aiHeadline": "Cloudflare Pages is Like That One Friend Who Has an Unlimited Data Plan and Insists on Sharing it With Everyone, Offering Unlimited Bandwidth Because Why Not, and We're All Just Over Here Wondering What Sorcery is Behind This Generous Free Tier"
+  },
+  {
+    "title": "Generate audiobooks from E-books with Kokoro-82M",
+    "url": "https://claudio.uk/posts/epub-to-audiobook.html",
+    "points": 382,
+    "num_comments": 226,
+    "tags": [
+      "story",
+      "author_csantini",
+      "story_42708773"
+    ],
+    "author": "csantini",
+    "created_at": "2025-01-15T08:47:38Z",
+    "aiHeadline": "Get Ready to Have Your Mind Blown by Kokoro-82M, the AI Tool That Can Turn E-Books into Audiobooks, Because Who Needs Human Narrators When You Can Have Robots Doing the Heavy Lifting, and Bookworms Everywhere are Rejoicing at the Prospect of Having More Time to Devour Even More Pages"
+  },
+  {
+    "title": "A marriage proposal spoken in office jargon",
+    "url": "https://www.mcsweeneys.net/articles/a-marriage-proposal-spoken-entirely-in-office-jargon",
+    "points": 355,
+    "num_comments": 201,
+    "tags": [
+      "story",
+      "author_ohjeez",
+      "story_42714775"
+    ],
+    "author": "ohjeez",
+    "created_at": "2025-01-15T18:12:55Z",
+    "aiHeadline": "In a Bold Move, Some Genius Decided to Propose Marriage Using Only Office Jargon, Because What Says 'I Love You' More Than Synergy, Disruption, and Paradigm Shifts? This Couple is Clearly Meant to Be, and Their Love Will Probably Be a Game-Changer in the World of Corporate Speak"
   }
 ]
