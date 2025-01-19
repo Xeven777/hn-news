@@ -1,75 +1,76 @@
 [
   {
-    "title": "Canon wants us to pay for using our own camera as a webcam",
-    "url": "https://romanzipp.com/blog/no-you-cant-use-your-6299-canon-camera-as-a-webcam",
-    "points": 972,
-    "num_comments": 612,
+    "title": "Amazon's AI crawler is making my Git server unstable",
+    "url": "https://xeiaso.net/notes/2025/amazon-crawler/",
+    "points": 452,
+    "num_comments": 174,
     "tags": [
       "story",
-      "author_romanzipp",
-      "story_42735393"
-    ],
-    "author": "romanzipp",
-    "created_at": "2025-01-17T08:50:45Z",
-    "aiHeadline": "Breaking News: Canon is being super generous and only asking you to pay extra to use your own camera as a webcam, because who needs free features when you've already spent $6299 on a fancy camera, and now they're basically holding your webcam functionality hostage, wow what a great business model!"
-  },
-  {
-    "title": "Supreme Court upholds TikTok ban, but Trump might offer lifeline",
-    "url": "https://www.cnbc.com/2025/01/17/supreme-court-rules-to-uphold-tiktok-ban.html",
-    "points": 800,
-    "num_comments": 2037,
-    "tags": [
-      "story",
-      "author_kjhughes",
-      "story_42738464",
+      "author_OptionOfT",
+      "story_42750420",
       "front_page"
     ],
-    "author": "kjhughes",
-    "created_at": "2025-01-17T15:23:58Z",
-    "aiHeadline": "In a shocking turn of events, the Supreme Court has upheld the TikTok ban, but don't worry, Trump is here to save the day, or at least that's what we're led to believe, with a potential lifeline that will probably come with its own set of strings attached, because that's just how politics works, right?"
+    "author": "OptionOfT",
+    "created_at": "2025-01-18T18:48:51Z",
+    "aiHeadline": "Amazon's AI crawler has apparently decided to go rogue and is now wreaking havoc on some poor soul's Git server, because who needs stability when you have AI, right? The one thing that's not being crawled is the user's patience, which is clearly wearing thin."
   },
   {
-    "title": "Thoughts on a Month with Devin",
-    "url": "https://www.answer.ai/posts/2025-01-08-devin.html",
-    "points": 261,
-    "num_comments": 168,
+    "title": "I've been advocating for RSS support, and you should too",
+    "url": "https://reedybear.bearblog.dev/ive-been-advocating-for-rss-support-and-you-should-too/",
+    "points": 431,
+    "num_comments": 205,
     "tags": [
       "story",
-      "author_swyx",
-      "story_42734681"
+      "author_emschwartz",
+      "story_42746222"
     ],
-    "author": "swyx",
-    "created_at": "2025-01-17T06:29:42Z",
-    "aiHeadline": "Get ready for a thrilling read about someone's thoughts on a whole month with Devin, because who doesn't love a good month-long reflection on their experiences, and I'm sure it's not just a bunch of mundane details that you'll struggle to stay awake through, but rather a riveting tale of adventure and excitement, or maybe not"
+    "author": "emschwartz",
+    "created_at": "2025-01-18T05:58:53Z",
+    "aiHeadline": "Someone's on a mission to bring back the good old days of RSS, because who needs social media algorithms deciding what you should read when you can have a trusty feed reader, and honestly, it's about time someone advocated for this, so kudos to them for taking on the challenge of making the internet great again, one feed at a time."
   },
   {
-    "title": "Investigating an \"Evil\" RJ45 Dongle",
-    "url": "https://lcamtuf.substack.com/p/investigating-an-evil-rj45-dongle",
-    "points": 219,
-    "num_comments": 70,
+    "title": "Show HN: Interactive systemd – a better way to work with systemd units",
+    "url": "https://isd-project.github.io/isd/",
+    "points": 360,
+    "num_comments": 121,
     "tags": [
       "story",
-      "author_zdw",
-      "story_42743033",
+      "author_kai-tub",
+      "story_42749402",
+      "show_hn",
       "front_page"
     ],
-    "author": "zdw",
-    "created_at": "2025-01-17T20:41:56Z",
-    "aiHeadline": "Investigating an 'Evil' RJ45 Dongle: because who doesn't love a good mystery, especially when it involves a possibly malicious USB device that's just waiting to ruin your day, and our intrepid investigator is on the case, delving into the dark world of potentially evil tech gadgets, stay tuned for the thrilling conclusion"
+    "author": "kai-tub",
+    "created_at": "2025-01-18T16:22:03Z",
+    "aiHeadline": "Get ready to have your mind blown by Interactive systemd, the ultimate game-changer for anyone who's ever struggled with systemd units, and by struggled, I mean pulled their hair out in frustration, because let's be real, systemd can be a real pain, but fear not, dear sysadmins, for help is here, and it's interactive, no less."
   },
   {
-    "title": "Brood War Korean Translations",
-    "url": "https://blog.sourcedive.net/brood-war-korean-translations/",
-    "points": 218,
-    "num_comments": 72,
+    "title": "Using ChatGPT is not bad for the environment",
+    "url": "https://andymasley.substack.com/p/individual-ai-use-is-not-bad-for",
+    "points": 220,
+    "num_comments": 284,
     "tags": [
       "story",
-      "author_todsacerdoti",
-      "story_42740596",
+      "author_returningfory2",
+      "story_42745847"
+    ],
+    "author": "returningfory2",
+    "created_at": "2025-01-18T04:31:04Z",
+    "aiHeadline": "Breaking news: using ChatGPT won't single-handedly destroy the planet, so you can all breathe a collective sigh of relief and go back to generating your AI-powered content, guilt-free, or at least, that's what the latest research claims, but don't worry, I'm sure the environmental impact of all those servers humming away will be someone else's problem to deal with."
+  },
+  {
+    "title": "VS Code Pets",
+    "url": "https://github.com/tonybaloney/vscode-pets",
+    "points": 220,
+    "num_comments": 54,
+    "tags": [
+      "story",
+      "author_vortex_ape",
+      "story_42750195",
       "front_page"
     ],
-    "author": "todsacerdoti",
-    "created_at": "2025-01-17T17:15:07Z",
-    "aiHeadline": "For all you Brood War fans out there, get excited, because someone has taken the time to translate the Korean parts of the game, and now you can finally understand what's going on, or at least that's the theory, assuming you're still playing this game from the Stone Age of gaming, and you're not just nostalgic for the good old days when graphics were bad and gameplay was clunky"
+    "author": "vortex_ape",
+    "created_at": "2025-01-18T18:17:59Z",
+    "aiHeadline": "VS Code just got a whole lot more adorable with the introduction of VS Code Pets, because what every coder really needs is a virtual pet to keep them company while they're debugging their code, and who knows, maybe these digital darlings will even help you find that one pesky bug that's been evading you for hours, or maybe they'll just distract you from your work, either way, it's a win-win."
   }
 ]
