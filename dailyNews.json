@@ -1,76 +1,76 @@
 [
   {
-    "title": "Amazon's AI crawler is making my Git server unstable",
-    "url": "https://xeiaso.net/notes/2025/amazon-crawler/",
-    "points": 452,
-    "num_comments": 174,
+    "title": "TikTok goes dark in the US",
+    "url": "https://techcrunch.com/2025/01/18/tiktok-goes-dark-in-the-u-s/",
+    "points": 1151,
+    "num_comments": 2347,
     "tags": [
       "story",
-      "author_OptionOfT",
-      "story_42750420",
+      "author_mfiguiere",
+      "story_42753396"
+    ],
+    "author": "mfiguiere",
+    "created_at": "2025-01-19T03:51:49Z",
+    "aiHeadline": "Breaking News: TikTok Takes a Temporary Timeout in the US, Leaving Users to Twiddle Their Thumbs and Wonder if They'll Ever Get Their Daily Dose of Dance Challenges and Cat Videos Again, But Don't Worry, It's Back Up Now, So You Can Breathe a Sigh of Relief and Get Back to Scrolling Mindlessly"
+  },
+  {
+    "title": "TikTok says it is restoring service for U.S. users",
+    "url": "https://www.nbcnews.com/tech/tech-news/tiktok-says-restoring-service-us-users-rcna188320",
+    "points": 489,
+    "num_comments": 1487,
+    "tags": [
+      "story",
+      "author_Leary",
+      "story_42759336",
       "front_page"
     ],
-    "author": "OptionOfT",
-    "created_at": "2025-01-18T18:48:51Z",
-    "aiHeadline": "Amazon's AI crawler has apparently decided to go rogue and is now wreaking havoc on some poor soul's Git server, because who needs stability when you have AI, right? The one thing that's not being crawled is the user's patience, which is clearly wearing thin."
+    "author": "Leary",
+    "created_at": "2025-01-19T17:42:44Z",
+    "aiHeadline": "TikTok's Brief Blackout in the US is Over, and the Company is Breathing a Sigh of Relief as Service is Restored, But Let's Be Real, We All Know It's Only a Matter of Time Before the Next Outage, Because, You Know, Technology is Always a Delicate Flower That Can Wiltingly Wither Away at Any Moment"
   },
   {
-    "title": "I've been advocating for RSS support, and you should too",
-    "url": "https://reedybear.bearblog.dev/ive-been-advocating-for-rss-support-and-you-should-too/",
-    "points": 431,
-    "num_comments": 205,
+    "title": "Forgejo: A self-hosted lightweight software forge",
+    "url": "https://forgejo.org/",
+    "points": 339,
+    "num_comments": 245,
     "tags": [
       "story",
-      "author_emschwartz",
-      "story_42746222"
-    ],
-    "author": "emschwartz",
-    "created_at": "2025-01-18T05:58:53Z",
-    "aiHeadline": "Someone's on a mission to bring back the good old days of RSS, because who needs social media algorithms deciding what you should read when you can have a trusty feed reader, and honestly, it's about time someone advocated for this, so kudos to them for taking on the challenge of making the internet great again, one feed at a time."
-  },
-  {
-    "title": "Show HN: Interactive systemd – a better way to work with systemd units",
-    "url": "https://isd-project.github.io/isd/",
-    "points": 360,
-    "num_comments": 121,
-    "tags": [
-      "story",
-      "author_kai-tub",
-      "story_42749402",
-      "show_hn",
+      "author_thunderbong",
+      "story_42753523",
       "front_page"
     ],
-    "author": "kai-tub",
-    "created_at": "2025-01-18T16:22:03Z",
-    "aiHeadline": "Get ready to have your mind blown by Interactive systemd, the ultimate game-changer for anyone who's ever struggled with systemd units, and by struggled, I mean pulled their hair out in frustration, because let's be real, systemd can be a real pain, but fear not, dear sysadmins, for help is here, and it's interactive, no less."
+    "author": "thunderbong",
+    "created_at": "2025-01-19T04:15:26Z",
+    "aiHeadline": "Introducing Forgejo, the Self-Hosted Lightweight Software Forge That's Here to Save the Day, or at Least Your Sanity, by Giving You a Refreshing Alternative to the Usual Soul-Sucking,Corporate-Controlled Options, So Go Ahead, Take a Deep Breath, and Join the Rebellion Against the Walled Gardens of the Tech World"
   },
   {
-    "title": "Using ChatGPT is not bad for the environment",
-    "url": "https://andymasley.substack.com/p/individual-ai-use-is-not-bad-for",
-    "points": 220,
-    "num_comments": 284,
+    "title": "Escape the walled garden and algorithm black boxes with RSS feeds",
+    "url": "https://www.johnwalker.nl/posts/escape-the-walled-garden-with-rss",
+    "points": 224,
+    "num_comments": 81,
     "tags": [
       "story",
-      "author_returningfory2",
-      "story_42745847"
-    ],
-    "author": "returningfory2",
-    "created_at": "2025-01-18T04:31:04Z",
-    "aiHeadline": "Breaking news: using ChatGPT won't single-handedly destroy the planet, so you can all breathe a collective sigh of relief and go back to generating your AI-powered content, guilt-free, or at least, that's what the latest research claims, but don't worry, I'm sure the environmental impact of all those servers humming away will be someone else's problem to deal with."
-  },
-  {
-    "title": "VS Code Pets",
-    "url": "https://github.com/tonybaloney/vscode-pets",
-    "points": 220,
-    "num_comments": 54,
-    "tags": [
-      "story",
-      "author_vortex_ape",
-      "story_42750195",
+      "author_rekl",
+      "story_42761219",
       "front_page"
     ],
-    "author": "vortex_ape",
-    "created_at": "2025-01-18T18:17:59Z",
-    "aiHeadline": "VS Code just got a whole lot more adorable with the introduction of VS Code Pets, because what every coder really needs is a virtual pet to keep them company while they're debugging their code, and who knows, maybe these digital darlings will even help you find that one pesky bug that's been evading you for hours, or maybe they'll just distract you from your work, either way, it's a win-win."
+    "author": "rekl",
+    "created_at": "2025-01-19T20:07:23Z",
+    "aiHeadline": "Warning: RSS Feeds May Cause Excessive Freedom and Autonomy, So Proceed with Caution, But If You're Tired of Being Held Hostage by Algorithmic Black Boxes and Walled Gardens, Then It's Time to Break Free and Join the RSS Revolution, Where You Get to Choose What You See and When, What a Novel Concept, Right?"
+  },
+  {
+    "title": "Haskell: A Great Procedural Language",
+    "url": "https://entropicthoughts.com/haskell-procedural-programming",
+    "points": 223,
+    "num_comments": 167,
+    "tags": [
+      "story",
+      "author_kqr",
+      "story_42754098",
+      "front_page"
+    ],
+    "author": "kqr",
+    "created_at": "2025-01-19T05:50:18Z",
+    "aiHeadline": "Haskell, the Programming Language That's So Pure and Functional, It'll Make You Wonder How You Ever Lived Without It, But Don't Just Take Our Word for It, Read This Article and Discover Why Haskell is the Unsung Hero of Procedural Programming, and How It'll Make You a Better, More Enlightened Coder, or at Least Give You a Good Laugh"
   }
 ]
