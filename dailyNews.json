@@ -1,76 +1,77 @@
 [
   {
-    "title": "TikTok goes dark in the US",
-    "url": "https://techcrunch.com/2025/01/18/tiktok-goes-dark-in-the-u-s/",
-    "points": 1151,
-    "num_comments": 2347,
+    "title": "DeepSeek-R1",
+    "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+    "points": 1032,
+    "num_comments": 367,
     "tags": [
       "story",
-      "author_mfiguiere",
-      "story_42753396"
-    ],
-    "author": "mfiguiere",
-    "created_at": "2025-01-19T03:51:49Z",
-    "aiHeadline": "Breaking News: TikTok Takes a Temporary Timeout in the US, Leaving Users to Twiddle Their Thumbs and Wonder if They'll Ever Get Their Daily Dose of Dance Challenges and Cat Videos Again, But Don't Worry, It's Back Up Now, So You Can Breathe a Sigh of Relief and Get Back to Scrolling Mindlessly"
-  },
-  {
-    "title": "TikTok says it is restoring service for U.S. users",
-    "url": "https://www.nbcnews.com/tech/tech-news/tiktok-says-restoring-service-us-users-rcna188320",
-    "points": 489,
-    "num_comments": 1487,
-    "tags": [
-      "story",
-      "author_Leary",
-      "story_42759336",
+      "author_meetpateltech",
+      "story_42768072",
       "front_page"
     ],
-    "author": "Leary",
-    "created_at": "2025-01-19T17:42:44Z",
-    "aiHeadline": "TikTok's Brief Blackout in the US is Over, and the Company is Breathing a Sigh of Relief as Service is Restored, But Let's Be Real, We All Know It's Only a Matter of Time Before the Next Outage, Because, You Know, Technology is Always a Delicate Flower That Can Wiltingly Wither Away at Any Moment"
+    "author": "meetpateltech",
+    "created_at": "2025-01-20T12:37:58Z",
+    "aiHeadline": "Breaking News: DeepSeek-R1 is Here, Because the World Really Needed Another AI Project to Keep Us Up at Night, and by 'Us' I Mean the Poor Souls Who Have to Compete with AI for Jobs, and Also the Robots Are Coming for Us, Just Kidding (Or Am I?)"
   },
   {
-    "title": "Forgejo: A self-hosted lightweight software forge",
-    "url": "https://forgejo.org/",
-    "points": 339,
-    "num_comments": 245,
+    "title": "I Met Paul Graham Once",
+    "url": "http://okayfail.com/2025/i-met-pg-once.html",
+    "points": 677,
+    "num_comments": 408,
     "tags": [
       "story",
-      "author_thunderbong",
-      "story_42753523",
+      "author_DamonHD",
+      "story_42767507",
       "front_page"
     ],
-    "author": "thunderbong",
-    "created_at": "2025-01-19T04:15:26Z",
-    "aiHeadline": "Introducing Forgejo, the Self-Hosted Lightweight Software Forge That's Here to Save the Day, or at Least Your Sanity, by Giving You a Refreshing Alternative to the Usual Soul-Sucking,Corporate-Controlled Options, So Go Ahead, Take a Deep Breath, and Join the Rebellion Against the Walled Gardens of the Tech World"
+    "author": "DamonHD",
+    "created_at": "2025-01-20T11:20:02Z",
+    "aiHeadline": "In a Shocking Turn of Events, Someone Met Paul Graham Once and Lived to Tell the Tale, Which is Probably a Better Claim to Fame Than Actually Building a Successful Startup, But Hey, Who Needs Success When You Can Say You Met PG, Right?"
   },
   {
-    "title": "Escape the walled garden and algorithm black boxes with RSS feeds",
-    "url": "https://www.johnwalker.nl/posts/escape-the-walled-garden-with-rss",
-    "points": 224,
-    "num_comments": 81,
+    "title": "Reverse Engineering Bambu Connect",
+    "url": "https://wiki.rossmanngroup.com/wiki/Reverse_Engineering_Bambu_Connect",
+    "points": 497,
+    "num_comments": 314,
     "tags": [
       "story",
-      "author_rekl",
-      "story_42761219",
+      "author_pabs3",
+      "story_42764602",
       "front_page"
     ],
-    "author": "rekl",
-    "created_at": "2025-01-19T20:07:23Z",
-    "aiHeadline": "Warning: RSS Feeds May Cause Excessive Freedom and Autonomy, So Proceed with Caution, But If You're Tired of Being Held Hostage by Algorithmic Black Boxes and Walled Gardens, Then It's Time to Break Free and Join the RSS Revolution, Where You Get to Choose What You See and When, What a Novel Concept, Right?"
+    "author": "pabs3",
+    "created_at": "2025-01-20T03:08:49Z",
+    "aiHeadline": "Reverse Engineering Bambu Connect: Because Who Needs Original Ideas When You Can Just Figure Out How Someone Else's Stuff Works, and Then Proceed to Build Something Even More Complicated and Prone to Errors, All in the Name of Progress and Innovation, or Maybe Just to Prove a Point"
   },
   {
-    "title": "Haskell: A Great Procedural Language",
-    "url": "https://entropicthoughts.com/haskell-procedural-programming",
-    "points": 223,
-    "num_comments": 167,
+    "title": "Mixxx: GPL DJ Software",
+    "url": "https://mixxx.org/",
+    "points": 391,
+    "num_comments": 86,
     "tags": [
       "story",
-      "author_kqr",
-      "story_42754098",
+      "author_brudgers",
+      "story_42769871",
       "front_page"
     ],
-    "author": "kqr",
-    "created_at": "2025-01-19T05:50:18Z",
-    "aiHeadline": "Haskell, the Programming Language That's So Pure and Functional, It'll Make You Wonder How You Ever Lived Without It, But Don't Just Take Our Word for It, Read This Article and Discover Why Haskell is the Unsung Hero of Procedural Programming, and How It'll Make You a Better, More Enlightened Coder, or at Least Give You a Good Laugh"
+    "author": "brudgers",
+    "created_at": "2025-01-20T15:53:31Z",
+    "aiHeadline": "Mixxx: The GPL DJ Software That Will Revolutionize the Music Scene, or at the Very Least Give You a Cool Way to Impress Your Friends with Your Mad DJ Skills, That Is, If You Can Figure Out How to Use It Without Causing a Ruckus and Getting Kicked Out of the Party"
+  },
+  {
+    "title": "I am (not) a failure: Lessons learned from six failed startup attempts",
+    "url": "http://blog.rongarret.info/2025/01/i-am-not-failure-lessons-learned-from.html",
+    "points": 298,
+    "num_comments": 197,
+    "tags": [
+      "story",
+      "author_lisper",
+      "story_42771676",
+      "front_page"
+    ],
+    "author": "lisper",
+    "created_at": "2025-01-20T18:40:45Z",
+    "aiHeadline": "The Inspiring Story of Six Failed Startup Attempts, or How to Turn Failure into a Badge of Honor and a Great Story to Tell at Parties, and Also Maybe, Just Maybe, Learn a Thing or Two About How Not to Run a Startup, Which is Basically the Most Important Lesson in Entrepreneurship, Don't You Think?"
   }
 ]
