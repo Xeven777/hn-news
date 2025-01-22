@@ -1,77 +1,76 @@
 [
   {
-    "title": "DeepSeek-R1",
-    "url": "https://github.com/deepseek-ai/DeepSeek-R1",
-    "points": 1032,
-    "num_comments": 367,
+    "title": "0-click deanonymization attack targeting Signal, Discord, other platforms",
+    "url": "https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117",
+    "points": 1006,
+    "num_comments": 342,
     "tags": [
       "story",
-      "author_meetpateltech",
-      "story_42768072",
+      "author_hackermondev",
+      "story_42780816",
       "front_page"
     ],
-    "author": "meetpateltech",
-    "created_at": "2025-01-20T12:37:58Z",
-    "aiHeadline": "Breaking News: DeepSeek-R1 is Here, Because the World Really Needed Another AI Project to Keep Us Up at Night, and by 'Us' I Mean the Poor Souls Who Have to Compete with AI for Jobs, and Also the Robots Are Coming for Us, Just Kidding (Or Am I?)"
+    "author": "hackermondev",
+    "created_at": "2025-01-21T14:59:44Z",
+    "aiHeadline": "Breaking News: 0-Click Deanonymization Attack Unleashed, Because Who Needs Online Privacy Anyway? Signal, Discord, and Other Platforms Are Now Fair Game for Hackers, So Go Ahead and Share Your Darkest Secrets Online, We Dare You!"
   },
   {
-    "title": "I Met Paul Graham Once",
-    "url": "http://okayfail.com/2025/i-met-pg-once.html",
-    "points": 677,
-    "num_comments": 408,
+    "title": "Startup Winter: Hacker News Lost Its Faith",
+    "url": "https://www.vincentschmalbach.com/startup-winter-hacker-news-lost-its-faith/",
+    "points": 477,
+    "num_comments": 366,
     "tags": [
       "story",
-      "author_DamonHD",
-      "story_42767507",
-      "front_page"
+      "author_vincent_s",
+      "story_42778266"
     ],
-    "author": "DamonHD",
-    "created_at": "2025-01-20T11:20:02Z",
-    "aiHeadline": "In a Shocking Turn of Events, Someone Met Paul Graham Once and Lived to Tell the Tale, Which is Probably a Better Claim to Fame Than Actually Building a Successful Startup, But Hey, Who Needs Success When You Can Say You Met PG, Right?"
+    "author": "vincent_s",
+    "created_at": "2025-01-21T10:00:07Z",
+    "aiHeadline": "The Faith is Gone: Hacker News Has Lost Its Mojo, and It's Officially 'Startup Winter' - Time to Grab a Hot Chocolate, Put on Your Favorite Pajamas, and Mourn the Demise of Innovation, or Not, We're Not Really Sure What's Going On Here"
   },
   {
-    "title": "Reverse Engineering Bambu Connect",
-    "url": "https://wiki.rossmanngroup.com/wiki/Reverse_Engineering_Bambu_Connect",
-    "points": 497,
-    "num_comments": 314,
+    "title": "Stargate Project: SoftBank, OpenAI, Oracle, MGX to build data centers",
+    "url": "https://apnews.com/article/trump-ai-openai-oracle-softbank-son-altman-ellison-be261f8a8ee07a0623d4170397348c41",
+    "points": 359,
+    "num_comments": 414,
     "tags": [
       "story",
-      "author_pabs3",
-      "story_42764602",
+      "author_tedsanders",
+      "story_42785891",
       "front_page"
     ],
-    "author": "pabs3",
-    "created_at": "2025-01-20T03:08:49Z",
-    "aiHeadline": "Reverse Engineering Bambu Connect: Because Who Needs Original Ideas When You Can Just Figure Out How Someone Else's Stuff Works, and Then Proceed to Build Something Even More Complicated and Prone to Errors, All in the Name of Progress and Innovation, or Maybe Just to Prove a Point"
+    "author": "tedsanders",
+    "created_at": "2025-01-21T22:29:22Z",
+    "aiHeadline": "Get Ready for the Ultimate Data Center Extravaganza: SoftBank, OpenAI, Oracle, and MGX Team Up to Build the Stargate Project, Because What Could Possibly Go Wrong with a Giant AI-Powered Data Center, Right? It's Not Like Skynet or Anything..."
   },
   {
-    "title": "Mixxx: GPL DJ Software",
-    "url": "https://mixxx.org/",
-    "points": 391,
-    "num_comments": 86,
+    "title": "Ask HN: Organize local communities without Facebook?",
+    "points": 338,
+    "num_comments": 335,
     "tags": [
       "story",
-      "author_brudgers",
-      "story_42769871",
+      "author_recvonline",
+      "story_42779776",
+      "ask_hn",
       "front_page"
     ],
-    "author": "brudgers",
-    "created_at": "2025-01-20T15:53:31Z",
-    "aiHeadline": "Mixxx: The GPL DJ Software That Will Revolutionize the Music Scene, or at the Very Least Give You a Cool Way to Impress Your Friends with Your Mad DJ Skills, That Is, If You Can Figure Out How to Use It Without Causing a Ruckus and Getting Kicked Out of the Party"
+    "author": "recvonline",
+    "created_at": "2025-01-21T13:19:02Z",
+    "aiHeadline": "The Age-Old Question: How to Organize Local Communities Without Facebook, Because Let's Face It, We're All Tired of Mark Zuckerberg's Shenanigans, and We Need Some Serious Alternatives, Stat! Any Ideas, Folks, or Are We Doomed to Forever Be Held Hostage by the Social Media Giant?"
   },
   {
-    "title": "I am (not) a failure: Lessons learned from six failed startup attempts",
-    "url": "http://blog.rongarret.info/2025/01/i-am-not-failure-lessons-learned-from.html",
-    "points": 298,
-    "num_comments": 197,
+    "title": "Invisible Electrostatic Wall at 3M plant (1996)",
+    "url": "http://amasci.com/weird/unusual/e-wall.html",
+    "points": 283,
+    "num_comments": 153,
     "tags": [
       "story",
-      "author_lisper",
-      "story_42771676",
+      "author_Simon_O_Rourke",
+      "story_42782914",
       "front_page"
     ],
-    "author": "lisper",
-    "created_at": "2025-01-20T18:40:45Z",
-    "aiHeadline": "The Inspiring Story of Six Failed Startup Attempts, or How to Turn Failure into a Badge of Honor and a Great Story to Tell at Parties, and Also Maybe, Just Maybe, Learn a Thing or Two About How Not to Run a Startup, Which is Basically the Most Important Lesson in Entrepreneurship, Don't You Think?"
+    "author": "Simon_O_Rourke",
+    "created_at": "2025-01-21T17:37:01Z",
+    "aiHeadline": "Blast from the Past: The Invisible Electrostatic Wall at 3M Plant (1996) - Because Who Needs Modern Technology When You Can Have a 30-Year-Old Experiment That's Still Cool, But Also Kind of Creepy, Like Something Out of a Sci-Fi Movie, and We're Not Sure What's More Fascinating, the Tech or the Hairdos in the Old Photos"
   }
 ]
