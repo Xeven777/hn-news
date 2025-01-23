@@ -1,76 +1,78 @@
 [
   {
-    "title": "0-click deanonymization attack targeting Signal, Discord, other platforms",
-    "url": "https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117",
-    "points": 1006,
-    "num_comments": 342,
+    "title": "Mastercard DNS error went unnoticed for years",
+    "url": "https://krebsonsecurity.com/2025/01/mastercard-dns-error-went-unnoticed-for-years/",
+    "points": 645,
+    "num_comments": 183,
     "tags": [
       "story",
-      "author_hackermondev",
-      "story_42780816",
+      "author_todsacerdoti",
+      "story_42793783",
       "front_page"
     ],
-    "author": "hackermondev",
-    "created_at": "2025-01-21T14:59:44Z",
-    "aiHeadline": "Breaking News: 0-Click Deanonymization Attack Unleashed, Because Who Needs Online Privacy Anyway? Signal, Discord, and Other Platforms Are Now Fair Game for Hackers, So Go Ahead and Share Your Darkest Secrets Online, We Dare You!"
+    "author": "todsacerdoti",
+    "created_at": "2025-01-22T15:25:57Z",
+    "aiHeadline": "Mastercard DNS Error: Because Who Needs Website Security Anyway? A Blunder of Epic Proportions Went Unnoticed for Years, Leaving Us All Wondering How Such a Massive Mistake Could Happen, and More Importantly, How We Can Prevent It in the Future"
   },
   {
-    "title": "Startup Winter: Hacker News Lost Its Faith",
-    "url": "https://www.vincentschmalbach.com/startup-winter-hacker-news-lost-its-faith/",
-    "points": 477,
-    "num_comments": 366,
+    "title": "Show HN: I Made an Open-Source Laptop from Scratch",
+    "url": "https://www.byran.ee/posts/creation/",
+    "points": 442,
+    "num_comments": 58,
     "tags": [
       "story",
-      "author_vincent_s",
-      "story_42778266"
-    ],
-    "author": "vincent_s",
-    "created_at": "2025-01-21T10:00:07Z",
-    "aiHeadline": "The Faith is Gone: Hacker News Has Lost Its Mojo, and It's Officially 'Startup Winter' - Time to Grab a Hot Chocolate, Put on Your Favorite Pajamas, and Mourn the Demise of Innovation, or Not, We're Not Really Sure What's Going On Here"
-  },
-  {
-    "title": "Stargate Project: SoftBank, OpenAI, Oracle, MGX to build data centers",
-    "url": "https://apnews.com/article/trump-ai-openai-oracle-softbank-son-altman-ellison-be261f8a8ee07a0623d4170397348c41",
-    "points": 359,
-    "num_comments": 414,
-    "tags": [
-      "story",
-      "author_tedsanders",
-      "story_42785891",
+      "author_Hello9999901",
+      "story_42797260",
+      "show_hn",
       "front_page"
     ],
-    "author": "tedsanders",
-    "created_at": "2025-01-21T22:29:22Z",
-    "aiHeadline": "Get Ready for the Ultimate Data Center Extravaganza: SoftBank, OpenAI, Oracle, and MGX Team Up to Build the Stargate Project, Because What Could Possibly Go Wrong with a Giant AI-Powered Data Center, Right? It's Not Like Skynet or Anything..."
+    "author": "Hello9999901",
+    "created_at": "2025-01-22T20:41:52Z",
+    "aiHeadline": "Random Guy Builds Open-Source Laptop from Scratch, Proves That with Enough Time and Effort, You Too Can Create Something That Might Actually Work, and Possibly Even Impress Your Friends and Family with Your Impressive DIY Skills"
   },
   {
-    "title": "Ask HN: Organize local communities without Facebook?",
-    "points": 338,
-    "num_comments": 335,
+    "title": "TabBoo – add random jumpscares to websites you're trying to avoid",
+    "url": "https://tabboo.xyz/",
+    "points": 387,
+    "num_comments": 79,
     "tags": [
       "story",
-      "author_recvonline",
-      "story_42779776",
-      "ask_hn",
+      "author_thatsnotoptimal",
+      "story_42795237",
       "front_page"
     ],
-    "author": "recvonline",
-    "created_at": "2025-01-21T13:19:02Z",
-    "aiHeadline": "The Age-Old Question: How to Organize Local Communities Without Facebook, Because Let's Face It, We're All Tired of Mark Zuckerberg's Shenanigans, and We Need Some Serious Alternatives, Stat! Any Ideas, Folks, or Are We Doomed to Forever Be Held Hostage by the Social Media Giant?"
+    "author": "thatsnotoptimal",
+    "created_at": "2025-01-22T17:27:14Z",
+    "aiHeadline": "Introducing TabBoo: Because You Didn't Have Enough Anxiety in Your Life Already, This Amazing New Tool Adds Random Jump Scares to Websites You're Trying to Avoid, Guaranteed to Make Your Browsing Experience More 'Exciting' and Possibly Even Give You a Few Gray Hairs"
   },
   {
-    "title": "Invisible Electrostatic Wall at 3M plant (1996)",
-    "url": "http://amasci.com/weird/unusual/e-wall.html",
-    "points": 283,
-    "num_comments": 153,
+    "title": "The Tyranny of Structurelessness (1970)",
+    "url": "https://www.jofreeman.com/joreen/tyranny.htm",
+    "points": 302,
+    "num_comments": 118,
     "tags": [
       "story",
-      "author_Simon_O_Rourke",
-      "story_42782914",
+      "author_yamrzou",
+      "story_42793483",
       "front_page"
     ],
-    "author": "Simon_O_Rourke",
-    "created_at": "2025-01-21T17:37:01Z",
-    "aiHeadline": "Blast from the Past: The Invisible Electrostatic Wall at 3M Plant (1996) - Because Who Needs Modern Technology When You Can Have a 30-Year-Old Experiment That's Still Cool, But Also Kind of Creepy, Like Something Out of a Sci-Fi Movie, and We're Not Sure What's More Fascinating, the Tech or the Hairdos in the Old Photos"
+    "author": "yamrzou",
+    "created_at": "2025-01-22T14:57:23Z",
+    "aiHeadline": "The Tyranny of Structurelessness: A Blast from the Past, This 1970 Article Explains Why Having No Structure Can Be Just as Bad as Having Too Much, and How Finding the Perfect Balance is Key to Success, or at Least Not Losing Your Mind in the Process"
+  },
+  {
+    "title": "My Struggle with Doom Scrolling",
+    "url": "https://allthatjazz.me/posts/doom-scrolling-struggles",
+    "points": 277,
+    "num_comments": 264,
+    "tags": [
+      "story",
+      "author_saeedesmaili",
+      "story_42791428",
+      "front_page"
+    ],
+    "author": "saeedesmaili",
+    "created_at": "2025-01-22T11:00:48Z",
+    "aiHeadline": "The Agony of Doom Scrolling: One Person's Struggle with the Endless Void of the Internet, and How They Learned to Break Free from the Cycle of Mindless Scrolling and Find Meaning in a World Full of Cat Videos and Meme Pages, or at Least How They Tried To"
   }
 ]
