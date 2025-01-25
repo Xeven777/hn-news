@@ -1,78 +1,76 @@
 [
   {
-    "title": "Thank HN: My bootstrapped startup got acquired today",
-    "points": 1162,
-    "num_comments": 166,
+    "title": "Show HN: Cs16.css – CSS library based on Counter Strike 1.6 UI",
+    "url": "https://cs16.samke.me",
+    "points": 406,
+    "num_comments": 94,
     "tags": [
       "story",
-      "author_paraschopra",
-      "story_42806247",
-      "ask_hn",
-      "front_page"
-    ],
-    "author": "paraschopra",
-    "created_at": "2025-01-23T17:58:05Z",
-    "aiHeadline": "Breaking News: Some Guy's Bootstrapped Startup Got Acquired and He's Probably Swimming in Money Now, Congratulations to paraschopra for Not Having to Worry About Rent Anymore, We Hope He Doesn't Forget About His Humble Beginnings as a Poor Startup Founder"
-  },
-  {
-    "title": "Hacking Subaru: Tracking and Controlling Cars via the Starlink Admin Panel",
-    "url": "https://samcurry.net/hacking-subaru",
-    "points": 317,
-    "num_comments": 219,
-    "tags": [
-      "story",
-      "author_ramimac",
-      "story_42803279",
-      "front_page"
-    ],
-    "author": "ramimac",
-    "created_at": "2025-01-23T12:22:19Z",
-    "aiHeadline": "Subaru Owners Beware: Your Car Can Be Hacked Through the Starlink Admin Panel, Because Who Needs Security Anyway, Thanks to ramimac for Exposing This Crazy Vulnerability, Now Go Update Your Software Before You Become a Victim of Car Hacking"
-  },
-  {
-    "title": "Show HN: I built an active community of trans people online",
-    "url": "https://t4t.social/",
-    "points": 308,
-    "num_comments": 180,
-    "tags": [
-      "story",
-      "author_t4t",
-      "story_42800893",
+      "author_samke-",
+      "story_42814110",
       "show_hn",
       "front_page"
     ],
-    "author": "t4t",
-    "created_at": "2025-01-23T05:07:35Z",
-    "aiHeadline": "In a Heartwarming Display of Community Building, t4t Has Created a Safe Space for Trans People Online, Kudos to Them for Providing a Platform for Like-Minded Individuals to Connect and Share Their Stories, Now Let's All Give a Round of Applause for t4t.social"
+    "author": "samke-",
+    "created_at": "2025-01-24T15:37:07Z",
+    "aiHeadline": "Breaking News: Someone Finally Combined CSS and Counter Strike 1.6, Because Who Needs Productivity When You Can Have Nostalgia, Introducing Cs16.css, the CSS Library That Will Make You Forget About Your Deadline and Take You Back to the Good Old Days of Gaming"
   },
   {
-    "title": "Llama.vim – Local LLM-assisted text completion",
-    "url": "https://github.com/ggml-org/llama.vim",
-    "points": 295,
-    "num_comments": 72,
+    "title": "Wild – A fast linker for Linux",
+    "url": "https://github.com/davidlattimore/wild",
+    "points": 257,
+    "num_comments": 116,
     "tags": [
       "story",
-      "author_kgwgk",
-      "story_42806328",
+      "author_hkalbasi",
+      "story_42814683",
       "front_page"
     ],
-    "author": "kgwgk",
-    "created_at": "2025-01-23T18:06:42Z",
-    "aiHeadline": "Vim Users Rejoice: Llama.vim is Here to Revolutionize Your Text Completion Game with Local LLM-Assisted Magic, Because Who Needs Human Intelligence When You Have AI, Thanks to kgwgk for Bringing This Game-Changing Tech to the Masses"
+    "author": "hkalbasi",
+    "created_at": "2025-01-24T16:25:53Z",
+    "aiHeadline": "Linux Users Rejoice: Wild, the Fast Linker, Has Arrived, Because Who Doesn't Love a Good Game of 'Let's See How Fast We Can Compile This Code', and With Wild, You'll Be Able to Do Just That, Plus It's Open-Source, So You Can Contribute to the Speediness"
   },
   {
-    "title": "Introducing Operator",
-    "url": "https://openai.com/index/introducing-operator/",
-    "points": 291,
-    "num_comments": 250,
+    "title": "The State of Vim",
+    "url": "https://lwn.net/Articles/1002342/",
+    "points": 251,
+    "num_comments": 179,
     "tags": [
       "story",
-      "author_meetpateltech",
-      "story_42806301",
+      "author_signa11",
+      "story_42810176"
+    ],
+    "author": "signa11",
+    "created_at": "2025-01-24T03:22:50Z",
+    "aiHeadline": "The State of Vim: Still Relevant, Still Used by Developers Who Refuse to Acknowledge the Existence of Other Text Editors, and Honestly, Who Can Blame Them, Vim is Like That One Pair of Jeans That You Just Can't Seem to Get Rid Of, No Matter How Many Newer, Shinier Text Editors Come Out"
+  },
+  {
+    "title": "Build It Yourself",
+    "url": "https://lucumr.pocoo.org/2025/1/24/build-it-yourself/",
+    "points": 246,
+    "num_comments": 195,
+    "tags": [
+      "story",
+      "author_todsacerdoti",
+      "story_42812641"
+    ],
+    "author": "todsacerdoti",
+    "created_at": "2025-01-24T12:55:35Z",
+    "aiHeadline": "Build It Yourself, They Said, It'll Be Fun, They Said, But Little Did You Know, You'd End Up Spending Hours Upon Hours of Your Valuable Time Trying to Fix That One Bug That Just Won't Go Away, But Hey, At Least You'll Have a Good Story to Tell, and Maybe, Just Maybe, You'll Learn Something New"
+  },
+  {
+    "title": "Ask HN: Why buy domains and 301 redirect them to me?",
+    "points": 219,
+    "num_comments": 84,
+    "tags": [
+      "story",
+      "author_HughParry",
+      "story_42812779",
+      "ask_hn",
       "front_page"
     ],
-    "author": "meetpateltech",
-    "created_at": "2025-01-23T18:03:40Z",
-    "aiHeadline": "OpenAI Introduces Operator, Because the World Really Needed Another AI Tool to Make Our Lives Easier, meetpateltech is Probably Excited to Share This News with the World, Now Let's All Welcome Operator with Open Arms and See If It Actually Lives Up to the Hype"
+    "author": "HughParry",
+    "created_at": "2025-01-24T13:20:56Z",
+    "aiHeadline": "The Age-Old Question: Why Buy Domains and 301 Redirect Them to Me, Is It for the LOLs, Is It for the Money, or Is It Just a Cry for Help, and If So, Can Someone Please Redirect This Person to a Therapist, Because This Behavior Is Just Plain Confusing, and We Need Answers"
   }
 ]
