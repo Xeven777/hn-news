@@ -1,76 +1,75 @@
 [
   {
-    "title": "Show HN: Cs16.css – CSS library based on Counter Strike 1.6 UI",
-    "url": "https://cs16.samke.me",
-    "points": 406,
-    "num_comments": 94,
+    "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via RL",
+    "url": "https://arxiv.org/abs/2501.12948",
+    "points": 471,
+    "num_comments": 404,
     "tags": [
       "story",
-      "author_samke-",
-      "story_42814110",
-      "show_hn",
+      "author_gradus_ad",
+      "story_42823568",
       "front_page"
     ],
-    "author": "samke-",
-    "created_at": "2025-01-24T15:37:07Z",
-    "aiHeadline": "Breaking News: Someone Finally Combined CSS and Counter Strike 1.6, Because Who Needs Productivity When You Can Have Nostalgia, Introducing Cs16.css, the CSS Library That Will Make You Forget About Your Deadline and Take You Back to the Good Old Days of Gaming"
+    "author": "gradus_ad",
+    "created_at": "2025-01-25T18:39:49Z",
+    "aiHeadline": "In a shocking turn of events, researchers have discovered a way to make Large Language Models (LLMs) actually think for themselves, kind of, with the introduction of DeepSeek-R1, a revolutionary new method that uses reinforcement learning to incentivize reasoning capability in LLMs, because who needs human intelligence when you can have robot intelligence, right?"
   },
   {
-    "title": "Wild – A fast linker for Linux",
-    "url": "https://github.com/davidlattimore/wild",
-    "points": 257,
-    "num_comments": 116,
+    "title": "Caltrain's electric fleet more efficient than expected",
+    "url": "https://www.caltrain.com/news/caltrains-electric-fleet-more-efficient-expected",
+    "points": 317,
+    "num_comments": 279,
     "tags": [
       "story",
-      "author_hkalbasi",
-      "story_42814683",
-      "front_page"
+      "author_ssuds",
+      "story_42818692"
     ],
-    "author": "hkalbasi",
-    "created_at": "2025-01-24T16:25:53Z",
-    "aiHeadline": "Linux Users Rejoice: Wild, the Fast Linker, Has Arrived, Because Who Doesn't Love a Good Game of 'Let's See How Fast We Can Compile This Code', and With Wild, You'll Be Able to Do Just That, Plus It's Open-Source, So You Can Contribute to the Speediness"
+    "author": "ssuds",
+    "created_at": "2025-01-25T01:53:11Z",
+    "aiHeadline": "Caltrain's electric fleet is more efficient than expected, because who doesn't love a good underpromise and overdeliver, and now they can finally use the extra cash to invest in some decent coffee for their passengers, maybe even some comfortable seats, a guy can dream, right, and by the way, can we please get some electric fleets in more cities, pretty please with a non-polluting cherry on top?"
   },
   {
-    "title": "The State of Vim",
-    "url": "https://lwn.net/Articles/1002342/",
+    "title": "Pixelfed Hit 500K Users",
+    "url": "https://fedidb.org/software/pixelfed",
+    "points": 260,
+    "num_comments": 66,
+    "tags": [
+      "story",
+      "author_doener",
+      "story_42821519"
+    ],
+    "author": "doener",
+    "created_at": "2025-01-25T13:29:05Z",
+    "aiHeadline": "Pixelfed, the social media platform that's like Instagram but without the annoying ads and creepy data collection, has just hit a whopping 500K users, which is like, a whole lot of people who are tired of being treated like lab rats in a social media experiment, and are instead opting for a more chill, fediverse-based vibe, good for them, and good for Pixelfed, may they continue to thrive in this crazy online world"
+  },
+  {
+    "title": "OpenRA – Classic strategy games rebuilt for the modern era",
+    "url": "https://www.openra.net/",
     "points": 251,
-    "num_comments": 179,
+    "num_comments": 52,
     "tags": [
       "story",
-      "author_signa11",
-      "story_42810176"
-    ],
-    "author": "signa11",
-    "created_at": "2025-01-24T03:22:50Z",
-    "aiHeadline": "The State of Vim: Still Relevant, Still Used by Developers Who Refuse to Acknowledge the Existence of Other Text Editors, and Honestly, Who Can Blame Them, Vim is Like That One Pair of Jeans That You Just Can't Seem to Get Rid Of, No Matter How Many Newer, Shinier Text Editors Come Out"
-  },
-  {
-    "title": "Build It Yourself",
-    "url": "https://lucumr.pocoo.org/2025/1/24/build-it-yourself/",
-    "points": 246,
-    "num_comments": 195,
-    "tags": [
-      "story",
-      "author_todsacerdoti",
-      "story_42812641"
-    ],
-    "author": "todsacerdoti",
-    "created_at": "2025-01-24T12:55:35Z",
-    "aiHeadline": "Build It Yourself, They Said, It'll Be Fun, They Said, But Little Did You Know, You'd End Up Spending Hours Upon Hours of Your Valuable Time Trying to Fix That One Bug That Just Won't Go Away, But Hey, At Least You'll Have a Good Story to Tell, and Maybe, Just Maybe, You'll Learn Something New"
-  },
-  {
-    "title": "Ask HN: Why buy domains and 301 redirect them to me?",
-    "points": 219,
-    "num_comments": 84,
-    "tags": [
-      "story",
-      "author_HughParry",
-      "story_42812779",
-      "ask_hn",
+      "author_tosh",
+      "story_42823667",
       "front_page"
     ],
-    "author": "HughParry",
-    "created_at": "2025-01-24T13:20:56Z",
-    "aiHeadline": "The Age-Old Question: Why Buy Domains and 301 Redirect Them to Me, Is It for the LOLs, Is It for the Money, or Is It Just a Cry for Help, and If So, Can Someone Please Redirect This Person to a Therapist, Because This Behavior Is Just Plain Confusing, and We Need Answers"
+    "author": "tosh",
+    "created_at": "2025-01-25T18:55:07Z",
+    "aiHeadline": "Get ready for a blast from the past, folks, as OpenRA brings back the classic strategy games of yore, rebuilt for the modern era, because who needs new and fancy games when you can just play the old ones with better graphics, and by 'better graphics', I mean 'not atrocious', and by 'not atrocious', I mean 'still kinda pixelated but in a charming way', anyway, go check it out and relive the good old days of gaming"
+  },
+  {
+    "title": "CIA now favors lab leak theory to explain Covid's origins",
+    "url": "https://www.nytimes.com/2025/01/25/us/politics/cia-covid-lab-leak.html",
+    "points": 242,
+    "num_comments": 272,
+    "tags": [
+      "story",
+      "author_doctaj",
+      "story_42823385",
+      "front_page"
+    ],
+    "author": "doctaj",
+    "created_at": "2025-01-25T18:16:15Z",
+    "aiHeadline": "In a shocking plot twist, the CIA has now come out in favor of the lab leak theory to explain the origins of Covid, because apparently, they've been watching too many conspiracy theory YouTube videos, and are now convinced that the real culprit behind the pandemic was not bats or snakes, but actually, a rogue scientist in a lab coat, muahahaha, just kidding, or are they, stay tuned for more updates on this developing story, and try not to get too caught up in the conspiracy theories, folks"
   }
 ]
