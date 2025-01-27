@@ -1,75 +1,74 @@
 [
   {
-    "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via RL",
-    "url": "https://arxiv.org/abs/2501.12948",
-    "points": 471,
-    "num_comments": 404,
+    "title": "It's not a crime if we do it with an app",
+    "url": "https://pluralistic.net/2025/01/25/potatotrac/#carbo-loading",
+    "points": 803,
+    "num_comments": 535,
     "tags": [
       "story",
-      "author_gradus_ad",
-      "story_42823568",
+      "author_keepit",
+      "story_42830646"
+    ],
+    "author": "keepit",
+    "created_at": "2025-01-26T15:24:53Z",
+    "aiHeadline": "In a shocking turn of events, it's been revealed that if you do something questionable with an app, it's apparently not a crime, because who needs ethics when you have an iPhone, and this latest development has left many wondering if we're living in a real-life episode of Black Mirror where technology has become the ultimate get-out-of-jail-free card."
+  },
+  {
+    "title": "Hard numbers in the Wayland vs. X11 input latency discussion",
+    "url": "https://mort.coffee/home/wayland-input-latency/",
+    "points": 362,
+    "num_comments": 239,
+    "tags": [
+      "story",
+      "author_todsacerdoti",
+      "story_42831509",
       "front_page"
     ],
-    "author": "gradus_ad",
-    "created_at": "2025-01-25T18:39:49Z",
-    "aiHeadline": "In a shocking turn of events, researchers have discovered a way to make Large Language Models (LLMs) actually think for themselves, kind of, with the introduction of DeepSeek-R1, a revolutionary new method that uses reinforcement learning to incentivize reasoning capability in LLMs, because who needs human intelligence when you can have robot intelligence, right?"
+    "author": "todsacerdoti",
+    "created_at": "2025-01-26T16:57:52Z",
+    "aiHeadline": "The age-old debate between Wayland and X11 input latency has finally been put to rest with some hard numbers, because what's a few milliseconds of delay when you're trying to get work done, and the real question is, will this settle the argument once and for all or just lead to more endless discussions in the comments section?"
   },
   {
-    "title": "Caltrain's electric fleet more efficient than expected",
-    "url": "https://www.caltrain.com/news/caltrains-electric-fleet-more-efficient-expected",
-    "points": 317,
-    "num_comments": 279,
+    "title": "No Bitcoin ETFs at Vanguard (2024)",
+    "url": "https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/no-bitcoin-etfs-at-vanguard-heres-why.html",
+    "points": 355,
+    "num_comments": 471,
     "tags": [
       "story",
-      "author_ssuds",
-      "story_42818692"
+      "author_mooreds",
+      "story_42832026"
     ],
-    "author": "ssuds",
-    "created_at": "2025-01-25T01:53:11Z",
-    "aiHeadline": "Caltrain's electric fleet is more efficient than expected, because who doesn't love a good underpromise and overdeliver, and now they can finally use the extra cash to invest in some decent coffee for their passengers, maybe even some comfortable seats, a guy can dream, right, and by the way, can we please get some electric fleets in more cities, pretty please with a non-polluting cherry on top?"
+    "author": "mooreds",
+    "created_at": "2025-01-26T17:49:37Z",
+    "aiHeadline": "Vanguard has made it clear that they won't be jumping on the Bitcoin ETF bandwagon anytime soon, citing reasons that probably have nothing to do with the fact that cryptocurrency is still a wild west of uncertainty and volatility, and everything to do with being cautious and not wanting to lose their shirts in the process, but hey, at least they're being honest about it."
   },
   {
-    "title": "Pixelfed Hit 500K Users",
-    "url": "https://fedidb.org/software/pixelfed",
-    "points": 260,
-    "num_comments": 66,
+    "title": "YC Graveyard: 821 inactive Y Combinator startups",
+    "url": "https://ycgraveyard.iamwillwang.com/",
+    "points": 342,
+    "num_comments": 202,
     "tags": [
       "story",
-      "author_doener",
-      "story_42821519"
+      "author_memalign",
+      "story_42828198"
     ],
-    "author": "doener",
-    "created_at": "2025-01-25T13:29:05Z",
-    "aiHeadline": "Pixelfed, the social media platform that's like Instagram but without the annoying ads and creepy data collection, has just hit a whopping 500K users, which is like, a whole lot of people who are tired of being treated like lab rats in a social media experiment, and are instead opting for a more chill, fediverse-based vibe, good for them, and good for Pixelfed, may they continue to thrive in this crazy online world"
+    "author": "memalign",
+    "created_at": "2025-01-26T06:37:12Z",
+    "aiHeadline": "YC Graveyard is the fascinating and slightly morbid website that's dedicated to cataloging all 821 inactive Y Combinator startups, because who doesn't love a good tale of failure and disappointment, and it's like a trainwreck that you can't look away from, a reminder that even the best ideas can sometimes go horribly wrong."
   },
   {
-    "title": "OpenRA – Classic strategy games rebuilt for the modern era",
-    "url": "https://www.openra.net/",
-    "points": 251,
-    "num_comments": 52,
+    "title": "The Microsoft 365 Copilot launch was a disaster",
+    "url": "https://www.zdnet.com/home-and-office/work-life/the-microsoft-365-copilot-launch-was-a-total-disaster/",
+    "points": 294,
+    "num_comments": 292,
     "tags": [
       "story",
-      "author_tosh",
-      "story_42823667",
+      "author_belter",
+      "story_42831281",
       "front_page"
     ],
-    "author": "tosh",
-    "created_at": "2025-01-25T18:55:07Z",
-    "aiHeadline": "Get ready for a blast from the past, folks, as OpenRA brings back the classic strategy games of yore, rebuilt for the modern era, because who needs new and fancy games when you can just play the old ones with better graphics, and by 'better graphics', I mean 'not atrocious', and by 'not atrocious', I mean 'still kinda pixelated but in a charming way', anyway, go check it out and relive the good old days of gaming"
-  },
-  {
-    "title": "CIA now favors lab leak theory to explain Covid's origins",
-    "url": "https://www.nytimes.com/2025/01/25/us/politics/cia-covid-lab-leak.html",
-    "points": 242,
-    "num_comments": 272,
-    "tags": [
-      "story",
-      "author_doctaj",
-      "story_42823385",
-      "front_page"
-    ],
-    "author": "doctaj",
-    "created_at": "2025-01-25T18:16:15Z",
-    "aiHeadline": "In a shocking plot twist, the CIA has now come out in favor of the lab leak theory to explain the origins of Covid, because apparently, they've been watching too many conspiracy theory YouTube videos, and are now convinced that the real culprit behind the pandemic was not bats or snakes, but actually, a rogue scientist in a lab coat, muahahaha, just kidding, or are they, stay tuned for more updates on this developing story, and try not to get too caught up in the conspiracy theories, folks"
+    "author": "belter",
+    "created_at": "2025-01-26T16:33:51Z",
+    "aiHeadline": "The launch of Microsoft 365 Copilot was supposed to be a grand affair, but it ended up being a disaster of epic proportions, with problems and glitches galore, leaving many to wonder if the company has finally jumped the shark, and the real question is, can they recover from this debacle or is it time to start updating those resumes?"
   }
 ]
