@@ -1,74 +1,76 @@
 [
   {
-    "title": "It's not a crime if we do it with an app",
-    "url": "https://pluralistic.net/2025/01/25/potatotrac/#carbo-loading",
-    "points": 803,
-    "num_comments": 535,
+    "title": "Promising results from DeepSeek R1 for code",
+    "url": "https://simonwillison.net/2025/Jan/27/llamacpp-pr/",
+    "points": 732,
+    "num_comments": 527,
     "tags": [
       "story",
-      "author_keepit",
-      "story_42830646"
-    ],
-    "author": "keepit",
-    "created_at": "2025-01-26T15:24:53Z",
-    "aiHeadline": "In a shocking turn of events, it's been revealed that if you do something questionable with an app, it's apparently not a crime, because who needs ethics when you have an iPhone, and this latest development has left many wondering if we're living in a real-life episode of Black Mirror where technology has become the ultimate get-out-of-jail-free card."
-  },
-  {
-    "title": "Hard numbers in the Wayland vs. X11 input latency discussion",
-    "url": "https://mort.coffee/home/wayland-input-latency/",
-    "points": 362,
-    "num_comments": 239,
-    "tags": [
-      "story",
-      "author_todsacerdoti",
-      "story_42831509",
+      "author_k__",
+      "story_42852866",
       "front_page"
     ],
-    "author": "todsacerdoti",
-    "created_at": "2025-01-26T16:57:52Z",
-    "aiHeadline": "The age-old debate between Wayland and X11 input latency has finally been put to rest with some hard numbers, because what's a few milliseconds of delay when you're trying to get work done, and the real question is, will this settle the argument once and for all or just lead to more endless discussions in the comments section?"
+    "author": "k__",
+    "created_at": "2025-01-28T14:44:06Z",
+    "aiHeadline": "In a shocking turn of events, DeepSeek R1 is actually showing some promising results for code, because who doesn't love a good AI-powered coding buddy to help with all the tedious debugging, and it's about time someone made a tool that can understand our sloppy coding habits, am I right?"
   },
   {
-    "title": "No Bitcoin ETFs at Vanguard (2024)",
-    "url": "https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/no-bitcoin-etfs-at-vanguard-heres-why.html",
-    "points": 355,
-    "num_comments": 471,
+    "title": "Run DeepSeek R1 Dynamic 1.58-bit",
+    "url": "https://unsloth.ai/blog/deepseekr1-dynamic",
+    "points": 684,
+    "num_comments": 302,
     "tags": [
       "story",
-      "author_mooreds",
-      "story_42832026"
-    ],
-    "author": "mooreds",
-    "created_at": "2025-01-26T17:49:37Z",
-    "aiHeadline": "Vanguard has made it clear that they won't be jumping on the Bitcoin ETF bandwagon anytime soon, citing reasons that probably have nothing to do with the fact that cryptocurrency is still a wild west of uncertainty and volatility, and everything to do with being cautious and not wanting to lose their shirts in the process, but hey, at least they're being honest about it."
-  },
-  {
-    "title": "YC Graveyard: 821 inactive Y Combinator startups",
-    "url": "https://ycgraveyard.iamwillwang.com/",
-    "points": 342,
-    "num_comments": 202,
-    "tags": [
-      "story",
-      "author_memalign",
-      "story_42828198"
-    ],
-    "author": "memalign",
-    "created_at": "2025-01-26T06:37:12Z",
-    "aiHeadline": "YC Graveyard is the fascinating and slightly morbid website that's dedicated to cataloging all 821 inactive Y Combinator startups, because who doesn't love a good tale of failure and disappointment, and it's like a trainwreck that you can't look away from, a reminder that even the best ideas can sometimes go horribly wrong."
-  },
-  {
-    "title": "The Microsoft 365 Copilot launch was a disaster",
-    "url": "https://www.zdnet.com/home-and-office/work-life/the-microsoft-365-copilot-launch-was-a-total-disaster/",
-    "points": 294,
-    "num_comments": 292,
-    "tags": [
-      "story",
-      "author_belter",
-      "story_42831281",
+      "author_noch",
+      "story_42850222",
       "front_page"
     ],
-    "author": "belter",
-    "created_at": "2025-01-26T16:33:51Z",
-    "aiHeadline": "The launch of Microsoft 365 Copilot was supposed to be a grand affair, but it ended up being a disaster of epic proportions, with problems and glitches galore, leaving many to wonder if the company has finally jumped the shark, and the real question is, can they recover from this debacle or is it time to start updating those resumes?"
+    "author": "noch",
+    "created_at": "2025-01-28T08:52:47Z",
+    "aiHeadline": "Get ready to 'run' away with excitement as DeepSeek R1 Dynamic 1.58-bit takes the world of AI-powered coding by storm, or at least that's what the marketing team wants you to think, but hey, who needs actual innovation when you can just add 'dynamic' to the name and call it a day?"
+  },
+  {
+    "title": "New speculative attacks on Apple CPUs",
+    "url": "https://predictors.fail/",
+    "points": 604,
+    "num_comments": 229,
+    "tags": [
+      "story",
+      "author_cylo",
+      "story_42856023",
+      "front_page"
+    ],
+    "author": "cylo",
+    "created_at": "2025-01-28T18:31:34Z",
+    "aiHeadline": "Apple CPUs are under attack, and no, it's not just your aunt trying to Facetime you for the 12th time today, but actual speculative attacks that are making everyone in the tech world go 'oh no, what's next, are our iPads going to start sending out spam emails too?'"
+  },
+  {
+    "title": "Machine Learning in Production (CMU Course)",
+    "url": "https://mlip-cmu.github.io/s2025/",
+    "points": 448,
+    "num_comments": 36,
+    "tags": [
+      "story",
+      "author_azhenley",
+      "story_42847834"
+    ],
+    "author": "azhenley",
+    "created_at": "2025-01-28T01:18:55Z",
+    "aiHeadline": "Carnegie Mellon University is offering a course on Machine Learning in Production, because what every college student really needs is another reason to pull an all-nighter, but hey, at least you'll be learning about the wonders of ML and how to deploy it in the real world, or you know, just how to make a decent cup of coffee to fuel your coding sessions"
+  },
+  {
+    "title": "Boom XB-1 First Supersonic Flight [video]",
+    "url": "https://www.youtube.com/watch?v=-qisIViAHwI",
+    "points": 417,
+    "num_comments": 317,
+    "tags": [
+      "story",
+      "author_rayhaanj",
+      "story_42853633",
+      "front_page"
+    ],
+    "author": "rayhaanj",
+    "created_at": "2025-01-28T15:46:53Z",
+    "aiHeadline": "The Boom XB-1 just made its first supersonic flight, and by 'supersonic' I mean it went really, really fast, like faster than your internet connection when you're trying to stream Netflix, but slower than the pace at which your phone battery drains when you're trying to watch said Netflix, and there's a video to prove it, because what's a historic moment without a little YouTube fame?"
   }
 ]
