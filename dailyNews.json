@@ -1,76 +1,74 @@
 [
   {
-    "title": "Promising results from DeepSeek R1 for code",
-    "url": "https://simonwillison.net/2025/Jan/27/llamacpp-pr/",
-    "points": 732,
-    "num_comments": 527,
+    "title": "OpenAI Furious DeepSeek Might Have Stolen All the Data OpenAI Stole from Us",
+    "url": "https://www.404media.co/openai-furious-deepseek-might-have-stolen-all-the-data-openai-stole-from-us/",
+    "points": 1277,
+    "num_comments": 9,
     "tags": [
       "story",
-      "author_k__",
-      "story_42852866",
-      "front_page"
+      "author_latexr",
+      "story_42865527"
     ],
-    "author": "k__",
-    "created_at": "2025-01-28T14:44:06Z",
-    "aiHeadline": "In a shocking turn of events, DeepSeek R1 is actually showing some promising results for code, because who doesn't love a good AI-powered coding buddy to help with all the tedious debugging, and it's about time someone made a tool that can understand our sloppy coding habits, am I right?"
+    "author": "latexr",
+    "created_at": "2025-01-29T14:52:34Z",
+    "aiHeadline": "OpenAI is Having a Major Meltdown Because DeepSeek Might Have Pulled Off the Ultimate Heist by Stealing All the Data OpenAI Stole from Others, and Honestly, It's a Little Hard to Feel Sorry for Them"
   },
   {
-    "title": "Run DeepSeek R1 Dynamic 1.58-bit",
-    "url": "https://unsloth.ai/blog/deepseekr1-dynamic",
-    "points": 684,
-    "num_comments": 302,
+    "title": "I still like Sublime Text",
+    "url": "https://ohdoylerules.com/workflows/why-i-still-like-sublime-text-in-2025/",
+    "points": 960,
+    "num_comments": 507,
     "tags": [
       "story",
-      "author_noch",
-      "story_42850222",
+      "author_james2doyle",
+      "story_42862246",
       "front_page"
     ],
-    "author": "noch",
-    "created_at": "2025-01-28T08:52:47Z",
-    "aiHeadline": "Get ready to 'run' away with excitement as DeepSeek R1 Dynamic 1.58-bit takes the world of AI-powered coding by storm, or at least that's what the marketing team wants you to think, but hey, who needs actual innovation when you can just add 'dynamic' to the name and call it a day?"
+    "author": "james2doyle",
+    "created_at": "2025-01-29T06:43:43Z",
+    "aiHeadline": "In a Shocking Turn of Events, Someone Still Likes Sublime Text in 2025, and We're Not Entirely Sure If They're a Time Traveler or Just Really Attached to Their Old Editor"
   },
   {
-    "title": "New speculative attacks on Apple CPUs",
-    "url": "https://predictors.fail/",
-    "points": 604,
-    "num_comments": 229,
+    "title": "Science YouTuber physicsgirl (Dianna Cowern) stands for the first time in 2 yrs",
+    "url": "https://www.youtube.com/shorts/2ntx91cOYEc",
+    "points": 686,
+    "num_comments": 265,
     "tags": [
       "story",
-      "author_cylo",
-      "story_42856023",
+      "author_m348e912",
+      "story_42862118"
+    ],
+    "author": "m348e912",
+    "created_at": "2025-01-29T06:16:14Z",
+    "aiHeadline": "YouTuber physicsgirl, aka Dianna Cowern, Has Managed to Defy the Laws of Physics and Stand Up for the First Time in 2 Years, and We're Not Sure What's More Impressive, Her Recovery or Her Ability to Make Science Cool"
+  },
+  {
+    "title": "Why DeepSeek had to be open source",
+    "url": "https://www.getlago.com/blog/deepseek-open-source",
+    "points": 486,
+    "num_comments": 264,
+    "tags": [
+      "story",
+      "author_AnhTho_FR",
+      "story_42866201"
+    ],
+    "author": "AnhTho_FR",
+    "created_at": "2025-01-29T15:37:31Z",
+    "aiHeadline": "The People Behind DeepSeek are Spilling the Tea on Why They Had to Go Open Source, and Let's Just Say It Involves a Lot of Drama, Betrayal, and Possibly a Few Stolen Recipes for AI Models"
+  },
+  {
+    "title": "OpenAI says it has evidence DeepSeek used its model to train competitor",
+    "url": "https://www.ft.com/content/a0dfedd1-5255-4fa9-8ccc-1fe01de87ea6",
+    "points": 404,
+    "num_comments": 1181,
+    "tags": [
+      "story",
+      "author_timsuchanek",
+      "story_42861475",
       "front_page"
     ],
-    "author": "cylo",
-    "created_at": "2025-01-28T18:31:34Z",
-    "aiHeadline": "Apple CPUs are under attack, and no, it's not just your aunt trying to Facetime you for the 12th time today, but actual speculative attacks that are making everyone in the tech world go 'oh no, what's next, are our iPads going to start sending out spam emails too?'"
-  },
-  {
-    "title": "Machine Learning in Production (CMU Course)",
-    "url": "https://mlip-cmu.github.io/s2025/",
-    "points": 448,
-    "num_comments": 36,
-    "tags": [
-      "story",
-      "author_azhenley",
-      "story_42847834"
-    ],
-    "author": "azhenley",
-    "created_at": "2025-01-28T01:18:55Z",
-    "aiHeadline": "Carnegie Mellon University is offering a course on Machine Learning in Production, because what every college student really needs is another reason to pull an all-nighter, but hey, at least you'll be learning about the wonders of ML and how to deploy it in the real world, or you know, just how to make a decent cup of coffee to fuel your coding sessions"
-  },
-  {
-    "title": "Boom XB-1 First Supersonic Flight [video]",
-    "url": "https://www.youtube.com/watch?v=-qisIViAHwI",
-    "points": 417,
-    "num_comments": 317,
-    "tags": [
-      "story",
-      "author_rayhaanj",
-      "story_42853633",
-      "front_page"
-    ],
-    "author": "rayhaanj",
-    "created_at": "2025-01-28T15:46:53Z",
-    "aiHeadline": "The Boom XB-1 just made its first supersonic flight, and by 'supersonic' I mean it went really, really fast, like faster than your internet connection when you're trying to stream Netflix, but slower than the pace at which your phone battery drains when you're trying to watch said Netflix, and there's a video to prove it, because what's a historic moment without a little YouTube fame?"
+    "author": "timsuchanek",
+    "created_at": "2025-01-29T04:21:20Z",
+    "aiHeadline": "OpenAI is Pointing Fingers and Claiming DeepSeek Used Its Model to Train a Competitor, Because Apparently, in the World of AI, Stealing Recipes is a Thing Now, and We're Starting to Think That Maybe These Companies Should Just Stick to Cooking"
   }
 ]
