@@ -1,75 +1,75 @@
 [
   {
-    "title": "JavaScript Temporal is coming",
-    "url": "https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/",
-    "points": 1031,
-    "num_comments": 299,
+    "title": "OpenAI O3-Mini",
+    "url": "https://openai.com/index/openai-o3-mini/",
+    "points": 550,
+    "num_comments": 552,
     "tags": [
       "story",
-      "author_SigmundurM",
-      "story_42876840",
+      "author_johnneville",
+      "story_42890627",
       "front_page"
     ],
-    "author": "SigmundurM",
-    "created_at": "2025-01-30T11:28:31Z",
-    "aiHeadline": "JavaScript Temporal is Finally Coming to Save Us from the Chaos of Dates and Times, Because Who Needs Human Interaction When You Can Spend Your Days Debugging Timezone Issues?"
+    "author": "johnneville",
+    "created_at": "2025-01-31T19:08:15Z",
+    "aiHeadline": "OpenAI Unveils O3-Mini, Because Who Doesn't Need Another AI Model to Confuse Them, and Apparently It's a Game Changer or Something, We're Still Trying to Figure It Out"
   },
   {
-    "title": "Commercial jet collides with Black Hawk helicopter near Reagan airport",
-    "url": "https://www.mediaite.com/news/breaking-commercial-jet-collides-with-police-chopper-near-reagan-airport/",
-    "points": 608,
-    "num_comments": 600,
+    "title": "Hacker News for Gamedev",
+    "url": "https://gamedev.city/",
+    "points": 458,
+    "num_comments": 194,
     "tags": [
       "story",
-      "author_mzmzmzm",
-      "story_42874301"
+      "author_ahub",
+      "story_42885520"
     ],
-    "author": "mzmzmzm",
-    "created_at": "2025-01-30T02:56:45Z",
-    "aiHeadline": "In a Shocking Turn of Events, a Commercial Jet and a Black Hawk Helicopter Collided Near Reagan Airport, Proving Once Again that Even the Skies Aren't Safe from the Chaos of Human Error and Poor Communication"
+    "author": "ahub",
+    "created_at": "2025-01-31T07:56:23Z",
+    "aiHeadline": "Hacker News for Gamedev: Because Game Developers Need Their Own Special Corner of the Internet to Complain About How Hard It Is to Make Games and How Much They Hate Unity"
   },
   {
-    "title": "Mistral Small 3",
-    "url": "https://mistral.ai/news/mistral-small-3/",
-    "points": 548,
-    "num_comments": 171,
+    "title": "Add \"fucking\" to your Google searches to neutralize AI summaries",
+    "url": "https://gizmodo.com/add-fcking-to-your-google-searches-to-neutralize-ai-summaries-2000557710",
+    "points": 455,
+    "num_comments": 215,
     "tags": [
       "story",
-      "author_jasondavies",
-      "story_42877860"
-    ],
-    "author": "jasondavies",
-    "created_at": "2025-01-30T14:16:57Z",
-    "aiHeadline": "Mistral Small 3 is Here, Because What the World Really Needed was Another AI Model to Make Us Question the Very Fabric of Our Existence and the Future of Humanity, All While Making Our Lives Marginally More Convenient"
-  },
-  {
-    "title": "Many of the Pokemon playtest cards were likely printed in 2024",
-    "url": "https://www.elitefourum.com/t/many-of-the-pokemon-playtest-cards-were-likely-printed-in-2024/52421",
-    "points": 428,
-    "num_comments": 271,
-    "tags": [
-      "story",
-      "author_grep_it",
-      "story_42880704",
+      "author_jsheard",
+      "story_42892191",
       "front_page"
     ],
-    "author": "grep_it",
-    "created_at": "2025-01-30T18:38:12Z",
-    "aiHeadline": "Breaking News: Pokémon Playtest Cards Were Probably Printed in 2024, Which is Exactly the Kind of Hard-Hitting Journalism We've Been Missing in Our Lives, and a Reminder that Even the Most Obscure Details Can Be Newsworthy"
+    "author": "jsheard",
+    "created_at": "2025-01-31T21:20:40Z",
+    "aiHeadline": "Pro Tip: Add 'Fucking' to Your Google Searches to Neutralize AI Summaries, or How to Trick AI into Thinking You're a Sassy Human and Not Just a Robot Trying to Get Some Actual Information"
   },
   {
-    "title": "Antiqua et Nova: Note on the relationship between AI and human intelligence",
-    "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250128_antiqua-et-nova_en.html",
-    "points": 398,
-    "num_comments": 379,
+    "title": "Apple files emergency motion to become defendant in US vs. Google [pdf]",
+    "url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1158.0_1.pdf",
+    "points": 348,
+    "num_comments": 361,
     "tags": [
       "story",
-      "author_max_",
-      "story_42877709",
+      "author_zdw",
+      "story_42889297"
+    ],
+    "author": "zdw",
+    "created_at": "2025-01-31T16:53:30Z",
+    "aiHeadline": "Apple Throws a Hail Mary, Files Emergency Motion to Become Defendant in US vs. Google, Essentially Saying 'Hey, Can We Join the Party Too, We Want to Get Sued as Well, It's Only Fair'"
+  },
+  {
+    "title": "Bypass DeepSeek censorship by speaking in hex",
+    "url": "https://substack.com/home/post/p-156004330",
+    "points": 318,
+    "num_comments": 185,
+    "tags": [
+      "story",
+      "author_MedadNewman",
+      "story_42891042",
       "front_page"
     ],
-    "author": "max_",
-    "created_at": "2025-01-30T14:01:27Z",
-    "aiHeadline": "The Vatican Weighs in on the Relationship Between AI and Human Intelligence, Because Who Better to Provide Insight into the Future of Humanity than an Institution that's Been Around for a Couple of Millennia, in a Document Titled 'Antiqua et Nova' That's Sure to Clear Up Any Confusion"
+    "author": "MedadNewman",
+    "created_at": "2025-01-31T19:41:49Z",
+    "aiHeadline": "Bypass DeepSeek Censorship by Speaking in Hex, Because Who Needs Human Language Anyway, and If You're Willing to Learn Hex Code Just to Avoid Censorship, Then More Power to You, You Crazy Genius"
   }
 ]
