@@ -1,75 +1,75 @@
 [
   {
-    "title": "OpenAI O3-Mini",
-    "url": "https://openai.com/index/openai-o3-mini/",
-    "points": 550,
-    "num_comments": 552,
+    "title": "CDC data are disappearing",
+    "url": "https://www.theatlantic.com/health/archive/2025/01/cdc-dei-scientific-data/681531/",
+    "points": 486,
+    "num_comments": 364,
     "tags": [
       "story",
-      "author_johnneville",
-      "story_42890627",
+      "author_doener",
+      "story_42897696",
       "front_page"
     ],
-    "author": "johnneville",
-    "created_at": "2025-01-31T19:08:15Z",
-    "aiHeadline": "OpenAI Unveils O3-Mini, Because Who Doesn't Need Another AI Model to Confuse Them, and Apparently It's a Game Changer or Something, We're Still Trying to Figure It Out"
+    "author": "doener",
+    "created_at": "2025-02-01T11:52:18Z",
+    "aiHeadline": "In a Shocking Turn of Events, CDC Data Has Vanished into Thin Air, Leaving Scientists Scratching Their Heads and Wondering If They'll Ever Get Their Hands on That Sweet, Sweet Data Again, and Honestly, Who Needs Data Anyway, Right?"
   },
   {
-    "title": "Hacker News for Gamedev",
-    "url": "https://gamedev.city/",
-    "points": 458,
-    "num_comments": 194,
+    "title": "Apple is open sourcing Swift Build",
+    "url": "https://www.swift.org/blog/the-next-chapter-in-swift-build-technologies/",
+    "points": 421,
+    "num_comments": 164,
     "tags": [
       "story",
-      "author_ahub",
-      "story_42885520"
-    ],
-    "author": "ahub",
-    "created_at": "2025-01-31T07:56:23Z",
-    "aiHeadline": "Hacker News for Gamedev: Because Game Developers Need Their Own Special Corner of the Internet to Complain About How Hard It Is to Make Games and How Much They Hate Unity"
-  },
-  {
-    "title": "Add \"fucking\" to your Google searches to neutralize AI summaries",
-    "url": "https://gizmodo.com/add-fcking-to-your-google-searches-to-neutralize-ai-summaries-2000557710",
-    "points": 455,
-    "num_comments": 215,
-    "tags": [
-      "story",
-      "author_jsheard",
-      "story_42892191",
+      "author_dayanruben",
+      "story_42899703",
       "front_page"
     ],
-    "author": "jsheard",
-    "created_at": "2025-01-31T21:20:40Z",
-    "aiHeadline": "Pro Tip: Add 'Fucking' to Your Google Searches to Neutralize AI Summaries, or How to Trick AI into Thinking You're a Sassy Human and Not Just a Robot Trying to Get Some Actual Information"
+    "author": "dayanruben",
+    "created_at": "2025-02-01T16:44:53Z",
+    "aiHeadline": "Apple Has Decided to Open Source Swift Build, Because What's the Worst That Could Happen, Right? I Mean, It's Not Like the Internet Is Full of People Just Waiting to Tear Apart Your Code and Find All the Secrets You've Been Hiding, But Hey, at Least It's a Nice Gesture, Apple, Thanks for the Free Code, We Guess"
   },
   {
-    "title": "Apple files emergency motion to become defendant in US vs. Google [pdf]",
-    "url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1158.0_1.pdf",
-    "points": 348,
-    "num_comments": 361,
+    "title": "How to Run DeepSeek R1 671B Locally on a $2000 EPYC Server",
+    "url": "https://digitalspaceport.com/how-to-run-deepseek-r1-671b-fully-locally-on-2000-epyc-rig/",
+    "points": 404,
+    "num_comments": 237,
     "tags": [
       "story",
-      "author_zdw",
-      "story_42889297"
+      "author_walterbell",
+      "story_42897205"
     ],
-    "author": "zdw",
-    "created_at": "2025-01-31T16:53:30Z",
-    "aiHeadline": "Apple Throws a Hail Mary, Files Emergency Motion to Become Defendant in US vs. Google, Essentially Saying 'Hey, Can We Join the Party Too, We Want to Get Sued as Well, It's Only Fair'"
+    "author": "walterbell",
+    "created_at": "2025-02-01T09:46:43Z",
+    "aiHeadline": "For the Low, Low Price of $2000, You Too Can Run DeepSeek R1 671B Locally on an EPYC Server, Because Who Needs to Pay Rent or Buy Food When You Can Have a Fancy Server to Play With, and Don't Worry, We Won't Judge You for Spending All Your Money on a Toy, We'll Just Be Over Here, Judgmentally Reading About It Online"
   },
   {
-    "title": "Bypass DeepSeek censorship by speaking in hex",
-    "url": "https://substack.com/home/post/p-156004330",
-    "points": 318,
-    "num_comments": 185,
+    "title": "Visualizing all books of the world in ISBN-Space",
+    "url": "https://phiresky.github.io/blog/2025/visualizing-all-books-in-isbn-space/",
+    "points": 326,
+    "num_comments": 66,
     "tags": [
       "story",
-      "author_MedadNewman",
-      "story_42891042",
+      "author_phiresky",
+      "story_42897120",
       "front_page"
     ],
-    "author": "MedadNewman",
-    "created_at": "2025-01-31T19:41:49Z",
-    "aiHeadline": "Bypass DeepSeek Censorship by Speaking in Hex, Because Who Needs Human Language Anyway, and If You're Willing to Learn Hex Code Just to Avoid Censorship, Then More Power to You, You Crazy Genius"
+    "author": "phiresky",
+    "created_at": "2025-02-01T09:27:06Z",
+    "aiHeadline": "In a Bold Move, Someone Has Decided to Visualize All Books in ISBN-Space, Because What the World Really Needed Was a Bigger Library, and Now You Can Finally See All the Books You'll Never Read in a Beautiful, Shiny Graph, Yay, We Guess, If You're Into That Sort of Thing, Which, Honestly, We're Not Really Sure Why You Would Be"
+  },
+  {
+    "title": "The government information crisis is bigger than you think it is",
+    "url": "https://freegovinfo.info/node/14747/",
+    "points": 306,
+    "num_comments": 234,
+    "tags": [
+      "story",
+      "author_ChrisArchitect",
+      "story_42895331"
+    ],
+    "author": "ChrisArchitect",
+    "created_at": "2025-02-01T03:21:25Z",
+    "aiHeadline": "The Government Information Crisis Is Apparently Bigger Than You Think, But Don't Worry, We're Sure It's Not a Big Deal or Anything, Just Your Run-of-the-Mill, Everyday Government Information Crisis, You Know, the Kind Where They Lose All the Data and Then Pretend Like It Never Existed, Yeah, That's Totally Normal, Move Along, Nothing to See Here"
   }
 ]
