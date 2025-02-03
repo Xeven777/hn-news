@@ -1,75 +1,76 @@
 [
   {
-    "title": "CDC data are disappearing",
-    "url": "https://www.theatlantic.com/health/archive/2025/01/cdc-dei-scientific-data/681531/",
-    "points": 486,
-    "num_comments": 364,
+    "title": "Everyone knows your location: tracking myself down through in-app ads",
+    "url": "https://timsh.org/tracking-myself-down-through-in-app-ads/",
+    "points": 893,
+    "num_comments": 286,
     "tags": [
       "story",
-      "author_doener",
-      "story_42897696",
+      "author_apokryptein",
+      "story_42909921",
       "front_page"
     ],
-    "author": "doener",
-    "created_at": "2025-02-01T11:52:18Z",
-    "aiHeadline": "In a Shocking Turn of Events, CDC Data Has Vanished into Thin Air, Leaving Scientists Scratching Their Heads and Wondering If They'll Ever Get Their Hands on That Sweet, Sweet Data Again, and Honestly, Who Needs Data Anyway, Right?"
+    "author": "apokryptein",
+    "created_at": "2025-02-02T17:07:31Z",
+    "aiHeadline": "Big Brother is Watching You, and So Are the In-App Ads: A Thrilling Tale of How Your Location is Being Tracked Down by Those Annoying Ads That Just Won't Quit, Because Apparently, Everyone Needs to Know Your Every Move, All the Time, and We're Not Even Kidding"
   },
   {
-    "title": "Apple is open sourcing Swift Build",
-    "url": "https://www.swift.org/blog/the-next-chapter-in-swift-build-technologies/",
-    "points": 421,
-    "num_comments": 164,
+    "title": "CDC: Unpublished manuscripts mentioning certain topics must be pulled or revised",
+    "url": "https://insidemedicine.substack.com/p/breaking-news-cdc-orders-mass-retraction",
+    "points": 808,
+    "num_comments": 638,
     "tags": [
       "story",
-      "author_dayanruben",
-      "story_42899703",
+      "author_KittenInABox",
+      "story_42905937"
+    ],
+    "author": "KittenInABox",
+    "created_at": "2025-02-02T04:52:28Z",
+    "aiHeadline": "CDC Orders Mass Retraction of Unpublished Manuscripts, Because Who Needs Free Speech Anyway, and Definitely Not When It Comes to Certain Sensitive Topics That Might Just Expose the Truth, So Let's Just Pretend We Never Said Anything and Move On, Shall We?"
+  },
+  {
+    "title": "Recent results show that LLMs struggle with compositional tasks",
+    "url": "https://www.quantamagazine.org/chatbot-software-begins-to-face-fundamental-limitations-20250131/",
+    "points": 313,
+    "num_comments": 253,
+    "tags": [
+      "story",
+      "author_marban",
+      "story_42905453"
+    ],
+    "author": "marban",
+    "created_at": "2025-02-02T03:21:07Z",
+    "aiHeadline": "Breaking News: LLMs Struggle with Compositional Tasks, Which is Just a Fancy Way of Saying They're Not as Smart as They Think They Are, and Maybe We Should Stop Expecting Them to Solve World Hunger and Just Stick to Playing Chess or Something, Because Let's Face It, They're Not Exactly the Next Einstein"
+  },
+  {
+    "title": "Life is more than an engineering problem",
+    "url": "https://lareviewofbooks.org/article/life-is-more-than-an-engineering-problem/",
+    "points": 313,
+    "num_comments": 195,
+    "tags": [
+      "story",
+      "author_biomene",
+      "story_42907268",
       "front_page"
     ],
-    "author": "dayanruben",
-    "created_at": "2025-02-01T16:44:53Z",
-    "aiHeadline": "Apple Has Decided to Open Source Swift Build, Because What's the Worst That Could Happen, Right? I Mean, It's Not Like the Internet Is Full of People Just Waiting to Tear Apart Your Code and Find All the Secrets You've Been Hiding, But Hey, at Least It's a Nice Gesture, Apple, Thanks for the Free Code, We Guess"
+    "author": "biomene",
+    "created_at": "2025-02-02T08:53:58Z",
+    "aiHeadline": "Life is More Than an Engineering Problem, But Don't Tell That to the Engineers Who Are Trying to Solve It with Code and Circuit Boards, Because Apparently, They Think They Can Fix Everything with a Few Lines of Code and a Pocket Protector, But Spoiler Alert: They Can't, and That's What Makes Life So Deliciously Complicated"
   },
   {
-    "title": "How to Run DeepSeek R1 671B Locally on a $2000 EPYC Server",
-    "url": "https://digitalspaceport.com/how-to-run-deepseek-r1-671b-fully-locally-on-2000-epyc-rig/",
-    "points": 404,
-    "num_comments": 237,
+    "title": "Show HN: Lume – OS lightweight CLI for MacOS and Linux VMs on Apple Silicon",
+    "url": "https://github.com/trycua/lume",
+    "points": 234,
+    "num_comments": 65,
     "tags": [
       "story",
-      "author_walterbell",
-      "story_42897205"
-    ],
-    "author": "walterbell",
-    "created_at": "2025-02-01T09:46:43Z",
-    "aiHeadline": "For the Low, Low Price of $2000, You Too Can Run DeepSeek R1 671B Locally on an EPYC Server, Because Who Needs to Pay Rent or Buy Food When You Can Have a Fancy Server to Play With, and Don't Worry, We Won't Judge You for Spending All Your Money on a Toy, We'll Just Be Over Here, Judgmentally Reading About It Online"
-  },
-  {
-    "title": "Visualizing all books of the world in ISBN-Space",
-    "url": "https://phiresky.github.io/blog/2025/visualizing-all-books-in-isbn-space/",
-    "points": 326,
-    "num_comments": 66,
-    "tags": [
-      "story",
-      "author_phiresky",
-      "story_42897120",
+      "author_sandropuppo",
+      "story_42908061",
+      "show_hn",
       "front_page"
     ],
-    "author": "phiresky",
-    "created_at": "2025-02-01T09:27:06Z",
-    "aiHeadline": "In a Bold Move, Someone Has Decided to Visualize All Books in ISBN-Space, Because What the World Really Needed Was a Bigger Library, and Now You Can Finally See All the Books You'll Never Read in a Beautiful, Shiny Graph, Yay, We Guess, If You're Into That Sort of Thing, Which, Honestly, We're Not Really Sure Why You Would Be"
-  },
-  {
-    "title": "The government information crisis is bigger than you think it is",
-    "url": "https://freegovinfo.info/node/14747/",
-    "points": 306,
-    "num_comments": 234,
-    "tags": [
-      "story",
-      "author_ChrisArchitect",
-      "story_42895331"
-    ],
-    "author": "ChrisArchitect",
-    "created_at": "2025-02-01T03:21:25Z",
-    "aiHeadline": "The Government Information Crisis Is Apparently Bigger Than You Think, But Don't Worry, We're Sure It's Not a Big Deal or Anything, Just Your Run-of-the-Mill, Everyday Government Information Crisis, You Know, the Kind Where They Lose All the Data and Then Pretend Like It Never Existed, Yeah, That's Totally Normal, Move Along, Nothing to See Here"
+    "author": "sandropuppo",
+    "created_at": "2025-02-02T11:46:22Z",
+    "aiHeadline": "Introducing Lume, the Lightweight CLI for MacOS and Linux VMs on Apple Silicon, Because Who Doesn't Need Another OS to Worry About, and What's a Few More VMs Between Friends, Right, and Don't Even Get Us Started on the Joy of Configuring Yet Another CLI, But Hey, At Least It's Not as Painful as Setting Up a Windows Desktop, So There's That"
   }
 ]
