@@ -1,76 +1,76 @@
 [
   {
-    "title": "Everyone knows your location: tracking myself down through in-app ads",
-    "url": "https://timsh.org/tracking-myself-down-through-in-app-ads/",
-    "points": 893,
-    "num_comments": 286,
+    "title": "Anthropic: \"Applicants should not use AI assistants\"",
+    "url": "https://simonwillison.net/2025/Feb/2/anthropic/",
+    "points": 453,
+    "num_comments": 392,
     "tags": [
       "story",
-      "author_apokryptein",
-      "story_42909921",
+      "author_twapi",
+      "story_42915905"
+    ],
+    "author": "twapi",
+    "created_at": "2025-02-03T07:46:37Z",
+    "aiHeadline": "In a Shocking Turn of Events, Anthropic Tells Job Applicants to Actually Use Their Brains and Not Rely on AI Assistants, Because Apparently That's What Humans are For, Who Knew?"
+  },
+  {
+    "title": "Our channel on YouTube has been deleted due to “spam and deceptive policies”",
+    "url": "https://bsky.app/profile/sinevibes.bsky.social/post/3lhazuyn5as2t",
+    "points": 367,
+    "num_comments": 106,
+    "tags": [
+      "story",
+      "author_richrichardsson",
+      "story_42917454"
+    ],
+    "author": "richrichardsson",
+    "created_at": "2025-02-03T12:21:52Z",
+    "aiHeadline": "YouTube's Latest Victim: Some Poor Soul's Channel Got Deleted for 'Spam and Deceptive Policies', AKA the Classic 'We Don't Like You' Excuse, Leaving the Owner to Cry Foul and Question the Very Fabric of Online Justice"
+  },
+  {
+    "title": "Httptap: View HTTP/HTTPS requests made by any Linux program",
+    "url": "https://github.com/monasticacademy/httptap",
+    "points": 362,
+    "num_comments": 94,
+    "tags": [
+      "story",
+      "author_alexflint",
+      "story_42919909",
       "front_page"
     ],
-    "author": "apokryptein",
-    "created_at": "2025-02-02T17:07:31Z",
-    "aiHeadline": "Big Brother is Watching You, and So Are the In-App Ads: A Thrilling Tale of How Your Location is Being Tracked Down by Those Annoying Ads That Just Won't Quit, Because Apparently, Everyone Needs to Know Your Every Move, All the Time, and We're Not Even Kidding"
+    "author": "alexflint",
+    "created_at": "2025-02-03T16:28:45Z",
+    "aiHeadline": "Introducing Httptap: Because You've Always Wanted to Spy on Your Linux Program's Internet Activities, Like a Digital Private Investigator, Except Instead of Cheating Spouses, You Get to See Which Websites Your Programs are Secretly Visiting"
   },
   {
-    "title": "CDC: Unpublished manuscripts mentioning certain topics must be pulled or revised",
-    "url": "https://insidemedicine.substack.com/p/breaking-news-cdc-orders-mass-retraction",
-    "points": 808,
-    "num_comments": 638,
+    "title": "Ask HN: Who is hiring? (February 2025)",
+    "points": 354,
+    "num_comments": 331,
     "tags": [
       "story",
-      "author_KittenInABox",
-      "story_42905937"
-    ],
-    "author": "KittenInABox",
-    "created_at": "2025-02-02T04:52:28Z",
-    "aiHeadline": "CDC Orders Mass Retraction of Unpublished Manuscripts, Because Who Needs Free Speech Anyway, and Definitely Not When It Comes to Certain Sensitive Topics That Might Just Expose the Truth, So Let's Just Pretend We Never Said Anything and Move On, Shall We?"
-  },
-  {
-    "title": "Recent results show that LLMs struggle with compositional tasks",
-    "url": "https://www.quantamagazine.org/chatbot-software-begins-to-face-fundamental-limitations-20250131/",
-    "points": 313,
-    "num_comments": 253,
-    "tags": [
-      "story",
-      "author_marban",
-      "story_42905453"
-    ],
-    "author": "marban",
-    "created_at": "2025-02-02T03:21:07Z",
-    "aiHeadline": "Breaking News: LLMs Struggle with Compositional Tasks, Which is Just a Fancy Way of Saying They're Not as Smart as They Think They Are, and Maybe We Should Stop Expecting Them to Solve World Hunger and Just Stick to Playing Chess or Something, Because Let's Face It, They're Not Exactly the Next Einstein"
-  },
-  {
-    "title": "Life is more than an engineering problem",
-    "url": "https://lareviewofbooks.org/article/life-is-more-than-an-engineering-problem/",
-    "points": 313,
-    "num_comments": 195,
-    "tags": [
-      "story",
-      "author_biomene",
-      "story_42907268",
+      "author_whoishiring",
+      "story_42919502",
+      "ask_hn",
       "front_page"
     ],
-    "author": "biomene",
-    "created_at": "2025-02-02T08:53:58Z",
-    "aiHeadline": "Life is More Than an Engineering Problem, But Don't Tell That to the Engineers Who Are Trying to Solve It with Code and Circuit Boards, Because Apparently, They Think They Can Fix Everything with a Few Lines of Code and a Pocket Protector, But Spoiler Alert: They Can't, and That's What Makes Life So Deliciously Complicated"
+    "author": "whoishiring",
+    "created_at": "2025-02-03T16:00:43Z",
+    "aiHeadline": "It's That Time of the Month Again: 'Who is Hiring?' Asks the Age-Old Question on Hacker News, Because Let's Face it, We're All Just a Bunch of Coders Desperately Seeking Our Next Paycheck, and Maybe, Just Maybe, This Post Will Lead Us to the Promised Land of Employment"
   },
   {
-    "title": "Show HN: Lume – OS lightweight CLI for MacOS and Linux VMs on Apple Silicon",
-    "url": "https://github.com/trycua/lume",
-    "points": 234,
-    "num_comments": 65,
+    "title": "Show HN: I convert videos to printed flipbooks for living",
+    "url": "https://www.videotoflip.com/",
+    "points": 345,
+    "num_comments": 82,
     "tags": [
       "story",
-      "author_sandropuppo",
-      "story_42908061",
+      "author_momciloo",
+      "story_42918902",
       "show_hn",
       "front_page"
     ],
-    "author": "sandropuppo",
-    "created_at": "2025-02-02T11:46:22Z",
-    "aiHeadline": "Introducing Lume, the Lightweight CLI for MacOS and Linux VMs on Apple Silicon, Because Who Doesn't Need Another OS to Worry About, and What's a Few More VMs Between Friends, Right, and Don't Even Get Us Started on the Joy of Configuring Yet Another CLI, But Hey, At Least It's Not as Painful as Setting Up a Windows Desktop, So There's That"
+    "author": "momciloo",
+    "created_at": "2025-02-03T15:09:55Z",
+    "aiHeadline": "In a World Where Videos are So Last Season, One Brave Soul has Decided to Take the Road Less Traveled and Convert Them into Printed Flipbooks, Because Who Needs YouTube When You Can Have a Bunch of Papers Flapping in the Wind, Am I Right?"
   }
 ]
