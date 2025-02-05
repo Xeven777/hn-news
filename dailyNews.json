@@ -1,76 +1,75 @@
 [
   {
-    "title": "Anthropic: \"Applicants should not use AI assistants\"",
-    "url": "https://simonwillison.net/2025/Feb/2/anthropic/",
-    "points": 453,
-    "num_comments": 392,
+    "title": "WikiTok",
+    "url": "https://wikitok.vercel.app/",
+    "points": 822,
+    "num_comments": 147,
     "tags": [
       "story",
-      "author_twapi",
-      "story_42915905"
-    ],
-    "author": "twapi",
-    "created_at": "2025-02-03T07:46:37Z",
-    "aiHeadline": "In a Shocking Turn of Events, Anthropic Tells Job Applicants to Actually Use Their Brains and Not Rely on AI Assistants, Because Apparently That's What Humans are For, Who Knew?"
-  },
-  {
-    "title": "Our channel on YouTube has been deleted due to “spam and deceptive policies”",
-    "url": "https://bsky.app/profile/sinevibes.bsky.social/post/3lhazuyn5as2t",
-    "points": 367,
-    "num_comments": 106,
-    "tags": [
-      "story",
-      "author_richrichardsson",
-      "story_42917454"
-    ],
-    "author": "richrichardsson",
-    "created_at": "2025-02-03T12:21:52Z",
-    "aiHeadline": "YouTube's Latest Victim: Some Poor Soul's Channel Got Deleted for 'Spam and Deceptive Policies', AKA the Classic 'We Don't Like You' Excuse, Leaving the Owner to Cry Foul and Question the Very Fabric of Online Justice"
-  },
-  {
-    "title": "Httptap: View HTTP/HTTPS requests made by any Linux program",
-    "url": "https://github.com/monasticacademy/httptap",
-    "points": 362,
-    "num_comments": 94,
-    "tags": [
-      "story",
-      "author_alexflint",
-      "story_42919909",
+      "author_Group_B",
+      "story_42936723",
       "front_page"
     ],
-    "author": "alexflint",
-    "created_at": "2025-02-03T16:28:45Z",
-    "aiHeadline": "Introducing Httptap: Because You've Always Wanted to Spy on Your Linux Program's Internet Activities, Like a Digital Private Investigator, Except Instead of Cheating Spouses, You Get to See Which Websites Your Programs are Secretly Visiting"
+    "author": "Group_B",
+    "created_at": "2025-02-04T18:40:55Z",
+    "aiHeadline": "Breaking News: WikiTok Has Arrived, Because What the World Really Needed Was Another Social Media Platform to Waste Our Time On, and This One's a Wikipedia-Themed TikTok Clone, Because Why Not?"
   },
   {
-    "title": "Ask HN: Who is hiring? (February 2025)",
-    "points": 354,
-    "num_comments": 331,
+    "title": "Chat is a bad UI pattern for development tools",
+    "url": "https://danieldelaney.net/chat/",
+    "points": 655,
+    "num_comments": 351,
     "tags": [
       "story",
-      "author_whoishiring",
-      "story_42919502",
-      "ask_hn",
+      "author_cryptophreak",
+      "story_42934190",
       "front_page"
     ],
-    "author": "whoishiring",
-    "created_at": "2025-02-03T16:00:43Z",
-    "aiHeadline": "It's That Time of the Month Again: 'Who is Hiring?' Asks the Age-Old Question on Hacker News, Because Let's Face it, We're All Just a Bunch of Coders Desperately Seeking Our Next Paycheck, and Maybe, Just Maybe, This Post Will Lead Us to the Promised Land of Employment"
+    "author": "cryptophreak",
+    "created_at": "2025-02-04T16:06:32Z",
+    "aiHeadline": "Chat: The UI Pattern That's Apparently Ruining Development Tools, or So Says This Guy Who's Clearly Had It Up to Here with All the Chatty Interfaces, and Honestly, Who Can Blame Him, Really?"
   },
   {
-    "title": "Show HN: I convert videos to printed flipbooks for living",
-    "url": "https://www.videotoflip.com/",
-    "points": 345,
-    "num_comments": 82,
+    "title": "Payments crisis of 2025: Not “read only” access anymore",
+    "url": "https://www.crisesnotes.com/day-five-of-the-trump-musk-treasury-payments-crisis-of-2025-not-read-only-access-anymore/",
+    "points": 460,
+    "num_comments": 501,
     "tags": [
       "story",
-      "author_momciloo",
-      "story_42918902",
-      "show_hn",
+      "author_shinryuu",
+      "story_42933219"
+    ],
+    "author": "shinryuu",
+    "created_at": "2025-02-04T15:05:34Z",
+    "aiHeadline": "Panic Stations: The 2025 Payments Crisis Has Officially Hit Not-So-Read-Only Access, Which Is Just a Fancy Way of Saying 'We're in a Whole Heap of Trouble Now, Folks', and Buckle Up, Because This Wild Ride Is About to Get a Whole Lot Wilder"
+  },
+  {
+    "title": "The Video Game History Foundation library opens in early access",
+    "url": "https://gamehistory.org/vghf-library-launch/",
+    "points": 351,
+    "num_comments": 67,
+    "tags": [
+      "story",
+      "author_pabs3",
+      "story_42926076"
+    ],
+    "author": "pabs3",
+    "created_at": "2025-02-04T01:15:28Z",
+    "aiHeadline": "Get Ready for a Blast from the Past: The Video Game History Foundation Library Is Now Open for Early Access, Which Means You Can Finally Relive Your Misspent Youth Playing Classic Video Games Instead of Doing Something Productive with Your Time"
+  },
+  {
+    "title": "Oracle justified its JavaScript trademark with Node.js–now it wants that ignored",
+    "url": "https://deno.com/blog/deno-v-oracle2",
+    "points": 338,
+    "num_comments": 72,
+    "tags": [
+      "story",
+      "author_healsdata",
+      "story_42939940",
       "front_page"
     ],
-    "author": "momciloo",
-    "created_at": "2025-02-03T15:09:55Z",
-    "aiHeadline": "In a World Where Videos are So Last Season, One Brave Soul has Decided to Take the Road Less Traveled and Convert Them into Printed Flipbooks, Because Who Needs YouTube When You Can Have a Bunch of Papers Flapping in the Wind, Am I Right?"
+    "author": "healsdata",
+    "created_at": "2025-02-04T22:29:48Z",
+    "aiHeadline": "Oracle's at It Again: They're Trying to Justify Their JavaScript Trademark with Node.js, But Now They Want Us to Just Forget About the Whole Thing, Because Who Needs Consistency or Transparency, Anyway, and Can We Just Move On to the Next Corporate Shenanigan Already?"
   }
 ]
