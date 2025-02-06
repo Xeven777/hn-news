@@ -1,75 +1,76 @@
 [
   {
-    "title": "WikiTok",
-    "url": "https://wikitok.vercel.app/",
-    "points": 822,
-    "num_comments": 147,
+    "title": "Fair Pricing",
+    "url": "https://kagi.com/changelog#6155",
+    "points": 1046,
+    "num_comments": 463,
     "tags": [
       "story",
-      "author_Group_B",
-      "story_42936723",
+      "author_CleverLikeAnOx",
+      "story_42944371"
+    ],
+    "author": "CleverLikeAnOx",
+    "created_at": "2025-02-05T05:50:16Z",
+    "aiHeadline": "Breaking News: Kagi's Latest Update Includes Fair Pricing, Because Who Doesn't Love Not Being Ripped Off, and Honestly, It's About Time Someone Stepped Up to Make Pricing Fair and Transparent in the Industry, Don't You Think?"
+  },
+  {
+    "title": "Software development topics I've changed my mind on",
+    "url": "https://chriskiehl.com/article/thoughts-after-10-years",
+    "points": 602,
+    "num_comments": 595,
+    "tags": [
+      "story",
+      "author_belter",
+      "story_42946281",
       "front_page"
     ],
-    "author": "Group_B",
-    "created_at": "2025-02-04T18:40:55Z",
-    "aiHeadline": "Breaking News: WikiTok Has Arrived, Because What the World Really Needed Was Another Social Media Platform to Waste Our Time On, and This One's a Wikipedia-Themed TikTok Clone, Because Why Not?"
+    "author": "belter",
+    "created_at": "2025-02-05T09:50:30Z",
+    "aiHeadline": "Confession Time: Software Development Topics I've Changed My Mind On, a Riveting Tale of Self-Discovery and Growth, Where the Author Reveals Their Most Embarrassing Mistakes and What They Learned from Them, All While Providing Valuable Insights for Fellow Developers, So Grab a Popcorn and Get Cozy!"
   },
   {
-    "title": "Chat is a bad UI pattern for development tools",
-    "url": "https://danieldelaney.net/chat/",
-    "points": 655,
-    "num_comments": 351,
+    "title": "S1: A $6 R1 competitor?",
+    "url": "https://timkellogg.me/blog/2025/02/03/s1",
+    "points": 590,
+    "num_comments": 227,
     "tags": [
       "story",
-      "author_cryptophreak",
-      "story_42934190",
+      "author_tkellogg",
+      "story_42946854",
       "front_page"
     ],
-    "author": "cryptophreak",
-    "created_at": "2025-02-04T16:06:32Z",
-    "aiHeadline": "Chat: The UI Pattern That's Apparently Ruining Development Tools, or So Says This Guy Who's Clearly Had It Up to Here with All the Chatty Interfaces, and Honestly, Who Can Blame Him, Really?"
+    "author": "tkellogg",
+    "created_at": "2025-02-05T11:05:40Z",
+    "aiHeadline": "The Ultimate Showdown: S1 Takes on R1 in the Battle of the $6 Titans, Can This New Competitor Dethrone the Reigning Champ, or Will It Fizzle Out Like a Cheap Firework on a Rainy Night, Only Time (and the Market) Will Tell, But One Thing's for Sure, It's Going to Be a Wild Ride!"
   },
   {
-    "title": "Payments crisis of 2025: Not “read only” access anymore",
-    "url": "https://www.crisesnotes.com/day-five-of-the-trump-musk-treasury-payments-crisis-of-2025-not-read-only-access-anymore/",
-    "points": 460,
-    "num_comments": 501,
+    "title": "Ingesting PDFs and why Gemini 2.0 changes everything",
+    "url": "https://www.sergey.fyi/articles/gemini-flash-2",
+    "points": 575,
+    "num_comments": 202,
     "tags": [
       "story",
-      "author_shinryuu",
-      "story_42933219"
-    ],
-    "author": "shinryuu",
-    "created_at": "2025-02-04T15:05:34Z",
-    "aiHeadline": "Panic Stations: The 2025 Payments Crisis Has Officially Hit Not-So-Read-Only Access, Which Is Just a Fancy Way of Saying 'We're in a Whole Heap of Trouble Now, Folks', and Buckle Up, Because This Wild Ride Is About to Get a Whole Lot Wilder"
-  },
-  {
-    "title": "The Video Game History Foundation library opens in early access",
-    "url": "https://gamehistory.org/vghf-library-launch/",
-    "points": 351,
-    "num_comments": 67,
-    "tags": [
-      "story",
-      "author_pabs3",
-      "story_42926076"
-    ],
-    "author": "pabs3",
-    "created_at": "2025-02-04T01:15:28Z",
-    "aiHeadline": "Get Ready for a Blast from the Past: The Video Game History Foundation Library Is Now Open for Early Access, Which Means You Can Finally Relive Your Misspent Youth Playing Classic Video Games Instead of Doing Something Productive with Your Time"
-  },
-  {
-    "title": "Oracle justified its JavaScript trademark with Node.js–now it wants that ignored",
-    "url": "https://deno.com/blog/deno-v-oracle2",
-    "points": 338,
-    "num_comments": 72,
-    "tags": [
-      "story",
-      "author_healsdata",
-      "story_42939940",
+      "author_serjester",
+      "story_42952605",
       "front_page"
     ],
-    "author": "healsdata",
-    "created_at": "2025-02-04T22:29:48Z",
-    "aiHeadline": "Oracle's at It Again: They're Trying to Justify Their JavaScript Trademark with Node.js, But Now They Want Us to Just Forget About the Whole Thing, Because Who Needs Consistency or Transparency, Anyway, and Can We Just Move On to the Next Corporate Shenanigan Already?"
+    "author": "serjester",
+    "created_at": "2025-02-05T18:05:28Z",
+    "aiHeadline": "Gemini 2.0: The Game-Changing Update That's Going to Revolutionize the Way We Ingest PDFs, Because, Let's Be Real, Who Doesn't Love a Good PDF, and Now with This Latest Update, It's Going to Be Easier Than Ever to Make Sense of Those Pesky Documents, So Get Ready to Have Your Mind Blown!"
+  },
+  {
+    "title": "Tell HN: Cloudflare is blocking Pale Moon and other non-mainstream browsers",
+    "points": 557,
+    "num_comments": 193,
+    "tags": [
+      "story",
+      "author_Hold-And-Modify",
+      "story_42953508",
+      "ask_hn",
+      "front_page"
+    ],
+    "author": "Hold-And-Modify",
+    "created_at": "2025-02-05T19:08:12Z",
+    "aiHeadline": "Outrage Alert: Cloudflare is Blocking Pale Moon and Other Non-Mainstream Browsers, Because Apparently Being Different is a Crime, and Now Users Are Left to Wonder What They Did to Deserve Such Treatment, Is This the End of Browser Diversity as We Know It, or Just a Big Mishap?"
   }
 ]
