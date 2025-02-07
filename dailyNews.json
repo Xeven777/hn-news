@@ -1,76 +1,75 @@
 [
   {
-    "title": "Fair Pricing",
-    "url": "https://kagi.com/changelog#6155",
-    "points": 1046,
-    "num_comments": 463,
+    "title": "Paper Apps",
+    "url": "https://gladdendesign.com/collections/paper-apps",
+    "points": 530,
+    "num_comments": 85,
     "tags": [
       "story",
-      "author_CleverLikeAnOx",
-      "story_42944371"
-    ],
-    "author": "CleverLikeAnOx",
-    "created_at": "2025-02-05T05:50:16Z",
-    "aiHeadline": "Breaking News: Kagi's Latest Update Includes Fair Pricing, Because Who Doesn't Love Not Being Ripped Off, and Honestly, It's About Time Someone Stepped Up to Make Pricing Fair and Transparent in the Industry, Don't You Think?"
-  },
-  {
-    "title": "Software development topics I've changed my mind on",
-    "url": "https://chriskiehl.com/article/thoughts-after-10-years",
-    "points": 602,
-    "num_comments": 595,
-    "tags": [
-      "story",
-      "author_belter",
-      "story_42946281",
+      "author_bluebirdfirewin",
+      "story_42960144",
       "front_page"
     ],
-    "author": "belter",
-    "created_at": "2025-02-05T09:50:30Z",
-    "aiHeadline": "Confession Time: Software Development Topics I've Changed My Mind On, a Riveting Tale of Self-Discovery and Growth, Where the Author Reveals Their Most Embarrassing Mistakes and What They Learned from Them, All While Providing Valuable Insights for Fellow Developers, So Grab a Popcorn and Get Cozy!"
+    "author": "bluebirdfirewin",
+    "created_at": "2025-02-06T07:58:33Z",
+    "aiHeadline": "Breaking News: 'Paper Apps' Are a Thing Now, Because Who Needs Actual Functionality When You Can Have Pretty Drawings, Am I Right, and Apparently 530 People Agree with This Revolutionary Idea"
   },
   {
-    "title": "S1: A $6 R1 competitor?",
-    "url": "https://timkellogg.me/blog/2025/02/03/s1",
-    "points": 590,
-    "num_comments": 227,
+    "title": "Programming SDF animations of Rick and Morty",
+    "url": "https://danielchasehooper.com/posts/code-animated-rick/",
+    "points": 428,
+    "num_comments": 36,
     "tags": [
       "story",
-      "author_tkellogg",
-      "story_42946854",
+      "author_LordNibbler",
+      "story_42958696",
       "front_page"
     ],
-    "author": "tkellogg",
-    "created_at": "2025-02-05T11:05:40Z",
-    "aiHeadline": "The Ultimate Showdown: S1 Takes on R1 in the Battle of the $6 Titans, Can This New Competitor Dethrone the Reigning Champ, or Will It Fizzle Out Like a Cheap Firework on a Rainy Night, Only Time (and the Market) Will Tell, But One Thing's for Sure, It's Going to Be a Wild Ride!"
+    "author": "LordNibbler",
+    "created_at": "2025-02-06T03:30:34Z",
+    "aiHeadline": "Get Ready to Waste Hours of Your Life Programming SDF Animations of Rick and Morty, Because What's More Productive Than That, and 428 People Are Already on Board with This Genius Plan to Procrastinate"
   },
   {
-    "title": "Ingesting PDFs and why Gemini 2.0 changes everything",
-    "url": "https://www.sergey.fyi/articles/gemini-flash-2",
-    "points": 575,
-    "num_comments": 202,
+    "title": "Linux Running in a PDF",
+    "url": "https://linux.doompdf.dev/linux.pdf",
+    "points": 311,
+    "num_comments": 97,
     "tags": [
       "story",
-      "author_serjester",
-      "story_42952605",
-      "front_page"
+      "author_theden",
+      "story_42959775"
     ],
-    "author": "serjester",
-    "created_at": "2025-02-05T18:05:28Z",
-    "aiHeadline": "Gemini 2.0: The Game-Changing Update That's Going to Revolutionize the Way We Ingest PDFs, Because, Let's Be Real, Who Doesn't Love a Good PDF, and Now with This Latest Update, It's Going to Be Easier Than Ever to Make Sense of Those Pesky Documents, So Get Ready to Have Your Mind Blown!"
+    "author": "theden",
+    "created_at": "2025-02-06T06:52:17Z",
+    "aiHeadline": "Linux Runs in a PDF, Because Why Not, and If You're Wondering How This Sorcery Works, You're Not Alone, with 311 People Already Baffled by This Magical Feat"
   },
   {
-    "title": "Tell HN: Cloudflare is blocking Pale Moon and other non-mainstream browsers",
-    "points": 557,
-    "num_comments": 193,
+    "title": "OpenWrt 24.10.0 – First Stable Release",
+    "url": "https://openwrt.org/releases/24.10/notes-24.10.0",
+    "points": 292,
+    "num_comments": 142,
     "tags": [
       "story",
-      "author_Hold-And-Modify",
-      "story_42953508",
-      "ask_hn",
+      "author_pm2222",
+      "story_42958202"
+    ],
+    "author": "pm2222",
+    "created_at": "2025-02-06T02:17:47Z",
+    "aiHeadline": "OpenWrt 24.10.0 is Finally Here, and by 'Finally' I Mean After an Eternity of Waiting, But Hey, At Least 292 People Are Excited About This Stable Release, Even If the Rest of Us Are Still Trying to Figure Out What OpenWrt Actually Does"
+  },
+  {
+    "title": "Simulating water over terrain",
+    "url": "https://lisyarus.github.io/blog/posts/simulating-water-over-terrain.html",
+    "points": 248,
+    "num_comments": 28,
+    "tags": [
+      "story",
+      "author_ibobev",
+      "story_42962508",
       "front_page"
     ],
-    "author": "Hold-And-Modify",
-    "created_at": "2025-02-05T19:08:12Z",
-    "aiHeadline": "Outrage Alert: Cloudflare is Blocking Pale Moon and Other Non-Mainstream Browsers, Because Apparently Being Different is a Crime, and Now Users Are Left to Wonder What They Did to Deserve Such Treatment, Is This the End of Browser Diversity as We Know It, or Just a Big Mishap?"
+    "author": "ibobev",
+    "created_at": "2025-02-06T14:15:28Z",
+    "aiHeadline": "Simulating Water Over Terrain is Now a Thing, Because Who Doesn't Love a Good Simulation, and Apparently 248 People Are Already Hooked on This Fascinating Topic, Which is Either Really Cool or Really Nerdy, or Maybe Both"
   }
 ]
