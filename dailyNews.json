@@ -1,75 +1,76 @@
 [
   {
-    "title": "Paper Apps",
-    "url": "https://gladdendesign.com/collections/paper-apps",
-    "points": 530,
-    "num_comments": 85,
+    "title": "Meta torrented & seeded 81.7 TB dataset containing copyrighted data",
+    "url": "https://arstechnica.com/tech-policy/2025/02/meta-torrented-over-81-7tb-of-pirated-books-to-train-ai-authors-say/",
+    "points": 1078,
+    "num_comments": 782,
     "tags": [
       "story",
-      "author_bluebirdfirewin",
-      "story_42960144",
+      "author_gameshot911",
+      "story_42971446",
       "front_page"
     ],
-    "author": "bluebirdfirewin",
-    "created_at": "2025-02-06T07:58:33Z",
-    "aiHeadline": "Breaking News: 'Paper Apps' Are a Thing Now, Because Who Needs Actual Functionality When You Can Have Pretty Drawings, Am I Right, and Apparently 530 People Agree with This Revolutionary Idea"
+    "author": "gameshot911",
+    "created_at": "2025-02-07T11:26:02Z",
+    "aiHeadline": "Meta Gets Caught Red-Handed: Torrents 81.7 TB of Copyrighted Data to Train AI, Because Who Needs Permission Anyway, and Now Authors are Left to Pick Up the Pieces and Wonder if Their Life's Work is Just a Free Resource for Tech Giants"
   },
   {
-    "title": "Programming SDF animations of Rick and Morty",
-    "url": "https://danielchasehooper.com/posts/code-animated-rick/",
-    "points": 428,
-    "num_comments": 36,
+    "title": "Apple Ordered by UK to Create Global iCloud Encryption Backdoor",
+    "url": "https://www.macrumors.com/2025/02/07/uk-government-orders-access-icloud/",
+    "points": 1052,
+    "num_comments": 549,
     "tags": [
       "story",
-      "author_LordNibbler",
-      "story_42958696",
+      "author_throw0101d",
+      "story_42971761",
       "front_page"
     ],
-    "author": "LordNibbler",
-    "created_at": "2025-02-06T03:30:34Z",
-    "aiHeadline": "Get Ready to Waste Hours of Your Life Programming SDF Animations of Rick and Morty, Because What's More Productive Than That, and 428 People Are Already on Board with This Genius Plan to Procrastinate"
+    "author": "throw0101d",
+    "created_at": "2025-02-07T12:18:46Z",
+    "aiHeadline": "UK Government to Apple: 'Hey, Can You Please Create a Backdoor to iCloud Encryption for Us, Pretty Please with a Union Jack on Top, So We Can Snoop on All Your Users and Make Sure They're Not Up to Any Mischief'"
   },
   {
-    "title": "Linux Running in a PDF",
-    "url": "https://linux.doompdf.dev/linux.pdf",
-    "points": 311,
-    "num_comments": 97,
+    "title": "Asahi Linux lead developer Hector Martin resigns from Linux kernel",
+    "url": "https://lkml.org/lkml/2025/2/7/9",
+    "points": 485,
+    "num_comments": 403,
     "tags": [
       "story",
-      "author_theden",
-      "story_42959775"
-    ],
-    "author": "theden",
-    "created_at": "2025-02-06T06:52:17Z",
-    "aiHeadline": "Linux Runs in a PDF, Because Why Not, and If You're Wondering How This Sorcery Works, You're Not Alone, with 311 People Already Baffled by This Magical Feat"
-  },
-  {
-    "title": "OpenWrt 24.10.0 – First Stable Release",
-    "url": "https://openwrt.org/releases/24.10/notes-24.10.0",
-    "points": 292,
-    "num_comments": 142,
-    "tags": [
-      "story",
-      "author_pm2222",
-      "story_42958202"
-    ],
-    "author": "pm2222",
-    "created_at": "2025-02-06T02:17:47Z",
-    "aiHeadline": "OpenWrt 24.10.0 is Finally Here, and by 'Finally' I Mean After an Eternity of Waiting, But Hey, At Least 292 People Are Excited About This Stable Release, Even If the Rest of Us Are Still Trying to Figure Out What OpenWrt Actually Does"
-  },
-  {
-    "title": "Simulating water over terrain",
-    "url": "https://lisyarus.github.io/blog/posts/simulating-water-over-terrain.html",
-    "points": 248,
-    "num_comments": 28,
-    "tags": [
-      "story",
-      "author_ibobev",
-      "story_42962508",
+      "author_Mond_",
+      "story_42972062",
       "front_page"
     ],
-    "author": "ibobev",
-    "created_at": "2025-02-06T14:15:28Z",
-    "aiHeadline": "Simulating Water Over Terrain is Now a Thing, Because Who Doesn't Love a Good Simulation, and Apparently 248 People Are Already Hooked on This Fascinating Topic, Which is Either Really Cool or Really Nerdy, or Maybe Both"
+    "author": "Mond_",
+    "created_at": "2025-02-07T13:02:03Z",
+    "aiHeadline": "Asahi Linux Lead Developer Hector Martin Resigns from Linux Kernel, Citing Reasons That Are Probably Totally Not Related to the Existential Crisis He Had After Realizing He's Been Contributing to Open-Source for Years Without Getting a Decent Paycheck"
+  },
+  {
+    "title": "Donald Knuth's 2024 Christmas Lecture: Strong and Weak Components [video]",
+    "url": "https://www.youtube.com/watch?v=Hi8r_63LGyg",
+    "points": 366,
+    "num_comments": 59,
+    "tags": [
+      "story",
+      "author_esbudylin",
+      "story_42970240",
+      "front_page"
+    ],
+    "author": "esbudylin",
+    "created_at": "2025-02-07T07:11:36Z",
+    "aiHeadline": "Donald Knuth's 2024 Christmas Lecture is Out, and It's a Real Treat for All You Computer Science Nerds Out There, Featuring Strong and Weak Components, and Probably a Few Jokes About How Christmas is Just an Excuse to Talk About Algorithms"
+  },
+  {
+    "title": "Announcing the data.gov archive",
+    "url": "https://lil.law.harvard.edu/blog/2025/02/06/announcing-data-gov-archive/",
+    "points": 359,
+    "num_comments": 114,
+    "tags": [
+      "story",
+      "author_govideo",
+      "story_42970039"
+    ],
+    "author": "govideo",
+    "created_at": "2025-02-07T06:32:00Z",
+    "aiHeadline": "Introducing the data.gov Archive: Because Who Needs Privacy When You Can Have a Treasure Trove of Free Data, and by Free We Mean 'Free to Be Used by Corporations to Make More Money', and by Treasure Trove We Mean 'A Bunch of PDFs and Spreadsheets'"
   }
 ]
