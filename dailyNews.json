@@ -1,76 +1,77 @@
 [
   {
-    "title": "Meta torrented & seeded 81.7 TB dataset containing copyrighted data",
-    "url": "https://arstechnica.com/tech-policy/2025/02/meta-torrented-over-81-7tb-of-pirated-books-to-train-ai-authors-say/",
-    "points": 1078,
-    "num_comments": 782,
+    "title": "We are destroying software",
+    "url": "https://antirez.com/news/145",
+    "points": 465,
+    "num_comments": 335,
     "tags": [
       "story",
-      "author_gameshot911",
-      "story_42971446",
+      "author_antirez",
+      "story_42983275",
       "front_page"
     ],
-    "author": "gameshot911",
-    "created_at": "2025-02-07T11:26:02Z",
-    "aiHeadline": "Meta Gets Caught Red-Handed: Torrents 81.7 TB of Copyrighted Data to Train AI, Because Who Needs Permission Anyway, and Now Authors are Left to Pick Up the Pieces and Wonder if Their Life's Work is Just a Free Resource for Tech Giants"
+    "author": "antirez",
+    "created_at": "2025-02-08T14:48:25Z",
+    "aiHeadline": "Software Development is Apparently a Form of Digital Vandalism and We're All Just a Bunch of Cyber Hooligans According to This Scathing Indictment of the Industry, Because Who Needs Functional Code Anyway?"
   },
   {
-    "title": "Apple Ordered by UK to Create Global iCloud Encryption Backdoor",
-    "url": "https://www.macrumors.com/2025/02/07/uk-government-orders-access-icloud/",
-    "points": 1052,
-    "num_comments": 549,
+    "title": "The Deck: An open-source cross-platform multiplayer card game engine in Flutter",
+    "url": "https://github.com/xajik/thedeck",
+    "points": 207,
+    "num_comments": 51,
     "tags": [
       "story",
-      "author_throw0101d",
-      "story_42971761",
+      "author_igor_st",
+      "story_42983699",
       "front_page"
     ],
-    "author": "throw0101d",
-    "created_at": "2025-02-07T12:18:46Z",
-    "aiHeadline": "UK Government to Apple: 'Hey, Can You Please Create a Backdoor to iCloud Encryption for Us, Pretty Please with a Union Jack on Top, So We Can Snoop on All Your Users and Make Sure They're Not Up to Any Mischief'"
+    "author": "igor_st",
+    "created_at": "2025-02-08T15:47:36Z",
+    "aiHeadline": "Get Ready to Waste Hours of Your Life Playing Cards with Strangers on the Internet, Thanks to This Open-Source Cross-Platform Multiplayer Card Game Engine in Flutter, Because Productivity is Overrated and Solitaire Just Isn't Cutting It Anymore"
   },
   {
-    "title": "Asahi Linux lead developer Hector Martin resigns from Linux kernel",
-    "url": "https://lkml.org/lkml/2025/2/7/9",
-    "points": 485,
-    "num_comments": 403,
+    "title": "Ghostwriter – use the reMarkable2 as an interface to vision-LLMs",
+    "url": "https://github.com/awwaiid/ghostwriter",
+    "points": 183,
+    "num_comments": 71,
     "tags": [
       "story",
-      "author_Mond_",
-      "story_42972062",
+      "author_wonger_",
+      "story_42979986"
+    ],
+    "author": "wonger_",
+    "created_at": "2025-02-08T03:02:57Z",
+    "aiHeadline": "Some Genius Has Figured Out How to Turn the reMarkable2 into a Magical Interface for Vision-LLMs, Which is Just a Fancy Way of Saying They've Created a Gadget That Lets You Talk to AI Like It's a Ouija Board, But with More Sloppy Handwriting"
+  },
+  {
+    "title": "Jacksonpollock.org",
+    "url": "https://jacksonpollock.org/",
+    "points": 170,
+    "num_comments": 46,
+    "tags": [
+      "story",
+      "author_memalign",
+      "story_42986320",
       "front_page"
     ],
-    "author": "Mond_",
-    "created_at": "2025-02-07T13:02:03Z",
-    "aiHeadline": "Asahi Linux Lead Developer Hector Martin Resigns from Linux Kernel, Citing Reasons That Are Probably Totally Not Related to the Existential Crisis He Had After Realizing He's Been Contributing to Open-Source for Years Without Getting a Decent Paycheck"
+    "author": "memalign",
+    "created_at": "2025-02-08T21:22:49Z",
+    "aiHeadline": "In a Bizarre Tribute to Abstract Art, Someone Has Created a Website That Lets You Create Your Own Masterpiece, or More Likely, a Kindergarten-Level Mess, in the Style of Jackson Pollock, Because Who Needs Talent When You Have a Mouse and a Can of Virtual Paint?"
   },
   {
-    "title": "Donald Knuth's 2024 Christmas Lecture: Strong and Weak Components [video]",
-    "url": "https://www.youtube.com/watch?v=Hi8r_63LGyg",
-    "points": 366,
-    "num_comments": 59,
+    "title": "Show HN: FlashSpace – fast, open-source, macOS Spaces replacement",
+    "url": "https://github.com/wojciech-kulik/FlashSpace",
+    "points": 157,
+    "num_comments": 49,
     "tags": [
       "story",
-      "author_esbudylin",
-      "story_42970240",
+      "author_wojciech-kulik",
+      "story_42984420",
+      "show_hn",
       "front_page"
     ],
-    "author": "esbudylin",
-    "created_at": "2025-02-07T07:11:36Z",
-    "aiHeadline": "Donald Knuth's 2024 Christmas Lecture is Out, and It's a Real Treat for All You Computer Science Nerds Out There, Featuring Strong and Weak Components, and Probably a Few Jokes About How Christmas is Just an Excuse to Talk About Algorithms"
-  },
-  {
-    "title": "Announcing the data.gov archive",
-    "url": "https://lil.law.harvard.edu/blog/2025/02/06/announcing-data-gov-archive/",
-    "points": 359,
-    "num_comments": 114,
-    "tags": [
-      "story",
-      "author_govideo",
-      "story_42970039"
-    ],
-    "author": "govideo",
-    "created_at": "2025-02-07T06:32:00Z",
-    "aiHeadline": "Introducing the data.gov Archive: Because Who Needs Privacy When You Can Have a Treasure Trove of Free Data, and by Free We Mean 'Free to Be Used by Corporations to Make More Money', and by Treasure Trove We Mean 'A Bunch of PDFs and Spreadsheets'"
+    "author": "wojciech-kulik",
+    "created_at": "2025-02-08T17:19:23Z",
+    "aiHeadline": "The macOS Spaces Replacement You Never Knew You Needed is Here, and It's Called FlashSpace, Which is Either a Lifesaver for the Organizationally Challenged or a Desperate Cry for Help from Someone Who Can't Handle a Little Digital Clutter, Either Way, It's Free and Open-Source, So Go Forth and Conquer Your Desktop"
   }
 ]
