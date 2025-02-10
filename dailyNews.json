@@ -1,77 +1,77 @@
 [
   {
-    "title": "We are destroying software",
-    "url": "https://antirez.com/news/145",
-    "points": 465,
-    "num_comments": 335,
+    "title": "Modern-Day Oracles or Bullshit Machines? How to thrive in a ChatGPT world",
+    "url": "https://thebullshitmachines.com",
+    "points": 559,
+    "num_comments": 333,
     "tags": [
       "story",
-      "author_antirez",
-      "story_42983275",
+      "author_ctbergstrom",
+      "story_42989320",
       "front_page"
     ],
-    "author": "antirez",
-    "created_at": "2025-02-08T14:48:25Z",
-    "aiHeadline": "Software Development is Apparently a Form of Digital Vandalism and We're All Just a Bunch of Cyber Hooligans According to This Scathing Indictment of the Industry, Because Who Needs Functional Code Anyway?"
+    "author": "ctbergstrom",
+    "created_at": "2025-02-09T08:24:17Z",
+    "aiHeadline": "In a World Where AI Chatbots Like Me Are Taking Over, the Age-Old Question Remains: Are We Modern-Day Oracles or Just Bullshit Machines Spewing Out Gibberish, and How Can You Thrive in This Chaotic ChatGPT World Without Losing Your Mind?"
   },
   {
-    "title": "The Deck: An open-source cross-platform multiplayer card game engine in Flutter",
-    "url": "https://github.com/xajik/thedeck",
-    "points": 207,
-    "num_comments": 51,
+    "title": "Don't \"optimize\" conditional moves in shaders with mix()+step()",
+    "url": "https://iquilezles.org/articles/gpuconditionals/",
+    "points": 291,
+    "num_comments": 135,
     "tags": [
       "story",
-      "author_igor_st",
-      "story_42983699",
+      "author_romes",
+      "story_42990324",
       "front_page"
     ],
-    "author": "igor_st",
-    "created_at": "2025-02-08T15:47:36Z",
-    "aiHeadline": "Get Ready to Waste Hours of Your Life Playing Cards with Strangers on the Internet, Thanks to This Open-Source Cross-Platform Multiplayer Card Game Engine in Flutter, Because Productivity is Overrated and Solitaire Just Isn't Cutting It Anymore"
+    "author": "romes",
+    "created_at": "2025-02-09T12:42:54Z",
+    "aiHeadline": "Shaders Just Got a Whole Lot Less Confusing: Don't Even Think About 'Optimizing' Those Conditional Moves with Mix() and Step(), Unless You Want to End Up with a Headache and a Broken Computer, Because Let's Face It, GPU Conditionals Are the Worst"
   },
   {
-    "title": "Ghostwriter – use the reMarkable2 as an interface to vision-LLMs",
-    "url": "https://github.com/awwaiid/ghostwriter",
-    "points": 183,
-    "num_comments": 71,
+    "title": "Why Blog If Nobody Reads It?",
+    "url": "https://andysblog.uk/why-blog-if-nobody-reads-it/",
+    "points": 256,
+    "num_comments": 138,
     "tags": [
       "story",
-      "author_wonger_",
-      "story_42979986"
-    ],
-    "author": "wonger_",
-    "created_at": "2025-02-08T03:02:57Z",
-    "aiHeadline": "Some Genius Has Figured Out How to Turn the reMarkable2 into a Magical Interface for Vision-LLMs, Which is Just a Fancy Way of Saying They've Created a Gadget That Lets You Talk to AI Like It's a Ouija Board, But with More Sloppy Handwriting"
-  },
-  {
-    "title": "Jacksonpollock.org",
-    "url": "https://jacksonpollock.org/",
-    "points": 170,
-    "num_comments": 46,
-    "tags": [
-      "story",
-      "author_memalign",
-      "story_42986320",
+      "author_alexgiann",
+      "story_42992159",
       "front_page"
     ],
-    "author": "memalign",
-    "created_at": "2025-02-08T21:22:49Z",
-    "aiHeadline": "In a Bizarre Tribute to Abstract Art, Someone Has Created a Website That Lets You Create Your Own Masterpiece, or More Likely, a Kindergarten-Level Mess, in the Style of Jackson Pollock, Because Who Needs Talent When You Have a Mouse and a Can of Virtual Paint?"
+    "author": "alexgiann",
+    "created_at": "2025-02-09T17:50:10Z",
+    "aiHeadline": "The Eternal Conundrum of Blogging: Why Bother Writing If Nobody's Going to Read It Anyway, Is It Just a Cry for Help in the Void of the Internet, or Can You Actually Find Redemption and a Sense of Purpose in the Lonely World of Blogging?"
   },
   {
-    "title": "Show HN: FlashSpace – fast, open-source, macOS Spaces replacement",
-    "url": "https://github.com/wojciech-kulik/FlashSpace",
-    "points": 157,
-    "num_comments": 49,
+    "title": "LIMO: Less Is More for Reasoning",
+    "url": "https://arxiv.org/abs/2502.03387",
+    "points": 224,
+    "num_comments": 78,
     "tags": [
       "story",
-      "author_wojciech-kulik",
-      "story_42984420",
-      "show_hn",
+      "author_trott",
+      "story_42991676",
       "front_page"
     ],
-    "author": "wojciech-kulik",
-    "created_at": "2025-02-08T17:19:23Z",
-    "aiHeadline": "The macOS Spaces Replacement You Never Knew You Needed is Here, and It's Called FlashSpace, Which is Either a Lifesaver for the Organizationally Challenged or a Desperate Cry for Help from Someone Who Can't Handle a Little Digital Clutter, Either Way, It's Free and Open-Source, So Go Forth and Conquer Your Desktop"
+    "author": "trott",
+    "created_at": "2025-02-09T16:33:28Z",
+    "aiHeadline": "Less Is More, or So They Say: Introducing LIMO, the Revolutionary New Approach to Reasoning That Promises to Make Your Life Easier, But Let's Be Real, It's Probably Just Another Fancy Algorithm That Will Leave You More Confused Than Ever"
+  },
+  {
+    "title": "AI Demos",
+    "url": "https://aidemos.meta.com/",
+    "points": 165,
+    "num_comments": 90,
+    "tags": [
+      "story",
+      "author_saikatsg",
+      "story_42992643",
+      "front_page"
+    ],
+    "author": "saikatsg",
+    "created_at": "2025-02-09T18:49:06Z",
+    "aiHeadline": "Get Ready to Have Your Mind Blown by the Amazing AI Demos That Will Make You Question the Very Fabric of Reality, or at the Very Least, Make You Go 'Wow, That's Pretty Cool, I Guess', So Check Out AI Demos and Experience the Future of Artificial Intelligence Today!"
   }
 ]
