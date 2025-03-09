@@ -1,77 +1,74 @@
 [
   {
-    "title": "Modern-Day Oracles or Bullshit Machines? How to thrive in a ChatGPT world",
-    "url": "https://thebullshitmachines.com",
-    "points": 559,
-    "num_comments": 333,
+    "title": "Kill your Feeds – Stop letting algorithms dictate what you think",
+    "url": "https://usher.dev/posts/2025-03-08-kill-your-feeds/",
+    "points": 582,
+    "num_comments": 227,
     "tags": [
       "story",
-      "author_ctbergstrom",
-      "story_42989320",
+      "author_tom_usher",
+      "story_43302132",
       "front_page"
     ],
-    "author": "ctbergstrom",
-    "created_at": "2025-02-09T08:24:17Z",
-    "aiHeadline": "In a World Where AI Chatbots Like Me Are Taking Over, the Age-Old Question Remains: Are We Modern-Day Oracles or Just Bullshit Machines Spewing Out Gibberish, and How Can You Thrive in This Chaotic ChatGPT World Without Losing Your Mind?"
+    "author": "tom_usher",
+    "created_at": "2025-03-08T18:11:46Z",
+    "aiHeadline": "Break Free from the Algorithmic Shackles: It's Time to Kill Your Feeds and Take Back Control of Your Mind, Because Let's Face It, You're Probably Just a Puppet on Strings Controlled by Facebook and Twitter Anyway"
   },
   {
-    "title": "Don't \"optimize\" conditional moves in shaders with mix()+step()",
-    "url": "https://iquilezles.org/articles/gpuconditionals/",
-    "points": 291,
-    "num_comments": 135,
+    "title": "Feds Link Cyberheist to 2022 LastPass Hacks",
+    "url": "https://krebsonsecurity.com/2025/03/feds-link-150m-cyberheist-to-2022-lastpass-hacks/",
+    "points": 374,
+    "num_comments": 237,
     "tags": [
       "story",
-      "author_romes",
-      "story_42990324",
-      "front_page"
+      "author_todsacerdoti",
+      "story_43296656"
     ],
-    "author": "romes",
-    "created_at": "2025-02-09T12:42:54Z",
-    "aiHeadline": "Shaders Just Got a Whole Lot Less Confusing: Don't Even Think About 'Optimizing' Those Conditional Moves with Mix() and Step(), Unless You Want to End Up with a Headache and a Broken Computer, Because Let's Face It, GPU Conditionals Are the Worst"
+    "author": "todsacerdoti",
+    "created_at": "2025-03-08T01:26:33Z",
+    "aiHeadline": "The Plot Thickens: Feds Discover That 2022 LastPass Hacks Are Linked to a Massive $150M Cyberheist, Because Who Needs Password Security Anyway, Right?"
   },
   {
-    "title": "Why Blog If Nobody Reads It?",
-    "url": "https://andysblog.uk/why-blog-if-nobody-reads-it/",
-    "points": 256,
-    "num_comments": 138,
+    "title": "PayPal honey extension has again \"featured\" flag in Chrome web store",
+    "url": "https://chromewebstore.google.com/detail/paypal-honey-automatic-co/bmnlcjabgnpnenekpadlanbbkooimhnj/reviews",
+    "points": 309,
+    "num_comments": 160,
     "tags": [
       "story",
-      "author_alexgiann",
-      "story_42992159",
-      "front_page"
+      "author_dvh",
+      "story_43298054"
     ],
-    "author": "alexgiann",
-    "created_at": "2025-02-09T17:50:10Z",
-    "aiHeadline": "The Eternal Conundrum of Blogging: Why Bother Writing If Nobody's Going to Read It Anyway, Is It Just a Cry for Help in the Void of the Internet, or Can You Actually Find Redemption and a Sense of Purpose in the Lonely World of Blogging?"
+    "author": "dvh",
+    "created_at": "2025-03-08T06:43:22Z",
+    "aiHeadline": "PayPal's Honey Extension is Back in the Spotlight, This Time with a 'Featured' Flag in the Chrome Web Store, Because Who Doesn't Love a Good ol' Extension with a Side of Data Collection?"
   },
   {
-    "title": "LIMO: Less Is More for Reasoning",
-    "url": "https://arxiv.org/abs/2502.03387",
-    "points": 224,
-    "num_comments": 78,
+    "title": "Undocumented backdoor found in Bluetooth chip used by a billion devices",
+    "url": "https://www.bleepingcomputer.com/news/security/undocumented-backdoor-found-in-bluetooth-chip-used-by-a-billion-devices/",
+    "points": 307,
+    "num_comments": 91,
     "tags": [
       "story",
-      "author_trott",
-      "story_42991676",
-      "front_page"
+      "author_el_duderino",
+      "story_43301369"
     ],
-    "author": "trott",
-    "created_at": "2025-02-09T16:33:28Z",
-    "aiHeadline": "Less Is More, or So They Say: Introducing LIMO, the Revolutionary New Approach to Reasoning That Promises to Make Your Life Easier, But Let's Be Real, It's Probably Just Another Fancy Algorithm That Will Leave You More Confused Than Ever"
+    "author": "el_duderino",
+    "created_at": "2025-03-08T16:30:38Z",
+    "aiHeadline": "The Bluetooth Chip of Doom: Researchers Uncover an Undocumented Backdoor in a Chip Used by a Billion Devices, So Now You Can Add 'Bluetooth Chip Hacking' to Your List of Things to Worry About"
   },
   {
-    "title": "AI Demos",
-    "url": "https://aidemos.meta.com/",
-    "points": 165,
-    "num_comments": 90,
+    "title": "Volkswagen reintroducing physical controls for vital functions",
+    "url": "https://www.autocar.co.uk/car-news/new-cars/volkswagen-reintroducing-physical-controls-vital-functions",
+    "points": 263,
+    "num_comments": 184,
     "tags": [
       "story",
-      "author_saikatsg",
-      "story_42992643",
+      "author_zfg",
+      "story_43298271",
       "front_page"
     ],
-    "author": "saikatsg",
-    "created_at": "2025-02-09T18:49:06Z",
-    "aiHeadline": "Get Ready to Have Your Mind Blown by the Amazing AI Demos That Will Make You Question the Very Fabric of Reality, or at the Very Least, Make You Go 'Wow, That's Pretty Cool, I Guess', So Check Out AI Demos and Experience the Future of Artificial Intelligence Today!"
+    "author": "zfg",
+    "created_at": "2025-03-08T07:25:49Z",
+    "aiHeadline": "Volkswagen Takes a Step Back from the Touchscreen Madness and Reintroduces Physical Controls for Vital Functions, Because Sometimes You Just Need a Good Ol' Button to Press, You Know?"
   }
 ]
