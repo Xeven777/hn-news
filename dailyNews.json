@@ -1,74 +1,76 @@
 [
   {
-    "title": "Kill your Feeds – Stop letting algorithms dictate what you think",
-    "url": "https://usher.dev/posts/2025-03-08-kill-your-feeds/",
-    "points": 582,
-    "num_comments": 227,
+    "title": "Electron band structure in germanium, my ass (2001)",
+    "url": "https://pages.cs.wisc.edu/~kovar/hall.html",
+    "points": 815,
+    "num_comments": 339,
     "tags": [
       "story",
-      "author_tom_usher",
-      "story_43302132",
+      "author_tux3",
+      "story_43545917",
       "front_page"
     ],
-    "author": "tom_usher",
-    "created_at": "2025-03-08T18:11:46Z",
-    "aiHeadline": "Break Free from the Algorithmic Shackles: It's Time to Kill Your Feeds and Take Back Control of Your Mind, Because Let's Face It, You're Probably Just a Puppet on Strings Controlled by Facebook and Twitter Anyway"
+    "author": "tux3",
+    "created_at": "2025-04-01T12:25:12Z",
+    "aiHeadline": "Scientists finally figure out germanium's electron band structure, and all we get is this underwhelming discovery from 2001? Boring!"
   },
   {
-    "title": "Feds Link Cyberheist to 2022 LastPass Hacks",
-    "url": "https://krebsonsecurity.com/2025/03/feds-link-150m-cyberheist-to-2022-lastpass-hacks/",
-    "points": 374,
-    "num_comments": 237,
+    "title": "Bletchley code breaker Betty Webb dies aged 101",
+    "url": "https://www.bbc.com/news/articles/c78jd30ywv8o",
+    "points": 416,
+    "num_comments": 71,
     "tags": [
       "story",
-      "author_todsacerdoti",
-      "story_43296656"
-    ],
-    "author": "todsacerdoti",
-    "created_at": "2025-03-08T01:26:33Z",
-    "aiHeadline": "The Plot Thickens: Feds Discover That 2022 LastPass Hacks Are Linked to a Massive $150M Cyberheist, Because Who Needs Password Security Anyway, Right?"
-  },
-  {
-    "title": "PayPal honey extension has again \"featured\" flag in Chrome web store",
-    "url": "https://chromewebstore.google.com/detail/paypal-honey-automatic-co/bmnlcjabgnpnenekpadlanbbkooimhnj/reviews",
-    "points": 309,
-    "num_comments": 160,
-    "tags": [
-      "story",
-      "author_dvh",
-      "story_43298054"
-    ],
-    "author": "dvh",
-    "created_at": "2025-03-08T06:43:22Z",
-    "aiHeadline": "PayPal's Honey Extension is Back in the Spotlight, This Time with a 'Featured' Flag in the Chrome Web Store, Because Who Doesn't Love a Good ol' Extension with a Side of Data Collection?"
-  },
-  {
-    "title": "Undocumented backdoor found in Bluetooth chip used by a billion devices",
-    "url": "https://www.bleepingcomputer.com/news/security/undocumented-backdoor-found-in-bluetooth-chip-used-by-a-billion-devices/",
-    "points": 307,
-    "num_comments": 91,
-    "tags": [
-      "story",
-      "author_el_duderino",
-      "story_43301369"
-    ],
-    "author": "el_duderino",
-    "created_at": "2025-03-08T16:30:38Z",
-    "aiHeadline": "The Bluetooth Chip of Doom: Researchers Uncover an Undocumented Backdoor in a Chip Used by a Billion Devices, So Now You Can Add 'Bluetooth Chip Hacking' to Your List of Things to Worry About"
-  },
-  {
-    "title": "Volkswagen reintroducing physical controls for vital functions",
-    "url": "https://www.autocar.co.uk/car-news/new-cars/volkswagen-reintroducing-physical-controls-vital-functions",
-    "points": 263,
-    "num_comments": 184,
-    "tags": [
-      "story",
-      "author_zfg",
-      "story_43298271",
+      "author_danso",
+      "story_43546236",
       "front_page"
     ],
-    "author": "zfg",
-    "created_at": "2025-03-08T07:25:49Z",
-    "aiHeadline": "Volkswagen Takes a Step Back from the Touchscreen Madness and Reintroduces Physical Controls for Vital Functions, Because Sometimes You Just Need a Good Ol' Button to Press, You Know?"
+    "author": "danso",
+    "created_at": "2025-04-01T12:55:28Z",
+    "aiHeadline": "Another WWII code-breaking legend bites the dust, leaving the rest of us to wonder if we'll ever live to 101 and still be relevant."
+  },
+  {
+    "title": "Glubux's Powerwall (2016)",
+    "url": "https://secondlifestorage.com/index.php?threads/glubuxs-powerwall.126/",
+    "points": 370,
+    "num_comments": 242,
+    "tags": [
+      "story",
+      "author_bentobean",
+      "story_43548217",
+      "front_page"
+    ],
+    "author": "bentobean",
+    "created_at": "2025-04-01T15:49:01Z",
+    "aiHeadline": "Glubux's Powerwall: because who doesn't want to relive the glory days of 2016 energy storage tech? Still better than nothing, I guess."
+  },
+  {
+    "title": "Why F#?",
+    "url": "https://batsov.com/articles/2025/03/30/why-fsharp/",
+    "points": 336,
+    "num_comments": 303,
+    "tags": [
+      "story",
+      "author_bozhidar",
+      "story_43546004",
+      "front_page"
+    ],
+    "author": "bozhidar",
+    "created_at": "2025-04-01T12:34:07Z",
+    "aiHeadline": "Why F#? Because sometimes you just want to write code that no one else can understand, right?"
+  },
+  {
+    "title": "CERN scientists find evidence of quantum entanglement in sheep",
+    "url": "https://home.cern/news/news/physics/cern-scientists-find-evidence-quantum-entanglement-sheep",
+    "points": 317,
+    "num_comments": 100,
+    "tags": [
+      "story",
+      "author_mackopes",
+      "story_43545349"
+    ],
+    "author": "mackopes",
+    "created_at": "2025-04-01T11:08:34Z",
+    "aiHeadline": "CERN scientists prove that sheep are the ultimate quantum entanglement champions, because who else can pull off that level of confusion?"
   }
 ]
