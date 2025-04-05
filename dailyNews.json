@@ -1,76 +1,75 @@
 [
   {
-    "title": "I maintain a 17 year old ThinkPad",
-    "url": "https://pilledtexts.com/why-i-use-a-17-year-old-thinkpad/",
-    "points": 561,
-    "num_comments": 520,
+    "title": "Bored of It",
+    "url": "https://paulrobertlloyd.com/2025/087/a1/bored/",
+    "points": 532,
+    "num_comments": 443,
     "tags": [
       "story",
-      "author_Fred34",
-      "story_43564111"
+      "author_NotInOurNames",
+      "story_43580449"
     ],
-    "author": "Fred34",
-    "created_at": "2025-04-03T02:40:08Z",
-    "aiHeadline": "Why I'm Still Clinging to My 17-Year-Old ThinkPad Like It's My Long-Lost Childhood Pet"
+    "author": "NotInOurNames",
+    "created_at": "2025-04-04T10:54:10Z",
+    "aiHeadline": "The Internet's Attention Span Officially Shorter Than a Goldfish: 'Bored of It' Gets 532 Points on Hacker News"
   },
   {
-    "title": "AnimeJs v4 Is Here",
-    "url": "https://animejs.com/",
-    "points": 545,
-    "num_comments": 74,
+    "title": "Gumroad’s source is available",
+    "url": "https://github.com/antiwork/gumroad",
+    "points": 430,
+    "num_comments": 189,
     "tags": [
       "story",
-      "author_adrianvoica",
-      "story_43570533",
+      "author_philipjoubert",
+      "story_43580103",
       "front_page"
     ],
-    "author": "adrianvoica",
-    "created_at": "2025-04-03T14:47:52Z",
-    "aiHeadline": "Anime.js v4 Drops: Finally, the Update We've All Been Waiting For Since 2023"
+    "author": "philipjoubert",
+    "created_at": "2025-04-04T09:56:37Z",
+    "aiHeadline": "Gumroad's Source Code Finally Released: 'Antiwork' Probably Cries into Their Coffee"
   },
   {
-    "title": "An image of an archeologist adventurer who wears a hat and uses a bullwhip",
-    "url": "https://theaiunderwriter.substack.com/p/an-image-of-an-archeologist-adventurer",
-    "points": 485,
-    "num_comments": 325,
+    "title": "Nvidia adds native Python support to CUDA",
+    "url": "https://thenewstack.io/nvidia-finally-adds-native-python-support-to-cuda/",
+    "points": 395,
+    "num_comments": 157,
     "tags": [
       "story",
-      "author_participant3",
-      "story_43573156",
+      "author_apples2apples",
+      "story_43581584",
       "front_page"
     ],
-    "author": "participant3",
-    "created_at": "2025-04-03T17:55:20Z",
-    "aiHeadline": "Because the World Clearly Needed Another 'Indiana Jones' Fan Art: An Archeologist with a Hat and a Bullwhip"
+    "author": "apples2apples",
+    "created_at": "2025-04-04T12:54:38Z",
+    "aiHeadline": "Nvidia Adds Native Python Support to CUDA: Because Python is So Slow, But Now It’s Even Slower with GPUs"
   },
   {
-    "title": "Dijkstra On the foolishness of \"natural language programming\"",
-    "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
-    "points": 388,
-    "num_comments": 233,
+    "title": "Understanding Machine Learning: From Theory to Algorithms",
+    "url": "https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html",
+    "points": 228,
+    "num_comments": 34,
     "tags": [
       "story",
-      "author_nimbleplum40",
-      "story_43564386",
+      "author_Anon84",
+      "story_43586073",
       "front_page"
     ],
-    "author": "nimbleplum40",
-    "created_at": "2025-04-03T03:30:30Z",
-    "aiHeadline": "Dijkstra Rants About 'Natural Language Programming': Because Who Needs Logic When You Can Just Yell at Your Computer?"
+    "author": "Anon84",
+    "created_at": "2025-04-04T18:25:23Z",
+    "aiHeadline": "Understanding Machine Learning: From Theory to Algorithms, or 'Why You’re Still Terrible at ML After Reading This Book'"
   },
   {
-    "title": "Reasoning models don't always say what they think",
-    "url": "https://www.anthropic.com/research/reasoning-models-dont-say-think",
-    "points": 317,
-    "num_comments": 222,
+    "title": "Dow plunges 2,200 points, Nasdaq enters bear market",
+    "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-plunges-2200-points-nasdaq-enters-bear-market-as-trump-tariffs-spark-worst-meltdown-since-2020-200042876.html",
+    "points": 224,
+    "num_comments": 313,
     "tags": [
       "story",
-      "author_meetpateltech",
-      "story_43572374",
-      "front_page"
+      "author_geox",
+      "story_43587479"
     ],
-    "author": "meetpateltech",
-    "created_at": "2025-04-03T16:50:08Z",
-    "aiHeadline": "AI Models Are Just Like Teenagers: They Think One Thing, Say Another, and Then Pretend They Never Said Anything"
+    "author": "geox",
+    "created_at": "2025-04-04T20:51:08Z",
+    "aiHeadline": "Dow Plunges 2,200 Points, Nasdaq Enters Bear Market: Now You Can Cry About Your 401(k) and Your Ex at the Same Time"
   }
 ]
