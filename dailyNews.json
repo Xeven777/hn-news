@@ -1,75 +1,76 @@
 [
   {
-    "title": "Bored of It",
-    "url": "https://paulrobertlloyd.com/2025/087/a1/bored/",
-    "points": 532,
-    "num_comments": 443,
+    "title": "The Llama 4 herd",
+    "url": "https://ai.meta.com/blog/llama-4-multimodal-intelligence/",
+    "points": 837,
+    "num_comments": 390,
     "tags": [
       "story",
-      "author_NotInOurNames",
-      "story_43580449"
-    ],
-    "author": "NotInOurNames",
-    "created_at": "2025-04-04T10:54:10Z",
-    "aiHeadline": "The Internet's Attention Span Officially Shorter Than a Goldfish: 'Bored of It' Gets 532 Points on Hacker News"
-  },
-  {
-    "title": "Gumroad’s source is available",
-    "url": "https://github.com/antiwork/gumroad",
-    "points": 430,
-    "num_comments": 189,
-    "tags": [
-      "story",
-      "author_philipjoubert",
-      "story_43580103",
+      "author_georgehill",
+      "story_43595585",
       "front_page"
     ],
-    "author": "philipjoubert",
-    "created_at": "2025-04-04T09:56:37Z",
-    "aiHeadline": "Gumroad's Source Code Finally Released: 'Antiwork' Probably Cries into Their Coffee"
+    "author": "georgehill",
+    "created_at": "2025-04-05T18:33:56Z",
+    "aiHeadline": "Llama 4: The latest AI breakthrough that proves llamas are the real geniuses, not us."
   },
   {
-    "title": "Nvidia adds native Python support to CUDA",
-    "url": "https://thenewstack.io/nvidia-finally-adds-native-python-support-to-cuda/",
-    "points": 395,
-    "num_comments": 157,
+    "title": "What If We Made Advertising Illegal?",
+    "url": "https://simone.org/advertising/",
+    "points": 745,
+    "num_comments": 610,
     "tags": [
       "story",
-      "author_apples2apples",
-      "story_43581584",
+      "author_smnrg",
+      "story_43595269",
       "front_page"
     ],
-    "author": "apples2apples",
-    "created_at": "2025-04-04T12:54:38Z",
-    "aiHeadline": "Nvidia Adds Native Python Support to CUDA: Because Python is So Slow, But Now It’s Even Slower with GPUs"
+    "author": "smnrg",
+    "created_at": "2025-04-05T17:57:46Z",
+    "aiHeadline": "Advertising: The only thing more annoying than it being everywhere is if it were illegal."
   },
   {
-    "title": "Understanding Machine Learning: From Theory to Algorithms",
-    "url": "https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html",
-    "points": 228,
-    "num_comments": 34,
+    "title": "Learn electricity and electronics fundamentals without taking a formal course",
+    "url": "https://simonmonk.org/tyee7",
+    "points": 383,
+    "num_comments": 112,
     "tags": [
       "story",
-      "author_Anon84",
-      "story_43586073",
+      "author_teleforce",
+      "story_43589776"
+    ],
+    "author": "teleforce",
+    "created_at": "2025-04-05T01:50:09Z",
+    "aiHeadline": "Learn Electricity the Fun Way: Because who needs a boring textbook when you can shock yourself?"
+  },
+  {
+    "title": "Nebula Sans",
+    "url": "https://nebulasans.com/",
+    "points": 332,
+    "num_comments": 94,
+    "tags": [
+      "story",
+      "author_xucheng",
+      "story_43591225"
+    ],
+    "author": "xucheng",
+    "created_at": "2025-04-05T06:03:40Z",
+    "aiHeadline": "Nebula Sans: The font that makes your text look like it's floating in space, because why not?"
+  },
+  {
+    "title": "Show HN: I built a word game. My mom thinks it's great. What do you think?",
+    "url": "https://www.whatsit.today/",
+    "points": 278,
+    "num_comments": 155,
+    "tags": [
+      "story",
+      "author_mkate",
+      "story_43593789",
+      "show_hn",
       "front_page"
     ],
-    "author": "Anon84",
-    "created_at": "2025-04-04T18:25:23Z",
-    "aiHeadline": "Understanding Machine Learning: From Theory to Algorithms, or 'Why You’re Still Terrible at ML After Reading This Book'"
-  },
-  {
-    "title": "Dow plunges 2,200 points, Nasdaq enters bear market",
-    "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-plunges-2200-points-nasdaq-enters-bear-market-as-trump-tariffs-spark-worst-meltdown-since-2020-200042876.html",
-    "points": 224,
-    "num_comments": 313,
-    "tags": [
-      "story",
-      "author_geox",
-      "story_43587479"
-    ],
-    "author": "geox",
-    "created_at": "2025-04-04T20:51:08Z",
-    "aiHeadline": "Dow Plunges 2,200 Points, Nasdaq Enters Bear Market: Now You Can Cry About Your 401(k) and Your Ex at the Same Time"
+    "author": "mkate",
+    "created_at": "2025-04-05T14:26:02Z",
+    "aiHeadline": "A Word Game So Good, Even My Mom Thinks It's Great: Now you can play it too, but don't expect to beat her."
   }
 ]
