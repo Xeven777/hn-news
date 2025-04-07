@@ -1,76 +1,75 @@
 [
   {
-    "title": "The Llama 4 herd",
-    "url": "https://ai.meta.com/blog/llama-4-multimodal-intelligence/",
-    "points": 837,
-    "num_comments": 390,
+    "title": "Standard Ebooks: liberated ebooks, carefully produced for the true book lover",
+    "url": "https://standardebooks.org",
+    "points": 965,
+    "num_comments": 198,
     "tags": [
       "story",
-      "author_georgehill",
-      "story_43595585",
+      "author_tosh",
+      "story_43599637",
       "front_page"
     ],
-    "author": "georgehill",
-    "created_at": "2025-04-05T18:33:56Z",
-    "aiHeadline": "Llama 4: The latest AI breakthrough that proves llamas are the real geniuses, not us."
+    "author": "tosh",
+    "created_at": "2025-04-06T07:36:12Z",
+    "aiHeadline": "Standard Ebooks: Because regular ebooks just aren't good enough for you, the discerning snob who thinks they're the only true book lover left in the world."
   },
   {
-    "title": "What If We Made Advertising Illegal?",
-    "url": "https://simone.org/advertising/",
-    "points": 745,
-    "num_comments": 610,
+    "title": "The “S” in MCP Stands for Security",
+    "url": "https://elenacross7.medium.com/%EF%B8%8F-the-s-in-mcp-stands-for-security-91407b33ed6b",
+    "points": 533,
+    "num_comments": 144,
     "tags": [
       "story",
-      "author_smnrg",
-      "story_43595269",
+      "author_skilldeliver",
+      "story_43600192",
       "front_page"
     ],
-    "author": "smnrg",
-    "created_at": "2025-04-05T17:57:46Z",
-    "aiHeadline": "Advertising: The only thing more annoying than it being everywhere is if it were illegal."
+    "author": "skilldeliver",
+    "created_at": "2025-04-06T09:42:28Z",
+    "aiHeadline": "The 'S' in MCP Stands for Security: Because who doesn't love a feature that's added as an afterthought to make everyone feel slightly less vulnerable?"
   },
   {
-    "title": "Learn electricity and electronics fundamentals without taking a formal course",
-    "url": "https://simonmonk.org/tyee7",
-    "points": 383,
-    "num_comments": 112,
+    "title": "Self-Driving Teslas Are Fatally Rear-Ending Motorcyclists More Than Any Other",
+    "url": "https://fuelarc.com/news-and-features/self-driving-teslas-are-fatally-striking-motorcyclists-more-than-any-other-brand-new-analysis/",
+    "points": 314,
+    "num_comments": 376,
     "tags": [
       "story",
-      "author_teleforce",
-      "story_43589776"
+      "author_NotInOurNames",
+      "story_43601421"
     ],
-    "author": "teleforce",
-    "created_at": "2025-04-05T01:50:09Z",
-    "aiHeadline": "Learn Electricity the Fun Way: Because who needs a boring textbook when you can shock yourself?"
+    "author": "NotInOurNames",
+    "created_at": "2025-04-06T13:51:13Z",
+    "aiHeadline": "Self-Driving Teslas Are Fatally Rear-Ending Motorcyclists More Than Any Other Brand: Because what's the point of having a car that drives itself if it can't even avoid hitting the people who are literally the definition of 'easy to miss'?"
   },
   {
-    "title": "Nebula Sans",
-    "url": "https://nebulasans.com/",
-    "points": 332,
-    "num_comments": 94,
+    "title": "Recent AI model progress feels mostly like bullshit",
+    "url": "https://www.lesswrong.com/posts/4mvphwx5pdsZLMmpY/recent-ai-model-progress-feels-mostly-like-bullshit",
+    "points": 218,
+    "num_comments": 204,
     "tags": [
       "story",
-      "author_xucheng",
-      "story_43591225"
-    ],
-    "author": "xucheng",
-    "created_at": "2025-04-05T06:03:40Z",
-    "aiHeadline": "Nebula Sans: The font that makes your text look like it's floating in space, because why not?"
-  },
-  {
-    "title": "Show HN: I built a word game. My mom thinks it's great. What do you think?",
-    "url": "https://www.whatsit.today/",
-    "points": 278,
-    "num_comments": 155,
-    "tags": [
-      "story",
-      "author_mkate",
-      "story_43593789",
-      "show_hn",
+      "author_paulpauper",
+      "story_43603453",
       "front_page"
     ],
-    "author": "mkate",
-    "created_at": "2025-04-05T14:26:02Z",
-    "aiHeadline": "A Word Game So Good, Even My Mom Thinks It's Great: Now you can play it too, but don't expect to beat her."
+    "author": "paulpauper",
+    "created_at": "2025-04-06T18:01:59Z",
+    "aiHeadline": "Recent AI Model Progress Feels Mostly Like Bullshit: Because who needs actual breakthroughs when you can just throw more money at the problem and call it 'progress'?"
+  },
+  {
+    "title": "Gumroad's Interestingly Timed \"Open-Source\" Play",
+    "url": "https://tedium.co/2025/04/06/gumroad-open-source-doge-drama/",
+    "points": 194,
+    "num_comments": 75,
+    "tags": [
+      "story",
+      "author_pier25",
+      "story_43603999"
+    ],
+    "author": "pier25",
+    "created_at": "2025-04-06T19:01:32Z",
+    "aiHeadline": "Gumroad's Interestingly Timed 'Open-Source' Play: Because what better way to distract everyone from your shady business practices than by suddenly deciding to share your code, probably because you're running out of other excuses?"
   }
 ]
