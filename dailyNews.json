@@ -1,75 +1,76 @@
 [
   {
-    "title": "Standard Ebooks: liberated ebooks, carefully produced for the true book lover",
-    "url": "https://standardebooks.org",
-    "points": 965,
-    "num_comments": 198,
+    "title": "Middle-aged man trading cards go viral in rural Japan town",
+    "url": "https://www.tokyoweekender.com/entertainment/middle-aged-man-trading-cards-go-viral-in-japan/",
+    "points": 510,
+    "num_comments": 101,
     "tags": [
       "story",
-      "author_tosh",
-      "story_43599637",
+      "author_PaulHoule",
+      "story_43615912",
       "front_page"
     ],
-    "author": "tosh",
-    "created_at": "2025-04-06T07:36:12Z",
-    "aiHeadline": "Standard Ebooks: Because regular ebooks just aren't good enough for you, the discerning snob who thinks they're the only true book lover left in the world."
+    "author": "PaulHoule",
+    "created_at": "2025-04-07T21:03:16Z",
+    "aiHeadline": "Middle-aged man discovers that trading cards are the new black in rural Japan, goes viral, and now everyone's trying to be cool."
   },
   {
-    "title": "The “S” in MCP Stands for Security",
-    "url": "https://elenacross7.medium.com/%EF%B8%8F-the-s-in-mcp-stands-for-security-91407b33ed6b",
-    "points": 533,
-    "num_comments": 144,
+    "title": "A startup doesn't need to be a unicorn",
+    "url": "https://mattgiustwilliamson.substack.com/p/your-startup-doesnt-need-to-be-a",
+    "points": 509,
+    "num_comments": 309,
     "tags": [
       "story",
-      "author_skilldeliver",
-      "story_43600192",
+      "author_MattSWilliamson",
+      "story_43609242",
       "front_page"
     ],
-    "author": "skilldeliver",
-    "created_at": "2025-04-06T09:42:28Z",
-    "aiHeadline": "The 'S' in MCP Stands for Security: Because who doesn't love a feature that's added as an afterthought to make everyone feel slightly less vulnerable?"
+    "author": "MattSWilliamson",
+    "created_at": "2025-04-07T08:42:43Z",
+    "aiHeadline": "A startup doesn't need to be a unicorn, just a regular horse with a decent job and health insurance."
   },
   {
-    "title": "Self-Driving Teslas Are Fatally Rear-Ending Motorcyclists More Than Any Other",
-    "url": "https://fuelarc.com/news-and-features/self-driving-teslas-are-fatally-striking-motorcyclists-more-than-any-other-brand-new-analysis/",
-    "points": 314,
-    "num_comments": 376,
+    "title": "Fewer Foreign Passengers Are Flying to the US",
+    "url": "https://jasher.substack.com/p/how-fewer-foreign-passengers-flying",
+    "points": 399,
+    "num_comments": 2,
     "tags": [
       "story",
-      "author_NotInOurNames",
-      "story_43601421"
+      "author_apwheele",
+      "story_43610246"
     ],
-    "author": "NotInOurNames",
-    "created_at": "2025-04-06T13:51:13Z",
-    "aiHeadline": "Self-Driving Teslas Are Fatally Rear-Ending Motorcyclists More Than Any Other Brand: Because what's the point of having a car that drives itself if it can't even avoid hitting the people who are literally the definition of 'easy to miss'?"
+    "author": "apwheele",
+    "created_at": "2025-04-07T11:53:52Z",
+    "aiHeadline": "Fewer foreign passengers are flying to the US, proving that no one wants to visit a country that's basically on mute."
   },
   {
-    "title": "Recent AI model progress feels mostly like bullshit",
-    "url": "https://www.lesswrong.com/posts/4mvphwx5pdsZLMmpY/recent-ai-model-progress-feels-mostly-like-bullshit",
-    "points": 218,
-    "num_comments": 204,
+    "title": "Show HN: Browser MCP – Automate your browser using Cursor, Claude, VS Code",
+    "url": "https://browsermcp.io/",
+    "points": 327,
+    "num_comments": 125,
     "tags": [
       "story",
-      "author_paulpauper",
-      "story_43603453",
+      "author_namukang",
+      "story_43613194",
+      "show_hn",
       "front_page"
     ],
-    "author": "paulpauper",
-    "created_at": "2025-04-06T18:01:59Z",
-    "aiHeadline": "Recent AI Model Progress Feels Mostly Like Bullshit: Because who needs actual breakthroughs when you can just throw more money at the problem and call it 'progress'?"
+    "author": "namukang",
+    "created_at": "2025-04-07T16:25:45Z",
+    "aiHeadline": "Browser MCP: Because manually clicking buttons is for the weak, and you're definitely not weak, right?"
   },
   {
-    "title": "Gumroad's Interestingly Timed \"Open-Source\" Play",
-    "url": "https://tedium.co/2025/04/06/gumroad-open-source-doge-drama/",
-    "points": 194,
-    "num_comments": 75,
+    "title": "Circuit breaker triggered in Japan for stock futures trading",
+    "url": "https://www.wsj.com/livecoverage/stock-market-trump-tariffs-trade-war-04-07-25/card/circuit-breaker-triggered-in-japan-for-stock-futures-trading-Q5iMfZyfPGBEslrIObgB",
+    "points": 243,
+    "num_comments": 291,
     "tags": [
       "story",
-      "author_pier25",
-      "story_43603999"
+      "author_perihelions",
+      "story_43606713"
     ],
-    "author": "pier25",
-    "created_at": "2025-04-06T19:01:32Z",
-    "aiHeadline": "Gumroad's Interestingly Timed 'Open-Source' Play: Because what better way to distract everyone from your shady business practices than by suddenly deciding to share your code, probably because you're running out of other excuses?"
+    "author": "perihelions",
+    "created_at": "2025-04-07T01:50:02Z",
+    "aiHeadline": "Circuit breaker triggered in Japan, proving that even the stock market knows when to pull the plug on itself."
   }
 ]
