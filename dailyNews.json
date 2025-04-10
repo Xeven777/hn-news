@@ -1,76 +1,76 @@
 [
   {
-    "title": "Apache ECharts",
-    "url": "https://echarts.apache.org/en/index.html",
-    "points": 771,
-    "num_comments": 145,
+    "title": "Trump temporarily drops tariffs to 10% for most countries",
+    "url": "https://www.cnbc.com/2025/04/09/trump-announces-90-day-tariff-pause-for-at-least-some-countries.html",
+    "points": 595,
+    "num_comments": 1116,
     "tags": [
       "story",
-      "author_tomtomistaken",
-      "story_43624220",
+      "author_bhouston",
+      "story_43634806",
       "front_page"
     ],
-    "author": "tomtomistaken",
-    "created_at": "2025-04-08T17:23:29Z",
-    "aiHeadline": "Apache ECharts: Because sometimes the best-kept secrets are the ones everyone already knows about."
+    "author": "bhouston",
+    "created_at": "2025-04-09T17:28:55Z",
+    "aiHeadline": "Trump's tariffs take a vacation, but don't pack your bags yet—this could change by tomorrow."
   },
   {
-    "title": "Thank HN: The puzzle game I posted here 6 weeks ago got licensed by The Atlantic",
-    "url": "https://www.theatlantic.com/games/bracket-city/",
-    "points": 708,
-    "num_comments": 138,
+    "title": "The best programmers I know",
+    "url": "https://endler.dev/2025/best-programmers/",
+    "points": 518,
+    "num_comments": 284,
     "tags": [
       "story",
-      "author_brgross",
-      "story_43622719",
+      "author_kiyanwang",
+      "story_43629307"
+    ],
+    "author": "kiyanwang",
+    "created_at": "2025-04-09T06:02:01Z",
+    "aiHeadline": "The best programmers are probably the ones who don't even want to be called out, but here we go anyway."
+  },
+  {
+    "title": "How much do you think it costs to make a pair of Nike shoes in Asia?",
+    "url": "https://twitter.com/dieworkwear/status/1909741170953273353",
+    "points": 418,
+    "num_comments": 592,
+    "tags": [
+      "story",
+      "author_taubek",
+      "story_43631543",
       "front_page"
     ],
-    "author": "brgross",
-    "created_at": "2025-04-08T15:11:26Z",
-    "aiHeadline": "Thank HN: The puzzle game that somehow managed to go viral in 6 weeks and now it's The Atlantic's problem."
+    "author": "taubek",
+    "created_at": "2025-04-09T12:58:39Z",
+    "aiHeadline": "How much does a Nike shoe cost? Probably more than it's worth, but let's find out."
   },
   {
-    "title": "Brazil's government-run payments system has become dominant",
-    "url": "https://www.economist.com/the-americas/2025/04/03/brazils-government-run-payments-system-has-become-dominant",
-    "points": 429,
-    "num_comments": 510,
+    "title": "The Agent2Agent Protocol (A2A)",
+    "url": "https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/",
+    "points": 379,
+    "num_comments": 214,
     "tags": [
       "story",
-      "author_jcartw",
-      "story_43620279",
+      "author_meetpateltech",
+      "story_43631381",
       "front_page"
     ],
-    "author": "jcartw",
-    "created_at": "2025-04-08T10:59:26Z",
-    "aiHeadline": "Brazil's government-run payments system: Because nothing says 'dominant' like a monopoly with a bureaucracy-sized ego."
+    "author": "meetpateltech",
+    "created_at": "2025-04-09T12:38:20Z",
+    "aiHeadline": "Agents are finally getting along? Who knew AI could be so social?"
   },
   {
-    "title": "Tailscale has raised $160M",
-    "url": "https://tailscale.com/blog/series-c",
-    "points": 406,
-    "num_comments": 187,
+    "title": "Ironwood: The first Google TPU for the age of inference",
+    "url": "https://blog.google/products/google-cloud/ironwood-tpu-age-of-inference/",
+    "points": 358,
+    "num_comments": 137,
     "tags": [
       "story",
-      "author_louis-paul",
-      "story_43620141",
+      "author_meetpateltech",
+      "story_43631274",
       "front_page"
     ],
-    "author": "louis-paul",
-    "created_at": "2025-04-08T10:36:07Z",
-    "aiHeadline": "Tailscale raises $160M: Because apparently, the only thing better than solving your networking problems is solving someone else's."
-  },
-  {
-    "title": "India's repair culture gives new life to dead laptops",
-    "url": "https://www.theverge.com/tech/639126/india-frankenstein-laptops",
-    "points": 297,
-    "num_comments": 173,
-    "tags": [
-      "story",
-      "author_hilux",
-      "story_43618105"
-    ],
-    "author": "hilux",
-    "created_at": "2025-04-08T03:27:09Z",
-    "aiHeadline": "India's repair culture: Because when you can't afford a new laptop, you just build a Frankenstein one and call it sustainable."
+    "author": "meetpateltech",
+    "created_at": "2025-04-09T12:24:19Z",
+    "aiHeadline": "Another TPU upgrade? At least it's named after a tree this time."
   }
 ]
