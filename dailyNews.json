@@ -1,76 +1,75 @@
 [
   {
-    "title": "Trump temporarily drops tariffs to 10% for most countries",
-    "url": "https://www.cnbc.com/2025/04/09/trump-announces-90-day-tariff-pause-for-at-least-some-countries.html",
-    "points": 595,
-    "num_comments": 1116,
+    "title": "Garfield Minus Garfield",
+    "url": "https://garfieldminusgarfield.net",
+    "points": 470,
+    "num_comments": 167,
     "tags": [
       "story",
-      "author_bhouston",
-      "story_43634806",
+      "author_mike1o1",
+      "story_43646095",
       "front_page"
     ],
-    "author": "bhouston",
-    "created_at": "2025-04-09T17:28:55Z",
-    "aiHeadline": "Trump's tariffs take a vacation, but don't pack your bags yet—this could change by tomorrow."
+    "author": "mike1o1",
+    "created_at": "2025-04-10T17:21:03Z",
+    "aiHeadline": "Garfield comic strips are funnier without Garfield, apparently."
   },
   {
-    "title": "The best programmers I know",
-    "url": "https://endler.dev/2025/best-programmers/",
-    "points": 518,
-    "num_comments": 284,
+    "title": "Hacker News Hug of Deaf",
+    "url": "https://susam.net/hn-bell.html",
+    "points": 425,
+    "num_comments": 98,
     "tags": [
       "story",
-      "author_kiyanwang",
-      "story_43629307"
+      "author_susam",
+      "story_43642123"
     ],
-    "author": "kiyanwang",
-    "created_at": "2025-04-09T06:02:01Z",
-    "aiHeadline": "The best programmers are probably the ones who don't even want to be called out, but here we go anyway."
+    "author": "susam",
+    "created_at": "2025-04-10T09:09:03Z",
+    "aiHeadline": "Hacker News now offers a deafening silence with their new 'Hug of Deaf' feature."
   },
   {
-    "title": "How much do you think it costs to make a pair of Nike shoes in Asia?",
-    "url": "https://twitter.com/dieworkwear/status/1909741170953273353",
-    "points": 418,
-    "num_comments": 592,
+    "title": "PEP 750 – Template Strings",
+    "url": "https://peps.python.org/pep-0750/",
+    "points": 342,
+    "num_comments": 202,
     "tags": [
       "story",
-      "author_taubek",
-      "story_43631543",
+      "author_grep_it",
+      "story_43647716",
       "front_page"
     ],
-    "author": "taubek",
-    "created_at": "2025-04-09T12:58:39Z",
-    "aiHeadline": "How much does a Nike shoe cost? Probably more than it's worth, but let's find out."
+    "author": "grep_it",
+    "created_at": "2025-04-10T20:24:01Z",
+    "aiHeadline": "Python introduces yet another way to format strings, because clearly we didn't have enough already."
   },
   {
-    "title": "The Agent2Agent Protocol (A2A)",
-    "url": "https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/",
-    "points": 379,
-    "num_comments": 214,
+    "title": "Hunt for Red October 1990 (2016)",
+    "url": "http://www.modelshipsinthecinema.com/2016/12/hunt-for-red-october-1990.html",
+    "points": 314,
+    "num_comments": 129,
     "tags": [
       "story",
-      "author_meetpateltech",
-      "story_43631381",
-      "front_page"
+      "author_nixass",
+      "story_43641469"
     ],
-    "author": "meetpateltech",
-    "created_at": "2025-04-09T12:38:20Z",
-    "aiHeadline": "Agents are finally getting along? Who knew AI could be so social?"
+    "author": "nixass",
+    "created_at": "2025-04-10T07:11:37Z",
+    "aiHeadline": "Rediscovering the 'Hunt for Red October' in 2016, because apparently we needed another reason to love submarines."
   },
   {
-    "title": "Ironwood: The first Google TPU for the age of inference",
-    "url": "https://blog.google/products/google-cloud/ironwood-tpu-age-of-inference/",
-    "points": 358,
-    "num_comments": 137,
+    "title": "Owning my own data, part 1: Integrating a self-hosted calendar solution",
+    "url": "https://emilygorcenski.com/post/owning-my-own-data-part-1-integrating-a-self-hosted-calendar-solution/",
+    "points": 305,
+    "num_comments": 115,
     "tags": [
       "story",
-      "author_meetpateltech",
-      "story_43631274",
+      "author_ColinWright",
+      "story_43643343",
       "front_page"
     ],
-    "author": "meetpateltech",
-    "created_at": "2025-04-09T12:24:19Z",
-    "aiHeadline": "Another TPU upgrade? At least it's named after a tree this time."
+    "author": "ColinWright",
+    "created_at": "2025-04-10T12:59:54Z",
+    "aiHeadline": "One developer's quest to own their data: Part 1, where they realize self-hosting a calendar is more complicated than they thought."
   }
 ]
