@@ -1,75 +1,74 @@
 [
   {
-    "title": "Garfield Minus Garfield",
-    "url": "https://garfieldminusgarfield.net",
-    "points": 470,
-    "num_comments": 167,
+    "title": "But what if I want a faster horse?",
+    "url": "https://rakhim.exotext.com/but-what-if-i-really-want-a-faster-horse",
+    "points": 1195,
+    "num_comments": 529,
     "tags": [
       "story",
-      "author_mike1o1",
-      "story_43646095",
+      "author_saeedesmaili",
+      "story_43652723",
       "front_page"
     ],
-    "author": "mike1o1",
-    "created_at": "2025-04-10T17:21:03Z",
-    "aiHeadline": "Garfield comic strips are funnier without Garfield, apparently."
+    "author": "saeedesmaili",
+    "created_at": "2025-04-11T11:39:18Z",
+    "aiHeadline": "But what if I really, really want a faster horse? Because, you know, cars are just overrated."
   },
   {
-    "title": "Hacker News Hug of Deaf",
-    "url": "https://susam.net/hn-bell.html",
-    "points": 425,
-    "num_comments": 98,
+    "title": "Leaked data reveals Israeli government campaign to remove pro-Palestine posts",
+    "url": "https://www.dropsitenews.com/p/leaked-data-israeli-censorship-meta",
+    "points": 657,
+    "num_comments": 368,
     "tags": [
       "story",
-      "author_susam",
-      "story_43642123"
-    ],
-    "author": "susam",
-    "created_at": "2025-04-10T09:09:03Z",
-    "aiHeadline": "Hacker News now offers a deafening silence with their new 'Hug of Deaf' feature."
-  },
-  {
-    "title": "PEP 750 – Template Strings",
-    "url": "https://peps.python.org/pep-0750/",
-    "points": 342,
-    "num_comments": 202,
-    "tags": [
-      "story",
-      "author_grep_it",
-      "story_43647716",
+      "author_jbegley",
+      "story_43655603",
       "front_page"
     ],
-    "author": "grep_it",
-    "created_at": "2025-04-10T20:24:01Z",
-    "aiHeadline": "Python introduces yet another way to format strings, because clearly we didn't have enough already."
+    "author": "jbegley",
+    "created_at": "2025-04-11T16:24:58Z",
+    "aiHeadline": "Leaked data shows Israeli government is really good at deleting things—like pro-Palestine posts and, uh, maybe their own history?"
   },
   {
-    "title": "Hunt for Red October 1990 (2016)",
-    "url": "http://www.modelshipsinthecinema.com/2016/12/hunt-for-red-october-1990.html",
-    "points": 314,
-    "num_comments": 129,
+    "title": "Live Map of the London Underground",
+    "url": "https://www.londonunderground.live/",
+    "points": 464,
+    "num_comments": 107,
     "tags": [
       "story",
-      "author_nixass",
-      "story_43641469"
+      "author_LourensT",
+      "story_43651390"
     ],
-    "author": "nixass",
-    "created_at": "2025-04-10T07:11:37Z",
-    "aiHeadline": "Rediscovering the 'Hunt for Red October' in 2016, because apparently we needed another reason to love submarines."
+    "author": "LourensT",
+    "created_at": "2025-04-11T07:41:33Z",
+    "aiHeadline": "Live map of the London Underground: because getting lost in a giant rat maze is fun, right?"
   },
   {
-    "title": "Owning my own data, part 1: Integrating a self-hosted calendar solution",
-    "url": "https://emilygorcenski.com/post/owning-my-own-data-part-1-integrating-a-self-hosted-calendar-solution/",
-    "points": 305,
-    "num_comments": 115,
+    "title": "Pentagon to terminate $5.1B in IT contracts with Accenture, Deloitte",
+    "url": "https://www.reuters.com/world/us/pentagon-terminate-51-billion-it-contracts-with-accenture-deloitte-others-2025-04-11/",
+    "points": 441,
+    "num_comments": 578,
     "tags": [
       "story",
-      "author_ColinWright",
-      "story_43643343",
-      "front_page"
+      "author_oldprogrammer2",
+      "story_43653004"
     ],
-    "author": "ColinWright",
-    "created_at": "2025-04-10T12:59:54Z",
-    "aiHeadline": "One developer's quest to own their data: Part 1, where they realize self-hosting a calendar is more complicated than they thought."
+    "author": "oldprogrammer2",
+    "created_at": "2025-04-11T12:23:13Z",
+    "aiHeadline": "Pentagon says 'Thanks, but no thanks' to Accenture and Deloitte—because even the government knows when you're getting scammed."
+  },
+  {
+    "title": "Default styles for h1 elements are changing",
+    "url": "https://developer.mozilla.org/en-US/blog/h1-element-styles/",
+    "points": 347,
+    "num_comments": 254,
+    "tags": [
+      "story",
+      "author_soheilpro",
+      "story_43649853"
+    ],
+    "author": "soheilpro",
+    "created_at": "2025-04-11T02:14:13Z",
+    "aiHeadline": "Default styles for h1 elements are changing: because nothing says 'I'm a headline' like a font size that's just a tiny bit bigger."
   }
 ]
