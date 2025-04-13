@@ -1,74 +1,74 @@
 [
   {
-    "title": "But what if I want a faster horse?",
-    "url": "https://rakhim.exotext.com/but-what-if-i-really-want-a-faster-horse",
-    "points": 1195,
-    "num_comments": 529,
+    "title": "Google is winning on every AI front",
+    "url": "https://www.thealgorithmicbridge.com/p/google-is-winning-on-every-ai-front",
+    "points": 836,
+    "num_comments": 673,
     "tags": [
       "story",
-      "author_saeedesmaili",
-      "story_43652723",
+      "author_vinhnx",
+      "story_43661235"
+    ],
+    "author": "vinhnx",
+    "created_at": "2025-04-12T03:58:50Z",
+    "aiHeadline": "Google's AI dominance is so complete, they're basically winning at losing at AI too, which is apparently a thing now."
+  },
+  {
+    "title": "$70M in 60 Seconds: How Insider Info Helped Someone 28x Their Money",
+    "url": "https://data-and-politics.ghost.io/70-million-in-60-seconds-how-insider-information-helped-someone-28x-their-money/",
+    "points": 723,
+    "num_comments": 399,
+    "tags": [
+      "story",
+      "author_pulisse",
+      "story_43661680"
+    ],
+    "author": "pulisse",
+    "created_at": "2025-04-12T05:47:10Z",
+    "aiHeadline": "$70M in 60 seconds? That's like, faster than you can say 'I told you insider info was a bad idea.'"
+  },
+  {
+    "title": "Open source and self hostable/private file converter",
+    "url": "https://vert.sh",
+    "points": 450,
+    "num_comments": 86,
+    "tags": [
+      "story",
+      "author_sandybonks",
+      "story_43663865",
       "front_page"
     ],
-    "author": "saeedesmaili",
-    "created_at": "2025-04-11T11:39:18Z",
-    "aiHeadline": "But what if I really, really want a faster horse? Because, you know, cars are just overrated."
+    "author": "sandybonks",
+    "created_at": "2025-04-12T12:40:13Z",
+    "aiHeadline": "Open-source file converter: because who doesn't want to convert files without anyone noticing? (Hint: probably no one.)"
   },
   {
-    "title": "Leaked data reveals Israeli government campaign to remove pro-Palestine posts",
-    "url": "https://www.dropsitenews.com/p/leaked-data-israeli-censorship-meta",
-    "points": 657,
-    "num_comments": 368,
+    "title": "Air pollution fell substantially as Paris restricted car traffic",
+    "url": "https://www.washingtonpost.com/climate-solutions/2025/04/12/air-pollution-paris-health-cars/",
+    "points": 448,
+    "num_comments": 395,
     "tags": [
       "story",
-      "author_jbegley",
-      "story_43655603",
+      "author_perihelions",
+      "story_43665793"
+    ],
+    "author": "perihelions",
+    "created_at": "2025-04-12T16:26:42Z",
+    "aiHeadline": "Paris proves that if you restrict car traffic enough, even the air gets tired of being polluted and decides to take a break."
+  },
+  {
+    "title": "Nice Things with SVG",
+    "url": "https://fuma-nama.vercel.app/blog/svg-art",
+    "points": 331,
+    "num_comments": 51,
+    "tags": [
+      "story",
+      "author_fmerian",
+      "story_43666439",
       "front_page"
     ],
-    "author": "jbegley",
-    "created_at": "2025-04-11T16:24:58Z",
-    "aiHeadline": "Leaked data shows Israeli government is really good at deleting things—like pro-Palestine posts and, uh, maybe their own history?"
-  },
-  {
-    "title": "Live Map of the London Underground",
-    "url": "https://www.londonunderground.live/",
-    "points": 464,
-    "num_comments": 107,
-    "tags": [
-      "story",
-      "author_LourensT",
-      "story_43651390"
-    ],
-    "author": "LourensT",
-    "created_at": "2025-04-11T07:41:33Z",
-    "aiHeadline": "Live map of the London Underground: because getting lost in a giant rat maze is fun, right?"
-  },
-  {
-    "title": "Pentagon to terminate $5.1B in IT contracts with Accenture, Deloitte",
-    "url": "https://www.reuters.com/world/us/pentagon-terminate-51-billion-it-contracts-with-accenture-deloitte-others-2025-04-11/",
-    "points": 441,
-    "num_comments": 578,
-    "tags": [
-      "story",
-      "author_oldprogrammer2",
-      "story_43653004"
-    ],
-    "author": "oldprogrammer2",
-    "created_at": "2025-04-11T12:23:13Z",
-    "aiHeadline": "Pentagon says 'Thanks, but no thanks' to Accenture and Deloitte—because even the government knows when you're getting scammed."
-  },
-  {
-    "title": "Default styles for h1 elements are changing",
-    "url": "https://developer.mozilla.org/en-US/blog/h1-element-styles/",
-    "points": 347,
-    "num_comments": 254,
-    "tags": [
-      "story",
-      "author_soheilpro",
-      "story_43649853"
-    ],
-    "author": "soheilpro",
-    "created_at": "2025-04-11T02:14:13Z",
-    "aiHeadline": "Default styles for h1 elements are changing: because nothing says 'I'm a headline' like a font size that's just a tiny bit bigger."
+    "author": "fmerian",
+    "created_at": "2025-04-12T17:40:09Z",
+    "aiHeadline": "SVG: because who needs pixels when you can have math that looks like art? (And by art, we mean slightly more complex than a triangle.)"
   }
 ]
