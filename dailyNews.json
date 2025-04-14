@@ -1,74 +1,76 @@
 [
   {
-    "title": "Google is winning on every AI front",
-    "url": "https://www.thealgorithmicbridge.com/p/google-is-winning-on-every-ai-front",
-    "points": 836,
-    "num_comments": 673,
+    "title": "A Reddit bot drove me insane",
+    "url": "https://posthuman.blog/this-reddit-post-fried-my-brain/",
+    "points": 496,
+    "num_comments": 245,
     "tags": [
       "story",
-      "author_vinhnx",
-      "story_43661235"
+      "author_erhmmmm",
+      "story_43672139"
     ],
-    "author": "vinhnx",
-    "created_at": "2025-04-12T03:58:50Z",
-    "aiHeadline": "Google's AI dominance is so complete, they're basically winning at losing at AI too, which is apparently a thing now."
+    "author": "erhmmmm",
+    "created_at": "2025-04-13T12:03:05Z",
+    "aiHeadline": "AI takes over Reddit, and now I'm the one losing my mind."
   },
   {
-    "title": "$70M in 60 Seconds: How Insider Info Helped Someone 28x Their Money",
-    "url": "https://data-and-politics.ghost.io/70-million-in-60-seconds-how-insider-information-helped-someone-28x-their-money/",
-    "points": 723,
-    "num_comments": 399,
+    "title": "Open guide to equity compensation",
+    "url": "https://github.com/jlevy/og-equity-compensation",
+    "points": 260,
+    "num_comments": 117,
     "tags": [
       "story",
-      "author_pulisse",
-      "story_43661680"
-    ],
-    "author": "pulisse",
-    "created_at": "2025-04-12T05:47:10Z",
-    "aiHeadline": "$70M in 60 seconds? That's like, faster than you can say 'I told you insider info was a bad idea.'"
-  },
-  {
-    "title": "Open source and self hostable/private file converter",
-    "url": "https://vert.sh",
-    "points": 450,
-    "num_comments": 86,
-    "tags": [
-      "story",
-      "author_sandybonks",
-      "story_43663865",
+      "author_mooreds",
+      "story_43675126",
       "front_page"
     ],
-    "author": "sandybonks",
-    "created_at": "2025-04-12T12:40:13Z",
-    "aiHeadline": "Open-source file converter: because who doesn't want to convert files without anyone noticing? (Hint: probably no one.)"
+    "author": "mooreds",
+    "created_at": "2025-04-13T19:13:37Z",
+    "aiHeadline": "Equity compensation: because who doesn't want to gamble their future on stock options?"
   },
   {
-    "title": "Air pollution fell substantially as Paris restricted car traffic",
-    "url": "https://www.washingtonpost.com/climate-solutions/2025/04/12/air-pollution-paris-health-cars/",
-    "points": 448,
-    "num_comments": 395,
+    "title": "The dark side of the Moomins",
+    "url": "https://www.newstatesman.com/culture/books/2025/04/dark-side-of-the-moomins-tove-jansson",
+    "points": 253,
+    "num_comments": 73,
     "tags": [
       "story",
-      "author_perihelions",
-      "story_43665793"
-    ],
-    "author": "perihelions",
-    "created_at": "2025-04-12T16:26:42Z",
-    "aiHeadline": "Paris proves that if you restrict car traffic enough, even the air gets tired of being polluted and decides to take a break."
-  },
-  {
-    "title": "Nice Things with SVG",
-    "url": "https://fuma-nama.vercel.app/blog/svg-art",
-    "points": 331,
-    "num_comments": 51,
-    "tags": [
-      "story",
-      "author_fmerian",
-      "story_43666439",
+      "author_SebaSeba",
+      "story_43672593",
       "front_page"
     ],
-    "author": "fmerian",
-    "created_at": "2025-04-12T17:40:09Z",
-    "aiHeadline": "SVG: because who needs pixels when you can have math that looks like art? (And by art, we mean slightly more complex than a triangle.)"
+    "author": "SebaSeba",
+    "created_at": "2025-04-13T13:15:57Z",
+    "aiHeadline": "Moomins aren't as innocent as they look—prepare to be horrified."
+  },
+  {
+    "title": "Whenever – typed and DST-safe datetimes for Python",
+    "url": "https://github.com/ariebovenberg/whenever",
+    "points": 251,
+    "num_comments": 121,
+    "tags": [
+      "story",
+      "author_pkkm",
+      "story_43671308",
+      "front_page"
+    ],
+    "author": "pkkm",
+    "created_at": "2025-04-13T09:12:19Z",
+    "aiHeadline": "Finally, a Python library that might keep your dates straight—probably."
+  },
+  {
+    "title": "Why Fennel?",
+    "url": "https://fennel-lang.org/rationale",
+    "points": 191,
+    "num_comments": 79,
+    "tags": [
+      "story",
+      "author_behnamoh",
+      "story_43673551",
+      "front_page"
+    ],
+    "author": "behnamoh",
+    "created_at": "2025-04-13T15:37:05Z",
+    "aiHeadline": "Why Fennel? Because clearly, we need another programming language to argue about."
   }
 ]
