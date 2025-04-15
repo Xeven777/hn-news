@@ -1,76 +1,75 @@
 [
   {
-    "title": "A Reddit bot drove me insane",
-    "url": "https://posthuman.blog/this-reddit-post-fried-my-brain/",
-    "points": 496,
-    "num_comments": 245,
+    "title": "Harvard's response to federal government letter demanding changes",
+    "url": "https://www.harvard.edu/president/news/2025/the-promise-of-american-higher-education/",
+    "points": 891,
+    "num_comments": 782,
     "tags": [
       "story",
-      "author_erhmmmm",
-      "story_43672139"
+      "author_impish9208",
+      "story_43684536"
     ],
-    "author": "erhmmmm",
-    "created_at": "2025-04-13T12:03:05Z",
-    "aiHeadline": "AI takes over Reddit, and now I'm the one losing my mind."
+    "author": "impish9208",
+    "created_at": "2025-04-14T18:28:50Z",
+    "aiHeadline": "Harvard defiantly responds to federal demands, proving that they're just as stubborn as their alumni."
   },
   {
-    "title": "Open guide to equity compensation",
-    "url": "https://github.com/jlevy/og-equity-compensation",
-    "points": 260,
-    "num_comments": 117,
-    "tags": [
-      "story",
-      "author_mooreds",
-      "story_43675126",
-      "front_page"
-    ],
-    "author": "mooreds",
-    "created_at": "2025-04-13T19:13:37Z",
-    "aiHeadline": "Equity compensation: because who doesn't want to gamble their future on stock options?"
-  },
-  {
-    "title": "The dark side of the Moomins",
-    "url": "https://www.newstatesman.com/culture/books/2025/04/dark-side-of-the-moomins-tove-jansson",
-    "points": 253,
-    "num_comments": 73,
-    "tags": [
-      "story",
-      "author_SebaSeba",
-      "story_43672593",
-      "front_page"
-    ],
-    "author": "SebaSeba",
-    "created_at": "2025-04-13T13:15:57Z",
-    "aiHeadline": "Moomins aren't as innocent as they look—prepare to be horrified."
-  },
-  {
-    "title": "Whenever – typed and DST-safe datetimes for Python",
-    "url": "https://github.com/ariebovenberg/whenever",
-    "points": 251,
+    "title": "A hackable AI assistant using a single SQLite table and a handful of cron jobs",
+    "url": "https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs",
+    "points": 476,
     "num_comments": 121,
     "tags": [
       "story",
-      "author_pkkm",
-      "story_43671308",
+      "author_stevekrouse",
+      "story_43681287",
       "front_page"
     ],
-    "author": "pkkm",
-    "created_at": "2025-04-13T09:12:19Z",
-    "aiHeadline": "Finally, a Python library that might keep your dates straight—probably."
+    "author": "stevekrouse",
+    "created_at": "2025-04-14T13:52:58Z",
+    "aiHeadline": "Meet the hackable AI assistant, because who needs security when you can have a cron job?"
   },
   {
-    "title": "Why Fennel?",
-    "url": "https://fennel-lang.org/rationale",
-    "points": 191,
-    "num_comments": 79,
+    "title": "GPT-4.1 in the API",
+    "url": "https://openai.com/index/gpt-4-1/",
+    "points": 453,
+    "num_comments": 364,
     "tags": [
       "story",
-      "author_behnamoh",
-      "story_43673551",
+      "author_maheshrijal",
+      "story_43683410",
       "front_page"
     ],
-    "author": "behnamoh",
-    "created_at": "2025-04-13T15:37:05Z",
-    "aiHeadline": "Why Fennel? Because clearly, we need another programming language to argue about."
+    "author": "maheshrijal",
+    "created_at": "2025-04-14T17:01:45Z",
+    "aiHeadline": "GPT-4.1 arrives, bringing you the same AI magic, but now with 10% more decimal places."
+  },
+  {
+    "title": "The path to open-sourcing the DeepSeek inference engine",
+    "url": "https://github.com/deepseek-ai/open-infra-index/tree/main/OpenSourcing_DeepSeek_Inference_Engine",
+    "points": 373,
+    "num_comments": 27,
+    "tags": [
+      "story",
+      "author_Palmik",
+      "story_43682088",
+      "front_page"
+    ],
+    "author": "Palmik",
+    "created_at": "2025-04-14T15:03:10Z",
+    "aiHeadline": "DeepSeek finally opens up their engine, proving that even the best tech takes forever to share."
+  },
+  {
+    "title": "Kezurou-Kai #39",
+    "url": "https://www.bigsandwoodworking.com/kezurou-kai-39/",
+    "points": 263,
+    "num_comments": 24,
+    "tags": [
+      "story",
+      "author_nabla9",
+      "story_43679004"
+    ],
+    "author": "nabla9",
+    "created_at": "2025-04-14T07:47:18Z",
+    "aiHeadline": "Kezurou-Kai #39: Because every woodworking episode needs a new way to ruin your fingers."
   }
 ]
