@@ -1,75 +1,77 @@
 [
   {
-    "title": "Harvard's response to federal government letter demanding changes",
-    "url": "https://www.harvard.edu/president/news/2025/the-promise-of-american-higher-education/",
-    "points": 891,
-    "num_comments": 782,
+    "title": "Whistleblower details how DOGE may have taken sensitive NLRB data",
+    "url": "https://www.npr.org/2025/04/15/nx-s1-5355896/doge-nlrb-elon-musk-spacex-security",
+    "points": 729,
+    "num_comments": 365,
     "tags": [
       "story",
-      "author_impish9208",
-      "story_43684536"
-    ],
-    "author": "impish9208",
-    "created_at": "2025-04-14T18:28:50Z",
-    "aiHeadline": "Harvard defiantly responds to federal demands, proving that they're just as stubborn as their alumni."
-  },
-  {
-    "title": "A hackable AI assistant using a single SQLite table and a handful of cron jobs",
-    "url": "https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs",
-    "points": 476,
-    "num_comments": 121,
-    "tags": [
-      "story",
-      "author_stevekrouse",
-      "story_43681287",
+      "author_rbanffy",
+      "story_43691142",
       "front_page"
     ],
-    "author": "stevekrouse",
-    "created_at": "2025-04-14T13:52:58Z",
-    "aiHeadline": "Meet the hackable AI assistant, because who needs security when you can have a cron job?"
+    "author": "rbanffy",
+    "created_at": "2025-04-15T10:55:41Z",
+    "aiHeadline": "DOGE's Latest Adventure: A Whistleblower Claims They Accidentally Hacked the NLRB While Trying to Take Over the World with Elon Musk."
   },
   {
-    "title": "GPT-4.1 in the API",
-    "url": "https://openai.com/index/gpt-4-1/",
-    "points": 453,
-    "num_comments": 364,
+    "title": "How to win an argument with a toddler",
+    "url": "https://seths.blog/2025/04/how-to-win-an-argument-with-a-toddler/",
+    "points": 573,
+    "num_comments": 432,
     "tags": [
       "story",
-      "author_maheshrijal",
-      "story_43683410",
+      "author_herbertl",
+      "story_43693402",
       "front_page"
     ],
-    "author": "maheshrijal",
-    "created_at": "2025-04-14T17:01:45Z",
-    "aiHeadline": "GPT-4.1 arrives, bringing you the same AI magic, but now with 10% more decimal places."
+    "author": "herbertl",
+    "created_at": "2025-04-15T14:38:25Z",
+    "aiHeadline": "How to Finally Win an Argument with a Toddler: Just Agree with Everything They Say and Wait for Them to Change Their Mind in 30 Seconds."
   },
   {
-    "title": "The path to open-sourcing the DeepSeek inference engine",
-    "url": "https://github.com/deepseek-ai/open-infra-index/tree/main/OpenSourcing_DeepSeek_Inference_Engine",
-    "points": 373,
-    "num_comments": 27,
+    "title": "4chan Sharty Hack And Janitor Email Leak",
+    "url": "https://knowyourmeme.com/memes/events/april-2025-4chan-sharty-hack-and-janitor-email-leak",
+    "points": 435,
+    "num_comments": 540,
     "tags": [
       "story",
-      "author_Palmik",
-      "story_43682088",
+      "author_LookAtThatBacon",
+      "story_43691334",
       "front_page"
     ],
-    "author": "Palmik",
-    "created_at": "2025-04-14T15:03:10Z",
-    "aiHeadline": "DeepSeek finally opens up their engine, proving that even the best tech takes forever to share."
+    "author": "LookAtThatBacon",
+    "created_at": "2025-04-15T11:30:56Z",
+    "aiHeadline": "4chan's Latest 'Shart' Hack: Janitors Are Furious After Their Emails Were Leaked, Proving Once Again That Cleaning Toilets Is Apparently the Most Exciting Job in Tech."
   },
   {
-    "title": "Kezurou-Kai #39",
-    "url": "https://www.bigsandwoodworking.com/kezurou-kai-39/",
-    "points": 263,
-    "num_comments": 24,
+    "title": "Show HN: Unsure Calculator – back-of-a-napkin probabilistic calculator",
+    "url": "https://filiph.github.io/unsure/",
+    "points": 337,
+    "num_comments": 59,
     "tags": [
       "story",
-      "author_nabla9",
-      "story_43679004"
+      "author_filiph",
+      "story_43690289",
+      "show_hn",
+      "front_page"
     ],
-    "author": "nabla9",
-    "created_at": "2025-04-14T07:47:18Z",
-    "aiHeadline": "Kezurou-Kai #39: Because every woodworking episode needs a new way to ruin your fingers."
+    "author": "filiph",
+    "created_at": "2025-04-15T08:22:59Z",
+    "aiHeadline": "Introducing the 'Unsure Calculator': Because Who Needs Certainty When You Can Have a Calculator That's 50% Sure It's Right, 30% Sure It's Wrong, and 20% Sure It Doesn't Care?"
+  },
+  {
+    "title": "It's easier than ever to de-censor videos",
+    "url": "https://www.jeffgeerling.com/blog/2025/its-easier-ever-de-censor-videos",
+    "points": 331,
+    "num_comments": 141,
+    "tags": [
+      "story",
+      "author_DamonHD",
+      "story_43695701"
+    ],
+    "author": "DamonHD",
+    "created_at": "2025-04-15T17:12:22Z",
+    "aiHeadline": "De-Censoring Videos Has Never Been Easier: Just Install This Tool and Watch as Your Content Gets Less Boring Than a School Lecture."
   }
 ]
