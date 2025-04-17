@@ -1,77 +1,73 @@
 [
   {
-    "title": "Whistleblower details how DOGE may have taken sensitive NLRB data",
-    "url": "https://www.npr.org/2025/04/15/nx-s1-5355896/doge-nlrb-elon-musk-spacex-security",
-    "points": 729,
-    "num_comments": 365,
+    "title": "CVE program faces swift end after DHS fails to renew contract",
+    "url": "https://www.csoonline.com/article/3963190/cve-program-faces-swift-end-after-dhs-fails-to-renew-contract-leaving-security-flaw-tracking-in-limbo.html",
+    "points": 1842,
+    "num_comments": 985,
     "tags": [
       "story",
-      "author_rbanffy",
-      "story_43691142",
-      "front_page"
+      "author_healsdata",
+      "story_43700607"
     ],
-    "author": "rbanffy",
-    "created_at": "2025-04-15T10:55:41Z",
-    "aiHeadline": "DOGE's Latest Adventure: A Whistleblower Claims They Accidentally Hacked the NLRB While Trying to Take Over the World with Elon Musk."
+    "author": "healsdata",
+    "created_at": "2025-04-16T01:57:27Z",
+    "aiHeadline": "The DHS, in a stunning display of incompetence, has managed to single-handedly dismantle the CVE program, leaving the world's cybersecurity efforts in the hands of a bunch of cats who just walked across the keyboard."
   },
   {
-    "title": "How to win an argument with a toddler",
-    "url": "https://seths.blog/2025/04/how-to-win-an-argument-with-a-toddler/",
-    "points": 573,
-    "num_comments": 432,
+    "title": "Attention K-Mart Shoppers",
+    "url": "https://archive.org/details/attentionkmartshoppers",
+    "points": 230,
+    "num_comments": 84,
     "tags": [
       "story",
-      "author_herbertl",
-      "story_43693402",
+      "author_rpmisms",
+      "story_43706706",
       "front_page"
     ],
-    "author": "herbertl",
-    "created_at": "2025-04-15T14:38:25Z",
-    "aiHeadline": "How to Finally Win an Argument with a Toddler: Just Agree with Everything They Say and Wait for Them to Change Their Mind in 30 Seconds."
+    "author": "rpmisms",
+    "created_at": "2025-04-16T15:30:59Z",
+    "aiHeadline": "K-Mart shoppers, you're special! So special, in fact, that the FBI has issued a warning about your online activities. Because clearly, you're the only ones sophisticated enough to evade their surveillance."
   },
   {
-    "title": "4chan Sharty Hack And Janitor Email Leak",
-    "url": "https://knowyourmeme.com/memes/events/april-2025-4chan-sharty-hack-and-janitor-email-leak",
-    "points": 435,
-    "num_comments": 540,
+    "title": "CVE Foundation Launched to Secure the Future of the CVE Program",
+    "url": "https://www.thecvefoundation.org/home",
+    "points": 209,
+    "num_comments": 43,
     "tags": [
       "story",
-      "author_LookAtThatBacon",
-      "story_43691334",
-      "front_page"
+      "author_layer8",
+      "story_43704430"
     ],
-    "author": "LookAtThatBacon",
-    "created_at": "2025-04-15T11:30:56Z",
-    "aiHeadline": "4chan's Latest 'Shart' Hack: Janitors Are Furious After Their Emails Were Leaked, Proving Once Again That Cleaning Toilets Is Apparently the Most Exciting Job in Tech."
+    "author": "layer8",
+    "created_at": "2025-04-16T12:16:35Z",
+    "aiHeadline": "The CVE Foundation has launched, and guess what? They're here to save the CVE program from itself! Because clearly, the previous attempts by the DHS to manage it were a resounding success."
   },
   {
-    "title": "Show HN: Unsure Calculator – back-of-a-napkin probabilistic calculator",
-    "url": "https://filiph.github.io/unsure/",
-    "points": 337,
-    "num_comments": 59,
+    "title": "European Union Vulnerability Database (EUVD)",
+    "url": "https://euvd.enisa.europa.eu/",
+    "points": 201,
+    "num_comments": 21,
     "tags": [
       "story",
-      "author_filiph",
-      "story_43690289",
-      "show_hn",
-      "front_page"
+      "author_stefankuehnel",
+      "story_43703949"
     ],
-    "author": "filiph",
-    "created_at": "2025-04-15T08:22:59Z",
-    "aiHeadline": "Introducing the 'Unsure Calculator': Because Who Needs Certainty When You Can Have a Calculator That's 50% Sure It's Right, 30% Sure It's Wrong, and 20% Sure It Doesn't Care?"
+    "author": "stefankuehnel",
+    "created_at": "2025-04-16T11:19:14Z",
+    "aiHeadline": "The European Union has unveiled its brand-new Vulnerability Database, because what the world really needs is another acronym to remember. And another layer of bureaucracy to slow things down."
   },
   {
-    "title": "It's easier than ever to de-censor videos",
-    "url": "https://www.jeffgeerling.com/blog/2025/its-easier-ever-de-censor-videos",
-    "points": 331,
-    "num_comments": 141,
+    "title": "Markov Chain Monte Carlo Without All the Bullshit (2015)",
+    "url": "https://www.jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/",
+    "points": 198,
+    "num_comments": 46,
     "tags": [
       "story",
-      "author_DamonHD",
-      "story_43695701"
+      "author_ibobev",
+      "story_43700633"
     ],
-    "author": "DamonHD",
-    "created_at": "2025-04-15T17:12:22Z",
-    "aiHeadline": "De-Censoring Videos Has Never Been Easier: Just Install This Tool and Watch as Your Content Gets Less Boring Than a School Lecture."
+    "author": "ibobev",
+    "created_at": "2025-04-16T02:01:46Z",
+    "aiHeadline": "Markov Chain Monte Carlo Without All the Bullshit? Sure, let's try that. Because nothing says 'fun' like hours of staring at equations, wondering if you've just wasted your life."
   }
 ]
