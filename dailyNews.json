@@ -1,75 +1,76 @@
 [
   {
-    "title": "Google is illegally monopolizing online advertising tech, judge rules",
-    "url": "https://www.nytimes.com/2025/04/17/technology/google-ad-tech-antitrust-ruling.html",
-    "points": 643,
-    "num_comments": 347,
+    "title": "Kagi Assistant is now available to all users",
+    "url": "https://blog.kagi.com/assistant-for-all",
+    "points": 462,
+    "num_comments": 263,
     "tags": [
       "story",
-      "author_IdealeZahlen",
-      "story_43717705",
+      "author_angilr",
+      "story_43724941"
+    ],
+    "author": "angilr",
+    "created_at": "2025-04-18T04:12:21Z",
+    "aiHeadline": "Kagi Assistant finally opens its doors to the masses, sparing the rest of us from the agony of waiting for our invite, which apparently was just a cruel joke all along."
+  },
+  {
+    "title": "Intuit, Owner of TurboTax, Wins Battle Against America's Taxpayers",
+    "url": "https://prospect.org/power/2025-04-17-intuit-turbotax-wins-battle-against-taxpayers-irs-direct-file/",
+    "points": 428,
+    "num_comments": 224,
+    "tags": [
+      "story",
+      "author_leotravis10",
+      "story_43724267"
+    ],
+    "author": "leotravis10",
+    "created_at": "2025-04-18T02:13:23Z",
+    "aiHeadline": "Intuit, the folks behind TurboTax, wins the battle against America's taxpayers, proving once again that when it comes to taxes, the only winners are the ones who made the rules."
+  },
+  {
+    "title": "Show HN: I made a Doom-like game fit inside a QR code",
+    "url": "https://github.com/Kuberwastaken/backdooms",
+    "points": 328,
+    "num_comments": 94,
+    "tags": [
+      "story",
+      "author_kuberwastaken",
+      "story_43729683",
+      "show_hn",
       "front_page"
     ],
-    "author": "IdealeZahlen",
-    "created_at": "2025-04-17T14:47:46Z",
-    "aiHeadline": "Google's online advertising monopoly is so strong, even a judge had to step in to say, 'Hey, this isn't cool anymore!'"
+    "author": "kuberwastaken",
+    "created_at": "2025-04-18T16:40:25Z",
+    "aiHeadline": "Show HN: A developer's latest masterpiece is a Doom-like game so tiny it can fit inside a QR code, because clearly, the world needed another reason to pull out their phones and scan random squares."
   },
   {
-    "title": "TikTok is harming children at an industrial scale",
-    "url": "https://www.afterbabel.com/p/industrial-scale-harm-tiktok",
-    "points": 553,
-    "num_comments": 632,
+    "title": "Defold: cross-platform game engine",
+    "url": "https://defold.com",
+    "points": 326,
+    "num_comments": 136,
     "tags": [
       "story",
-      "author_cwwc",
-      "story_43716665"
-    ],
-    "author": "cwwc",
-    "created_at": "2025-04-17T13:39:28Z",
-    "aiHeadline": "TikTok is single-handedly turning child development into a dystopian nightmare, one algorithmically curated video at a time."
-  },
-  {
-    "title": "Gemini 2.5 Flash",
-    "url": "https://developers.googleblog.com/en/start-building-with-gemini-25-flash/",
-    "points": 525,
-    "num_comments": 294,
-    "tags": [
-      "story",
-      "author_meetpateltech",
-      "story_43720845",
+      "author_xd",
+      "story_43726051",
       "front_page"
     ],
-    "author": "meetpateltech",
-    "created_at": "2025-04-17T19:03:39Z",
-    "aiHeadline": "Gemini 2.5 Flash: Because sometimes you just need to build things faster, even if it means your AI might accidentally invent time travel."
+    "author": "xd",
+    "created_at": "2025-04-18T08:15:20Z",
+    "aiHeadline": "Defold, the cross-platform game engine, is here to save your life if you're into making games that can run on everything from your grandma's tablet to your high-end gaming PC, because why not?"
   },
   {
-    "title": "An intro to DeepSeek's distributed file system",
-    "url": "https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/",
-    "points": 460,
-    "num_comments": 69,
+    "title": "Judge Rules Blanket Search of Cell Tower Data Unconstitutional",
+    "url": "https://www.404media.co/judge-rules-blanket-search-of-cell-tower-data-unconstitutional/",
+    "points": 315,
+    "num_comments": 126,
     "tags": [
       "story",
-      "author_sebg",
-      "story_43716058",
+      "author_bradac56",
+      "story_43730545",
       "front_page"
     ],
-    "author": "sebg",
-    "created_at": "2025-04-17T12:50:37Z",
-    "aiHeadline": "DeepSeek's distributed file system: Because who doesn't want their files to be spread out across the digital universe like a game of digital hide and seek?"
-  },
-  {
-    "title": "“Most promising signs yet” of alien life on a planet beyond our Solar System",
-    "url": "https://www.skyatnightmagazine.com/news/k2-18b-dimethyl-sulfide",
-    "points": 389,
-    "num_comments": 318,
-    "tags": [
-      "story",
-      "author_fuidani",
-      "story_43714203"
-    ],
-    "author": "fuidani",
-    "created_at": "2025-04-17T08:02:21Z",
-    "aiHeadline": "Scientists have found the most promising signs yet of alien life on a distant planet, which basically means we're one step closer to proving we're not alone—unless this is just another false alarm, in which case, humanity wins again."
+    "author": "bradac56",
+    "created_at": "2025-04-18T18:16:27Z",
+    "aiHeadline": "In a landmark decision, a judge rules that blanket searches of cell tower data are unconstitutional, giving us all a rare moment of hope that maybe, just maybe, our privacy isn't completely gone."
   }
 ]
