@@ -1,76 +1,77 @@
 [
   {
-    "title": "Kagi Assistant is now available to all users",
-    "url": "https://blog.kagi.com/assistant-for-all",
-    "points": 462,
-    "num_comments": 263,
+    "title": "Librarians are dangerous",
+    "url": "https://bradmontague.substack.com/p/librarians-are-dangerous",
+    "points": 387,
+    "num_comments": 386,
     "tags": [
       "story",
-      "author_angilr",
-      "story_43724941"
-    ],
-    "author": "angilr",
-    "created_at": "2025-04-18T04:12:21Z",
-    "aiHeadline": "Kagi Assistant finally opens its doors to the masses, sparing the rest of us from the agony of waiting for our invite, which apparently was just a cruel joke all along."
-  },
-  {
-    "title": "Intuit, Owner of TurboTax, Wins Battle Against America's Taxpayers",
-    "url": "https://prospect.org/power/2025-04-17-intuit-turbotax-wins-battle-against-taxpayers-irs-direct-file/",
-    "points": 428,
-    "num_comments": 224,
-    "tags": [
-      "story",
-      "author_leotravis10",
-      "story_43724267"
-    ],
-    "author": "leotravis10",
-    "created_at": "2025-04-18T02:13:23Z",
-    "aiHeadline": "Intuit, the folks behind TurboTax, wins the battle against America's taxpayers, proving once again that when it comes to taxes, the only winners are the ones who made the rules."
-  },
-  {
-    "title": "Show HN: I made a Doom-like game fit inside a QR code",
-    "url": "https://github.com/Kuberwastaken/backdooms",
-    "points": 328,
-    "num_comments": 94,
-    "tags": [
-      "story",
-      "author_kuberwastaken",
-      "story_43729683",
-      "show_hn",
+      "author_mooreds",
+      "story_43736791",
       "front_page"
     ],
-    "author": "kuberwastaken",
-    "created_at": "2025-04-18T16:40:25Z",
-    "aiHeadline": "Show HN: A developer's latest masterpiece is a Doom-like game so tiny it can fit inside a QR code, because clearly, the world needed another reason to pull out their phones and scan random squares."
+    "author": "mooreds",
+    "created_at": "2025-04-19T14:49:36Z",
+    "aiHeadline": "Librarians: The Silent Architects of Doom, Because Who Needs Quiet Anyway?"
   },
   {
-    "title": "Defold: cross-platform game engine",
-    "url": "https://defold.com",
-    "points": 326,
-    "num_comments": 136,
+    "title": "Claude Code: Best practices for agentic coding",
+    "url": "https://www.anthropic.com/engineering/claude-code-best-practices",
+    "points": 322,
+    "num_comments": 161,
     "tags": [
       "story",
-      "author_xd",
-      "story_43726051",
+      "author_sqs",
+      "story_43735550",
       "front_page"
     ],
-    "author": "xd",
-    "created_at": "2025-04-18T08:15:20Z",
-    "aiHeadline": "Defold, the cross-platform game engine, is here to save your life if you're into making games that can run on everything from your grandma's tablet to your high-end gaming PC, because why not?"
+    "author": "sqs",
+    "created_at": "2025-04-19T10:48:30Z",
+    "aiHeadline": "Claude Code: Because Regular Coding Wasn't Torturous Enough, Now It's 'Agentic'"
   },
   {
-    "title": "Judge Rules Blanket Search of Cell Tower Data Unconstitutional",
-    "url": "https://www.404media.co/judge-rules-blanket-search-of-cell-tower-data-unconstitutional/",
-    "points": 315,
-    "num_comments": 126,
+    "title": "Raspberry Pi Lidar Scanner",
+    "url": "https://github.com/PiLiDAR/PiLiDAR",
+    "points": 313,
+    "num_comments": 85,
     "tags": [
       "story",
-      "author_bradac56",
-      "story_43730545",
+      "author_Venn1",
+      "story_43738561",
       "front_page"
     ],
-    "author": "bradac56",
-    "created_at": "2025-04-18T18:16:27Z",
-    "aiHeadline": "In a landmark decision, a judge rules that blanket searches of cell tower data are unconstitutional, giving us all a rare moment of hope that maybe, just maybe, our privacy isn't completely gone."
+    "author": "Venn1",
+    "created_at": "2025-04-19T18:53:32Z",
+    "aiHeadline": "Raspberry Pi Lidar Scanner: Because Your Living Room Needs Another Way to Spy on You"
+  },
+  {
+    "title": "Android phones will soon reboot themselves after sitting unused for three days",
+    "url": "https://arstechnica.com/gadgets/2025/04/android-phones-will-soon-reboot-themselves-after-sitting-unused-for-3-days/",
+    "points": 273,
+    "num_comments": 222,
+    "tags": [
+      "story",
+      "author_namanyayg",
+      "story_43735902",
+      "front_page"
+    ],
+    "author": "namanyayg",
+    "created_at": "2025-04-19T12:14:13Z",
+    "aiHeadline": "Android Phones: The Rebels Who Decide It's Time to Restart Your Life After Three Days of Peace"
+  },
+  {
+    "title": "Show HN: Undercutf1 – F1 Live Timing TUI with Driver Tracker, Variable Delay",
+    "url": "https://github.com/JustAman62/undercut-f1",
+    "points": 257,
+    "num_comments": 65,
+    "tags": [
+      "story",
+      "author_deltaknight",
+      "story_43734910",
+      "show_hn"
+    ],
+    "author": "deltaknight",
+    "created_at": "2025-04-19T07:50:36Z",
+    "aiHeadline": "Undercutf1: Because Regular F1 Broadcasting Wasn't Nerd Enough for You"
   }
 ]
