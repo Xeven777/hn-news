@@ -1,77 +1,76 @@
 [
   {
-    "title": "Librarians are dangerous",
-    "url": "https://bradmontague.substack.com/p/librarians-are-dangerous",
-    "points": 387,
-    "num_comments": 386,
+    "title": "Gemma 3 QAT Models: Bringing AI to Consumer GPUs",
+    "url": "https://developers.googleblog.com/en/gemma-3-quantized-aware-trained-state-of-the-art-ai-to-consumer-gpus/",
+    "points": 426,
+    "num_comments": 195,
     "tags": [
       "story",
-      "author_mooreds",
-      "story_43736791",
+      "author_emrah",
+      "story_43743337",
       "front_page"
     ],
-    "author": "mooreds",
-    "created_at": "2025-04-19T14:49:36Z",
-    "aiHeadline": "Librarians: The Silent Architects of Doom, Because Who Needs Quiet Anyway?"
+    "author": "emrah",
+    "created_at": "2025-04-20T12:22:06Z",
+    "aiHeadline": "Gemma 3 QAT Models: Finally, AI is smart enough to run on your grandma's computer, because who needs a supercomputer when you've got a toaster oven?"
   },
   {
-    "title": "Claude Code: Best practices for agentic coding",
-    "url": "https://www.anthropic.com/engineering/claude-code-best-practices",
-    "points": 322,
-    "num_comments": 161,
+    "title": "The movie mistake mystery from \"Revenge of the Sith\"",
+    "url": "https://fxrant.blogspot.com/2025/04/the-movie-mistake-mystery-from-revenge.html",
+    "points": 321,
+    "num_comments": 100,
     "tags": [
       "story",
-      "author_sqs",
-      "story_43735550",
+      "author_CharlesW",
+      "story_43745141",
       "front_page"
     ],
-    "author": "sqs",
-    "created_at": "2025-04-19T10:48:30Z",
-    "aiHeadline": "Claude Code: Because Regular Coding Wasn't Torturous Enough, Now It's 'Agentic'"
+    "author": "CharlesW",
+    "created_at": "2025-04-20T17:29:28Z",
+    "aiHeadline": "The movie mistake mystery from 'Revenge of the Sith': Because nothing says 'blockbuster' like a glaring error that took 20 years to notice."
   },
   {
-    "title": "Raspberry Pi Lidar Scanner",
-    "url": "https://github.com/PiLiDAR/PiLiDAR",
-    "points": 313,
-    "num_comments": 85,
+    "title": "Things Zig comptime won't do",
+    "url": "https://matklad.github.io/2025/04/19/things-zig-comptime-wont-do.html",
+    "points": 296,
+    "num_comments": 110,
     "tags": [
       "story",
-      "author_Venn1",
-      "story_43738561",
+      "author_JadedBlueEyes",
+      "story_43744591",
       "front_page"
     ],
-    "author": "Venn1",
-    "created_at": "2025-04-19T18:53:32Z",
-    "aiHeadline": "Raspberry Pi Lidar Scanner: Because Your Living Room Needs Another Way to Spy on You"
+    "author": "JadedBlueEyes",
+    "created_at": "2025-04-20T15:57:37Z",
+    "aiHeadline": "Things Zig comptime won't do: Apparently, it can't figure out why you're still using it when other languages have already solved your problems."
   },
   {
-    "title": "Android phones will soon reboot themselves after sitting unused for three days",
-    "url": "https://arstechnica.com/gadgets/2025/04/android-phones-will-soon-reboot-themselves-after-sitting-unused-for-3-days/",
-    "points": 273,
-    "num_comments": 222,
+    "title": "100 Years to Solve an Integral (2020)",
+    "url": "https://liorsinai.github.io/mathematics/2020/08/27/secant-mercator.html",
+    "points": 202,
+    "num_comments": 56,
     "tags": [
       "story",
-      "author_namanyayg",
-      "story_43735902",
+      "author_blobcode",
+      "story_43741273",
       "front_page"
     ],
-    "author": "namanyayg",
-    "created_at": "2025-04-19T12:14:13Z",
-    "aiHeadline": "Android Phones: The Rebels Who Decide It's Time to Restart Your Life After Three Days of Peace"
+    "author": "blobcode",
+    "created_at": "2025-04-20T03:16:42Z",
+    "aiHeadline": "100 Years to Solve an Integral (2020): Because math is hard, and apparently, we're all just a bunch of slow learners."
   },
   {
-    "title": "Show HN: Undercutf1 – F1 Live Timing TUI with Driver Tracker, Variable Delay",
-    "url": "https://github.com/JustAman62/undercut-f1",
-    "points": 257,
-    "num_comments": 65,
+    "title": "Why is OpenAI buying Windsurf?",
+    "url": "https://theahura.substack.com/p/tech-things-openai-buys-windsurf",
+    "points": 191,
+    "num_comments": 183,
     "tags": [
       "story",
-      "author_deltaknight",
-      "story_43734910",
-      "show_hn"
+      "author_theahura",
+      "story_43743993"
     ],
-    "author": "deltaknight",
-    "created_at": "2025-04-19T07:50:36Z",
-    "aiHeadline": "Undercutf1: Because Regular F1 Broadcasting Wasn't Nerd Enough for You"
+    "author": "theahura",
+    "created_at": "2025-04-20T14:28:20Z",
+    "aiHeadline": "Why is OpenAI buying Windsurf? Because clearly, the future of AI lies in... windsurfing? Or maybe they're just trying to get into the water sports business."
   }
 ]
