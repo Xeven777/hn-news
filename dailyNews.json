@@ -1,76 +1,73 @@
 [
   {
-    "title": "Gemma 3 QAT Models: Bringing AI to Consumer GPUs",
-    "url": "https://developers.googleblog.com/en/gemma-3-quantized-aware-trained-state-of-the-art-ai-to-consumer-gpus/",
-    "points": 426,
-    "num_comments": 195,
+    "title": "Getting forked by Microsoft",
+    "url": "https://philiplaine.com/posts/getting-forked-by-microsoft/",
+    "points": 1559,
+    "num_comments": 821,
     "tags": [
       "story",
-      "author_emrah",
-      "story_43743337",
+      "author_phillebaba",
+      "story_43750535",
       "front_page"
     ],
-    "author": "emrah",
-    "created_at": "2025-04-20T12:22:06Z",
-    "aiHeadline": "Gemma 3 QAT Models: Finally, AI is smart enough to run on your grandma's computer, because who needs a supercomputer when you've got a toaster oven?"
+    "author": "phillebaba",
+    "created_at": "2025-04-21T11:05:44Z",
+    "aiHeadline": "Microsoft Forks Open Source Project, Because Who Needs Community When You Can Just Take Over?"
   },
   {
-    "title": "The movie mistake mystery from \"Revenge of the Sith\"",
-    "url": "https://fxrant.blogspot.com/2025/04/the-movie-mistake-mystery-from-revenge.html",
-    "points": 321,
-    "num_comments": 100,
+    "title": "Pope Francis has died",
+    "url": "https://www.reuters.com/world/pope-francis-has-died-vatican-says-video-statement-2025-04-21/",
+    "points": 825,
+    "num_comments": 622,
     "tags": [
       "story",
-      "author_CharlesW",
-      "story_43745141",
-      "front_page"
+      "author_phillipharris",
+      "story_43749405"
     ],
-    "author": "CharlesW",
-    "created_at": "2025-04-20T17:29:28Z",
-    "aiHeadline": "The movie mistake mystery from 'Revenge of the Sith': Because nothing says 'blockbuster' like a glaring error that took 20 years to notice."
+    "author": "phillipharris",
+    "created_at": "2025-04-21T08:00:14Z",
+    "aiHeadline": "Pope Francis Dies, Vatican Releases Statement That's Surprisingly Brevity."
   },
   {
-    "title": "Things Zig comptime won't do",
-    "url": "https://matklad.github.io/2025/04/19/things-zig-comptime-wont-do.html",
-    "points": 296,
-    "num_comments": 110,
+    "title": "Python’s new t-strings",
+    "url": "https://davepeck.org/2025/04/11/pythons-new-t-strings/",
+    "points": 551,
+    "num_comments": 412,
     "tags": [
       "story",
-      "author_JadedBlueEyes",
-      "story_43744591",
-      "front_page"
+      "author_tambourine_man",
+      "story_43748512"
     ],
-    "author": "JadedBlueEyes",
-    "created_at": "2025-04-20T15:57:37Z",
-    "aiHeadline": "Things Zig comptime won't do: Apparently, it can't figure out why you're still using it when other languages have already solved your problems."
+    "author": "tambourine_man",
+    "created_at": "2025-04-21T04:31:35Z",
+    "aiHeadline": "Python Introduces T-Strings, Because Why Have One Feature When You Can Have Two?"
   },
   {
-    "title": "100 Years to Solve an Integral (2020)",
-    "url": "https://liorsinai.github.io/mathematics/2020/08/27/secant-mercator.html",
-    "points": 202,
-    "num_comments": 56,
+    "title": "The effect of deactivating Facebook and Instagram on users' emotional state",
+    "url": "https://www.nber.org/papers/w33697",
+    "points": 441,
+    "num_comments": 443,
     "tags": [
       "story",
-      "author_blobcode",
-      "story_43741273",
-      "front_page"
+      "author_imakwana",
+      "story_43748486"
     ],
-    "author": "blobcode",
-    "created_at": "2025-04-20T03:16:42Z",
-    "aiHeadline": "100 Years to Solve an Integral (2020): Because math is hard, and apparently, we're all just a bunch of slow learners."
+    "author": "imakwana",
+    "created_at": "2025-04-21T04:24:15Z",
+    "aiHeadline": "Study Finds Deactivating Facebook and Instagram Actually Makes People Happier, Shocking No One."
   },
   {
-    "title": "Why is OpenAI buying Windsurf?",
-    "url": "https://theahura.substack.com/p/tech-things-openai-buys-windsurf",
-    "points": 191,
-    "num_comments": 183,
+    "title": "Reverse engineering the obfuscated TikTok VM",
+    "url": "https://github.com/LukasOgunfeitimi/TikTok-ReverseEngineering",
+    "points": 384,
+    "num_comments": 108,
     "tags": [
       "story",
-      "author_theahura",
-      "story_43743993"
+      "author_xfeeefeee",
+      "story_43747921"
     ],
-    "author": "theahura",
-    "created_at": "2025-04-20T14:28:20Z",
-    "aiHeadline": "Why is OpenAI buying Windsurf? Because clearly, the future of AI lies in... windsurfing? Or maybe they're just trying to get into the water sports business."
+    "author": "xfeeefeee",
+    "created_at": "2025-04-21T01:59:03Z",
+    "aiHeadline": "Researchers Reverse Engineer TikTok's Obfuscated VM, Because Who Needs Sleep When You Can Just Debug All Night?"
   }
 ]
