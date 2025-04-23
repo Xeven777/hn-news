@@ -1,73 +1,74 @@
 [
   {
-    "title": "Getting forked by Microsoft",
-    "url": "https://philiplaine.com/posts/getting-forked-by-microsoft/",
-    "points": 1559,
-    "num_comments": 821,
+    "title": "Whistleblower: DOGE Siphoned NLRB Case Data",
+    "url": "https://krebsonsecurity.com/2025/04/whistleblower-doge-siphoned-nlrb-case-data/",
+    "points": 778,
+    "num_comments": 431,
     "tags": [
       "story",
-      "author_phillebaba",
-      "story_43750535",
+      "author_whalesalad",
+      "story_43760801"
+    ],
+    "author": "whalesalad",
+    "created_at": "2025-04-22T11:04:55Z",
+    "aiHeadline": "DOGE: Now Siphoning Government Data, One Meme at a Time"
+  },
+  {
+    "title": "Attacking My Landlord's Boiler",
+    "url": "https://blog.videah.net/attacking-my-landlords-boiler/",
+    "points": 350,
+    "num_comments": 189,
+    "tags": [
+      "story",
+      "author_ericvolp12",
+      "story_43759073"
+    ],
+    "author": "ericvolp12",
+    "created_at": "2025-04-22T04:27:40Z",
+    "aiHeadline": "Hackers Target Landlords' Boilers: Because Why Not? They're Basically Internet-Connected Furnaces Now"
+  },
+  {
+    "title": "Supabase raises $200M Series D at $2B valuation",
+    "url": "https://finance.yahoo.com/news/exclusive-supabase-raises-200-million-112154867.html",
+    "points": 291,
+    "num_comments": 260,
+    "tags": [
+      "story",
+      "author_baristaGeek",
+      "story_43763225"
+    ],
+    "author": "baristaGeek",
+    "created_at": "2025-04-22T15:17:23Z",
+    "aiHeadline": "Supabase Raises $200M, Proving That Rust and Remote Work Are the New Gold"
+  },
+  {
+    "title": "Sapphire: Rust based package manager for macOS (Homebrew replacement)",
+    "url": "https://github.com/alexykn/sapphire",
+    "points": 263,
+    "num_comments": 194,
+    "tags": [
+      "story",
+      "author_adamnemecek",
+      "story_43765011",
       "front_page"
     ],
-    "author": "phillebaba",
-    "created_at": "2025-04-21T11:05:44Z",
-    "aiHeadline": "Microsoft Forks Open Source Project, Because Who Needs Community When You Can Just Take Over?"
+    "author": "adamnemecek",
+    "created_at": "2025-04-22T18:39:20Z",
+    "aiHeadline": "Sapphire: The Rust-Based Package Manager for macOS, Because Homebrew Wasn't Already Good Enough"
   },
   {
-    "title": "Pope Francis has died",
-    "url": "https://www.reuters.com/world/pope-francis-has-died-vatican-says-video-statement-2025-04-21/",
-    "points": 825,
-    "num_comments": 622,
+    "title": "Atuin Desktop: Runbooks That Run",
+    "url": "https://blog.atuin.sh/atuin-desktop-runbooks-that-run/",
+    "points": 227,
+    "num_comments": 55,
     "tags": [
       "story",
-      "author_phillipharris",
-      "story_43749405"
+      "author_freetonik",
+      "story_43766200",
+      "front_page"
     ],
-    "author": "phillipharris",
-    "created_at": "2025-04-21T08:00:14Z",
-    "aiHeadline": "Pope Francis Dies, Vatican Releases Statement That's Surprisingly Brevity."
-  },
-  {
-    "title": "Python’s new t-strings",
-    "url": "https://davepeck.org/2025/04/11/pythons-new-t-strings/",
-    "points": 551,
-    "num_comments": 412,
-    "tags": [
-      "story",
-      "author_tambourine_man",
-      "story_43748512"
-    ],
-    "author": "tambourine_man",
-    "created_at": "2025-04-21T04:31:35Z",
-    "aiHeadline": "Python Introduces T-Strings, Because Why Have One Feature When You Can Have Two?"
-  },
-  {
-    "title": "The effect of deactivating Facebook and Instagram on users' emotional state",
-    "url": "https://www.nber.org/papers/w33697",
-    "points": 441,
-    "num_comments": 443,
-    "tags": [
-      "story",
-      "author_imakwana",
-      "story_43748486"
-    ],
-    "author": "imakwana",
-    "created_at": "2025-04-21T04:24:15Z",
-    "aiHeadline": "Study Finds Deactivating Facebook and Instagram Actually Makes People Happier, Shocking No One."
-  },
-  {
-    "title": "Reverse engineering the obfuscated TikTok VM",
-    "url": "https://github.com/LukasOgunfeitimi/TikTok-ReverseEngineering",
-    "points": 384,
-    "num_comments": 108,
-    "tags": [
-      "story",
-      "author_xfeeefeee",
-      "story_43747921"
-    ],
-    "author": "xfeeefeee",
-    "created_at": "2025-04-21T01:59:03Z",
-    "aiHeadline": "Researchers Reverse Engineer TikTok's Obfuscated VM, Because Who Needs Sleep When You Can Just Debug All Night?"
+    "author": "freetonik",
+    "created_at": "2025-04-22T20:54:52Z",
+    "aiHeadline": "Atuin Desktop: Runbooks That Actually Run, Because Who Needs Documentation Anyway?"
   }
 ]
