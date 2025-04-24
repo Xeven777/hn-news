@@ -1,74 +1,76 @@
 [
   {
-    "title": "Whistleblower: DOGE Siphoned NLRB Case Data",
-    "url": "https://krebsonsecurity.com/2025/04/whistleblower-doge-siphoned-nlrb-case-data/",
-    "points": 778,
-    "num_comments": 431,
+    "title": "How a 20 year old bug in GTA San Andreas surfaced in Windows 11 24H2",
+    "url": "https://cookieplmonster.github.io/2025/04/23/gta-san-andreas-win11-24h2-bug/",
+    "points": 903,
+    "num_comments": 204,
     "tags": [
       "story",
-      "author_whalesalad",
-      "story_43760801"
-    ],
-    "author": "whalesalad",
-    "created_at": "2025-04-22T11:04:55Z",
-    "aiHeadline": "DOGE: Now Siphoning Government Data, One Meme at a Time"
-  },
-  {
-    "title": "Attacking My Landlord's Boiler",
-    "url": "https://blog.videah.net/attacking-my-landlords-boiler/",
-    "points": 350,
-    "num_comments": 189,
-    "tags": [
-      "story",
-      "author_ericvolp12",
-      "story_43759073"
-    ],
-    "author": "ericvolp12",
-    "created_at": "2025-04-22T04:27:40Z",
-    "aiHeadline": "Hackers Target Landlords' Boilers: Because Why Not? They're Basically Internet-Connected Furnaces Now"
-  },
-  {
-    "title": "Supabase raises $200M Series D at $2B valuation",
-    "url": "https://finance.yahoo.com/news/exclusive-supabase-raises-200-million-112154867.html",
-    "points": 291,
-    "num_comments": 260,
-    "tags": [
-      "story",
-      "author_baristaGeek",
-      "story_43763225"
-    ],
-    "author": "baristaGeek",
-    "created_at": "2025-04-22T15:17:23Z",
-    "aiHeadline": "Supabase Raises $200M, Proving That Rust and Remote Work Are the New Gold"
-  },
-  {
-    "title": "Sapphire: Rust based package manager for macOS (Homebrew replacement)",
-    "url": "https://github.com/alexykn/sapphire",
-    "points": 263,
-    "num_comments": 194,
-    "tags": [
-      "story",
-      "author_adamnemecek",
-      "story_43765011",
+      "author_yett",
+      "story_43772311",
       "front_page"
     ],
-    "author": "adamnemecek",
-    "created_at": "2025-04-22T18:39:20Z",
-    "aiHeadline": "Sapphire: The Rust-Based Package Manager for macOS, Because Homebrew Wasn't Already Good Enough"
+    "author": "yett",
+    "created_at": "2025-04-23T14:00:11Z",
+    "aiHeadline": "Who knew a 20-year-old GTA San Andreas glitch would be the highlight of Windows 11's latest update? Tech progress at its finest!"
   },
   {
-    "title": "Atuin Desktop: Runbooks That Run",
-    "url": "https://blog.atuin.sh/atuin-desktop-runbooks-that-run/",
-    "points": 227,
-    "num_comments": 55,
+    "title": "You wouldn't steal a font",
+    "url": "https://fedi.rib.gay/notes/a6xqityngfubsz0f",
+    "points": 696,
+    "num_comments": 208,
     "tags": [
       "story",
-      "author_freetonik",
-      "story_43766200",
+      "author_todsacerdoti",
+      "story_43775926",
       "front_page"
     ],
-    "author": "freetonik",
-    "created_at": "2025-04-22T20:54:52Z",
-    "aiHeadline": "Atuin Desktop: Runbooks That Actually Run, Because Who Needs Documentation Anyway?"
+    "author": "todsacerdoti",
+    "created_at": "2025-04-23T19:42:36Z",
+    "aiHeadline": "You wouldn't steal a font, would you? Because that's basically the digital equivalent of stealing a Picasso, but with less drama."
+  },
+  {
+    "title": "DOGE Worker’s Code Supports NLRB Whistleblower",
+    "url": "https://krebsonsecurity.com/2025/04/doge-workers-code-supports-nlrb-whistleblower/",
+    "points": 619,
+    "num_comments": 315,
+    "tags": [
+      "story",
+      "author_todsacerdoti",
+      "story_43776476",
+      "front_page"
+    ],
+    "author": "todsacerdoti",
+    "created_at": "2025-04-23T20:48:57Z",
+    "aiHeadline": "DOGE worker's code supports NLRB whistleblower: Because even in the world of cryptocurrency, someone has to blow the whistle on the rest of the crypto bros."
+  },
+  {
+    "title": "AI Horseless Carriages",
+    "url": "https://koomen.dev/essays/horseless-carriages/",
+    "points": 468,
+    "num_comments": 316,
+    "tags": [
+      "story",
+      "author_petekoomen",
+      "story_43773813",
+      "front_page"
+    ],
+    "author": "petekoomen",
+    "created_at": "2025-04-23T16:19:56Z",
+    "aiHeadline": "AI horseless carriages: Because who needs horses when you can have self-driving carriages powered by AI? Progress, baby!"
+  },
+  {
+    "title": "Open Source Projects Receive Funding to Reclaim the Public Internet",
+    "url": "https://nlnet.nl/news/2025/20250422-announcement-grants-CommonsFund.html",
+    "points": 451,
+    "num_comments": 205,
+    "tags": [
+      "story",
+      "author_edent",
+      "story_43769482"
+    ],
+    "author": "edent",
+    "created_at": "2025-04-23T07:20:33Z",
+    "aiHeadline": "Open source projects receive funding to reclaim the public internet: Finally, someone's fighting the good fight against corporate overlords taking over our digital lives."
   }
 ]
