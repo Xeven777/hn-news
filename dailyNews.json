@@ -1,74 +1,74 @@
 [
   {
-    "title": "Careless People",
-    "url": "https://pluralistic.net/2025/04/23/zuckerstreisand/#zdgaf",
-    "points": 768,
-    "num_comments": 403,
+    "title": "A $20k American-made electric pickup with no paint, no stereo, no screen",
+    "url": "https://www.theverge.com/electric-cars/655527/slate-electric-truck-price-paint-radio-bezos",
+    "points": 943,
+    "num_comments": 871,
     "tags": [
       "story",
-      "author_Aldipower",
-      "story_43780363"
-    ],
-    "author": "Aldipower",
-    "created_at": "2025-04-24T08:17:11Z",
-    "aiHeadline": "Careless People: Because nothing says 'I care about privacy' like sharing your data with a tech giant who's already famous for being careless with it."
-  },
-  {
-    "title": "I wrote to the address in the GPLv2 license notice (2022)",
-    "url": "https://code.mendhak.com/gpl-v2-address-letter/",
-    "points": 564,
-    "num_comments": 448,
-    "tags": [
-      "story",
-      "author_ekiauhce",
-      "story_43781888",
+      "author_kwindla",
+      "story_43794284",
       "front_page"
     ],
-    "author": "ekiauhce",
-    "created_at": "2025-04-24T12:26:38Z",
-    "aiHeadline": "I wrote to the address in the GPLv2 license notice (2022): Because who doesn't want to send a letter to an address that's been obsolete for decades? Now we know what happens when you do."
+    "author": "kwindla",
+    "created_at": "2025-04-25T15:01:37Z",
+    "aiHeadline": "A $20k American-made electric pickup truck with no paint, no stereo, and no screen—because why bother with the basics when you can be eco-friendly and minimalist?"
   },
   {
-    "title": "Mark Zuckerberg says social media is over",
-    "url": "https://www.newyorker.com/culture/infinite-scroll/mark-zuckerberg-says-social-media-is-over",
-    "points": 423,
-    "num_comments": 756,
+    "title": "FBI arrests judge accused of helping man evade immigration authorities",
+    "url": "https://apnews.com/article/immigration-judge-arrested-7997186bbca5730e70a25f2347e631f6",
+    "points": 916,
+    "num_comments": 815,
     "tags": [
       "story",
-      "author_FinnLobsien",
-      "story_43780377",
+      "author_eterps",
+      "story_43794576"
+    ],
+    "author": "eterps",
+    "created_at": "2025-04-25T15:25:35Z",
+    "aiHeadline": "FBI arrests judge accused of helping a man evade immigration authorities—because even judges need to be reminded of the law, apparently."
+  },
+  {
+    "title": "Writing \"/etc/hosts\" breaks the Substack editor",
+    "url": "https://scalewithlee.substack.com/p/when-etchsts-breaks-your-substack",
+    "points": 478,
+    "num_comments": 274,
+    "tags": [
+      "story",
+      "author_scalewithlee",
+      "story_43793526",
       "front_page"
     ],
-    "author": "FinnLobsien",
-    "created_at": "2025-04-24T08:19:23Z",
-    "aiHeadline": "Mark Zuckerberg says social media is over: Because after years of ruining privacy and addicting us all, who better to declare its death than the man who built it?"
+    "author": "scalewithlee",
+    "created_at": "2025-04-25T13:48:30Z",
+    "aiHeadline": "Writing '/etc/hosts' breaks the Substack editor—because sometimes even the simplest actions can cause a coding nightmare."
   },
   {
-    "title": "On loyalty to your employer (2018)",
-    "url": "https://medium.com/hackernoon/on-loyalty-to-your-employer-c674c4b06b3a",
-    "points": 376,
-    "num_comments": 409,
+    "title": "Notation as a Tool of Thought (1979)",
+    "url": "https://www.jsoftware.com/papers/tot.htm",
+    "points": 300,
+    "num_comments": 94,
     "tags": [
       "story",
-      "author_Peroni",
-      "story_43780815"
+      "author_susam",
+      "story_43789593"
     ],
-    "author": "Peroni",
-    "created_at": "2025-04-24T09:43:48Z",
-    "aiHeadline": "On loyalty to your employer (2018): Because why bother with loyalty when your employer is probably just waiting for you to make a mistake so they can fire you without a second thought."
+    "author": "susam",
+    "created_at": "2025-04-25T02:30:34Z",
+    "aiHeadline": "Notation as a Tool of Thought (1979)—because even in the digital age, some ideas are timeless, like how notation can shape your thinking."
   },
   {
-    "title": "Manufactured consensus on x.com",
-    "url": "https://rook2root.co/articles/20250424-manufacturing-consensus-on-x",
-    "points": 273,
-    "num_comments": 216,
+    "title": "DeepMind releases Lyria 2 music generation model",
+    "url": "https://deepmind.google/discover/blog/music-ai-sandbox-now-with-new-features-and-broader-access/",
+    "points": 289,
+    "num_comments": 412,
     "tags": [
       "story",
-      "author_cogitovirus",
-      "story_43784915"
+      "author_velcrobeg",
+      "story_43790093"
     ],
-    "author": "cogitovirus",
-    "created_at": "2025-04-24T16:57:08Z",
-    "aiHeadline": "Manufactured consensus on x.com: Because nothing says 'free speech' like a platform that carefully curates opinions to match its founder's views."
+    "author": "velcrobeg",
+    "created_at": "2025-04-25T04:25:15Z",
+    "aiHeadline": "DeepMind releases Lyria 2 music generation model—because who needs human creativity when you can have a robot maestro?"
   }
 ]
