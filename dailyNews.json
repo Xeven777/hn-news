@@ -1,74 +1,76 @@
 [
   {
-    "title": "A $20k American-made electric pickup with no paint, no stereo, no screen",
-    "url": "https://www.theverge.com/electric-cars/655527/slate-electric-truck-price-paint-radio-bezos",
-    "points": 943,
-    "num_comments": 871,
+    "title": "ICE Deports 3 U.S. Citizen Children Held Incommunicado Prior to the Deportation",
+    "url": "https://www.aclu.org/press-releases/ice-deports-3-u-s-citizen-children-held-incommunicado-prior-to-the-deportation",
+    "points": 669,
+    "num_comments": 664,
     "tags": [
       "story",
-      "author_kwindla",
-      "story_43794284",
+      "author_mandmandam",
+      "story_43801959"
+    ],
+    "author": "mandmandam",
+    "created_at": "2025-04-26T08:49:29Z",
+    "aiHeadline": "ICE Proves It's Better Than a Joke by Deporting 3 U.S. Citizen Kids Who Were Kept in the Dark Before Being shipped Off"
+  },
+  {
+    "title": "Watching o3 guess a photo's location is surreal, dystopian and entertaining",
+    "url": "https://simonwillison.net/2025/Apr/26/o3-photo-locations/",
+    "points": 648,
+    "num_comments": 306,
+    "tags": [
+      "story",
+      "author_simonw",
+      "story_43803243",
       "front_page"
     ],
-    "author": "kwindla",
-    "created_at": "2025-04-25T15:01:37Z",
-    "aiHeadline": "A $20k American-made electric pickup truck with no paint, no stereo, and no screen—because why bother with the basics when you can be eco-friendly and minimalist?"
+    "author": "simonw",
+    "created_at": "2025-04-26T13:04:08Z",
+    "aiHeadline": "o3 Guesses Photo Locations with the Accuracy of a Drunk Bird, and It's Both Creepy and Hilarious"
   },
   {
-    "title": "FBI arrests judge accused of helping man evade immigration authorities",
-    "url": "https://apnews.com/article/immigration-judge-arrested-7997186bbca5730e70a25f2347e631f6",
-    "points": 916,
-    "num_comments": 815,
+    "title": "An end to all this prostate trouble?",
+    "url": "https://yarchive.net/blog/prostate/",
+    "points": 507,
+    "num_comments": 224,
     "tags": [
       "story",
-      "author_eterps",
-      "story_43794576"
-    ],
-    "author": "eterps",
-    "created_at": "2025-04-25T15:25:35Z",
-    "aiHeadline": "FBI arrests judge accused of helping a man evade immigration authorities—because even judges need to be reminded of the law, apparently."
-  },
-  {
-    "title": "Writing \"/etc/hosts\" breaks the Substack editor",
-    "url": "https://scalewithlee.substack.com/p/when-etchsts-breaks-your-substack",
-    "points": 478,
-    "num_comments": 274,
-    "tags": [
-      "story",
-      "author_scalewithlee",
-      "story_43793526",
+      "author_bondarchuk",
+      "story_43801906",
       "front_page"
     ],
-    "author": "scalewithlee",
-    "created_at": "2025-04-25T13:48:30Z",
-    "aiHeadline": "Writing '/etc/hosts' breaks the Substack editor—because sometimes even the simplest actions can cause a coding nightmare."
+    "author": "bondarchuk",
+    "created_at": "2025-04-26T08:39:29Z",
+    "aiHeadline": "Finally, a Cure for Prostate Issues: Just Stop Existing Because Apparently, That's the Only Way to Avoid This"
   },
   {
-    "title": "Notation as a Tool of Thought (1979)",
-    "url": "https://www.jsoftware.com/papers/tot.htm",
-    "points": 300,
-    "num_comments": 94,
+    "title": "Cloth",
+    "url": "https://www.cloudofoz.com/verlet-test/",
+    "points": 415,
+    "num_comments": 48,
     "tags": [
       "story",
-      "author_susam",
-      "story_43789593"
+      "author_memalign",
+      "story_43801179",
+      "front_page"
     ],
-    "author": "susam",
-    "created_at": "2025-04-25T02:30:34Z",
-    "aiHeadline": "Notation as a Tool of Thought (1979)—because even in the digital age, some ideas are timeless, like how notation can shape your thinking."
+    "author": "memalign",
+    "created_at": "2025-04-26T05:31:52Z",
+    "aiHeadline": "Cloth: The Latest Tech Innovation That's Basically a Sheet, But Now It's Trendy and Overpriced"
   },
   {
-    "title": "DeepMind releases Lyria 2 music generation model",
-    "url": "https://deepmind.google/discover/blog/music-ai-sandbox-now-with-new-features-and-broader-access/",
-    "points": 289,
-    "num_comments": 412,
+    "title": "The Friendship Recession: The lost art of connecting",
+    "url": "https://www.happiness.hks.harvard.edu/february-2025-issue/the-friendship-recession-the-lost-art-of-connecting",
+    "points": 360,
+    "num_comments": 281,
     "tags": [
       "story",
-      "author_velcrobeg",
-      "story_43790093"
+      "author_47thpresident",
+      "story_43802727",
+      "front_page"
     ],
-    "author": "velcrobeg",
-    "created_at": "2025-04-25T04:25:15Z",
-    "aiHeadline": "DeepMind releases Lyria 2 music generation model—because who needs human creativity when you can have a robot maestro?"
+    "author": "47thpresident",
+    "created_at": "2025-04-26T11:41:21Z",
+    "aiHeadline": "Friendship Recession: Because Who Needs Friends When You Can Have Algorithms and Muted Instagram Posts?"
   }
 ]
