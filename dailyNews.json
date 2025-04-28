@@ -1,76 +1,73 @@
 [
   {
-    "title": "ICE Deports 3 U.S. Citizen Children Held Incommunicado Prior to the Deportation",
-    "url": "https://www.aclu.org/press-releases/ice-deports-3-u-s-citizen-children-held-incommunicado-prior-to-the-deportation",
-    "points": 669,
-    "num_comments": 664,
+    "title": "CSS Zen Garden",
+    "url": "https://csszengarden.com/",
+    "points": 290,
+    "num_comments": 127,
     "tags": [
       "story",
-      "author_mandmandam",
-      "story_43801959"
+      "author_onat1",
+      "story_43809484"
     ],
-    "author": "mandmandam",
-    "created_at": "2025-04-26T08:49:29Z",
-    "aiHeadline": "ICE Proves It's Better Than a Joke by Deporting 3 U.S. Citizen Kids Who Were Kept in the Dark Before Being shipped Off"
+    "author": "onat1",
+    "created_at": "2025-04-27T04:44:43Z",
+    "aiHeadline": "CSS Zen Garden: Where Designers Go to Meditate on Why Their Code Doesn't Work"
   },
   {
-    "title": "Watching o3 guess a photo's location is surreal, dystopian and entertaining",
-    "url": "https://simonwillison.net/2025/Apr/26/o3-photo-locations/",
-    "points": 648,
-    "num_comments": 306,
+    "title": "We're building a dystopia just to make people click on ads [video]",
+    "url": "https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads",
+    "points": 262,
+    "num_comments": 222,
     "tags": [
       "story",
-      "author_simonw",
-      "story_43803243",
-      "front_page"
+      "author_ColinWright",
+      "story_43812379"
     ],
-    "author": "simonw",
-    "created_at": "2025-04-26T13:04:08Z",
-    "aiHeadline": "o3 Guesses Photo Locations with the Accuracy of a Drunk Bird, and It's Both Creepy and Hilarious"
+    "author": "ColinWright",
+    "created_at": "2025-04-27T14:56:56Z",
+    "aiHeadline": "We're Building a Dystopian Future, One Clickbait Ad at a Time"
   },
   {
-    "title": "An end to all this prostate trouble?",
-    "url": "https://yarchive.net/blog/prostate/",
-    "points": 507,
-    "num_comments": 224,
+    "title": "Show HN: Remote-Controlled IKEA Deathstar Lamp",
+    "url": "https://gitlab.com/sephalon/deathstar_lamp",
+    "points": 260,
+    "num_comments": 51,
     "tags": [
       "story",
-      "author_bondarchuk",
-      "story_43801906",
-      "front_page"
+      "author_sephalon",
+      "story_43809841",
+      "show_hn"
     ],
-    "author": "bondarchuk",
-    "created_at": "2025-04-26T08:39:29Z",
-    "aiHeadline": "Finally, a Cure for Prostate Issues: Just Stop Existing Because Apparently, That's the Only Way to Avoid This"
+    "author": "sephalon",
+    "created_at": "2025-04-27T06:25:44Z",
+    "aiHeadline": "IKEA Deathstar Lamp: Because Who Doesn't Want to Rule the Galaxy from Their Living Room?"
   },
   {
-    "title": "Cloth",
-    "url": "https://www.cloudofoz.com/verlet-test/",
-    "points": 415,
-    "num_comments": 48,
+    "title": "Open-source interactive C tutorial in the browser",
+    "url": "https://www.learn-c.org/",
+    "points": 233,
+    "num_comments": 45,
     "tags": [
       "story",
-      "author_memalign",
-      "story_43801179",
-      "front_page"
+      "author_Buttons840",
+      "story_43809092"
     ],
-    "author": "memalign",
-    "created_at": "2025-04-26T05:31:52Z",
-    "aiHeadline": "Cloth: The Latest Tech Innovation That's Basically a Sheet, But Now It's Trendy and Overpriced"
+    "author": "Buttons840",
+    "created_at": "2025-04-27T02:52:18Z",
+    "aiHeadline": "Learn C the Hard Way: Because Who Needs Sleep When You Can Debug Pointers All Night?"
   },
   {
-    "title": "The Friendship Recession: The lost art of connecting",
-    "url": "https://www.happiness.hks.harvard.edu/february-2025-issue/the-friendship-recession-the-lost-art-of-connecting",
-    "points": 360,
-    "num_comments": 281,
+    "title": "How to program a text adventure in C",
+    "url": "https://helderman.github.io/htpataic/htpataic01.html",
+    "points": 231,
+    "num_comments": 43,
     "tags": [
       "story",
-      "author_47thpresident",
-      "story_43802727",
-      "front_page"
+      "author_nivethan",
+      "story_43809638"
     ],
-    "author": "47thpresident",
-    "created_at": "2025-04-26T11:41:21Z",
-    "aiHeadline": "Friendship Recession: Because Who Needs Friends When You Can Have Algorithms and Muted Instagram Posts?"
+    "author": "nivethan",
+    "created_at": "2025-04-27T05:25:51Z",
+    "aiHeadline": "Text Adventures Are Back, and This Time, They're Written in C Because Nostalgia Isn't Retro Enough"
   }
 ]
