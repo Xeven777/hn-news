@@ -1,73 +1,77 @@
 [
   {
-    "title": "CSS Zen Garden",
-    "url": "https://csszengarden.com/",
-    "points": 290,
-    "num_comments": 127,
+    "title": "Widespread power outage in Spain and Portugal",
+    "url": "https://www.bbc.com/news/live/c9wpq8xrvd9t",
+    "points": 1214,
+    "num_comments": 895,
     "tags": [
       "story",
-      "author_onat1",
-      "story_43809484"
+      "author_lleims",
+      "story_43819791",
+      "front_page"
     ],
-    "author": "onat1",
-    "created_at": "2025-04-27T04:44:43Z",
-    "aiHeadline": "CSS Zen Garden: Where Designers Go to Meditate on Why Their Code Doesn't Work"
+    "author": "lleims",
+    "created_at": "2025-04-28T10:50:58Z",
+    "aiHeadline": "Spain and Portugal experience massive power outage, proving that even in the 21st century, governments can still manage to turn the lights out on millions of people while somehow managing to keep their own offices illuminated."
   },
   {
-    "title": "We're building a dystopia just to make people click on ads [video]",
-    "url": "https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads",
-    "points": 262,
-    "num_comments": 222,
+    "title": "Show HN: I built a hardware processor that runs Python",
+    "url": "https://www.runpyxl.com/gpio",
+    "points": 829,
+    "num_comments": 224,
     "tags": [
       "story",
-      "author_ColinWright",
-      "story_43812379"
+      "author_hwpythonner",
+      "story_43820228",
+      "show_hn",
+      "front_page"
     ],
-    "author": "ColinWright",
-    "created_at": "2025-04-27T14:56:56Z",
-    "aiHeadline": "We're Building a Dystopian Future, One Clickbait Ad at a Time"
+    "author": "hwpythonner",
+    "created_at": "2025-04-28T11:44:54Z",
+    "aiHeadline": "Show HN: I built a hardware processor that runs Python, because clearly the world needs more ways to run Python even slower."
   },
   {
-    "title": "Show HN: Remote-Controlled IKEA Deathstar Lamp",
-    "url": "https://gitlab.com/sephalon/deathstar_lamp",
-    "points": 260,
-    "num_comments": 51,
+    "title": "Migrating away from Rust",
+    "url": "https://deadmoney.gg/news/articles/migrating-away-from-rust",
+    "points": 404,
+    "num_comments": 360,
     "tags": [
       "story",
-      "author_sephalon",
-      "story_43809841",
-      "show_hn"
+      "author_rc00",
+      "story_43824640",
+      "front_page"
     ],
-    "author": "sephalon",
-    "created_at": "2025-04-27T06:25:44Z",
-    "aiHeadline": "IKEA Deathstar Lamp: Because Who Doesn't Want to Rule the Galaxy from Their Living Room?"
+    "author": "rc00",
+    "created_at": "2025-04-28T18:47:36Z",
+    "aiHeadline": "Migrating away from Rust: because sometimes the only thing worse than debugging Rust is debugging Rust."
   },
   {
-    "title": "Open-source interactive C tutorial in the browser",
-    "url": "https://www.learn-c.org/",
-    "points": 233,
-    "num_comments": 45,
+    "title": "Qwen3: Think deeper, act faster",
+    "url": "https://qwenlm.github.io/blog/qwen3/",
+    "points": 360,
+    "num_comments": 132,
     "tags": [
       "story",
-      "author_Buttons840",
-      "story_43809092"
+      "author_synthwave",
+      "story_43825900",
+      "front_page"
     ],
-    "author": "Buttons840",
-    "created_at": "2025-04-27T02:52:18Z",
-    "aiHeadline": "Learn C the Hard Way: Because Who Needs Sleep When You Can Debug Pointers All Night?"
+    "author": "synthwave",
+    "created_at": "2025-04-28T20:44:25Z",
+    "aiHeadline": "Qwen3: Think deeper, act faster, because apparently the previous versions were just too slow at being smarter than humans."
   },
   {
-    "title": "How to program a text adventure in C",
-    "url": "https://helderman.github.io/htpataic/htpataic01.html",
-    "points": 231,
-    "num_comments": 43,
+    "title": "Reports of widespread power cuts in Spain and Portugal",
+    "url": "https://www.bbc.com/news/live/c9wpq8xrvd9t",
+    "points": 325,
+    "num_comments": 19,
     "tags": [
       "story",
-      "author_nivethan",
-      "story_43809638"
+      "author_ksec",
+      "story_43820043"
     ],
-    "author": "nivethan",
-    "created_at": "2025-04-27T05:25:51Z",
-    "aiHeadline": "Text Adventures Are Back, and This Time, They're Written in C Because Nostalgia Isn't Retro Enough"
+    "author": "ksec",
+    "created_at": "2025-04-28T11:26:34Z",
+    "aiHeadline": "Reports of widespread power cuts in Spain and Portugal, because apparently the first report wasn't dramatic enough, so here's another one to really drive the point home."
   }
 ]
