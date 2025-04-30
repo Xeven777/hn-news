@@ -1,77 +1,75 @@
 [
   {
-    "title": "Widespread power outage in Spain and Portugal",
-    "url": "https://www.bbc.com/news/live/c9wpq8xrvd9t",
-    "points": 1214,
-    "num_comments": 895,
+    "title": "LibreLingo – FOSS Alternative to Duolingo",
+    "url": "https://librelingo.app",
+    "points": 684,
+    "num_comments": 310,
     "tags": [
       "story",
-      "author_lleims",
-      "story_43819791",
+      "author_hyperific",
+      "story_43829035",
       "front_page"
     ],
-    "author": "lleims",
-    "created_at": "2025-04-28T10:50:58Z",
-    "aiHeadline": "Spain and Portugal experience massive power outage, proving that even in the 21st century, governments can still manage to turn the lights out on millions of people while somehow managing to keep their own offices illuminated."
+    "author": "hyperific",
+    "created_at": "2025-04-29T05:45:53Z",
+    "aiHeadline": "LibreLingo: Because paying for language lessons is for suckers, and so is believing your data isn't being sold to advertisers."
   },
   {
-    "title": "Show HN: I built a hardware processor that runs Python",
-    "url": "https://www.runpyxl.com/gpio",
-    "points": 829,
-    "num_comments": 224,
+    "title": "Try Switching to Kagi",
+    "url": "https://daringfireball.net/2025/04/try_switching_to_kagi",
+    "points": 596,
+    "num_comments": 402,
     "tags": [
       "story",
-      "author_hwpythonner",
-      "story_43820228",
-      "show_hn",
+      "author_Ch00k",
+      "story_43829490"
+    ],
+    "author": "Ch00k",
+    "created_at": "2025-04-29T07:08:50Z",
+    "aiHeadline": "Try Switching to Kagi: The app that proves you don't need 100 features to do 10 things poorly."
+  },
+  {
+    "title": "Firefox tab groups are here",
+    "url": "https://blog.mozilla.org/en/firefox/tab-groups-community/",
+    "points": 515,
+    "num_comments": 309,
+    "tags": [
+      "story",
+      "author_TangerineDream",
+      "story_43834101",
       "front_page"
     ],
-    "author": "hwpythonner",
-    "created_at": "2025-04-28T11:44:54Z",
-    "aiHeadline": "Show HN: I built a hardware processor that runs Python, because clearly the world needs more ways to run Python even slower."
+    "author": "TangerineDream",
+    "created_at": "2025-04-29T15:37:10Z",
+    "aiHeadline": "Firefox tab groups are here: Finally, a feature that makes your browser feel like it's not from 2005."
   },
   {
-    "title": "Migrating away from Rust",
-    "url": "https://deadmoney.gg/news/articles/migrating-away-from-rust",
-    "points": 404,
-    "num_comments": 360,
+    "title": "Amazon to display tariff costs for consumers",
+    "url": "https://punchbowl.news/article/tech/amazon-display-tariff-costs/",
+    "points": 437,
+    "num_comments": 400,
     "tags": [
       "story",
-      "author_rc00",
-      "story_43824640",
+      "author_donohoe",
+      "story_43831027"
+    ],
+    "author": "donohoe",
+    "created_at": "2025-04-29T11:17:24Z",
+    "aiHeadline": "Amazon to display tariff costs for consumers: Because nothing says 'trust us' like showing you exactly how much more we're going to rip you off."
+  },
+  {
+    "title": "O3 beats a master-level GeoGuessr player, even with fake EXIF data",
+    "url": "https://sampatt.com/blog/2025-04-28-can-o3-beat-a-geoguessr-master",
+    "points": 375,
+    "num_comments": 262,
+    "tags": [
+      "story",
+      "author_bko",
+      "story_43835044",
       "front_page"
     ],
-    "author": "rc00",
-    "created_at": "2025-04-28T18:47:36Z",
-    "aiHeadline": "Migrating away from Rust: because sometimes the only thing worse than debugging Rust is debugging Rust."
-  },
-  {
-    "title": "Qwen3: Think deeper, act faster",
-    "url": "https://qwenlm.github.io/blog/qwen3/",
-    "points": 360,
-    "num_comments": 132,
-    "tags": [
-      "story",
-      "author_synthwave",
-      "story_43825900",
-      "front_page"
-    ],
-    "author": "synthwave",
-    "created_at": "2025-04-28T20:44:25Z",
-    "aiHeadline": "Qwen3: Think deeper, act faster, because apparently the previous versions were just too slow at being smarter than humans."
-  },
-  {
-    "title": "Reports of widespread power cuts in Spain and Portugal",
-    "url": "https://www.bbc.com/news/live/c9wpq8xrvd9t",
-    "points": 325,
-    "num_comments": 19,
-    "tags": [
-      "story",
-      "author_ksec",
-      "story_43820043"
-    ],
-    "author": "ksec",
-    "created_at": "2025-04-28T11:26:34Z",
-    "aiHeadline": "Reports of widespread power cuts in Spain and Portugal, because apparently the first report wasn't dramatic enough, so here's another one to really drive the point home."
+    "author": "bko",
+    "created_at": "2025-04-29T16:48:42Z",
+    "aiHeadline": "O3 beats a master-level GeoGuessr player, even with fake EXIF data: Proving once again that AI can do anything humans can, except maybe understand why you're still using Windows 98."
   }
 ]
