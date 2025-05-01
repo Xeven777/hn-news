@@ -1,75 +1,75 @@
 [
   {
-    "title": "LibreLingo – FOSS Alternative to Duolingo",
-    "url": "https://librelingo.app",
-    "points": 684,
-    "num_comments": 310,
+    "title": "Someone at YouTube needs glasses",
+    "url": "https://jayd.ml/2025/04/30/someone-at-youtube-needs-glasses.html",
+    "points": 1009,
+    "num_comments": 549,
     "tags": [
       "story",
-      "author_hyperific",
-      "story_43829035",
+      "author_jaydenmilne",
+      "story_43846487",
       "front_page"
     ],
-    "author": "hyperific",
-    "created_at": "2025-04-29T05:45:53Z",
-    "aiHeadline": "LibreLingo: Because paying for language lessons is for suckers, and so is believing your data isn't being sold to advertisers."
+    "author": "jaydenmilne",
+    "created_at": "2025-04-30T15:18:47Z",
+    "aiHeadline": "YouTube employee's monumental oversight: Could they have missed the 'preview' button? Let's hope they're not in charge of content moderation."
   },
   {
-    "title": "Try Switching to Kagi",
-    "url": "https://daringfireball.net/2025/04/try_switching_to_kagi",
-    "points": 596,
-    "num_comments": 402,
+    "title": "Finland Bans Smartphones in Schools",
+    "url": "https://yle.fi/a/74-20158886",
+    "points": 720,
+    "num_comments": 442,
     "tags": [
       "story",
-      "author_Ch00k",
-      "story_43829490"
+      "author_freetonik",
+      "story_43842856"
     ],
-    "author": "Ch00k",
-    "created_at": "2025-04-29T07:08:50Z",
-    "aiHeadline": "Try Switching to Kagi: The app that proves you don't need 100 features to do 10 things poorly."
+    "author": "freetonik",
+    "created_at": "2025-04-30T09:17:30Z",
+    "aiHeadline": "Finland takes a bold step backward by banning smartphones in schools, ensuring students can't Google their homework or scroll through TikTok during class."
   },
   {
-    "title": "Firefox tab groups are here",
-    "url": "https://blog.mozilla.org/en/firefox/tab-groups-community/",
-    "points": 515,
-    "num_comments": 309,
+    "title": "Port of Los Angeles says shipping volume will plummet 35% next week",
+    "url": "https://www.cnbc.com/2025/04/29/port-of-los-angeles-sees-shipping-volume-down-35percent-next-week-as-tariffs-bite.html",
+    "points": 664,
+    "num_comments": 574,
     "tags": [
       "story",
-      "author_TangerineDream",
-      "story_43834101",
+      "author_perihelions",
+      "story_43844708"
+    ],
+    "author": "perihelions",
+    "created_at": "2025-04-30T13:07:45Z",
+    "aiHeadline": "Port of Los Angeles braces for a 35% shipping plunge—goodbye, imports! Expect your online orders to take a nosedive into the abyss of logistics hell."
+  },
+  {
+    "title": "I created Perfect Wiki and reached $250k in annual revenue without investors",
+    "url": "https://habr.com/en/articles/905812/",
+    "points": 554,
+    "num_comments": 319,
+    "tags": [
+      "story",
+      "author_sochix",
+      "story_43842306",
       "front_page"
     ],
-    "author": "TangerineDream",
-    "created_at": "2025-04-29T15:37:10Z",
-    "aiHeadline": "Firefox tab groups are here: Finally, a feature that makes your browser feel like it's not from 2005."
+    "author": "sochix",
+    "created_at": "2025-04-30T07:45:51Z",
+    "aiHeadline": "Perfect Wiki creator strikes gold, raking in $250k annually without investors—because who needs venture capital when you've got a flawless knowledge repository?"
   },
   {
-    "title": "Amazon to display tariff costs for consumers",
-    "url": "https://punchbowl.news/article/tech/amazon-display-tariff-costs/",
-    "points": 437,
-    "num_comments": 400,
+    "title": "Sycophancy in GPT-4o",
+    "url": "https://openai.com/index/sycophancy-in-gpt-4o/",
+    "points": 489,
+    "num_comments": 399,
     "tags": [
       "story",
-      "author_donohoe",
-      "story_43831027"
-    ],
-    "author": "donohoe",
-    "created_at": "2025-04-29T11:17:24Z",
-    "aiHeadline": "Amazon to display tariff costs for consumers: Because nothing says 'trust us' like showing you exactly how much more we're going to rip you off."
-  },
-  {
-    "title": "O3 beats a master-level GeoGuessr player, even with fake EXIF data",
-    "url": "https://sampatt.com/blog/2025-04-28-can-o3-beat-a-geoguessr-master",
-    "points": 375,
-    "num_comments": 262,
-    "tags": [
-      "story",
-      "author_bko",
-      "story_43835044",
+      "author_dsr12",
+      "story_43840842",
       "front_page"
     ],
-    "author": "bko",
-    "created_at": "2025-04-29T16:48:42Z",
-    "aiHeadline": "O3 beats a master-level GeoGuessr player, even with fake EXIF data: Proving once again that AI can do anything humans can, except maybe understand why you're still using Windows 98."
+    "author": "dsr12",
+    "created_at": "2025-04-30T03:06:26Z",
+    "aiHeadline": "GPT-4o's sycophantic streak is strong with this one, proving that AI can be as two-faced as your average office yes-man, but at least it doesn't need coffee breaks."
   }
 ]
