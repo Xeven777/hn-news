@@ -1,75 +1,77 @@
 [
   {
-    "title": "Someone at YouTube needs glasses",
-    "url": "https://jayd.ml/2025/04/30/someone-at-youtube-needs-glasses.html",
-    "points": 1009,
-    "num_comments": 549,
+    "title": "Redis is open source again",
+    "url": "https://antirez.com/news/151",
+    "points": 1206,
+    "num_comments": 430,
     "tags": [
       "story",
-      "author_jaydenmilne",
-      "story_43846487",
+      "author_antirez",
+      "story_43859446",
       "front_page"
     ],
-    "author": "jaydenmilne",
-    "created_at": "2025-04-30T15:18:47Z",
-    "aiHeadline": "YouTube employee's monumental oversight: Could they have missed the 'preview' button? Let's hope they're not in charge of content moderation."
+    "author": "antirez",
+    "created_at": "2025-05-01T15:56:35Z",
+    "aiHeadline": "Redis: Back to the open-source game after a brief detour into... whatever it was doing before."
   },
   {
-    "title": "Finland Bans Smartphones in Schools",
-    "url": "https://yle.fi/a/74-20158886",
-    "points": 720,
-    "num_comments": 442,
+    "title": "Judge rules Apple executive lied under oath, makes criminal contempt referral",
+    "url": "https://www.thebignewsletter.com/p/judge-rules-apple-executive-lied",
+    "points": 815,
+    "num_comments": 271,
     "tags": [
       "story",
-      "author_freetonik",
-      "story_43842856"
-    ],
-    "author": "freetonik",
-    "created_at": "2025-04-30T09:17:30Z",
-    "aiHeadline": "Finland takes a bold step backward by banning smartphones in schools, ensuring students can't Google their homework or scroll through TikTok during class."
-  },
-  {
-    "title": "Port of Los Angeles says shipping volume will plummet 35% next week",
-    "url": "https://www.cnbc.com/2025/04/29/port-of-los-angeles-sees-shipping-volume-down-35percent-next-week-as-tariffs-bite.html",
-    "points": 664,
-    "num_comments": 574,
-    "tags": [
-      "story",
-      "author_perihelions",
-      "story_43844708"
-    ],
-    "author": "perihelions",
-    "created_at": "2025-04-30T13:07:45Z",
-    "aiHeadline": "Port of Los Angeles braces for a 35% shipping plunge—goodbye, imports! Expect your online orders to take a nosedive into the abyss of logistics hell."
-  },
-  {
-    "title": "I created Perfect Wiki and reached $250k in annual revenue without investors",
-    "url": "https://habr.com/en/articles/905812/",
-    "points": 554,
-    "num_comments": 319,
-    "tags": [
-      "story",
-      "author_sochix",
-      "story_43842306",
+      "author_connor11528",
+      "story_43856795",
       "front_page"
     ],
-    "author": "sochix",
-    "created_at": "2025-04-30T07:45:51Z",
-    "aiHeadline": "Perfect Wiki creator strikes gold, raking in $250k annually without investors—because who needs venture capital when you've got a flawless knowledge repository?"
+    "author": "connor11528",
+    "created_at": "2025-05-01T12:27:51Z",
+    "aiHeadline": "Apple exec's testimony: So convincing, a judge had to rule it was all a lie."
   },
   {
-    "title": "Sycophancy in GPT-4o",
-    "url": "https://openai.com/index/sycophancy-in-gpt-4o/",
-    "points": 489,
-    "num_comments": 399,
+    "title": "Starting July 1, academic publishers can't paywall NIH-funded research",
+    "url": "https://www.nih.gov/about-nih/who-we-are/nih-director/statements/accelerating-access-research-results-new-implementation-date-2024-nih-public-access-policy",
+    "points": 430,
+    "num_comments": 68,
     "tags": [
       "story",
-      "author_dsr12",
-      "story_43840842",
+      "author_m463",
+      "story_43858568",
       "front_page"
     ],
-    "author": "dsr12",
-    "created_at": "2025-04-30T03:06:26Z",
-    "aiHeadline": "GPT-4o's sycophantic streak is strong with this one, proving that AI can be as two-faced as your average office yes-man, but at least it doesn't need coffee breaks."
+    "author": "m463",
+    "created_at": "2025-05-01T15:01:44Z",
+    "aiHeadline": "Academic publishers: Now you can't paywall NIH-funded research. Goodbye, cash cow! Hello, public access!"
+  },
+  {
+    "title": "A faster way to copy SQLite databases between computers",
+    "url": "https://alexwlchan.net/2025/copying-sqlite-databases/",
+    "points": 425,
+    "num_comments": 166,
+    "tags": [
+      "story",
+      "author_ingve",
+      "story_43856186",
+      "front_page"
+    ],
+    "author": "ingve",
+    "created_at": "2025-05-01T11:15:08Z",
+    "aiHeadline": "Copying SQLite databases just got faster—because waiting for sloths was getting old."
+  },
+  {
+    "title": "Claude Integrations",
+    "url": "https://www.anthropic.com/news/integrations",
+    "points": 425,
+    "num_comments": 162,
+    "tags": [
+      "story",
+      "author_bryanh",
+      "story_43859536",
+      "front_page"
+    ],
+    "author": "bryanh",
+    "created_at": "2025-05-01T16:02:14Z",
+    "aiHeadline": "Claude Integrations: Now you can integrate Claude into everything, because why not?"
   }
 ]
