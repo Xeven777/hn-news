@@ -1,77 +1,73 @@
 [
   {
-    "title": "Redis is open source again",
-    "url": "https://antirez.com/news/151",
-    "points": 1206,
-    "num_comments": 430,
+    "title": "How to live an intellectually rich life",
+    "url": "https://utsavmamoria.substack.com/p/how-to-live-an-intellectually-rich",
+    "points": 473,
+    "num_comments": 266,
     "tags": [
       "story",
-      "author_antirez",
-      "story_43859446",
+      "author_TheLadyParadox",
+      "story_43868192",
       "front_page"
     ],
-    "author": "antirez",
-    "created_at": "2025-05-01T15:56:35Z",
-    "aiHeadline": "Redis: Back to the open-source game after a brief detour into... whatever it was doing before."
+    "author": "TheLadyParadox",
+    "created_at": "2025-05-02T10:58:10Z",
+    "aiHeadline": "How to Live an Intellectually Rich Life: A Comprehensive Guide to Avoiding Small Talk and Annoying Everyone at Parties"
   },
   {
-    "title": "Judge rules Apple executive lied under oath, makes criminal contempt referral",
-    "url": "https://www.thebignewsletter.com/p/judge-rules-apple-executive-lied",
-    "points": 815,
-    "num_comments": 271,
+    "title": "Apple App Store guidelines remove ban on encouraging external payments in US",
+    "url": "https://developer.apple.com/app-store/review/guidelines/",
+    "points": 442,
+    "num_comments": 318,
     "tags": [
       "story",
-      "author_connor11528",
-      "story_43856795",
-      "front_page"
+      "author_macguillicuddy",
+      "story_43867692"
     ],
-    "author": "connor11528",
-    "created_at": "2025-05-01T12:27:51Z",
-    "aiHeadline": "Apple exec's testimony: So convincing, a judge had to rule it was all a lie."
+    "author": "macguillicuddy",
+    "created_at": "2025-05-02T09:19:00Z",
+    "aiHeadline": "Apple Finally Relents: You Can Now Pay for Apps Outside the App Store (But Don’t Get Too Excited)"
   },
   {
-    "title": "Starting July 1, academic publishers can't paywall NIH-funded research",
-    "url": "https://www.nih.gov/about-nih/who-we-are/nih-director/statements/accelerating-access-research-results-new-implementation-date-2024-nih-public-access-policy",
-    "points": 430,
-    "num_comments": 68,
+    "title": "Corporation for Public Broadcasting Statement Regarding Executive Order",
+    "url": "https://cpb.org/pressroom/Corporation-Public-Broadcasting-Statement-Regarding-Executive-Order-Public-Media",
+    "points": 379,
+    "num_comments": 512,
     "tags": [
       "story",
-      "author_m463",
-      "story_43858568",
-      "front_page"
+      "author_coloneltcb",
+      "story_43869546"
     ],
-    "author": "m463",
-    "created_at": "2025-05-01T15:01:44Z",
-    "aiHeadline": "Academic publishers: Now you can't paywall NIH-funded research. Goodbye, cash cow! Hello, public access!"
+    "author": "coloneltcb",
+    "created_at": "2025-05-02T13:34:32Z",
+    "aiHeadline": "Public Broadcasting: Still Trying to Figure Out What ‘Public’ Means in the Age of Streaming"
   },
   {
-    "title": "A faster way to copy SQLite databases between computers",
-    "url": "https://alexwlchan.net/2025/copying-sqlite-databases/",
-    "points": 425,
-    "num_comments": 166,
+    "title": "Irish privacy watchdog hits TikTok with €530M fine over data transfers to China",
+    "url": "https://apnews.com/article/tiktok-ireland-european-union-data-privacy-regulation-d386ec74becc716905d7f686d6a448e2",
+    "points": 331,
+    "num_comments": 217,
     "tags": [
       "story",
-      "author_ingve",
-      "story_43856186",
-      "front_page"
+      "author_Alifatisk",
+      "story_43868074"
     ],
-    "author": "ingve",
-    "created_at": "2025-05-01T11:15:08Z",
-    "aiHeadline": "Copying SQLite databases just got faster—because waiting for sloths was getting old."
+    "author": "Alifatisk",
+    "created_at": "2025-05-02T10:33:53Z",
+    "aiHeadline": "TikTok Gets €530M Fine for Data Transfer Practices: Because Apparently, Ireland Doesn’t Want Your Data in China"
   },
   {
-    "title": "Claude Integrations",
-    "url": "https://www.anthropic.com/news/integrations",
-    "points": 425,
-    "num_comments": 162,
+    "title": "“Fewer Users” Warning Hurting Specialized and New Apps",
+    "url": "https://support.google.com/googleplay/android-developer/thread/330114530/fewer-users-warning-hurting-specialized-and-new-apps-need-answers?hl=en",
+    "points": 329,
+    "num_comments": 189,
     "tags": [
       "story",
-      "author_bryanh",
-      "story_43859536",
-      "front_page"
+      "author_pk97",
+      "story_43869794"
     ],
-    "author": "bryanh",
-    "created_at": "2025-05-01T16:02:14Z",
-    "aiHeadline": "Claude Integrations: Now you can integrate Claude into everything, because why not?"
+    "author": "pk97",
+    "created_at": "2025-05-02T13:54:27Z",
+    "aiHeadline": "‘Fewer Users’ Warning is Hurting Specialized Apps: Because Apparently, Being Niche is Now a Crime"
   }
 ]
