@@ -1,73 +1,77 @@
 [
   {
-    "title": "How to live an intellectually rich life",
-    "url": "https://utsavmamoria.substack.com/p/how-to-live-an-intellectually-rich",
-    "points": 473,
-    "num_comments": 266,
+    "title": "Accountability Sinks",
+    "url": "https://250bpm.substack.com/p/accountability-sinks",
+    "points": 535,
+    "num_comments": 328,
     "tags": [
       "story",
-      "author_TheLadyParadox",
-      "story_43868192",
+      "author_msustrik",
+      "story_43877301"
+    ],
+    "author": "msustrik",
+    "created_at": "2025-05-03T06:45:00Z",
+    "aiHeadline": "Accountability takes a dive as everyone suddenly discovers they're 'too busy' to follow through on their promises, proving that 'adulting' is just a myth."
+  },
+  {
+    "title": "Show HN: Free, in-browser PDF editor",
+    "url": "https://breezepdf.com",
+    "points": 336,
+    "num_comments": 82,
+    "tags": [
+      "story",
+      "author_philjohnson",
+      "story_43880962",
+      "show_hn",
       "front_page"
     ],
-    "author": "TheLadyParadox",
-    "created_at": "2025-05-02T10:58:10Z",
-    "aiHeadline": "How to Live an Intellectually Rich Life: A Comprehensive Guide to Avoiding Small Talk and Annoying Everyone at Parties"
+    "author": "philjohnson",
+    "created_at": "2025-05-03T18:15:45Z",
+    "aiHeadline": "Introducing the world's most overpriced free PDF editor, because who needs features when you can have a browser crash? (Hint: nobody)"
   },
   {
-    "title": "Apple App Store guidelines remove ban on encouraging external payments in US",
-    "url": "https://developer.apple.com/app-store/review/guidelines/",
-    "points": 442,
-    "num_comments": 318,
+    "title": "Minimum Viable Blog",
+    "url": "https://ostwilkens.se/blog/setting-up-blog",
+    "points": 293,
+    "num_comments": 144,
     "tags": [
       "story",
-      "author_macguillicuddy",
-      "story_43867692"
+      "author_jlundberg",
+      "story_43877797",
+      "front_page"
     ],
-    "author": "macguillicuddy",
-    "created_at": "2025-05-02T09:19:00Z",
-    "aiHeadline": "Apple Finally Relents: You Can Now Pay for Apps Outside the App Store (But Don’t Get Too Excited)"
+    "author": "jlundberg",
+    "created_at": "2025-05-03T09:08:31Z",
+    "aiHeadline": "The 'minimum viable blog' is here to remind us that sometimes, less is just less, and 'simple' can also mean 'boring as heck'."
   },
   {
-    "title": "Corporation for Public Broadcasting Statement Regarding Executive Order",
-    "url": "https://cpb.org/pressroom/Corporation-Public-Broadcasting-Statement-Regarding-Executive-Order-Public-Media",
-    "points": 379,
-    "num_comments": 512,
+    "title": "Buffett to step down following six-decade run atop Berkshire",
+    "url": "https://www.bloomberg.com/news/articles/2025-05-03/warren-buffett-to-step-down-from-berkshire-hathaway-at-year-end",
+    "points": 283,
+    "num_comments": 199,
     "tags": [
       "story",
-      "author_coloneltcb",
-      "story_43869546"
+      "author_mfiguiere",
+      "story_43880973",
+      "front_page"
     ],
-    "author": "coloneltcb",
-    "created_at": "2025-05-02T13:34:32Z",
-    "aiHeadline": "Public Broadcasting: Still Trying to Figure Out What ‘Public’ Means in the Age of Streaming"
+    "author": "mfiguiere",
+    "created_at": "2025-05-03T18:16:54Z",
+    "aiHeadline": "Warren Buffett finally hangs up his spurs after 60 years, proving that even the best investors eventually realize they're just really good at waiting for the market to do its thing."
   },
   {
-    "title": "Irish privacy watchdog hits TikTok with €530M fine over data transfers to China",
-    "url": "https://apnews.com/article/tiktok-ireland-european-union-data-privacy-regulation-d386ec74becc716905d7f686d6a448e2",
-    "points": 331,
-    "num_comments": 217,
+    "title": "We fell out of love with Next.js and back in love with Ruby on Rails",
+    "url": "https://hardcover.app/blog/part-1-how-we-fell-out-of-love-with-next-js-and-back-in-love-with-ruby-on-rails-inertia-js",
+    "points": 276,
+    "num_comments": 260,
     "tags": [
       "story",
-      "author_Alifatisk",
-      "story_43868074"
+      "author_mike1o1",
+      "story_43881035",
+      "front_page"
     ],
-    "author": "Alifatisk",
-    "created_at": "2025-05-02T10:33:53Z",
-    "aiHeadline": "TikTok Gets €530M Fine for Data Transfer Practices: Because Apparently, Ireland Doesn’t Want Your Data in China"
-  },
-  {
-    "title": "“Fewer Users” Warning Hurting Specialized and New Apps",
-    "url": "https://support.google.com/googleplay/android-developer/thread/330114530/fewer-users-warning-hurting-specialized-and-new-apps-need-answers?hl=en",
-    "points": 329,
-    "num_comments": 189,
-    "tags": [
-      "story",
-      "author_pk97",
-      "story_43869794"
-    ],
-    "author": "pk97",
-    "created_at": "2025-05-02T13:54:27Z",
-    "aiHeadline": "‘Fewer Users’ Warning is Hurting Specialized Apps: Because Apparently, Being Niche is Now a Crime"
+    "author": "mike1o1",
+    "created_at": "2025-05-03T18:26:06Z",
+    "aiHeadline": "After a rocky relationship with Next.js, this team decided that sometimes, going back to the 'old reliable' (Ruby on Rails) is like reuniting with an ex who still knows how to make you laugh—and not just at their outdated jokes."
   }
 ]
