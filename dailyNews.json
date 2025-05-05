@@ -1,77 +1,77 @@
 [
   {
-    "title": "Accountability Sinks",
-    "url": "https://250bpm.substack.com/p/accountability-sinks",
-    "points": 535,
-    "num_comments": 328,
+    "title": "I'd rather read the prompt",
+    "url": "https://claytonwramsey.com/blog/prompt/",
+    "points": 497,
+    "num_comments": 346,
     "tags": [
       "story",
-      "author_msustrik",
-      "story_43877301"
-    ],
-    "author": "msustrik",
-    "created_at": "2025-05-03T06:45:00Z",
-    "aiHeadline": "Accountability takes a dive as everyone suddenly discovers they're 'too busy' to follow through on their promises, proving that 'adulting' is just a myth."
-  },
-  {
-    "title": "Show HN: Free, in-browser PDF editor",
-    "url": "https://breezepdf.com",
-    "points": 336,
-    "num_comments": 82,
-    "tags": [
-      "story",
-      "author_philjohnson",
-      "story_43880962",
-      "show_hn",
+      "author_claytonwramsey",
+      "story_43888803",
       "front_page"
     ],
-    "author": "philjohnson",
-    "created_at": "2025-05-03T18:15:45Z",
-    "aiHeadline": "Introducing the world's most overpriced free PDF editor, because who needs features when you can have a browser crash? (Hint: nobody)"
+    "author": "claytonwramsey",
+    "created_at": "2025-05-04T19:17:28Z",
+    "aiHeadline": "AI models are so lazy, they'd rather read the prompt than actually do the work—just like you when you skip reading the instructions."
   },
   {
-    "title": "Minimum Viable Blog",
-    "url": "https://ostwilkens.se/blog/setting-up-blog",
-    "points": 293,
-    "num_comments": 144,
+    "title": "Design for 3D-Printing",
+    "url": "https://blog.rahix.de/design-for-3d-printing/",
+    "points": 384,
+    "num_comments": 107,
     "tags": [
       "story",
-      "author_jlundberg",
-      "story_43877797",
+      "author_q3k",
+      "story_43888117",
       "front_page"
     ],
-    "author": "jlundberg",
-    "created_at": "2025-05-03T09:08:31Z",
-    "aiHeadline": "The 'minimum viable blog' is here to remind us that sometimes, less is just less, and 'simple' can also mean 'boring as heck'."
+    "author": "q3k",
+    "created_at": "2025-05-04T17:38:13Z",
+    "aiHeadline": "3D printing: because who needs actual results when you can have overhyped promises and failed prints? Just like your diet, but with plastic."
   },
   {
-    "title": "Buffett to step down following six-decade run atop Berkshire",
-    "url": "https://www.bloomberg.com/news/articles/2025-05-03/warren-buffett-to-step-down-from-berkshire-hathaway-at-year-end",
-    "points": 283,
-    "num_comments": 199,
+    "title": "What went wrong with wireless USB",
+    "url": "http://oldvcr.blogspot.com/2025/05/what-went-wrong-with-wireless-usb.html",
+    "points": 308,
+    "num_comments": 188,
     "tags": [
       "story",
-      "author_mfiguiere",
-      "story_43880973",
+      "author_goldenskye",
+      "story_43883902",
       "front_page"
     ],
-    "author": "mfiguiere",
-    "created_at": "2025-05-03T18:16:54Z",
-    "aiHeadline": "Warren Buffett finally hangs up his spurs after 60 years, proving that even the best investors eventually realize they're just really good at waiting for the market to do its thing."
+    "author": "goldenskye",
+    "created_at": "2025-05-04T02:03:40Z",
+    "aiHeadline": "Wireless USB: the tech that proved that sometimes, wires are better—because at least they don't randomly stop working mid-transfer."
   },
   {
-    "title": "We fell out of love with Next.js and back in love with Ruby on Rails",
-    "url": "https://hardcover.app/blog/part-1-how-we-fell-out-of-love-with-next-js-and-back-in-love-with-ruby-on-rails-inertia-js",
-    "points": 276,
-    "num_comments": 260,
+    "title": "An Alabama landline that keeps ringing",
+    "url": "https://oxfordamerican.org/oa-now/the-alabama-landline-that-keeps-ringing",
+    "points": 257,
+    "num_comments": 85,
     "tags": [
       "story",
-      "author_mike1o1",
-      "story_43881035",
+      "author_bookofjoe",
+      "story_43886243",
       "front_page"
     ],
-    "author": "mike1o1",
-    "created_at": "2025-05-03T18:26:06Z",
-    "aiHeadline": "After a rocky relationship with Next.js, this team decided that sometimes, going back to the 'old reliable' (Ruby on Rails) is like reuniting with an ex who still knows how to make you laugh—and not just at their outdated jokes."
+    "author": "bookofjoe",
+    "created_at": "2025-05-04T12:02:35Z",
+    "aiHeadline": "An Alabama landline that keeps ringing: because apparently, some phones refuse to die, even when everyone else has moved on to video calls and emojis."
+  },
+  {
+    "title": "Oberon Pi",
+    "url": "http://pascal.hansotten.com/niklaus-wirth/project-oberon/oberon-pi/",
+    "points": 162,
+    "num_comments": 30,
+    "tags": [
+      "story",
+      "author_tosh",
+      "story_43885478",
+      "front_page"
+    ],
+    "author": "tosh",
+    "created_at": "2025-05-04T08:54:44Z",
+    "aiHeadline": "Oberon Pi: because sometimes, you just want to relive the '90s with a computer that's slower than your microwave—seriously, it's a thing."
   }
 ]
