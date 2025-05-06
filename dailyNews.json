@@ -1,77 +1,76 @@
 [
   {
-    "title": "I'd rather read the prompt",
-    "url": "https://claytonwramsey.com/blog/prompt/",
-    "points": 497,
-    "num_comments": 346,
+    "title": "The Death of Daydreaming",
+    "url": "https://www.afterbabel.com/p/on-the-death-of-daydreaming",
+    "points": 537,
+    "num_comments": 217,
     "tags": [
       "story",
-      "author_claytonwramsey",
-      "story_43888803",
+      "author_isolli",
+      "story_43894305",
       "front_page"
     ],
-    "author": "claytonwramsey",
-    "created_at": "2025-05-04T19:17:28Z",
-    "aiHeadline": "AI models are so lazy, they'd rather read the prompt than actually do the work—just like you when you skip reading the instructions."
+    "author": "isolli",
+    "created_at": "2025-05-05T12:22:10Z",
+    "aiHeadline": "In a world where everyone's glued to their screens, daydreaming is officially dead—because who needs imagination when you've got TikTok?"
   },
   {
-    "title": "Design for 3D-Printing",
-    "url": "https://blog.rahix.de/design-for-3d-printing/",
-    "points": 384,
-    "num_comments": 107,
+    "title": "Evolving OpenAI's Structure",
+    "url": "https://openai.com/index/evolving-our-structure/",
+    "points": 399,
+    "num_comments": 462,
     "tags": [
       "story",
-      "author_q3k",
-      "story_43888117",
+      "author_rohitpaulk",
+      "story_43897772",
       "front_page"
     ],
-    "author": "q3k",
-    "created_at": "2025-05-04T17:38:13Z",
-    "aiHeadline": "3D printing: because who needs actual results when you can have overhyped promises and failed prints? Just like your diet, but with plastic."
+    "author": "rohitpaulk",
+    "created_at": "2025-05-05T18:08:02Z",
+    "aiHeadline": "OpenAI is 'evolving' its structure—because clearly, their last one was holding them back from world domination or something."
   },
   {
-    "title": "What went wrong with wireless USB",
-    "url": "http://oldvcr.blogspot.com/2025/05/what-went-wrong-with-wireless-usb.html",
-    "points": 308,
-    "num_comments": 188,
+    "title": "The vocal effects of Daft Punk",
+    "url": "https://bjango.com/articles/daftpunkvocaleffects/",
+    "points": 360,
+    "num_comments": 89,
     "tags": [
       "story",
-      "author_goldenskye",
-      "story_43883902",
+      "author_qzervaas",
+      "story_43893601",
       "front_page"
     ],
-    "author": "goldenskye",
-    "created_at": "2025-05-04T02:03:40Z",
-    "aiHeadline": "Wireless USB: the tech that proved that sometimes, wires are better—because at least they don't randomly stop working mid-transfer."
+    "author": "qzervaas",
+    "created_at": "2025-05-05T10:48:21Z",
+    "aiHeadline": "Daft Punk's vocal effects are so over-the-top, you'd think they were trying to hide the fact they're actually robots from the future."
   },
   {
-    "title": "An Alabama landline that keeps ringing",
-    "url": "https://oxfordamerican.org/oa-now/the-alabama-landline-that-keeps-ringing",
-    "points": 257,
-    "num_comments": 85,
+    "title": "Judge said Meta illegally used books to build its AI",
+    "url": "https://www.wired.com/story/meta-lawsuit-copyright-hearing-artificial-intelligence/",
+    "points": 340,
+    "num_comments": 296,
     "tags": [
       "story",
-      "author_bookofjoe",
-      "story_43886243",
-      "front_page"
+      "author_mekpro",
+      "story_43893762"
     ],
-    "author": "bookofjoe",
-    "created_at": "2025-05-04T12:02:35Z",
-    "aiHeadline": "An Alabama landline that keeps ringing: because apparently, some phones refuse to die, even when everyone else has moved on to video calls and emojis."
+    "author": "mekpro",
+    "created_at": "2025-05-05T11:16:16Z",
+    "aiHeadline": "Meta's AI is so advanced, it can now steal books and make you question if it's even legal—because apparently, they're just that good at breaking the rules."
   },
   {
-    "title": "Oberon Pi",
-    "url": "http://pascal.hansotten.com/niklaus-wirth/project-oberon/oberon-pi/",
-    "points": 162,
-    "num_comments": 30,
+    "title": "Show HN: My AI Native Resume",
+    "url": "https://ai.jakegaylor.com/",
+    "points": 274,
+    "num_comments": 184,
     "tags": [
       "story",
-      "author_tosh",
-      "story_43885478",
-      "front_page"
+      "author_jhgaylor",
+      "story_43891245",
+      "show_hn"
     ],
-    "author": "tosh",
-    "created_at": "2025-05-04T08:54:44Z",
-    "aiHeadline": "Oberon Pi: because sometimes, you just want to relive the '90s with a computer that's slower than your microwave—seriously, it's a thing."
+    "author": "jhgaylor",
+    "created_at": "2025-05-05T01:44:09Z",
+    "aiHeadline": "AI is now writing resumes so well, you might as well just let it apply for jobs while you take a nap."
   }
 ]
