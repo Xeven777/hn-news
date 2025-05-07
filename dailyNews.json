@@ -1,76 +1,76 @@
 [
   {
-    "title": "The Death of Daydreaming",
-    "url": "https://www.afterbabel.com/p/on-the-death-of-daydreaming",
-    "points": 537,
-    "num_comments": 217,
+    "title": "The curse of knowing how, or; fixing everything",
+    "url": "https://notashelf.dev/posts/curse-of-knowing",
+    "points": 966,
+    "num_comments": 400,
     "tags": [
       "story",
-      "author_isolli",
-      "story_43894305",
+      "author_Lunar5227",
+      "story_43902212",
       "front_page"
     ],
-    "author": "isolli",
-    "created_at": "2025-05-05T12:22:10Z",
-    "aiHeadline": "In a world where everyone's glued to their screens, daydreaming is officially dead—because who needs imagination when you've got TikTok?"
+    "author": "Lunar5227",
+    "created_at": "2025-05-06T06:01:23Z",
+    "aiHeadline": "The Bane of Being Too Smart: Why Knowing How to Fix Everything is a Recipe for Eternal Frustration"
   },
   {
-    "title": "Evolving OpenAI's Structure",
-    "url": "https://openai.com/index/evolving-our-structure/",
-    "points": 399,
-    "num_comments": 462,
+    "title": "Show HN: Clippy – 90s UI for local LLMs",
+    "url": "https://felixrieseberg.github.io/clippy/",
+    "points": 659,
+    "num_comments": 175,
     "tags": [
       "story",
-      "author_rohitpaulk",
-      "story_43897772",
+      "author_felixrieseberg",
+      "story_43905942",
+      "show_hn",
       "front_page"
     ],
-    "author": "rohitpaulk",
-    "created_at": "2025-05-05T18:08:02Z",
-    "aiHeadline": "OpenAI is 'evolving' its structure—because clearly, their last one was holding them back from world domination or something."
+    "author": "felixrieseberg",
+    "created_at": "2025-05-06T15:02:22Z",
+    "aiHeadline": "Retro Computing at Its Finest: Clippy Returns to Haunt Your Modern LLM Experience with All the Glare of 1995"
   },
   {
-    "title": "The vocal effects of Daft Punk",
-    "url": "https://bjango.com/articles/daftpunkvocaleffects/",
-    "points": 360,
-    "num_comments": 89,
+    "title": "Gemini 2.5 Pro Preview",
+    "url": "https://developers.googleblog.com/en/gemini-2-5-pro-io-improved-coding-performance/",
+    "points": 479,
+    "num_comments": 459,
     "tags": [
       "story",
-      "author_qzervaas",
-      "story_43893601",
+      "author_meetpateltech",
+      "story_43906018"
+    ],
+    "author": "meetpateltech",
+    "created_at": "2025-05-06T15:10:00Z",
+    "aiHeadline": "Google’s Gemini 2.5 Pro: The AI Update You’ve Been Waiting For, or Just Another Incremental Upgrade to Keep You Hooked?"
+  },
+  {
+    "title": "Sneakers (1992) – 4K makeover sourced from the original camera negative",
+    "url": "https://www.blu-ray.com/movies/Sneakers-4K-Blu-ray/343185/",
+    "points": 369,
+    "num_comments": 254,
+    "tags": [
+      "story",
+      "author_bredren",
+      "story_43902263",
       "front_page"
     ],
-    "author": "qzervaas",
-    "created_at": "2025-05-05T10:48:21Z",
-    "aiHeadline": "Daft Punk's vocal effects are so over-the-top, you'd think they were trying to hide the fact they're actually robots from the future."
+    "author": "bredren",
+    "created_at": "2025-05-06T06:15:13Z",
+    "aiHeadline": "Sneakers (1992) Gets a 4K Makeover, Because Apparently 1992 Weren’t Cool Enough on Their Own"
   },
   {
-    "title": "Judge said Meta illegally used books to build its AI",
-    "url": "https://www.wired.com/story/meta-lawsuit-copyright-hearing-artificial-intelligence/",
-    "points": 340,
-    "num_comments": 296,
+    "title": "Curl: We still have not seen a valid security report done with AI help",
+    "url": "https://www.linkedin.com/posts/danielstenberg_hackerone-curl-activity-7324820893862363136-glb1",
+    "points": 357,
+    "num_comments": 190,
     "tags": [
       "story",
-      "author_mekpro",
-      "story_43893762"
+      "author_indigodaddy",
+      "story_43907376"
     ],
-    "author": "mekpro",
-    "created_at": "2025-05-05T11:16:16Z",
-    "aiHeadline": "Meta's AI is so advanced, it can now steal books and make you question if it's even legal—because apparently, they're just that good at breaking the rules."
-  },
-  {
-    "title": "Show HN: My AI Native Resume",
-    "url": "https://ai.jakegaylor.com/",
-    "points": 274,
-    "num_comments": 184,
-    "tags": [
-      "story",
-      "author_jhgaylor",
-      "story_43891245",
-      "show_hn"
-    ],
-    "author": "jhgaylor",
-    "created_at": "2025-05-05T01:44:09Z",
-    "aiHeadline": "AI is now writing resumes so well, you might as well just let it apply for jobs while you take a nap."
+    "author": "indigodaddy",
+    "created_at": "2025-05-06T17:07:58Z",
+    "aiHeadline": "AI Security Reports: Still as Reliable as a Cat on a Keyboard, According to Curl"
   }
 ]
