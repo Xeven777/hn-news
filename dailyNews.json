@@ -1,76 +1,75 @@
 [
   {
-    "title": "The curse of knowing how, or; fixing everything",
-    "url": "https://notashelf.dev/posts/curse-of-knowing",
-    "points": 966,
-    "num_comments": 400,
+    "title": "Zed: High-performance AI Code Editor",
+    "url": "https://zed.dev/blog/fastest-ai-code-editor",
+    "points": 564,
+    "num_comments": 358,
     "tags": [
       "story",
-      "author_Lunar5227",
-      "story_43902212",
+      "author_vquemener",
+      "story_43912844",
       "front_page"
     ],
-    "author": "Lunar5227",
-    "created_at": "2025-05-06T06:01:23Z",
-    "aiHeadline": "The Bane of Being Too Smart: Why Knowing How to Fix Everything is a Recipe for Eternal Frustration"
+    "author": "vquemener",
+    "created_at": "2025-05-07T06:38:40Z",
+    "aiHeadline": "Introducing Zed, the AI-powered code editor that promises to make you look like a coding wizard, because who doesn't want to write code faster than a caffeinated squirrel?"
   },
   {
-    "title": "Show HN: Clippy – 90s UI for local LLMs",
-    "url": "https://felixrieseberg.github.io/clippy/",
-    "points": 659,
-    "num_comments": 175,
+    "title": "Ty: A fast Python type checker and language server",
+    "url": "https://github.com/astral-sh/ty",
+    "points": 543,
+    "num_comments": 157,
     "tags": [
       "story",
-      "author_felixrieseberg",
-      "story_43905942",
-      "show_hn",
+      "author_arathore",
+      "story_43918484",
       "front_page"
     ],
-    "author": "felixrieseberg",
-    "created_at": "2025-05-06T15:02:22Z",
-    "aiHeadline": "Retro Computing at Its Finest: Clippy Returns to Haunt Your Modern LLM Experience with All the Glare of 1995"
+    "author": "arathore",
+    "created_at": "2025-05-07T17:32:26Z",
+    "aiHeadline": "Ty arrives to save Python developers from the horrors of type errors, because apparently, we're all just toddlers when it comes to data types."
   },
   {
-    "title": "Gemini 2.5 Pro Preview",
-    "url": "https://developers.googleblog.com/en/gemini-2-5-pro-io-improved-coding-performance/",
-    "points": 479,
-    "num_comments": 459,
+    "title": "CLion Is Now Free for Non-Commercial Use",
+    "url": "https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/",
+    "points": 524,
+    "num_comments": 321,
     "tags": [
       "story",
-      "author_meetpateltech",
-      "story_43906018"
+      "author_AlexeyBrin",
+      "story_43914705"
     ],
-    "author": "meetpateltech",
-    "created_at": "2025-05-06T15:10:00Z",
-    "aiHeadline": "Google’s Gemini 2.5 Pro: The AI Update You’ve Been Waiting For, or Just Another Incremental Upgrade to Keep You Hooked?"
+    "author": "AlexeyBrin",
+    "created_at": "2025-05-07T12:18:38Z",
+    "aiHeadline": "CLion is now free for non-commercial use, which is basically JetBrains saying, 'We know you can't afford us, so here's a gift—now go code something awesome and don't tell your boss.'"
   },
   {
-    "title": "Sneakers (1992) – 4K makeover sourced from the original camera negative",
-    "url": "https://www.blu-ray.com/movies/Sneakers-4K-Blu-ray/343185/",
-    "points": 369,
-    "num_comments": 254,
+    "title": "Unity’s Open-Source Double Standard: the ban of VLC",
+    "url": "https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html",
+    "points": 473,
+    "num_comments": 134,
     "tags": [
       "story",
-      "author_bredren",
-      "story_43902263",
+      "author_cempaka",
+      "story_43914832"
+    ],
+    "author": "cempaka",
+    "created_at": "2025-05-07T12:33:40Z",
+    "aiHeadline": "Unity bans VLC from its open-source projects, proving once again that open-source is only as open as the company's mood swings."
+  },
+  {
+    "title": "Waiting for Postgres 18: Accelerating Disk Reads with Asynchronous I/O",
+    "url": "https://pganalyze.com/blog/postgres-18-async-io",
+    "points": 378,
+    "num_comments": 97,
+    "tags": [
+      "story",
+      "author_lfittl",
+      "story_43916577",
       "front_page"
     ],
-    "author": "bredren",
-    "created_at": "2025-05-06T06:15:13Z",
-    "aiHeadline": "Sneakers (1992) Gets a 4K Makeover, Because Apparently 1992 Weren’t Cool Enough on Their Own"
-  },
-  {
-    "title": "Curl: We still have not seen a valid security report done with AI help",
-    "url": "https://www.linkedin.com/posts/danielstenberg_hackerone-curl-activity-7324820893862363136-glb1",
-    "points": 357,
-    "num_comments": 190,
-    "tags": [
-      "story",
-      "author_indigodaddy",
-      "story_43907376"
-    ],
-    "author": "indigodaddy",
-    "created_at": "2025-05-06T17:07:58Z",
-    "aiHeadline": "AI Security Reports: Still as Reliable as a Cat on a Keyboard, According to Curl"
+    "author": "lfittl",
+    "created_at": "2025-05-07T14:57:03Z",
+    "aiHeadline": "Postgres 18 is on its way, and it's bringing asynchronous I/O to speed up disk reads, which is like finally getting a car with a working accelerator after years of driving with the parking brake on."
   }
 ]
