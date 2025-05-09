@@ -1,75 +1,76 @@
 [
   {
-    "title": "Zed: High-performance AI Code Editor",
-    "url": "https://zed.dev/blog/fastest-ai-code-editor",
-    "points": 564,
-    "num_comments": 358,
+    "title": "From: Steve Jobs. \"Great idea, thank you.\"",
+    "url": "https://blog.hayman.net/2025/05/06/from-steve-jobs-great-idea.html",
+    "points": 677,
+    "num_comments": 189,
     "tags": [
       "story",
-      "author_vquemener",
-      "story_43912844",
+      "author_mattl",
+      "story_43929724",
       "front_page"
     ],
-    "author": "vquemener",
-    "created_at": "2025-05-07T06:38:40Z",
-    "aiHeadline": "Introducing Zed, the AI-powered code editor that promises to make you look like a coding wizard, because who doesn't want to write code faster than a caffeinated squirrel?"
+    "author": "mattl",
+    "created_at": "2025-05-08T18:40:12Z",
+    "aiHeadline": "Steve Jobs, in a shocking display of humility, thanks someone for a 'great idea'—could this be the plot twist we've all been waiting for?"
   },
   {
-    "title": "Ty: A fast Python type checker and language server",
-    "url": "https://github.com/astral-sh/ty",
-    "points": 543,
-    "num_comments": 157,
+    "title": "Void: Open-source Cursor alternative",
+    "url": "https://github.com/voideditor/void",
+    "points": 571,
+    "num_comments": 241,
     "tags": [
       "story",
-      "author_arathore",
-      "story_43918484",
+      "author_sharjeelsayed",
+      "story_43927926",
       "front_page"
     ],
-    "author": "arathore",
-    "created_at": "2025-05-07T17:32:26Z",
-    "aiHeadline": "Ty arrives to save Python developers from the horrors of type errors, because apparently, we're all just toddlers when it comes to data types."
+    "author": "sharjeelsayed",
+    "created_at": "2025-05-08T16:35:34Z",
+    "aiHeadline": "Void: The open-source editor that proves even in the digital age, sometimes you just need a good 'void' in your life."
   },
   {
-    "title": "CLion Is Now Free for Non-Commercial Use",
-    "url": "https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/",
-    "points": 524,
-    "num_comments": 321,
+    "title": "My new deadline: 20 years to give away virtually all my wealth",
+    "url": "https://www.gatesnotes.com/home/home-page-topic/reader/n20-years-to-give-away-virtually-all-my-wealth",
+    "points": 534,
+    "num_comments": 551,
     "tags": [
       "story",
-      "author_AlexeyBrin",
-      "story_43914705"
+      "author_nrvn",
+      "story_43926165"
     ],
-    "author": "AlexeyBrin",
-    "created_at": "2025-05-07T12:18:38Z",
-    "aiHeadline": "CLion is now free for non-commercial use, which is basically JetBrains saying, 'We know you can't afford us, so here's a gift—now go code something awesome and don't tell your boss.'"
+    "author": "nrvn",
+    "created_at": "2025-05-08T13:59:49Z",
+    "aiHeadline": "Bill Gates sets a 20-year deadline to give away his fortune—because apparently, even billionaires need a deadline to be charitable."
   },
   {
-    "title": "Unity’s Open-Source Double Standard: the ban of VLC",
-    "url": "https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html",
-    "points": 473,
-    "num_comments": 134,
+    "title": "First American pope elected and will be known as Pope Leo XIV",
+    "url": "https://www.cnn.com/world/live-news/new-pope-conclave-day-two-05-08-25",
+    "points": 458,
+    "num_comments": 721,
     "tags": [
       "story",
-      "author_cempaka",
-      "story_43914832"
-    ],
-    "author": "cempaka",
-    "created_at": "2025-05-07T12:33:40Z",
-    "aiHeadline": "Unity bans VLC from its open-source projects, proving once again that open-source is only as open as the company's mood swings."
-  },
-  {
-    "title": "Waiting for Postgres 18: Accelerating Disk Reads with Asynchronous I/O",
-    "url": "https://pganalyze.com/blog/postgres-18-async-io",
-    "points": 378,
-    "num_comments": 97,
-    "tags": [
-      "story",
-      "author_lfittl",
-      "story_43916577",
+      "author_saikatsg",
+      "story_43927856",
       "front_page"
     ],
-    "author": "lfittl",
-    "created_at": "2025-05-07T14:57:03Z",
-    "aiHeadline": "Postgres 18 is on its way, and it's bringing asynchronous I/O to speed up disk reads, which is like finally getting a car with a working accelerator after years of driving with the parking brake on."
+    "author": "saikatsg",
+    "created_at": "2025-05-08T16:30:45Z",
+    "aiHeadline": "First American pope elected, to be known as Pope Leo XIV—finally, the Vatican is getting with the times and realizing that not everyone is European."
+  },
+  {
+    "title": "Ask HN: What are good high-information density UIs (screenshots, apps, sites)?",
+    "points": 384,
+    "num_comments": 304,
+    "tags": [
+      "story",
+      "author_troupo",
+      "story_43925732",
+      "ask_hn",
+      "front_page"
+    ],
+    "author": "troupo",
+    "created_at": "2025-05-08T13:05:10Z",
+    "aiHeadline": "Ask HN: What are good high-information density UIs?—because apparently, some people still think 'less is more' is a design principle."
   }
 ]
