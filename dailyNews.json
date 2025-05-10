@@ -1,76 +1,74 @@
 [
   {
-    "title": "From: Steve Jobs. \"Great idea, thank you.\"",
-    "url": "https://blog.hayman.net/2025/05/06/from-steve-jobs-great-idea.html",
-    "points": 677,
-    "num_comments": 189,
+    "title": "LegoGPT: Generating Physically Stable and Buildable Lego",
+    "url": "https://avalovelace1.github.io/LegoGPT/",
+    "points": 542,
+    "num_comments": 136,
     "tags": [
       "story",
-      "author_mattl",
-      "story_43929724",
-      "front_page"
+      "author_nkko",
+      "story_43933891"
     ],
-    "author": "mattl",
-    "created_at": "2025-05-08T18:40:12Z",
-    "aiHeadline": "Steve Jobs, in a shocking display of humility, thanks someone for a 'great idea'—could this be the plot twist we've all been waiting for?"
+    "author": "nkko",
+    "created_at": "2025-05-09T04:55:20Z",
+    "aiHeadline": "AI takes over the world... by building Legos? Meet LegoGPT, the latest in AI-generated brick structures, because clearly we didn't have enough to do already."
   },
   {
-    "title": "Void: Open-source Cursor alternative",
-    "url": "https://github.com/voideditor/void",
-    "points": 571,
-    "num_comments": 241,
+    "title": "ALICE detects the conversion of lead into gold at the LHC",
+    "url": "https://www.home.cern/news/news/physics/alice-detects-conversion-lead-gold-lhc",
+    "points": 485,
+    "num_comments": 256,
     "tags": [
       "story",
-      "author_sharjeelsayed",
-      "story_43927926",
+      "author_miiiiiike",
+      "story_43937214",
       "front_page"
     ],
-    "author": "sharjeelsayed",
-    "created_at": "2025-05-08T16:35:34Z",
-    "aiHeadline": "Void: The open-source editor that proves even in the digital age, sometimes you just need a good 'void' in your life."
+    "author": "miiiiiike",
+    "created_at": "2025-05-09T14:31:20Z",
+    "aiHeadline": "Scientists at the LHC have finally done it: turned lead into gold. Not the mythical Philosopher's Stone kind, but the kind that requires a particle accelerator and probably a grant that could've been better spent."
   },
   {
-    "title": "My new deadline: 20 years to give away virtually all my wealth",
-    "url": "https://www.gatesnotes.com/home/home-page-topic/reader/n20-years-to-give-away-virtually-all-my-wealth",
-    "points": 534,
-    "num_comments": 551,
+    "title": "NSF faces shake-up as officials abolish its 37 divisions",
+    "url": "https://www.science.org/content/article/exclusive-nsf-faces-radical-shake-officials-abolish-its-37-divisions",
+    "points": 469,
+    "num_comments": 606,
     "tags": [
       "story",
-      "author_nrvn",
-      "story_43926165"
-    ],
-    "author": "nrvn",
-    "created_at": "2025-05-08T13:59:49Z",
-    "aiHeadline": "Bill Gates sets a 20-year deadline to give away his fortune—because apparently, even billionaires need a deadline to be charitable."
-  },
-  {
-    "title": "First American pope elected and will be known as Pope Leo XIV",
-    "url": "https://www.cnn.com/world/live-news/new-pope-conclave-day-two-05-08-25",
-    "points": 458,
-    "num_comments": 721,
-    "tags": [
-      "story",
-      "author_saikatsg",
-      "story_43927856",
+      "author_magicalist",
+      "story_43935913",
       "front_page"
     ],
-    "author": "saikatsg",
-    "created_at": "2025-05-08T16:30:45Z",
-    "aiHeadline": "First American pope elected, to be known as Pope Leo XIV—finally, the Vatican is getting with the times and realizing that not everyone is European."
+    "author": "magicalist",
+    "created_at": "2025-05-09T12:13:36Z",
+    "aiHeadline": "The NSF is getting a major shake-up, with officials deciding to abolish its 37 divisions. Because clearly, the government's solution to every problem is to just... get rid of things."
   },
   {
-    "title": "Ask HN: What are good high-information density UIs (screenshots, apps, sites)?",
-    "points": 384,
-    "num_comments": 304,
+    "title": "WASM 2.0",
+    "url": "https://www.w3.org/TR/wasm-core-2/",
+    "points": 302,
+    "num_comments": 130,
     "tags": [
       "story",
-      "author_troupo",
-      "story_43925732",
-      "ask_hn",
-      "front_page"
+      "author_lioeters",
+      "story_43934711"
     ],
-    "author": "troupo",
-    "created_at": "2025-05-08T13:05:10Z",
-    "aiHeadline": "Ask HN: What are good high-information density UIs?—because apparently, some people still think 'less is more' is a design principle."
+    "author": "lioeters",
+    "created_at": "2025-05-09T08:01:06Z",
+    "aiHeadline": "WASM 2.0 is here, and it's just as exciting as you'd expect from a web standard update. Basically, it's like getting a new version of your favorite app that fixes a bug you didn't even know existed."
+  },
+  {
+    "title": "Doge software engineer's computer infected by info-stealing malware",
+    "url": "https://arstechnica.com/security/2025/05/doge-software-engineers-computer-infected-by-info-stealing-malware/",
+    "points": 282,
+    "num_comments": 153,
+    "tags": [
+      "story",
+      "author_lysp",
+      "story_43934540"
+    ],
+    "author": "lysp",
+    "created_at": "2025-05-09T07:22:08Z",
+    "aiHeadline": "In a twist that somehow isn't surprising, a Doge software engineer's computer gets infected with info-stealing malware. Because nothing says 'trust us with your money' like 'we got hacked.'"
   }
 ]
