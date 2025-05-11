@@ -1,74 +1,74 @@
 [
   {
-    "title": "LegoGPT: Generating Physically Stable and Buildable Lego",
-    "url": "https://avalovelace1.github.io/LegoGPT/",
-    "points": 542,
-    "num_comments": 136,
+    "title": "Vision Now Available in Llama.cpp",
+    "url": "https://github.com/ggml-org/llama.cpp/blob/master/docs/multimodal.md",
+    "points": 486,
+    "num_comments": 104,
     "tags": [
       "story",
-      "author_nkko",
-      "story_43933891"
+      "author_redman25",
+      "story_43943047"
     ],
-    "author": "nkko",
-    "created_at": "2025-05-09T04:55:20Z",
-    "aiHeadline": "AI takes over the world... by building Legos? Meet LegoGPT, the latest in AI-generated brick structures, because clearly we didn't have enough to do already."
+    "author": "redman25",
+    "created_at": "2025-05-10T03:39:46Z",
+    "aiHeadline": "Vision now available in Llama.cpp: Because clearly, the world needed another way to generate blurry images of llamas."
   },
   {
-    "title": "ALICE detects the conversion of lead into gold at the LHC",
-    "url": "https://www.home.cern/news/news/physics/alice-detects-conversion-lead-gold-lhc",
-    "points": 485,
-    "num_comments": 256,
+    "title": "A simple 16x16 dot animation from simple math rules",
+    "url": "https://tixy.land",
+    "points": 334,
+    "num_comments": 69,
     "tags": [
       "story",
-      "author_miiiiiike",
-      "story_43937214",
+      "author_andrewrn",
+      "story_43942881"
+    ],
+    "author": "andrewrn",
+    "created_at": "2025-05-10T02:56:38Z",
+    "aiHeadline": "A simple 16x16 dot animation from simple math rules: Because who doesn't want to spend hours staring at a tiny grid of dots that occasionally flicker in a vaguely interesting pattern?"
+  },
+  {
+    "title": "A critical look at MCP",
+    "url": "https://raz.sh/blog/2025-05-02_a_critical_look_at_mcp",
+    "points": 332,
+    "num_comments": 191,
+    "tags": [
+      "story",
+      "author_ablekh",
+      "story_43945993",
       "front_page"
     ],
-    "author": "miiiiiike",
-    "created_at": "2025-05-09T14:31:20Z",
-    "aiHeadline": "Scientists at the LHC have finally done it: turned lead into gold. Not the mythical Philosopher's Stone kind, but the kind that requires a particle accelerator and probably a grant that could've been better spent."
+    "author": "ablekh",
+    "created_at": "2025-05-10T14:37:59Z",
+    "aiHeadline": "A critical look at MCP: Because if there's one thing the world needs more of, it's yet another framework that promises to solve all your problems but somehow ends up making everything worse."
   },
   {
-    "title": "NSF faces shake-up as officials abolish its 37 divisions",
-    "url": "https://www.science.org/content/article/exclusive-nsf-faces-radical-shake-officials-abolish-its-37-divisions",
-    "points": 469,
-    "num_comments": 606,
+    "title": "US vs. Google amicus curiae brief of Y Combinator in support of plaintiffs [pdf]",
+    "url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1300.1.pdf",
+    "points": 321,
+    "num_comments": 545,
     "tags": [
       "story",
-      "author_magicalist",
-      "story_43935913",
+      "author_dave1629",
+      "story_43945820",
       "front_page"
     ],
-    "author": "magicalist",
-    "created_at": "2025-05-09T12:13:36Z",
-    "aiHeadline": "The NSF is getting a major shake-up, with officials deciding to abolish its 37 divisions. Because clearly, the government's solution to every problem is to just... get rid of things."
+    "author": "dave1629",
+    "created_at": "2025-05-10T14:15:56Z",
+    "aiHeadline": "US vs. Google amicus curiae brief of Y Combinator in support of plaintiffs: Because what better way to spend your time than reading through 545 comments about why Y Combinator thinks Google is the real villain here."
   },
   {
-    "title": "WASM 2.0",
-    "url": "https://www.w3.org/TR/wasm-core-2/",
-    "points": 302,
-    "num_comments": 130,
+    "title": "Gmail to SQLite",
+    "url": "https://github.com/marcboeker/gmail-to-sqlite",
+    "points": 304,
+    "num_comments": 93,
     "tags": [
       "story",
-      "author_lioeters",
-      "story_43934711"
+      "author_tehlike",
+      "story_43943236"
     ],
-    "author": "lioeters",
-    "created_at": "2025-05-09T08:01:06Z",
-    "aiHeadline": "WASM 2.0 is here, and it's just as exciting as you'd expect from a web standard update. Basically, it's like getting a new version of your favorite app that fixes a bug you didn't even know existed."
-  },
-  {
-    "title": "Doge software engineer's computer infected by info-stealing malware",
-    "url": "https://arstechnica.com/security/2025/05/doge-software-engineers-computer-infected-by-info-stealing-malware/",
-    "points": 282,
-    "num_comments": 153,
-    "tags": [
-      "story",
-      "author_lysp",
-      "story_43934540"
-    ],
-    "author": "lysp",
-    "created_at": "2025-05-09T07:22:08Z",
-    "aiHeadline": "In a twist that somehow isn't surprising, a Doge software engineer's computer gets infected with info-stealing malware. Because nothing says 'trust us with your money' like 'we got hacked.'"
+    "author": "tehlike",
+    "created_at": "2025-05-10T04:25:43Z",
+    "aiHeadline": "Gmail to SQLite: Because clearly, the world needs another tool to help you organize your inbox, even though you'll probably end up spending more time setting it up than actually using it."
   }
 ]
