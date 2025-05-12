@@ -1,74 +1,76 @@
 [
   {
-    "title": "Vision Now Available in Llama.cpp",
-    "url": "https://github.com/ggml-org/llama.cpp/blob/master/docs/multimodal.md",
-    "points": 486,
-    "num_comments": 104,
-    "tags": [
-      "story",
-      "author_redman25",
-      "story_43943047"
-    ],
-    "author": "redman25",
-    "created_at": "2025-05-10T03:39:46Z",
-    "aiHeadline": "Vision now available in Llama.cpp: Because clearly, the world needed another way to generate blurry images of llamas."
-  },
-  {
-    "title": "A simple 16x16 dot animation from simple math rules",
-    "url": "https://tixy.land",
-    "points": 334,
-    "num_comments": 69,
+    "title": "Plain Vanilla Web",
+    "url": "https://plainvanillaweb.com/index.html",
+    "points": 680,
+    "num_comments": 355,
     "tags": [
       "story",
       "author_andrewrn",
-      "story_43942881"
+      "story_43954896",
+      "front_page"
     ],
     "author": "andrewrn",
-    "created_at": "2025-05-10T02:56:38Z",
-    "aiHeadline": "A simple 16x16 dot animation from simple math rules: Because who doesn't want to spend hours staring at a tiny grid of dots that occasionally flicker in a vaguely interesting pattern?"
+    "created_at": "2025-05-11T16:31:58Z",
+    "aiHeadline": "Back to Basics: A Website So Plain, It's Basically a Blank Canvas"
   },
   {
-    "title": "A critical look at MCP",
-    "url": "https://raz.sh/blog/2025-05-02_a_critical_look_at_mcp",
-    "points": 332,
-    "num_comments": 191,
+    "title": "Leaving Google",
+    "url": "https://www.airs.com/blog/archives/670",
+    "points": 443,
+    "num_comments": 276,
     "tags": [
       "story",
-      "author_ablekh",
-      "story_43945993",
+      "author_todsacerdoti",
+      "story_43950976",
       "front_page"
     ],
-    "author": "ablekh",
-    "created_at": "2025-05-10T14:37:59Z",
-    "aiHeadline": "A critical look at MCP: Because if there's one thing the world needs more of, it's yet another framework that promises to solve all your problems but somehow ends up making everything worse."
+    "author": "todsacerdoti",
+    "created_at": "2025-05-11T03:01:56Z",
+    "aiHeadline": "Goodbye, Google: One Employee's Journey from Free Snacks to Freedom"
   },
   {
-    "title": "US vs. Google amicus curiae brief of Y Combinator in support of plaintiffs [pdf]",
-    "url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1300.1.pdf",
-    "points": 321,
-    "num_comments": 545,
+    "title": "One-Click RCE in Asus's Preinstalled Driver Software",
+    "url": "https://mrbruh.com/asusdriverhub/",
+    "points": 418,
+    "num_comments": 199,
     "tags": [
       "story",
-      "author_dave1629",
-      "story_43945820",
+      "author_MrBruh",
+      "story_43951588",
       "front_page"
     ],
-    "author": "dave1629",
-    "created_at": "2025-05-10T14:15:56Z",
-    "aiHeadline": "US vs. Google amicus curiae brief of Y Combinator in support of plaintiffs: Because what better way to spend your time than reading through 545 comments about why Y Combinator thinks Google is the real villain here."
+    "author": "MrBruh",
+    "created_at": "2025-05-11T05:11:18Z",
+    "aiHeadline": "Asus Drivers: One Click Away from Taking Over Your System"
   },
   {
-    "title": "Gmail to SQLite",
-    "url": "https://github.com/marcboeker/gmail-to-sqlite",
-    "points": 304,
-    "num_comments": 93,
+    "title": "I built a native Windows Todo app in pure C (278 KB, no frameworks)",
+    "url": "https://github.com/Efeckc17/simple-todo-c",
+    "points": 269,
+    "num_comments": 148,
     "tags": [
       "story",
-      "author_tehlike",
-      "story_43943236"
+      "author_toxi360",
+      "story_43954649",
+      "front_page"
     ],
-    "author": "tehlike",
-    "created_at": "2025-05-10T04:25:43Z",
-    "aiHeadline": "Gmail to SQLite: Because clearly, the world needs another tool to help you organize your inbox, even though you'll probably end up spending more time setting it up than actually using it."
+    "author": "toxi360",
+    "created_at": "2025-05-11T15:57:39Z",
+    "aiHeadline": "No Frameworks, Just Pure C: How This Developer Built a Todo App That's Smaller Than Your Average Cat Photo"
+  },
+  {
+    "title": "In 2025, venture capital can't pretend everything is fine any more",
+    "url": "https://pivot-to-ai.com/2025/05/03/in-2025-venture-capital-cant-pretend-everything-is-fine-any-more/",
+    "points": 249,
+    "num_comments": 224,
+    "tags": [
+      "story",
+      "author_namanyayg",
+      "story_43953884"
+    ],
+    "author": "namanyayg",
+    "created_at": "2025-05-11T14:02:12Z",
+    "aiHeadline": "The Party's Over: Venture Capital Faces Reality in 2025"
   }
 ]
