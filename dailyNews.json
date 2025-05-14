@@ -1,74 +1,75 @@
 [
   {
-    "title": "I hacked a dating app (and how not to treat a security researcher)",
-    "url": "https://alexschapiro.com/blog/security/vulnerability/2025/04/21/startups-need-to-take-security-seriously",
-    "points": 462,
-    "num_comments": 268,
+    "title": "Mozilla Firefox – Official GitHub repo",
+    "url": "https://github.com/mozilla-firefox/firefox",
+    "points": 780,
+    "num_comments": 425,
     "tags": [
       "story",
-      "author_bearsyankees",
-      "story_43964937"
+      "author_thefilmore",
+      "story_43969827"
     ],
-    "author": "bearsyankees",
-    "created_at": "2025-05-12T16:39:10Z",
-    "aiHeadline": "Security researcher hacks dating app, then gets treated like a criminal for pointing out the obvious."
+    "author": "thefilmore",
+    "created_at": "2025-05-13T05:23:10Z",
+    "aiHeadline": "Mozilla Firefox finally gets a GitHub repo, because why not let the world know where your browser's code lives? (Hint: It's not in a magical forest.)"
   },
   {
-    "title": "Embeddings are underrated (2024)",
-    "url": "https://technicalwriting.dev/ml/embeddings/overview.html",
-    "points": 444,
-    "num_comments": 133,
+    "title": "The world could run on older hardware if software optimization was a priority",
+    "url": "https://twitter.com/ID_AA_Carmack/status/1922100771392520710",
+    "points": 582,
+    "num_comments": 553,
     "tags": [
       "story",
-      "author_jxmorris12",
-      "story_43963868",
+      "author_turrini",
+      "story_43971464",
       "front_page"
     ],
-    "author": "jxmorris12",
-    "created_at": "2025-05-12T15:05:44Z",
-    "aiHeadline": "AI researchers finally realize embeddings are the unsung heroes of machine learning, but they've been saying that since 2024."
+    "author": "turrini",
+    "created_at": "2025-05-13T10:31:09Z",
+    "aiHeadline": "The world could run on older hardware if software optimization was a priority, but hey, why fix what isn't broken when you can just buy a new phone every year?"
   },
   {
-    "title": "US Copyright Office found AI companies breach copyright. Its boss was fired",
-    "url": "https://www.theregister.com/2025/05/12/us_copyright_office_ai_copyright/",
-    "points": 416,
-    "num_comments": 349,
+    "title": "Ask HN: How are you acquiring your first hundred users?",
+    "points": 473,
+    "num_comments": 296,
     "tags": [
       "story",
-      "author_croes",
-      "story_43961247"
+      "author_amanchanda",
+      "story_43970837",
+      "ask_hn"
     ],
-    "author": "croes",
-    "created_at": "2025-05-12T09:49:10Z",
-    "aiHeadline": "US Copyright Office discovers AI companies are stealing content, but their boss gets fired for not stealing enough."
+    "author": "amanchanda",
+    "created_at": "2025-05-13T08:41:25Z",
+    "aiHeadline": "Ask HN: How are you acquiring your first hundred users? (Hint: Probably not by asking HN, because that's just meta.)"
   },
   {
-    "title": "The Barbican",
-    "url": "https://arslan.io/2025/05/12/barbican-estate/",
-    "points": 400,
-    "num_comments": 153,
+    "title": "Multiple security issues in GNU Screen",
+    "url": "https://www.openwall.com/lists/oss-security/2025/05/12/1",
+    "points": 340,
+    "num_comments": 203,
     "tags": [
       "story",
-      "author_farslan",
-      "story_43964136",
+      "author_st_goliath",
+      "story_43971716",
       "front_page"
     ],
-    "author": "farslan",
-    "created_at": "2025-05-12T15:28:38Z",
-    "aiHeadline": "The Barbican: where brutalist architecture meets your worst nightmares, but somehow remains oddly charming."
+    "author": "st_goliath",
+    "created_at": "2025-05-13T11:28:49Z",
+    "aiHeadline": "Multiple security issues in GNU Screen: Because nothing says 'secure' like a terminal multiplexer that's been around since the dinosaurs roamed the Earth."
   },
   {
-    "title": "I ruined my vacation by reverse engineering WSC",
-    "url": "https://blog.es3n1n.eu/posts/how-i-ruined-my-vacation/",
-    "points": 334,
-    "num_comments": 173,
+    "title": "Branch Privilege Injection: Exploiting branch predictor race conditions",
+    "url": "https://comsec.ethz.ch/research/microarch/branch-privilege-injection/",
+    "points": 324,
+    "num_comments": 128,
     "tags": [
       "story",
-      "author_todsacerdoti",
-      "story_43959403"
+      "author_alberto-m",
+      "story_43974891",
+      "front_page"
     ],
-    "author": "todsacerdoti",
-    "created_at": "2025-05-12T03:34:26Z",
-    "aiHeadline": "Security researcher ruins vacation by reverse-engineering WSC, proving that even vacations aren't safe from tech obsessions."
+    "author": "alberto-m",
+    "created_at": "2025-05-13T16:44:51Z",
+    "aiHeadline": "Branch Privilege Injection: Exploiting branch predictor race conditions. Because what's the fun in computing if you can't inject some privilege while you're predicting branches?"
   }
 ]
