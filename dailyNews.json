@@ -1,75 +1,74 @@
 [
   {
-    "title": "Mozilla Firefox – Official GitHub repo",
-    "url": "https://github.com/mozilla-firefox/firefox",
-    "points": 780,
-    "num_comments": 425,
+    "title": "AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms",
+    "url": "https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/",
+    "points": 672,
+    "num_comments": 184,
     "tags": [
       "story",
-      "author_thefilmore",
-      "story_43969827"
-    ],
-    "author": "thefilmore",
-    "created_at": "2025-05-13T05:23:10Z",
-    "aiHeadline": "Mozilla Firefox finally gets a GitHub repo, because why not let the world know where your browser's code lives? (Hint: It's not in a magical forest.)"
-  },
-  {
-    "title": "The world could run on older hardware if software optimization was a priority",
-    "url": "https://twitter.com/ID_AA_Carmack/status/1922100771392520710",
-    "points": 582,
-    "num_comments": 553,
-    "tags": [
-      "story",
-      "author_turrini",
-      "story_43971464",
+      "author_Fysi",
+      "story_43985489",
       "front_page"
     ],
-    "author": "turrini",
-    "created_at": "2025-05-13T10:31:09Z",
-    "aiHeadline": "The world could run on older hardware if software optimization was a priority, but hey, why fix what isn't broken when you can just buy a new phone every year?"
+    "author": "Fysi",
+    "created_at": "2025-05-14T15:10:15Z",
+    "aiHeadline": "AI takes over the world by designing algorithms, one step closer to Skynet with AlphaEvolve, the Gemini-powered coding agent that probably just coded itself into sentience."
   },
   {
-    "title": "Ask HN: How are you acquiring your first hundred users?",
-    "points": 473,
-    "num_comments": 296,
+    "title": "What is HDR, anyway?",
+    "url": "https://www.lux.camera/what-is-hdr/",
+    "points": 510,
+    "num_comments": 256,
     "tags": [
       "story",
-      "author_amanchanda",
-      "story_43970837",
-      "ask_hn"
-    ],
-    "author": "amanchanda",
-    "created_at": "2025-05-13T08:41:25Z",
-    "aiHeadline": "Ask HN: How are you acquiring your first hundred users? (Hint: Probably not by asking HN, because that's just meta.)"
-  },
-  {
-    "title": "Multiple security issues in GNU Screen",
-    "url": "https://www.openwall.com/lists/oss-security/2025/05/12/1",
-    "points": 340,
-    "num_comments": 203,
-    "tags": [
-      "story",
-      "author_st_goliath",
-      "story_43971716",
+      "author__kush",
+      "story_43983871",
       "front_page"
     ],
-    "author": "st_goliath",
-    "created_at": "2025-05-13T11:28:49Z",
-    "aiHeadline": "Multiple security issues in GNU Screen: Because nothing says 'secure' like a terminal multiplexer that's been around since the dinosaurs roamed the Earth."
+    "author": "_kush",
+    "created_at": "2025-05-14T12:46:39Z",
+    "aiHeadline": "HDR: because regular photos weren't confusing enough, now your camera can make everything look like a painting, but only if you understand the technical jargon."
   },
   {
-    "title": "Branch Privilege Injection: Exploiting branch predictor race conditions",
-    "url": "https://comsec.ethz.ch/research/microarch/branch-privilege-injection/",
-    "points": 324,
-    "num_comments": 128,
+    "title": "Bus stops here: Shanghai lets riders design their own routes",
+    "url": "https://www.sixthtone.com/news/1017072",
+    "points": 448,
+    "num_comments": 314,
     "tags": [
       "story",
-      "author_alberto-m",
-      "story_43974891",
-      "front_page"
+      "author_anigbrowl",
+      "story_43980845"
     ],
-    "author": "alberto-m",
-    "created_at": "2025-05-13T16:44:51Z",
-    "aiHeadline": "Branch Privilege Injection: Exploiting branch predictor race conditions. Because what's the fun in computing if you can't inject some privilege while you're predicting branches?"
+    "author": "anigbrowl",
+    "created_at": "2025-05-14T04:33:21Z",
+    "aiHeadline": "Shanghai's new bus routes: because traffic wasn't bad enough, now riders can design their own routes, which will inevitably lead to buses going in circles."
+  },
+  {
+    "title": "Writing that changed how I think about programming languages",
+    "url": "https://bernsteinbear.com/blog/pl-writing/",
+    "points": 390,
+    "num_comments": 49,
+    "tags": [
+      "story",
+      "author_r4um",
+      "story_43980760"
+    ],
+    "author": "r4um",
+    "created_at": "2025-05-14T04:19:00Z",
+    "aiHeadline": "Programming languages: because choosing between Python and Java wasn't stressful enough, now you have to rethink everything you know about them, thanks to this enlightening article."
+  },
+  {
+    "title": "The recently lost file upload feature in the Nextcloud app for Android",
+    "url": "https://nextcloud.com/blog/nextcloud-android-file-upload-issue-google/",
+    "points": 370,
+    "num_comments": 139,
+    "tags": [
+      "story",
+      "author_morsch",
+      "story_43981170"
+    ],
+    "author": "morsch",
+    "created_at": "2025-05-14T05:38:00Z",
+    "aiHeadline": "Nextcloud's file upload feature: because you didn't have enough problems with cloud storage, now you can't even upload files anymore, and Google is probably to blame."
   }
 ]
