@@ -1,74 +1,75 @@
 [
   {
-    "title": "AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms",
-    "url": "https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/",
-    "points": 672,
-    "num_comments": 184,
+    "title": "Human",
+    "url": "https://quarter--mile.com/Human",
+    "points": 667,
+    "num_comments": 255,
     "tags": [
       "story",
-      "author_Fysi",
-      "story_43985489",
+      "author_surprisetalk",
+      "story_43991396"
+    ],
+    "author": "surprisetalk",
+    "created_at": "2025-05-15T02:57:19Z",
+    "aiHeadline": "Humans: Still the most overrated species on the planet, apparently."
+  },
+  {
+    "title": "Baby is healed with first personalized gene-editing treatment",
+    "url": "https://www.nytimes.com/2025/05/15/health/gene-editing-personalized-rare-disorders.html",
+    "points": 519,
+    "num_comments": 235,
+    "tags": [
+      "story",
+      "author_jbredeche",
+      "story_43997636",
       "front_page"
     ],
-    "author": "Fysi",
-    "created_at": "2025-05-14T15:10:15Z",
-    "aiHeadline": "AI takes over the world by designing algorithms, one step closer to Skynet with AlphaEvolve, the Gemini-powered coding agent that probably just coded itself into sentience."
+    "author": "jbredeche",
+    "created_at": "2025-05-15T18:06:06Z",
+    "aiHeadline": "Miracle cure: Baby gets personalized gene-editing treatment, proving that science is still the best magic."
   },
   {
-    "title": "What is HDR, anyway?",
-    "url": "https://www.lux.camera/what-is-hdr/",
-    "points": 510,
-    "num_comments": 256,
+    "title": "LLMs get lost in multi-turn conversation",
+    "url": "https://arxiv.org/abs/2505.06120",
+    "points": 351,
+    "num_comments": 240,
     "tags": [
       "story",
-      "author__kush",
-      "story_43983871",
+      "author_simonpure",
+      "story_43991256"
+    ],
+    "author": "simonpure",
+    "created_at": "2025-05-15T02:28:42Z",
+    "aiHeadline": "AI chatbots: Still struggling to keep up with basic conversations, one turn at a time."
+  },
+  {
+    "title": "I don't like NumPy",
+    "url": "https://dynomight.net/numpy/",
+    "points": 342,
+    "num_comments": 154,
+    "tags": [
+      "story",
+      "author_MinimalAction",
+      "story_43996431",
       "front_page"
     ],
-    "author": "_kush",
-    "created_at": "2025-05-14T12:46:39Z",
-    "aiHeadline": "HDR: because regular photos weren't confusing enough, now your camera can make everything look like a painting, but only if you understand the technical jargon."
+    "author": "MinimalAction",
+    "created_at": "2025-05-15T16:05:22Z",
+    "aiHeadline": "Why I hate NumPy: Because math is hard enough without these arrays getting in the way."
   },
   {
-    "title": "Bus stops here: Shanghai lets riders design their own routes",
-    "url": "https://www.sixthtone.com/news/1017072",
-    "points": 448,
-    "num_comments": 314,
+    "title": "Malicious compliance by booking an available meeting room",
+    "url": "https://www.clientserver.dev/p/malicious-compliance-by-booking-an",
+    "points": 302,
+    "num_comments": 278,
     "tags": [
       "story",
-      "author_anigbrowl",
-      "story_43980845"
+      "author_jakevoytko",
+      "story_43994765",
+      "front_page"
     ],
-    "author": "anigbrowl",
-    "created_at": "2025-05-14T04:33:21Z",
-    "aiHeadline": "Shanghai's new bus routes: because traffic wasn't bad enough, now riders can design their own routes, which will inevitably lead to buses going in circles."
-  },
-  {
-    "title": "Writing that changed how I think about programming languages",
-    "url": "https://bernsteinbear.com/blog/pl-writing/",
-    "points": 390,
-    "num_comments": 49,
-    "tags": [
-      "story",
-      "author_r4um",
-      "story_43980760"
-    ],
-    "author": "r4um",
-    "created_at": "2025-05-14T04:19:00Z",
-    "aiHeadline": "Programming languages: because choosing between Python and Java wasn't stressful enough, now you have to rethink everything you know about them, thanks to this enlightening article."
-  },
-  {
-    "title": "The recently lost file upload feature in the Nextcloud app for Android",
-    "url": "https://nextcloud.com/blog/nextcloud-android-file-upload-issue-google/",
-    "points": 370,
-    "num_comments": 139,
-    "tags": [
-      "story",
-      "author_morsch",
-      "story_43981170"
-    ],
-    "author": "morsch",
-    "created_at": "2025-05-14T05:38:00Z",
-    "aiHeadline": "Nextcloud's file upload feature: because you didn't have enough problems with cloud storage, now you can't even upload files anymore, and Google is probably to blame."
+    "author": "jakevoytko",
+    "created_at": "2025-05-15T13:20:28Z",
+    "aiHeadline": "The ultimate workplace hack: Booking a meeting room just to spite your coworkers. Genius."
   }
 ]
