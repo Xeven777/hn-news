@@ -1,75 +1,73 @@
 [
   {
-    "title": "Human",
-    "url": "https://quarter--mile.com/Human",
-    "points": 667,
-    "num_comments": 255,
+    "title": "Ground control to Major Trial",
+    "url": "https://virtualize.sh/blog/ground-control-to-major-trial/",
+    "points": 466,
+    "num_comments": 178,
     "tags": [
       "story",
-      "author_surprisetalk",
-      "story_43991396"
+      "author_plam503711",
+      "story_44004388"
     ],
-    "author": "surprisetalk",
-    "created_at": "2025-05-15T02:57:19Z",
-    "aiHeadline": "Humans: Still the most overrated species on the planet, apparently."
+    "author": "plam503711",
+    "created_at": "2025-05-16T12:03:07Z",
+    "aiHeadline": "NASA's latest mission? Ground control to Major Trial, where even the legal system is out of this world."
   },
   {
-    "title": "Baby is healed with first personalized gene-editing treatment",
-    "url": "https://www.nytimes.com/2025/05/15/health/gene-editing-personalized-rare-disorders.html",
-    "points": 519,
-    "num_comments": 235,
+    "title": "A Research Preview of Codex",
+    "url": "https://openai.com/index/introducing-codex/",
+    "points": 368,
+    "num_comments": 285,
     "tags": [
       "story",
-      "author_jbredeche",
-      "story_43997636",
+      "author_meetpateltech",
+      "story_44006345",
       "front_page"
     ],
-    "author": "jbredeche",
-    "created_at": "2025-05-15T18:06:06Z",
-    "aiHeadline": "Miracle cure: Baby gets personalized gene-editing treatment, proving that science is still the best magic."
+    "author": "meetpateltech",
+    "created_at": "2025-05-16T15:02:02Z",
+    "aiHeadline": "AI takes over the world... by writing code. Codex's research preview shows it's ready to replace developers, one line at a time."
   },
   {
-    "title": "LLMs get lost in multi-turn conversation",
-    "url": "https://arxiv.org/abs/2505.06120",
-    "points": 351,
-    "num_comments": 240,
-    "tags": [
-      "story",
-      "author_simonpure",
-      "story_43991256"
-    ],
-    "author": "simonpure",
-    "created_at": "2025-05-15T02:28:42Z",
-    "aiHeadline": "AI chatbots: Still struggling to keep up with basic conversations, one turn at a time."
-  },
-  {
-    "title": "I don't like NumPy",
-    "url": "https://dynomight.net/numpy/",
+    "title": "Ollama's new engine for multimodal models",
+    "url": "https://ollama.com/blog/multimodal-models",
     "points": 342,
-    "num_comments": 154,
+    "num_comments": 77,
     "tags": [
       "story",
-      "author_MinimalAction",
-      "story_43996431",
-      "front_page"
+      "author_LorenDB",
+      "story_44001087"
     ],
-    "author": "MinimalAction",
-    "created_at": "2025-05-15T16:05:22Z",
-    "aiHeadline": "Why I hate NumPy: Because math is hard enough without these arrays getting in the way."
+    "author": "LorenDB",
+    "created_at": "2025-05-16T01:43:27Z",
+    "aiHeadline": "Ollama's new engine: because one model wasn't enough, now it can handle everything from text to images, proving that multimodal models are the ultimate multitaskers."
   },
   {
-    "title": "Malicious compliance by booking an available meeting room",
-    "url": "https://www.clientserver.dev/p/malicious-compliance-by-booking-an",
-    "points": 302,
-    "num_comments": 278,
+    "title": "BuyMeACoffee silently dropped support for many countries (2024)",
+    "url": "https://zverok.space/blog/2024-08-08-bmac-snafu.html",
+    "points": 326,
+    "num_comments": 282,
     "tags": [
       "story",
-      "author_jakevoytko",
-      "story_43994765",
-      "front_page"
+      "author_beeburrt",
+      "story_44002333"
     ],
-    "author": "jakevoytko",
-    "created_at": "2025-05-15T13:20:28Z",
-    "aiHeadline": "The ultimate workplace hack: Booking a meeting room just to spite your coworkers. Genius."
+    "author": "beeburrt",
+    "created_at": "2025-05-16T06:23:05Z",
+    "aiHeadline": "BuyMeACoffee: because supporting every country was just too easy, they've decided to drop support for many, proving that sometimes, less is just less."
+  },
+  {
+    "title": "After months of coding with LLMs, I'm going back to using my brain",
+    "url": "https://albertofortin.com/writing/coding-with-ai",
+    "points": 314,
+    "num_comments": 197,
+    "tags": [
+      "story",
+      "author_a7fort",
+      "story_44003700"
+    ],
+    "author": "a7fort",
+    "created_at": "2025-05-16T10:29:35Z",
+    "aiHeadline": "After months of relying on AI, this developer has had an epiphany: maybe using their brain isn't such a bad idea after all. Who knew?"
   }
 ]
