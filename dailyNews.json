@@ -1,73 +1,75 @@
 [
   {
-    "title": "Ground control to Major Trial",
-    "url": "https://virtualize.sh/blog/ground-control-to-major-trial/",
-    "points": 466,
-    "num_comments": 178,
+    "title": "Push Ifs Up and Fors Down",
+    "url": "https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html",
+    "points": 364,
+    "num_comments": 140,
     "tags": [
       "story",
-      "author_plam503711",
-      "story_44004388"
-    ],
-    "author": "plam503711",
-    "created_at": "2025-05-16T12:03:07Z",
-    "aiHeadline": "NASA's latest mission? Ground control to Major Trial, where even the legal system is out of this world."
-  },
-  {
-    "title": "A Research Preview of Codex",
-    "url": "https://openai.com/index/introducing-codex/",
-    "points": 368,
-    "num_comments": 285,
-    "tags": [
-      "story",
-      "author_meetpateltech",
-      "story_44006345",
+      "author_goranmoomin",
+      "story_44013157",
       "front_page"
     ],
-    "author": "meetpateltech",
-    "created_at": "2025-05-16T15:02:02Z",
-    "aiHeadline": "AI takes over the world... by writing code. Codex's research preview shows it's ready to replace developers, one line at a time."
+    "author": "goranmoomin",
+    "created_at": "2025-05-17T09:31:55Z",
+    "aiHeadline": "Finally, the One Programming Tip You've Been Missing Your Whole Life: Push Ifs Up and Fors Down!"
   },
   {
-    "title": "Ollama's new engine for multimodal models",
-    "url": "https://ollama.com/blog/multimodal-models",
-    "points": 342,
-    "num_comments": 77,
+    "title": "JavaScript's New Superpower: Explicit Resource Management",
+    "url": "https://v8.dev/features/explicit-resource-management",
+    "points": 292,
+    "num_comments": 187,
     "tags": [
       "story",
-      "author_LorenDB",
-      "story_44001087"
+      "author_olalonde",
+      "story_44012227",
+      "front_page"
     ],
-    "author": "LorenDB",
-    "created_at": "2025-05-16T01:43:27Z",
-    "aiHeadline": "Ollama's new engine: because one model wasn't enough, now it can handle everything from text to images, proving that multimodal models are the ultimate multitaskers."
+    "author": "olalonde",
+    "created_at": "2025-05-17T05:23:20Z",
+    "aiHeadline": "JavaScript Finally Gets a Superpower, Because Who Needs Sleep When You Can Manage Resources Explicitly?"
   },
   {
-    "title": "BuyMeACoffee silently dropped support for many countries (2024)",
-    "url": "https://zverok.space/blog/2024-08-08-bmac-snafu.html",
-    "points": 326,
-    "num_comments": 282,
+    "title": "Proton threatens to quit Switzerland over new surveillance law",
+    "url": "https://www.techradar.com/vpn/vpn-privacy-security/we-would-be-less-confidential-than-google-proton-threatens-to-quit-switzerland-over-new-surveillance-law",
+    "points": 262,
+    "num_comments": 143,
     "tags": [
       "story",
-      "author_beeburrt",
-      "story_44002333"
+      "author_taubek",
+      "story_44014808",
+      "front_page"
     ],
-    "author": "beeburrt",
-    "created_at": "2025-05-16T06:23:05Z",
-    "aiHeadline": "BuyMeACoffee: because supporting every country was just too easy, they've decided to drop support for many, proving that sometimes, less is just less."
+    "author": "taubek",
+    "created_at": "2025-05-17T14:59:10Z",
+    "aiHeadline": "Proton: 'We'd Rather Be Stateless Than Less Private' – Threatens to Quit Switzerland Over Surveillance Law."
   },
   {
-    "title": "After months of coding with LLMs, I'm going back to using my brain",
-    "url": "https://albertofortin.com/writing/coding-with-ai",
-    "points": 314,
-    "num_comments": 197,
+    "title": "XTool – Cross-platform Xcode replacement",
+    "url": "https://github.com/xtool-org/xtool",
+    "points": 186,
+    "num_comments": 55,
     "tags": [
       "story",
-      "author_a7fort",
-      "story_44003700"
+      "author_TheWiggles",
+      "story_44011515"
     ],
-    "author": "a7fort",
-    "created_at": "2025-05-16T10:29:35Z",
-    "aiHeadline": "After months of relying on AI, this developer has had an epiphany: maybe using their brain isn't such a bad idea after all. Who knew?"
+    "author": "TheWiggles",
+    "created_at": "2025-05-17T02:10:36Z",
+    "aiHeadline": "XTool: The Cross-Platform Xcode Replacement That Will Probably Break Everything But Look Cool Doing It."
+  },
+  {
+    "title": "Wow@Home – Network of Amateur Radio Telescopes",
+    "url": "https://phl.upr.edu/wow/outreach",
+    "points": 185,
+    "num_comments": 32,
+    "tags": [
+      "story",
+      "author_visviva",
+      "story_44011489"
+    ],
+    "author": "visviva",
+    "created_at": "2025-05-17T02:02:14Z",
+    "aiHeadline": "Wow@Home: Because Who Needs Professional Astronomers When You've Got a Network of Amateur Radio Telescopes?"
   }
 ]
