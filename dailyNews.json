@@ -1,75 +1,78 @@
 [
   {
-    "title": "Push Ifs Up and Fors Down",
-    "url": "https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html",
-    "points": 364,
-    "num_comments": 140,
+    "title": "Spaced repetition systems have gotten better",
+    "url": "https://domenic.me/fsrs/",
+    "points": 706,
+    "num_comments": 420,
     "tags": [
       "story",
-      "author_goranmoomin",
-      "story_44013157",
+      "author_domenicd",
+      "story_44020591",
       "front_page"
     ],
-    "author": "goranmoomin",
-    "created_at": "2025-05-17T09:31:55Z",
-    "aiHeadline": "Finally, the One Programming Tip You've Been Missing Your Whole Life: Push Ifs Up and Fors Down!"
+    "author": "domenicd",
+    "created_at": "2025-05-18T11:42:19Z",
+    "aiHeadline": "Finally, after years of being the most boring productivity tool, spaced repetition systems have gotten slightly less terrible."
   },
   {
-    "title": "JavaScript's New Superpower: Explicit Resource Management",
-    "url": "https://v8.dev/features/explicit-resource-management",
-    "points": 292,
-    "num_comments": 187,
+    "title": "Show HN: I modeled the Voynich Manuscript with SBERT to test for structure",
+    "url": "https://github.com/brianmg/voynich-nlp-analysis",
+    "points": 274,
+    "num_comments": 84,
     "tags": [
       "story",
-      "author_olalonde",
-      "story_44012227",
+      "author_brig90",
+      "story_44022353",
+      "show_hn",
       "front_page"
     ],
-    "author": "olalonde",
-    "created_at": "2025-05-17T05:23:20Z",
-    "aiHeadline": "JavaScript Finally Gets a Superpower, Because Who Needs Sleep When You Can Manage Resources Explicitly?"
+    "author": "brig90",
+    "created_at": "2025-05-18T16:09:01Z",
+    "aiHeadline": "Because the world really needed another attempt to decode the Voynich Manuscript, someone used SBERT to model it and found... well, probably nothing useful."
   },
   {
-    "title": "Proton threatens to quit Switzerland over new surveillance law",
-    "url": "https://www.techradar.com/vpn/vpn-privacy-security/we-would-be-less-confidential-than-google-proton-threatens-to-quit-switzerland-over-new-surveillance-law",
-    "points": 262,
-    "num_comments": 143,
+    "title": "France Becomes First Government to Endorse UN Open Source Principles",
+    "url": "https://social.numerique.gouv.fr/@codegouvfr/114529954373492878",
+    "points": 266,
+    "num_comments": 58,
     "tags": [
       "story",
-      "author_taubek",
-      "story_44014808",
+      "author_bzg",
+      "story_44024759",
       "front_page"
     ],
-    "author": "taubek",
-    "created_at": "2025-05-17T14:59:10Z",
-    "aiHeadline": "Proton: 'We'd Rather Be Stateless Than Less Private' – Threatens to Quit Switzerland Over Surveillance Law."
+    "author": "bzg",
+    "created_at": "2025-05-18T22:27:07Z",
+    "aiHeadline": "In a shocking move, France endorses open-source principles, proving that even governments can occasionally do something right."
   },
   {
-    "title": "XTool – Cross-platform Xcode replacement",
-    "url": "https://github.com/xtool-org/xtool",
+    "title": "Ditching Obsidian and building my own",
+    "url": "https://amberwilliams.io/blogs/building-my-own-pkms",
+    "points": 235,
+    "num_comments": 268,
+    "tags": [
+      "story",
+      "author_williamsss",
+      "story_44022448",
+      "front_page"
+    ],
+    "author": "williamsss",
+    "created_at": "2025-05-18T16:21:50Z",
+    "aiHeadline": "Why use Obsidian when you can build your own note-taking system and spend countless hours debugging? Someone decided to find out."
+  },
+  {
+    "title": "$30 Homebrew Automated Blinds Opener",
+    "url": "https://sifter.org/~simon/journal/20240718.html",
     "points": 186,
-    "num_comments": 55,
+    "num_comments": 79,
     "tags": [
       "story",
-      "author_TheWiggles",
-      "story_44011515"
+      "author_busymom0",
+      "story_44022758",
+      "front_page"
     ],
-    "author": "TheWiggles",
-    "created_at": "2025-05-17T02:10:36Z",
-    "aiHeadline": "XTool: The Cross-Platform Xcode Replacement That Will Probably Break Everything But Look Cool Doing It."
-  },
-  {
-    "title": "Wow@Home – Network of Amateur Radio Telescopes",
-    "url": "https://phl.upr.edu/wow/outreach",
-    "points": 185,
-    "num_comments": 32,
-    "tags": [
-      "story",
-      "author_visviva",
-      "story_44011489"
-    ],
-    "author": "visviva",
-    "created_at": "2025-05-17T02:02:14Z",
-    "aiHeadline": "Wow@Home: Because Who Needs Professional Astronomers When You've Got a Network of Amateur Radio Telescopes?"
+    "author": "busymom0",
+    "created_at": "2025-05-18T17:05:56Z",
+    "aiHeadline": "Because manually opening your blinds is just too much work, someone built an automated opener for $30 and now can finally relax... until the next DIY project."
   }
 ]
