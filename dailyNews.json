@@ -1,78 +1,76 @@
 [
   {
-    "title": "Spaced repetition systems have gotten better",
-    "url": "https://domenic.me/fsrs/",
-    "points": 706,
-    "num_comments": 420,
+    "title": "The Windows Subsystem for Linux is now open source",
+    "url": "https://blogs.windows.com/windowsdeveloper/2025/05/19/the-windows-subsystem-for-linux-is-now-open-source/",
+    "points": 1061,
+    "num_comments": 702,
     "tags": [
       "story",
-      "author_domenicd",
-      "story_44020591",
+      "author_pentagrama",
+      "story_44031385",
       "front_page"
     ],
-    "author": "domenicd",
-    "created_at": "2025-05-18T11:42:19Z",
-    "aiHeadline": "Finally, after years of being the most boring productivity tool, spaced repetition systems have gotten slightly less terrible."
+    "author": "pentagrama",
+    "created_at": "2025-05-19T16:14:15Z",
+    "aiHeadline": "Microsoft finally opens up WSL, because who doesn't love a good Linux on Windows paradox?"
   },
   {
-    "title": "Show HN: I modeled the Voynich Manuscript with SBERT to test for structure",
-    "url": "https://github.com/brianmg/voynich-nlp-analysis",
-    "points": 274,
-    "num_comments": 84,
+    "title": "Don't guess my language",
+    "url": "https://vitonsky.net/blog/2025/05/17/language-detection/",
+    "points": 601,
+    "num_comments": 339,
     "tags": [
       "story",
-      "author_brig90",
-      "story_44022353",
-      "show_hn",
-      "front_page"
+      "author_e-topy",
+      "story_44028153"
     ],
-    "author": "brig90",
-    "created_at": "2025-05-18T16:09:01Z",
-    "aiHeadline": "Because the world really needed another attempt to decode the Voynich Manuscript, someone used SBERT to model it and found... well, probably nothing useful."
+    "author": "e-topy",
+    "created_at": "2025-05-19T10:12:53Z",
+    "aiHeadline": "A new tool is tired of guessing your language, because honestly, it's not a game."
   },
   {
-    "title": "France Becomes First Government to Endorse UN Open Source Principles",
-    "url": "https://social.numerique.gouv.fr/@codegouvfr/114529954373492878",
-    "points": 266,
-    "num_comments": 58,
+    "title": "Zod 4",
+    "url": "https://zod.dev/v4",
+    "points": 583,
+    "num_comments": 180,
     "tags": [
       "story",
-      "author_bzg",
-      "story_44024759",
+      "author_bpierre",
+      "story_44030850",
       "front_page"
     ],
-    "author": "bzg",
-    "created_at": "2025-05-18T22:27:07Z",
-    "aiHeadline": "In a shocking move, France endorses open-source principles, proving that even governments can occasionally do something right."
+    "author": "bpierre",
+    "created_at": "2025-05-19T15:24:58Z",
+    "aiHeadline": "Zod 4 is here, because clearly, the first three weren't enough to confuse you."
   },
   {
-    "title": "Ditching Obsidian and building my own",
-    "url": "https://amberwilliams.io/blogs/building-my-own-pkms",
-    "points": 235,
-    "num_comments": 268,
+    "title": "GitHub Copilot Coding Agent",
+    "url": "https://github.blog/changelog/2025-05-19-github-copilot-coding-agent-in-public-preview/",
+    "points": 325,
+    "num_comments": 194,
     "tags": [
       "story",
-      "author_williamsss",
-      "story_44022448",
+      "author_net01",
+      "story_44031432",
       "front_page"
     ],
-    "author": "williamsss",
-    "created_at": "2025-05-18T16:21:50Z",
-    "aiHeadline": "Why use Obsidian when you can build your own note-taking system and spend countless hours debugging? Someone decided to find out."
+    "author": "net01",
+    "created_at": "2025-05-19T16:17:56Z",
+    "aiHeadline": "GitHub Copilot is here to be your coding sidekick, because who doesn't need a robot to write their code for them?"
   },
   {
-    "title": "$30 Homebrew Automated Blinds Opener",
-    "url": "https://sifter.org/~simon/journal/20240718.html",
-    "points": 186,
-    "num_comments": 79,
+    "title": "Have I Been Pwned 2.0",
+    "url": "https://www.troyhunt.com/have-i-been-pwned-2-0-is-now-live/",
+    "points": 300,
+    "num_comments": 93,
     "tags": [
       "story",
-      "author_busymom0",
-      "story_44022758",
+      "author_LorenDB",
+      "story_44035158",
       "front_page"
     ],
-    "author": "busymom0",
-    "created_at": "2025-05-18T17:05:56Z",
-    "aiHeadline": "Because manually opening your blinds is just too much work, someone built an automated opener for $30 and now can finally relax... until the next DIY project."
+    "author": "LorenDB",
+    "created_at": "2025-05-19T21:37:23Z",
+    "aiHeadline": "Have I Been Pwned 2.0 is here to remind you that the internet is a dark, scary place, and your data is probably out there somewhere."
   }
 ]
