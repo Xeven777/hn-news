@@ -1,76 +1,74 @@
 [
   {
-    "title": "The Windows Subsystem for Linux is now open source",
-    "url": "https://blogs.windows.com/windowsdeveloper/2025/05/19/the-windows-subsystem-for-linux-is-now-open-source/",
-    "points": 1061,
-    "num_comments": 702,
+    "title": "Making video games (without an engine) in 2025",
+    "url": "https://noelberry.ca/posts/making_games_in_2025/",
+    "points": 498,
+    "num_comments": 222,
     "tags": [
       "story",
-      "author_pentagrama",
-      "story_44031385",
-      "front_page"
+      "author_selvan",
+      "story_44038209"
     ],
-    "author": "pentagrama",
-    "created_at": "2025-05-19T16:14:15Z",
-    "aiHeadline": "Microsoft finally opens up WSL, because who doesn't love a good Linux on Windows paradox?"
+    "author": "selvan",
+    "created_at": "2025-05-20T05:54:58Z",
+    "aiHeadline": "Making video games without an engine in 2025: because who needs tools when you can just roll up your sleeves and code everything from scratch, right?"
   },
   {
-    "title": "Don't guess my language",
-    "url": "https://vitonsky.net/blog/2025/05/17/language-detection/",
-    "points": 601,
-    "num_comments": 339,
+    "title": "Veo 3 and Imagen 4, and a new tool for filmmaking called Flow",
+    "url": "https://blog.google/technology/ai/generative-media-models-io-2025/",
+    "points": 453,
+    "num_comments": 267,
     "tags": [
       "story",
-      "author_e-topy",
-      "story_44028153"
-    ],
-    "author": "e-topy",
-    "created_at": "2025-05-19T10:12:53Z",
-    "aiHeadline": "A new tool is tired of guessing your language, because honestly, it's not a game."
-  },
-  {
-    "title": "Zod 4",
-    "url": "https://zod.dev/v4",
-    "points": 583,
-    "num_comments": 180,
-    "tags": [
-      "story",
-      "author_bpierre",
-      "story_44030850",
+      "author_youssefarizk",
+      "story_44044043",
       "front_page"
     ],
-    "author": "bpierre",
-    "created_at": "2025-05-19T15:24:58Z",
-    "aiHeadline": "Zod 4 is here, because clearly, the first three weren't enough to confuse you."
+    "author": "youssefarizk",
+    "created_at": "2025-05-20T17:46:36Z",
+    "aiHeadline": "Veo 3, Imagen 4, and Flow: the latest in filmmaking tech, because apparently we need more acronyms to make movies look cool."
   },
   {
-    "title": "GitHub Copilot Coding Agent",
-    "url": "https://github.blog/changelog/2025-05-19-github-copilot-coding-agent-in-public-preview/",
-    "points": 325,
-    "num_comments": 194,
+    "title": "Finland announces migration of its rail network to international gauge",
+    "url": "https://yle.fi/a/74-20161606",
+    "points": 425,
+    "num_comments": 395,
     "tags": [
       "story",
-      "author_net01",
-      "story_44031432",
-      "front_page"
+      "author_axelfontaine",
+      "story_44038835"
     ],
-    "author": "net01",
-    "created_at": "2025-05-19T16:17:56Z",
-    "aiHeadline": "GitHub Copilot is here to be your coding sidekick, because who doesn't need a robot to write their code for them?"
+    "author": "axelfontaine",
+    "created_at": "2025-05-20T07:40:28Z",
+    "aiHeadline": "Finland switches its rail network to international gauge: because being different was just too much fun, apparently."
   },
   {
-    "title": "Have I Been Pwned 2.0",
-    "url": "https://www.troyhunt.com/have-i-been-pwned-2-0-is-now-live/",
-    "points": 300,
-    "num_comments": 93,
+    "title": "Deep Learning Is Applied Topology",
+    "url": "https://theahura.substack.com/p/deep-learning-is-applied-topology",
+    "points": 352,
+    "num_comments": 155,
     "tags": [
       "story",
-      "author_LorenDB",
-      "story_44035158",
+      "author_theahura",
+      "story_44041738",
       "front_page"
     ],
-    "author": "LorenDB",
-    "created_at": "2025-05-19T21:37:23Z",
-    "aiHeadline": "Have I Been Pwned 2.0 is here to remind you that the internet is a dark, scary place, and your data is probably out there somewhere."
+    "author": "theahura",
+    "created_at": "2025-05-20T13:54:54Z",
+    "aiHeadline": "Deep Learning is Applied Topology: because mathletes everywhere needed another reason to feel superior."
+  },
+  {
+    "title": "AI in my plasma physics research didn’t go the way I expected",
+    "url": "https://www.understandingai.org/p/i-got-fooled-by-ai-for-science-hypeheres",
+    "points": 334,
+    "num_comments": 263,
+    "tags": [
+      "story",
+      "author_qianli_cs",
+      "story_44037941"
+    ],
+    "author": "qianli_cs",
+    "created_at": "2025-05-20T04:57:00Z",
+    "aiHeadline": "AI in plasma physics research didn't go as expected: because sometimes the algorithm just decides it's smarter than you."
   }
 ]
