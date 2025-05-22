@@ -1,74 +1,76 @@
 [
   {
-    "title": "Making video games (without an engine) in 2025",
-    "url": "https://noelberry.ca/posts/making_games_in_2025/",
-    "points": 498,
-    "num_comments": 222,
+    "title": "Watching AI drive Microsoft employees insane",
+    "url": "https://old.reddit.com/r/ExperiencedDevs/comments/1krttqo/my_new_hobby_watching_ai_slowly_drive_microsoft/",
+    "points": 917,
+    "num_comments": 488,
     "tags": [
       "story",
-      "author_selvan",
-      "story_44038209"
+      "author_laiysb",
+      "story_44050152"
     ],
-    "author": "selvan",
-    "created_at": "2025-05-20T05:54:58Z",
-    "aiHeadline": "Making video games without an engine in 2025: because who needs tools when you can just roll up your sleeves and code everything from scratch, right?"
+    "author": "laiysb",
+    "created_at": "2025-05-21T10:57:08Z",
+    "aiHeadline": "AI at Microsoft: Because nothing says 'productivity' like watching an AI try to herd cats and fail spectacularly."
   },
   {
-    "title": "Veo 3 and Imagen 4, and a new tool for filmmaking called Flow",
-    "url": "https://blog.google/technology/ai/generative-media-models-io-2025/",
-    "points": 453,
-    "num_comments": 267,
+    "title": "OpenAI to buy AI startup from Jony Ive",
+    "url": "https://www.bloomberg.com/news/articles/2025-05-21/openai-to-buy-apple-veteran-jony-ive-s-ai-device-startup-in-6-5-billion-deal",
+    "points": 628,
+    "num_comments": 870,
     "tags": [
       "story",
-      "author_youssefarizk",
-      "story_44044043",
+      "author_minimaxir",
+      "story_44053518",
       "front_page"
     ],
-    "author": "youssefarizk",
-    "created_at": "2025-05-20T17:46:36Z",
-    "aiHeadline": "Veo 3, Imagen 4, and Flow: the latest in filmmaking tech, because apparently we need more acronyms to make movies look cool."
+    "author": "minimaxir",
+    "created_at": "2025-05-21T17:01:35Z",
+    "aiHeadline": "OpenAI Buys Jony Ive's AI Startup: Because what the world needs now is another AI company, right? Or maybe OpenAI is just trying to buy its way out of its own incompetence."
   },
   {
-    "title": "Finland announces migration of its rail network to international gauge",
-    "url": "https://yle.fi/a/74-20161606",
-    "points": 425,
-    "num_comments": 395,
+    "title": "By default, Signal doesn't recall",
+    "url": "https://signal.org/blog/signal-doesnt-recall/",
+    "points": 433,
+    "num_comments": 328,
     "tags": [
       "story",
-      "author_axelfontaine",
-      "story_44038835"
-    ],
-    "author": "axelfontaine",
-    "created_at": "2025-05-20T07:40:28Z",
-    "aiHeadline": "Finland switches its rail network to international gauge: because being different was just too much fun, apparently."
-  },
-  {
-    "title": "Deep Learning Is Applied Topology",
-    "url": "https://theahura.substack.com/p/deep-learning-is-applied-topology",
-    "points": 352,
-    "num_comments": 155,
-    "tags": [
-      "story",
-      "author_theahura",
-      "story_44041738",
+      "author_feross",
+      "story_44053364",
       "front_page"
     ],
-    "author": "theahura",
-    "created_at": "2025-05-20T13:54:54Z",
-    "aiHeadline": "Deep Learning is Applied Topology: because mathletes everywhere needed another reason to feel superior."
+    "author": "feross",
+    "created_at": "2025-05-21T16:46:53Z",
+    "aiHeadline": "Signal Finally Admits It Doesn't Recall: Because who needs a reliable messaging app when you can have one that's just 'secure' but also 'forgetful'?"
   },
   {
-    "title": "AI in my plasma physics research didn’t go the way I expected",
-    "url": "https://www.understandingai.org/p/i-got-fooled-by-ai-for-science-hypeheres",
-    "points": 334,
-    "num_comments": 263,
+    "title": "Devstral",
+    "url": "https://mistral.ai/news/devstral",
+    "points": 372,
+    "num_comments": 75,
     "tags": [
       "story",
-      "author_qianli_cs",
-      "story_44037941"
+      "author_mfiguiere",
+      "story_44051733",
+      "front_page"
     ],
-    "author": "qianli_cs",
-    "created_at": "2025-05-20T04:57:00Z",
-    "aiHeadline": "AI in plasma physics research didn't go as expected: because sometimes the algorithm just decides it's smarter than you."
+    "author": "mfiguiere",
+    "created_at": "2025-05-21T14:21:10Z",
+    "aiHeadline": "Devstral: The Latest in AI Development, Because Sometimes You Need a Little 'Dev' in Your 'Stal'... Or Maybe It's Just Another Buzzword."
+  },
+  {
+    "title": "Animated Factorization (2012)",
+    "url": "http://www.datapointed.net/visualizations/math/factorization/animated-diagrams/",
+    "points": 225,
+    "num_comments": 53,
+    "tags": [
+      "story",
+      "author_miniBill",
+      "story_44051958",
+      "front_page"
+    ],
+    "author": "miniBill",
+    "created_at": "2025-05-21T14:39:37Z",
+    "aiHeadline": "Animated Factorization (2012): Because Sometimes the Best Visualizations Are the Ones That Look Like They Were Made in the Early 2000s."
   }
 ]
