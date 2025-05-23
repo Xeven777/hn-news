@@ -1,76 +1,75 @@
 [
   {
-    "title": "Watching AI drive Microsoft employees insane",
-    "url": "https://old.reddit.com/r/ExperiencedDevs/comments/1krttqo/my_new_hobby_watching_ai_slowly_drive_microsoft/",
-    "points": 917,
-    "num_comments": 488,
+    "title": "Claude 4",
+    "url": "https://www.anthropic.com/news/claude-4",
+    "points": 1461,
+    "num_comments": 792,
     "tags": [
       "story",
-      "author_laiysb",
-      "story_44050152"
-    ],
-    "author": "laiysb",
-    "created_at": "2025-05-21T10:57:08Z",
-    "aiHeadline": "AI at Microsoft: Because nothing says 'productivity' like watching an AI try to herd cats and fail spectacularly."
-  },
-  {
-    "title": "OpenAI to buy AI startup from Jony Ive",
-    "url": "https://www.bloomberg.com/news/articles/2025-05-21/openai-to-buy-apple-veteran-jony-ive-s-ai-device-startup-in-6-5-billion-deal",
-    "points": 628,
-    "num_comments": 870,
-    "tags": [
-      "story",
-      "author_minimaxir",
-      "story_44053518",
+      "author_meetpateltech",
+      "story_44063703",
       "front_page"
     ],
-    "author": "minimaxir",
-    "created_at": "2025-05-21T17:01:35Z",
-    "aiHeadline": "OpenAI Buys Jony Ive's AI Startup: Because what the world needs now is another AI company, right? Or maybe OpenAI is just trying to buy its way out of its own incompetence."
+    "author": "meetpateltech",
+    "created_at": "2025-05-22T16:34:42Z",
+    "aiHeadline": "Claude 4: The AI That Finally Learned How to Say 'No' to Your Stupid Requests"
   },
   {
-    "title": "By default, Signal doesn't recall",
-    "url": "https://signal.org/blog/signal-doesnt-recall/",
-    "points": 433,
-    "num_comments": 328,
+    "title": "Mozilla to shut down Pocket on July 8",
+    "url": "https://support.mozilla.org/en-US/kb/future-of-pocket",
+    "points": 772,
+    "num_comments": 494,
     "tags": [
       "story",
-      "author_feross",
-      "story_44053364",
+      "author_phantomathkg",
+      "story_44063662",
       "front_page"
     ],
-    "author": "feross",
-    "created_at": "2025-05-21T16:46:53Z",
-    "aiHeadline": "Signal Finally Admits It Doesn't Recall: Because who needs a reliable messaging app when you can have one that's just 'secure' but also 'forgetful'?"
+    "author": "phantomathkg",
+    "created_at": "2025-05-22T16:30:18Z",
+    "aiHeadline": "Mozilla Officially Kills Pocket: Because Who Needs to Actually Read Articles When You Can Just Save Them for Later?"
   },
   {
-    "title": "Devstral",
-    "url": "https://mistral.ai/news/devstral",
-    "points": 372,
-    "num_comments": 75,
+    "title": "Trump administration halts Harvard's ability to enroll international students",
+    "url": "https://www.nytimes.com/2025/05/22/us/politics/trump-harvard-international-students.html",
+    "points": 622,
+    "num_comments": 642,
     "tags": [
       "story",
-      "author_mfiguiere",
-      "story_44051733",
-      "front_page"
+      "author_S0y",
+      "story_44064631"
     ],
-    "author": "mfiguiere",
-    "created_at": "2025-05-21T14:21:10Z",
-    "aiHeadline": "Devstral: The Latest in AI Development, Because Sometimes You Need a Little 'Dev' in Your 'Stal'... Or Maybe It's Just Another Buzzword."
+    "author": "S0y",
+    "created_at": "2025-05-22T17:48:05Z",
+    "aiHeadline": "Trump Admin: Harvard's International Students Are Too Smart, Let's Keep Them Out! (Because America Needs More Genius-level Problems, Right?)"
   },
   {
-    "title": "Animated Factorization (2012)",
-    "url": "http://www.datapointed.net/visualizations/math/factorization/animated-diagrams/",
-    "points": 225,
-    "num_comments": 53,
+    "title": "The scientific “unit” we call the decibel",
+    "url": "https://lcamtuf.substack.com/p/decibels-are-ridiculous",
+    "points": 579,
+    "num_comments": 450,
     "tags": [
       "story",
-      "author_miniBill",
-      "story_44051958",
+      "author_Ariarule",
+      "story_44058778"
+    ],
+    "author": "Ariarule",
+    "created_at": "2025-05-22T04:24:33Z",
+    "aiHeadline": "Scientists Finally Admit Decibels Are Useless: Because Who Knew Measuring Noise Could Be So Noisy?"
+  },
+  {
+    "title": "Planetfall",
+    "url": "https://somethingaboutmaps.wordpress.com/2025/05/20/planetfall/",
+    "points": 313,
+    "num_comments": 86,
+    "tags": [
+      "story",
+      "author_milliams",
+      "story_44060305",
       "front_page"
     ],
-    "author": "miniBill",
-    "created_at": "2025-05-21T14:39:37Z",
-    "aiHeadline": "Animated Factorization (2012): Because Sometimes the Best Visualizations Are the Ones That Look Like They Were Made in the Early 2000s."
+    "author": "milliams",
+    "created_at": "2025-05-22T09:17:57Z",
+    "aiHeadline": "Planetfall: The Most Ambitious Map of Nowhere You'll Ever See, Because Who Needs Directions When You're Lost Anyway?"
   }
 ]
