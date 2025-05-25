@@ -1,77 +1,77 @@
 [
   {
-    "title": "Postgres IDE in VS Code",
-    "url": "https://techcommunity.microsoft.com/blog/adforpostgresql/announcing-a-new-ide-for-postgresql-in-vs-code-from-microsoft/4414648",
-    "points": 679,
-    "num_comments": 283,
+    "title": "I used o3 to find a remote zeroday in the Linux SMB implementation",
+    "url": "https://sean.heelan.io/2025/05/22/how-i-used-o3-to-find-cve-2025-37899-a-remote-zeroday-vulnerability-in-the-linux-kernels-smb-implementation/",
+    "points": 327,
+    "num_comments": 101,
     "tags": [
       "story",
-      "author_Dowwie",
-      "story_44073588",
+      "author_zielmicha",
+      "story_44081338",
       "front_page"
     ],
-    "author": "Dowwie",
-    "created_at": "2025-05-23T15:12:44Z",
-    "aiHeadline": "Finally, after years of waiting, Microsoft brings us the revolutionary new IDE for Postgres in VS Code—because clearly, we all needed another tool for the same job."
+    "author": "zielmicha",
+    "created_at": "2025-05-24T14:25:45Z",
+    "aiHeadline": "Hackers find new Linux exploit, while you're still arguing about the best way to make coffee."
   },
   {
-    "title": "John Carmack talk at Upper Bound 2025",
-    "url": "https://twitter.com/ID_AA_Carmack/status/1925710474366034326",
-    "points": 485,
-    "num_comments": 325,
+    "title": "Why Algebraic Effects?",
+    "url": "https://antelang.org/blog/why_effects/",
+    "points": 274,
+    "num_comments": 168,
+    "tags": [
+      "story",
+      "author_jiggawatts",
+      "story_44078434",
+      "front_page"
+    ],
+    "author": "jiggawatts",
+    "created_at": "2025-05-24T03:00:53Z",
+    "aiHeadline": "Functional programming just got more exciting—now with side effects! Or maybe not?"
+  },
+  {
+    "title": "Show HN: Rotary Phone Dial Linux Kernel Driver",
+    "url": "https://gitlab.com/sephalon/rotary_dial_kmod",
+    "points": 274,
+    "num_comments": 37,
+    "tags": [
+      "story",
+      "author_sephalon",
+      "story_44080803",
+      "show_hn",
+      "front_page"
+    ],
+    "author": "sephalon",
+    "created_at": "2025-05-24T13:02:00Z",
+    "aiHeadline": "Linux kernel developers are so nostalgic, they're bringing back rotary phones—because who needs smartphones, right?"
+  },
+  {
+    "title": "Reinvent the Wheel",
+    "url": "https://endler.dev/2025/reinvent-the-wheel/",
+    "points": 192,
+    "num_comments": 107,
+    "tags": [
+      "story",
+      "author_zdw",
+      "story_44083467",
+      "front_page"
+    ],
+    "author": "zdw",
+    "created_at": "2025-05-24T20:05:12Z",
+    "aiHeadline": "Why fix what's not broken? Let's reinvent the wheel—again! This time, it's a square!"
+  },
+  {
+    "title": "You're a little company, now act like one",
+    "url": "https://longform.asmartbear.com/little-company/",
+    "points": 190,
+    "num_comments": 36,
     "tags": [
       "story",
       "author_tosh",
-      "story_44070042",
-      "front_page"
+      "story_44081494"
     ],
     "author": "tosh",
-    "created_at": "2025-05-23T05:14:16Z",
-    "aiHeadline": "John Carmack, the guy who probably invented the wheel and the internet, gives another mind-blowing talk at Upper Bound 2025—because who doesn't want to hear him talk about the next big thing again?"
-  },
-  {
-    "title": "Find Your People",
-    "url": "https://foundersatwork.posthaven.com/find-your-people",
-    "points": 378,
-    "num_comments": 159,
-    "tags": [
-      "story",
-      "author_jl",
-      "story_44074017",
-      "front_page"
-    ],
-    "author": "jl",
-    "created_at": "2025-05-23T16:02:02Z",
-    "aiHeadline": "Looking for your tribe? Well, here's a guide on how to 'Find Your People'—because nothing says 'success' like surrounding yourself with people who think exactly like you."
-  },
-  {
-    "title": "Why I no longer have an old-school cert on my HTTPS site",
-    "url": "https://rachelbythebay.com/w/2025/05/22/ssl/",
-    "points": 240,
-    "num_comments": 232,
-    "tags": [
-      "story",
-      "author_mcbain",
-      "story_44071690",
-      "front_page"
-    ],
-    "author": "mcbain",
-    "created_at": "2025-05-23T10:56:12Z",
-    "aiHeadline": "Why I No Longer Have an Old-School Cert on My HTTPS Site: Because apparently, being secure is like a fashion trend now, and you have to upgrade every season or you're out of style."
-  },
-  {
-    "title": "MCP is the coming of Web 2.0 2.0",
-    "url": "https://www.anildash.com//2025/05/20/mcp-web20-20/",
-    "points": 188,
-    "num_comments": 160,
-    "tags": [
-      "story",
-      "author_freediver",
-      "story_44073785",
-      "front_page"
-    ],
-    "author": "freediver",
-    "created_at": "2025-05-23T15:33:00Z",
-    "aiHeadline": "MCP: The Coming of Web 2.0 2.0—because clearly, Web 2.0 wasn't catchy enough, so let's just add another 2.0 and call it the future."
+    "created_at": "2025-05-24T14:49:02Z",
+    "aiHeadline": "Small companies: where everyone knows your name and you're not buried in red tape—unlike those big corporate nightmares."
   }
 ]
