@@ -1,77 +1,77 @@
 [
   {
-    "title": "I used o3 to find a remote zeroday in the Linux SMB implementation",
-    "url": "https://sean.heelan.io/2025/05/22/how-i-used-o3-to-find-cve-2025-37899-a-remote-zeroday-vulnerability-in-the-linux-kernels-smb-implementation/",
-    "points": 327,
-    "num_comments": 101,
+    "title": "Claude 4 System Card",
+    "url": "https://simonwillison.net/2025/May/25/claude-4-system-card/",
+    "points": 543,
+    "num_comments": 212,
     "tags": [
       "story",
-      "author_zielmicha",
-      "story_44081338",
+      "author_pvg",
+      "story_44085920",
       "front_page"
     ],
-    "author": "zielmicha",
-    "created_at": "2025-05-24T14:25:45Z",
-    "aiHeadline": "Hackers find new Linux exploit, while you're still arguing about the best way to make coffee."
+    "author": "pvg",
+    "created_at": "2025-05-25T06:06:39Z",
+    "aiHeadline": "Claude 4 System Card: The latest AI assistant that's so smart, it probably knows your life story before you finish typing your first message."
   },
   {
-    "title": "Why Algebraic Effects?",
-    "url": "https://antelang.org/blog/why_effects/",
-    "points": 274,
-    "num_comments": 168,
+    "title": "Denmark to raise retirement age to 70",
+    "url": "https://www.telegraph.co.uk/world-news/2025/05/23/denmark-raise-retirement-age-70/",
+    "points": 294,
+    "num_comments": 727,
     "tags": [
       "story",
-      "author_jiggawatts",
-      "story_44078434",
+      "author_wslh",
+      "story_44088957",
       "front_page"
     ],
-    "author": "jiggawatts",
-    "created_at": "2025-05-24T03:00:53Z",
-    "aiHeadline": "Functional programming just got more exciting—now with side effects! Or maybe not?"
+    "author": "wslh",
+    "created_at": "2025-05-25T16:34:28Z",
+    "aiHeadline": "Denmark to raise retirement age to 70: Because nothing says 'enjoy your golden years' like working until you're practically a senior citizen."
   },
   {
-    "title": "Show HN: Rotary Phone Dial Linux Kernel Driver",
-    "url": "https://gitlab.com/sephalon/rotary_dial_kmod",
-    "points": 274,
-    "num_comments": 37,
+    "title": "Lottie is an open format for animated vector graphics",
+    "url": "https://lottie.github.io/",
+    "points": 251,
+    "num_comments": 113,
     "tags": [
       "story",
-      "author_sephalon",
-      "story_44080803",
-      "show_hn",
+      "author_marcodiego",
+      "story_44088216",
       "front_page"
     ],
-    "author": "sephalon",
-    "created_at": "2025-05-24T13:02:00Z",
-    "aiHeadline": "Linux kernel developers are so nostalgic, they're bringing back rotary phones—because who needs smartphones, right?"
+    "author": "marcodiego",
+    "created_at": "2025-05-25T14:45:47Z",
+    "aiHeadline": "Lottie: The open format for animated vector graphics that's so fancy, it makes your emoji look like they're from the 90s."
   },
   {
-    "title": "Reinvent the Wheel",
-    "url": "https://endler.dev/2025/reinvent-the-wheel/",
-    "points": 192,
-    "num_comments": 107,
+    "title": "Open Source Society University – Path to a free self-taught education in CS",
+    "url": "https://github.com/ossu/computer-science",
+    "points": 193,
+    "num_comments": 89,
     "tags": [
       "story",
-      "author_zdw",
-      "story_44083467",
+      "author_saikatsg",
+      "story_44089150",
       "front_page"
     ],
-    "author": "zdw",
-    "created_at": "2025-05-24T20:05:12Z",
-    "aiHeadline": "Why fix what's not broken? Let's reinvent the wheel—again! This time, it's a square!"
+    "author": "saikatsg",
+    "created_at": "2025-05-25T17:06:55Z",
+    "aiHeadline": "Open Source Society University: Because who needs a degree when you can just teach yourself everything for free and still feel like a genius?"
   },
   {
-    "title": "You're a little company, now act like one",
-    "url": "https://longform.asmartbear.com/little-company/",
-    "points": 190,
-    "num_comments": 36,
+    "title": "At Amazon, some coders say their jobs have begun to resemble warehouse work",
+    "url": "https://www.nytimes.com/2025/05/25/business/amazon-ai-coders.html",
+    "points": 182,
+    "num_comments": 300,
     "tags": [
       "story",
-      "author_tosh",
-      "story_44081494"
+      "author_milkshakes",
+      "story_44087150",
+      "front_page"
     ],
-    "author": "tosh",
-    "created_at": "2025-05-24T14:49:02Z",
-    "aiHeadline": "Small companies: where everyone knows your name and you're not buried in red tape—unlike those big corporate nightmares."
+    "author": "milkshakes",
+    "created_at": "2025-05-25T11:48:30Z",
+    "aiHeadline": "At Amazon, some coders say their jobs have begun to resemble warehouse work: Because coding is hard, but picking orders is even harder—wait, no, coding is still harder."
   }
 ]
