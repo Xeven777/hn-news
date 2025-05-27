@@ -1,77 +1,74 @@
 [
   {
-    "title": "Claude 4 System Card",
-    "url": "https://simonwillison.net/2025/May/25/claude-4-system-card/",
-    "points": 543,
-    "num_comments": 212,
+    "title": "German court sends VW execs to prison over Dieselgate scandal",
+    "url": "https://www.politico.eu/article/german-court-vw-execs-prison-dieselgate-scandal-volkswagen-environment-illegal-pollution/",
+    "points": 633,
+    "num_comments": 257,
     "tags": [
       "story",
-      "author_pvg",
-      "story_44085920",
-      "front_page"
+      "author_Tomte",
+      "story_44098091"
     ],
-    "author": "pvg",
-    "created_at": "2025-05-25T06:06:39Z",
-    "aiHeadline": "Claude 4 System Card: The latest AI assistant that's so smart, it probably knows your life story before you finish typing your first message."
+    "author": "Tomte",
+    "created_at": "2025-05-26T14:59:59Z",
+    "aiHeadline": "VW execs learn the hard way that 'green' isn't just a color anymore—German court sends them to prison for Dieselgate scandal."
   },
   {
-    "title": "Denmark to raise retirement age to 70",
-    "url": "https://www.telegraph.co.uk/world-news/2025/05/23/denmark-raise-retirement-age-70/",
-    "points": 294,
-    "num_comments": 727,
+    "title": "Google shared my phone number",
+    "url": "https://danq.me/2025/05/21/google-shared-my-phone-number/",
+    "points": 454,
+    "num_comments": 162,
     "tags": [
       "story",
-      "author_wslh",
-      "story_44088957",
-      "front_page"
+      "author_luu",
+      "story_44094270"
     ],
-    "author": "wslh",
-    "created_at": "2025-05-25T16:34:28Z",
-    "aiHeadline": "Denmark to raise retirement age to 70: Because nothing says 'enjoy your golden years' like working until you're practically a senior citizen."
+    "author": "luu",
+    "created_at": "2025-05-26T05:34:38Z",
+    "aiHeadline": "Google proves once again that it knows everything about you, including how to accidentally share your phone number."
   },
   {
-    "title": "Lottie is an open format for animated vector graphics",
-    "url": "https://lottie.github.io/",
-    "points": 251,
-    "num_comments": 113,
+    "title": "Hacker News now runs on top of Common Lisp",
+    "url": "https://lisp-journey.gitlab.io/blog/hacker-news-now-runs-on-top-of-common-lisp/",
+    "points": 433,
+    "num_comments": 245,
     "tags": [
       "story",
-      "author_marcodiego",
-      "story_44088216",
+      "author_Tomte",
+      "story_44099006",
       "front_page"
     ],
-    "author": "marcodiego",
-    "created_at": "2025-05-25T14:45:47Z",
-    "aiHeadline": "Lottie: The open format for animated vector graphics that's so fancy, it makes your emoji look like they're from the 90s."
+    "author": "Tomte",
+    "created_at": "2025-05-26T16:37:02Z",
+    "aiHeadline": "Hacker News goes retro, proving that even old-school Lisp can still kick ass in the modern world."
   },
   {
-    "title": "Open Source Society University – Path to a free self-taught education in CS",
-    "url": "https://github.com/ossu/computer-science",
-    "points": 193,
-    "num_comments": 89,
+    "title": "CSS Minecraft",
+    "url": "https://benjaminaster.com/css-minecraft/",
+    "points": 382,
+    "num_comments": 41,
     "tags": [
       "story",
-      "author_saikatsg",
-      "story_44089150",
+      "author_mudkipdev",
+      "story_44100148",
       "front_page"
     ],
-    "author": "saikatsg",
-    "created_at": "2025-05-25T17:06:55Z",
-    "aiHeadline": "Open Source Society University: Because who needs a degree when you can just teach yourself everything for free and still feel like a genius?"
+    "author": "mudkipdev",
+    "created_at": "2025-05-26T18:28:43Z",
+    "aiHeadline": "CSS Minecraft: Because who needs pixels when you can build an entire world with just brackets and semicolons?"
   },
   {
-    "title": "At Amazon, some coders say their jobs have begun to resemble warehouse work",
-    "url": "https://www.nytimes.com/2025/05/25/business/amazon-ai-coders.html",
-    "points": 182,
-    "num_comments": 300,
+    "title": "Duolingo CEO tries to walk back AI-first comments, fails",
+    "url": "https://htxt.co.za/2025/05/duolingo-ceo-tries-to-walk-back-ai-first-comments-fails/",
+    "points": 360,
+    "num_comments": 261,
     "tags": [
       "story",
-      "author_milkshakes",
-      "story_44087150",
-      "front_page"
+      "author_Improvement",
+      "story_44100035"
     ],
-    "author": "milkshakes",
-    "created_at": "2025-05-25T11:48:30Z",
-    "aiHeadline": "At Amazon, some coders say their jobs have begun to resemble warehouse work: Because coding is hard, but picking orders is even harder—wait, no, coding is still harder."
+    "author": "Improvement",
+    "created_at": "2025-05-26T18:14:09Z",
+    "aiHeadline": "Duolingo CEO learns that walking back AI comments is as easy as learning a new language—spoiler: it's not."
   }
 ]
