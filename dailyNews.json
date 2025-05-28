@@ -1,74 +1,77 @@
 [
   {
-    "title": "German court sends VW execs to prison over Dieselgate scandal",
-    "url": "https://www.politico.eu/article/german-court-vw-execs-prison-dieselgate-scandal-volkswagen-environment-illegal-pollution/",
-    "points": 633,
-    "num_comments": 257,
+    "title": "Square Theory",
+    "url": "https://aaronson.org/blog/square-theory",
+    "points": 443,
+    "num_comments": 90,
     "tags": [
       "story",
-      "author_Tomte",
-      "story_44098091"
-    ],
-    "author": "Tomte",
-    "created_at": "2025-05-26T14:59:59Z",
-    "aiHeadline": "VW execs learn the hard way that 'green' isn't just a color anymore—German court sends them to prison for Dieselgate scandal."
-  },
-  {
-    "title": "Google shared my phone number",
-    "url": "https://danq.me/2025/05/21/google-shared-my-phone-number/",
-    "points": 454,
-    "num_comments": 162,
-    "tags": [
-      "story",
-      "author_luu",
-      "story_44094270"
-    ],
-    "author": "luu",
-    "created_at": "2025-05-26T05:34:38Z",
-    "aiHeadline": "Google proves once again that it knows everything about you, including how to accidentally share your phone number."
-  },
-  {
-    "title": "Hacker News now runs on top of Common Lisp",
-    "url": "https://lisp-journey.gitlab.io/blog/hacker-news-now-runs-on-top-of-common-lisp/",
-    "points": 433,
-    "num_comments": 245,
-    "tags": [
-      "story",
-      "author_Tomte",
-      "story_44099006",
+      "author_aaaronson",
+      "story_44107942",
       "front_page"
     ],
-    "author": "Tomte",
-    "created_at": "2025-05-26T16:37:02Z",
-    "aiHeadline": "Hacker News goes retro, proving that even old-school Lisp can still kick ass in the modern world."
+    "author": "aaaronson",
+    "created_at": "2025-05-27T15:33:55Z",
+    "aiHeadline": "Square Theory: Because clearly, the universe's most profound mysteries can only be solved by staring at a square for hours, like you're back in middle school math class."
   },
   {
-    "title": "CSS Minecraft",
-    "url": "https://benjaminaster.com/css-minecraft/",
-    "points": 382,
-    "num_comments": 41,
+    "title": "How a hawk learned to use traffic signals to hunt more successfully",
+    "url": "https://www.frontiersin.org/news/2025/05/23/street-smarts-hawk-use-traffic-signals-hunting",
+    "points": 330,
+    "num_comments": 104,
     "tags": [
       "story",
-      "author_mudkipdev",
-      "story_44100148",
+      "author_layer8",
+      "story_44105965",
       "front_page"
     ],
-    "author": "mudkipdev",
-    "created_at": "2025-05-26T18:28:43Z",
-    "aiHeadline": "CSS Minecraft: Because who needs pixels when you can build an entire world with just brackets and semicolons?"
+    "author": "layer8",
+    "created_at": "2025-05-27T11:46:30Z",
+    "aiHeadline": "How a hawk learned to use traffic signals to hunt more successfully: Because apparently, hawks now have better street smarts than most humans, and they're using our infrastructure to perfect their predatory skills."
   },
   {
-    "title": "Duolingo CEO tries to walk back AI-first comments, fails",
-    "url": "https://htxt.co.za/2025/05/duolingo-ceo-tries-to-walk-back-ai-first-comments-fails/",
-    "points": 360,
-    "num_comments": 261,
+    "title": "The Myth of Developer Obsolescence",
+    "url": "https://alonso.network/the-recurring-cycle-of-developer-replacement-hype/",
+    "points": 311,
+    "num_comments": 330,
     "tags": [
       "story",
-      "author_Improvement",
-      "story_44100035"
+      "author_cat-whisperer",
+      "story_44105592"
     ],
-    "author": "Improvement",
-    "created_at": "2025-05-26T18:14:09Z",
-    "aiHeadline": "Duolingo CEO learns that walking back AI comments is as easy as learning a new language—spoiler: it's not."
+    "author": "cat-whisperer",
+    "created_at": "2025-05-27T10:33:56Z",
+    "aiHeadline": "The Myth of Developer Obsolescence: Because every time a new technology comes out, developers just shrug and say, 'Alright, let's learn this too,' proving that they're the ultimate shape-shifters of the digital age."
+  },
+  {
+    "title": "Show HN: Lazy Tetris",
+    "url": "https://lazytetris.com/",
+    "points": 303,
+    "num_comments": 127,
+    "tags": [
+      "story",
+      "author_admtal",
+      "story_44103839",
+      "show_hn",
+      "front_page"
+    ],
+    "author": "admtal",
+    "created_at": "2025-05-27T03:58:07Z",
+    "aiHeadline": "Show HN: Lazy Tetris: Because who needs a challenging game when you can just watch blocks fall without any effort? Now you can be as lazy as the game itself."
+  },
+  {
+    "title": "BGP handling bug causes widespread internet routing instability",
+    "url": "https://blog.benjojo.co.uk/post/bgp-attr-40-junos-arista-session-reset-incident",
+    "points": 254,
+    "num_comments": 117,
+    "tags": [
+      "story",
+      "author_robin_reala",
+      "story_44105796",
+      "front_page"
+    ],
+    "author": "robin_reala",
+    "created_at": "2025-05-27T11:15:15Z",
+    "aiHeadline": "BGP handling bug causes widespread internet routing instability: Because nothing says 'Have a nice day' like your internet connection deciding to take a spontaneous vacation."
   }
 ]
