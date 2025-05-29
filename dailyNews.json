@@ -1,77 +1,75 @@
 [
   {
-    "title": "Square Theory",
-    "url": "https://aaronson.org/blog/square-theory",
-    "points": 443,
-    "num_comments": 90,
+    "title": "The Who Cares Era",
+    "url": "https://dansinker.com/posts/2025-05-23-who-cares/",
+    "points": 580,
+    "num_comments": 559,
     "tags": [
       "story",
-      "author_aaaronson",
-      "story_44107942",
-      "front_page"
+      "author_NotInOurNames",
+      "story_44115620"
     ],
-    "author": "aaaronson",
-    "created_at": "2025-05-27T15:33:55Z",
-    "aiHeadline": "Square Theory: Because clearly, the universe's most profound mysteries can only be solved by staring at a square for hours, like you're back in middle school math class."
+    "author": "NotInOurNames",
+    "created_at": "2025-05-28T13:07:57Z",
+    "aiHeadline": "The 'Who Cares?' Era: When Nobody Gives a Damn Anymore, and That's Probably Fine."
   },
   {
-    "title": "How a hawk learned to use traffic signals to hunt more successfully",
-    "url": "https://www.frontiersin.org/news/2025/05/23/street-smarts-hawk-use-traffic-signals-hunting",
-    "points": 330,
-    "num_comments": 104,
+    "title": "Show HN: I rewrote my Mac Electron app in Rust",
+    "url": "https://desktopdocs.com/?v=2025",
+    "points": 404,
+    "num_comments": 279,
     "tags": [
       "story",
-      "author_layer8",
-      "story_44105965",
-      "front_page"
-    ],
-    "author": "layer8",
-    "created_at": "2025-05-27T11:46:30Z",
-    "aiHeadline": "How a hawk learned to use traffic signals to hunt more successfully: Because apparently, hawks now have better street smarts than most humans, and they're using our infrastructure to perfect their predatory skills."
-  },
-  {
-    "title": "The Myth of Developer Obsolescence",
-    "url": "https://alonso.network/the-recurring-cycle-of-developer-replacement-hype/",
-    "points": 311,
-    "num_comments": 330,
-    "tags": [
-      "story",
-      "author_cat-whisperer",
-      "story_44105592"
-    ],
-    "author": "cat-whisperer",
-    "created_at": "2025-05-27T10:33:56Z",
-    "aiHeadline": "The Myth of Developer Obsolescence: Because every time a new technology comes out, developers just shrug and say, 'Alright, let's learn this too,' proving that they're the ultimate shape-shifters of the digital age."
-  },
-  {
-    "title": "Show HN: Lazy Tetris",
-    "url": "https://lazytetris.com/",
-    "points": 303,
-    "num_comments": 127,
-    "tags": [
-      "story",
-      "author_admtal",
-      "story_44103839",
+      "author_katrinarodri",
+      "story_44118023",
       "show_hn",
       "front_page"
     ],
-    "author": "admtal",
-    "created_at": "2025-05-27T03:58:07Z",
-    "aiHeadline": "Show HN: Lazy Tetris: Because who needs a challenging game when you can just watch blocks fall without any effort? Now you can be as lazy as the game itself."
+    "author": "katrinarodri",
+    "created_at": "2025-05-28T16:53:11Z",
+    "aiHeadline": "From Electron to Rust: One Developer's Journey to Redefine 'Productivity' and Possibly Their Entire Existence."
   },
   {
-    "title": "BGP handling bug causes widespread internet routing instability",
-    "url": "https://blog.benjojo.co.uk/post/bgp-attr-40-junos-arista-session-reset-incident",
-    "points": 254,
-    "num_comments": 117,
+    "title": "Show HN: AutoThink – Boosts local LLM performance with adaptive reasoning",
+    "points": 385,
+    "num_comments": 62,
     "tags": [
       "story",
-      "author_robin_reala",
-      "story_44105796",
+      "author_codelion",
+      "story_44112326",
+      "show_hn"
+    ],
+    "author": "codelion",
+    "created_at": "2025-05-28T02:39:11Z",
+    "aiHeadline": "AutoThink: Because Even AI Needs a Little Pep Talk to Get Its Act Together."
+  },
+  {
+    "title": "As a developer, my most important tools are a pen and a notebook",
+    "url": "https://hamatti.org/posts/as-a-developer-my-most-important-tools-are-a-pen-and-a-notebook/",
+    "points": 364,
+    "num_comments": 245,
+    "tags": [
+      "story",
+      "author_ingve",
+      "story_44113210",
       "front_page"
     ],
-    "author": "robin_reala",
-    "created_at": "2025-05-27T11:15:15Z",
-    "aiHeadline": "BGP handling bug causes widespread internet routing instability: Because nothing says 'Have a nice day' like your internet connection deciding to take a spontaneous vacation."
+    "author": "ingve",
+    "created_at": "2025-05-28T06:27:11Z",
+    "aiHeadline": "Pen and Paper: The Developer's Latest Gadget, Because Apparently, We've All Regressed to the 1990s."
+  },
+  {
+    "title": "Mullvad Leta",
+    "url": "https://leta.mullvad.net",
+    "points": 314,
+    "num_comments": 156,
+    "tags": [
+      "story",
+      "author_microflash",
+      "story_44116503"
+    ],
+    "author": "microflash",
+    "created_at": "2025-05-28T14:38:52Z",
+    "aiHeadline": "Mullvad Leta: Because Who Doesn't Need Another Privacy Tool? Oh, Right, Everyone Who's Already Given Up on Privacy."
   }
 ]
