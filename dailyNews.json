@@ -1,78 +1,77 @@
 [
   {
-    "title": "WeatherStar 4000+: Weather Channel Simulator",
-    "url": "https://weatherstar.netbymatt.com/",
-    "points": 494,
-    "num_comments": 89,
+    "title": "The radix 2^51 trick (2017)",
+    "url": "https://www.chosenplaintext.ca/articles/radix-2-51-trick.html",
+    "points": 389,
+    "num_comments": 76,
     "tags": [
       "story",
-      "author_adam_gyroscope",
-      "story_44127109",
+      "author_blobcode",
+      "story_44132673",
       "front_page"
     ],
-    "author": "adam_gyroscope",
-    "created_at": "2025-05-29T15:38:45Z",
-    "aiHeadline": "WeatherStar 4000+: Because who doesn't want to relive the glory days of inaccurate weather predictions? Now you can simulate the entire Weather Channel experience in your browser, complete with dramatic music and overly enthusiastic meteorologists."
+    "author": "blobcode",
+    "created_at": "2025-05-30T03:55:37Z",
+    "aiHeadline": "The One Algorithm You'll Wish You Invented After Hours of Debugging: The 2^51 Radix Trick Explained"
   },
   {
-    "title": "Human coders are still better than LLMs",
-    "url": "https://antirez.com/news/153",
-    "points": 362,
+    "title": "Systems Correctness Practices at Amazon Web Services",
+    "url": "https://cacm.acm.org/practice/systems-correctness-practices-at-amazon-web-services/",
+    "points": 297,
+    "num_comments": 104,
+    "tags": [
+      "story",
+      "author_tanelpoder",
+      "story_44135638",
+      "front_page"
+    ],
+    "author": "tanelpoder",
+    "created_at": "2025-05-30T12:43:13Z",
+    "aiHeadline": "How Amazon Ensures Your Cloud Doesn't Turn Into a Digital Dumpster Fire: Systems Correctness Practices at AWS"
+  },
+  {
+    "title": "Photos taken inside musical instruments",
+    "url": "https://www.dpreview.com/photography/5400934096/probe-lenses-and-focus-stacking-the-secrets-to-incredible-photos-taken-inside-instruments",
+    "points": 290,
+    "num_comments": 18,
+    "tags": [
+      "story",
+      "author_worik",
+      "story_44139626",
+      "front_page"
+    ],
+    "author": "worik",
+    "created_at": "2025-05-30T20:32:19Z",
+    "aiHeadline": "Photographers Risk Life and Limb to Capture the Beauty Inside Musical Instruments: The Sounds of Silence, Literally"
+  },
+  {
+    "title": "The 'white-collar bloodbath' is all part of the AI hype machine",
+    "url": "https://www.cnn.com/2025/05/30/business/anthropic-amodei-ai-jobs-nightcap",
+    "points": 262,
     "num_comments": 434,
     "tags": [
       "story",
-      "author_longwave",
-      "story_44127739",
+      "author_lwo32k",
+      "story_44136117",
       "front_page"
     ],
-    "author": "longwave",
-    "created_at": "2025-05-29T16:41:04Z",
-    "aiHeadline": "Human coders are still better than LLMs: Because apparently, even AI can't write code that doesn't throw errors half the time. Who knew?"
+    "author": "lwo32k",
+    "created_at": "2025-05-30T13:38:21Z",
+    "aiHeadline": "The 'White-Collar Bloodbath' is Here, and It's All Part of the AI Hype Machine: Because Nothing Says Progress Like Mass Layoffs"
   },
   {
-    "title": "Gurus of 90s Web Design: Zeldman, Siegel, Nielsen",
-    "url": "https://cybercultural.com/p/web-design-1997/",
-    "points": 360,
-    "num_comments": 164,
+    "title": "Beating Google's kernelCTF PoW using AVX512",
+    "url": "https://anemato.de/blog/kctf-vdf",
+    "points": 247,
+    "num_comments": 76,
     "tags": [
       "story",
-      "author_panic",
-      "story_44123852",
+      "author_anematode",
+      "story_44137715",
       "front_page"
     ],
-    "author": "panic",
-    "created_at": "2025-05-29T07:33:02Z",
-    "aiHeadline": "Gurus of 90s Web Design: Zeldman, Siegel, Nielsen: Remember when web design meant marquee tags, animated GIFs, and frames? Well, the gurus who brought you that glorious era are back, and they're here to remind you that nostalgia isn't just for the 90s."
-  },
-  {
-    "title": "Run a C# file directly using dotnet run app.cs",
-    "url": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/",
-    "points": 343,
-    "num_comments": 281,
-    "tags": [
-      "story",
-      "author_soheilpro",
-      "story_44122582",
-      "front_page"
-    ],
-    "author": "soheilpro",
-    "created_at": "2025-05-29T02:30:28Z",
-    "aiHeadline": "Run a C# file directly using dotnet run app.cs: Because who has time to build a project when you can just run a single file? Microsoft finally gives us the feature we've all been waiting for, 10 years too late."
-  },
-  {
-    "title": "Show HN: Typed-FFmpeg 3.0–Typed Interface to FFmpeg and Visual Filter Editor",
-    "url": "https://github.com/livingbio/typed-ffmpeg",
-    "points": 314,
-    "num_comments": 32,
-    "tags": [
-      "story",
-      "author_lucemia51",
-      "story_44123098",
-      "show_hn",
-      "front_page"
-    ],
-    "author": "lucemia51",
-    "created_at": "2025-05-29T04:23:11Z",
-    "aiHeadline": "Show HN: Typed-FFmpeg 3.0–Typed Interface to FFmpeg and Visual Filter Editor: Because who doesn't want to spend hours tweaking video filters only to realize they still don't know what they're doing? Now with a typed interface, it's even more confusing!"
+    "author": "anematode",
+    "created_at": "2025-05-30T16:19:50Z",
+    "aiHeadline": "How to Outsmart Google's Security Team Using AVX512: Beating Their KernelCTF PoW Like It's a Video Game"
   }
 ]
