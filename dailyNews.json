@@ -1,77 +1,76 @@
 [
   {
-    "title": "The radix 2^51 trick (2017)",
-    "url": "https://www.chosenplaintext.ca/articles/radix-2-51-trick.html",
-    "points": 389,
-    "num_comments": 76,
+    "title": "Precision Clock Mk IV",
+    "url": "https://mitxela.com/projects/precision_clock_mk_iv",
+    "points": 391,
+    "num_comments": 107,
+    "tags": [
+      "story",
+      "author_ahlCVA",
+      "story_44144750",
+      "front_page"
+    ],
+    "author": "ahlCVA",
+    "created_at": "2025-05-31T15:06:03Z",
+    "aiHeadline": "Finally, a clock so precise it'll make you question your very existence if it's off by a millisecond."
+  },
+  {
+    "title": "Beware of Fast-Math",
+    "url": "https://simonbyrne.github.io/notes/fastmath/",
+    "points": 287,
+    "num_comments": 196,
     "tags": [
       "story",
       "author_blobcode",
-      "story_44132673",
+      "story_44142472",
       "front_page"
     ],
     "author": "blobcode",
-    "created_at": "2025-05-30T03:55:37Z",
-    "aiHeadline": "The One Algorithm You'll Wish You Invented After Hours of Debugging: The 2^51 Radix Trick Explained"
+    "created_at": "2025-05-31T07:05:57Z",
+    "aiHeadline": "Why settle for slow, accurate math when you can have fast, wrong answers? Fast-math: because who needs precision anyway?"
   },
   {
-    "title": "Systems Correctness Practices at Amazon Web Services",
-    "url": "https://cacm.acm.org/practice/systems-correctness-practices-at-amazon-web-services/",
-    "points": 297,
-    "num_comments": 104,
+    "title": "AI Responses May Include Mistakes",
+    "url": "https://www.os2museum.com/wp/ai-responses-may-include-mistakes/",
+    "points": 176,
+    "num_comments": 183,
     "tags": [
       "story",
-      "author_tanelpoder",
-      "story_44135638",
-      "front_page"
+      "author_userbinator",
+      "story_44142113"
     ],
-    "author": "tanelpoder",
-    "created_at": "2025-05-30T12:43:13Z",
-    "aiHeadline": "How Amazon Ensures Your Cloud Doesn't Turn Into a Digital Dumpster Fire: Systems Correctness Practices at AWS"
+    "author": "userbinator",
+    "created_at": "2025-05-31T05:48:16Z",
+    "aiHeadline": "AI responses may include mistakes, but hey, at least they're creative mistakes!"
   },
   {
-    "title": "Photos taken inside musical instruments",
-    "url": "https://www.dpreview.com/photography/5400934096/probe-lenses-and-focus-stacking-the-secrets-to-incredible-photos-taken-inside-instruments",
-    "points": 290,
-    "num_comments": 18,
+    "title": "A Lean companion to Analysis I",
+    "url": "https://terrytao.wordpress.com/2025/05/31/a-lean-companion-to-analysis-i/",
+    "points": 170,
+    "num_comments": 14,
     "tags": [
       "story",
-      "author_worik",
-      "story_44139626",
+      "author_jeremyscanvic",
+      "story_44145517",
       "front_page"
     ],
-    "author": "worik",
-    "created_at": "2025-05-30T20:32:19Z",
-    "aiHeadline": "Photographers Risk Life and Limb to Capture the Beauty Inside Musical Instruments: The Sounds of Silence, Literally"
+    "author": "jeremyscanvic",
+    "created_at": "2025-05-31T16:55:37Z",
+    "aiHeadline": "Terry Tao's Lean companion to Analysis I: because who doesn't want to feel smarter while sipping their morning coffee?"
   },
   {
-    "title": "The 'white-collar bloodbath' is all part of the AI hype machine",
-    "url": "https://www.cnn.com/2025/05/30/business/anthropic-amodei-ai-jobs-nightcap",
-    "points": 262,
-    "num_comments": 434,
+    "title": "Using lots of little tools to aggressively reject the bots",
+    "url": "https://lambdacreate.com/posts/68",
+    "points": 167,
+    "num_comments": 93,
     "tags": [
       "story",
-      "author_lwo32k",
-      "story_44136117",
+      "author_archargelod",
+      "story_44142761",
       "front_page"
     ],
-    "author": "lwo32k",
-    "created_at": "2025-05-30T13:38:21Z",
-    "aiHeadline": "The 'White-Collar Bloodbath' is Here, and It's All Part of the AI Hype Machine: Because Nothing Says Progress Like Mass Layoffs"
-  },
-  {
-    "title": "Beating Google's kernelCTF PoW using AVX512",
-    "url": "https://anemato.de/blog/kctf-vdf",
-    "points": 247,
-    "num_comments": 76,
-    "tags": [
-      "story",
-      "author_anematode",
-      "story_44137715",
-      "front_page"
-    ],
-    "author": "anematode",
-    "created_at": "2025-05-30T16:19:50Z",
-    "aiHeadline": "How to Outsmart Google's Security Team Using AVX512: Beating Their KernelCTF PoW Like It's a Video Game"
+    "author": "archargelod",
+    "created_at": "2025-05-31T08:06:21Z",
+    "aiHeadline": "Using an arsenal of tiny tools to fight bots: because if you can't outsmart them, out-tool them."
   }
 ]
