@@ -1,76 +1,77 @@
 [
   {
-    "title": "Precision Clock Mk IV",
-    "url": "https://mitxela.com/projects/precision_clock_mk_iv",
-    "points": 391,
-    "num_comments": 107,
+    "title": "Root shell on a credit card terminal",
+    "url": "https://stefan-gloor.ch/yomani-hack",
+    "points": 549,
+    "num_comments": 152,
     "tags": [
       "story",
-      "author_ahlCVA",
-      "story_44144750",
+      "author_stgl",
+      "story_44150803",
       "front_page"
     ],
-    "author": "ahlCVA",
-    "created_at": "2025-05-31T15:06:03Z",
-    "aiHeadline": "Finally, a clock so precise it'll make you question your very existence if it's off by a millisecond."
+    "author": "stgl",
+    "created_at": "2025-06-01T13:42:49Z",
+    "aiHeadline": "Hackers find new way to steal your money: taking over credit card machines and laughing all the way to the bank."
   },
   {
-    "title": "Beware of Fast-Math",
-    "url": "https://simonbyrne.github.io/notes/fastmath/",
-    "points": 287,
-    "num_comments": 196,
+    "title": "Figma Slides Is a Beautiful Disaster",
+    "url": "https://allenpike.com/2025/figma-slides-beautiful-disaster",
+    "points": 356,
+    "num_comments": 209,
     "tags": [
       "story",
-      "author_blobcode",
-      "story_44142472",
+      "author_tobr",
+      "story_44148933",
       "front_page"
     ],
-    "author": "blobcode",
-    "created_at": "2025-05-31T07:05:57Z",
-    "aiHeadline": "Why settle for slow, accurate math when you can have fast, wrong answers? Fast-math: because who needs precision anyway?"
+    "author": "tobr",
+    "created_at": "2025-06-01T05:59:59Z",
+    "aiHeadline": "Figma Slides: because who doesn't want a presentation tool that looks amazing but works like a trainwreck?"
   },
   {
-    "title": "AI Responses May Include Mistakes",
-    "url": "https://www.os2museum.com/wp/ai-responses-may-include-mistakes/",
-    "points": 176,
-    "num_comments": 183,
+    "title": "Cinematography of “Andor”",
+    "url": "https://www.pushing-pixels.org/2025/05/20/cinematography-of-andor-interview-with-christophe-nuyens.html",
+    "points": 318,
+    "num_comments": 312,
     "tags": [
       "story",
-      "author_userbinator",
-      "story_44142113"
-    ],
-    "author": "userbinator",
-    "created_at": "2025-05-31T05:48:16Z",
-    "aiHeadline": "AI responses may include mistakes, but hey, at least they're creative mistakes!"
-  },
-  {
-    "title": "A Lean companion to Analysis I",
-    "url": "https://terrytao.wordpress.com/2025/05/31/a-lean-companion-to-analysis-i/",
-    "points": 170,
-    "num_comments": 14,
-    "tags": [
-      "story",
-      "author_jeremyscanvic",
-      "story_44145517",
+      "author_rcarmo",
+      "story_44149718",
       "front_page"
     ],
-    "author": "jeremyscanvic",
-    "created_at": "2025-05-31T16:55:37Z",
-    "aiHeadline": "Terry Tao's Lean companion to Analysis I: because who doesn't want to feel smarter while sipping their morning coffee?"
+    "author": "rcarmo",
+    "created_at": "2025-06-01T09:44:04Z",
+    "aiHeadline": "The cinematography of 'Andor' is so good, it makes you forget you're watching a show about spies and politics."
   },
   {
-    "title": "Using lots of little tools to aggressively reject the bots",
-    "url": "https://lambdacreate.com/posts/68",
-    "points": 167,
-    "num_comments": 93,
+    "title": "Why DeepSeek is cheap at scale but expensive to run locally",
+    "url": "https://www.seangoedecke.com/inference-batching-and-deepseek/",
+    "points": 277,
+    "num_comments": 162,
     "tags": [
       "story",
-      "author_archargelod",
-      "story_44142761",
+      "author_ingve",
+      "story_44149238",
       "front_page"
     ],
-    "author": "archargelod",
-    "created_at": "2025-05-31T08:06:21Z",
-    "aiHeadline": "Using an arsenal of tiny tools to fight bots: because if you can't outsmart them, out-tool them."
+    "author": "ingve",
+    "created_at": "2025-06-01T07:31:07Z",
+    "aiHeadline": "DeepSeek: because who doesn't want to save money on AI until it costs you an arm and a leg?"
+  },
+  {
+    "title": "RenderFormer: Neural rendering of triangle meshes with global illumination",
+    "url": "https://microsoft.github.io/renderformer/",
+    "points": 245,
+    "num_comments": 49,
+    "tags": [
+      "story",
+      "author_klavinski",
+      "story_44148524",
+      "front_page"
+    ],
+    "author": "klavinski",
+    "created_at": "2025-06-01T03:43:00Z",
+    "aiHeadline": "RenderFormer: the latest in neural rendering that will make your graphics look amazing, but only if you can figure out how to use it without pulling your hair out."
   }
 ]
