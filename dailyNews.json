@@ -1,77 +1,78 @@
 [
   {
-    "title": "Root shell on a credit card terminal",
-    "url": "https://stefan-gloor.ch/yomani-hack",
-    "points": 549,
-    "num_comments": 152,
+    "title": "If you are useful, it doesn't mean you are valued",
+    "url": "https://betterthanrandom.substack.com/p/if-you-are-useful-it-doesnt-mean",
+    "points": 740,
+    "num_comments": 330,
     "tags": [
       "story",
-      "author_stgl",
-      "story_44150803",
+      "author_weltview",
+      "story_44156935",
       "front_page"
     ],
-    "author": "stgl",
-    "created_at": "2025-06-01T13:42:49Z",
-    "aiHeadline": "Hackers find new way to steal your money: taking over credit card machines and laughing all the way to the bank."
+    "author": "weltview",
+    "created_at": "2025-06-02T08:59:37Z",
+    "aiHeadline": "Pro tip: Being useful is great, but don't expect anyone to care. Because, you know, you're just here to make their lives easier."
   },
   {
-    "title": "Figma Slides Is a Beautiful Disaster",
-    "url": "https://allenpike.com/2025/figma-slides-beautiful-disaster",
-    "points": 356,
-    "num_comments": 209,
+    "title": "My AI skeptic friends are all nuts",
+    "url": "https://fly.io/blog/youre-all-nuts/",
+    "points": 691,
+    "num_comments": 1013,
     "tags": [
       "story",
-      "author_tobr",
-      "story_44148933",
+      "author_tabletcorry",
+      "story_44163063",
       "front_page"
     ],
-    "author": "tobr",
-    "created_at": "2025-06-01T05:59:59Z",
-    "aiHeadline": "Figma Slides: because who doesn't want a presentation tool that looks amazing but works like a trainwreck?"
+    "author": "tabletcorry",
+    "created_at": "2025-06-02T21:09:53Z",
+    "aiHeadline": "AI skeptics are officially the biggest buzzkills. Because what's the fun in progress when you're too busy worrying about the robot apocalypse?"
   },
   {
-    "title": "Cinematography of “Andor”",
-    "url": "https://www.pushing-pixels.org/2025/05/20/cinematography-of-andor-interview-with-christophe-nuyens.html",
-    "points": 318,
-    "num_comments": 312,
+    "title": "How to post when no one is reading",
+    "url": "https://www.jeetmehta.com/posts/thrive-in-obscurity",
+    "points": 502,
+    "num_comments": 227,
     "tags": [
       "story",
-      "author_rcarmo",
-      "story_44149718",
+      "author_j4mehta",
+      "story_44155746",
       "front_page"
     ],
-    "author": "rcarmo",
-    "created_at": "2025-06-01T09:44:04Z",
-    "aiHeadline": "The cinematography of 'Andor' is so good, it makes you forget you're watching a show about spies and politics."
+    "author": "j4mehta",
+    "created_at": "2025-06-02T04:01:00Z",
+    "aiHeadline": "The ultimate guide to shouting into the void: Because who needs an audience when you can just enjoy the sound of your own voice, right?"
   },
   {
-    "title": "Why DeepSeek is cheap at scale but expensive to run locally",
-    "url": "https://www.seangoedecke.com/inference-batching-and-deepseek/",
-    "points": 277,
-    "num_comments": 162,
+    "title": "Cloudlflare builds OAuth with Claude and publishes all the prompts",
+    "url": "https://github.com/cloudflare/workers-oauth-provider/commits/main/",
+    "points": 369,
+    "num_comments": 275,
     "tags": [
       "story",
-      "author_ingve",
-      "story_44149238",
+      "author_gregorywegory",
+      "story_44159166",
       "front_page"
     ],
-    "author": "ingve",
-    "created_at": "2025-06-01T07:31:07Z",
-    "aiHeadline": "DeepSeek: because who doesn't want to save money on AI until it costs you an arm and a leg?"
+    "author": "gregorywegory",
+    "created_at": "2025-06-02T14:24:54Z",
+    "aiHeadline": "Cloudflare's new OAuth project: Because what's the point of security when you can just share all your secrets with the world?"
   },
   {
-    "title": "RenderFormer: Neural rendering of triangle meshes with global illumination",
-    "url": "https://microsoft.github.io/renderformer/",
-    "points": 245,
-    "num_comments": 49,
+    "title": "Show HN: Kan.bn – An open-source alterative to Trello",
+    "url": "https://github.com/kanbn/kan",
+    "points": 346,
+    "num_comments": 161,
     "tags": [
       "story",
-      "author_klavinski",
-      "story_44148524",
+      "author_henryball",
+      "story_44157177",
+      "show_hn",
       "front_page"
     ],
-    "author": "klavinski",
-    "created_at": "2025-06-01T03:43:00Z",
-    "aiHeadline": "RenderFormer: the latest in neural rendering that will make your graphics look amazing, but only if you can figure out how to use it without pulling your hair out."
+    "author": "henryball",
+    "created_at": "2025-06-02T09:47:48Z",
+    "aiHeadline": "Kan.bn: The open-source project that proves you don't need Trello to overcomplicate your to-do list."
   }
 ]
