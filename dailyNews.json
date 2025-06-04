@@ -1,78 +1,74 @@
 [
   {
-    "title": "If you are useful, it doesn't mean you are valued",
-    "url": "https://betterthanrandom.substack.com/p/if-you-are-useful-it-doesnt-mean",
-    "points": 740,
-    "num_comments": 330,
+    "title": "Quarkdown: A modern Markdown-based typesetting system",
+    "url": "https://github.com/iamgio/quarkdown",
+    "points": 581,
+    "num_comments": 245,
     "tags": [
       "story",
-      "author_weltview",
-      "story_44156935",
+      "author_asicsp",
+      "story_44167592",
       "front_page"
     ],
-    "author": "weltview",
-    "created_at": "2025-06-02T08:59:37Z",
-    "aiHeadline": "Pro tip: Being useful is great, but don't expect anyone to care. Because, you know, you're just here to make their lives easier."
+    "author": "asicsp",
+    "created_at": "2025-06-03T08:06:28Z",
+    "aiHeadline": "Why Do We Need Another Markdown-Based Typesetting System? Because Clearly, The World Is Suffering From A Lack Of Formatting Options."
   },
   {
-    "title": "My AI skeptic friends are all nuts",
-    "url": "https://fly.io/blog/youre-all-nuts/",
-    "points": 691,
-    "num_comments": 1013,
+    "title": "EU Commission refuses to disclose authors behind its mass surveillance proposal",
+    "url": "https://old.reddit.com/r/europe/comments/1l2655n/the_eu_commission_refuses_to_disclose_the/",
+    "points": 443,
+    "num_comments": 261,
     "tags": [
       "story",
-      "author_tabletcorry",
-      "story_44163063",
-      "front_page"
+      "author_nickslaughter02",
+      "story_44168134"
     ],
-    "author": "tabletcorry",
-    "created_at": "2025-06-02T21:09:53Z",
-    "aiHeadline": "AI skeptics are officially the biggest buzzkills. Because what's the fun in progress when you're too busy worrying about the robot apocalypse?"
+    "author": "nickslaughter02",
+    "created_at": "2025-06-03T09:42:23Z",
+    "aiHeadline": "EU Commission Keeps Authors Of Mass Surveillance Proposal Secret, Because Transparency Is Overrated And Plausible Deniability Is Key."
   },
   {
-    "title": "How to post when no one is reading",
-    "url": "https://www.jeetmehta.com/posts/thrive-in-obscurity",
-    "points": 502,
-    "num_comments": 227,
+    "title": "Builder.ai Collapses: $1.5B 'AI' Startup Exposed as 'Indians'?",
+    "url": "https://www.ibtimes.co.uk/builderai-collapses-15bn-ai-startup-exposed-actually-indians-pretending-bots-1734784",
+    "points": 307,
+    "num_comments": 199,
     "tags": [
       "story",
-      "author_j4mehta",
-      "story_44155746",
-      "front_page"
+      "author_healsdata",
+      "story_44169759"
     ],
-    "author": "j4mehta",
-    "created_at": "2025-06-02T04:01:00Z",
-    "aiHeadline": "The ultimate guide to shouting into the void: Because who needs an audience when you can just enjoy the sound of your own voice, right?"
+    "author": "healsdata",
+    "created_at": "2025-06-03T13:17:06Z",
+    "aiHeadline": "$1.5B 'AI' Startup Builder.ai Collapses, Turns Out It Was Just A Bunch Of 'Indians' Pretending To Be Robots. Who Knew?"
   },
   {
-    "title": "Cloudlflare builds OAuth with Claude and publishes all the prompts",
-    "url": "https://github.com/cloudflare/workers-oauth-provider/commits/main/",
-    "points": 369,
-    "num_comments": 275,
+    "title": "How Ukraine’s killer drones are beating Russian jamming",
+    "url": "https://spectrum.ieee.org/ukraine-killer-drones",
+    "points": 302,
+    "num_comments": 361,
     "tags": [
       "story",
-      "author_gregorywegory",
-      "story_44159166",
-      "front_page"
+      "author_rbanffy",
+      "story_44168658"
     ],
-    "author": "gregorywegory",
-    "created_at": "2025-06-02T14:24:54Z",
-    "aiHeadline": "Cloudflare's new OAuth project: Because what's the point of security when you can just share all your secrets with the world?"
+    "author": "rbanffy",
+    "created_at": "2025-06-03T11:08:51Z",
+    "aiHeadline": "Ukraine's Killer Drones Are Outsmarting Russian Jamming Efforts, Proving That Sometimes, The Best Defense Is A Good Drone."
   },
   {
-    "title": "Show HN: Kan.bn – An open-source alterative to Trello",
-    "url": "https://github.com/kanbn/kan",
-    "points": 346,
-    "num_comments": 161,
+    "title": "(On | No) Syntactic Support for Error Handling",
+    "url": "https://go.dev/blog/error-syntax",
+    "points": 288,
+    "num_comments": 383,
     "tags": [
       "story",
-      "author_henryball",
-      "story_44157177",
-      "show_hn",
+      "author_henrikhorluck",
+      "story_44171677",
       "front_page"
     ],
-    "author": "henryball",
-    "created_at": "2025-06-02T09:47:48Z",
-    "aiHeadline": "Kan.bn: The open-source project that proves you don't need Trello to overcomplicate your to-do list."
+    "author": "henrikhorluck",
+    "created_at": "2025-06-03T16:18:45Z",
+    "aiHeadline": "Go Language Blog Discusses Error Handling Without Syntactic Sugar, Because Why Have Elegant Code When You Can Have Error Prone Code?"
   }
 ]
