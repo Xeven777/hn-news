@@ -1,74 +1,76 @@
 [
   {
-    "title": "Quarkdown: A modern Markdown-based typesetting system",
-    "url": "https://github.com/iamgio/quarkdown",
-    "points": 581,
-    "num_comments": 245,
+    "title": "Merlin Bird ID",
+    "url": "https://merlin.allaboutbirds.org/",
+    "points": 562,
+    "num_comments": 193,
     "tags": [
       "story",
-      "author_asicsp",
-      "story_44167592",
+      "author_twitchard",
+      "story_44176829"
+    ],
+    "author": "twitchard",
+    "created_at": "2025-06-04T02:58:40Z",
+    "aiHeadline": "Birdwatchers rejoice! Merlin Bird ID app finally gives you a reason to stare at trees like a crazy person."
+  },
+  {
+    "title": "FFmpeg merges WebRTC support",
+    "url": "https://git.ffmpeg.org/gitweb/ffmpeg.git/commit/167e343bbe75515a80db8ee72ffa0c607c944a00",
+    "points": 539,
+    "num_comments": 123,
+    "tags": [
+      "story",
+      "author_Sean-Der",
+      "story_44182186",
       "front_page"
     ],
-    "author": "asicsp",
-    "created_at": "2025-06-03T08:06:28Z",
-    "aiHeadline": "Why Do We Need Another Markdown-Based Typesetting System? Because Clearly, The World Is Suffering From A Lack Of Formatting Options."
+    "author": "Sean-Der",
+    "created_at": "2025-06-04T15:58:50Z",
+    "aiHeadline": "FFmpeg adds WebRTC support, because who doesn't want their video calls to look like they're straight out of a 90s webcam?"
   },
   {
-    "title": "EU Commission refuses to disclose authors behind its mass surveillance proposal",
-    "url": "https://old.reddit.com/r/europe/comments/1l2655n/the_eu_commission_refuses_to_disclose_the/",
-    "points": 443,
-    "num_comments": 261,
+    "title": "IRS Direct File on GitHub",
+    "url": "https://chrisgiven.com/2025/05/direct-file-on-github/",
+    "points": 439,
+    "num_comments": 192,
     "tags": [
       "story",
-      "author_nickslaughter02",
-      "story_44168134"
-    ],
-    "author": "nickslaughter02",
-    "created_at": "2025-06-03T09:42:23Z",
-    "aiHeadline": "EU Commission Keeps Authors Of Mass Surveillance Proposal Secret, Because Transparency Is Overrated And Plausible Deniability Is Key."
-  },
-  {
-    "title": "Builder.ai Collapses: $1.5B 'AI' Startup Exposed as 'Indians'?",
-    "url": "https://www.ibtimes.co.uk/builderai-collapses-15bn-ai-startup-exposed-actually-indians-pretending-bots-1734784",
-    "points": 307,
-    "num_comments": 199,
-    "tags": [
-      "story",
-      "author_healsdata",
-      "story_44169759"
-    ],
-    "author": "healsdata",
-    "created_at": "2025-06-03T13:17:06Z",
-    "aiHeadline": "$1.5B 'AI' Startup Builder.ai Collapses, Turns Out It Was Just A Bunch Of 'Indians' Pretending To Be Robots. Who Knew?"
-  },
-  {
-    "title": "How Ukraine’s killer drones are beating Russian jamming",
-    "url": "https://spectrum.ieee.org/ukraine-killer-drones",
-    "points": 302,
-    "num_comments": 361,
-    "tags": [
-      "story",
-      "author_rbanffy",
-      "story_44168658"
-    ],
-    "author": "rbanffy",
-    "created_at": "2025-06-03T11:08:51Z",
-    "aiHeadline": "Ukraine's Killer Drones Are Outsmarting Russian Jamming Efforts, Proving That Sometimes, The Best Defense Is A Good Drone."
-  },
-  {
-    "title": "(On | No) Syntactic Support for Error Handling",
-    "url": "https://go.dev/blog/error-syntax",
-    "points": 288,
-    "num_comments": 383,
-    "tags": [
-      "story",
-      "author_henrikhorluck",
-      "story_44171677",
+      "author_nickthegreek",
+      "story_44182356",
       "front_page"
     ],
-    "author": "henrikhorluck",
-    "created_at": "2025-06-03T16:18:45Z",
-    "aiHeadline": "Go Language Blog Discusses Error Handling Without Syntactic Sugar, Because Why Have Elegant Code When You Can Have Error Prone Code?"
+    "author": "nickthegreek",
+    "created_at": "2025-06-04T16:16:39Z",
+    "aiHeadline": "IRS finally joins the 21st century by putting tax forms on GitHub, because who needs privacy when you can have version control?"
+  },
+  {
+    "title": "After court order, OpenAI is now preserving all ChatGPT user logs",
+    "url": "https://mastodon.laurenweinstein.org/@lauren/114627064774788581",
+    "points": 425,
+    "num_comments": 268,
+    "tags": [
+      "story",
+      "author_ColinWright",
+      "story_44185913",
+      "front_page"
+    ],
+    "author": "ColinWright",
+    "created_at": "2025-06-04T21:47:33Z",
+    "aiHeadline": "OpenAI now preserving all ChatGPT logs, because nothing says 'trust us' like keeping a permanent record of every dumb thing you say."
+  },
+  {
+    "title": "Why I wrote the BEAM book",
+    "url": "https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/",
+    "points": 419,
+    "num_comments": 117,
+    "tags": [
+      "story",
+      "author_lawik",
+      "story_44179257",
+      "front_page"
+    ],
+    "author": "lawik",
+    "created_at": "2025-06-04T10:36:49Z",
+    "aiHeadline": "Author explains why they wrote the BEAM book, probably because talking to people is way too hard and this was easier than therapy."
   }
 ]
