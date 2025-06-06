@@ -1,76 +1,75 @@
 [
   {
-    "title": "Merlin Bird ID",
-    "url": "https://merlin.allaboutbirds.org/",
-    "points": 562,
-    "num_comments": 193,
+    "title": "Google restricts Android sideloading",
+    "url": "https://puri.sm/posts/google-restricts-android-sideloading-what-it-means-for-user-autonomy-and-the-future-of-mobile-freedom/",
+    "points": 396,
+    "num_comments": 283,
     "tags": [
       "story",
-      "author_twitchard",
-      "story_44176829"
+      "author_fsflover",
+      "story_44193198"
     ],
-    "author": "twitchard",
-    "created_at": "2025-06-04T02:58:40Z",
-    "aiHeadline": "Birdwatchers rejoice! Merlin Bird ID app finally gives you a reason to stare at trees like a crazy person."
+    "author": "fsflover",
+    "created_at": "2025-06-05T16:29:02Z",
+    "aiHeadline": "Google clamps down on Android sideloading, because who needs freedom when you've got Google's ecosystem, right?"
   },
   {
-    "title": "FFmpeg merges WebRTC support",
-    "url": "https://git.ffmpeg.org/gitweb/ffmpeg.git/commit/167e343bbe75515a80db8ee72ffa0c607c944a00",
-    "points": 539,
-    "num_comments": 123,
+    "title": "The impossible predicament of the death newts",
+    "url": "https://crookedtimber.org/2025/06/05/occasional-paper-the-impossible-predicament-of-the-death-newts/",
+    "points": 394,
+    "num_comments": 140,
     "tags": [
       "story",
-      "author_Sean-Der",
-      "story_44182186",
+      "author_bdr",
+      "story_44191620",
       "front_page"
     ],
-    "author": "Sean-Der",
-    "created_at": "2025-06-04T15:58:50Z",
-    "aiHeadline": "FFmpeg adds WebRTC support, because who doesn't want their video calls to look like they're straight out of a 90s webcam?"
+    "author": "bdr",
+    "created_at": "2025-06-05T13:40:48Z",
+    "aiHeadline": "Death newts face impossible predicament: Can they even survive in a world where their existence is this absurd?"
   },
   {
-    "title": "IRS Direct File on GitHub",
-    "url": "https://chrisgiven.com/2025/05/direct-file-on-github/",
-    "points": 439,
+    "title": "Air Lab – A portable and open air quality measuring device",
+    "url": "https://networkedartifacts.com/airlab/simulator",
+    "points": 335,
+    "num_comments": 150,
+    "tags": [
+      "story",
+      "author_256dpi",
+      "story_44189329",
+      "front_page"
+    ],
+    "author": "256dpi",
+    "created_at": "2025-06-05T07:42:25Z",
+    "aiHeadline": "Air quality devices are so 2025, but hey, at least now you can measure how toxic your air is while on the go!"
+  },
+  {
+    "title": "Gemini-2.5-pro-preview-06-05",
+    "url": "https://deepmind.google/models/gemini/pro/",
+    "points": 308,
     "num_comments": 192,
     "tags": [
       "story",
-      "author_nickthegreek",
-      "story_44182356",
-      "front_page"
+      "author_jcuenod",
+      "story_44193328"
     ],
-    "author": "nickthegreek",
-    "created_at": "2025-06-04T16:16:39Z",
-    "aiHeadline": "IRS finally joins the 21st century by putting tax forms on GitHub, because who needs privacy when you can have version control?"
+    "author": "jcuenod",
+    "created_at": "2025-06-05T16:44:49Z",
+    "aiHeadline": "Gemini-2.5-pro-preview-06-05: Because who doesn't love a name that sounds like a secret government project, right?"
   },
   {
-    "title": "After court order, OpenAI is now preserving all ChatGPT user logs",
-    "url": "https://mastodon.laurenweinstein.org/@lauren/114627064774788581",
-    "points": 425,
-    "num_comments": 268,
+    "title": "Apple Notes Will Gain Markdown Export at WWDC, and, I Have Thoughts",
+    "url": "https://daringfireball.net/linked/2025/06/04/apple-notes-markdown",
+    "points": 270,
+    "num_comments": 151,
     "tags": [
       "story",
-      "author_ColinWright",
-      "story_44185913",
+      "author_robenkleene",
+      "story_44191558",
       "front_page"
     ],
-    "author": "ColinWright",
-    "created_at": "2025-06-04T21:47:33Z",
-    "aiHeadline": "OpenAI now preserving all ChatGPT logs, because nothing says 'trust us' like keeping a permanent record of every dumb thing you say."
-  },
-  {
-    "title": "Why I wrote the BEAM book",
-    "url": "https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/",
-    "points": 419,
-    "num_comments": 117,
-    "tags": [
-      "story",
-      "author_lawik",
-      "story_44179257",
-      "front_page"
-    ],
-    "author": "lawik",
-    "created_at": "2025-06-04T10:36:49Z",
-    "aiHeadline": "Author explains why they wrote the BEAM book, probably because talking to people is way too hard and this was easier than therapy."
+    "author": "robenkleene",
+    "created_at": "2025-06-05T13:32:48Z",
+    "aiHeadline": "Apple Notes finally gets Markdown export, because why have a feature everyone else had years ago when you can wait until everyone's already moved on?"
   }
 ]
