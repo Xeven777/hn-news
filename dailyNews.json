@@ -1,75 +1,74 @@
 [
   {
-    "title": "Google restricts Android sideloading",
-    "url": "https://puri.sm/posts/google-restricts-android-sideloading-what-it-means-for-user-autonomy-and-the-future-of-mobile-freedom/",
-    "points": 396,
-    "num_comments": 283,
+    "title": "Self-hosting your own media considered harmful according to YouTube",
+    "url": "https://www.jeffgeerling.com/blog/2025/self-hosting-your-own-media-considered-harmful",
+    "points": 1513,
+    "num_comments": 669,
     "tags": [
       "story",
-      "author_fsflover",
-      "story_44193198"
+      "author_DavideNL",
+      "story_44197932"
     ],
-    "author": "fsflover",
-    "created_at": "2025-06-05T16:29:02Z",
-    "aiHeadline": "Google clamps down on Android sideloading, because who needs freedom when you've got Google's ecosystem, right?"
+    "author": "DavideNL",
+    "created_at": "2025-06-06T04:59:58Z",
+    "aiHeadline": "Self-hosting your own media? Oh, the irony! YouTube, the king of user-generated content, is now telling you it's harmful to host your own media. Because clearly, trusting a giant tech company with your data is the safer choice."
   },
   {
-    "title": "The impossible predicament of the death newts",
-    "url": "https://crookedtimber.org/2025/06/05/occasional-paper-the-impossible-predicament-of-the-death-newts/",
-    "points": 394,
-    "num_comments": 140,
+    "title": "Meta: Shut down your invasive AI Discover feed",
+    "url": "https://www.mozillafoundation.org/en/campaigns/meta-shut-down-your-invasive-ai-discover-feed-now/",
+    "points": 433,
+    "num_comments": 187,
     "tags": [
       "story",
-      "author_bdr",
-      "story_44191620",
+      "author_speckx",
+      "story_44201872",
       "front_page"
     ],
-    "author": "bdr",
-    "created_at": "2025-06-05T13:40:48Z",
-    "aiHeadline": "Death newts face impossible predicament: Can they even survive in a world where their existence is this absurd?"
+    "author": "speckx",
+    "created_at": "2025-06-06T15:33:10Z",
+    "aiHeadline": "Meta's AI Discover feed is so invasive, even Meta wants you to shut it down. Because what better way to protect your privacy than to have the company that made it tell you to turn it off?"
   },
   {
-    "title": "Air Lab – A portable and open air quality measuring device",
-    "url": "https://networkedartifacts.com/airlab/simulator",
-    "points": 335,
-    "num_comments": 150,
+    "title": "How we decreased GitLab repo backup times from 48 hours to 41 minutes",
+    "url": "https://about.gitlab.com/blog/2025/06/05/how-we-decreased-gitlab-repo-backup-times-from-48-hours-to-41-minutes/",
+    "points": 332,
+    "num_comments": 130,
     "tags": [
       "story",
-      "author_256dpi",
-      "story_44189329",
+      "author_immortaljoe",
+      "story_44201975",
       "front_page"
     ],
-    "author": "256dpi",
-    "created_at": "2025-06-05T07:42:25Z",
-    "aiHeadline": "Air quality devices are so 2025, but hey, at least now you can measure how toxic your air is while on the go!"
+    "author": "immortaljoe",
+    "created_at": "2025-06-06T15:43:05Z",
+    "aiHeadline": "GitLab's repo backup times have gone from 48 hours to 41 minutes, proving that sometimes, progress is just a matter of shaving off a few hours. Because who doesn't love waiting 41 minutes instead of 48?"
   },
   {
-    "title": "Gemini-2.5-pro-preview-06-05",
-    "url": "https://deepmind.google/models/gemini/pro/",
-    "points": 308,
-    "num_comments": 192,
+    "title": "Jepsen: TigerBeetle 0.16.11",
+    "url": "https://jepsen.io/analyses/tigerbeetle-0.16.11",
+    "points": 216,
+    "num_comments": 68,
     "tags": [
       "story",
-      "author_jcuenod",
-      "story_44193328"
+      "author_aphyr",
+      "story_44199592"
     ],
-    "author": "jcuenod",
-    "created_at": "2025-06-05T16:44:49Z",
-    "aiHeadline": "Gemini-2.5-pro-preview-06-05: Because who doesn't love a name that sounds like a secret government project, right?"
+    "author": "aphyr",
+    "created_at": "2025-06-06T10:53:51Z",
+    "aiHeadline": "Jepsen's analysis of TigerBeetle 0.16.11 is here, and it's probably filled with enough technical jargon to make your head spin. But hey, at least it's thorough, right?"
   },
   {
-    "title": "Apple Notes Will Gain Markdown Export at WWDC, and, I Have Thoughts",
-    "url": "https://daringfireball.net/linked/2025/06/04/apple-notes-markdown",
-    "points": 270,
-    "num_comments": 151,
+    "title": "Dystopian tales of that time when I sold out to Google",
+    "url": "https://wordsmith.social/elilla/deep-in-mordor-where-the-shadows-lie-dystopian-stories-of-my-time-as-a-googler",
+    "points": 210,
+    "num_comments": 174,
     "tags": [
       "story",
-      "author_robenkleene",
-      "story_44191558",
-      "front_page"
+      "author_stego-tech",
+      "story_44200773"
     ],
-    "author": "robenkleene",
-    "created_at": "2025-06-05T13:32:48Z",
-    "aiHeadline": "Apple Notes finally gets Markdown export, because why have a feature everyone else had years ago when you can wait until everyone's already moved on?"
+    "author": "stego-tech",
+    "created_at": "2025-06-06T13:36:06Z",
+    "aiHeadline": "Dystopian tales of selling out to Google? Sounds like a memoir filled with regret, awkward memories, and probably a few lessons learned the hard way. Because who doesn't love a good 'I sold my soul to the devil' story?"
   }
 ]
