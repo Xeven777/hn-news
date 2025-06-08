@@ -1,74 +1,77 @@
 [
   {
-    "title": "Self-hosting your own media considered harmful according to YouTube",
-    "url": "https://www.jeffgeerling.com/blog/2025/self-hosting-your-own-media-considered-harmful",
-    "points": 1513,
-    "num_comments": 669,
+    "title": "Bill Atkinson has died",
+    "url": "https://daringfireball.net/linked/2025/06/07/bill-atkinson-rip",
+    "points": 989,
+    "num_comments": 192,
     "tags": [
       "story",
-      "author_DavideNL",
-      "story_44197932"
-    ],
-    "author": "DavideNL",
-    "created_at": "2025-06-06T04:59:58Z",
-    "aiHeadline": "Self-hosting your own media? Oh, the irony! YouTube, the king of user-generated content, is now telling you it's harmful to host your own media. Because clearly, trusting a giant tech company with your data is the safer choice."
-  },
-  {
-    "title": "Meta: Shut down your invasive AI Discover feed",
-    "url": "https://www.mozillafoundation.org/en/campaigns/meta-shut-down-your-invasive-ai-discover-feed-now/",
-    "points": 433,
-    "num_comments": 187,
-    "tags": [
-      "story",
-      "author_speckx",
-      "story_44201872",
+      "author_romanhn",
+      "story_44210606",
       "front_page"
     ],
-    "author": "speckx",
-    "created_at": "2025-06-06T15:33:10Z",
-    "aiHeadline": "Meta's AI Discover feed is so invasive, even Meta wants you to shut it down. Because what better way to protect your privacy than to have the company that made it tell you to turn it off?"
+    "author": "romanhn",
+    "created_at": "2025-06-07T16:19:58Z",
+    "aiHeadline": "Bill Atkinson, the man who brought us the Macintosh GUI and made computers user-friendly, has passed away, leaving us all to wonder how we ever managed without his groundbreaking work."
   },
   {
-    "title": "How we decreased GitLab repo backup times from 48 hours to 41 minutes",
-    "url": "https://about.gitlab.com/blog/2025/06/05/how-we-decreased-gitlab-repo-backup-times-from-48-hours-to-41-minutes/",
-    "points": 332,
-    "num_comments": 130,
+    "title": "Getting Past Procrastination",
+    "url": "https://spectrum.ieee.org/getting-past-procastination",
+    "points": 296,
+    "num_comments": 137,
     "tags": [
       "story",
-      "author_immortaljoe",
-      "story_44201975",
+      "author_WaitWaitWha",
+      "story_44207095",
       "front_page"
     ],
-    "author": "immortaljoe",
-    "created_at": "2025-06-06T15:43:05Z",
-    "aiHeadline": "GitLab's repo backup times have gone from 48 hours to 41 minutes, proving that sometimes, progress is just a matter of shaving off a few hours. Because who doesn't love waiting 41 minutes instead of 48?"
+    "author": "WaitWaitWha",
+    "created_at": "2025-06-07T03:06:55Z",
+    "aiHeadline": "Getting past procrastination: the ultimate guide to finally doing everything you've been putting off for years, because clearly, you've got nothing better to do."
   },
   {
-    "title": "Jepsen: TigerBeetle 0.16.11",
-    "url": "https://jepsen.io/analyses/tigerbeetle-0.16.11",
-    "points": 216,
-    "num_comments": 68,
+    "title": "Washington Post's Privacy Tip: Stop Using Chrome, Delete Meta Apps (and Yandex)",
+    "url": "https://tech.slashdot.org/story/25/06/07/035249/washington-posts-privacy-tip-stop-using-chrome-delete-metas-apps-and-yandex",
+    "points": 271,
+    "num_comments": 144,
     "tags": [
       "story",
-      "author_aphyr",
-      "story_44199592"
+      "author_miles",
+      "story_44210689",
+      "front_page"
     ],
-    "author": "aphyr",
-    "created_at": "2025-06-06T10:53:51Z",
-    "aiHeadline": "Jepsen's analysis of TigerBeetle 0.16.11 is here, and it's probably filled with enough technical jargon to make your head spin. But hey, at least it's thorough, right?"
+    "author": "miles",
+    "created_at": "2025-06-07T16:33:13Z",
+    "aiHeadline": "Washington Post's privacy tip: stop using Chrome, delete Meta apps, and avoid Yandex—because apparently, the best way to protect your privacy is to use no technology at all."
   },
   {
-    "title": "Dystopian tales of that time when I sold out to Google",
-    "url": "https://wordsmith.social/elilla/deep-in-mordor-where-the-shadows-lie-dystopian-stories-of-my-time-as-a-googler",
-    "points": 210,
-    "num_comments": 174,
+    "title": "Low-Level Optimization with Zig",
+    "url": "https://alloc.dev/2025/06/07/zig_optimization",
+    "points": 235,
+    "num_comments": 117,
     "tags": [
       "story",
-      "author_stego-tech",
-      "story_44200773"
+      "author_Retro_Dev",
+      "story_44208060",
+      "front_page"
     ],
-    "author": "stego-tech",
-    "created_at": "2025-06-06T13:36:06Z",
-    "aiHeadline": "Dystopian tales of selling out to Google? Sounds like a memoir filled with regret, awkward memories, and probably a few lessons learned the hard way. Because who doesn't love a good 'I sold my soul to the devil' story?"
+    "author": "Retro_Dev",
+    "created_at": "2025-06-07T07:26:24Z",
+    "aiHeadline": "Low-level optimization with Zig: because who doesn't love spending hours tweaking code to save a few nanoseconds, just because you can."
+  },
+  {
+    "title": "Convert photos to Atkinson dithering",
+    "url": "https://gazs.github.io/canvas-atkinson-dither/",
+    "points": 219,
+    "num_comments": 30,
+    "tags": [
+      "story",
+      "author_nvahalik",
+      "story_44212446",
+      "front_page"
+    ],
+    "author": "nvahalik",
+    "created_at": "2025-06-07T20:33:18Z",
+    "aiHeadline": "Convert photos to Atkinson dithering: because who doesn't want their pictures to look like they were taken in the 90s, complete with pixelated nostalgia and all the charm of a 1-bit display."
   }
 ]
