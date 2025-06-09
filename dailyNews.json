@@ -1,77 +1,74 @@
 [
   {
-    "title": "Bill Atkinson has died",
-    "url": "https://daringfireball.net/linked/2025/06/07/bill-atkinson-rip",
-    "points": 989,
-    "num_comments": 192,
+    "title": "The last six months in LLMs, illustrated by pelicans on bicycles",
+    "url": "https://simonwillison.net/2025/Jun/6/six-months-in-llms/",
+    "points": 727,
+    "num_comments": 186,
     "tags": [
       "story",
-      "author_romanhn",
-      "story_44210606",
+      "author_swyx",
+      "story_44215352",
       "front_page"
     ],
-    "author": "romanhn",
-    "created_at": "2025-06-07T16:19:58Z",
-    "aiHeadline": "Bill Atkinson, the man who brought us the Macintosh GUI and made computers user-friendly, has passed away, leaving us all to wonder how we ever managed without his groundbreaking work."
+    "author": "swyx",
+    "created_at": "2025-06-08T07:38:37Z",
+    "aiHeadline": "Pelicans on bicycles: The highlight of LLM progress over the last six months, apparently."
   },
   {
-    "title": "Getting Past Procrastination",
-    "url": "https://spectrum.ieee.org/getting-past-procastination",
-    "points": 296,
-    "num_comments": 137,
-    "tags": [
-      "story",
-      "author_WaitWaitWha",
-      "story_44207095",
-      "front_page"
-    ],
-    "author": "WaitWaitWha",
-    "created_at": "2025-06-07T03:06:55Z",
-    "aiHeadline": "Getting past procrastination: the ultimate guide to finally doing everything you've been putting off for years, because clearly, you've got nothing better to do."
-  },
-  {
-    "title": "Washington Post's Privacy Tip: Stop Using Chrome, Delete Meta Apps (and Yandex)",
-    "url": "https://tech.slashdot.org/story/25/06/07/035249/washington-posts-privacy-tip-stop-using-chrome-delete-metas-apps-and-yandex",
-    "points": 271,
-    "num_comments": 144,
-    "tags": [
-      "story",
-      "author_miles",
-      "story_44210689",
-      "front_page"
-    ],
-    "author": "miles",
-    "created_at": "2025-06-07T16:33:13Z",
-    "aiHeadline": "Washington Post's privacy tip: stop using Chrome, delete Meta apps, and avoid Yandex—because apparently, the best way to protect your privacy is to use no technology at all."
-  },
-  {
-    "title": "Low-Level Optimization with Zig",
-    "url": "https://alloc.dev/2025/06/07/zig_optimization",
+    "title": "A look at Cloudflare's AI-coded OAuth library",
+    "url": "https://neilmadden.blog/2025/06/06/a-look-at-cloudflares-ai-coded-oauth-library/",
     "points": 235,
-    "num_comments": 117,
+    "num_comments": 153,
     "tags": [
       "story",
-      "author_Retro_Dev",
-      "story_44208060",
-      "front_page"
+      "author_itsadok",
+      "story_44215667"
     ],
-    "author": "Retro_Dev",
-    "created_at": "2025-06-07T07:26:24Z",
-    "aiHeadline": "Low-level optimization with Zig: because who doesn't love spending hours tweaking code to save a few nanoseconds, just because you can."
+    "author": "itsadok",
+    "created_at": "2025-06-08T08:50:16Z",
+    "aiHeadline": "AI now codes your OAuth libraries: Because who needs secure authentication when you can have AI-generated vulnerabilities?"
   },
   {
-    "title": "Convert photos to Atkinson dithering",
-    "url": "https://gazs.github.io/canvas-atkinson-dither/",
-    "points": 219,
-    "num_comments": 30,
+    "title": "<Blink> and <Marquee> (2020)",
+    "url": "https://danq.me/2020/11/11/blink-and-marquee/",
+    "points": 199,
+    "num_comments": 158,
     "tags": [
       "story",
-      "author_nvahalik",
-      "story_44212446",
+      "author_ghssds",
+      "story_44214522",
       "front_page"
     ],
-    "author": "nvahalik",
-    "created_at": "2025-06-07T20:33:18Z",
-    "aiHeadline": "Convert photos to Atkinson dithering: because who doesn't want their pictures to look like they were taken in the 90s, complete with pixelated nostalgia and all the charm of a 1-bit display."
+    "author": "ghssds",
+    "created_at": "2025-06-08T04:17:43Z",
+    "aiHeadline": "Blink and Marquee: The 2020 tech trends that time forgot... or maybe it's trying to forget."
+  },
+  {
+    "title": "Ask HN: How to learn CUDA to professional level",
+    "points": 199,
+    "num_comments": 68,
+    "tags": [
+      "story",
+      "author_upmind",
+      "story_44216123",
+      "ask_hn"
+    ],
+    "author": "upmind",
+    "created_at": "2025-06-08T10:52:35Z",
+    "aiHeadline": "Ask HN: How to learn CUDA to a professional level—because clearly, the internet has all the answers you need."
+  },
+  {
+    "title": "Louis Rossmann: We've started a foundation to bring back ownership [video]",
+    "url": "https://www.youtube.com/watch?v=WBG6Vw3nxZs",
+    "points": 198,
+    "num_comments": 47,
+    "tags": [
+      "story",
+      "author_walterbell",
+      "story_44214311"
+    ],
+    "author": "walterbell",
+    "created_at": "2025-06-08T03:14:37Z",
+    "aiHeadline": "Louis Rossmann's new foundation: Bringing back ownership, one clickbait video at a time."
   }
 ]
