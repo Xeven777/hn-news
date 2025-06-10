@@ -1,74 +1,76 @@
 [
   {
-    "title": "The last six months in LLMs, illustrated by pelicans on bicycles",
-    "url": "https://simonwillison.net/2025/Jun/6/six-months-in-llms/",
-    "points": 727,
-    "num_comments": 186,
+    "title": "Tell HN: Help restore the tax deduction for software dev in the US (Section 174)",
+    "points": 1516,
+    "num_comments": 581,
     "tags": [
       "story",
-      "author_swyx",
-      "story_44215352",
+      "author_dang",
+      "story_44226145",
+      "ask_hn",
       "front_page"
     ],
-    "author": "swyx",
-    "created_at": "2025-06-08T07:38:37Z",
-    "aiHeadline": "Pelicans on bicycles: The highlight of LLM progress over the last six months, apparently."
+    "author": "dang",
+    "created_at": "2025-06-09T16:28:51Z",
+    "aiHeadline": "Software developers are apparently so broke that they need a tax break to afford their next cup of coffee."
   },
   {
-    "title": "A look at Cloudflare's AI-coded OAuth library",
-    "url": "https://neilmadden.blog/2025/06/06/a-look-at-cloudflares-ai-coded-oauth-library/",
-    "points": 235,
-    "num_comments": 153,
+    "title": "Apple announces Foundation Models and Containerization frameworks, etc",
+    "url": "https://www.apple.com/newsroom/2025/06/apple-supercharges-its-tools-and-technologies-for-developers/",
+    "points": 503,
+    "num_comments": 327,
     "tags": [
       "story",
-      "author_itsadok",
-      "story_44215667"
-    ],
-    "author": "itsadok",
-    "created_at": "2025-06-08T08:50:16Z",
-    "aiHeadline": "AI now codes your OAuth libraries: Because who needs secure authentication when you can have AI-generated vulnerabilities?"
-  },
-  {
-    "title": "<Blink> and <Marquee> (2020)",
-    "url": "https://danq.me/2020/11/11/blink-and-marquee/",
-    "points": 199,
-    "num_comments": 158,
-    "tags": [
-      "story",
-      "author_ghssds",
-      "story_44214522",
+      "author_thm",
+      "story_44226978",
       "front_page"
     ],
-    "author": "ghssds",
-    "created_at": "2025-06-08T04:17:43Z",
-    "aiHeadline": "Blink and Marquee: The 2020 tech trends that time forgot... or maybe it's trying to forget."
+    "author": "thm",
+    "created_at": "2025-06-09T17:44:16Z",
+    "aiHeadline": "Apple finally decides to make their tools just a little less confusing, but don't get too excited—it's still Apple."
   },
   {
-    "title": "Ask HN: How to learn CUDA to professional level",
-    "points": 199,
-    "num_comments": 68,
+    "title": "Kagi Reaches 50k Users",
+    "url": "https://kagi.com/stats?stat=members",
+    "points": 499,
+    "num_comments": 300,
     "tags": [
       "story",
-      "author_upmind",
-      "story_44216123",
-      "ask_hn"
+      "author_tigroferoce",
+      "story_44221450"
     ],
-    "author": "upmind",
-    "created_at": "2025-06-08T10:52:35Z",
-    "aiHeadline": "Ask HN: How to learn CUDA to a professional level—because clearly, the internet has all the answers you need."
+    "author": "tigroferoce",
+    "created_at": "2025-06-09T04:38:32Z",
+    "aiHeadline": "Kagi somehow manages to reach 50k users without anyone noticing they exist, which is a miracle in the tech world."
   },
   {
-    "title": "Louis Rossmann: We've started a foundation to bring back ownership [video]",
-    "url": "https://www.youtube.com/watch?v=WBG6Vw3nxZs",
-    "points": 198,
-    "num_comments": 47,
+    "title": "Bruteforcing the phone number of any Google user",
+    "url": "https://brutecat.com/articles/leaking-google-phones",
+    "points": 459,
+    "num_comments": 144,
     "tags": [
       "story",
-      "author_walterbell",
-      "story_44214311"
+      "author_brutecat",
+      "story_44224684",
+      "front_page"
     ],
-    "author": "walterbell",
-    "created_at": "2025-06-08T03:14:37Z",
-    "aiHeadline": "Louis Rossmann's new foundation: Bringing back ownership, one clickbait video at a time."
+    "author": "brutecat",
+    "created_at": "2025-06-09T14:06:51Z",
+    "aiHeadline": "Some genius figured out how to bruteforce Google users' phone numbers, proving once again that security is just a suggestion in the tech world."
+  },
+  {
+    "title": "Apple introduces a universal design across platforms",
+    "url": "https://www.apple.com/newsroom/2025/06/apple-introduces-a-delightful-and-elegant-new-software-design/",
+    "points": 444,
+    "num_comments": 716,
+    "tags": [
+      "story",
+      "author_meetpateltech",
+      "story_44226612",
+      "front_page"
+    ],
+    "author": "meetpateltech",
+    "created_at": "2025-06-09T17:09:47Z",
+    "aiHeadline": "Apple finally decides that maybe having the same design across all platforms isn't such a bad idea, shocking everyone who thought they were already geniuses."
   }
 ]
