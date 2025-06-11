@@ -1,76 +1,75 @@
 [
   {
-    "title": "Tell HN: Help restore the tax deduction for software dev in the US (Section 174)",
-    "points": 1516,
-    "num_comments": 581,
-    "tags": [
-      "story",
-      "author_dang",
-      "story_44226145",
-      "ask_hn",
-      "front_page"
-    ],
-    "author": "dang",
-    "created_at": "2025-06-09T16:28:51Z",
-    "aiHeadline": "Software developers are apparently so broke that they need a tax break to afford their next cup of coffee."
-  },
-  {
-    "title": "Apple announces Foundation Models and Containerization frameworks, etc",
-    "url": "https://www.apple.com/newsroom/2025/06/apple-supercharges-its-tools-and-technologies-for-developers/",
-    "points": 503,
-    "num_comments": 327,
-    "tags": [
-      "story",
-      "author_thm",
-      "story_44226978",
-      "front_page"
-    ],
-    "author": "thm",
-    "created_at": "2025-06-09T17:44:16Z",
-    "aiHeadline": "Apple finally decides to make their tools just a little less confusing, but don't get too excited—it's still Apple."
-  },
-  {
-    "title": "Kagi Reaches 50k Users",
-    "url": "https://kagi.com/stats?stat=members",
-    "points": 499,
-    "num_comments": 300,
-    "tags": [
-      "story",
-      "author_tigroferoce",
-      "story_44221450"
-    ],
-    "author": "tigroferoce",
-    "created_at": "2025-06-09T04:38:32Z",
-    "aiHeadline": "Kagi somehow manages to reach 50k users without anyone noticing they exist, which is a miracle in the tech world."
-  },
-  {
-    "title": "Bruteforcing the phone number of any Google user",
-    "url": "https://brutecat.com/articles/leaking-google-phones",
-    "points": 459,
-    "num_comments": 144,
-    "tags": [
-      "story",
-      "author_brutecat",
-      "story_44224684",
-      "front_page"
-    ],
-    "author": "brutecat",
-    "created_at": "2025-06-09T14:06:51Z",
-    "aiHeadline": "Some genius figured out how to bruteforce Google users' phone numbers, proving once again that security is just a suggestion in the tech world."
-  },
-  {
-    "title": "Apple introduces a universal design across platforms",
-    "url": "https://www.apple.com/newsroom/2025/06/apple-introduces-a-delightful-and-elegant-new-software-design/",
-    "points": 444,
-    "num_comments": 716,
+    "title": "Magistral — the first reasoning model by Mistral AI",
+    "url": "https://mistral.ai/news/magistral",
+    "points": 637,
+    "num_comments": 290,
     "tags": [
       "story",
       "author_meetpateltech",
-      "story_44226612",
+      "story_44236997",
       "front_page"
     ],
     "author": "meetpateltech",
-    "created_at": "2025-06-09T17:09:47Z",
-    "aiHeadline": "Apple finally decides that maybe having the same design across all platforms isn't such a bad idea, shocking everyone who thought they were already geniuses."
+    "created_at": "2025-06-10T14:08:01Z",
+    "aiHeadline": "Magistral — Mistral AI's groundbreaking new model that will probably change everything... or not."
+  },
+  {
+    "title": "\"Localhost tracking\" explained. It could cost Meta €32B",
+    "url": "https://www.zeropartydata.es/p/localhost-tracking-explained-it-could",
+    "points": 385,
+    "num_comments": 186,
+    "tags": [
+      "story",
+      "author_donohoe",
+      "story_44235467"
+    ],
+    "author": "donohoe",
+    "created_at": "2025-06-10T11:29:29Z",
+    "aiHeadline": "Meta's latest privacy scandal could cost them €32B, proving that even big companies can't track you without getting sued."
+  },
+  {
+    "title": "Successful people set constraints rather than chasing goals",
+    "url": "https://www.joanwestenberg.com/smart-people-dont-chase-goals-they-create-limits/",
+    "points": 371,
+    "num_comments": 203,
+    "tags": [
+      "story",
+      "author_MaysonL",
+      "story_44232714"
+    ],
+    "author": "MaysonL",
+    "created_at": "2025-06-10T05:01:49Z",
+    "aiHeadline": "Successful people are just better at saying 'no' — because chasing goals is for the weak, apparently."
+  },
+  {
+    "title": "OpenAI dropped the price of o3 by 80%",
+    "url": "https://twitter.com/sama/status/1932434606558462459",
+    "points": 300,
+    "num_comments": 259,
+    "tags": [
+      "story",
+      "author_mfiguiere",
+      "story_44239359",
+      "front_page"
+    ],
+    "author": "mfiguiere",
+    "created_at": "2025-06-10T17:41:29Z",
+    "aiHeadline": "OpenAI slashes prices by 80%, making their product slightly less unaffordable for the rest of us."
+  },
+  {
+    "title": "Launch HN: Vassar Robotics (YC X25) – $219 robot arm that learns new skills",
+    "points": 298,
+    "num_comments": 122,
+    "tags": [
+      "story",
+      "author_charleszyong",
+      "story_44240302",
+      "launch_hn",
+      "front_page"
+    ],
+    "author": "charleszyong",
+    "created_at": "2025-06-10T19:12:17Z",
+    "aiHeadline": "Vassar Robotics brings affordable robotics to the masses with a $219 robot arm that's as smart as your average undergrad."
   }
 ]
