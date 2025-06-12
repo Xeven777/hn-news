@@ -1,75 +1,74 @@
 [
   {
-    "title": "Magistral — the first reasoning model by Mistral AI",
-    "url": "https://mistral.ai/news/magistral",
-    "points": 637,
-    "num_comments": 290,
+    "title": "Brian Wilson has died",
+    "url": "https://pitchfork.com/news/the-beach-boys-brian-wilson-dies-at-82/",
+    "points": 370,
+    "num_comments": 112,
     "tags": [
       "story",
-      "author_meetpateltech",
-      "story_44236997",
-      "front_page"
+      "author_coloneltcb",
+      "story_44249467"
     ],
-    "author": "meetpateltech",
-    "created_at": "2025-06-10T14:08:01Z",
-    "aiHeadline": "Magistral — Mistral AI's groundbreaking new model that will probably change everything... or not."
+    "author": "coloneltcb",
+    "created_at": "2025-06-11T16:52:49Z",
+    "aiHeadline": "The Beach Boys' Brian Wilson has joined the Choir Invisible at the age of 82, leaving behind a legacy of harmonious chaos and questionable lyrics."
   },
   {
-    "title": "\"Localhost tracking\" explained. It could cost Meta €32B",
-    "url": "https://www.zeropartydata.es/p/localhost-tracking-explained-it-could",
-    "points": 385,
+    "title": "Congratulations on creating the one billionth repository on GitHub",
+    "url": "https://github.com/AasishPokhrel/shit/issues/1",
+    "points": 347,
+    "num_comments": 76,
+    "tags": [
+      "story",
+      "author_petercooper",
+      "story_44252076",
+      "front_page"
+    ],
+    "author": "petercooper",
+    "created_at": "2025-06-11T21:37:04Z",
+    "aiHeadline": "GitHub celebrates the creation of its 1,000,000,000th repository, which, let's be honest, probably contains a half-finished 'to-do' list and a README that says 'TODO: Write this.'"
+  },
+  {
+    "title": "Research suggests Big Bang may have taken place inside a black hole",
+    "url": "https://www.port.ac.uk/news-events-and-blogs/blogs/space-cosmology-and-the-universe/what-if-the-big-bang-wasnt-the-beginning-our-research-suggests-it-may-have-taken-place-inside-a-black-hole",
+    "points": 341,
+    "num_comments": 333,
+    "tags": [
+      "story",
+      "author_zaik",
+      "story_44251047",
+      "front_page"
+    ],
+    "author": "zaik",
+    "created_at": "2025-06-11T19:44:29Z",
+    "aiHeadline": "Scientists propose that the Big Bang was actually the result of a black hole getting its facts wrong, which explains why the universe is such a mess."
+  },
+  {
+    "title": "Menstrual tracking app data is gold mine for advertisers that risks women safety",
+    "url": "https://www.cam.ac.uk/research/news/menstrual-tracking-app-data-is-a-gold-mine-for-advertisers-that-risks-womens-safety-report",
+    "points": 294,
+    "num_comments": 333,
+    "tags": [
+      "story",
+      "author_Improvement",
+      "story_44246920"
+    ],
+    "author": "Improvement",
+    "created_at": "2025-06-11T12:31:15Z",
+    "aiHeadline": "Study reveals that menstrual tracking apps are the ultimate goldmine for advertisers, because nothing says 'I care about you' like selling your personal cycle data to the highest bidder."
+  },
+  {
+    "title": "Left-Pad (2024)",
+    "url": "https://azerkoculu.com/posts/left-pad",
+    "points": 282,
     "num_comments": 186,
     "tags": [
       "story",
-      "author_donohoe",
-      "story_44235467"
+      "author_oeitho",
+      "story_44245166"
     ],
-    "author": "donohoe",
-    "created_at": "2025-06-10T11:29:29Z",
-    "aiHeadline": "Meta's latest privacy scandal could cost them €32B, proving that even big companies can't track you without getting sued."
-  },
-  {
-    "title": "Successful people set constraints rather than chasing goals",
-    "url": "https://www.joanwestenberg.com/smart-people-dont-chase-goals-they-create-limits/",
-    "points": 371,
-    "num_comments": 203,
-    "tags": [
-      "story",
-      "author_MaysonL",
-      "story_44232714"
-    ],
-    "author": "MaysonL",
-    "created_at": "2025-06-10T05:01:49Z",
-    "aiHeadline": "Successful people are just better at saying 'no' — because chasing goals is for the weak, apparently."
-  },
-  {
-    "title": "OpenAI dropped the price of o3 by 80%",
-    "url": "https://twitter.com/sama/status/1932434606558462459",
-    "points": 300,
-    "num_comments": 259,
-    "tags": [
-      "story",
-      "author_mfiguiere",
-      "story_44239359",
-      "front_page"
-    ],
-    "author": "mfiguiere",
-    "created_at": "2025-06-10T17:41:29Z",
-    "aiHeadline": "OpenAI slashes prices by 80%, making their product slightly less unaffordable for the rest of us."
-  },
-  {
-    "title": "Launch HN: Vassar Robotics (YC X25) – $219 robot arm that learns new skills",
-    "points": 298,
-    "num_comments": 122,
-    "tags": [
-      "story",
-      "author_charleszyong",
-      "story_44240302",
-      "launch_hn",
-      "front_page"
-    ],
-    "author": "charleszyong",
-    "created_at": "2025-06-10T19:12:17Z",
-    "aiHeadline": "Vassar Robotics brings affordable robotics to the masses with a $219 robot arm that's as smart as your average undergrad."
+    "author": "oeitho",
+    "created_at": "2025-06-11T07:44:01Z",
+    "aiHeadline": "In 2024, the world once again learned that sometimes, all you need is a function that adds spaces to the left of a string, and somehow, it breaks everything."
   }
 ]
