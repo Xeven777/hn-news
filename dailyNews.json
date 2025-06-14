@@ -1,76 +1,76 @@
 [
   {
-    "title": "GCP Outage",
-    "url": "https://status.cloud.google.com/",
-    "points": 1321,
-    "num_comments": 471,
+    "title": "Jemalloc Postmortem",
+    "url": "https://jasone.github.io/2025/06/12/jemalloc-postmortem/",
+    "points": 704,
+    "num_comments": 214,
     "tags": [
       "story",
-      "author_thanhhaimai",
-      "story_44260810",
+      "author_jasone",
+      "story_44264958",
       "front_page"
     ],
-    "author": "thanhhaimai",
-    "created_at": "2025-06-12T18:11:07Z",
-    "aiHeadline": "Google Cloud's latest outage proves that even the best can crash—just like your Wi-Fi on a Monday morning."
+    "author": "jasone",
+    "created_at": "2025-06-13T01:37:17Z",
+    "aiHeadline": "The Sad, Sad Death of Jemalloc: A Postmortem That Will Make You Question Everything You Know About Memory Management"
   },
   {
-    "title": "A receipt printer cured my procrastination",
-    "url": "https://www.laurieherault.com/articles/a-thermal-receipt-printer-cured-my-procrastination",
-    "points": 771,
-    "num_comments": 434,
+    "title": "If the moon were only 1 pixel: A tediously accurate solar system model (2014)",
+    "url": "https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html",
+    "points": 677,
+    "num_comments": 212,
     "tags": [
       "story",
-      "author_laurieherault",
-      "story_44256499",
+      "author_sdoering",
+      "story_44266828",
       "front_page"
     ],
-    "author": "laurieherault",
-    "created_at": "2025-06-12T11:41:04Z",
-    "aiHeadline": "A receipt printer is the new productivity hack—because who can resist the sound of a printer that says 'Work now or regret it later'?"
+    "author": "sdoering",
+    "created_at": "2025-06-13T08:40:05Z",
+    "aiHeadline": "If the Moon Were Just 1 Pixel: A Tediously Accurate Solar System Model That Proves Space Is Way Bigger Than You Think"
   },
   {
-    "title": "Frequent reauth doesn't make you more secure",
-    "url": "https://tailscale.com/blog/frequent-reath-security",
-    "points": 608,
-    "num_comments": 276,
+    "title": "I convinced HP's board to buy Palm and watched them kill it",
+    "url": "https://philmckinney.substack.com/p/i-convinced-hps-board-to-buy-palm",
+    "points": 447,
+    "num_comments": 388,
     "tags": [
       "story",
-      "author_ingve",
-      "story_44261777",
+      "author_AndrewDucker",
+      "story_44270709",
       "front_page"
     ],
-    "author": "ingve",
-    "created_at": "2025-06-12T19:05:12Z",
-    "aiHeadline": "Frequent reauthentication: the cybersecurity equivalent of shouting 'Fire!' in a crowded theater—because panic doesn't keep you safe."
+    "author": "AndrewDucker",
+    "created_at": "2025-06-13T18:03:30Z",
+    "aiHeadline": "How I Convinced HP to Buy Palm (And Then Watched Them Slowly, Painfully, and Very Publicly Kill It): A Cautionary Tale for All Tech Executives"
   },
   {
-    "title": "US-backed Israeli company's spyware used to target European journalists",
-    "url": "https://apnews.com/article/spyware-italy-paragon-meloni-pegasus-f36dd32106f44398ee24001317ccf2bb",
-    "points": 470,
-    "num_comments": 225,
+    "title": "Meta invests $14.3B in Scale AI to kick-start superintelligence lab",
+    "url": "https://www.nytimes.com/2025/06/12/technology/meta-scale-ai.html",
+    "points": 395,
+    "num_comments": 410,
     "tags": [
       "story",
-      "author_01-_-",
-      "story_44259398",
+      "author_RyanShook",
+      "story_44268197",
       "front_page"
     ],
-    "author": "01-_-",
-    "created_at": "2025-06-12T16:12:45Z",
-    "aiHeadline": "US-backed spyware targets European journalists—because nothing says 'We're on your side' like stealing your data."
+    "author": "RyanShook",
+    "created_at": "2025-06-13T13:09:56Z",
+    "aiHeadline": "Meta Drops $14.3B on Scale AI: Because What the World Needs Now Is Another Superintelligence Lab (Cue the Robot Apocalypse Music)"
   },
   {
-    "title": "Air India flight to London crashes in Ahmedabad with more than 240 onboard",
-    "url": "https://www.theguardian.com/world/live/2025/jun/12/air-india-flight-ai171-plane-crash-ahmedabad-india-latest-updates",
-    "points": 442,
-    "num_comments": 529,
+    "title": "Rendering Crispy Text on the GPU",
+    "url": "https://osor.io/text",
+    "points": 390,
+    "num_comments": 123,
     "tags": [
       "story",
-      "author_Gud",
-      "story_44255602"
+      "author_ibobev",
+      "story_44265233"
     ],
-    "author": "Gud",
-    "created_at": "2025-06-12T09:21:44Z",
-    "aiHeadline": "Air India flight crashes, proving that even when you're halfway to London, gravity doesn't care about your travel plans."
+    "author": "ibobev",
+    "created_at": "2025-06-13T02:27:24Z",
+    "aiHeadline": "Rendering Crispy Text on the GPU: Because Making Your Text Look Good Is Apparently So Hard That It Deserves Its Own Entire Article"
   }
 ]
