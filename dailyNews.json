@@ -1,76 +1,76 @@
 [
   {
-    "title": "I have reimplemented Stable Diffusion 3.5 from scratch in pure PyTorch",
-    "url": "https://github.com/yousef-rafat/miniDiffusion",
-    "points": 333,
-    "num_comments": 61,
+    "title": "How to modify Starlink Mini to run without the built-in WiFi router",
+    "url": "https://olegkutkov.me/2025/06/15/how-to-modify-starlink-mini-to-run-without-the-built-in-wifi-router/",
+    "points": 259,
+    "num_comments": 71,
     "tags": [
       "story",
-      "author_yousef_g",
-      "story_44276476",
+      "author_LorenDB",
+      "story_44282017",
       "front_page"
     ],
-    "author": "yousef_g",
-    "created_at": "2025-06-14T13:56:46Z",
-    "aiHeadline": "Reinventing the wheel one neural network at a time: A developer's quest to reimplement Stable Diffusion 3.5 from scratch in pure PyTorch, because clearly, the original wasn't good enough."
+    "author": "LorenDB",
+    "created_at": "2025-06-15T12:40:07Z",
+    "aiHeadline": "Forget the router, just use the Starlink Mini as a paperweight: How to modify Starlink Mini to run without the built-in WiFi router"
   },
   {
-    "title": "Seven replies to the viral Apple reasoning paper and why they fall short",
-    "url": "https://garymarcus.substack.com/p/seven-replies-to-the-viral-apple",
-    "points": 210,
-    "num_comments": 151,
+    "title": "Datalog in Rust",
+    "url": "https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md",
+    "points": 238,
+    "num_comments": 25,
     "tags": [
       "story",
-      "author_spwestwood",
-      "story_44278403",
+      "author_brson",
+      "story_44281727",
       "front_page"
     ],
-    "author": "spwestwood",
-    "created_at": "2025-06-14T19:52:38Z",
-    "aiHeadline": "Seven attempts to explain Apple's reasoning paper, each one more confusing than the last, proving that even geniuses can't agree on anything."
+    "author": "brson",
+    "created_at": "2025-06-15T11:18:40Z",
+    "aiHeadline": "Datalog in Rust: Because even logging data needs to be done with a compiler's permission"
   },
   {
-    "title": "SIMD-friendly algorithms for substring searching (2018)",
-    "url": "http://0x80.pl/notesen/2016-11-28-simd-strfind.html",
-    "points": 193,
-    "num_comments": 29,
+    "title": "Canyon.mid",
+    "url": "https://canyonmid.com/",
+    "points": 235,
+    "num_comments": 137,
     "tags": [
       "story",
-      "author_Rendello",
-      "story_44274001",
+      "author_LorenDB",
+      "story_44282177",
       "front_page"
     ],
-    "author": "Rendello",
-    "created_at": "2025-06-14T03:31:18Z",
-    "aiHeadline": "SIMD-friendly substring searching: Because who doesn't love a 2018 algorithm that's still relevant in 2025? Probably everyone, but here it is anyway."
+    "author": "LorenDB",
+    "created_at": "2025-06-15T13:23:55Z",
+    "aiHeadline": "Canyon.mid: The mysterious project that probably does something important but no one knows what"
   },
   {
-    "title": "Last fifty years of integer linear programming: Recent practical advances",
-    "url": "https://inria.hal.science/hal-04776866v1",
-    "points": 172,
-    "num_comments": 53,
+    "title": "Journalists Wary of Travelling to US Due to Palantir Surveillance",
+    "url": "https://bsky.app/profile/alistairkitchen.bsky.social/post/3lrjsdecc5c2x",
+    "points": 209,
+    "num_comments": 172,
     "tags": [
       "story",
-      "author_teleforce",
-      "story_44274567",
+      "author_Kapura",
+      "story_44282754"
+    ],
+    "author": "Kapura",
+    "created_at": "2025-06-15T15:22:35Z",
+    "aiHeadline": "Journalists Wary of Travelling to US Due to Palantir Surveillance: Because who doesn't want their every move tracked by a company that sounds like it's from Middle-earth?"
+  },
+  {
+    "title": "Modifying an HDMI dummy plug's EDID using a Raspberry Pi",
+    "url": "https://www.downtowndougbrown.com/2025/06/modifying-an-hdmi-dummy-plugs-edid-using-a-raspberry-pi/",
+    "points": 186,
+    "num_comments": 49,
+    "tags": [
+      "story",
+      "author_zdw",
+      "story_44282998",
       "front_page"
     ],
-    "author": "teleforce",
-    "created_at": "2025-06-14T06:15:08Z",
-    "aiHeadline": "Integer linear programming: 50 years of trying to solve problems that no one actually cares about, but hey, at least we're making progress now!"
-  },
-  {
-    "title": "Google Cloud Incident Report – 2025-06-13",
-    "url": "https://status.cloud.google.com/incidents/ow5i3PPK96RduMcb1SsW",
-    "points": 169,
-    "num_comments": 155,
-    "tags": [
-      "story",
-      "author_denysvitali",
-      "story_44274563"
-    ],
-    "author": "denysvitali",
-    "created_at": "2025-06-14T06:13:00Z",
-    "aiHeadline": "Google Cloud outage report: A meticulously detailed account of why everything broke, and why it's definitely not going to happen again. Ever."
+    "author": "zdw",
+    "created_at": "2025-06-15T16:00:43Z",
+    "aiHeadline": "Modifying an HDMI dummy plug's EDID using a Raspberry Pi: Because even dummy plugs need a brain transplant"
   }
 ]
