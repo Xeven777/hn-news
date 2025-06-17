@@ -1,76 +1,76 @@
 [
   {
-    "title": "How to modify Starlink Mini to run without the built-in WiFi router",
-    "url": "https://olegkutkov.me/2025/06/15/how-to-modify-starlink-mini-to-run-without-the-built-in-wifi-router/",
-    "points": 259,
-    "num_comments": 71,
+    "title": "Working on databases from prison",
+    "url": "https://turso.tech/blog/working-on-databases-from-prison",
+    "points": 696,
+    "num_comments": 443,
     "tags": [
       "story",
-      "author_LorenDB",
-      "story_44282017",
+      "author_dvektor",
+      "story_44288937",
       "front_page"
     ],
-    "author": "LorenDB",
-    "created_at": "2025-06-15T12:40:07Z",
-    "aiHeadline": "Forget the router, just use the Starlink Mini as a paperweight: How to modify Starlink Mini to run without the built-in WiFi router"
+    "author": "dvektor",
+    "created_at": "2025-06-16T12:32:02Z",
+    "aiHeadline": "Inmate coder cranks out database queries between cell block chores and pondering the meaning of freedom"
   },
   {
-    "title": "Datalog in Rust",
-    "url": "https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md",
-    "points": 238,
-    "num_comments": 25,
+    "title": "Start your own Internet Resiliency Club",
+    "url": "https://bowshock.nl/irc/",
+    "points": 532,
+    "num_comments": 297,
     "tags": [
       "story",
-      "author_brson",
-      "story_44281727",
+      "author_todsacerdoti",
+      "story_44287395",
       "front_page"
     ],
-    "author": "brson",
-    "created_at": "2025-06-15T11:18:40Z",
-    "aiHeadline": "Datalog in Rust: Because even logging data needs to be done with a compiler's permission"
+    "author": "todsacerdoti",
+    "created_at": "2025-06-16T07:38:17Z",
+    "aiHeadline": "Start your own Internet Resiliency Club—because clearly, the internet isn't resilient enough on its own"
   },
   {
-    "title": "Canyon.mid",
-    "url": "https://canyonmid.com/",
-    "points": 235,
-    "num_comments": 137,
+    "title": "Nanonets-OCR-s – OCR model that transforms documents into structured markdown",
+    "url": "https://huggingface.co/nanonets/Nanonets-OCR-s",
+    "points": 283,
+    "num_comments": 66,
     "tags": [
       "story",
-      "author_LorenDB",
-      "story_44282177",
+      "author_PixelPanda",
+      "story_44287043",
       "front_page"
     ],
-    "author": "LorenDB",
-    "created_at": "2025-06-15T13:23:55Z",
-    "aiHeadline": "Canyon.mid: The mysterious project that probably does something important but no one knows what"
+    "author": "PixelPanda",
+    "created_at": "2025-06-16T06:14:56Z",
+    "aiHeadline": "AI turns your boring docs into even more boring markdown—because who doesn't love manual formatting?"
   },
   {
-    "title": "Journalists Wary of Travelling to US Due to Palantir Surveillance",
-    "url": "https://bsky.app/profile/alistairkitchen.bsky.social/post/3lrjsdecc5c2x",
-    "points": 209,
-    "num_comments": 172,
+    "title": "Accumulation of cognitive debt when using an AI assistant for essay writing task",
+    "url": "https://arxiv.org/abs/2506.08872",
+    "points": 265,
+    "num_comments": 157,
     "tags": [
       "story",
-      "author_Kapura",
-      "story_44282754"
+      "author_stephen_g",
+      "story_44286277"
     ],
-    "author": "Kapura",
-    "created_at": "2025-06-15T15:22:35Z",
-    "aiHeadline": "Journalists Wary of Travelling to US Due to Palantir Surveillance: Because who doesn't want their every move tracked by a company that sounds like it's from Middle-earth?"
+    "author": "stephen_g",
+    "created_at": "2025-06-16T02:49:58Z",
+    "aiHeadline": "Using AI for essays? Sure, until your brain rusts and you can't think for yourself"
   },
   {
-    "title": "Modifying an HDMI dummy plug's EDID using a Raspberry Pi",
-    "url": "https://www.downtowndougbrown.com/2025/06/modifying-an-hdmi-dummy-plugs-edid-using-a-raspberry-pi/",
-    "points": 186,
-    "num_comments": 49,
+    "title": "WhatsApp introduces ads in its app",
+    "url": "https://www.nytimes.com/2025/06/16/technology/whatsapp-ads.html",
+    "points": 223,
+    "num_comments": 319,
     "tags": [
       "story",
-      "author_zdw",
-      "story_44282998",
+      "author_greenburger",
+      "story_44289412",
       "front_page"
     ],
-    "author": "zdw",
-    "created_at": "2025-06-15T16:00:43Z",
-    "aiHeadline": "Modifying an HDMI dummy plug's EDID using a Raspberry Pi: Because even dummy plugs need a brain transplant"
+    "author": "greenburger",
+    "created_at": "2025-06-16T13:38:59Z",
+    "aiHeadline": "WhatsApp finally caves and lets ads in—because nothing says 'privacy' like targeted ads"
   }
 ]
