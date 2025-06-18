@@ -1,76 +1,76 @@
 [
   {
-    "title": "Working on databases from prison",
-    "url": "https://turso.tech/blog/working-on-databases-from-prison",
-    "points": 696,
-    "num_comments": 443,
+    "title": "Honda conducts successful launch and landing of experimental reusable rocket",
+    "url": "https://global.honda/en/topics/2025/c_2025-06-17ceng.html",
+    "points": 827,
+    "num_comments": 246,
     "tags": [
       "story",
-      "author_dvektor",
-      "story_44288937",
+      "author_LorenDB",
+      "story_44300102",
       "front_page"
     ],
-    "author": "dvektor",
-    "created_at": "2025-06-16T12:32:02Z",
-    "aiHeadline": "Inmate coder cranks out database queries between cell block chores and pondering the meaning of freedom"
+    "author": "LorenDB",
+    "created_at": "2025-06-17T15:02:12Z",
+    "aiHeadline": "Honda proves that if you build it, it will rocket... into space, apparently."
   },
   {
-    "title": "Start your own Internet Resiliency Club",
-    "url": "https://bowshock.nl/irc/",
-    "points": 532,
-    "num_comments": 297,
+    "title": "The Grug Brained Developer (2022)",
+    "url": "https://grugbrain.dev/",
+    "points": 489,
+    "num_comments": 156,
     "tags": [
       "story",
-      "author_todsacerdoti",
-      "story_44287395",
+      "author_smartmic",
+      "story_44303542",
       "front_page"
     ],
-    "author": "todsacerdoti",
-    "created_at": "2025-06-16T07:38:17Z",
-    "aiHeadline": "Start your own Internet Resiliency Club—because clearly, the internet isn't resilient enough on its own"
+    "author": "smartmic",
+    "created_at": "2025-06-17T20:24:36Z",
+    "aiHeadline": "The Grug Brained Developer: Because who needs modern tools when you can just grunt and code in the dark ages?"
   },
   {
-    "title": "Nanonets-OCR-s – OCR model that transforms documents into structured markdown",
-    "url": "https://huggingface.co/nanonets/Nanonets-OCR-s",
-    "points": 283,
-    "num_comments": 66,
+    "title": "Fossify – A suite of open-source, ad-free apps",
+    "url": "https://github.com/FossifyOrg",
+    "points": 390,
+    "num_comments": 113,
     "tags": [
       "story",
-      "author_PixelPanda",
-      "story_44287043",
+      "author_jalict",
+      "story_44296564"
+    ],
+    "author": "jalict",
+    "created_at": "2025-06-17T07:32:07Z",
+    "aiHeadline": "Fossify: Because who needs ads when you can have actual privacy? (Hint: Not the companies that claim to care about privacy.)"
+  },
+  {
+    "title": "Resurrecting a dead torrent tracker and finding 3M peers",
+    "url": "https://kianbradley.com/2025/06/15/resurrecting-a-dead-tracker.html",
+    "points": 370,
+    "num_comments": 109,
+    "tags": [
+      "story",
+      "author_k-ian",
+      "story_44301686",
       "front_page"
     ],
-    "author": "PixelPanda",
-    "created_at": "2025-06-16T06:14:56Z",
-    "aiHeadline": "AI turns your boring docs into even more boring markdown—because who doesn't love manual formatting?"
+    "author": "k-ian",
+    "created_at": "2025-06-17T17:40:19Z",
+    "aiHeadline": "Resurrecting a 'dead' torrent tracker and finding 3M peers: Because apparently, 'dead' just means 'hibernating.'"
   },
   {
-    "title": "Accumulation of cognitive debt when using an AI assistant for essay writing task",
-    "url": "https://arxiv.org/abs/2506.08872",
-    "points": 265,
-    "num_comments": 157,
+    "title": "Making 2.5 Flash and 2.5 Pro GA, and introducing Gemini 2.5 Flash-Lite",
+    "url": "https://blog.google/products/gemini/gemini-2-5-model-family-expands/",
+    "points": 270,
+    "num_comments": 165,
     "tags": [
       "story",
-      "author_stephen_g",
-      "story_44286277"
-    ],
-    "author": "stephen_g",
-    "created_at": "2025-06-16T02:49:58Z",
-    "aiHeadline": "Using AI for essays? Sure, until your brain rusts and you can't think for yourself"
-  },
-  {
-    "title": "WhatsApp introduces ads in its app",
-    "url": "https://www.nytimes.com/2025/06/16/technology/whatsapp-ads.html",
-    "points": 223,
-    "num_comments": 319,
-    "tags": [
-      "story",
-      "author_greenburger",
-      "story_44289412",
+      "author_meetpateltech",
+      "story_44300717",
       "front_page"
     ],
-    "author": "greenburger",
-    "created_at": "2025-06-16T13:38:59Z",
-    "aiHeadline": "WhatsApp finally caves and lets ads in—because nothing says 'privacy' like targeted ads"
+    "author": "meetpateltech",
+    "created_at": "2025-06-17T16:06:05Z",
+    "aiHeadline": "Google rolls out yet another update to Gemini, because who doesn't love a good game of 'Guess Which Model Is Which'?"
   }
 ]
