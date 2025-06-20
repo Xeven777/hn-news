@@ -1,75 +1,73 @@
 [
   {
-    "title": "Show HN: Workout.cool – Open-source fitness coaching platform",
-    "url": "https://github.com/Snouzy/workout-cool",
-    "points": 558,
-    "num_comments": 172,
+    "title": "The Zed Debugger Is Here",
+    "url": "https://zed.dev/blog/debugger",
+    "points": 472,
+    "num_comments": 188,
     "tags": [
       "story",
-      "author_surgomat",
-      "story_44309320",
-      "show_hn",
+      "author_SupremumLimit",
+      "story_44314977"
+    ],
+    "author": "SupremumLimit",
+    "created_at": "2025-06-19T02:42:15Z",
+    "aiHeadline": "Finally, after years of waiting, the Zed Debugger has arrived to save your coding soul from the depths of despair!"
+  },
+  {
+    "title": "TI to invest $60B to manufacture foundational semiconductors in the U.S.",
+    "url": "https://www.ti.com/about-ti/newsroom/news-releases/2025/texas-instruments-plans-to-invest-more-than--60-billion-to-manufacture-billions-of-foundational-semiconductors-in-the-us.html",
+    "points": 274,
+    "num_comments": 142,
+    "tags": [
+      "story",
+      "author_TMWNN",
+      "story_44314759"
+    ],
+    "author": "TMWNN",
+    "created_at": "2025-06-19T01:50:47Z",
+    "aiHeadline": "Texas Instruments is throwing down a whopping $60 billion to make the tiny chips that power your life, because apparently, they're not just in the business of making money—they're in the business of making sure you can't live without them."
+  },
+  {
+    "title": "SpaceX Starship 36 Anomaly",
+    "url": "https://twitter.com/NASASpaceflight/status/1935548909805601020",
+    "points": 270,
+    "num_comments": 486,
+    "tags": [
+      "story",
+      "author_Ankaios",
+      "story_44315529"
+    ],
+    "author": "Ankaios",
+    "created_at": "2025-06-19T04:49:32Z",
+    "aiHeadline": "SpaceX's Starship 36 had a little 'anomaly' during its latest test flight, which is code for 'we lit it on fire and it didn't go as planned.'"
+  },
+  {
+    "title": "Guess I'm a Rationalist Now",
+    "url": "https://scottaaronson.blog/?p=8908",
+    "points": 222,
+    "num_comments": 640,
+    "tags": [
+      "story",
+      "author_nsoonhui",
+      "story_44317180",
       "front_page"
     ],
-    "author": "surgomat",
-    "created_at": "2025-06-18T12:33:49Z",
-    "aiHeadline": "Workout.cool: Because clearly, the world needs another fitness app to solve all your motivation problems."
+    "author": "nsoonhui",
+    "created_at": "2025-06-19T10:22:06Z",
+    "aiHeadline": "If you're reading this, you've probably already guessed it—yes, I'm now a rationalist, because apparently, logic and evidence are the new black."
   },
   {
-    "title": "Scrappy – Make little apps for you and your friends",
-    "url": "https://pontus.granstrom.me/scrappy/",
-    "points": 413,
-    "num_comments": 134,
+    "title": "End of 10: Upgrade your old Windows 10 computer to Linux",
+    "url": "https://endof10.org/",
+    "points": 216,
+    "num_comments": 191,
     "tags": [
       "story",
-      "author_8organicbits",
-      "story_44306859"
+      "author_doener",
+      "story_44318420"
     ],
-    "author": "8organicbits",
-    "created_at": "2025-06-18T05:16:12Z",
-    "aiHeadline": "Scrappy: Because who doesn't want to build tiny, useless apps for their equally tiny social circle?"
-  },
-  {
-    "title": "MiniMax-M1 open-weight, large-scale hybrid-attention reasoning model",
-    "url": "https://github.com/MiniMax-AI/MiniMax-M1",
-    "points": 326,
-    "num_comments": 70,
-    "tags": [
-      "story",
-      "author_danboarder",
-      "story_44307290"
-    ],
-    "author": "danboarder",
-    "created_at": "2025-06-18T06:53:34Z",
-    "aiHeadline": "MiniMax-M1: The latest AI model that will probably solve world hunger or just make your tweets funnier."
-  },
-  {
-    "title": "I counted all of the yurts in Mongolia using machine learning",
-    "url": "https://monroeclinton.com/counting-all-yurts-in-mongolia/",
-    "points": 226,
-    "num_comments": 91,
-    "tags": [
-      "story",
-      "author_furkansahin",
-      "story_44307629",
-      "front_page"
-    ],
-    "author": "furkansahin",
-    "created_at": "2025-06-18T07:58:18Z",
-    "aiHeadline": "Counting yurts in Mongolia: Because when you've got nothing better to do with your machine learning skills, why not?"
-  },
-  {
-    "title": "Andrej Karpathy's talk on the future of the industry",
-    "url": "https://www.donnamagi.com/articles/karpathy-yc-talk",
-    "points": 223,
-    "num_comments": 153,
-    "tags": [
-      "story",
-      "author_pudiklubi",
-      "story_44311509"
-    ],
-    "author": "pudiklubi",
-    "created_at": "2025-06-18T16:56:18Z",
-    "aiHeadline": "Andrej Karpathy's talk: Because the future of tech is apparently whatever this guy says it is."
+    "author": "doener",
+    "created_at": "2025-06-19T13:14:32Z",
+    "aiHeadline": "Windows 10 has officially reached its expiration date, so it's time to upgrade to Linux and finally embrace the command line with all the enthusiasm of someone who's been dragged kicking and screaming into the future."
   }
 ]
