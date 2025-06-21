@@ -1,73 +1,73 @@
 [
   {
-    "title": "The Zed Debugger Is Here",
-    "url": "https://zed.dev/blog/debugger",
-    "points": 472,
-    "num_comments": 188,
+    "title": "Hurl: Run and test HTTP requests with plain text",
+    "url": "https://github.com/Orange-OpenSource/hurl",
+    "points": 415,
+    "num_comments": 97,
     "tags": [
       "story",
-      "author_SupremumLimit",
-      "story_44314977"
+      "author_flykespice",
+      "story_44324592"
     ],
-    "author": "SupremumLimit",
-    "created_at": "2025-06-19T02:42:15Z",
-    "aiHeadline": "Finally, after years of waiting, the Zed Debugger has arrived to save your coding soul from the depths of despair!"
+    "author": "flykespice",
+    "created_at": "2025-06-20T03:55:03Z",
+    "aiHeadline": "Hurl: Because why use a complicated tool when you can just... hurl your HTTP requests into the void and hope for the best?"
   },
   {
-    "title": "TI to invest $60B to manufacture foundational semiconductors in the U.S.",
-    "url": "https://www.ti.com/about-ti/newsroom/news-releases/2025/texas-instruments-plans-to-invest-more-than--60-billion-to-manufacture-billions-of-foundational-semiconductors-in-the-us.html",
-    "points": 274,
-    "num_comments": 142,
+    "title": "Phoenix.new – Remote AI Runtime for Phoenix",
+    "url": "https://fly.io/blog/phoenix-new-the-remote-ai-runtime/",
+    "points": 378,
+    "num_comments": 167,
     "tags": [
       "story",
-      "author_TMWNN",
-      "story_44314759"
-    ],
-    "author": "TMWNN",
-    "created_at": "2025-06-19T01:50:47Z",
-    "aiHeadline": "Texas Instruments is throwing down a whopping $60 billion to make the tiny chips that power your life, because apparently, they're not just in the business of making money—they're in the business of making sure you can't live without them."
-  },
-  {
-    "title": "SpaceX Starship 36 Anomaly",
-    "url": "https://twitter.com/NASASpaceflight/status/1935548909805601020",
-    "points": 270,
-    "num_comments": 486,
-    "tags": [
-      "story",
-      "author_Ankaios",
-      "story_44315529"
-    ],
-    "author": "Ankaios",
-    "created_at": "2025-06-19T04:49:32Z",
-    "aiHeadline": "SpaceX's Starship 36 had a little 'anomaly' during its latest test flight, which is code for 'we lit it on fire and it didn't go as planned.'"
-  },
-  {
-    "title": "Guess I'm a Rationalist Now",
-    "url": "https://scottaaronson.blog/?p=8908",
-    "points": 222,
-    "num_comments": 640,
-    "tags": [
-      "story",
-      "author_nsoonhui",
-      "story_44317180",
+      "author_wut42",
+      "story_44328326",
       "front_page"
     ],
-    "author": "nsoonhui",
-    "created_at": "2025-06-19T10:22:06Z",
-    "aiHeadline": "If you're reading this, you've probably already guessed it—yes, I'm now a rationalist, because apparently, logic and evidence are the new black."
+    "author": "wut42",
+    "created_at": "2025-06-20T14:57:04Z",
+    "aiHeadline": "Phoenix.new: The latest in AI runtimes, because your app needs to stay lit, not just alive."
   },
   {
-    "title": "End of 10: Upgrade your old Windows 10 computer to Linux",
-    "url": "https://endof10.org/",
-    "points": 216,
-    "num_comments": 191,
+    "title": "I will do anything to end homelessness except build more homes (2018)",
+    "url": "https://www.mcsweeneys.net/articles/i-will-do-anything-to-end-homelessness-except-build-more-homes",
+    "points": 264,
+    "num_comments": 383,
     "tags": [
       "story",
-      "author_doener",
-      "story_44318420"
+      "author_2color",
+      "story_44325617"
     ],
-    "author": "doener",
-    "created_at": "2025-06-19T13:14:32Z",
-    "aiHeadline": "Windows 10 has officially reached its expiration date, so it's time to upgrade to Linux and finally embrace the command line with all the enthusiasm of someone who's been dragged kicking and screaming into the future."
+    "author": "2color",
+    "created_at": "2025-06-20T08:07:34Z",
+    "aiHeadline": "I Will Do Anything to End Homelessness Except Build More Homes: Because solving problems the hard way is so much fun!"
+  },
+  {
+    "title": "Congestion pricing in Manhattan is a predictable success",
+    "url": "https://www.economist.com/united-states/2025/06/19/congestion-pricing-in-manhattan-is-a-predictable-success",
+    "points": 262,
+    "num_comments": 455,
+    "tags": [
+      "story",
+      "author_edward",
+      "story_44328032"
+    ],
+    "author": "edward",
+    "created_at": "2025-06-20T14:26:49Z",
+    "aiHeadline": "Congestion Pricing in Manhattan: The Predictable Success That Only Took Decades to Implement."
+  },
+  {
+    "title": "Learn Makefiles",
+    "url": "https://makefiletutorial.com/",
+    "points": 243,
+    "num_comments": 121,
+    "tags": [
+      "story",
+      "author_dsego",
+      "story_44325611"
+    ],
+    "author": "dsego",
+    "created_at": "2025-06-20T08:05:55Z",
+    "aiHeadline": "Learn Makefiles: Because Every Developer's Journey Must Include a Few Gray hairs."
   }
 ]
