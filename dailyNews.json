@@ -1,73 +1,75 @@
 [
   {
-    "title": "Hurl: Run and test HTTP requests with plain text",
-    "url": "https://github.com/Orange-OpenSource/hurl",
-    "points": 415,
-    "num_comments": 97,
+    "title": "Samsung embeds IronSource spyware app on phones across WANA",
+    "url": "https://smex.org/open-letter-to-samsung-end-forced-israeli-app-installations-in-the-wana-region/",
+    "points": 706,
+    "num_comments": 412,
     "tags": [
       "story",
-      "author_flykespice",
-      "story_44324592"
-    ],
-    "author": "flykespice",
-    "created_at": "2025-06-20T03:55:03Z",
-    "aiHeadline": "Hurl: Because why use a complicated tool when you can just... hurl your HTTP requests into the void and hope for the best?"
-  },
-  {
-    "title": "Phoenix.new – Remote AI Runtime for Phoenix",
-    "url": "https://fly.io/blog/phoenix-new-the-remote-ai-runtime/",
-    "points": 378,
-    "num_comments": 167,
-    "tags": [
-      "story",
-      "author_wut42",
-      "story_44328326",
+      "author_the-anarchist",
+      "story_44334167",
       "front_page"
     ],
-    "author": "wut42",
-    "created_at": "2025-06-20T14:57:04Z",
-    "aiHeadline": "Phoenix.new: The latest in AI runtimes, because your app needs to stay lit, not just alive."
+    "author": "the-anarchist",
+    "created_at": "2025-06-21T03:06:42Z",
+    "aiHeadline": "Samsung quietly installs spyware on your phone, because who doesn't want their data mined by Israeli companies?"
   },
   {
-    "title": "I will do anything to end homelessness except build more homes (2018)",
-    "url": "https://www.mcsweeneys.net/articles/i-will-do-anything-to-end-homelessness-except-build-more-homes",
-    "points": 264,
-    "num_comments": 383,
+    "title": "Microsoft suspended the email account of an ICC prosecutor at The Hague",
+    "url": "https://www.nytimes.com/2025/06/20/technology/us-tech-europe-microsoft-trump-icc.html",
+    "points": 482,
+    "num_comments": 347,
     "tags": [
       "story",
-      "author_2color",
-      "story_44325617"
+      "author_blinding-streak",
+      "story_44336915"
     ],
-    "author": "2color",
-    "created_at": "2025-06-20T08:07:34Z",
-    "aiHeadline": "I Will Do Anything to End Homelessness Except Build More Homes: Because solving problems the hard way is so much fun!"
+    "author": "blinding-streak",
+    "created_at": "2025-06-21T12:06:15Z",
+    "aiHeadline": "Microsoft takes a stand against international justice by suspending an ICC prosecutor's email, proving that Big Tech has a sense of humor."
   },
   {
-    "title": "Congestion pricing in Manhattan is a predictable success",
-    "url": "https://www.economist.com/united-states/2025/06/19/congestion-pricing-in-manhattan-is-a-predictable-success",
-    "points": 262,
-    "num_comments": 455,
+    "title": "We moved from AWS to Hetzner, saved 90%, kept ISO 27001 with Ansible",
+    "url": "https://medium.com/@accounts_73078/goodbye-aws-how-we-kept-iso-27001-slashed-costs-by-90-914ccb4b89fc",
+    "points": 253,
+    "num_comments": 153,
     "tags": [
       "story",
-      "author_edward",
-      "story_44328032"
+      "author_sksjvsla",
+      "story_44335920"
     ],
-    "author": "edward",
-    "created_at": "2025-06-20T14:26:49Z",
-    "aiHeadline": "Congestion Pricing in Manhattan: The Predictable Success That Only Took Decades to Implement."
+    "author": "sksjvsla",
+    "created_at": "2025-06-21T09:02:29Z",
+    "aiHeadline": "Company successfully moves from expensive AWS to cheaper Hetzner, saves 90%, and still meets all the standards, proving that sometimes cheaper is better."
   },
   {
-    "title": "Learn Makefiles",
-    "url": "https://makefiletutorial.com/",
-    "points": 243,
-    "num_comments": 121,
+    "title": "U.S. strikes Iran's nuclear facilities",
+    "url": "https://www.axios.com/2025/06/21/us-strike-iran-nuclear-israel-trump",
+    "points": 247,
+    "num_comments": 372,
     "tags": [
       "story",
-      "author_dsego",
-      "story_44325611"
+      "author_Liwink",
+      "story_44341678",
+      "front_page"
     ],
-    "author": "dsego",
-    "created_at": "2025-06-20T08:05:55Z",
-    "aiHeadline": "Learn Makefiles: Because Every Developer's Journey Must Include a Few Gray hairs."
+    "author": "Liwink",
+    "created_at": "2025-06-22T00:12:29Z",
+    "aiHeadline": "U.S. decides to strike Iran's nuclear facilities, because what better way to ensure peace than more conflict?"
+  },
+  {
+    "title": "Tell HN: Beware confidentiality agreements that act as lifetime non competes",
+    "points": 240,
+    "num_comments": 153,
+    "tags": [
+      "story",
+      "author_throwarayes",
+      "story_44338562",
+      "ask_hn",
+      "front_page"
+    ],
+    "author": "throwarayes",
+    "created_at": "2025-06-21T16:02:24Z",
+    "aiHeadline": "Beware of confidentiality agreements that secretly bind you for life, because nothing says 'we own your career' like a lifetime non-compete."
   }
 ]
