@@ -1,75 +1,77 @@
 [
   {
-    "title": "Samsung embeds IronSource spyware app on phones across WANA",
-    "url": "https://smex.org/open-letter-to-samsung-end-forced-israeli-app-installations-in-the-wana-region/",
-    "points": 706,
-    "num_comments": 412,
+    "title": "Mechanical Watch: Exploded View",
+    "url": "https://fellerts.no/projects/epoch.html",
+    "points": 611,
+    "num_comments": 89,
     "tags": [
       "story",
-      "author_the-anarchist",
-      "story_44334167",
+      "author_fellerts",
+      "story_44347425",
       "front_page"
     ],
-    "author": "the-anarchist",
-    "created_at": "2025-06-21T03:06:42Z",
-    "aiHeadline": "Samsung quietly installs spyware on your phone, because who doesn't want their data mined by Israeli companies?"
+    "author": "fellerts",
+    "created_at": "2025-06-22T14:56:44Z",
+    "aiHeadline": "Mechanical Watch: Exploded View – Because Regular Watches Weren't Complicated Enough"
   },
   {
-    "title": "Microsoft suspended the email account of an ICC prosecutor at The Hague",
-    "url": "https://www.nytimes.com/2025/06/20/technology/us-tech-europe-microsoft-trump-icc.html",
-    "points": 482,
-    "num_comments": 347,
+    "title": "Git Notes: Git's coolest, most unloved­ feature (2022)",
+    "url": "https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/",
+    "points": 441,
+    "num_comments": 109,
     "tags": [
       "story",
-      "author_blinding-streak",
-      "story_44336915"
-    ],
-    "author": "blinding-streak",
-    "created_at": "2025-06-21T12:06:15Z",
-    "aiHeadline": "Microsoft takes a stand against international justice by suspending an ICC prosecutor's email, proving that Big Tech has a sense of humor."
-  },
-  {
-    "title": "We moved from AWS to Hetzner, saved 90%, kept ISO 27001 with Ansible",
-    "url": "https://medium.com/@accounts_73078/goodbye-aws-how-we-kept-iso-27001-slashed-costs-by-90-914ccb4b89fc",
-    "points": 253,
-    "num_comments": 153,
-    "tags": [
-      "story",
-      "author_sksjvsla",
-      "story_44335920"
-    ],
-    "author": "sksjvsla",
-    "created_at": "2025-06-21T09:02:29Z",
-    "aiHeadline": "Company successfully moves from expensive AWS to cheaper Hetzner, saves 90%, and still meets all the standards, proving that sometimes cheaper is better."
-  },
-  {
-    "title": "U.S. strikes Iran's nuclear facilities",
-    "url": "https://www.axios.com/2025/06/21/us-strike-iran-nuclear-israel-trump",
-    "points": 247,
-    "num_comments": 372,
-    "tags": [
-      "story",
-      "author_Liwink",
-      "story_44341678",
+      "author_Delgan",
+      "story_44345334",
       "front_page"
     ],
-    "author": "Liwink",
-    "created_at": "2025-06-22T00:12:29Z",
-    "aiHeadline": "U.S. decides to strike Iran's nuclear facilities, because what better way to ensure peace than more conflict?"
+    "author": "Delgan",
+    "created_at": "2025-06-22T09:14:35Z",
+    "aiHeadline": "Git Notes: Git's Coolest, Most Unloved Feature – Because Who Doesn't Love a Feature That No One Uses?"
   },
   {
-    "title": "Tell HN: Beware confidentiality agreements that act as lifetime non competes",
-    "points": 240,
-    "num_comments": 153,
+    "title": "LibRedirect – Redirects popular sites to alternative privacy-friendly frontends",
+    "url": "https://libredirect.github.io",
+    "points": 382,
+    "num_comments": 96,
     "tags": [
       "story",
-      "author_throwarayes",
-      "story_44338562",
-      "ask_hn",
+      "author_riffraff",
+      "story_44344246",
       "front_page"
     ],
-    "author": "throwarayes",
-    "created_at": "2025-06-21T16:02:24Z",
-    "aiHeadline": "Beware of confidentiality agreements that secretly bind you for life, because nothing says 'we own your career' like a lifetime non-compete."
+    "author": "riffraff",
+    "created_at": "2025-06-22T06:07:48Z",
+    "aiHeadline": "LibRedirect: Redirecting Your Traffic to Privacy-Friendly Alternatives – Because Who Needs Trackers, Anyway?"
+  },
+  {
+    "title": "TPU Deep Dive",
+    "url": "https://henryhmko.github.io/posts/tpu/tpu.html",
+    "points": 372,
+    "num_comments": 75,
+    "tags": [
+      "story",
+      "author_transpute",
+      "story_44342977",
+      "front_page"
+    ],
+    "author": "transpute",
+    "created_at": "2025-06-22T02:51:03Z",
+    "aiHeadline": "TPU Deep Dive: A Comprehensive Guide to Tensor Processing Units – Because Who Doesn't Love a Crash Course in AI Hardware?"
+  },
+  {
+    "title": "How fast are Linux pipes anyway?",
+    "url": "https://mazzo.li/posts/fast-pipes.html",
+    "points": 186,
+    "num_comments": 23,
+    "tags": [
+      "story",
+      "author_keepamovin",
+      "story_44344708",
+      "front_page"
+    ],
+    "author": "keepamovin",
+    "created_at": "2025-06-22T07:27:27Z",
+    "aiHeadline": "How Fast Are Linux Pipes Anyway? – Because Sometimes Even Pipes Need to Keep Up with the Rest of Your System"
   }
 ]
