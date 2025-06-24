@@ -1,77 +1,76 @@
 [
   {
-    "title": "Mechanical Watch: Exploded View",
-    "url": "https://fellerts.no/projects/epoch.html",
-    "points": 611,
-    "num_comments": 89,
+    "title": "uv: An extremely fast Python package and project manager, written in Rust",
+    "url": "https://github.com/astral-sh/uv",
+    "points": 502,
+    "num_comments": 240,
     "tags": [
       "story",
-      "author_fellerts",
-      "story_44347425",
+      "author_chirau",
+      "story_44357411",
       "front_page"
     ],
-    "author": "fellerts",
-    "created_at": "2025-06-22T14:56:44Z",
-    "aiHeadline": "Mechanical Watch: Exploded View – Because Regular Watches Weren't Complicated Enough"
+    "author": "chirau",
+    "created_at": "2025-06-23T16:27:25Z",
+    "aiHeadline": "Finally, Python Gets a Speed Boost—But It’s Written in Rust, So of Course."
   },
   {
-    "title": "Git Notes: Git's coolest, most unloved­ feature (2022)",
-    "url": "https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/",
-    "points": 441,
-    "num_comments": 109,
+    "title": "Backyard Coffee and Jazz in Kyoto",
+    "url": "https://thedeletedscenes.substack.com/p/backyard-coffee-and-jazz-in-kyoto",
+    "points": 402,
+    "num_comments": 173,
     "tags": [
       "story",
-      "author_Delgan",
-      "story_44345334",
+      "author_wyclif",
+      "story_44356248",
       "front_page"
     ],
-    "author": "Delgan",
-    "created_at": "2025-06-22T09:14:35Z",
-    "aiHeadline": "Git Notes: Git's Coolest, Most Unloved Feature – Because Who Doesn't Love a Feature That No One Uses?"
+    "author": "wyclif",
+    "created_at": "2025-06-23T14:37:05Z",
+    "aiHeadline": "Kyoto’s Elite Sip Overpriced Coffee While Pretentious Jazz Plays in the Background."
   },
   {
-    "title": "LibRedirect – Redirects popular sites to alternative privacy-friendly frontends",
-    "url": "https://libredirect.github.io",
-    "points": 382,
-    "num_comments": 96,
+    "title": "Vera C. Rubin Observatory first images",
+    "url": "https://rubinobservatory.org/news/rubin-first-look/cosmic-treasure-chest",
+    "points": 274,
+    "num_comments": 68,
     "tags": [
       "story",
-      "author_riffraff",
-      "story_44344246",
+      "author_phsilva",
+      "story_44356890",
       "front_page"
     ],
-    "author": "riffraff",
-    "created_at": "2025-06-22T06:07:48Z",
-    "aiHeadline": "LibRedirect: Redirecting Your Traffic to Privacy-Friendly Alternatives – Because Who Needs Trackers, Anyway?"
+    "author": "phsilva",
+    "created_at": "2025-06-23T15:41:00Z",
+    "aiHeadline": "Scientists Release Breathtaking Images of the Universe—But It’s Just Another Pretty Picture, Right?"
   },
   {
-    "title": "TPU Deep Dive",
-    "url": "https://henryhmko.github.io/posts/tpu/tpu.html",
-    "points": 372,
-    "num_comments": 75,
+    "title": "How I use my terminal",
+    "url": "https://jyn.dev/how-i-use-my-terminal/",
+    "points": 273,
+    "num_comments": 143,
     "tags": [
       "story",
-      "author_transpute",
-      "story_44342977",
+      "author_todsacerdoti",
+      "story_44356646",
       "front_page"
     ],
-    "author": "transpute",
-    "created_at": "2025-06-22T02:51:03Z",
-    "aiHeadline": "TPU Deep Dive: A Comprehensive Guide to Tensor Processing Units – Because Who Doesn't Love a Crash Course in AI Hardware?"
+    "author": "todsacerdoti",
+    "created_at": "2025-06-23T15:14:29Z",
+    "aiHeadline": "A Dev’s Guide to Terminal Obsession: Because Who Needs a GUI When You Can Type Commands All Day?"
   },
   {
-    "title": "How fast are Linux pipes anyway?",
-    "url": "https://mazzo.li/posts/fast-pipes.html",
-    "points": 186,
-    "num_comments": 23,
+    "title": "WhatsApp banned on House staffers' devices",
+    "url": "https://www.axios.com/2025/06/23/whatsapp-house-congress-staffers-messaging-app",
+    "points": 219,
+    "num_comments": 116,
     "tags": [
       "story",
-      "author_keepamovin",
-      "story_44344708",
-      "front_page"
+      "author_fahd777",
+      "story_44356676"
     ],
-    "author": "keepamovin",
-    "created_at": "2025-06-22T07:27:27Z",
-    "aiHeadline": "How Fast Are Linux Pipes Anyway? – Because Sometimes Even Pipes Need to Keep Up with the Rest of Your System"
+    "author": "fahd777",
+    "created_at": "2025-06-23T15:16:56Z",
+    "aiHeadline": "House Staffers Forced to Ditch WhatsApp—Probably Because They Were Using It for Something Fishy Anyway."
   }
 ]
