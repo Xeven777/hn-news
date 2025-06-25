@@ -1,76 +1,76 @@
 [
   {
-    "title": "uv: An extremely fast Python package and project manager, written in Rust",
-    "url": "https://github.com/astral-sh/uv",
-    "points": 502,
-    "num_comments": 240,
+    "title": "Writing toy software is a joy",
+    "url": "https://blog.jsbarretto.com/post/software-is-joy",
+    "points": 513,
+    "num_comments": 214,
     "tags": [
       "story",
-      "author_chirau",
-      "story_44357411",
+      "author_bundie",
+      "story_44367084",
       "front_page"
     ],
-    "author": "chirau",
-    "created_at": "2025-06-23T16:27:25Z",
-    "aiHeadline": "Finally, Python Gets a Speed Boost—But It’s Written in Rust, So of Course."
+    "author": "bundie",
+    "created_at": "2025-06-24T15:09:12Z",
+    "aiHeadline": "Writing toy software is a joy, unless you're trying to build something that doesn't crash every five minutes, in which case, good luck."
   },
   {
-    "title": "Backyard Coffee and Jazz in Kyoto",
-    "url": "https://thedeletedscenes.substack.com/p/backyard-coffee-and-jazz-in-kyoto",
-    "points": 402,
+    "title": "Man 'refused entry into US' as border control catch him with bald JD Vance meme",
+    "url": "https://www.dublinlive.ie/news/world-news/man-refused-entry-us-border-31925059",
+    "points": 493,
+    "num_comments": 430,
+    "tags": [
+      "story",
+      "author_miles",
+      "story_44369140"
+    ],
+    "author": "miles",
+    "created_at": "2025-06-24T18:21:13Z",
+    "aiHeadline": "Man 'refused entry into US' as border control catch him with bald JD Vance meme, proving that even memes can be too controversial for America."
+  },
+  {
+    "title": "Starship: The minimal, fast, and customizable prompt for any shell",
+    "url": "https://starship.rs/",
+    "points": 370,
     "num_comments": 173,
     "tags": [
       "story",
-      "author_wyclif",
-      "story_44356248",
+      "author_benoitg",
+      "story_44364874",
       "front_page"
     ],
-    "author": "wyclif",
-    "created_at": "2025-06-23T14:37:05Z",
-    "aiHeadline": "Kyoto’s Elite Sip Overpriced Coffee While Pretentious Jazz Plays in the Background."
+    "author": "benoitg",
+    "created_at": "2025-06-24T11:11:52Z",
+    "aiHeadline": "Starship: The minimal, fast, and customizable prompt for any shell, because who doesn't want to spend hours tweaking their terminal to look like a spaceship?"
   },
   {
-    "title": "Vera C. Rubin Observatory first images",
-    "url": "https://rubinobservatory.org/news/rubin-first-look/cosmic-treasure-chest",
-    "points": 274,
-    "num_comments": 68,
+    "title": "Fun with uv and PEP 723",
+    "url": "https://www.cottongeeks.com/articles/2025-06-24-fun-with-uv-and-pep-723",
+    "points": 330,
+    "num_comments": 111,
     "tags": [
       "story",
-      "author_phsilva",
-      "story_44356890",
+      "author_deepakjois",
+      "story_44369388",
       "front_page"
     ],
-    "author": "phsilva",
-    "created_at": "2025-06-23T15:41:00Z",
-    "aiHeadline": "Scientists Release Breathtaking Images of the Universe—But It’s Just Another Pretty Picture, Right?"
+    "author": "deepakjois",
+    "created_at": "2025-06-24T18:41:26Z",
+    "aiHeadline": "Fun with uv and PEP 723: Because who needs sleep when you can spend your nights debugging obscure Python features?"
   },
   {
-    "title": "How I use my terminal",
-    "url": "https://jyn.dev/how-i-use-my-terminal/",
-    "points": 273,
-    "num_comments": 143,
+    "title": "Finding a 27-year-old easter egg in the Power Mac G3 ROM",
+    "url": "https://www.downtowndougbrown.com/2025/06/finding-a-27-year-old-easter-egg-in-the-power-mac-g3-rom/",
+    "points": 307,
+    "num_comments": 88,
     "tags": [
       "story",
-      "author_todsacerdoti",
-      "story_44356646",
+      "author_zdw",
+      "story_44365806",
       "front_page"
     ],
-    "author": "todsacerdoti",
-    "created_at": "2025-06-23T15:14:29Z",
-    "aiHeadline": "A Dev’s Guide to Terminal Obsession: Because Who Needs a GUI When You Can Type Commands All Day?"
-  },
-  {
-    "title": "WhatsApp banned on House staffers' devices",
-    "url": "https://www.axios.com/2025/06/23/whatsapp-house-congress-staffers-messaging-app",
-    "points": 219,
-    "num_comments": 116,
-    "tags": [
-      "story",
-      "author_fahd777",
-      "story_44356676"
-    ],
-    "author": "fahd777",
-    "created_at": "2025-06-23T15:16:56Z",
-    "aiHeadline": "House Staffers Forced to Ditch WhatsApp—Probably Because They Were Using It for Something Fishy Anyway."
+    "author": "zdw",
+    "created_at": "2025-06-24T13:06:45Z",
+    "aiHeadline": "Finding a 27-year-old easter egg in the Power Mac G3 ROM: Because nothing says 'I've wasted my life' like discovering a relic from the 90s in a computer that's older than most of us."
   }
 ]
