@@ -1,76 +1,75 @@
 [
   {
-    "title": "Writing toy software is a joy",
-    "url": "https://blog.jsbarretto.com/post/software-is-joy",
-    "points": 513,
-    "num_comments": 214,
+    "title": "Gemini CLI",
+    "url": "https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/",
+    "points": 940,
+    "num_comments": 532,
     "tags": [
       "story",
-      "author_bundie",
-      "story_44367084",
+      "author_sync",
+      "story_44376919",
       "front_page"
     ],
-    "author": "bundie",
-    "created_at": "2025-06-24T15:09:12Z",
-    "aiHeadline": "Writing toy software is a joy, unless you're trying to build something that doesn't crash every five minutes, in which case, good luck."
+    "author": "sync",
+    "created_at": "2025-06-25T13:10:46Z",
+    "aiHeadline": "Google releases Gemini CLI, because who doesn't want another open-source project that will be deprecated in 6 months?"
   },
   {
-    "title": "Man 'refused entry into US' as border control catch him with bald JD Vance meme",
-    "url": "https://www.dublinlive.ie/news/world-news/man-refused-entry-us-border-31925059",
-    "points": 493,
-    "num_comments": 430,
+    "title": "A new PNG spec",
+    "url": "https://www.programmax.net/articles/png-is-back/",
+    "points": 554,
+    "num_comments": 5,
     "tags": [
       "story",
-      "author_miles",
-      "story_44369140"
+      "author_tbillington",
+      "story_44373504"
     ],
-    "author": "miles",
-    "created_at": "2025-06-24T18:21:13Z",
-    "aiHeadline": "Man 'refused entry into US' as border control catch him with bald JD Vance meme, proving that even memes can be too controversial for America."
+    "author": "tbillington",
+    "created_at": "2025-06-25T03:54:43Z",
+    "aiHeadline": "PNG is back, but this time it's the same file format with a new spec and the same file size. Innovation!"
   },
   {
-    "title": "Starship: The minimal, fast, and customizable prompt for any shell",
-    "url": "https://starship.rs/",
-    "points": 370,
-    "num_comments": 173,
+    "title": "OpenAI charges by the minute, so speed up your audio",
+    "url": "https://george.mand.is/2025/06/openai-charges-by-the-minute-so-make-the-minutes-shorter/",
+    "points": 439,
+    "num_comments": 134,
     "tags": [
       "story",
-      "author_benoitg",
-      "story_44364874",
+      "author_georgemandis",
+      "story_44376989",
       "front_page"
     ],
-    "author": "benoitg",
-    "created_at": "2025-06-24T11:11:52Z",
-    "aiHeadline": "Starship: The minimal, fast, and customizable prompt for any shell, because who doesn't want to spend hours tweaking their terminal to look like a spaceship?"
+    "author": "georgemandis",
+    "created_at": "2025-06-25T13:17:25Z",
+    "aiHeadline": "OpenAI charges by the minute, so now you can spend your money wisely by talking faster and making your voice sound like a chipmunk."
   },
   {
-    "title": "Fun with uv and PEP 723",
-    "url": "https://www.cottongeeks.com/articles/2025-06-24-fun-with-uv-and-pep-723",
-    "points": 330,
-    "num_comments": 111,
+    "title": "What Problems to Solve (1966)",
+    "url": "http://genius.cat-v.org/richard-feynman/writtings/letters/problems",
+    "points": 303,
+    "num_comments": 37,
     "tags": [
       "story",
-      "author_deepakjois",
-      "story_44369388",
+      "author_jxmorris12",
+      "story_44379606",
       "front_page"
     ],
-    "author": "deepakjois",
-    "created_at": "2025-06-24T18:41:26Z",
-    "aiHeadline": "Fun with uv and PEP 723: Because who needs sleep when you can spend your nights debugging obscure Python features?"
+    "author": "jxmorris12",
+    "created_at": "2025-06-25T17:08:44Z",
+    "aiHeadline": "1966 letter by Feynman on what problems to solve, because clearly we haven't solved any of them yet and need some timeless advice."
   },
   {
-    "title": "Finding a 27-year-old easter egg in the Power Mac G3 ROM",
-    "url": "https://www.downtowndougbrown.com/2025/06/finding-a-27-year-old-easter-egg-in-the-power-mac-g3-rom/",
-    "points": 307,
-    "num_comments": 88,
+    "title": "Reading NFC Passport Chips in Linux",
+    "url": "https://shkspr.mobi/blog/2025/06/reading-nfc-passport-chips-in-linux/",
+    "points": 266,
+    "num_comments": 93,
     "tags": [
       "story",
-      "author_zdw",
-      "story_44365806",
-      "front_page"
+      "author_robin_reala",
+      "story_44374574"
     ],
-    "author": "zdw",
-    "created_at": "2025-06-24T13:06:45Z",
-    "aiHeadline": "Finding a 27-year-old easter egg in the Power Mac G3 ROM: Because nothing says 'I've wasted my life' like discovering a relic from the 90s in a computer that's older than most of us."
+    "author": "robin_reala",
+    "created_at": "2025-06-25T07:33:59Z",
+    "aiHeadline": "Reading NFC passport chips in Linux, because nothing says 'fun weekend project' like reverse-engineering government security protocols."
   }
 ]
