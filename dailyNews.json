@@ -1,75 +1,76 @@
 [
   {
-    "title": "AlphaGenome: AI for better understanding the genome",
-    "url": "https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/",
-    "points": 370,
-    "num_comments": 109,
+    "title": "Show HN: I'm an airline pilot – I built interactive graphs/globes of my flights",
+    "url": "https://jameshard.ing/pilot",
+    "points": 1029,
+    "num_comments": 159,
     "tags": [
       "story",
-      "author_i_love_limes",
-      "story_44387659",
+      "author_jamesharding",
+      "story_44396518",
+      "show_hn",
       "front_page"
     ],
-    "author": "i_love_limes",
-    "created_at": "2025-06-26T14:16:00Z",
-    "aiHeadline": "AI takes over genome research, because clearly humans have been doing it wrong all this time."
+    "author": "jamesharding",
+    "created_at": "2025-06-27T13:06:54Z",
+    "aiHeadline": "Airline Pilot Discovers He Can Also Code: Now You Can Watch His Flights on a Globe Too!"
   },
   {
-    "title": "US economy shrank 0.5% in the first quarter, worse than earlier estimates",
-    "url": "https://apnews.com/article/economy-tariffs-trump-gdp-shrink-86d1f15e66c646ac4ce88ffc0a956942",
-    "points": 298,
-    "num_comments": 110,
+    "title": "XSLT – Native, zero-config build system for the Web",
+    "url": "https://github.com/pacocoursey/xslt",
+    "points": 376,
+    "num_comments": 310,
     "tags": [
       "story",
-      "author_Aloisius",
-      "story_44390454"
+      "author__kush",
+      "story_44393817"
     ],
-    "author": "Aloisius",
-    "created_at": "2025-06-26T19:23:40Z",
-    "aiHeadline": "US economy shrinks, proving that the government's economic policies are as effective as a screensaver."
+    "author": "_kush",
+    "created_at": "2025-06-27T05:00:41Z",
+    "aiHeadline": "Finally, a Build System That Doesn’t Suck! Or Does It? You’ll Never Know Because It’s Already Obsolete."
   },
   {
-    "title": "Introducing Gemma 3n",
-    "url": "https://developers.googleblog.com/en/introducing-gemma-3n-developer-guide/",
-    "points": 280,
-    "num_comments": 130,
+    "title": "US Supreme Court limits federal judges' power to block Trump orders",
+    "url": "https://www.theguardian.com/us-news/2025/jun/27/trump-supreme-court-birthright-citizenship-scotus",
+    "points": 317,
+    "num_comments": 524,
     "tags": [
       "story",
-      "author_bundie",
-      "story_44389202",
+      "author_leotravis10",
+      "story_44398710"
+    ],
+    "author": "leotravis10",
+    "created_at": "2025-06-27T17:38:08Z",
+    "aiHeadline": "Supreme Court Tries to Teach Judges a Thing or Two About the Law: Spoiler Alert, They’re Not Very Good at It."
+  },
+  {
+    "title": "Project Vend: Can Claude run a small shop? (And why does that matter?)",
+    "url": "https://www.anthropic.com/research/project-vend-1",
+    "points": 189,
+    "num_comments": 77,
+    "tags": [
+      "story",
+      "author_gk1",
+      "story_44397923",
       "front_page"
     ],
-    "author": "bundie",
-    "created_at": "2025-06-26T17:03:43Z",
-    "aiHeadline": "Google introduces yet another update to their product line, because who doesn't love a new version of the same thing every week?"
+    "author": "gk1",
+    "created_at": "2025-06-27T16:09:14Z",
+    "aiHeadline": "AI Tries to Run a Shop: Because Clearly, We Didn’t Have Enough Quirky AI Experiments Already."
   },
   {
-    "title": "The first non-opoid painkiller",
-    "url": "https://www.worksinprogress.news/p/the-first-non-opioid-painkiller",
-    "points": 229,
-    "num_comments": 195,
+    "title": "Show HN: Zenta – Mindfulness for Terminal Users",
+    "url": "https://github.com/e6a5/zenta",
+    "points": 173,
+    "num_comments": 33,
     "tags": [
       "story",
-      "author_ortegaygasset",
-      "story_44385612"
+      "author_ihiep",
+      "story_44394929",
+      "show_hn"
     ],
-    "author": "ortegaygasset",
-    "created_at": "2025-06-26T09:16:53Z",
-    "aiHeadline": "Scientists invent non-opioid painkiller, because clearly the world needs another reason to argue about healthcare."
-  },
-  {
-    "title": "Launch HN: Issen (YC F24) – Personal AI language tutor",
-    "points": 225,
-    "num_comments": 203,
-    "tags": [
-      "story",
-      "author_mariano54",
-      "story_44387828",
-      "launch_hn",
-      "front_page"
-    ],
-    "author": "mariano54",
-    "created_at": "2025-06-26T14:32:28Z",
-    "aiHeadline": "YC startup introduces AI language tutor, because who needs actual human interaction when you can have a robot correct your grammar?"
+    "author": "ihiep",
+    "created_at": "2025-06-27T08:28:28Z",
+    "aiHeadline": "Finally, a Mindfulness App for Terminal Users: Because Who Needs a Break When You Can Meditate While Coding?"
   }
 ]
