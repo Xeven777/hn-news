@@ -1,76 +1,76 @@
 [
   {
-    "title": "Show HN: I'm an airline pilot – I built interactive graphs/globes of my flights",
-    "url": "https://jameshard.ing/pilot",
-    "points": 1029,
-    "num_comments": 159,
+    "title": "IDF officers ordered to fire at unarmed crowds near Gaza food distribution sites",
+    "url": "https://www.haaretz.com/israel-news/2025-06-27/ty-article-magazine/.premium/idf-soldiers-ordered-to-shoot-deliberately-at-unarmed-gazans-waiting-for-humanitarian-aid/00000197-ad8e-de01-a39f-ffbe33780000",
+    "points": 1122,
+    "num_comments": 809,
     "tags": [
       "story",
-      "author_jamesharding",
-      "story_44396518",
-      "show_hn",
+      "author_ahmetcadirci25",
+      "story_44402896",
       "front_page"
     ],
-    "author": "jamesharding",
-    "created_at": "2025-06-27T13:06:54Z",
-    "aiHeadline": "Airline Pilot Discovers He Can Also Code: Now You Can Watch His Flights on a Globe Too!"
+    "author": "ahmetcadirci25",
+    "created_at": "2025-06-28T07:36:20Z",
+    "aiHeadline": "IDF: 'Let's Shoot First, Ask Questions Later' While Waiting for Food Aid"
   },
   {
-    "title": "XSLT – Native, zero-config build system for the Web",
-    "url": "https://github.com/pacocoursey/xslt",
-    "points": 376,
-    "num_comments": 310,
+    "title": "MCP: An (Accidentally) Universal Plugin System",
+    "url": "https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin",
+    "points": 492,
+    "num_comments": 219,
     "tags": [
       "story",
-      "author__kush",
-      "story_44393817"
-    ],
-    "author": "_kush",
-    "created_at": "2025-06-27T05:00:41Z",
-    "aiHeadline": "Finally, a Build System That Doesn’t Suck! Or Does It? You’ll Never Know Because It’s Already Obsolete."
-  },
-  {
-    "title": "US Supreme Court limits federal judges' power to block Trump orders",
-    "url": "https://www.theguardian.com/us-news/2025/jun/27/trump-supreme-court-birthright-citizenship-scotus",
-    "points": 317,
-    "num_comments": 524,
-    "tags": [
-      "story",
-      "author_leotravis10",
-      "story_44398710"
-    ],
-    "author": "leotravis10",
-    "created_at": "2025-06-27T17:38:08Z",
-    "aiHeadline": "Supreme Court Tries to Teach Judges a Thing or Two About the Law: Spoiler Alert, They’re Not Very Good at It."
-  },
-  {
-    "title": "Project Vend: Can Claude run a small shop? (And why does that matter?)",
-    "url": "https://www.anthropic.com/research/project-vend-1",
-    "points": 189,
-    "num_comments": 77,
-    "tags": [
-      "story",
-      "author_gk1",
-      "story_44397923",
+      "author_Stwerner",
+      "story_44404905",
       "front_page"
     ],
-    "author": "gk1",
-    "created_at": "2025-06-27T16:09:14Z",
-    "aiHeadline": "AI Tries to Run a Shop: Because Clearly, We Didn’t Have Enough Quirky AI Experiments Already."
+    "author": "Stwerner",
+    "created_at": "2025-06-28T14:22:10Z",
+    "aiHeadline": "MCP: The Plugin System That Accidentally Became Universal, Because Who Needs Intentional Design Anyway?"
   },
   {
-    "title": "Show HN: Zenta – Mindfulness for Terminal Users",
-    "url": "https://github.com/e6a5/zenta",
-    "points": 173,
-    "num_comments": 33,
+    "title": "I deleted my second brain",
+    "url": "https://www.joanwestenberg.com/p/i-deleted-my-second-brain",
+    "points": 490,
+    "num_comments": 301,
     "tags": [
       "story",
-      "author_ihiep",
-      "story_44394929",
-      "show_hn"
+      "author_MrVandemar",
+      "story_44402470"
     ],
-    "author": "ihiep",
-    "created_at": "2025-06-27T08:28:28Z",
-    "aiHeadline": "Finally, a Mindfulness App for Terminal Users: Because Who Needs a Break When You Can Meditate While Coding?"
+    "author": "MrVandemar",
+    "created_at": "2025-06-28T05:27:29Z",
+    "aiHeadline": "Deleting My Second Brain: Because Who Needs a Backup When You're Already This Smart?"
+  },
+  {
+    "title": "JavaScript Trademark Update",
+    "url": "https://deno.com/blog/deno-v-oracle4",
+    "points": 488,
+    "num_comments": 163,
+    "tags": [
+      "story",
+      "author_thebeardisred",
+      "story_44407139",
+      "front_page"
+    ],
+    "author": "thebeardisred",
+    "created_at": "2025-06-28T18:52:00Z",
+    "aiHeadline": "JavaScript Trademark Update: Because Trademarks Are the New Tech Battleship"
+  },
+  {
+    "title": "Addictions Are Being Engineered",
+    "url": "https://masonyarbrough.substack.com/p/engineered-addictions",
+    "points": 382,
+    "num_comments": 250,
+    "tags": [
+      "story",
+      "author_echollama",
+      "story_44405057",
+      "front_page"
+    ],
+    "author": "echollama",
+    "created_at": "2025-06-28T14:45:43Z",
+    "aiHeadline": "Addictions Are Being Engineered: Because Who Needs Consent When You Can Just Engineer Loyalty?"
   }
 ]
