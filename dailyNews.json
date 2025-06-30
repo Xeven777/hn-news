@@ -1,76 +1,78 @@
 [
   {
-    "title": "IDF officers ordered to fire at unarmed crowds near Gaza food distribution sites",
-    "url": "https://www.haaretz.com/israel-news/2025-06-27/ty-article-magazine/.premium/idf-soldiers-ordered-to-shoot-deliberately-at-unarmed-gazans-waiting-for-humanitarian-aid/00000197-ad8e-de01-a39f-ffbe33780000",
-    "points": 1122,
-    "num_comments": 809,
+    "title": "More on Apple's Trust-Eroding 'F1 the Movie' Wallet Ad",
+    "url": "https://daringfireball.net/2025/06/more_on_apples_trust-eroding_f1_the_movie_wallet_ad",
+    "points": 852,
+    "num_comments": 536,
     "tags": [
       "story",
-      "author_ahmetcadirci25",
-      "story_44402896",
+      "author_dotcoma",
+      "story_44411069",
       "front_page"
     ],
-    "author": "ahmetcadirci25",
-    "created_at": "2025-06-28T07:36:20Z",
-    "aiHeadline": "IDF: 'Let's Shoot First, Ask Questions Later' While Waiting for Food Aid"
+    "author": "dotcoma",
+    "created_at": "2025-06-29T07:45:56Z",
+    "aiHeadline": "Apple continues to erode trust with yet another ad that makes you question everything they do, this time using a movie ad to sell their wallet service."
   },
   {
-    "title": "MCP: An (Accidentally) Universal Plugin System",
-    "url": "https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin",
-    "points": 492,
-    "num_comments": 219,
+    "title": "I made my VM think it has a CPU fan",
+    "url": "https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html",
+    "points": 421,
+    "num_comments": 106,
     "tags": [
       "story",
-      "author_Stwerner",
-      "story_44404905",
+      "author_todsacerdoti",
+      "story_44413185",
       "front_page"
     ],
-    "author": "Stwerner",
-    "created_at": "2025-06-28T14:22:10Z",
-    "aiHeadline": "MCP: The Plugin System That Accidentally Became Universal, Because Who Needs Intentional Design Anyway?"
+    "author": "todsacerdoti",
+    "created_at": "2025-06-29T13:55:18Z",
+    "aiHeadline": "A developer finds a way to make their virtual machine think it has a CPU fan, because who doesn't want their imaginary computer to have imaginary cooling issues?"
   },
   {
-    "title": "I deleted my second brain",
-    "url": "https://www.joanwestenberg.com/p/i-deleted-my-second-brain",
-    "points": 490,
-    "num_comments": 301,
+    "title": "Show HN: Octelium – FOSS Alternative to Teleport, Cloudflare, Tailscale, Ngrok",
+    "url": "https://github.com/octelium/octelium",
+    "points": 285,
+    "num_comments": 111,
     "tags": [
       "story",
-      "author_MrVandemar",
-      "story_44402470"
-    ],
-    "author": "MrVandemar",
-    "created_at": "2025-06-28T05:27:29Z",
-    "aiHeadline": "Deleting My Second Brain: Because Who Needs a Backup When You're Already This Smart?"
-  },
-  {
-    "title": "JavaScript Trademark Update",
-    "url": "https://deno.com/blog/deno-v-oracle4",
-    "points": 488,
-    "num_comments": 163,
-    "tags": [
-      "story",
-      "author_thebeardisred",
-      "story_44407139",
+      "author_geoctl",
+      "story_44412207",
+      "show_hn",
       "front_page"
     ],
-    "author": "thebeardisred",
-    "created_at": "2025-06-28T18:52:00Z",
-    "aiHeadline": "JavaScript Trademark Update: Because Trademarks Are the New Tech Battleship"
+    "author": "geoctl",
+    "created_at": "2025-06-29T11:24:17Z",
+    "aiHeadline": "Another open-source project claims to be the better alternative to all the other tools you already use, because the world needs more options for solving the same problem."
   },
   {
-    "title": "Addictions Are Being Engineered",
-    "url": "https://masonyarbrough.substack.com/p/engineered-addictions",
-    "points": 382,
-    "num_comments": 250,
+    "title": "Using the Internet without IPv4 connectivity",
+    "url": "https://jamesmcm.github.io/blog/no-ipv4/",
+    "points": 254,
+    "num_comments": 112,
     "tags": [
       "story",
-      "author_echollama",
-      "story_44405057",
+      "author_jmillikin",
+      "story_44411273",
       "front_page"
     ],
-    "author": "echollama",
-    "created_at": "2025-06-28T14:45:43Z",
-    "aiHeadline": "Addictions Are Being Engineered: Because Who Needs Consent When You Can Just Engineer Loyalty?"
+    "author": "jmillikin",
+    "created_at": "2025-06-29T08:23:40Z",
+    "aiHeadline": "A developer shares their journey of using the internet without IPv4, proving that sometimes the simplest things are the hardest to achieve."
+  },
+  {
+    "title": "Loss of key US satellite data could send hurricane forecasting back 'decades'",
+    "url": "https://www.theguardian.com/us-news/2025/jun/28/noaa-cuts-hurricane-forecasting-climate",
+    "points": 241,
+    "num_comments": 111,
+    "tags": [
+      "story",
+      "author_trauco",
+      "story_44414853",
+      "front_page"
+    ],
+    "author": "trauco",
+    "created_at": "2025-06-29T17:39:08Z",
+    "aiHeadline": "The US loses key satellite data, potentially setting hurricane forecasting back decades, because nothing says 'we're prepared' like relying on outdated technology."
   }
 ]
