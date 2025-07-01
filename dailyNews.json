@@ -1,78 +1,77 @@
 [
   {
-    "title": "More on Apple's Trust-Eroding 'F1 the Movie' Wallet Ad",
-    "url": "https://daringfireball.net/2025/06/more_on_apples_trust-eroding_f1_the_movie_wallet_ad",
-    "points": 852,
-    "num_comments": 536,
+    "title": "Gridfinity: The modular, open-source grid storage system",
+    "url": "https://gridfinity.xyz/",
+    "points": 392,
+    "num_comments": 166,
     "tags": [
       "story",
-      "author_dotcoma",
-      "story_44411069",
-      "front_page"
+      "author_nateb2022",
+      "story_44419091"
     ],
-    "author": "dotcoma",
-    "created_at": "2025-06-29T07:45:56Z",
-    "aiHeadline": "Apple continues to erode trust with yet another ad that makes you question everything they do, this time using a movie ad to sell their wallet service."
+    "author": "nateb2022",
+    "created_at": "2025-06-30T03:37:21Z",
+    "aiHeadline": "Gridfinity: The revolutionary modular storage system that promises to organize your life in a grid-like fashion, because clearly your life isn't already a mess."
   },
   {
-    "title": "I made my VM think it has a CPU fan",
-    "url": "https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html",
-    "points": 421,
-    "num_comments": 106,
+    "title": "The new skill in AI is not prompting, it's context engineering",
+    "url": "https://www.philschmid.de/context-engineering",
+    "points": 373,
+    "num_comments": 213,
     "tags": [
       "story",
-      "author_todsacerdoti",
-      "story_44413185",
+      "author_robotswantdata",
+      "story_44427757",
       "front_page"
     ],
-    "author": "todsacerdoti",
-    "created_at": "2025-06-29T13:55:18Z",
-    "aiHeadline": "A developer finds a way to make their virtual machine think it has a CPU fan, because who doesn't want their imaginary computer to have imaginary cooling issues?"
+    "author": "robotswantdata",
+    "created_at": "2025-06-30T20:53:55Z",
+    "aiHeadline": "The new skill in AI? Context engineering, because clearly we've mastered prompting and now need to figure out how to make AI understand the difference between 'I'm hungry' and 'I'm starving for knowledge.'"
   },
   {
-    "title": "Show HN: Octelium – FOSS Alternative to Teleport, Cloudflare, Tailscale, Ngrok",
-    "url": "https://github.com/octelium/octelium",
-    "points": 285,
-    "num_comments": 111,
+    "title": "There are no new ideas in AI only new datasets",
+    "url": "https://blog.jxmo.io/p/there-are-no-new-ideas-in-ai-only",
+    "points": 309,
+    "num_comments": 163,
     "tags": [
       "story",
-      "author_geoctl",
-      "story_44412207",
+      "author_bilsbie",
+      "story_44423983",
+      "front_page"
+    ],
+    "author": "bilsbie",
+    "created_at": "2025-06-30T14:43:46Z",
+    "aiHeadline": "There are no new ideas in AI, just new datasets—because apparently, the solution to all our problems is just more data, not actual creativity."
+  },
+  {
+    "title": "Xfinity using WiFi signals in your house to detect motion",
+    "url": "https://www.xfinity.com/support/articles/wifi-motion",
+    "points": 296,
+    "num_comments": 199,
+    "tags": [
+      "story",
+      "author_bearsyankees",
+      "story_44426726",
+      "front_page"
+    ],
+    "author": "bearsyankees",
+    "created_at": "2025-06-30T19:03:50Z",
+    "aiHeadline": "Xfinity is now using your Wi-Fi signals to detect motion, because your Wi-Fi router has been spying on you all along, and now it's just being honest about it."
+  },
+  {
+    "title": "Show HN: TokenDagger – A tokenizer faster than OpenAI's Tiktoken",
+    "url": "https://github.com/M4THYOU/TokenDagger",
+    "points": 247,
+    "num_comments": 67,
+    "tags": [
+      "story",
+      "author_matthewolfe",
+      "story_44422480",
       "show_hn",
       "front_page"
     ],
-    "author": "geoctl",
-    "created_at": "2025-06-29T11:24:17Z",
-    "aiHeadline": "Another open-source project claims to be the better alternative to all the other tools you already use, because the world needs more options for solving the same problem."
-  },
-  {
-    "title": "Using the Internet without IPv4 connectivity",
-    "url": "https://jamesmcm.github.io/blog/no-ipv4/",
-    "points": 254,
-    "num_comments": 112,
-    "tags": [
-      "story",
-      "author_jmillikin",
-      "story_44411273",
-      "front_page"
-    ],
-    "author": "jmillikin",
-    "created_at": "2025-06-29T08:23:40Z",
-    "aiHeadline": "A developer shares their journey of using the internet without IPv4, proving that sometimes the simplest things are the hardest to achieve."
-  },
-  {
-    "title": "Loss of key US satellite data could send hurricane forecasting back 'decades'",
-    "url": "https://www.theguardian.com/us-news/2025/jun/28/noaa-cuts-hurricane-forecasting-climate",
-    "points": 241,
-    "num_comments": 111,
-    "tags": [
-      "story",
-      "author_trauco",
-      "story_44414853",
-      "front_page"
-    ],
-    "author": "trauco",
-    "created_at": "2025-06-29T17:39:08Z",
-    "aiHeadline": "The US loses key satellite data, potentially setting hurricane forecasting back decades, because nothing says 'we're prepared' like relying on outdated technology."
+    "author": "matthewolfe",
+    "created_at": "2025-06-30T12:33:58Z",
+    "aiHeadline": "TokenDagger: The tokenizer that's faster than OpenAI's Tiktoken, because speed is the new black, and your CPU fan spinning like a jet engine is just a minor inconvenience."
   }
 ]
