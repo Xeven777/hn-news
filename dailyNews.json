@@ -1,77 +1,76 @@
 [
   {
-    "title": "The Fed says this is a cube of $1M. They're off by half a million",
-    "url": "https://calvin.sh/blog/fed-lie/",
-    "points": 914,
-    "num_comments": 369,
+    "title": "Exploiting the IKKO Activebuds \"AI powered\" earbuds",
+    "url": "https://blog.mgdproductions.com/ikko-activebuds/",
+    "points": 438,
+    "num_comments": 162,
     "tags": [
       "story",
-      "author_c249709",
-      "story_44435484",
+      "author_ajdude",
+      "story_44443919",
       "front_page"
     ],
-    "author": "c249709",
-    "created_at": "2025-07-01T16:22:55Z",
-    "aiHeadline": "The Fed Proves They're Half a Million Dollars Short of Being Good at Math, or Recognizing a Cube."
+    "author": "ajdude",
+    "created_at": "2025-07-02T14:06:43Z",
+    "aiHeadline": "AI-powered earbuds so smart they can be hacked: because who needs actual functionality when you can have vulnerabilities?"
   },
   {
-    "title": "Cloudflare to introduce pay-per-crawl for AI bots",
-    "url": "https://blog.cloudflare.com/introducing-pay-per-crawl/",
-    "points": 488,
-    "num_comments": 262,
+    "title": "Don’t use “click here” as link text (2001)",
+    "url": "https://www.w3.org/QA/Tips/noClickHere",
+    "points": 433,
+    "num_comments": 309,
     "tags": [
       "story",
-      "author_scotchmi_st",
-      "story_44432385"
-    ],
-    "author": "scotchmi_st",
-    "created_at": "2025-07-01T10:20:27Z",
-    "aiHeadline": "Cloudflare: Now Charging AI Bots for the Privilege of Crawling the Web, Because Apparently, Your Bot’s Job is Worth Every Penny."
-  },
-  {
-    "title": "Show HN: Spegel, a Terminal Browser That Uses LLMs to Rewrite Webpages",
-    "url": "https://simedw.com/2025/06/23/introducing-spegel/",
-    "points": 308,
-    "num_comments": 139,
-    "tags": [
-      "story",
-      "author_simedw",
-      "story_44433409",
-      "show_hn",
+      "author_theandrewbailey",
+      "story_44442473",
       "front_page"
     ],
-    "author": "simedw",
-    "created_at": "2025-07-01T12:49:42Z",
-    "aiHeadline": "Introducing Spegel: The Terminal Browser That Thinks It’s an AI, Because Who Needs a Graphical Interface When You Can Rewrite Webpages with LLMs?"
+    "author": "theandrewbailey",
+    "created_at": "2025-07-02T11:39:12Z",
+    "aiHeadline": "Don’t use ‘click here’ as link text (2001): because 24 years later, we’re still telling you the same thing."
   },
   {
-    "title": "OpenFLOW – Quickly make beautiful infrastructure diagrams local to your machine",
-    "url": "https://github.com/stan-smith/OpenFLOW",
-    "points": 271,
-    "num_comments": 64,
+    "title": "Private sector lost 33k jobs, badly missing expectations of 100k increase",
+    "url": "https://www.cnbc.com/2025/07/02/adp-jobs-report-june-2025.html",
+    "points": 380,
+    "num_comments": 233,
     "tags": [
       "story",
-      "author_x0z",
-      "story_44431178",
+      "author_ceejayoz",
+      "story_44443622",
       "front_page"
     ],
-    "author": "x0z",
-    "created_at": "2025-07-01T06:29:57Z",
-    "aiHeadline": "OpenFLOW: Because Who Needs a Designer When You Can Just Drag and Drop Your Way to Professional-Looking Infrastructure Diagrams?"
+    "author": "ceejayoz",
+    "created_at": "2025-07-02T13:40:33Z",
+    "aiHeadline": "Private sector jobs: down 33k, but don’t worry, the robots are still working hard to take the rest."
   },
   {
-    "title": "Figma Files Registration Statement for Proposed Initial Public Offering",
-    "url": "https://www.figma.com/blog/s1-public/",
-    "points": 207,
-    "num_comments": 84,
+    "title": "Cloudflare Introduces Default Blocking of A.I. Data Scrapers",
+    "url": "https://www.nytimes.com/2025/07/01/technology/cloudflare-ai-data.html",
+    "points": 364,
+    "num_comments": 249,
     "tags": [
       "story",
-      "author_kualto",
-      "story_44437316",
+      "author_stephendause",
+      "story_44443480",
       "front_page"
     ],
-    "author": "kualto",
-    "created_at": "2025-07-01T19:39:14Z",
-    "aiHeadline": "Figma Files for IPO: Because What’s a Tech Startup Without a Trip to the Stock Market? Just Another Overpriced Design Tool, That’s What."
+    "author": "stephendause",
+    "created_at": "2025-07-02T13:28:56Z",
+    "aiHeadline": "Cloudflare blocks AI data scrapers: because if you can’t beat them, at least you can make their data collection a bit harder."
+  },
+  {
+    "title": "I'm dialing back my LLM usage",
+    "url": "https://zed.dev/blog/dialing-back-my-llm-usage-with-alberto-fortin",
+    "points": 352,
+    "num_comments": 209,
+    "tags": [
+      "story",
+      "author_sagacity",
+      "story_44443109"
+    ],
+    "author": "sagacity",
+    "created_at": "2025-07-02T12:48:22Z",
+    "aiHeadline": "I’m dialing back my LLM usage: because even AI knows when it’s overused."
   }
 ]
