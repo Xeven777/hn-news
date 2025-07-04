@@ -1,76 +1,76 @@
 [
   {
-    "title": "Exploiting the IKKO Activebuds \"AI powered\" earbuds",
-    "url": "https://blog.mgdproductions.com/ikko-activebuds/",
-    "points": 438,
-    "num_comments": 162,
+    "title": "Introducing tmux-rs",
+    "url": "https://richardscollin.github.io/tmux-rs/",
+    "points": 593,
+    "num_comments": 196,
     "tags": [
       "story",
-      "author_ajdude",
-      "story_44443919",
+      "author_Jtsummers",
+      "story_44455787",
       "front_page"
     ],
-    "author": "ajdude",
-    "created_at": "2025-07-02T14:06:43Z",
-    "aiHeadline": "AI-powered earbuds so smart they can be hacked: because who needs actual functionality when you can have vulnerabilities?"
+    "author": "Jtsummers",
+    "created_at": "2025-07-03T15:03:14Z",
+    "aiHeadline": "Finally, after years of suffering, a Rust developer has released tmux-rs, because clearly the world needed yet another terminal multiplexer—probably because the original tmux wasn't already good enough, or maybe because someone had a mental breakdown and decided to rewrite it in Rust just for fun."
   },
   {
-    "title": "Don’t use “click here” as link text (2001)",
-    "url": "https://www.w3.org/QA/Tips/noClickHere",
-    "points": 433,
-    "num_comments": 309,
+    "title": "Astronomers discover 3I/ATLAS – Third interstellar object to visit Solar System",
+    "url": "https://www.abc.net.au/news/science/2025-07-03/3i-atlas-a11pl3z-interstellar-object-in-our-solar-system/105489180",
+    "points": 281,
+    "num_comments": 149,
     "tags": [
       "story",
-      "author_theandrewbailey",
-      "story_44442473",
+      "author_gammarator",
+      "story_44451329",
       "front_page"
     ],
-    "author": "theandrewbailey",
-    "created_at": "2025-07-02T11:39:12Z",
-    "aiHeadline": "Don’t use ‘click here’ as link text (2001): because 24 years later, we’re still telling you the same thing."
+    "author": "gammarator",
+    "created_at": "2025-07-03T03:19:24Z",
+    "aiHeadline": "Astronomers have discovered the third interstellar object to visit our solar system, proving that space is full of weird rocks just like Earth, but somehow this still manages to be less exciting than a new season of The Bachelor."
   },
   {
-    "title": "Private sector lost 33k jobs, badly missing expectations of 100k increase",
-    "url": "https://www.cnbc.com/2025/07/02/adp-jobs-report-june-2025.html",
-    "points": 380,
-    "num_comments": 233,
+    "title": "Tools: Code Is All You Need",
+    "url": "https://lucumr.pocoo.org/2025/7/3/tools/",
+    "points": 272,
+    "num_comments": 196,
     "tags": [
       "story",
-      "author_ceejayoz",
-      "story_44443622",
+      "author_Bogdanp",
+      "story_44453688"
+    ],
+    "author": "Bogdanp",
+    "created_at": "2025-07-03T10:51:18Z",
+    "aiHeadline": "In a shocking revelation, a developer has declared that 'Code Is All You Need,' which is either the most obvious statement of the century or a thinly veiled attempt to justify why they refuse to learn proper documentation practices."
+  },
+  {
+    "title": "Opening up ‘Zero-Knowledge Proof’ technology",
+    "url": "https://blog.google/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/",
+    "points": 227,
+    "num_comments": 138,
+    "tags": [
+      "story",
+      "author_doomroot13",
+      "story_44457390",
       "front_page"
     ],
-    "author": "ceejayoz",
-    "created_at": "2025-07-02T13:40:33Z",
-    "aiHeadline": "Private sector jobs: down 33k, but don’t worry, the robots are still working hard to take the rest."
+    "author": "doomroot13",
+    "created_at": "2025-07-03T17:36:13Z",
+    "aiHeadline": "Google has decided to 'open up' zero-knowledge proof technology, which is great news for everyone who wasn't already aware that 'open' in corporate speak usually means 'we'll give you just enough to make you feel involved while keeping the real power for ourselves.'"
   },
   {
-    "title": "Cloudflare Introduces Default Blocking of A.I. Data Scrapers",
-    "url": "https://www.nytimes.com/2025/07/01/technology/cloudflare-ai-data.html",
-    "points": 364,
-    "num_comments": 249,
+    "title": "Peasant Railgun",
+    "url": "https://knightsdigest.com/what-exactly-is-the-peasant-railgun-in-dd-5e/",
+    "points": 191,
+    "num_comments": 147,
     "tags": [
       "story",
-      "author_stephendause",
-      "story_44443480",
+      "author_cainxinth",
+      "story_44455222",
       "front_page"
     ],
-    "author": "stephendause",
-    "created_at": "2025-07-02T13:28:56Z",
-    "aiHeadline": "Cloudflare blocks AI data scrapers: because if you can’t beat them, at least you can make their data collection a bit harder."
-  },
-  {
-    "title": "I'm dialing back my LLM usage",
-    "url": "https://zed.dev/blog/dialing-back-my-llm-usage-with-alberto-fortin",
-    "points": 352,
-    "num_comments": 209,
-    "tags": [
-      "story",
-      "author_sagacity",
-      "story_44443109"
-    ],
-    "author": "sagacity",
-    "created_at": "2025-07-02T12:48:22Z",
-    "aiHeadline": "I’m dialing back my LLM usage: because even AI knows when it’s overused."
+    "author": "cainxinth",
+    "created_at": "2025-07-03T14:05:05Z",
+    "aiHeadline": "The 'Peasant Railgun' has officially been added to D&D 5e, proving once and for all that even in a fantasy setting, peasants are still the real heroes—because who else would be stuck using a railgun that's basically just a glorified potato cannon?"
   }
 ]
