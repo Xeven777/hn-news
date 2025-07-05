@@ -1,76 +1,74 @@
 [
   {
-    "title": "Introducing tmux-rs",
-    "url": "https://richardscollin.github.io/tmux-rs/",
-    "points": 593,
-    "num_comments": 196,
+    "title": "My open source project was relicensed by a YC company [license updated]",
+    "url": "https://twitter.com/soham_btw/status/1940952786491027886",
+    "points": 807,
+    "num_comments": 459,
     "tags": [
       "story",
-      "author_Jtsummers",
-      "story_44455787",
-      "front_page"
+      "author_sohzm",
+      "story_44460552"
     ],
-    "author": "Jtsummers",
-    "created_at": "2025-07-03T15:03:14Z",
-    "aiHeadline": "Finally, after years of suffering, a Rust developer has released tmux-rs, because clearly the world needed yet another terminal multiplexer—probably because the original tmux wasn't already good enough, or maybe because someone had a mental breakdown and decided to rewrite it in Rust just for fun."
+    "author": "sohzm",
+    "created_at": "2025-07-04T02:04:55Z",
+    "aiHeadline": "Open Source Developer Finds Their Project Relicensed by a YC Startup, Because Nothing Says 'Respect' Like Ignoring the Original Contributor."
   },
   {
-    "title": "Astronomers discover 3I/ATLAS – Third interstellar object to visit Solar System",
-    "url": "https://www.abc.net.au/news/science/2025-07-03/3i-atlas-a11pl3z-interstellar-object-in-our-solar-system/105489180",
-    "points": 281,
-    "num_comments": 149,
+    "title": "The Rise of Whatever",
+    "url": "https://eev.ee/blog/2025/07/03/the-rise-of-whatever/",
+    "points": 548,
+    "num_comments": 441,
     "tags": [
       "story",
-      "author_gammarator",
-      "story_44451329",
-      "front_page"
+      "author_cratermoon",
+      "story_44461208"
     ],
-    "author": "gammarator",
-    "created_at": "2025-07-03T03:19:24Z",
-    "aiHeadline": "Astronomers have discovered the third interstellar object to visit our solar system, proving that space is full of weird rocks just like Earth, but somehow this still manages to be less exciting than a new season of The Bachelor."
+    "author": "cratermoon",
+    "created_at": "2025-07-04T04:48:32Z",
+    "aiHeadline": "The Rise of 'Whatever' as the New Buzzword, Because Apparently, Ambiguity is the Future of Innovation."
   },
   {
-    "title": "Tools: Code Is All You Need",
-    "url": "https://lucumr.pocoo.org/2025/7/3/tools/",
-    "points": 272,
-    "num_comments": 196,
+    "title": "Major reversal in ocean circulation detected in the Southern Ocean",
+    "url": "https://www.icm.csic.es/en/news/major-reversal-ocean-circulation-detected-southern-ocean-key-climate-implications",
+    "points": 445,
+    "num_comments": 297,
     "tags": [
       "story",
-      "author_Bogdanp",
-      "story_44453688"
+      "author_riffraff",
+      "story_44461222"
     ],
-    "author": "Bogdanp",
-    "created_at": "2025-07-03T10:51:18Z",
-    "aiHeadline": "In a shocking revelation, a developer has declared that 'Code Is All You Need,' which is either the most obvious statement of the century or a thinly veiled attempt to justify why they refuse to learn proper documentation practices."
+    "author": "riffraff",
+    "created_at": "2025-07-04T04:52:03Z",
+    "aiHeadline": "Scientists Discover Major Ocean Circulation Reversal, Probably Because We've Been Dumping Plastic in the Ocean for Decades."
   },
   {
-    "title": "Opening up ‘Zero-Knowledge Proof’ technology",
-    "url": "https://blog.google/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/",
-    "points": 227,
-    "num_comments": 138,
+    "title": "Nvidia Is Full of Shit",
+    "url": "https://blog.sebin-nyshkim.net/posts/nvidia-is-full-of-shit/",
+    "points": 332,
+    "num_comments": 172,
     "tags": [
       "story",
-      "author_doomroot13",
-      "story_44457390",
+      "author_todsacerdoti",
+      "story_44468175",
       "front_page"
     ],
-    "author": "doomroot13",
-    "created_at": "2025-07-03T17:36:13Z",
-    "aiHeadline": "Google has decided to 'open up' zero-knowledge proof technology, which is great news for everyone who wasn't already aware that 'open' in corporate speak usually means 'we'll give you just enough to make you feel involved while keeping the real power for ourselves.'"
+    "author": "todsacerdoti",
+    "created_at": "2025-07-04T21:58:25Z",
+    "aiHeadline": "Nvidia's Latest Product Release Proves Once Again That They're Full of Shit, But We'll Still Buy It Because It's the Best Option."
   },
   {
-    "title": "Peasant Railgun",
-    "url": "https://knightsdigest.com/what-exactly-is-the-peasant-railgun-in-dd-5e/",
-    "points": 191,
-    "num_comments": 147,
+    "title": "Mini NASes marry NVMe to Intel's efficient chip",
+    "url": "https://www.jeffgeerling.com/blog/2025/mini-nases-marry-nvme-intels-efficient-chip",
+    "points": 291,
+    "num_comments": 142,
     "tags": [
       "story",
-      "author_cainxinth",
-      "story_44455222",
+      "author_ingve",
+      "story_44465319",
       "front_page"
     ],
-    "author": "cainxinth",
-    "created_at": "2025-07-03T14:05:05Z",
-    "aiHeadline": "The 'Peasant Railgun' has officially been added to D&D 5e, proving once and for all that even in a fantasy setting, peasants are still the real heroes—because who else would be stuck using a railgun that's basically just a glorified potato cannon?"
+    "author": "ingve",
+    "created_at": "2025-07-04T15:21:51Z",
+    "aiHeadline": "Mini NASes Get a Makeover with NVMe and Intel's Efficient Chip, Because Who Doesn't Want Their Storage to Be as Efficient as a Marriage?"
   }
 ]
