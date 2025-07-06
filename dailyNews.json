@@ -1,74 +1,73 @@
 [
   {
-    "title": "My open source project was relicensed by a YC company [license updated]",
-    "url": "https://twitter.com/soham_btw/status/1940952786491027886",
-    "points": 807,
-    "num_comments": 459,
+    "title": "Local-first software (2019)",
+    "url": "https://www.inkandswitch.com/essay/local-first/",
+    "points": 597,
+    "num_comments": 190,
     "tags": [
       "story",
-      "author_sohzm",
-      "story_44460552"
-    ],
-    "author": "sohzm",
-    "created_at": "2025-07-04T02:04:55Z",
-    "aiHeadline": "Open Source Developer Finds Their Project Relicensed by a YC Startup, Because Nothing Says 'Respect' Like Ignoring the Original Contributor."
-  },
-  {
-    "title": "The Rise of Whatever",
-    "url": "https://eev.ee/blog/2025/07/03/the-rise-of-whatever/",
-    "points": 548,
-    "num_comments": 441,
-    "tags": [
-      "story",
-      "author_cratermoon",
-      "story_44461208"
-    ],
-    "author": "cratermoon",
-    "created_at": "2025-07-04T04:48:32Z",
-    "aiHeadline": "The Rise of 'Whatever' as the New Buzzword, Because Apparently, Ambiguity is the Future of Innovation."
-  },
-  {
-    "title": "Major reversal in ocean circulation detected in the Southern Ocean",
-    "url": "https://www.icm.csic.es/en/news/major-reversal-ocean-circulation-detected-southern-ocean-key-climate-implications",
-    "points": 445,
-    "num_comments": 297,
-    "tags": [
-      "story",
-      "author_riffraff",
-      "story_44461222"
-    ],
-    "author": "riffraff",
-    "created_at": "2025-07-04T04:52:03Z",
-    "aiHeadline": "Scientists Discover Major Ocean Circulation Reversal, Probably Because We've Been Dumping Plastic in the Ocean for Decades."
-  },
-  {
-    "title": "Nvidia Is Full of Shit",
-    "url": "https://blog.sebin-nyshkim.net/posts/nvidia-is-full-of-shit/",
-    "points": 332,
-    "num_comments": 172,
-    "tags": [
-      "story",
-      "author_todsacerdoti",
-      "story_44468175",
+      "author_gasull",
+      "story_44473135",
       "front_page"
     ],
-    "author": "todsacerdoti",
-    "created_at": "2025-07-04T21:58:25Z",
-    "aiHeadline": "Nvidia's Latest Product Release Proves Once Again That They're Full of Shit, But We'll Still Buy It Because It's the Best Option."
+    "author": "gasull",
+    "created_at": "2025-07-05T14:45:39Z",
+    "aiHeadline": "Local-first software is back in vogue, proving that sometimes, less is more—or at least, less data collection."
   },
   {
-    "title": "Mini NASes marry NVMe to Intel's efficient chip",
-    "url": "https://www.jeffgeerling.com/blog/2025/mini-nases-marry-nvme-intels-efficient-chip",
-    "points": 291,
-    "num_comments": 142,
+    "title": "Problems the AI industry is not addressing adequately",
+    "url": "https://www.thealgorithmicbridge.com/p/im-losing-all-trust-in-the-ai-industry",
+    "points": 177,
+    "num_comments": 192,
     "tags": [
       "story",
-      "author_ingve",
-      "story_44465319",
-      "front_page"
+      "author_baylearn",
+      "story_44471695"
     ],
-    "author": "ingve",
-    "created_at": "2025-07-04T15:21:51Z",
-    "aiHeadline": "Mini NASes Get a Makeover with NVMe and Intel's Efficient Chip, Because Who Doesn't Want Their Storage to Be as Efficient as a Marriage?"
+    "author": "baylearn",
+    "created_at": "2025-07-05T10:33:18Z",
+    "aiHeadline": "AI industry: Still not solving the problems it's supposed to solve, because why fix what isn't broken?"
+  },
+  {
+    "title": "Stop Killing Games",
+    "url": "https://www.jeffgeerling.com/blog/2025/you-will-own-nothing-and-be-happy-stop-killing-games-0",
+    "points": 174,
+    "num_comments": 132,
+    "tags": [
+      "story",
+      "author_gond",
+      "story_44470632"
+    ],
+    "author": "gond",
+    "created_at": "2025-07-05T06:54:42Z",
+    "aiHeadline": "The gaming industry is killing itself, one DRM at a time, because nothing says 'we love you' like making you own nothing."
+  },
+  {
+    "title": "The Prime Reasons to Avoid Amazon",
+    "url": "https://blog.thenewoil.org/the-prime-reasons-to-avoid-amazon",
+    "points": 170,
+    "num_comments": 167,
+    "tags": [
+      "story",
+      "author_DanAtC",
+      "story_44475297"
+    ],
+    "author": "DanAtC",
+    "created_at": "2025-07-05T20:28:15Z",
+    "aiHeadline": "Amazon: Because who doesn't love monopolies, worker exploitation, and the occasional delivery guy getting lost in your driveway?"
+  },
+  {
+    "title": "'Positive review only': Researchers hide AI prompts in papers",
+    "url": "https://asia.nikkei.com/Business/Technology/Artificial-intelligence/Positive-review-only-Researchers-hide-AI-prompts-in-papers",
+    "points": 165,
+    "num_comments": 121,
+    "tags": [
+      "story",
+      "author_ohjeez",
+      "story_44473319"
+    ],
+    "author": "ohjeez",
+    "created_at": "2025-07-05T15:15:47Z",
+    "aiHeadline": "Researchers are hiding AI prompts in papers, because who needs transparency when you can have a good old-fashioned game of hide and seek?"
   }
 ]
