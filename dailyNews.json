@@ -1,73 +1,75 @@
 [
   {
-    "title": "Local-first software (2019)",
-    "url": "https://www.inkandswitch.com/essay/local-first/",
-    "points": 597,
-    "num_comments": 190,
+    "title": "Are we the baddies?",
+    "url": "https://geohot.github.io//blog/jekyll/update/2025/07/05/are-we-the-baddies.html",
+    "points": 604,
+    "num_comments": 455,
     "tags": [
       "story",
-      "author_gasull",
-      "story_44473135",
+      "author_AndrewSwift",
+      "story_44478115"
+    ],
+    "author": "AndrewSwift",
+    "created_at": "2025-07-06T05:36:32Z",
+    "aiHeadline": "Are we the baddies? Let's see... We invented the internet. Probably."
+  },
+  {
+    "title": "The force-feeding of AI features on an unwilling public",
+    "url": "https://www.honest-broker.com/p/the-force-feeding-of-ai-on-an-unwilling",
+    "points": 376,
+    "num_comments": 333,
+    "tags": [
+      "story",
+      "author_imartin2k",
+      "story_44478279"
+    ],
+    "author": "imartin2k",
+    "created_at": "2025-07-06T06:19:41Z",
+    "aiHeadline": "AI is now force-feeding you features like pop-up ads, but instead of 'click here,' it's 'click your brain.'"
+  },
+  {
+    "title": "Hannah Cairo: 17-year-old teen refutes a math conjecture proposed 40 years ago",
+    "url": "https://english.elpais.com/science-tech/2025-07-01/a-17-year-old-teen-refutes-a-mathematical-conjecture-proposed-40-years-ago.html",
+    "points": 350,
+    "num_comments": 76,
+    "tags": [
+      "story",
+      "author_leephillips",
+      "story_44481441",
       "front_page"
     ],
-    "author": "gasull",
-    "created_at": "2025-07-05T14:45:39Z",
-    "aiHeadline": "Local-first software is back in vogue, proving that sometimes, less is more—or at least, less data collection."
+    "author": "leephillips",
+    "created_at": "2025-07-06T15:15:51Z",
+    "aiHeadline": "17-year-old math prodigy proves that 40-year-old conjectures are just conjectures, and she's the real deal."
   },
   {
-    "title": "Problems the AI industry is not addressing adequately",
-    "url": "https://www.thealgorithmicbridge.com/p/im-losing-all-trust-in-the-ai-industry",
-    "points": 177,
-    "num_comments": 192,
+    "title": "Jane Street barred from Indian markets as regulator freezes $566 million",
+    "url": "https://www.cnbc.com/2025/07/04/indian-regulator-bars-us-trading-firm-jane-street-from-accessing-securities-market.html",
+    "points": 261,
+    "num_comments": 149,
     "tags": [
       "story",
-      "author_baylearn",
-      "story_44471695"
+      "author_bwfan123",
+      "story_44480916",
+      "front_page"
     ],
-    "author": "baylearn",
-    "created_at": "2025-07-05T10:33:18Z",
-    "aiHeadline": "AI industry: Still not solving the problems it's supposed to solve, because why fix what isn't broken?"
+    "author": "bwfan123",
+    "created_at": "2025-07-06T14:03:51Z",
+    "aiHeadline": "Jane Street gets banned from Indian markets, proving that even the best traders can't always outsmart regulators."
   },
   {
-    "title": "Stop Killing Games",
-    "url": "https://www.jeffgeerling.com/blog/2025/you-will-own-nothing-and-be-happy-stop-killing-games-0",
-    "points": 174,
-    "num_comments": 132,
+    "title": "I extracted the safety filters from Apple Intelligence models",
+    "url": "https://github.com/BlueFalconHD/apple_generative_model_safety_decrypted",
+    "points": 260,
+    "num_comments": 160,
     "tags": [
       "story",
-      "author_gond",
-      "story_44470632"
+      "author_BlueFalconHD",
+      "story_44483485",
+      "front_page"
     ],
-    "author": "gond",
-    "created_at": "2025-07-05T06:54:42Z",
-    "aiHeadline": "The gaming industry is killing itself, one DRM at a time, because nothing says 'we love you' like making you own nothing."
-  },
-  {
-    "title": "The Prime Reasons to Avoid Amazon",
-    "url": "https://blog.thenewoil.org/the-prime-reasons-to-avoid-amazon",
-    "points": 170,
-    "num_comments": 167,
-    "tags": [
-      "story",
-      "author_DanAtC",
-      "story_44475297"
-    ],
-    "author": "DanAtC",
-    "created_at": "2025-07-05T20:28:15Z",
-    "aiHeadline": "Amazon: Because who doesn't love monopolies, worker exploitation, and the occasional delivery guy getting lost in your driveway?"
-  },
-  {
-    "title": "'Positive review only': Researchers hide AI prompts in papers",
-    "url": "https://asia.nikkei.com/Business/Technology/Artificial-intelligence/Positive-review-only-Researchers-hide-AI-prompts-in-papers",
-    "points": 165,
-    "num_comments": 121,
-    "tags": [
-      "story",
-      "author_ohjeez",
-      "story_44473319"
-    ],
-    "author": "ohjeez",
-    "created_at": "2025-07-05T15:15:47Z",
-    "aiHeadline": "Researchers are hiding AI prompts in papers, because who needs transparency when you can have a good old-fashioned game of hide and seek?"
+    "author": "BlueFalconHD",
+    "created_at": "2025-07-06T19:50:02Z",
+    "aiHeadline": "Someone removes Apple's safety filters, and now the AI is probably saying things it shouldn't—like the truth."
   }
 ]
