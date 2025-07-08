@@ -1,75 +1,76 @@
 [
   {
-    "title": "Are we the baddies?",
-    "url": "https://geohot.github.io//blog/jekyll/update/2025/07/05/are-we-the-baddies.html",
-    "points": 604,
-    "num_comments": 455,
+    "title": "Adding a feature because ChatGPT incorrectly thinks it exists",
+    "url": "https://www.holovaty.com/writing/chatgpt-fake-feature/",
+    "points": 684,
+    "num_comments": 260,
     "tags": [
       "story",
-      "author_AndrewSwift",
-      "story_44478115"
-    ],
-    "author": "AndrewSwift",
-    "created_at": "2025-07-06T05:36:32Z",
-    "aiHeadline": "Are we the baddies? Let's see... We invented the internet. Probably."
-  },
-  {
-    "title": "The force-feeding of AI features on an unwilling public",
-    "url": "https://www.honest-broker.com/p/the-force-feeding-of-ai-on-an-unwilling",
-    "points": 376,
-    "num_comments": 333,
-    "tags": [
-      "story",
-      "author_imartin2k",
-      "story_44478279"
-    ],
-    "author": "imartin2k",
-    "created_at": "2025-07-06T06:19:41Z",
-    "aiHeadline": "AI is now force-feeding you features like pop-up ads, but instead of 'click here,' it's 'click your brain.'"
-  },
-  {
-    "title": "Hannah Cairo: 17-year-old teen refutes a math conjecture proposed 40 years ago",
-    "url": "https://english.elpais.com/science-tech/2025-07-01/a-17-year-old-teen-refutes-a-mathematical-conjecture-proposed-40-years-ago.html",
-    "points": 350,
-    "num_comments": 76,
-    "tags": [
-      "story",
-      "author_leephillips",
-      "story_44481441",
+      "author_adrianh",
+      "story_44491071",
       "front_page"
     ],
-    "author": "leephillips",
-    "created_at": "2025-07-06T15:15:51Z",
-    "aiHeadline": "17-year-old math prodigy proves that 40-year-old conjectures are just conjectures, and she's the real deal."
+    "author": "adrianh",
+    "created_at": "2025-07-07T14:58:09Z",
+    "aiHeadline": "Adding a feature because ChatGPT insisted it was already there, proving that AI can be as delusional as humans."
   },
   {
-    "title": "Jane Street barred from Indian markets as regulator freezes $566 million",
-    "url": "https://www.cnbc.com/2025/07/04/indian-regulator-bars-us-trading-firm-jane-street-from-accessing-securities-market.html",
-    "points": 261,
-    "num_comments": 149,
+    "title": "Anthropic cut up millions of used books, and downloaded 7M pirated ones – judge",
+    "url": "https://www.businessinsider.com/anthropic-cut-pirated-millions-used-books-train-claude-copyright-2025-6",
+    "points": 393,
+    "num_comments": 534,
     "tags": [
       "story",
-      "author_bwfan123",
-      "story_44480916",
-      "front_page"
+      "author_pyman",
+      "story_44488331"
     ],
-    "author": "bwfan123",
-    "created_at": "2025-07-06T14:03:51Z",
-    "aiHeadline": "Jane Street gets banned from Indian markets, proving that even the best traders can't always outsmart regulators."
+    "author": "pyman",
+    "created_at": "2025-07-07T09:20:38Z",
+    "aiHeadline": "Anthropic's 'innovative' approach to AI training: cutting up millions of books and pirating 7 million more, because why buy when you can just steal?"
   },
   {
-    "title": "I extracted the safety filters from Apple Intelligence models",
-    "url": "https://github.com/BlueFalconHD/apple_generative_model_safety_decrypted",
-    "points": 260,
-    "num_comments": 160,
+    "title": "Mercury: Ultra-fast language models based on diffusion",
+    "url": "https://arxiv.org/abs/2506.17298",
+    "points": 379,
+    "num_comments": 154,
     "tags": [
       "story",
-      "author_BlueFalconHD",
-      "story_44483485",
+      "author_PaulHoule",
+      "story_44489690",
       "front_page"
     ],
-    "author": "BlueFalconHD",
-    "created_at": "2025-07-06T19:50:02Z",
-    "aiHeadline": "Someone removes Apple's safety filters, and now the AI is probably saying things it shouldn't—like the truth."
+    "author": "PaulHoule",
+    "created_at": "2025-07-07T12:31:08Z",
+    "aiHeadline": "Mercury: The new language model that's so fast, it'll make your brain feel like molasses, because who needs accuracy when you can have speed?"
+  },
+  {
+    "title": "I used o3 to profile myself from my saved Pocket links",
+    "url": "https://noperator.dev/posts/o3-pocket-profile/",
+    "points": 307,
+    "num_comments": 127,
+    "tags": [
+      "story",
+      "author_noperator",
+      "story_44489803",
+      "front_page"
+    ],
+    "author": "noperator",
+    "created_at": "2025-07-07T12:44:19Z",
+    "aiHeadline": "I used o3 to profile myself from my Pocket links, proving that even our saved articles are judging us, one click at a time."
+  },
+  {
+    "title": "New sphere-packing record stems from an unexpected source",
+    "url": "https://www.quantamagazine.org/new-sphere-packing-record-stems-from-an-unexpected-source-20250707/",
+    "points": 225,
+    "num_comments": 98,
+    "tags": [
+      "story",
+      "author_pseudolus",
+      "story_44493196",
+      "front_page"
+    ],
+    "author": "pseudolus",
+    "created_at": "2025-07-07T18:19:13Z",
+    "aiHeadline": "New sphere-packing record achieved by an unexpected source: someone who probably just really likes oranges, proving that sometimes the solution is simpler than we think."
   }
 ]
