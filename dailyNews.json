@@ -1,76 +1,75 @@
 [
   {
-    "title": "Supabase MCP can leak your entire SQL database",
-    "url": "https://www.generalanalysis.com/blog/supabase-mcp-blog",
-    "points": 522,
-    "num_comments": 274,
+    "title": "Tree Borrows",
+    "url": "https://plf.inf.ethz.ch/research/pldi25-tree-borrows.html",
+    "points": 406,
+    "num_comments": 61,
     "tags": [
       "story",
-      "author_rexpository",
-      "story_44502318",
+      "author_zdw",
+      "story_44510600",
       "front_page"
     ],
-    "author": "rexpository",
-    "created_at": "2025-07-08T17:46:55Z",
-    "aiHeadline": "Supabase MCP: Because what you thought was a secure database is now completely exposed to the world, thanks to this little feature that leaks everything. Yay for transparency!"
+    "author": "zdw",
+    "created_at": "2025-07-09T14:40:24Z",
+    "aiHeadline": "Trees are now borrowing your code, and you're paying the interest in bugs."
   },
   {
-    "title": "Open letter accuses BBC board member of having a conflict of interest on Gaza",
-    "url": "https://www.theguardian.com/media/2025/jul/02/more-than-400-media-figures-urge-bbc-board-to-remove-robbie-gibb-over-gaza",
-    "points": 507,
-    "num_comments": 321,
+    "title": "IKEA ditches Zigbee for Thread going all in on Matter smart homes",
+    "url": "https://www.theverge.com/smart-home/701697/ikea-matter-thread-new-products-new-smart-home-strategy",
+    "points": 366,
+    "num_comments": 224,
     "tags": [
       "story",
-      "author_mhga",
-      "story_44496391"
+      "author_thunderbong",
+      "story_44507971"
     ],
-    "author": "mhga",
-    "created_at": "2025-07-08T02:18:01Z",
-    "aiHeadline": "BBC Board Member Accused of Conflict of Interest: Over 400 people are now urging the BBC to remove a board member, because apparently having opinions is a conflict of interest. Meanwhile, objectivity and fairness are still up for debate."
+    "author": "thunderbong",
+    "created_at": "2025-07-09T09:42:17Z",
+    "aiHeadline": "IKEA finally realizes Zigbee was a dead end, so they're switching to Thread, because who doesn't love a good threadbare smart home?"
   },
   {
-    "title": "Google can now read your WhatsApp messages",
-    "url": "https://www.neowin.net/guides/google-can-now-read-your-whatsapp-messages-heres-how-to-stop-it/",
-    "points": 422,
-    "num_comments": 276,
+    "title": "Linda Yaccarino is leaving X",
+    "url": "https://www.nytimes.com/2025/07/09/technology/linda-yaccarino-x-steps-down.html",
+    "points": 365,
+    "num_comments": 561,
     "tags": [
       "story",
-      "author_bundie",
-      "story_44501379"
-    ],
-    "author": "bundie",
-    "created_at": "2025-07-08T16:11:20Z",
-    "aiHeadline": "Google Reads Your WhatsApp Messages: Because who needs privacy when you can have Google know every last detail of your conversations? Opting out of being monitored? That's just old-fashioned."
-  },
-  {
-    "title": "SVGs that feel like GIFs",
-    "url": "https://koaning.io/posts/svg-gifs/",
-    "points": 397,
-    "num_comments": 103,
-    "tags": [
-      "story",
-      "author_cantdutchthis",
-      "story_44498133",
+      "author_donohoe",
+      "story_44510731",
       "front_page"
     ],
-    "author": "cantdutchthis",
-    "created_at": "2025-07-08T08:23:05Z",
-    "aiHeadline": "SVGs That Feel Like GIFs: Because static images are so 2010, right? Now you can have all the eye candy of GIFs without the file bloat. Animation revolution, here we come!"
+    "author": "donohoe",
+    "created_at": "2025-07-09T14:52:04Z",
+    "aiHeadline": "Linda Yaccarino is leaving X, because even she can't handle the chaos anymore."
   },
   {
-    "title": "Show HN: OffChess – Offline chess puzzles app",
-    "url": "https://offchess.com",
-    "points": 298,
-    "num_comments": 121,
+    "title": "Most RESTful APIs aren't really RESTful",
+    "url": "https://florian-kraemer.net//software-architecture/2025/07/07/Most-RESTful-APIs-are-not-really-RESTful.html",
+    "points": 290,
+    "num_comments": 454,
     "tags": [
       "story",
-      "author_avadhesh18",
-      "story_44498296",
-      "show_hn",
+      "author_BerislavLopac",
+      "story_44507076",
       "front_page"
     ],
-    "author": "avadhesh18",
-    "created_at": "2025-07-08T08:57:01Z",
-    "aiHeadline": "OffChess: The Offline Chess Puzzle App That Will Turn You Into a Chess Genius: Because who needs the internet when you can sharpen your skills offline? Perfect for when you want to feel smart without Wi-Fi."
+    "author": "BerislavLopac",
+    "created_at": "2025-07-09T07:04:36Z",
+    "aiHeadline": "Most RESTful APIs are about as RESTful as a cat in a room full of lasers."
+  },
+  {
+    "title": "Astro is a return to the fundamentals of the web",
+    "url": "https://websmith.studio/blog/astro-is-a-developers-dream/",
+    "points": 266,
+    "num_comments": 222,
+    "tags": [
+      "story",
+      "author_pumbaa",
+      "story_44507854"
+    ],
+    "author": "pumbaa",
+    "created_at": "2025-07-09T09:18:06Z",
+    "aiHeadline": "Astro takes us back to the web's roots, where the only thing faster than your code was the dial-up modem."
   }
 ]
