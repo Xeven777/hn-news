@@ -1,75 +1,74 @@
 [
   {
-    "title": "Tree Borrows",
-    "url": "https://plf.inf.ethz.ch/research/pldi25-tree-borrows.html",
-    "points": 406,
-    "num_comments": 61,
+    "title": "Measuring the impact of AI on experienced open-source developer productivity",
+    "url": "https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/",
+    "points": 507,
+    "num_comments": 322,
     "tags": [
       "story",
-      "author_zdw",
-      "story_44510600",
+      "author_dheerajvs",
+      "story_44522772",
       "front_page"
     ],
-    "author": "zdw",
-    "created_at": "2025-07-09T14:40:24Z",
-    "aiHeadline": "Trees are now borrowing your code, and you're paying the interest in bugs."
+    "author": "dheerajvs",
+    "created_at": "2025-07-10T16:29:18Z",
+    "aiHeadline": "AI finally proves it can make developers slightly more productive, but only if they don't get distracted by cat videos."
   },
   {
-    "title": "IKEA ditches Zigbee for Thread going all in on Matter smart homes",
-    "url": "https://www.theverge.com/smart-home/701697/ikea-matter-thread-new-products-new-smart-home-strategy",
-    "points": 366,
-    "num_comments": 224,
+    "title": "Grok 4 Launch [video]",
+    "url": "https://twitter.com/xai/status/1943158495588815072",
+    "points": 419,
+    "num_comments": 549,
     "tags": [
       "story",
-      "author_thunderbong",
-      "story_44507971"
+      "author_meetpateltech",
+      "story_44517055"
     ],
-    "author": "thunderbong",
-    "created_at": "2025-07-09T09:42:17Z",
-    "aiHeadline": "IKEA finally realizes Zigbee was a dead end, so they're switching to Thread, because who doesn't love a good threadbare smart home?"
+    "author": "meetpateltech",
+    "created_at": "2025-07-10T04:02:01Z",
+    "aiHeadline": "Grok 4 launches, and just like all the previous versions, it's going to revolutionize your life until you forget about it in a week."
   },
   {
-    "title": "Linda Yaccarino is leaving X",
-    "url": "https://www.nytimes.com/2025/07/09/technology/linda-yaccarino-x-steps-down.html",
-    "points": 365,
-    "num_comments": 561,
+    "title": "German court rules Meta tracking technology violates European privacy laws",
+    "url": "https://therecord.media/german-court-meta-tracking-tech",
+    "points": 349,
+    "num_comments": 161,
     "tags": [
       "story",
-      "author_donohoe",
-      "story_44510731",
+      "author_bundie",
+      "story_44517424"
+    ],
+    "author": "bundie",
+    "created_at": "2025-07-10T05:06:05Z",
+    "aiHeadline": "German court says Meta's tracking is illegal, because apparently, even tech giants can't spy on people without consequences. Shocking!"
+  },
+  {
+    "title": "Is Gemini 2.5 good at bounding boxes?",
+    "url": "https://simedw.com/2025/07/10/gemini-bounding-boxes/",
+    "points": 256,
+    "num_comments": 57,
+    "tags": [
+      "story",
+      "author_simedw",
+      "story_44520292",
       "front_page"
     ],
-    "author": "donohoe",
-    "created_at": "2025-07-09T14:52:04Z",
-    "aiHeadline": "Linda Yaccarino is leaving X, because even she can't handle the chaos anymore."
+    "author": "simedw",
+    "created_at": "2025-07-10T12:35:21Z",
+    "aiHeadline": "Gemini 2.5 shows it's still trying to figure out where things are, because apparently, even AI can't tell a cat from a dog sometimes."
   },
   {
-    "title": "Most RESTful APIs aren't really RESTful",
-    "url": "https://florian-kraemer.net//software-architecture/2025/07/07/Most-RESTful-APIs-are-not-really-RESTful.html",
-    "points": 290,
-    "num_comments": 454,
+    "title": "A Virginia public library is fighting off a takeover by private equity",
+    "url": "https://lithub.com/a-virginia-public-library-is-fighting-off-a-threatened-takeover-by-private-equity/",
+    "points": 244,
+    "num_comments": 209,
     "tags": [
       "story",
-      "author_BerislavLopac",
-      "story_44507076",
-      "front_page"
+      "author_sharkweek",
+      "story_44516793"
     ],
-    "author": "BerislavLopac",
-    "created_at": "2025-07-09T07:04:36Z",
-    "aiHeadline": "Most RESTful APIs are about as RESTful as a cat in a room full of lasers."
-  },
-  {
-    "title": "Astro is a return to the fundamentals of the web",
-    "url": "https://websmith.studio/blog/astro-is-a-developers-dream/",
-    "points": 266,
-    "num_comments": 222,
-    "tags": [
-      "story",
-      "author_pumbaa",
-      "story_44507854"
-    ],
-    "author": "pumbaa",
-    "created_at": "2025-07-09T09:18:06Z",
-    "aiHeadline": "Astro takes us back to the web's roots, where the only thing faster than your code was the dial-up modem."
+    "author": "sharkweek",
+    "created_at": "2025-07-10T03:05:46Z",
+    "aiHeadline": "A Virginia library is resisting being taken over by private equity, proving that sometimes, the only thing worse than a for-profit institution is a non-profit one."
   }
 ]
