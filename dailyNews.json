@@ -1,74 +1,77 @@
 [
   {
-    "title": "Measuring the impact of AI on experienced open-source developer productivity",
-    "url": "https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/",
-    "points": 507,
-    "num_comments": 322,
+    "title": "At Least 13 People Died by Suicide Amid U.K. Post Office Scandal, Report Says",
+    "url": "https://www.nytimes.com/2025/07/10/world/europe/uk-post-office-scandal-report.html",
+    "points": 556,
+    "num_comments": 475,
     "tags": [
       "story",
-      "author_dheerajvs",
-      "story_44522772",
+      "author_xbryanx",
+      "story_44531120",
       "front_page"
     ],
-    "author": "dheerajvs",
-    "created_at": "2025-07-10T16:29:18Z",
-    "aiHeadline": "AI finally proves it can make developers slightly more productive, but only if they don't get distracted by cat videos."
+    "author": "xbryanx",
+    "created_at": "2025-07-11T11:56:19Z",
+    "aiHeadline": "U.K. Post Office Scandal So Bad, It's Literally Killing People—13 Dead by Suicide, Report Says"
   },
   {
-    "title": "Grok 4 Launch [video]",
-    "url": "https://twitter.com/xai/status/1943158495588815072",
-    "points": 419,
-    "num_comments": 549,
+    "title": "OpenAI’s Windsurf deal is off, and Windsurf’s CEO is going to Google",
+    "url": "https://www.theverge.com/openai/705999/google-windsurf-ceo-openai",
+    "points": 368,
+    "num_comments": 247,
     "tags": [
       "story",
-      "author_meetpateltech",
-      "story_44517055"
-    ],
-    "author": "meetpateltech",
-    "created_at": "2025-07-10T04:02:01Z",
-    "aiHeadline": "Grok 4 launches, and just like all the previous versions, it's going to revolutionize your life until you forget about it in a week."
-  },
-  {
-    "title": "German court rules Meta tracking technology violates European privacy laws",
-    "url": "https://therecord.media/german-court-meta-tracking-tech",
-    "points": 349,
-    "num_comments": 161,
-    "tags": [
-      "story",
-      "author_bundie",
-      "story_44517424"
-    ],
-    "author": "bundie",
-    "created_at": "2025-07-10T05:06:05Z",
-    "aiHeadline": "German court says Meta's tracking is illegal, because apparently, even tech giants can't spy on people without consequences. Shocking!"
-  },
-  {
-    "title": "Is Gemini 2.5 good at bounding boxes?",
-    "url": "https://simedw.com/2025/07/10/gemini-bounding-boxes/",
-    "points": 256,
-    "num_comments": 57,
-    "tags": [
-      "story",
-      "author_simedw",
-      "story_44520292",
+      "author_rcchen",
+      "story_44536988",
       "front_page"
     ],
-    "author": "simedw",
-    "created_at": "2025-07-10T12:35:21Z",
-    "aiHeadline": "Gemini 2.5 shows it's still trying to figure out where things are, because apparently, even AI can't tell a cat from a dog sometimes."
+    "author": "rcchen",
+    "created_at": "2025-07-11T21:35:31Z",
+    "aiHeadline": "OpenAI’s Windsurf Deal Collapses, CEO Hitches Ride to Google—Guess They Don’t Care About AI Anymore"
   },
   {
-    "title": "A Virginia public library is fighting off a takeover by private equity",
-    "url": "https://lithub.com/a-virginia-public-library-is-fighting-off-a-threatened-takeover-by-private-equity/",
-    "points": 244,
-    "num_comments": 209,
+    "title": "Bill Atkinson's psychedelic user interface",
+    "url": "https://patternproject.substack.com/p/from-the-mac-to-the-mystical-bill",
+    "points": 368,
+    "num_comments": 196,
     "tags": [
       "story",
-      "author_sharkweek",
-      "story_44516793"
+      "author_cainxinth",
+      "story_44530767",
+      "front_page"
     ],
-    "author": "sharkweek",
-    "created_at": "2025-07-10T03:05:46Z",
-    "aiHeadline": "A Virginia library is resisting being taken over by private equity, proving that sometimes, the only thing worse than a for-profit institution is a non-profit one."
+    "author": "cainxinth",
+    "created_at": "2025-07-11T11:03:59Z",
+    "aiHeadline": "Bill Atkinson’s Psychedelic UI: Because Who Needs Productivity When You Can Trip Out on Rainbows and Unicorns?"
+  },
+  {
+    "title": "Apple vs the Law",
+    "url": "https://formularsumo.co.uk/blog/2025/apple-vs-the-law/",
+    "points": 340,
+    "num_comments": 341,
+    "tags": [
+      "story",
+      "author_tempodox",
+      "story_44529061",
+      "front_page"
+    ],
+    "author": "tempodox",
+    "created_at": "2025-07-11T06:49:12Z",
+    "aiHeadline": "Apple vs. the Law: Because Evasive Answers and Dodging Questions Are Just Good Business Practices, Right?"
+  },
+  {
+    "title": "ETH Zurich and EPFL to release a LLM developed on public infrastructure",
+    "url": "https://ethz.ch/en/news-and-events/eth-news/news/2025/07/a-language-model-built-for-the-public-good.html",
+    "points": 316,
+    "num_comments": 39,
+    "tags": [
+      "story",
+      "author_andy99",
+      "story_44535637",
+      "front_page"
+    ],
+    "author": "andy99",
+    "created_at": "2025-07-11T18:45:10Z",
+    "aiHeadline": "ETH Zurich and EPFL Unveil Public-Infrastructure LLM: Now You Can Get Your AI Fix for Free—No Credit Card Required!"
   }
 ]
