@@ -1,77 +1,77 @@
 [
   {
-    "title": "At Least 13 People Died by Suicide Amid U.K. Post Office Scandal, Report Says",
-    "url": "https://www.nytimes.com/2025/07/10/world/europe/uk-post-office-scandal-report.html",
-    "points": 556,
-    "num_comments": 475,
+    "title": "MacPaint Art from the Mid-80s Still Looks Great Today",
+    "url": "https://blog.decryption.net.au/posts/macpaint.html",
+    "points": 766,
+    "num_comments": 171,
     "tags": [
       "story",
-      "author_xbryanx",
-      "story_44531120",
+      "author_decryption",
+      "story_44540402",
       "front_page"
     ],
-    "author": "xbryanx",
-    "created_at": "2025-07-11T11:56:19Z",
-    "aiHeadline": "U.K. Post Office Scandal So Bad, It's Literally Killing People—13 Dead by Suicide, Report Says"
+    "author": "decryption",
+    "created_at": "2025-07-12T08:45:15Z",
+    "aiHeadline": "MacPaint Art from the Mid-80s Still Looks Great Today, Proving That Even 80s Pixels Have Some Class"
   },
   {
-    "title": "OpenAI’s Windsurf deal is off, and Windsurf’s CEO is going to Google",
-    "url": "https://www.theverge.com/openai/705999/google-windsurf-ceo-openai",
-    "points": 368,
-    "num_comments": 247,
+    "title": "Supreme Court's ruling practically wipes out free speech for sex writing online",
+    "url": "https://ellsberg.substack.com/p/free-speech",
+    "points": 425,
+    "num_comments": 549,
     "tags": [
       "story",
-      "author_rcchen",
-      "story_44536988",
+      "author_macawfish",
+      "story_44543865",
       "front_page"
     ],
-    "author": "rcchen",
-    "created_at": "2025-07-11T21:35:31Z",
-    "aiHeadline": "OpenAI’s Windsurf Deal Collapses, CEO Hitches Ride to Google—Guess They Don’t Care About AI Anymore"
+    "author": "macawfish",
+    "created_at": "2025-07-12T18:14:37Z",
+    "aiHeadline": "Supreme Court Rules That Free Speech Is Great, Except When It Comes to Sex Writing Online—Because Apparently, the Internet Needs More Boring Topics"
   },
   {
-    "title": "Bill Atkinson's psychedelic user interface",
-    "url": "https://patternproject.substack.com/p/from-the-mac-to-the-mystical-bill",
-    "points": 368,
-    "num_comments": 196,
+    "title": "Bypassing Google's big anti-adblock update",
+    "url": "https://0x44.xyz/blog/web-request-blocking/",
+    "points": 411,
+    "num_comments": 349,
     "tags": [
       "story",
-      "author_cainxinth",
-      "story_44530767",
+      "author_deryilz",
+      "story_44544266",
       "front_page"
     ],
-    "author": "cainxinth",
-    "created_at": "2025-07-11T11:03:59Z",
-    "aiHeadline": "Bill Atkinson’s Psychedelic UI: Because Who Needs Productivity When You Can Trip Out on Rainbows and Unicorns?"
+    "author": "deryilz",
+    "created_at": "2025-07-12T19:06:09Z",
+    "aiHeadline": "How to Bypass Google's Latest Anti-Adblock Update: Because Apparently, Google's 'Big Update' Isn't Big Enough to Stop Us"
   },
   {
-    "title": "Apple vs the Law",
-    "url": "https://formularsumo.co.uk/blog/2025/apple-vs-the-law/",
-    "points": 340,
-    "num_comments": 341,
+    "title": "Proposed NOAA Budget Kills Program Designed to Prevent Satellite Collisions",
+    "url": "https://skyandtelescope.org/astronomy-news/proposed-noaa-budget-kills-program-to-prevent-satellite-collisions/",
+    "points": 303,
+    "num_comments": 178,
     "tags": [
       "story",
-      "author_tempodox",
-      "story_44529061",
+      "author_bikenaga",
+      "story_44543150",
       "front_page"
     ],
-    "author": "tempodox",
-    "created_at": "2025-07-11T06:49:12Z",
-    "aiHeadline": "Apple vs. the Law: Because Evasive Answers and Dodging Questions Are Just Good Business Practices, Right?"
+    "author": "bikenaga",
+    "created_at": "2025-07-12T16:31:03Z",
+    "aiHeadline": "Government Decides It's More Important to Worry About Satellite Collisions Than, I Don't Know, Actually Preventing Them"
   },
   {
-    "title": "ETH Zurich and EPFL to release a LLM developed on public infrastructure",
-    "url": "https://ethz.ch/en/news-and-events/eth-news/news/2025/07/a-language-model-built-for-the-public-good.html",
-    "points": 316,
-    "num_comments": 39,
+    "title": "New Date(\"wtf\") – How well do you know JavaScript's Date class?",
+    "url": "https://jsdate.wtf",
+    "points": 282,
+    "num_comments": 160,
     "tags": [
       "story",
-      "author_andy99",
-      "story_44535637",
+      "author_OuterVale",
+      "story_44540241",
       "front_page"
     ],
-    "author": "andy99",
-    "created_at": "2025-07-11T18:45:10Z",
-    "aiHeadline": "ETH Zurich and EPFL Unveil Public-Infrastructure LLM: Now You Can Get Your AI Fix for Free—No Credit Card Required!"
+    "author": "OuterVale",
+    "created_at": "2025-07-12T08:14:02Z",
+    "aiHeadline": "JavaScript's Date Class: Because Who Doesn't Love a Good Time Zone Mystery and a Dash of Confusion?"
   }
 ]
