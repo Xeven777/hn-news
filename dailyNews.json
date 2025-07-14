@@ -1,77 +1,75 @@
 [
   {
-    "title": "MacPaint Art from the Mid-80s Still Looks Great Today",
-    "url": "https://blog.decryption.net.au/posts/macpaint.html",
-    "points": 766,
-    "num_comments": 171,
+    "title": "Let me pay for Firefox",
+    "url": "https://discourse.mozilla.org/t/let-me-pay-for-firefox/141297",
+    "points": 714,
+    "num_comments": 562,
     "tags": [
       "story",
-      "author_decryption",
-      "story_44540402",
-      "front_page"
+      "author_csmantle",
+      "story_44548610"
     ],
-    "author": "decryption",
-    "created_at": "2025-07-12T08:45:15Z",
-    "aiHeadline": "MacPaint Art from the Mid-80s Still Looks Great Today, Proving That Even 80s Pixels Have Some Class"
+    "author": "csmantle",
+    "created_at": "2025-07-13T08:38:52Z",
+    "aiHeadline": "Firefox finally asks for donations, because apparently 'just using it' wasn't enough to save the internet."
   },
   {
-    "title": "Supreme Court's ruling practically wipes out free speech for sex writing online",
-    "url": "https://ellsberg.substack.com/p/free-speech",
-    "points": 425,
-    "num_comments": 549,
+    "title": "Reading Neuromancer for the first time in 2025",
+    "url": "https://mbh4h.substack.com/p/neuromancer-2025-review-william-gibson",
+    "points": 374,
+    "num_comments": 323,
     "tags": [
       "story",
-      "author_macawfish",
-      "story_44543865",
-      "front_page"
+      "author_keiferski",
+      "story_44548353"
     ],
-    "author": "macawfish",
-    "created_at": "2025-07-12T18:14:37Z",
-    "aiHeadline": "Supreme Court Rules That Free Speech Is Great, Except When It Comes to Sex Writing Online—Because Apparently, the Internet Needs More Boring Topics"
+    "author": "keiferski",
+    "created_at": "2025-07-13T07:48:44Z",
+    "aiHeadline": "In 2025, someone finally reads Neuromancer and realizes we're all just living in a giant Matrix... or maybe that's just the plot."
   },
   {
-    "title": "Bypassing Google's big anti-adblock update",
-    "url": "https://0x44.xyz/blog/web-request-blocking/",
-    "points": 411,
-    "num_comments": 349,
+    "title": "How does a screen work?",
+    "url": "https://www.makingsoftware.com/chapters/how-a-screen-works",
+    "points": 327,
+    "num_comments": 70,
     "tags": [
       "story",
-      "author_deryilz",
-      "story_44544266",
+      "author_chkhd",
+      "story_44550572",
       "front_page"
     ],
-    "author": "deryilz",
-    "created_at": "2025-07-12T19:06:09Z",
-    "aiHeadline": "How to Bypass Google's Latest Anti-Adblock Update: Because Apparently, Google's 'Big Update' Isn't Big Enough to Stop Us"
+    "author": "chkhd",
+    "created_at": "2025-07-13T14:09:06Z",
+    "aiHeadline": "In 2025, we're still trying to figure out how screens work, because apparently, staring at them all day doesn't count as learning."
   },
   {
-    "title": "Proposed NOAA Budget Kills Program Designed to Prevent Satellite Collisions",
-    "url": "https://skyandtelescope.org/astronomy-news/proposed-noaa-budget-kills-program-to-prevent-satellite-collisions/",
-    "points": 303,
-    "num_comments": 178,
+    "title": "GLP-1s Are Breaking Life Insurance",
+    "url": "https://www.glp1digest.com/p/how-glp-1s-are-breaking-life-insurance",
+    "points": 243,
+    "num_comments": 277,
     "tags": [
       "story",
-      "author_bikenaga",
-      "story_44543150",
+      "author_alexslobodnik",
+      "story_44552414",
       "front_page"
     ],
-    "author": "bikenaga",
-    "created_at": "2025-07-12T16:31:03Z",
-    "aiHeadline": "Government Decides It's More Important to Worry About Satellite Collisions Than, I Don't Know, Actually Preventing Them"
+    "author": "alexslobodnik",
+    "created_at": "2025-07-13T18:31:47Z",
+    "aiHeadline": "GLP-1s are breaking life insurance, proving that sometimes saving your life can be a death blow to your wallet."
   },
   {
-    "title": "New Date(\"wtf\") – How well do you know JavaScript's Date class?",
-    "url": "https://jsdate.wtf",
-    "points": 282,
-    "num_comments": 160,
+    "title": "The North Korean fake IT worker problem is ubiquitous",
+    "url": "https://www.theregister.com/2025/07/13/fake_it_worker_problem/",
+    "points": 195,
+    "num_comments": 200,
     "tags": [
       "story",
-      "author_OuterVale",
-      "story_44540241",
+      "author_rntn",
+      "story_44549762",
       "front_page"
     ],
-    "author": "OuterVale",
-    "created_at": "2025-07-12T08:14:02Z",
-    "aiHeadline": "JavaScript's Date Class: Because Who Doesn't Love a Good Time Zone Mystery and a Dash of Confusion?"
+    "author": "rntn",
+    "created_at": "2025-07-13T12:06:34Z",
+    "aiHeadline": "North Korea's fake IT workers are everywhere, proving that even in the digital age, you can't trust anyone... especially if they're from North Korea."
   }
 ]
