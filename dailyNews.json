@@ -1,75 +1,75 @@
 [
   {
-    "title": "Let me pay for Firefox",
-    "url": "https://discourse.mozilla.org/t/let-me-pay-for-firefox/141297",
-    "points": 714,
-    "num_comments": 562,
+    "title": "Kiro: A new agentic IDE",
+    "url": "https://kiro.dev/blog/introducing-kiro/",
+    "points": 689,
+    "num_comments": 311,
     "tags": [
       "story",
-      "author_csmantle",
-      "story_44548610"
-    ],
-    "author": "csmantle",
-    "created_at": "2025-07-13T08:38:52Z",
-    "aiHeadline": "Firefox finally asks for donations, because apparently 'just using it' wasn't enough to save the internet."
-  },
-  {
-    "title": "Reading Neuromancer for the first time in 2025",
-    "url": "https://mbh4h.substack.com/p/neuromancer-2025-review-william-gibson",
-    "points": 374,
-    "num_comments": 323,
-    "tags": [
-      "story",
-      "author_keiferski",
-      "story_44548353"
-    ],
-    "author": "keiferski",
-    "created_at": "2025-07-13T07:48:44Z",
-    "aiHeadline": "In 2025, someone finally reads Neuromancer and realizes we're all just living in a giant Matrix... or maybe that's just the plot."
-  },
-  {
-    "title": "How does a screen work?",
-    "url": "https://www.makingsoftware.com/chapters/how-a-screen-works",
-    "points": 327,
-    "num_comments": 70,
-    "tags": [
-      "story",
-      "author_chkhd",
-      "story_44550572",
+      "author_QuinnyPig",
+      "story_44560662",
       "front_page"
     ],
-    "author": "chkhd",
-    "created_at": "2025-07-13T14:09:06Z",
-    "aiHeadline": "In 2025, we're still trying to figure out how screens work, because apparently, staring at them all day doesn't count as learning."
+    "author": "QuinnyPig",
+    "created_at": "2025-07-14T14:24:40Z",
+    "aiHeadline": "Kiro: The New Agentic IDE That Promises to Make Coding Easier, Unless It Decides to Take Over the World"
   },
   {
-    "title": "GLP-1s Are Breaking Life Insurance",
-    "url": "https://www.glp1digest.com/p/how-glp-1s-are-breaking-life-insurance",
-    "points": 243,
-    "num_comments": 277,
+    "title": "Oakland cops gave ICE license plate data; SFPD also illegally shared with feds",
+    "url": "https://sfstandard.com/2025/07/14/oakland-san-francisco-ice-license-plate-readers/",
+    "points": 531,
+    "num_comments": 447,
     "tags": [
       "story",
-      "author_alexslobodnik",
-      "story_44552414",
-      "front_page"
+      "author_danso",
+      "story_44561716"
     ],
-    "author": "alexslobodnik",
-    "created_at": "2025-07-13T18:31:47Z",
-    "aiHeadline": "GLP-1s are breaking life insurance, proving that sometimes saving your life can be a death blow to your wallet."
+    "author": "danso",
+    "created_at": "2025-07-14T16:00:34Z",
+    "aiHeadline": "Oakland Cops: Masters of Data Sharing, Because Who Doesn't Want Their License Plate Info in the Hands of ICE?"
   },
   {
-    "title": "The North Korean fake IT worker problem is ubiquitous",
-    "url": "https://www.theregister.com/2025/07/13/fake_it_worker_problem/",
-    "points": 195,
-    "num_comments": 200,
+    "title": "Apple's Browser Engine Ban Persists, Even Under the DMA",
+    "url": "https://open-web-advocacy.org/blog/apples-browser-engine-ban-persists-even-under-the-dma/",
+    "points": 477,
+    "num_comments": 341,
     "tags": [
       "story",
-      "author_rntn",
-      "story_44549762",
+      "author_yashghelani",
+      "story_44557348"
+    ],
+    "author": "yashghelani",
+    "created_at": "2025-07-14T07:27:02Z",
+    "aiHeadline": "Apple: Still Being Stubborn About Browser Engines, Because Why Let Innovation Happen When You Can Just Say No?"
+  },
+  {
+    "title": "Data brokers are selling flight information to CBP and ICE",
+    "url": "https://www.eff.org/deeplinks/2025/07/data-brokers-are-selling-your-flight-information-cbp-and-ice",
+    "points": 436,
+    "num_comments": 227,
+    "tags": [
+      "story",
+      "author_exiguus",
+      "story_44561736",
       "front_page"
     ],
-    "author": "rntn",
-    "created_at": "2025-07-13T12:06:34Z",
-    "aiHeadline": "North Korea's fake IT workers are everywhere, proving that even in the digital age, you can't trust anyone... especially if they're from North Korea."
+    "author": "exiguus",
+    "created_at": "2025-07-14T16:02:36Z",
+    "aiHeadline": "Data Brokers: Selling Your Flight Info to the Feds, Because Privacy is Clearly Overrated"
+  },
+  {
+    "title": "Show HN: Refine – A Local Alternative to Grammarly",
+    "url": "https://refine.sh",
+    "points": 376,
+    "num_comments": 187,
+    "tags": [
+      "story",
+      "author_runjuu",
+      "story_44556684",
+      "show_hn"
+    ],
+    "author": "runjuu",
+    "created_at": "2025-07-14T05:12:18Z",
+    "aiHeadline": "Refine: The Grammar Tool That Thinks It's Smarter Than Grammarly, Because Local is Always Better, Right?"
   }
 ]
