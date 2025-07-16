@@ -1,75 +1,76 @@
 [
   {
-    "title": "Kiro: A new agentic IDE",
-    "url": "https://kiro.dev/blog/introducing-kiro/",
-    "points": 689,
-    "num_comments": 311,
+    "title": "LLM Inevitabilism",
+    "url": "https://tomrenner.com/posts/llm-inevitabilism/",
+    "points": 1502,
+    "num_comments": 1422,
     "tags": [
       "story",
-      "author_QuinnyPig",
-      "story_44560662",
+      "author_SwoopsFromAbove",
+      "story_44567857",
       "front_page"
     ],
-    "author": "QuinnyPig",
-    "created_at": "2025-07-14T14:24:40Z",
-    "aiHeadline": "Kiro: The New Agentic IDE That Promises to Make Coding Easier, Unless It Decides to Take Over the World"
+    "author": "SwoopsFromAbove",
+    "created_at": "2025-07-15T04:35:35Z",
+    "aiHeadline": "LLMs: Because why have humans when you can have algorithms that argue with themselves?"
   },
   {
-    "title": "Oakland cops gave ICE license plate data; SFPD also illegally shared with feds",
-    "url": "https://sfstandard.com/2025/07/14/oakland-san-francisco-ice-license-plate-readers/",
-    "points": 531,
-    "num_comments": 447,
+    "title": "Ask HN: Is it time to fork HN into AI/LLM and \"Everything else/other?\"",
+    "points": 411,
+    "num_comments": 325,
     "tags": [
       "story",
-      "author_danso",
-      "story_44561716"
+      "author_bookofjoe",
+      "story_44571740",
+      "ask_hn"
     ],
-    "author": "danso",
-    "created_at": "2025-07-14T16:00:34Z",
-    "aiHeadline": "Oakland Cops: Masters of Data Sharing, Because Who Doesn't Want Their License Plate Info in the Hands of ICE?"
+    "author": "bookofjoe",
+    "created_at": "2025-07-15T14:51:17Z",
+    "aiHeadline": "Hacker News is so focused on AI that they're considering splitting into AI and 'the rest of the internet.'"
   },
   {
-    "title": "Apple's Browser Engine Ban Persists, Even Under the DMA",
-    "url": "https://open-web-advocacy.org/blog/apples-browser-engine-ban-persists-even-under-the-dma/",
-    "points": 477,
-    "num_comments": 341,
+    "title": "Show HN: Shoggoth Mini – A soft tentacle robot powered by GPT-4o and RL",
+    "url": "https://www.matthieulc.com/posts/shoggoth-mini",
+    "points": 361,
+    "num_comments": 74,
     "tags": [
       "story",
-      "author_yashghelani",
-      "story_44557348"
-    ],
-    "author": "yashghelani",
-    "created_at": "2025-07-14T07:27:02Z",
-    "aiHeadline": "Apple: Still Being Stubborn About Browser Engines, Because Why Let Innovation Happen When You Can Just Say No?"
-  },
-  {
-    "title": "Data brokers are selling flight information to CBP and ICE",
-    "url": "https://www.eff.org/deeplinks/2025/07/data-brokers-are-selling-your-flight-information-cbp-and-ice",
-    "points": 436,
-    "num_comments": 227,
-    "tags": [
-      "story",
-      "author_exiguus",
-      "story_44561736",
+      "author_cataPhil",
+      "story_44572377",
+      "show_hn",
       "front_page"
     ],
-    "author": "exiguus",
-    "created_at": "2025-07-14T16:02:36Z",
-    "aiHeadline": "Data Brokers: Selling Your Flight Info to the Feds, Because Privacy is Clearly Overrated"
+    "author": "cataPhil",
+    "created_at": "2025-07-15T15:46:41Z",
+    "aiHeadline": "AI has now created a robot that looks like it's straight out of a horror movie, because why not?"
   },
   {
-    "title": "Show HN: Refine – A Local Alternative to Grammarly",
-    "url": "https://refine.sh",
-    "points": 376,
-    "num_comments": 187,
+    "title": "Reflections on OpenAI",
+    "url": "https://calv.info/openai-reflections",
+    "points": 355,
+    "num_comments": 204,
     "tags": [
       "story",
-      "author_runjuu",
-      "story_44556684",
-      "show_hn"
+      "author_calvinfo",
+      "story_44573195",
+      "front_page"
     ],
-    "author": "runjuu",
-    "created_at": "2025-07-14T05:12:18Z",
-    "aiHeadline": "Refine: The Grammar Tool That Thinks It's Smarter Than Grammarly, Because Local is Always Better, Right?"
+    "author": "calvinfo",
+    "created_at": "2025-07-15T16:49:06Z",
+    "aiHeadline": "OpenAI: Where humans are just the warm bodies while the machines write the blog posts."
+  },
+  {
+    "title": "Blender 4.5 LTS",
+    "url": "https://www.blender.org/download/releases/4-5/",
+    "points": 285,
+    "num_comments": 83,
+    "tags": [
+      "story",
+      "author_obdev",
+      "story_44571917"
+    ],
+    "author": "obdev",
+    "created_at": "2025-07-15T15:06:44Z",
+    "aiHeadline": "Blender 4.5 LTS: Because you didn't have enough polygons in your life already."
   }
 ]
