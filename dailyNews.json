@@ -1,76 +1,74 @@
 [
   {
-    "title": "LLM Inevitabilism",
-    "url": "https://tomrenner.com/posts/llm-inevitabilism/",
-    "points": 1502,
-    "num_comments": 1422,
+    "title": "Linux Reaches 5% Desktop Market Share in USA",
+    "url": "https://ostechnix.com/linux-reaches-5-desktop-market-share-in-usa/",
+    "points": 896,
+    "num_comments": 544,
     "tags": [
       "story",
-      "author_SwoopsFromAbove",
-      "story_44567857",
+      "author_marcodiego",
+      "story_44580682"
+    ],
+    "author": "marcodiego",
+    "created_at": "2025-07-16T10:37:08Z",
+    "aiHeadline": "Linux finally reaches 5% desktop market share in the USA, proving that niche is the new mainstream, but don't hold your breath for world domination."
+  },
+  {
+    "title": "Ukrainian hackers destroyed the IT infrastructure of Russian drone manufacturer",
+    "url": "https://prm.ua/en/ukrainian-hackers-destroyed-the-it-infrastructure-of-a-russian-drone-manufacturer-what-is-known/",
+    "points": 599,
+    "num_comments": 415,
+    "tags": [
+      "story",
+      "author_doener",
+      "story_44579902"
+    ],
+    "author": "doener",
+    "created_at": "2025-07-16T08:18:34Z",
+    "aiHeadline": "Ukrainian hackers take down Russian drone manufacturer's IT infrastructure, showing that in the digital age, the best defense is a good offense, and a bad server."
+  },
+  {
+    "title": "Cloudflare 1.1.1.1 Incident on July 14, 2025",
+    "url": "https://blog.cloudflare.com/cloudflare-1-1-1-1-incident-on-july-14-2025/",
+    "points": 533,
+    "num_comments": 360,
+    "tags": [
+      "story",
+      "author_nomaxx117",
+      "story_44578490"
+    ],
+    "author": "nomaxx117",
+    "created_at": "2025-07-16T03:44:39Z",
+    "aiHeadline": "Cloudflare's 1.1.1.1 service goes down, reminding us that even the best DNS providers can have a bad hair day, leaving the internet in a tizzy."
+  },
+  {
+    "title": "Shipping WebGPU on Windows in Firefox 141",
+    "url": "https://mozillagfx.wordpress.com/2025/07/15/shipping-webgpu-on-windows-in-firefox-141/",
+    "points": 341,
+    "num_comments": 143,
+    "tags": [
+      "story",
+      "author_Bogdanp",
+      "story_44579317",
       "front_page"
     ],
-    "author": "SwoopsFromAbove",
-    "created_at": "2025-07-15T04:35:35Z",
-    "aiHeadline": "LLMs: Because why have humans when you can have algorithms that argue with themselves?"
+    "author": "Bogdanp",
+    "created_at": "2025-07-16T06:32:47Z",
+    "aiHeadline": "Firefox 141 brings WebGPU to Windows, finally giving Windows users a reason to celebrate, unless they're still waiting for that feature they asked for five years ago."
   },
   {
-    "title": "Ask HN: Is it time to fork HN into AI/LLM and \"Everything else/other?\"",
-    "points": 411,
-    "num_comments": 325,
+    "title": "I'm switching to Python and actually liking it",
+    "url": "https://www.cesarsotovalero.net/blog/i-am-switching-to-python-and-actually-liking-it.html",
+    "points": 340,
+    "num_comments": 523,
     "tags": [
       "story",
-      "author_bookofjoe",
-      "story_44571740",
-      "ask_hn"
-    ],
-    "author": "bookofjoe",
-    "created_at": "2025-07-15T14:51:17Z",
-    "aiHeadline": "Hacker News is so focused on AI that they're considering splitting into AI and 'the rest of the internet.'"
-  },
-  {
-    "title": "Show HN: Shoggoth Mini – A soft tentacle robot powered by GPT-4o and RL",
-    "url": "https://www.matthieulc.com/posts/shoggoth-mini",
-    "points": 361,
-    "num_comments": 74,
-    "tags": [
-      "story",
-      "author_cataPhil",
-      "story_44572377",
-      "show_hn",
+      "author_cesarsotovalero",
+      "story_44579717",
       "front_page"
     ],
-    "author": "cataPhil",
-    "created_at": "2025-07-15T15:46:41Z",
-    "aiHeadline": "AI has now created a robot that looks like it's straight out of a horror movie, because why not?"
-  },
-  {
-    "title": "Reflections on OpenAI",
-    "url": "https://calv.info/openai-reflections",
-    "points": 355,
-    "num_comments": 204,
-    "tags": [
-      "story",
-      "author_calvinfo",
-      "story_44573195",
-      "front_page"
-    ],
-    "author": "calvinfo",
-    "created_at": "2025-07-15T16:49:06Z",
-    "aiHeadline": "OpenAI: Where humans are just the warm bodies while the machines write the blog posts."
-  },
-  {
-    "title": "Blender 4.5 LTS",
-    "url": "https://www.blender.org/download/releases/4-5/",
-    "points": 285,
-    "num_comments": 83,
-    "tags": [
-      "story",
-      "author_obdev",
-      "story_44571917"
-    ],
-    "author": "obdev",
-    "created_at": "2025-07-15T15:06:44Z",
-    "aiHeadline": "Blender 4.5 LTS: Because you didn't have enough polygons in your life already."
+    "author": "cesarsotovalero",
+    "created_at": "2025-07-16T07:44:32Z",
+    "aiHeadline": "A developer switches to Python and actually likes it, proving that sometimes, the grass is indeed greener on the other side, especially when it's not filled with curly braces and semicolons."
   }
 ]
