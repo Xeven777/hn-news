@@ -1,74 +1,75 @@
 [
   {
-    "title": "Linux Reaches 5% Desktop Market Share in USA",
-    "url": "https://ostechnix.com/linux-reaches-5-desktop-market-share-in-usa/",
-    "points": 896,
-    "num_comments": 544,
+    "title": "ChatGPT agent: bridging research and action",
+    "url": "https://openai.com/index/introducing-chatgpt-agent/",
+    "points": 476,
+    "num_comments": 342,
     "tags": [
       "story",
-      "author_marcodiego",
-      "story_44580682"
-    ],
-    "author": "marcodiego",
-    "created_at": "2025-07-16T10:37:08Z",
-    "aiHeadline": "Linux finally reaches 5% desktop market share in the USA, proving that niche is the new mainstream, but don't hold your breath for world domination."
-  },
-  {
-    "title": "Ukrainian hackers destroyed the IT infrastructure of Russian drone manufacturer",
-    "url": "https://prm.ua/en/ukrainian-hackers-destroyed-the-it-infrastructure-of-a-russian-drone-manufacturer-what-is-known/",
-    "points": 599,
-    "num_comments": 415,
-    "tags": [
-      "story",
-      "author_doener",
-      "story_44579902"
-    ],
-    "author": "doener",
-    "created_at": "2025-07-16T08:18:34Z",
-    "aiHeadline": "Ukrainian hackers take down Russian drone manufacturer's IT infrastructure, showing that in the digital age, the best defense is a good offense, and a bad server."
-  },
-  {
-    "title": "Cloudflare 1.1.1.1 Incident on July 14, 2025",
-    "url": "https://blog.cloudflare.com/cloudflare-1-1-1-1-incident-on-july-14-2025/",
-    "points": 533,
-    "num_comments": 360,
-    "tags": [
-      "story",
-      "author_nomaxx117",
-      "story_44578490"
-    ],
-    "author": "nomaxx117",
-    "created_at": "2025-07-16T03:44:39Z",
-    "aiHeadline": "Cloudflare's 1.1.1.1 service goes down, reminding us that even the best DNS providers can have a bad hair day, leaving the internet in a tizzy."
-  },
-  {
-    "title": "Shipping WebGPU on Windows in Firefox 141",
-    "url": "https://mozillagfx.wordpress.com/2025/07/15/shipping-webgpu-on-windows-in-firefox-141/",
-    "points": 341,
-    "num_comments": 143,
-    "tags": [
-      "story",
-      "author_Bogdanp",
-      "story_44579317",
+      "author_Topfi",
+      "story_44595492",
       "front_page"
     ],
-    "author": "Bogdanp",
-    "created_at": "2025-07-16T06:32:47Z",
-    "aiHeadline": "Firefox 141 brings WebGPU to Windows, finally giving Windows users a reason to celebrate, unless they're still waiting for that feature they asked for five years ago."
+    "author": "Topfi",
+    "created_at": "2025-07-17T17:01:47Z",
+    "aiHeadline": "ChatGPT Agent: Finally, an AI That Does More Than Just Say 'I Can't Access The Internet'—Or So They Say"
   },
   {
-    "title": "I'm switching to Python and actually liking it",
-    "url": "https://www.cesarsotovalero.net/blog/i-am-switching-to-python-and-actually-liking-it.html",
-    "points": 340,
-    "num_comments": 523,
+    "title": "Mistral Releases Deep Research, Voice, Projects in Le Chat",
+    "url": "https://mistral.ai/news/le-chat-dives-deep",
+    "points": 431,
+    "num_comments": 91,
     "tags": [
       "story",
-      "author_cesarsotovalero",
-      "story_44579717",
+      "author_pember",
+      "story_44594156",
       "front_page"
     ],
-    "author": "cesarsotovalero",
-    "created_at": "2025-07-16T07:44:32Z",
-    "aiHeadline": "A developer switches to Python and actually likes it, proving that sometimes, the grass is indeed greener on the other side, especially when it's not filled with curly braces and semicolons."
+    "author": "pember",
+    "created_at": "2025-07-17T15:00:18Z",
+    "aiHeadline": "Mistral AI Dives Deep Into Research, Voice, and Le Chat—Apparently, They’re Not Just Making Chatbots Anymore"
+  },
+  {
+    "title": "Tell HN: Notion Desktop is monitoring your audio and network",
+    "points": 377,
+    "num_comments": 133,
+    "tags": [
+      "story",
+      "author_HoyaSaxa",
+      "story_44594790",
+      "ask_hn"
+    ],
+    "author": "HoyaSaxa",
+    "created_at": "2025-07-17T15:59:54Z",
+    "aiHeadline": "Notion Desktop: Now Monitoring Your Audio and Network Because Who Doesn’t Want Their Productivity App to Spy on Them?"
+  },
+  {
+    "title": "Hand: open-source Robot Hand",
+    "url": "https://github.com/pollen-robotics/AmazingHand",
+    "points": 343,
+    "num_comments": 95,
+    "tags": [
+      "story",
+      "author_vineethy",
+      "story_44592413",
+      "front_page"
+    ],
+    "author": "vineethy",
+    "created_at": "2025-07-17T12:08:38Z",
+    "aiHeadline": "AmazingHand: The Open-Source Robot Hand That’s So Amazing It’s Named 'AmazingHand'"
+  },
+  {
+    "title": "My bank keeps on undermining anti-phishing education",
+    "url": "http://moritz-mander.de/blog/my_bank_keeps_on_undermining_anti-phishing_education/",
+    "points": 273,
+    "num_comments": 214,
+    "tags": [
+      "story",
+      "author_cheesepaint",
+      "story_44592377"
+    ],
+    "author": "cheesepaint",
+    "created_at": "2025-07-17T12:04:53Z",
+    "aiHeadline": "My Bank: Because Nothing Says 'We Care About Your Security' Like Constantly Undermining Anti-Phishing Education"
   }
 ]
