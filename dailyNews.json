@@ -1,75 +1,73 @@
 [
   {
-    "title": "ChatGPT agent: bridging research and action",
-    "url": "https://openai.com/index/introducing-chatgpt-agent/",
-    "points": 476,
-    "num_comments": 342,
+    "title": "Fully homomorphic encryption and the dawn of a private internet",
+    "url": "https://bozmen.io/fhe",
+    "points": 411,
+    "num_comments": 186,
     "tags": [
       "story",
-      "author_Topfi",
-      "story_44595492",
+      "author_barisozmen",
+      "story_44601023"
+    ],
+    "author": "barisozmen",
+    "created_at": "2025-07-18T03:49:50Z",
+    "aiHeadline": "Fully homomorphic encryption finally arrives, promising a private internet—because apparently, we've been waiting for this since the dawn of time."
+  },
+  {
+    "title": "lsr: ls with io_uring",
+    "url": "https://rockorager.dev/log/lsr-ls-but-with-io-uring/",
+    "points": 303,
+    "num_comments": 152,
+    "tags": [
+      "story",
+      "author_mpweiher",
+      "story_44604050",
       "front_page"
     ],
-    "author": "Topfi",
-    "created_at": "2025-07-17T17:01:47Z",
-    "aiHeadline": "ChatGPT Agent: Finally, an AI That Does More Than Just Say 'I Can't Access The Internet'—Or So They Say"
+    "author": "mpweiher",
+    "created_at": "2025-07-18T12:40:41Z",
+    "aiHeadline": "lsr: ls with io_uring—because apparently, the old 'ls' command was just too slow for your cutting-edge needs. Now you can list files with the speed of light, or something like that."
   },
   {
-    "title": "Mistral Releases Deep Research, Voice, Projects in Le Chat",
-    "url": "https://mistral.ai/news/le-chat-dives-deep",
-    "points": 431,
-    "num_comments": 91,
+    "title": "NIH is cheaper than the wrong dependency",
+    "url": "https://lewiscampbell.tech/blog/250718.html",
+    "points": 286,
+    "num_comments": 184,
     "tags": [
       "story",
-      "author_pember",
-      "story_44594156",
-      "front_page"
+      "author_todsacerdoti",
+      "story_44600594"
     ],
-    "author": "pember",
-    "created_at": "2025-07-17T15:00:18Z",
-    "aiHeadline": "Mistral AI Dives Deep Into Research, Voice, and Le Chat—Apparently, They’re Not Just Making Chatbots Anymore"
+    "author": "todsacerdoti",
+    "created_at": "2025-07-18T02:27:43Z",
+    "aiHeadline": "NIH is cheaper than the wrong dependency—because who needs third-party libraries when you can just reinvent the wheel and save a few bucks? Innovation at its finest!"
   },
   {
-    "title": "Tell HN: Notion Desktop is monitoring your audio and network",
-    "points": 377,
-    "num_comments": 133,
+    "title": "NYPD bypassed facial recognition ban to ID pro-Palestinian student protester",
+    "url": "https://www.thecity.nyc/2025/07/18/nypd-fdny-clearview-ai-ban-columbia-palestinian-protest/",
+    "points": 278,
+    "num_comments": 163,
     "tags": [
       "story",
-      "author_HoyaSaxa",
-      "story_44594790",
-      "ask_hn"
+      "author_dataflow",
+      "story_44604328"
     ],
-    "author": "HoyaSaxa",
-    "created_at": "2025-07-17T15:59:54Z",
-    "aiHeadline": "Notion Desktop: Now Monitoring Your Audio and Network Because Who Doesn’t Want Their Productivity App to Spy on Them?"
+    "author": "dataflow",
+    "created_at": "2025-07-18T13:15:50Z",
+    "aiHeadline": "NYPD bypasses facial recognition ban to ID pro-Palestinian student protester—because when the law says 'no,' the NYPD says 'challenge accepted.'"
   },
   {
-    "title": "Hand: open-source Robot Hand",
-    "url": "https://github.com/pollen-robotics/AmazingHand",
-    "points": 343,
-    "num_comments": 95,
+    "title": "Psilocybin decreases depression and anxiety in cancer patients (2016)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5367557/",
+    "points": 249,
+    "num_comments": 246,
     "tags": [
       "story",
-      "author_vineethy",
-      "story_44592413",
-      "front_page"
+      "author_Bluestein",
+      "story_44603267"
     ],
-    "author": "vineethy",
-    "created_at": "2025-07-17T12:08:38Z",
-    "aiHeadline": "AmazingHand: The Open-Source Robot Hand That’s So Amazing It’s Named 'AmazingHand'"
-  },
-  {
-    "title": "My bank keeps on undermining anti-phishing education",
-    "url": "http://moritz-mander.de/blog/my_bank_keeps_on_undermining_anti-phishing_education/",
-    "points": 273,
-    "num_comments": 214,
-    "tags": [
-      "story",
-      "author_cheesepaint",
-      "story_44592377"
-    ],
-    "author": "cheesepaint",
-    "created_at": "2025-07-17T12:04:53Z",
-    "aiHeadline": "My Bank: Because Nothing Says 'We Care About Your Security' Like Constantly Undermining Anti-Phishing Education"
+    "author": "Bluestein",
+    "created_at": "2025-07-18T10:57:08Z",
+    "aiHeadline": "Psilocybin decreases depression and anxiety in cancer patients—because what better way to cope with cancer than to trip your way to happiness? Science, you're weird."
   }
 ]
