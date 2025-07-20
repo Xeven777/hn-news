@@ -1,73 +1,74 @@
 [
   {
-    "title": "Fully homomorphic encryption and the dawn of a private internet",
-    "url": "https://bozmen.io/fhe",
-    "points": 411,
-    "num_comments": 186,
+    "title": "Hyatt Hotels are using algorithmic Rest “smoking detectors”",
+    "url": "https://twitter.com/_ZachGriff/status/1945959030851035223",
+    "points": 735,
+    "num_comments": 434,
     "tags": [
       "story",
-      "author_barisozmen",
-      "story_44601023"
+      "author_RebeccaTheDev",
+      "story_44612487"
     ],
-    "author": "barisozmen",
-    "created_at": "2025-07-18T03:49:50Z",
-    "aiHeadline": "Fully homomorphic encryption finally arrives, promising a private internet—because apparently, we've been waiting for this since the dawn of time."
+    "author": "RebeccaTheDev",
+    "created_at": "2025-07-19T04:02:57Z",
+    "aiHeadline": "Hyatt Hotels: Because regular smoke detectors just weren't techy enough, let's use an algorithm to detect smoking!"
   },
   {
-    "title": "lsr: ls with io_uring",
-    "url": "https://rockorager.dev/log/lsr-ls-but-with-io-uring/",
-    "points": 303,
-    "num_comments": 152,
+    "title": "My Self-Hosting Setup",
+    "url": "https://codecaptured.com/blog/my-ultimate-self-hosting-setup/",
+    "points": 531,
+    "num_comments": 185,
     "tags": [
       "story",
-      "author_mpweiher",
-      "story_44604050",
+      "author_mirdaki",
+      "story_44612151"
+    ],
+    "author": "mirdaki",
+    "created_at": "2025-07-19T02:56:02Z",
+    "aiHeadline": "Self-Hosting: Because paying for hosting is for the weak, and setting up your own server is the ultimate challenge!"
+  },
+  {
+    "title": "A 14kb page can load much faster than a 15kb page (2022)",
+    "url": "https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/",
+    "points": 433,
+    "num_comments": 284,
+    "tags": [
+      "story",
+      "author_truxs",
+      "story_44613625"
+    ],
+    "author": "truxs",
+    "created_at": "2025-07-19T08:26:45Z",
+    "aiHeadline": "14kb vs. 15kb: The groundbreaking discovery that proves every byte counts, even if it's just one!"
+  },
+  {
+    "title": "OpenAI claims gold-medal performance at IMO 2025",
+    "url": "https://twitter.com/alexwei_/status/1946477742855532918",
+    "points": 406,
+    "num_comments": 624,
+    "tags": [
+      "story",
+      "author_Davidzheng",
+      "story_44613840",
       "front_page"
     ],
-    "author": "mpweiher",
-    "created_at": "2025-07-18T12:40:41Z",
-    "aiHeadline": "lsr: ls with io_uring—because apparently, the old 'ls' command was just too slow for your cutting-edge needs. Now you can list files with the speed of light, or something like that."
+    "author": "Davidzheng",
+    "created_at": "2025-07-19T09:11:19Z",
+    "aiHeadline": "OpenAI: Because solving math problems isn't enough, let's have AI win gold medals too!"
   },
   {
-    "title": "NIH is cheaper than the wrong dependency",
-    "url": "https://lewiscampbell.tech/blog/250718.html",
-    "points": 286,
-    "num_comments": 184,
+    "title": "Fstrings.wtf",
+    "url": "https://fstrings.wtf/",
+    "points": 372,
+    "num_comments": 113,
     "tags": [
       "story",
-      "author_todsacerdoti",
-      "story_44600594"
+      "author_darkamaul",
+      "story_44614370",
+      "front_page"
     ],
-    "author": "todsacerdoti",
-    "created_at": "2025-07-18T02:27:43Z",
-    "aiHeadline": "NIH is cheaper than the wrong dependency—because who needs third-party libraries when you can just reinvent the wheel and save a few bucks? Innovation at its finest!"
-  },
-  {
-    "title": "NYPD bypassed facial recognition ban to ID pro-Palestinian student protester",
-    "url": "https://www.thecity.nyc/2025/07/18/nypd-fdny-clearview-ai-ban-columbia-palestinian-protest/",
-    "points": 278,
-    "num_comments": 163,
-    "tags": [
-      "story",
-      "author_dataflow",
-      "story_44604328"
-    ],
-    "author": "dataflow",
-    "created_at": "2025-07-18T13:15:50Z",
-    "aiHeadline": "NYPD bypasses facial recognition ban to ID pro-Palestinian student protester—because when the law says 'no,' the NYPD says 'challenge accepted.'"
-  },
-  {
-    "title": "Psilocybin decreases depression and anxiety in cancer patients (2016)",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5367557/",
-    "points": 249,
-    "num_comments": 246,
-    "tags": [
-      "story",
-      "author_Bluestein",
-      "story_44603267"
-    ],
-    "author": "Bluestein",
-    "created_at": "2025-07-18T10:57:08Z",
-    "aiHeadline": "Psilocybin decreases depression and anxiety in cancer patients—because what better way to cope with cancer than to trip your way to happiness? Science, you're weird."
+    "author": "darkamaul",
+    "created_at": "2025-07-19T10:52:35Z",
+    "aiHeadline": "Fstrings.wtf: Because even the simplest things can be a mystery, especially when it comes to Python!"
   }
 ]
