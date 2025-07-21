@@ -1,74 +1,74 @@
 [
   {
-    "title": "Hyatt Hotels are using algorithmic Rest “smoking detectors”",
-    "url": "https://twitter.com/_ZachGriff/status/1945959030851035223",
-    "points": 735,
-    "num_comments": 434,
+    "title": "XMLUI",
+    "url": "https://blog.jonudell.net/2025/07/18/introducing-xmlui/",
+    "points": 451,
+    "num_comments": 240,
     "tags": [
       "story",
-      "author_RebeccaTheDev",
-      "story_44612487"
-    ],
-    "author": "RebeccaTheDev",
-    "created_at": "2025-07-19T04:02:57Z",
-    "aiHeadline": "Hyatt Hotels: Because regular smoke detectors just weren't techy enough, let's use an algorithm to detect smoking!"
-  },
-  {
-    "title": "My Self-Hosting Setup",
-    "url": "https://codecaptured.com/blog/my-ultimate-self-hosting-setup/",
-    "points": 531,
-    "num_comments": 185,
-    "tags": [
-      "story",
-      "author_mirdaki",
-      "story_44612151"
-    ],
-    "author": "mirdaki",
-    "created_at": "2025-07-19T02:56:02Z",
-    "aiHeadline": "Self-Hosting: Because paying for hosting is for the weak, and setting up your own server is the ultimate challenge!"
-  },
-  {
-    "title": "A 14kb page can load much faster than a 15kb page (2022)",
-    "url": "https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/",
-    "points": 433,
-    "num_comments": 284,
-    "tags": [
-      "story",
-      "author_truxs",
-      "story_44613625"
-    ],
-    "author": "truxs",
-    "created_at": "2025-07-19T08:26:45Z",
-    "aiHeadline": "14kb vs. 15kb: The groundbreaking discovery that proves every byte counts, even if it's just one!"
-  },
-  {
-    "title": "OpenAI claims gold-medal performance at IMO 2025",
-    "url": "https://twitter.com/alexwei_/status/1946477742855532918",
-    "points": 406,
-    "num_comments": 624,
-    "tags": [
-      "story",
-      "author_Davidzheng",
-      "story_44613840",
+      "author_mpweiher",
+      "story_44625292",
       "front_page"
     ],
-    "author": "Davidzheng",
-    "created_at": "2025-07-19T09:11:19Z",
-    "aiHeadline": "OpenAI: Because solving math problems isn't enough, let's have AI win gold medals too!"
+    "author": "mpweiher",
+    "created_at": "2025-07-20T14:03:39Z",
+    "aiHeadline": "XML is back, baby! Or is it just another over-engineered solution to a problem that didn't exist?"
   },
   {
-    "title": "Fstrings.wtf",
-    "url": "https://fstrings.wtf/",
-    "points": 372,
-    "num_comments": 113,
+    "title": "Coding with LLMs in the summer of 2025 – an update",
+    "url": "https://antirez.com/news/154",
+    "points": 414,
+    "num_comments": 287,
     "tags": [
       "story",
-      "author_darkamaul",
-      "story_44614370",
+      "author_antirez",
+      "story_44623953",
       "front_page"
     ],
-    "author": "darkamaul",
-    "created_at": "2025-07-19T10:52:35Z",
-    "aiHeadline": "Fstrings.wtf: Because even the simplest things can be a mystery, especially when it comes to Python!"
+    "author": "antirez",
+    "created_at": "2025-07-20T11:04:02Z",
+    "aiHeadline": "Summer 2025: Coding with LLMs is still a thing, but are we any closer to solving world hunger or just making more cat pictures?"
+  },
+  {
+    "title": "The bewildering phenomenon of declining quality",
+    "url": "https://english.elpais.com/culture/2025-07-20/the-bewildering-phenomenon-of-declining-quality.html",
+    "points": 371,
+    "num_comments": 684,
+    "tags": [
+      "story",
+      "author_geox",
+      "story_44622953"
+    ],
+    "author": "geox",
+    "created_at": "2025-07-20T08:10:51Z",
+    "aiHeadline": "Declining quality: the new trend in everything, from your morning coffee to your favorite streaming service. What's next, worse Wi-Fi?"
+  },
+  {
+    "title": "The current hype around autonomous agents, and what actually works in production",
+    "url": "https://utkarshkanwat.com/writing/betting-against-agents/",
+    "points": 370,
+    "num_comments": 218,
+    "tags": [
+      "story",
+      "author_Dachande663",
+      "story_44623207"
+    ],
+    "author": "Dachande663",
+    "created_at": "2025-07-20T08:59:19Z",
+    "aiHeadline": "Autonomous agents: the next big thing, or just another overhyped tech that'll be replaced by something even more overhyped next year?"
+  },
+  {
+    "title": "LLM architecture comparison",
+    "url": "https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison",
+    "points": 365,
+    "num_comments": 23,
+    "tags": [
+      "story",
+      "author_mdp2021",
+      "story_44622608"
+    ],
+    "author": "mdp2021",
+    "created_at": "2025-07-20T06:56:01Z",
+    "aiHeadline": "LLM architecture comparison: because choosing the right model is as important as picking the right car, except you can't take it for a spin before buying."
   }
 ]
