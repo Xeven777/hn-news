@@ -1,74 +1,77 @@
 [
   {
-    "title": "XMLUI",
-    "url": "https://blog.jonudell.net/2025/07/18/introducing-xmlui/",
-    "points": 451,
-    "num_comments": 240,
+    "title": "TrackWeight: Turn your MacBook's trackpad into a digital weighing scale",
+    "url": "https://github.com/KrishKrosh/TrackWeight",
+    "points": 461,
+    "num_comments": 119,
     "tags": [
       "story",
-      "author_mpweiher",
-      "story_44625292",
+      "author_wtcactus",
+      "story_44635808",
       "front_page"
     ],
-    "author": "mpweiher",
-    "created_at": "2025-07-20T14:03:39Z",
-    "aiHeadline": "XML is back, baby! Or is it just another over-engineered solution to a problem that didn't exist?"
+    "author": "wtcactus",
+    "created_at": "2025-07-21T14:51:13Z",
+    "aiHeadline": "MacBook trackpad now doubles as a scale, because who needs a trackpad when you can weigh your cat? Now you can finally measure your laptop's contribution to your weight gain!"
   },
   {
-    "title": "Coding with LLMs in the summer of 2025 – an update",
-    "url": "https://antirez.com/news/154",
-    "points": 414,
-    "num_comments": 287,
+    "title": "Gemini with Deep Think achieves gold-medal standard at the IMO",
+    "url": "https://deepmind.google/discover/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/",
+    "points": 450,
+    "num_comments": 207,
     "tags": [
       "story",
-      "author_antirez",
-      "story_44623953",
+      "author_meetpateltech",
+      "story_44637191",
       "front_page"
     ],
-    "author": "antirez",
-    "created_at": "2025-07-20T11:04:02Z",
-    "aiHeadline": "Summer 2025: Coding with LLMs is still a thing, but are we any closer to solving world hunger or just making more cat pictures?"
+    "author": "meetpateltech",
+    "created_at": "2025-07-21T16:36:13Z",
+    "aiHeadline": "AI proves it's smarter than high school mathletes, because apparently, solving complex equations is easier than understanding human emotions. Or maybe AI just skipped the part where math becomes irrelevant in real life."
   },
   {
-    "title": "The bewildering phenomenon of declining quality",
-    "url": "https://english.elpais.com/culture/2025-07-20/the-bewildering-phenomenon-of-declining-quality.html",
-    "points": 371,
-    "num_comments": 684,
+    "title": "UK backing down on Apple encryption backdoor after pressure from US",
+    "url": "https://arstechnica.com/tech-policy/2025/07/uk-backing-down-on-apple-encryption-backdoor-after-pressure-from-us/",
+    "points": 430,
+    "num_comments": 297,
     "tags": [
       "story",
-      "author_geox",
-      "story_44622953"
+      "author_azalemeth",
+      "story_44635745",
+      "front_page"
     ],
-    "author": "geox",
-    "created_at": "2025-07-20T08:10:51Z",
-    "aiHeadline": "Declining quality: the new trend in everything, from your morning coffee to your favorite streaming service. What's next, worse Wi-Fi?"
+    "author": "azalemeth",
+    "created_at": "2025-07-21T14:46:40Z",
+    "aiHeadline": "UK gives up on forcing Apple to make encryption weaker, because apparently the US has better encryption than the UK. Or maybe the UK realized that weaker encryption just means more data breaches, and they don't want to be the laughing stock anymore."
   },
   {
-    "title": "The current hype around autonomous agents, and what actually works in production",
-    "url": "https://utkarshkanwat.com/writing/betting-against-agents/",
-    "points": 370,
-    "num_comments": 218,
+    "title": "AccountingBench: Evaluating LLMs on real long-horizon business tasks",
+    "url": "https://accounting.penrose.com/",
+    "points": 391,
+    "num_comments": 107,
     "tags": [
       "story",
-      "author_Dachande663",
-      "story_44623207"
+      "author_rickcarlino",
+      "story_44637352",
+      "front_page"
     ],
-    "author": "Dachande663",
-    "created_at": "2025-07-20T08:59:19Z",
-    "aiHeadline": "Autonomous agents: the next big thing, or just another overhyped tech that'll be replaced by something even more overhyped next year?"
+    "author": "rickcarlino",
+    "created_at": "2025-07-21T16:48:28Z",
+    "aiHeadline": "AI now tackles accounting, because what's the point of being smart if you can't balance a spreadsheet? Maybe AI will finally figure out why my bank account is always in the red."
   },
   {
-    "title": "LLM architecture comparison",
-    "url": "https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison",
-    "points": 365,
-    "num_comments": 23,
+    "title": "What went wrong inside recalled Anker PowerCore 10000 power banks?",
+    "url": "https://www.lumafield.com/article/what-went-wrong-inside-these-recalled-power-banks",
+    "points": 290,
+    "num_comments": 145,
     "tags": [
       "story",
-      "author_mdp2021",
-      "story_44622608"
+      "author_walterbell",
+      "story_44638580",
+      "front_page"
     ],
-    "author": "mdp2021",
-    "created_at": "2025-07-20T06:56:01Z",
-    "aiHeadline": "LLM architecture comparison: because choosing the right model is as important as picking the right car, except you can't take it for a spin before buying."
+    "author": "walterbell",
+    "created_at": "2025-07-21T18:22:11Z",
+    "aiHeadline": "Anker power banks recalled for overheating, because who needs a portable charger that doesn't explode? Now you can have a built-in fire hazard in your bag!"
   }
 ]
