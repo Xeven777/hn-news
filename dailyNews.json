@@ -1,77 +1,72 @@
 [
   {
-    "title": "TrackWeight: Turn your MacBook's trackpad into a digital weighing scale",
-    "url": "https://github.com/KrishKrosh/TrackWeight",
-    "points": 461,
-    "num_comments": 119,
+    "title": "How to Firefox",
+    "url": "https://kau.sh/blog/how-to-firefox/",
+    "points": 689,
+    "num_comments": 408,
     "tags": [
       "story",
-      "author_wtcactus",
-      "story_44635808",
-      "front_page"
+      "author_Vinnl",
+      "story_44645353"
     ],
-    "author": "wtcactus",
-    "created_at": "2025-07-21T14:51:13Z",
-    "aiHeadline": "MacBook trackpad now doubles as a scale, because who needs a trackpad when you can weigh your cat? Now you can finally measure your laptop's contribution to your weight gain!"
+    "author": "Vinnl",
+    "created_at": "2025-07-22T10:51:30Z",
+    "aiHeadline": "How to Firefox: A comprehensive guide on how to use Firefox, because apparently some people still don't know how to use a browser."
   },
   {
-    "title": "Gemini with Deep Think achieves gold-medal standard at the IMO",
-    "url": "https://deepmind.google/discover/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/",
-    "points": 450,
-    "num_comments": 207,
+    "title": "The United States withdraws from UNESCO",
+    "url": "https://www.state.gov/releases/office-of-the-spokesperson/2025/07/the-united-states-withdraws-from-the-united-nations-educational-scientific-and-cultural-organization-unesco",
+    "points": 569,
+    "num_comments": 753,
     "tags": [
       "story",
-      "author_meetpateltech",
-      "story_44637191",
-      "front_page"
+      "author_layer8",
+      "story_44647112"
     ],
-    "author": "meetpateltech",
-    "created_at": "2025-07-21T16:36:13Z",
-    "aiHeadline": "AI proves it's smarter than high school mathletes, because apparently, solving complex equations is easier than understanding human emotions. Or maybe AI just skipped the part where math becomes irrelevant in real life."
+    "author": "layer8",
+    "created_at": "2025-07-22T14:09:49Z",
+    "aiHeadline": "The United States withdraws from UNESCO: Because apparently, the US has decided that cultural exchange and scientific cooperation are overrated."
   },
   {
-    "title": "UK backing down on Apple encryption backdoor after pressure from US",
-    "url": "https://arstechnica.com/tech-policy/2025/07/uk-backing-down-on-apple-encryption-backdoor-after-pressure-from-us/",
-    "points": 430,
-    "num_comments": 297,
+    "title": "Complete silence is always hallucinated as \"ترجمة نانسي قنقر\" in Arabic",
+    "url": "https://github.com/openai/whisper/discussions/2608",
+    "points": 527,
+    "num_comments": 310,
     "tags": [
       "story",
-      "author_azalemeth",
-      "story_44635745",
-      "front_page"
+      "author_edent",
+      "story_44643564"
     ],
-    "author": "azalemeth",
-    "created_at": "2025-07-21T14:46:40Z",
-    "aiHeadline": "UK gives up on forcing Apple to make encryption weaker, because apparently the US has better encryption than the UK. Or maybe the UK realized that weaker encryption just means more data breaches, and they don't want to be the laughing stock anymore."
+    "author": "edent",
+    "created_at": "2025-07-22T05:42:10Z",
+    "aiHeadline": "Complete silence is always hallucinated as 'ترجمة نانسي قنقر' in Arabic: Because AI apparently thinks silence is the same as Nancy Qanjar's translation, which is about as logical as a cat thinking a laser pointer is a mouse."
   },
   {
-    "title": "AccountingBench: Evaluating LLMs on real long-horizon business tasks",
-    "url": "https://accounting.penrose.com/",
-    "points": 391,
-    "num_comments": 107,
+    "title": "Ozzy Osbourne has died",
+    "url": "https://www.bbc.co.uk/news/live/cn0qq5nyxn0t",
+    "points": 510,
+    "num_comments": 123,
     "tags": [
       "story",
-      "author_rickcarlino",
-      "story_44637352",
-      "front_page"
+      "author_fantunes",
+      "story_44651066"
     ],
-    "author": "rickcarlino",
-    "created_at": "2025-07-21T16:48:28Z",
-    "aiHeadline": "AI now tackles accounting, because what's the point of being smart if you can't balance a spreadsheet? Maybe AI will finally figure out why my bank account is always in the red."
+    "author": "fantunes",
+    "created_at": "2025-07-22T18:20:47Z",
+    "aiHeadline": "Ozzy Osbourne has died: The Prince of Darkness has finally turned out the lights for the final time, leaving behind a legacy of heavy metal, bad decisions, and questionable fashion choices."
   },
   {
-    "title": "What went wrong inside recalled Anker PowerCore 10000 power banks?",
-    "url": "https://www.lumafield.com/article/what-went-wrong-inside-these-recalled-power-banks",
-    "points": 290,
-    "num_comments": 145,
+    "title": "Unsafe and Unpredictable: My Volvo EX90 Experience",
+    "url": "https://www.myvolvoex90.com/",
+    "points": 319,
+    "num_comments": 290,
     "tags": [
       "story",
-      "author_walterbell",
-      "story_44638580",
-      "front_page"
+      "author_prova_modena",
+      "story_44652374"
     ],
-    "author": "walterbell",
-    "created_at": "2025-07-21T18:22:11Z",
-    "aiHeadline": "Anker power banks recalled for overheating, because who needs a portable charger that doesn't explode? Now you can have a built-in fire hazard in your bag!"
+    "author": "prova_modena",
+    "created_at": "2025-07-22T20:06:33Z",
+    "aiHeadline": "Unsafe and Unpredictable: My Volvo EX90 Experience: Because apparently, Volvo has decided that 'safety' now means 'unsafe and unpredictable,' which is about as comforting as a clown promising to keep your secrets."
   }
 ]
