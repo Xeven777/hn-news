@@ -1,72 +1,75 @@
 [
   {
-    "title": "How to Firefox",
-    "url": "https://kau.sh/blog/how-to-firefox/",
-    "points": 689,
-    "num_comments": 408,
+    "title": "You can now disable all AI features in Zed",
+    "url": "https://zed.dev/blog/disable-ai-features",
+    "points": 494,
+    "num_comments": 232,
     "tags": [
       "story",
-      "author_Vinnl",
-      "story_44645353"
+      "author_meetpateltech",
+      "story_44660519"
     ],
-    "author": "Vinnl",
-    "created_at": "2025-07-22T10:51:30Z",
-    "aiHeadline": "How to Firefox: A comprehensive guide on how to use Firefox, because apparently some people still don't know how to use a browser."
+    "author": "meetpateltech",
+    "created_at": "2025-07-23T15:45:15Z",
+    "aiHeadline": "Finally, Zed lets you turn off AI because who needs another thing to nag you about productivity?"
   },
   {
-    "title": "The United States withdraws from UNESCO",
-    "url": "https://www.state.gov/releases/office-of-the-spokesperson/2025/07/the-united-states-withdraws-from-the-united-nations-educational-scientific-and-cultural-organization-unesco",
-    "points": 569,
-    "num_comments": 753,
+    "title": "Cops say criminals use a Google Pixel with GrapheneOS – I say that's freedom",
+    "url": "https://www.androidauthority.com/why-i-use-grapheneos-on-pixel-3575477/",
+    "points": 434,
+    "num_comments": 331,
     "tags": [
       "story",
-      "author_layer8",
-      "story_44647112"
+      "author_pabs3",
+      "story_44658908",
+      "front_page"
     ],
-    "author": "layer8",
-    "created_at": "2025-07-22T14:09:49Z",
-    "aiHeadline": "The United States withdraws from UNESCO: Because apparently, the US has decided that cultural exchange and scientific cooperation are overrated."
+    "author": "pabs3",
+    "created_at": "2025-07-23T13:17:38Z",
+    "aiHeadline": "Cops are worried criminals are using GrapheneOS on Pixel phones—because nothing says 'I'm a bad guy' like using the most secure OS available."
   },
   {
-    "title": "Complete silence is always hallucinated as \"ترجمة نانسي قنقر\" in Arabic",
-    "url": "https://github.com/openai/whisper/discussions/2608",
-    "points": 527,
-    "num_comments": 310,
+    "title": "CARA – High precision robot dog using rope",
+    "url": "https://www.aaedmusa.com/projects/cara",
+    "points": 390,
+    "num_comments": 69,
     "tags": [
       "story",
-      "author_edent",
-      "story_44643564"
+      "author_hakonjdjohnsen",
+      "story_44661846",
+      "front_page"
     ],
-    "author": "edent",
-    "created_at": "2025-07-22T05:42:10Z",
-    "aiHeadline": "Complete silence is always hallucinated as 'ترجمة نانسي قنقر' in Arabic: Because AI apparently thinks silence is the same as Nancy Qanjar's translation, which is about as logical as a cat thinking a laser pointer is a mouse."
+    "author": "hakonjdjohnsen",
+    "created_at": "2025-07-23T17:38:20Z",
+    "aiHeadline": "Meet CARA, the robot dog that proves even machines need a leash to be useful."
   },
   {
-    "title": "Ozzy Osbourne has died",
-    "url": "https://www.bbc.co.uk/news/live/cn0qq5nyxn0t",
-    "points": 510,
-    "num_comments": 123,
+    "title": "Cerebras launches Qwen3-235B, achieving 1.5k tokens per second",
+    "url": "https://www.cerebras.ai/press-release/cerebras-launches-qwen3-235b-world-s-fastest-frontier-ai-model-with-full-131k-context-support",
+    "points": 344,
+    "num_comments": 144,
     "tags": [
       "story",
-      "author_fantunes",
-      "story_44651066"
+      "author_mihau",
+      "story_44657727"
     ],
-    "author": "fantunes",
-    "created_at": "2025-07-22T18:20:47Z",
-    "aiHeadline": "Ozzy Osbourne has died: The Prince of Darkness has finally turned out the lights for the final time, leaving behind a legacy of heavy metal, bad decisions, and questionable fashion choices."
+    "author": "mihau",
+    "created_at": "2025-07-23T10:51:51Z",
+    "aiHeadline": "Cerebras just released a new AI model that's so fast, it can process 1.5k tokens per second—because who needs sleep when you can just think faster?"
   },
   {
-    "title": "Unsafe and Unpredictable: My Volvo EX90 Experience",
-    "url": "https://www.myvolvoex90.com/",
-    "points": 319,
-    "num_comments": 290,
+    "title": "I made Tinder but it's only pictures of my wife and I can only swipe right",
+    "url": "https://trytender.app/",
+    "points": 306,
+    "num_comments": 72,
     "tags": [
       "story",
-      "author_prova_modena",
-      "story_44652374"
+      "author_risquer",
+      "story_44664873",
+      "front_page"
     ],
-    "author": "prova_modena",
-    "created_at": "2025-07-22T20:06:33Z",
-    "aiHeadline": "Unsafe and Unpredictable: My Volvo EX90 Experience: Because apparently, Volvo has decided that 'safety' now means 'unsafe and unpredictable,' which is about as comforting as a clown promising to keep your secrets."
+    "author": "risquer",
+    "created_at": "2025-07-23T22:53:27Z",
+    "aiHeadline": "Tinder but only for your spouse—because why date the world when you've already found your match?"
   }
 ]
