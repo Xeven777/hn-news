@@ -1,75 +1,73 @@
 [
   {
-    "title": "You can now disable all AI features in Zed",
-    "url": "https://zed.dev/blog/disable-ai-features",
-    "points": 494,
-    "num_comments": 232,
+    "title": "Electric cars produce less brake dust pollution than combustion-engine cars",
+    "url": "https://modernengineeringmarvels.com/2025/07/22/surprising-science-how-electric-cars-quietly-transform-urban-air/",
+    "points": 498,
+    "num_comments": 720,
     "tags": [
       "story",
-      "author_meetpateltech",
-      "story_44660519"
+      "author_tzs",
+      "story_44666157"
     ],
-    "author": "meetpateltech",
-    "created_at": "2025-07-23T15:45:15Z",
-    "aiHeadline": "Finally, Zed lets you turn off AI because who needs another thing to nag you about productivity?"
+    "author": "tzs",
+    "created_at": "2025-07-24T02:13:20Z",
+    "aiHeadline": "Electric cars: Because who doesn't want to save the planet while looking down on everyone else in their silent, emissions-free ride?"
   },
   {
-    "title": "Cops say criminals use a Google Pixel with GrapheneOS – I say that's freedom",
-    "url": "https://www.androidauthority.com/why-i-use-grapheneos-on-pixel-3575477/",
-    "points": 434,
-    "num_comments": 331,
+    "title": "Itch.io: Update on NSFW Content",
+    "url": "https://itch.io/updates/update-on-nsfw-content",
+    "points": 290,
+    "num_comments": 284,
     "tags": [
       "story",
-      "author_pabs3",
-      "story_44658908",
+      "author_panic",
+      "story_44667667"
+    ],
+    "author": "panic",
+    "created_at": "2025-07-24T06:40:48Z",
+    "aiHeadline": "Itch.io finally decides to update their NSFW policy, because what's the point of having rules if you don't change them every few months?"
+  },
+  {
+    "title": "There is no memory safety without thread safety",
+    "url": "https://www.ralfj.de/blog/2025/07/24/memory-safety.html",
+    "points": 264,
+    "num_comments": 239,
+    "tags": [
+      "story",
+      "author_tavianator",
+      "story_44672003",
       "front_page"
     ],
-    "author": "pabs3",
-    "created_at": "2025-07-23T13:17:38Z",
-    "aiHeadline": "Cops are worried criminals are using GrapheneOS on Pixel phones—because nothing says 'I'm a bad guy' like using the most secure OS available."
+    "author": "tavianator",
+    "created_at": "2025-07-24T15:35:39Z",
+    "aiHeadline": "Why memory safety is like a picky roommate: because if you don't clean up your threads, it'll throw a hissy fit and crash your program."
   },
   {
-    "title": "CARA – High precision robot dog using rope",
-    "url": "https://www.aaedmusa.com/projects/cara",
-    "points": 390,
-    "num_comments": 69,
+    "title": "Starlink is currently experiencing a service outage",
+    "url": "https://www.starlink.com/us",
+    "points": 252,
+    "num_comments": 254,
     "tags": [
       "story",
-      "author_hakonjdjohnsen",
-      "story_44661846",
-      "front_page"
+      "author_throwmeaway222",
+      "story_44674960"
     ],
-    "author": "hakonjdjohnsen",
-    "created_at": "2025-07-23T17:38:20Z",
-    "aiHeadline": "Meet CARA, the robot dog that proves even machines need a leash to be useful."
+    "author": "throwmeaway222",
+    "created_at": "2025-07-24T19:26:12Z",
+    "aiHeadline": "Starlink outage: Because what's a few hours of no internet when you're paying for the future of connectivity? At least your neighbors are just as annoyed as you are."
   },
   {
-    "title": "Cerebras launches Qwen3-235B, achieving 1.5k tokens per second",
-    "url": "https://www.cerebras.ai/press-release/cerebras-launches-qwen3-235b-world-s-fastest-frontier-ai-model-with-full-131k-context-support",
-    "points": 344,
-    "num_comments": 144,
+    "title": "Two narratives about AI",
+    "url": "https://calnewport.com/no-one-knows-anything-about-ai/",
+    "points": 239,
+    "num_comments": 216,
     "tags": [
       "story",
-      "author_mihau",
-      "story_44657727"
+      "author_RickJWagner",
+      "story_44672414"
     ],
-    "author": "mihau",
-    "created_at": "2025-07-23T10:51:51Z",
-    "aiHeadline": "Cerebras just released a new AI model that's so fast, it can process 1.5k tokens per second—because who needs sleep when you can just think faster?"
-  },
-  {
-    "title": "I made Tinder but it's only pictures of my wife and I can only swipe right",
-    "url": "https://trytender.app/",
-    "points": 306,
-    "num_comments": 72,
-    "tags": [
-      "story",
-      "author_risquer",
-      "story_44664873",
-      "front_page"
-    ],
-    "author": "risquer",
-    "created_at": "2025-07-23T22:53:27Z",
-    "aiHeadline": "Tinder but only for your spouse—because why date the world when you've already found your match?"
+    "author": "RickJWagner",
+    "created_at": "2025-07-24T16:08:09Z",
+    "aiHeadline": "AI: The ultimate Rorschach test where everyone sees what they want, because who needs facts when you've got opinions?"
   }
 ]
