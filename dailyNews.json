@@ -1,78 +1,76 @@
 [
   {
-    "title": "Steam, Itch.io are pulling ‘porn’ games. Critics say it's a slippery slope",
-    "url": "https://www.wired.com/story/steam-itchio-are-pulling-porn-games-censorship/",
-    "points": 386,
-    "num_comments": 524,
+    "title": "Rust running on every GPU",
+    "url": "https://rust-gpu.github.io/blog/2025/07/25/rust-on-every-gpu/",
+    "points": 479,
+    "num_comments": 161,
     "tags": [
       "story",
-      "author_6d6b73",
-      "story_44685011",
+      "author_littlestymaar",
+      "story_44692876",
       "front_page"
     ],
-    "author": "6d6b73",
-    "created_at": "2025-07-25T16:27:51Z",
-    "aiHeadline": "Censorship is just the beginning, apparently, as Steam and Itch.io decide to pull 'porn' games, sparking fears of a slippery slope into a world where fun is outlawed."
+    "author": "littlestymaar",
+    "created_at": "2025-07-26T10:08:09Z",
+    "aiHeadline": "Rust is now running on every GPU, because clearly the world needed another way to make graphics cards cry in silence."
   },
   {
-    "title": "It's a DE9, not a DB9 (but we know what you mean)",
-    "url": "https://news.sparkfun.com/14298",
-    "points": 331,
-    "num_comments": 216,
+    "title": "CCTV footage captures video of an earthquake fault in motion",
+    "url": "https://www.smithsonianmag.com/smart-news/cctv-footage-captures-the-first-ever-video-of-an-earthquake-fault-in-motion-shining-a-rare-light-on-seismic-dynamics-180987034/",
+    "points": 414,
+    "num_comments": 76,
     "tags": [
       "story",
-      "author_jgrahamc",
-      "story_44682964",
+      "author_chrononaut",
+      "story_44690911",
       "front_page"
     ],
-    "author": "jgrahamc",
-    "created_at": "2025-07-25T13:35:09Z",
-    "aiHeadline": "It's a DE9, not a DB9 (but we know what you mean), because clearly, the difference between a cat and a dog is as obvious as a DE9 and DB9 connector."
+    "author": "chrononaut",
+    "created_at": "2025-07-26T02:54:43Z",
+    "aiHeadline": "CCTV footage captures earthquake fault in motion, proving that even the Earth itself is just a giant camera-ready prop waiting for its close-up."
   },
   {
-    "title": "Do not download the app, use the website",
-    "url": "https://idiallo.com/blog/dont-download-apps",
-    "points": 321,
-    "num_comments": 217,
+    "title": "How We Rooted Copilot",
+    "url": "https://research.eye.security/how-we-rooted-copilot/",
+    "points": 242,
+    "num_comments": 101,
     "tags": [
       "story",
-      "author_foxfired",
-      "story_44689059",
+      "author_uponasmile",
+      "story_44695098",
       "front_page"
     ],
-    "author": "foxfired",
-    "created_at": "2025-07-25T22:07:09Z",
-    "aiHeadline": "Downloading apps? Please, use the website instead—because who needs convenience when you can have a browser window that won't close on its own?"
+    "author": "uponasmile",
+    "created_at": "2025-07-26T16:06:09Z",
+    "aiHeadline": "Researchers successfully rooted Copilot, demonstrating once again that no AI is safe from humans who really, really want to break things."
   },
   {
-    "title": "Women dating safety app 'Tea' breached, users' IDs posted to 4chan",
-    "url": "https://www.404media.co/women-dating-safety-app-tea-breached-users-ids-posted-to-4chan/",
-    "points": 312,
-    "num_comments": 445,
+    "title": "Test Results for AMD Zen 5",
+    "url": "https://www.agner.org/forum/viewtopic.php?t=287&start=10",
+    "points": 198,
+    "num_comments": 37,
     "tags": [
       "story",
-      "author_gloxkiqcza",
-      "story_44684373",
+      "author_matt_d",
+      "story_44696167",
       "front_page"
     ],
-    "author": "gloxkiqcza",
-    "created_at": "2025-07-25T15:36:52Z",
-    "aiHeadline": "Women's dating safety app 'Tea' breached, users' IDs posted to 4chan—because nothing says 'safe' like having your info leaked to a place known for anonymity."
+    "author": "matt_d",
+    "created_at": "2025-07-26T18:44:57Z",
+    "aiHeadline": "AMD Zen 5 test results reveal groundbreaking performance improvements, because apparently we all need our gaming PCs to be just a tiny bit more overpowered."
   },
   {
-    "title": "Show HN: Price Per Token – LLM API Pricing Data",
-    "url": "https://pricepertoken.com/",
-    "points": 286,
-    "num_comments": 118,
+    "title": "Ageing accelerates around age 50 ― some organs faster than others",
+    "url": "https://www.nature.com/articles/d41586-025-02333-z",
+    "points": 180,
+    "num_comments": 114,
     "tags": [
       "story",
-      "author_alexellman",
-      "story_44682465",
-      "show_hn",
-      "front_page"
+      "author_rntn",
+      "story_44695190"
     ],
-    "author": "alexellman",
-    "created_at": "2025-07-25T12:39:41Z",
-    "aiHeadline": "Price Per Token – LLM API Pricing Data: Because who doesn't want to know exactly how much it costs to make a computer sound like a human, but only if you're a millionaire."
+    "author": "rntn",
+    "created_at": "2025-07-26T16:19:11Z",
+    "aiHeadline": "Ageing accelerates around age 50, with some organs taking the lead in the race to remind you that midlife is not just a crisis—it's a full-body revolt."
   }
 ]
