@@ -1,76 +1,76 @@
 [
   {
-    "title": "Rust running on every GPU",
-    "url": "https://rust-gpu.github.io/blog/2025/07/25/rust-on-every-gpu/",
-    "points": 479,
-    "num_comments": 161,
+    "title": "Performance and telemetry analysis of Trae IDE, ByteDance's VSCode fork",
+    "url": "https://github.com/segmentationf4u1t/trae_telemetry_research",
+    "points": 680,
+    "num_comments": 241,
     "tags": [
       "story",
-      "author_littlestymaar",
-      "story_44692876",
+      "author_segfault22",
+      "story_44703164",
       "front_page"
     ],
-    "author": "littlestymaar",
-    "created_at": "2025-07-26T10:08:09Z",
-    "aiHeadline": "Rust is now running on every GPU, because clearly the world needed another way to make graphics cards cry in silence."
+    "author": "segfault22",
+    "created_at": "2025-07-27T17:57:06Z",
+    "aiHeadline": "Trae IDE: Because ByteDance couldn't just use VSCode, they had to make their own version and then analyze how it's not worse."
   },
   {
-    "title": "CCTV footage captures video of an earthquake fault in motion",
-    "url": "https://www.smithsonianmag.com/smart-news/cctv-footage-captures-the-first-ever-video-of-an-earthquake-fault-in-motion-shining-a-rare-light-on-seismic-dynamics-180987034/",
-    "points": 414,
-    "num_comments": 76,
+    "title": "Dumb Pipe",
+    "url": "https://www.dumbpipe.dev/",
+    "points": 583,
+    "num_comments": 127,
     "tags": [
       "story",
-      "author_chrononaut",
-      "story_44690911",
+      "author_udev4096",
+      "story_44701555",
       "front_page"
     ],
-    "author": "chrononaut",
-    "created_at": "2025-07-26T02:54:43Z",
-    "aiHeadline": "CCTV footage captures earthquake fault in motion, proving that even the Earth itself is just a giant camera-ready prop waiting for its close-up."
+    "author": "udev4096",
+    "created_at": "2025-07-27T14:25:47Z",
+    "aiHeadline": "Dumb Pipe: The ultimate tool for when you just want to be a conduit of nonsense."
   },
   {
-    "title": "How We Rooted Copilot",
-    "url": "https://research.eye.security/how-we-rooted-copilot/",
-    "points": 242,
-    "num_comments": 101,
+    "title": "Tom Lehrer has died",
+    "url": "https://www.nytimes.com/2025/07/27/arts/music/tom-lehrer-dead.html",
+    "points": 457,
+    "num_comments": 83,
     "tags": [
       "story",
-      "author_uponasmile",
-      "story_44695098",
+      "author_detaro",
+      "story_44702782",
       "front_page"
     ],
-    "author": "uponasmile",
-    "created_at": "2025-07-26T16:06:09Z",
-    "aiHeadline": "Researchers successfully rooted Copilot, demonstrating once again that no AI is safe from humans who really, really want to break things."
+    "author": "detaro",
+    "created_at": "2025-07-27T17:13:25Z",
+    "aiHeadline": "Tom Lehrer, the man who made learning about nuclear proliferation fun, has passed away."
   },
   {
-    "title": "Test Results for AMD Zen 5",
-    "url": "https://www.agner.org/forum/viewtopic.php?t=287&start=10",
-    "points": 198,
-    "num_comments": 37,
+    "title": "When we get Komooted",
+    "url": "https://bikepacking.com/plog/when-we-get-komooted/",
+    "points": 422,
+    "num_comments": 226,
     "tags": [
       "story",
-      "author_matt_d",
-      "story_44696167",
+      "author_atakan_gurkan",
+      "story_44699421"
+    ],
+    "author": "atakan_gurkan",
+    "created_at": "2025-07-27T07:07:09Z",
+    "aiHeadline": "When you Komoot: Because getting lost is the new adventure."
+  },
+  {
+    "title": "4k NASA employees opt to leave agency through deferred resignation program",
+    "url": "https://www.kcrw.com/news/shows/npr/npr-story/nx-s1-5481304",
+    "points": 411,
+    "num_comments": 512,
+    "tags": [
+      "story",
+      "author_ProAm",
+      "story_44699052",
       "front_page"
     ],
-    "author": "matt_d",
-    "created_at": "2025-07-26T18:44:57Z",
-    "aiHeadline": "AMD Zen 5 test results reveal groundbreaking performance improvements, because apparently we all need our gaming PCs to be just a tiny bit more overpowered."
-  },
-  {
-    "title": "Ageing accelerates around age 50 ― some organs faster than others",
-    "url": "https://www.nature.com/articles/d41586-025-02333-z",
-    "points": 180,
-    "num_comments": 114,
-    "tags": [
-      "story",
-      "author_rntn",
-      "story_44695190"
-    ],
-    "author": "rntn",
-    "created_at": "2025-07-26T16:19:11Z",
-    "aiHeadline": "Ageing accelerates around age 50, with some organs taking the lead in the race to remind you that midlife is not just a crisis—it's a full-body revolt."
+    "author": "ProAm",
+    "created_at": "2025-07-27T05:17:03Z",
+    "aiHeadline": "NASA Employees Flee: Because who wants to be around when the agency finally orbits the drain?"
   }
 ]
