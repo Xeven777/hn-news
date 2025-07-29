@@ -1,76 +1,76 @@
 [
   {
-    "title": "Performance and telemetry analysis of Trae IDE, ByteDance's VSCode fork",
-    "url": "https://github.com/segmentationf4u1t/trae_telemetry_research",
-    "points": 680,
-    "num_comments": 241,
+    "title": "VPN use surges in UK as new online safety rules kick in",
+    "url": "https://www.ft.com/content/356674b0-9f1d-4f95-b1d5-f27570379a9b",
+    "points": 604,
+    "num_comments": 909,
     "tags": [
       "story",
-      "author_segfault22",
-      "story_44703164",
-      "front_page"
+      "author_mmarian",
+      "story_44706653"
     ],
-    "author": "segfault22",
-    "created_at": "2025-07-27T17:57:06Z",
-    "aiHeadline": "Trae IDE: Because ByteDance couldn't just use VSCode, they had to make their own version and then analyze how it's not worse."
+    "author": "mmarian",
+    "created_at": "2025-07-28T02:33:04Z",
+    "aiHeadline": "UK citizens scramble to hide their digital footprints as government's new 'safety' measures prove more intrusive than expected."
   },
   {
-    "title": "Dumb Pipe",
-    "url": "https://www.dumbpipe.dev/",
-    "points": 583,
-    "num_comments": 127,
+    "title": "Copyparty – Turn almost any device into a file server",
+    "url": "https://github.com/9001/copyparty",
+    "points": 544,
+    "num_comments": 94,
     "tags": [
       "story",
-      "author_udev4096",
-      "story_44701555",
+      "author_saint11",
+      "story_44711519",
       "front_page"
     ],
-    "author": "udev4096",
-    "created_at": "2025-07-27T14:25:47Z",
-    "aiHeadline": "Dumb Pipe: The ultimate tool for when you just want to be a conduit of nonsense."
+    "author": "saint11",
+    "created_at": "2025-07-28T14:57:55Z",
+    "aiHeadline": "Transform your devices into file-sharing fiends with Copyparty, because who doesn't want a LAN party in their living room?"
   },
   {
-    "title": "Tom Lehrer has died",
-    "url": "https://www.nytimes.com/2025/07/27/arts/music/tom-lehrer-dead.html",
-    "points": 457,
-    "num_comments": 83,
+    "title": "‘I witnessed war crimes’ in Gaza – former worker at GHF aid site [video]",
+    "url": "https://www.bbc.com/news/videos/cy8k8045nx9o",
+    "points": 488,
+    "num_comments": 393,
     "tags": [
       "story",
-      "author_detaro",
-      "story_44702782",
+      "author_nathanyz",
+      "story_44714221",
       "front_page"
     ],
-    "author": "detaro",
-    "created_at": "2025-07-27T17:13:25Z",
-    "aiHeadline": "Tom Lehrer, the man who made learning about nuclear proliferation fun, has passed away."
+    "author": "nathanyz",
+    "created_at": "2025-07-28T19:05:41Z",
+    "aiHeadline": "Former aid worker speaks out: 'I saw things that made me question humanity' – but don't worry, the video is just 10 minutes long."
   },
   {
-    "title": "When we get Komooted",
-    "url": "https://bikepacking.com/plog/when-we-get-komooted/",
-    "points": 422,
-    "num_comments": 226,
+    "title": "Visa and Mastercard are getting overwhelmed by gamer fury over censorship",
+    "url": "https://www.polygon.com/news/616835/visa-mastercard-steam-itchio-campaign-adult-games",
+    "points": 484,
+    "num_comments": 466,
     "tags": [
       "story",
-      "author_atakan_gurkan",
-      "story_44699421"
+      "author_mrzool",
+      "story_44713414"
     ],
-    "author": "atakan_gurkan",
-    "created_at": "2025-07-27T07:07:09Z",
-    "aiHeadline": "When you Komoot: Because getting lost is the new adventure."
+    "author": "mrzool",
+    "created_at": "2025-07-28T17:53:52Z",
+    "aiHeadline": "Gamers unleash fury on Visa and Mastercard, proving that when you mess with their games, you mess with their passion – and their wallets."
   },
   {
-    "title": "4k NASA employees opt to leave agency through deferred resignation program",
-    "url": "https://www.kcrw.com/news/shows/npr/npr-story/nx-s1-5481304",
-    "points": 411,
-    "num_comments": 512,
+    "title": "Show HN: Use Their ID – Use Your Local UK MP's ID for the Online Safety Act",
+    "url": "https://use-their-id.com/",
+    "points": 471,
+    "num_comments": 114,
     "tags": [
       "story",
-      "author_ProAm",
-      "story_44699052",
+      "author_timje1",
+      "story_44716106",
+      "show_hn",
       "front_page"
     ],
-    "author": "ProAm",
-    "created_at": "2025-07-27T05:17:03Z",
-    "aiHeadline": "NASA Employees Flee: Because who wants to be around when the agency finally orbits the drain?"
+    "author": "timje1",
+    "created_at": "2025-07-28T21:49:10Z",
+    "aiHeadline": "UK residents find creative use for their MPs' IDs: bypassing online safety laws, because who needs their own ID when you've got your elected officials'?"
   }
 ]
