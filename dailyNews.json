@@ -1,76 +1,75 @@
 [
   {
-    "title": "VPN use surges in UK as new online safety rules kick in",
-    "url": "https://www.ft.com/content/356674b0-9f1d-4f95-b1d5-f27570379a9b",
-    "points": 604,
-    "num_comments": 909,
+    "title": "Study mode",
+    "url": "https://openai.com/index/chatgpt-study-mode/",
+    "points": 711,
+    "num_comments": 492,
     "tags": [
       "story",
-      "author_mmarian",
-      "story_44706653"
-    ],
-    "author": "mmarian",
-    "created_at": "2025-07-28T02:33:04Z",
-    "aiHeadline": "UK citizens scramble to hide their digital footprints as government's new 'safety' measures prove more intrusive than expected."
-  },
-  {
-    "title": "Copyparty – Turn almost any device into a file server",
-    "url": "https://github.com/9001/copyparty",
-    "points": 544,
-    "num_comments": 94,
-    "tags": [
-      "story",
-      "author_saint11",
-      "story_44711519",
+      "author_meetpateltech",
+      "story_44725764",
       "front_page"
     ],
-    "author": "saint11",
-    "created_at": "2025-07-28T14:57:55Z",
-    "aiHeadline": "Transform your devices into file-sharing fiends with Copyparty, because who doesn't want a LAN party in their living room?"
+    "author": "meetpateltech",
+    "created_at": "2025-07-29T17:01:14Z",
+    "aiHeadline": "OpenAI Launches 'Study Mode' for ChatGPT, Because Apparently, Even AI Needs to Cram for Exams"
   },
   {
-    "title": "‘I witnessed war crimes’ in Gaza – former worker at GHF aid site [video]",
-    "url": "https://www.bbc.com/news/videos/cy8k8045nx9o",
-    "points": 488,
-    "num_comments": 393,
+    "title": "My 2.5 year old laptop can write Space Invaders in JavaScript now (GLM-4.5 Air)",
+    "url": "https://simonwillison.net/2025/Jul/29/space-invaders/",
+    "points": 450,
+    "num_comments": 318,
     "tags": [
       "story",
-      "author_nathanyz",
-      "story_44714221",
+      "author_simonw",
+      "story_44723316",
       "front_page"
     ],
-    "author": "nathanyz",
-    "created_at": "2025-07-28T19:05:41Z",
-    "aiHeadline": "Former aid worker speaks out: 'I saw things that made me question humanity' – but don't worry, the video is just 10 minutes long."
+    "author": "simonw",
+    "created_at": "2025-07-29T13:45:07Z",
+    "aiHeadline": "My 2.5-Year-Old Laptop Can Now Write Space Invaders in JavaScript, Proving That Old Tech Is Basically Immortal"
   },
   {
-    "title": "Visa and Mastercard are getting overwhelmed by gamer fury over censorship",
-    "url": "https://www.polygon.com/news/616835/visa-mastercard-steam-itchio-campaign-adult-games",
-    "points": 484,
-    "num_comments": 466,
+    "title": "Wikimedia Foundation Challenges UK Online Safety Act Regulations",
+    "url": "https://wikimediafoundation.org/news/2025/07/17/wikimedia-foundation-challenges-uk-online-safety-act-regulations/",
+    "points": 352,
+    "num_comments": 171,
     "tags": [
       "story",
-      "author_mrzool",
-      "story_44713414"
+      "author_Nurw",
+      "story_44721403"
     ],
-    "author": "mrzool",
-    "created_at": "2025-07-28T17:53:52Z",
-    "aiHeadline": "Gamers unleash fury on Visa and Mastercard, proving that when you mess with their games, you mess with their passion – and their wallets."
+    "author": "Nurw",
+    "created_at": "2025-07-29T10:12:29Z",
+    "aiHeadline": "Wikimedia Foundation Battles UK Online Safety Act, Because Apparently, Someone Thinks They Can Tell Wikipedia What to Do"
   },
   {
-    "title": "Show HN: Use Their ID – Use Your Local UK MP's ID for the Online Safety Act",
-    "url": "https://use-their-id.com/",
-    "points": 471,
-    "num_comments": 114,
+    "title": "Stop selling “unlimited”, when you mean “until we change our minds”",
+    "url": "https://blog.kilocode.ai/p/ai-pricing-playbook-strikes-again",
+    "points": 344,
+    "num_comments": 317,
     "tags": [
       "story",
-      "author_timje1",
-      "story_44716106",
-      "show_hn",
+      "author_heymax054",
+      "story_44721003"
+    ],
+    "author": "heymax054",
+    "created_at": "2025-07-29T09:15:19Z",
+    "aiHeadline": "Tech Companies Learn the Hard Way: 'Unlimited' Is a Lie, and Everyone Knows It"
+  },
+  {
+    "title": "Irrelevant facts about cats added to math problems increase LLM errors by 300%",
+    "url": "https://www.science.org/content/article/scienceadviser-cats-confuse-ai",
+    "points": 304,
+    "num_comments": 149,
+    "tags": [
+      "story",
+      "author_sxv",
+      "story_44724238",
       "front_page"
     ],
-    "author": "timje1",
-    "created_at": "2025-07-28T21:49:10Z",
-    "aiHeadline": "UK residents find creative use for their MPs' IDs: bypassing online safety laws, because who needs their own ID when you've got your elected officials'?"
+    "author": "sxv",
+    "created_at": "2025-07-29T14:59:18Z",
+    "aiHeadline": "Scientists Discover That Adding Irrelevant Cat Facts to Math Problems Makes AI 300% Dumber, Which Is Surprisingly Logical"
   }
 ]
