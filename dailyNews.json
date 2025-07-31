@@ -1,75 +1,74 @@
 [
   {
-    "title": "Study mode",
-    "url": "https://openai.com/index/chatgpt-study-mode/",
-    "points": 711,
-    "num_comments": 492,
+    "title": "Fast",
+    "url": "https://www.catherinejue.com/fast",
+    "points": 807,
+    "num_comments": 248,
     "tags": [
       "story",
-      "author_meetpateltech",
-      "story_44725764",
+      "author_gaplong",
+      "story_44736967",
       "front_page"
     ],
-    "author": "meetpateltech",
-    "created_at": "2025-07-29T17:01:14Z",
-    "aiHeadline": "OpenAI Launches 'Study Mode' for ChatGPT, Because Apparently, Even AI Needs to Cram for Exams"
+    "author": "gaplong",
+    "created_at": "2025-07-30T17:21:17Z",
+    "aiHeadline": "Catherine Jue's 'Fast' website is so blazingly quick, it might just make you question the purpose of your own existence while waiting for your slow website to load."
   },
   {
-    "title": "My 2.5 year old laptop can write Space Invaders in JavaScript now (GLM-4.5 Air)",
-    "url": "https://simonwillison.net/2025/Jul/29/space-invaders/",
-    "points": 450,
-    "num_comments": 318,
+    "title": "‘No Other Land’ consultant Awdah Hathaleen killed by Israeli settler",
+    "url": "https://www.latimes.com/entertainment-arts/story/2025-07-29/awdah-hathaleen-killed-no-other-land-palestinian-activist-israeli-settler",
+    "points": 664,
+    "num_comments": 636,
     "tags": [
       "story",
-      "author_simonw",
-      "story_44723316",
+      "author__shadi",
+      "story_44731958"
+    ],
+    "author": "_shadi",
+    "created_at": "2025-07-30T08:19:46Z",
+    "aiHeadline": "Palestinian activist Awdah Hathaleen, who consulted on 'No Other Land,' was tragically killed by an Israeli settler, proving once again that the Middle East is a region where everyone wins except for the people who get killed."
+  },
+  {
+    "title": "Our $100M Series B",
+    "url": "https://oxide.computer/blog/our-100m-series-b",
+    "points": 622,
+    "num_comments": 424,
+    "tags": [
+      "story",
+      "author_spatulon",
+      "story_44733817",
       "front_page"
     ],
-    "author": "simonw",
-    "created_at": "2025-07-29T13:45:07Z",
-    "aiHeadline": "My 2.5-Year-Old Laptop Can Now Write Space Invaders in JavaScript, Proving That Old Tech Is Basically Immortal"
+    "author": "spatulon",
+    "created_at": "2025-07-30T13:17:28Z",
+    "aiHeadline": "Oxide Computer raises a whopping $100 million in Series B funding, which is great news for everyone except the people who didn't invest, because now they'll just have to deal with the guilt of not being millionaires too."
   },
   {
-    "title": "Wikimedia Foundation Challenges UK Online Safety Act Regulations",
-    "url": "https://wikimediafoundation.org/news/2025/07/17/wikimedia-foundation-challenges-uk-online-safety-act-regulations/",
-    "points": 352,
-    "num_comments": 171,
+    "title": "Sleep all comes down to the mitochondria",
+    "url": "https://www.science.org/content/blog-post/it-all-comes-down-mitochondria",
+    "points": 563,
+    "num_comments": 271,
     "tags": [
       "story",
-      "author_Nurw",
-      "story_44721403"
+      "author_A_D_E_P_T",
+      "story_44732020"
     ],
-    "author": "Nurw",
-    "created_at": "2025-07-29T10:12:29Z",
-    "aiHeadline": "Wikimedia Foundation Battles UK Online Safety Act, Because Apparently, Someone Thinks They Can Tell Wikipedia What to Do"
+    "author": "A_D_E_P_T",
+    "created_at": "2025-07-30T08:34:10Z",
+    "aiHeadline": "Scientists discover that sleep all comes down to the mitochondria, which is a relief because now we can finally stop blaming ourselves for our inability to get a good night's sleep and instead blame tiny organelles in our cells."
   },
   {
-    "title": "Stop selling “unlimited”, when you mean “until we change our minds”",
-    "url": "https://blog.kilocode.ai/p/ai-pricing-playbook-strikes-again",
-    "points": 344,
-    "num_comments": 317,
+    "title": "Try the Mosquito Bucket of Death",
+    "url": "https://www.energyvanguard.com/blog/try-the-mosquito-bucket-of-death/",
+    "points": 353,
+    "num_comments": 276,
     "tags": [
       "story",
-      "author_heymax054",
-      "story_44721003"
+      "author_almuhalil",
+      "story_44733888"
     ],
-    "author": "heymax054",
-    "created_at": "2025-07-29T09:15:19Z",
-    "aiHeadline": "Tech Companies Learn the Hard Way: 'Unlimited' Is a Lie, and Everyone Knows It"
-  },
-  {
-    "title": "Irrelevant facts about cats added to math problems increase LLM errors by 300%",
-    "url": "https://www.science.org/content/article/scienceadviser-cats-confuse-ai",
-    "points": 304,
-    "num_comments": 149,
-    "tags": [
-      "story",
-      "author_sxv",
-      "story_44724238",
-      "front_page"
-    ],
-    "author": "sxv",
-    "created_at": "2025-07-29T14:59:18Z",
-    "aiHeadline": "Scientists Discover That Adding Irrelevant Cat Facts to Math Problems Makes AI 300% Dumber, Which Is Surprisingly Logical"
+    "author": "almuhalil",
+    "created_at": "2025-07-30T13:24:10Z",
+    "aiHeadline": "Energy Vanguard challenges you to 'Try the Mosquito Bucket of Death,' which sounds like a fun and exciting way to deal with mosquitoes, unless you're a mosquito, in which case it sounds like a nightmare."
   }
 ]
