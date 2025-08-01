@@ -1,74 +1,76 @@
 [
   {
-    "title": "Fast",
-    "url": "https://www.catherinejue.com/fast",
-    "points": 807,
-    "num_comments": 248,
+    "title": "Slow",
+    "url": "https://michaelnotebook.com/slow/index.html",
+    "points": 534,
+    "num_comments": 131,
     "tags": [
       "story",
-      "author_gaplong",
-      "story_44736967",
+      "author_calvinfo",
+      "story_44748934",
       "front_page"
     ],
-    "author": "gaplong",
-    "created_at": "2025-07-30T17:21:17Z",
-    "aiHeadline": "Catherine Jue's 'Fast' website is so blazingly quick, it might just make you question the purpose of your own existence while waiting for your slow website to load."
+    "author": "calvinfo",
+    "created_at": "2025-07-31T19:00:58Z",
+    "aiHeadline": "Why did the turtle cross the road? Because it's the slowest thing on Hacker News, clocking in at 534 points and 131 comments."
   },
   {
-    "title": "‘No Other Land’ consultant Awdah Hathaleen killed by Israeli settler",
-    "url": "https://www.latimes.com/entertainment-arts/story/2025-07-29/awdah-hathaleen-killed-no-other-land-palestinian-activist-israeli-settler",
-    "points": 664,
-    "num_comments": 636,
+    "title": "How was the Universal Pictures 1936 opening logo created?",
+    "url": "https://movies.stackexchange.com/questions/128020/how-was-the-universal-pictures-1936-opening-logo-created",
+    "points": 464,
+    "num_comments": 66,
     "tags": [
       "story",
-      "author__shadi",
-      "story_44731958"
-    ],
-    "author": "_shadi",
-    "created_at": "2025-07-30T08:19:46Z",
-    "aiHeadline": "Palestinian activist Awdah Hathaleen, who consulted on 'No Other Land,' was tragically killed by an Israeli settler, proving once again that the Middle East is a region where everyone wins except for the people who get killed."
-  },
-  {
-    "title": "Our $100M Series B",
-    "url": "https://oxide.computer/blog/our-100m-series-b",
-    "points": 622,
-    "num_comments": 424,
-    "tags": [
-      "story",
-      "author_spatulon",
-      "story_44733817",
+      "author_azeemba",
+      "story_44744454",
       "front_page"
     ],
-    "author": "spatulon",
-    "created_at": "2025-07-30T13:17:28Z",
-    "aiHeadline": "Oxide Computer raises a whopping $100 million in Series B funding, which is great news for everyone except the people who didn't invest, because now they'll just have to deal with the guilt of not being millionaires too."
+    "author": "azeemba",
+    "created_at": "2025-07-31T11:19:54Z",
+    "aiHeadline": "From celluloid to pixels: How the 1936 Universal logo was created, because apparently, even old logos need 464 points of validation."
   },
   {
-    "title": "Sleep all comes down to the mitochondria",
-    "url": "https://www.science.org/content/blog-post/it-all-comes-down-mitochondria",
-    "points": 563,
-    "num_comments": 271,
+    "title": "I tried Servo",
+    "url": "https://www.spacebar.news/servo-undercover-web-browser-engine/",
+    "points": 326,
+    "num_comments": 216,
     "tags": [
       "story",
-      "author_A_D_E_P_T",
-      "story_44732020"
+      "author_robtherobber",
+      "story_44744324",
+      "front_page"
     ],
-    "author": "A_D_E_P_T",
-    "created_at": "2025-07-30T08:34:10Z",
-    "aiHeadline": "Scientists discover that sleep all comes down to the mitochondria, which is a relief because now we can finally stop blaming ourselves for our inability to get a good night's sleep and instead blame tiny organelles in our cells."
+    "author": "robtherobber",
+    "created_at": "2025-07-31T10:56:21Z",
+    "aiHeadline": "I tried Servo: A web browser engine that's so cutting-edge, it makes your browser feel like it's running on molasses, earning 326 points and 216 confused comments."
   },
   {
-    "title": "Try the Mosquito Bucket of Death",
-    "url": "https://www.energyvanguard.com/blog/try-the-mosquito-bucket-of-death/",
-    "points": 353,
-    "num_comments": 276,
+    "title": "I know when you're vibe coding",
+    "url": "https://alexkondov.com/i-know-when-youre-vibe-coding/",
+    "points": 326,
+    "num_comments": 160,
     "tags": [
       "story",
-      "author_almuhalil",
-      "story_44733888"
+      "author_thunderbong",
+      "story_44742251"
     ],
-    "author": "almuhalil",
-    "created_at": "2025-07-30T13:24:10Z",
-    "aiHeadline": "Energy Vanguard challenges you to 'Try the Mosquito Bucket of Death,' which sounds like a fun and exciting way to deal with mosquitoes, unless you're a mosquito, in which case it sounds like a nightmare."
+    "author": "thunderbong",
+    "created_at": "2025-07-31T04:16:40Z",
+    "aiHeadline": "I know when you're vibe coding: Because the codebase looks like it was written by a caffeinated sloth, earning 326 points and 160 confused stares."
+  },
+  {
+    "title": "MacBook Pro Insomnia",
+    "url": "https://manuel.bernhardt.io/posts/2025-07-24-macbook-pro-insomnia",
+    "points": 315,
+    "num_comments": 157,
+    "tags": [
+      "story",
+      "author_speckx",
+      "story_44745897",
+      "front_page"
+    ],
+    "author": "speckx",
+    "created_at": "2025-07-31T14:16:07Z",
+    "aiHeadline": "MacBook Pro Insomnia: When your laptop stays up all night, but you're still too tired to care, earning 315 points and 157 sympathetic nods."
   }
 ]
