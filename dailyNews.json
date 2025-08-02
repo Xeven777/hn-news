@@ -1,76 +1,73 @@
 [
   {
-    "title": "Slow",
-    "url": "https://michaelnotebook.com/slow/index.html",
-    "points": 534,
-    "num_comments": 131,
+    "title": "Corporation for Public Broadcasting ceasing operations",
+    "url": "https://cpb.org/pressroom/Corporation-Public-Broadcasting-Addresses-Operations-Following-Loss-Federal-Funding",
+    "points": 537,
+    "num_comments": 499,
     "tags": [
       "story",
-      "author_calvinfo",
-      "story_44748934",
-      "front_page"
+      "author_coloneltcb",
+      "story_44759382"
     ],
-    "author": "calvinfo",
-    "created_at": "2025-07-31T19:00:58Z",
-    "aiHeadline": "Why did the turtle cross the road? Because it's the slowest thing on Hacker News, clocking in at 534 points and 131 comments."
+    "author": "coloneltcb",
+    "created_at": "2025-08-01T16:56:40Z",
+    "aiHeadline": "Corporation for Public Broadcasting shuts down operations, proving that sometimes, silence is the loudest statement."
   },
   {
-    "title": "How was the Universal Pictures 1936 opening logo created?",
-    "url": "https://movies.stackexchange.com/questions/128020/how-was-the-universal-pictures-1936-opening-logo-created",
-    "points": 464,
-    "num_comments": 66,
+    "title": "Live coding interviews measure stress, not coding skills",
+    "url": "https://hadid.dev/posts/living-coding/",
+    "points": 452,
+    "num_comments": 462,
     "tags": [
       "story",
-      "author_azeemba",
-      "story_44744454",
-      "front_page"
+      "author_mustaphah",
+      "story_44756045"
     ],
-    "author": "azeemba",
-    "created_at": "2025-07-31T11:19:54Z",
-    "aiHeadline": "From celluloid to pixels: How the 1936 Universal logo was created, because apparently, even old logos need 464 points of validation."
+    "author": "mustaphah",
+    "created_at": "2025-08-01T12:51:38Z",
+    "aiHeadline": "Live coding interviews: because nothing says 'I'm hiring the right person' like watching them panic in real-time."
   },
   {
-    "title": "I tried Servo",
-    "url": "https://www.spacebar.news/servo-undercover-web-browser-engine/",
-    "points": 326,
-    "num_comments": 216,
+    "title": "Gemini 2.5 Deep Think",
+    "url": "https://blog.google/products/gemini/gemini-2-5-deep-think/",
+    "points": 404,
+    "num_comments": 204,
     "tags": [
       "story",
-      "author_robtherobber",
-      "story_44744324",
+      "author_meetpateltech",
+      "story_44755279",
       "front_page"
     ],
-    "author": "robtherobber",
-    "created_at": "2025-07-31T10:56:21Z",
-    "aiHeadline": "I tried Servo: A web browser engine that's so cutting-edge, it makes your browser feel like it's running on molasses, earning 326 points and 216 confused comments."
+    "author": "meetpateltech",
+    "created_at": "2025-08-01T11:10:38Z",
+    "aiHeadline": "Gemini 2.5 Deep Think: because sometimes, thinking too deep just makes you more confused."
   },
   {
-    "title": "I know when you're vibe coding",
-    "url": "https://alexkondov.com/i-know-when-youre-vibe-coding/",
-    "points": 326,
-    "num_comments": 160,
+    "title": "The untold impact of cancellation",
+    "url": "https://pretty.direct/impact",
+    "points": 308,
+    "num_comments": 362,
     "tags": [
       "story",
-      "author_thunderbong",
-      "story_44742251"
+      "author_cbeach",
+      "story_44755644"
     ],
-    "author": "thunderbong",
-    "created_at": "2025-07-31T04:16:40Z",
-    "aiHeadline": "I know when you're vibe coding: Because the codebase looks like it was written by a caffeinated sloth, earning 326 points and 160 confused stares."
+    "author": "cbeach",
+    "created_at": "2025-08-01T12:12:04Z",
+    "aiHeadline": "The untold impact of cancellation: because who doesn't love a good witch hunt?"
   },
   {
-    "title": "MacBook Pro Insomnia",
-    "url": "https://manuel.bernhardt.io/posts/2025-07-24-macbook-pro-insomnia",
-    "points": 315,
-    "num_comments": 157,
+    "title": "Every satellite orbiting earth and who owns them (2023)",
+    "url": "https://dewesoft.com/blog/every-satellite-orbiting-earth-and-who-owns-them",
+    "points": 250,
+    "num_comments": 108,
     "tags": [
       "story",
-      "author_speckx",
-      "story_44745897",
-      "front_page"
+      "author_jonbaer",
+      "story_44753298"
     ],
-    "author": "speckx",
-    "created_at": "2025-07-31T14:16:07Z",
-    "aiHeadline": "MacBook Pro Insomnia: When your laptop stays up all night, but you're still too tired to care, earning 315 points and 157 sympathetic nods."
+    "author": "jonbaer",
+    "created_at": "2025-08-01T05:31:20Z",
+    "aiHeadline": "Every satellite orbiting Earth and who owns them: because space is just one big real estate market now."
   }
 ]
