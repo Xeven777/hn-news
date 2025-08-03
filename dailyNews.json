@@ -1,73 +1,74 @@
 [
   {
-    "title": "Corporation for Public Broadcasting ceasing operations",
-    "url": "https://cpb.org/pressroom/Corporation-Public-Broadcasting-Addresses-Operations-Following-Loss-Federal-Funding",
-    "points": 537,
-    "num_comments": 499,
+    "title": "Telo MT1",
+    "url": "https://www.telotrucks.com/",
+    "points": 414,
+    "num_comments": 395,
     "tags": [
       "story",
-      "author_coloneltcb",
-      "story_44759382"
-    ],
-    "author": "coloneltcb",
-    "created_at": "2025-08-01T16:56:40Z",
-    "aiHeadline": "Corporation for Public Broadcasting shuts down operations, proving that sometimes, silence is the loudest statement."
-  },
-  {
-    "title": "Live coding interviews measure stress, not coding skills",
-    "url": "https://hadid.dev/posts/living-coding/",
-    "points": 452,
-    "num_comments": 462,
-    "tags": [
-      "story",
-      "author_mustaphah",
-      "story_44756045"
-    ],
-    "author": "mustaphah",
-    "created_at": "2025-08-01T12:51:38Z",
-    "aiHeadline": "Live coding interviews: because nothing says 'I'm hiring the right person' like watching them panic in real-time."
-  },
-  {
-    "title": "Gemini 2.5 Deep Think",
-    "url": "https://blog.google/products/gemini/gemini-2-5-deep-think/",
-    "points": 404,
-    "num_comments": 204,
-    "tags": [
-      "story",
-      "author_meetpateltech",
-      "story_44755279",
+      "author_turtleyacht",
+      "story_44769039",
       "front_page"
     ],
-    "author": "meetpateltech",
-    "created_at": "2025-08-01T11:10:38Z",
-    "aiHeadline": "Gemini 2.5 Deep Think: because sometimes, thinking too deep just makes you more confused."
+    "author": "turtleyacht",
+    "created_at": "2025-08-02T16:40:51Z",
+    "aiHeadline": "Telo MT1: The future of trucking, but only if you're willing to spend a small fortune on a vehicle that looks like it's straight out of a sci-fi movie."
   },
   {
-    "title": "The untold impact of cancellation",
-    "url": "https://pretty.direct/impact",
-    "points": 308,
-    "num_comments": 362,
+    "title": "This Month in Ladybird",
+    "url": "https://ladybird.org/newsletter/2025-07-31/",
+    "points": 407,
+    "num_comments": 138,
     "tags": [
       "story",
-      "author_cbeach",
-      "story_44755644"
+      "author_net01",
+      "story_44765292"
     ],
-    "author": "cbeach",
-    "created_at": "2025-08-01T12:12:04Z",
-    "aiHeadline": "The untold impact of cancellation: because who doesn't love a good witch hunt?"
+    "author": "net01",
+    "created_at": "2025-08-02T06:34:25Z",
+    "aiHeadline": "This Month in Ladybird: Because who needs world news when you can read about ladybugs and their tiny, insignificant adventures in the insect world?"
   },
   {
-    "title": "Every satellite orbiting earth and who owns them (2023)",
-    "url": "https://dewesoft.com/blog/every-satellite-orbiting-earth-and-who-owns-them",
-    "points": 250,
-    "num_comments": 108,
+    "title": "We may not like what we become if A.I. solves loneliness",
+    "url": "https://www.newyorker.com/magazine/2025/07/21/ai-is-about-to-solve-loneliness-thats-a-problem",
+    "points": 339,
+    "num_comments": 718,
     "tags": [
       "story",
-      "author_jonbaer",
-      "story_44753298"
+      "author_defo10",
+      "story_44766508",
+      "front_page"
     ],
-    "author": "jonbaer",
-    "created_at": "2025-08-01T05:31:20Z",
-    "aiHeadline": "Every satellite orbiting Earth and who owns them: because space is just one big real estate market now."
+    "author": "defo10",
+    "created_at": "2025-08-02T10:52:36Z",
+    "aiHeadline": "AI may solve loneliness, but at the cost of turning us all into emotionally dependent cyborgs who can't function without a digital companion to hold our virtual hands."
+  },
+  {
+    "title": "Terence Tao on the suspension of UCLA grants",
+    "url": "https://mathstodon.xyz/@tao/114956840959338146",
+    "points": 263,
+    "num_comments": 279,
+    "tags": [
+      "story",
+      "author_dargscisyhp",
+      "story_44765264"
+    ],
+    "author": "dargscisyhp",
+    "created_at": "2025-08-02T06:28:31Z",
+    "aiHeadline": "Terence Tao weighs in on UCLA grant suspensions: Because who better to explain the complexities of academic funding than the guy who probably invented math in his spare time."
+  },
+  {
+    "title": "Why Exercise Is a Miracle Drug",
+    "url": "https://www.derekthompson.org/p/the-sunday-morning-post-why-exercise",
+    "points": 236,
+    "num_comments": 209,
+    "tags": [
+      "story",
+      "author_zdw",
+      "story_44768704"
+    ],
+    "author": "zdw",
+    "created_at": "2025-08-02T16:02:16Z",
+    "aiHeadline": "Exercise is a miracle drug, but only if you can somehow muster the willpower to leave your couch, which, let's be honest, is a feat on par with landing on the moon."
   }
 ]
