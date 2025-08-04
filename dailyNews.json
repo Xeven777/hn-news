@@ -1,74 +1,77 @@
 [
   {
-    "title": "Telo MT1",
-    "url": "https://www.telotrucks.com/",
-    "points": 414,
-    "num_comments": 395,
+    "title": "If you're remote, ramble",
+    "url": "https://stephango.com/ramblings",
+    "points": 679,
+    "num_comments": 371,
     "tags": [
       "story",
-      "author_turtleyacht",
-      "story_44769039",
+      "author_lawgimenez",
+      "story_44775563",
       "front_page"
     ],
-    "author": "turtleyacht",
-    "created_at": "2025-08-02T16:40:51Z",
-    "aiHeadline": "Telo MT1: The future of trucking, but only if you're willing to spend a small fortune on a vehicle that looks like it's straight out of a sci-fi movie."
+    "author": "lawgimenez",
+    "created_at": "2025-08-03T10:32:51Z",
+    "aiHeadline": "If you're remote, ramble: A heartfelt ode to the art of procrastination, where every meeting is a productivity coma and every email chain is a existential crisis."
   },
   {
-    "title": "This Month in Ladybird",
-    "url": "https://ladybird.org/newsletter/2025-07-31/",
-    "points": 407,
-    "num_comments": 138,
+    "title": "Modern Node.js Patterns",
+    "url": "https://kashw1n.com/blog/nodejs-2025/",
+    "points": 362,
+    "num_comments": 158,
     "tags": [
       "story",
-      "author_net01",
-      "story_44765292"
-    ],
-    "author": "net01",
-    "created_at": "2025-08-02T06:34:25Z",
-    "aiHeadline": "This Month in Ladybird: Because who needs world news when you can read about ladybugs and their tiny, insignificant adventures in the insect world?"
-  },
-  {
-    "title": "We may not like what we become if A.I. solves loneliness",
-    "url": "https://www.newyorker.com/magazine/2025/07/21/ai-is-about-to-solve-loneliness-thats-a-problem",
-    "points": 339,
-    "num_comments": 718,
-    "tags": [
-      "story",
-      "author_defo10",
-      "story_44766508",
+      "author_eustoria",
+      "story_44778936",
       "front_page"
     ],
-    "author": "defo10",
-    "created_at": "2025-08-02T10:52:36Z",
-    "aiHeadline": "AI may solve loneliness, but at the cost of turning us all into emotionally dependent cyborgs who can't function without a digital companion to hold our virtual hands."
+    "author": "eustoria",
+    "created_at": "2025-08-03T19:16:18Z",
+    "aiHeadline": "Modern Node.js Patterns: Because nothing says 'cutting-edge' like rewriting the same code every six months to keep up with the ever-changing Zeitgeist of JavaScript."
   },
   {
-    "title": "Terence Tao on the suspension of UCLA grants",
-    "url": "https://mathstodon.xyz/@tao/114956840959338146",
-    "points": 263,
-    "num_comments": 279,
+    "title": "Twenty Eighth International Obfuscated C Code Contest",
+    "url": "https://www.ioccc.org/2024/index.html",
+    "points": 314,
+    "num_comments": 91,
     "tags": [
       "story",
-      "author_dargscisyhp",
-      "story_44765264"
+      "author_mdl_principle",
+      "story_44774104",
+      "front_page"
     ],
-    "author": "dargscisyhp",
-    "created_at": "2025-08-02T06:28:31Z",
-    "aiHeadline": "Terence Tao weighs in on UCLA grant suspensions: Because who better to explain the complexities of academic funding than the guy who probably invented math in his spare time."
+    "author": "mdl_principle",
+    "created_at": "2025-08-03T04:34:36Z",
+    "aiHeadline": "Twenty Eighth International Obfuscated C Code Contest: Where programmers prove that writing code no one can understand is still a thing, and the only thing more impressive than the code is the creativity in making it incomprehensible."
   },
   {
-    "title": "Why Exercise Is a Miracle Drug",
-    "url": "https://www.derekthompson.org/p/the-sunday-morning-post-why-exercise",
-    "points": 236,
-    "num_comments": 209,
+    "title": "Persona vectors: Monitoring and controlling character traits in language models",
+    "url": "https://www.anthropic.com/research/persona-vectors",
+    "points": 284,
+    "num_comments": 94,
     "tags": [
       "story",
-      "author_zdw",
-      "story_44768704"
+      "author_itchyjunk",
+      "story_44777760",
+      "front_page"
     ],
-    "author": "zdw",
-    "created_at": "2025-08-02T16:02:16Z",
-    "aiHeadline": "Exercise is a miracle drug, but only if you can somehow muster the willpower to leave your couch, which, let's be honest, is a feat on par with landing on the moon."
+    "author": "itchyjunk",
+    "created_at": "2025-08-03T16:38:06Z",
+    "aiHeadline": "Persona vectors: Monitoring and controlling character traits in language models: Because nothing says 'AI ethics' like creating algorithms that can micromanage your personality, one vector at a time."
+  },
+  {
+    "title": "UN report finds UN reports are not widely read",
+    "url": "https://www.reuters.com/world/un-report-finds-united-nations-reports-are-not-widely-read-2025-08-01/",
+    "points": 243,
+    "num_comments": 102,
+    "tags": [
+      "story",
+      "author_anjneymidha",
+      "story_44777869",
+      "front_page"
+    ],
+    "author": "anjneymidha",
+    "created_at": "2025-08-03T16:49:08Z",
+    "aiHeadline": "UN report finds UN reports are not widely read: A groundbreaking revelation that somehow manages to be both unsurprising and deeply concerning, proving that even the UN can't escape the irony of its own irrelevance."
   }
 ]
