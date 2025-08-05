@@ -1,77 +1,76 @@
 [
   {
-    "title": "If you're remote, ramble",
-    "url": "https://stephango.com/ramblings",
-    "points": 679,
-    "num_comments": 371,
+    "title": "Perplexity is using stealth, undeclared crawlers to evade no-crawl directives",
+    "url": "https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/",
+    "points": 960,
+    "num_comments": 541,
     "tags": [
       "story",
-      "author_lawgimenez",
-      "story_44775563",
+      "author_rrampage",
+      "story_44785636",
       "front_page"
     ],
-    "author": "lawgimenez",
-    "created_at": "2025-08-03T10:32:51Z",
-    "aiHeadline": "If you're remote, ramble: A heartfelt ode to the art of procrastination, where every meeting is a productivity coma and every email chain is a existential crisis."
+    "author": "rrampage",
+    "created_at": "2025-08-04T13:39:30Z",
+    "aiHeadline": "Perplexity: Because who needs to follow the rules when you can just sneak around like a ninja and ignore them entirely?"
   },
   {
-    "title": "Modern Node.js Patterns",
-    "url": "https://kashw1n.com/blog/nodejs-2025/",
-    "points": 362,
-    "num_comments": 158,
+    "title": "Show HN: I spent 6 years building a ridiculous wooden pixel display",
+    "url": "https://benholmen.com/blog/kilopixel/",
+    "points": 722,
+    "num_comments": 110,
     "tags": [
       "story",
-      "author_eustoria",
-      "story_44778936",
+      "author_benholmen",
+      "story_44787902",
+      "show_hn",
       "front_page"
     ],
-    "author": "eustoria",
-    "created_at": "2025-08-03T19:16:18Z",
-    "aiHeadline": "Modern Node.js Patterns: Because nothing says 'cutting-edge' like rewriting the same code every six months to keep up with the ever-changing Zeitgeist of JavaScript."
+    "author": "benholmen",
+    "created_at": "2025-08-04T16:16:21Z",
+    "aiHeadline": "Meet the guy who spent 6 years building a wooden pixel display because, clearly, there weren't enough screens in the world already."
   },
   {
-    "title": "Twenty Eighth International Obfuscated C Code Contest",
-    "url": "https://www.ioccc.org/2024/index.html",
-    "points": 314,
-    "num_comments": 91,
+    "title": "Mastercard deflects blame for NSFW games being taken down",
+    "url": "https://www.pcgamer.com/games/mastercard-deflects-blame-for-nsfw-games-being-taken-down-but-valve-says-payment-processors-specifically-cited-a-mastercard-rule-about-damaging-the-brand/",
+    "points": 532,
+    "num_comments": 527,
     "tags": [
       "story",
-      "author_mdl_principle",
-      "story_44774104",
-      "front_page"
+      "author_croes",
+      "story_44783566"
     ],
-    "author": "mdl_principle",
-    "created_at": "2025-08-03T04:34:36Z",
-    "aiHeadline": "Twenty Eighth International Obfuscated C Code Contest: Where programmers prove that writing code no one can understand is still a thing, and the only thing more impressive than the code is the creativity in making it incomprehensible."
+    "author": "croes",
+    "created_at": "2025-08-04T09:27:49Z",
+    "aiHeadline": "Mastercard: Because taking down NSFW games is exactly what we do best, right after processing your credit card payments."
   },
   {
-    "title": "Persona vectors: Monitoring and controlling character traits in language models",
-    "url": "https://www.anthropic.com/research/persona-vectors",
-    "points": 284,
-    "num_comments": 94,
+    "title": "Job-seekers are dodging AI interviewers",
+    "url": "https://fortune.com/2025/08/03/ai-interviewers-job-seekers-unemployment-hiring-hr-teams/",
+    "points": 519,
+    "num_comments": 769,
     "tags": [
       "story",
-      "author_itchyjunk",
-      "story_44777760",
+      "author_robtherobber",
+      "story_44783155",
       "front_page"
     ],
-    "author": "itchyjunk",
-    "created_at": "2025-08-03T16:38:06Z",
-    "aiHeadline": "Persona vectors: Monitoring and controlling character traits in language models: Because nothing says 'AI ethics' like creating algorithms that can micromanage your personality, one vector at a time."
+    "author": "robtherobber",
+    "created_at": "2025-08-04T08:04:20Z",
+    "aiHeadline": "Job-seekers are outsmarting AI interviewers: Because who needs a job when you can just play a game of hide-and-seek with a robot?"
   },
   {
-    "title": "UN report finds UN reports are not widely read",
-    "url": "https://www.reuters.com/world/un-report-finds-united-nations-reports-are-not-widely-read-2025-08-01/",
-    "points": 243,
-    "num_comments": 102,
+    "title": "Tesla withheld data, lied, misdirected police to avoid blame in Autopilot crash",
+    "url": "https://electrek.co/2025/08/04/tesla-withheld-data-lied-misdirected-police-plaintiffs-avoid-blame-autopilot-crash/",
+    "points": 443,
+    "num_comments": 216,
     "tags": [
       "story",
-      "author_anjneymidha",
-      "story_44777869",
-      "front_page"
+      "author_Hamuko",
+      "story_44787780"
     ],
-    "author": "anjneymidha",
-    "created_at": "2025-08-03T16:49:08Z",
-    "aiHeadline": "UN report finds UN reports are not widely read: A groundbreaking revelation that somehow manages to be both unsurprising and deeply concerning, proving that even the UN can't escape the irony of its own irrelevance."
+    "author": "Hamuko",
+    "created_at": "2025-08-04T16:07:15Z",
+    "aiHeadline": "Tesla: Because what's a car crash without a little drama and some good old-fashioned blame-shifting?"
   }
 ]
