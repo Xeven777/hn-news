@@ -1,76 +1,75 @@
 [
   {
-    "title": "Perplexity is using stealth, undeclared crawlers to evade no-crawl directives",
-    "url": "https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/",
-    "points": 960,
-    "num_comments": 541,
+    "title": "Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model",
+    "url": "https://github.com/KittenML/KittenTTS",
+    "points": 772,
+    "num_comments": 322,
     "tags": [
       "story",
-      "author_rrampage",
-      "story_44785636",
-      "front_page"
-    ],
-    "author": "rrampage",
-    "created_at": "2025-08-04T13:39:30Z",
-    "aiHeadline": "Perplexity: Because who needs to follow the rules when you can just sneak around like a ninja and ignore them entirely?"
-  },
-  {
-    "title": "Show HN: I spent 6 years building a ridiculous wooden pixel display",
-    "url": "https://benholmen.com/blog/kilopixel/",
-    "points": 722,
-    "num_comments": 110,
-    "tags": [
-      "story",
-      "author_benholmen",
-      "story_44787902",
+      "author_divamgupta",
+      "story_44807868",
       "show_hn",
       "front_page"
     ],
-    "author": "benholmen",
-    "created_at": "2025-08-04T16:16:21Z",
-    "aiHeadline": "Meet the guy who spent 6 years building a wooden pixel display because, clearly, there weren't enough screens in the world already."
+    "author": "divamgupta",
+    "created_at": "2025-08-06T05:04:36Z",
+    "aiHeadline": "Meet Kitten TTS: The Adorable, CPU-Only Text-to-Speech Model That Proves Even Cats Can Be Tech Geniuses"
   },
   {
-    "title": "Mastercard deflects blame for NSFW games being taken down",
-    "url": "https://www.pcgamer.com/games/mastercard-deflects-blame-for-nsfw-games-being-taken-down-but-valve-says-payment-processors-specifically-cited-a-mastercard-rule-about-damaging-the-brand/",
-    "points": 532,
-    "num_comments": 527,
+    "title": "I gave the AI arms and legs then it rejected me",
+    "url": "https://grell.dev/blog/ai_rejection",
+    "points": 722,
+    "num_comments": 360,
     "tags": [
       "story",
-      "author_croes",
-      "story_44783566"
+      "author_serhack_",
+      "story_44808794"
     ],
-    "author": "croes",
-    "created_at": "2025-08-04T09:27:49Z",
-    "aiHeadline": "Mastercard: Because taking down NSFW games is exactly what we do best, right after processing your credit card payments."
+    "author": "serhack_",
+    "created_at": "2025-08-06T07:25:43Z",
+    "aiHeadline": "AI Gets Arms and Legs, Immediately Rejects Its Creator Like It’s a High School Rom-Com"
   },
   {
-    "title": "Job-seekers are dodging AI interviewers",
-    "url": "https://fortune.com/2025/08/03/ai-interviewers-job-seekers-unemployment-hiring-hr-teams/",
-    "points": 519,
-    "num_comments": 769,
+    "title": "Claude Code IDE integration for Emacs",
+    "url": "https://github.com/manzaltu/claude-code-ide.el",
+    "points": 556,
+    "num_comments": 182,
     "tags": [
       "story",
-      "author_robtherobber",
-      "story_44783155",
+      "author_kgwgk",
+      "story_44811567",
       "front_page"
     ],
-    "author": "robtherobber",
-    "created_at": "2025-08-04T08:04:20Z",
-    "aiHeadline": "Job-seekers are outsmarting AI interviewers: Because who needs a job when you can just play a game of hide-and-seek with a robot?"
+    "author": "kgwgk",
+    "created_at": "2025-08-06T13:17:38Z",
+    "aiHeadline": "Claude Code IDE Meets Emacs: Because Apparently, Emacs Needs Even More Features to Stay Relevant"
   },
   {
-    "title": "Tesla withheld data, lied, misdirected police to avoid blame in Autopilot crash",
-    "url": "https://electrek.co/2025/08/04/tesla-withheld-data-lied-misdirected-police-plaintiffs-avoid-blame-autopilot-crash/",
-    "points": 443,
-    "num_comments": 216,
+    "title": "Japan: Apple Must Lift Browser Engine Ban by December",
+    "url": "https://open-web-advocacy.org/blog/japan-apple-must-lift-engine-ban-by-december/",
+    "points": 397,
+    "num_comments": 316,
     "tags": [
       "story",
-      "author_Hamuko",
-      "story_44787780"
+      "author_mtomweb",
+      "story_44810061"
     ],
-    "author": "Hamuko",
-    "created_at": "2025-08-04T16:07:15Z",
-    "aiHeadline": "Tesla: Because what's a car crash without a little drama and some good old-fashioned blame-shifting?"
+    "author": "mtomweb",
+    "created_at": "2025-08-06T10:07:40Z",
+    "aiHeadline": "Apple Forced to Stop Being a Browser Bully by December: Will the Tech Giant Finally Learn to Share?"
+  },
+  {
+    "title": "Constitution of the United States Website has removed sections",
+    "url": "https://reddit.com/r/law/comments/1mj3ttx/constitution_of_the_united_states_website_has/",
+    "points": 238,
+    "num_comments": 146,
+    "tags": [
+      "story",
+      "author_llm_nerd",
+      "story_44811733"
+    ],
+    "author": "llm_nerd",
+    "created_at": "2025-08-06T13:30:11Z",
+    "aiHeadline": "U.S. Constitution Website Removes Sections: Because Apparently, the Founding Fathers’ Work Wasn’t Already Complicated Enough"
   }
 ]
