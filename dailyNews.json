@@ -1,75 +1,76 @@
 [
   {
-    "title": "Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model",
-    "url": "https://github.com/KittenML/KittenTTS",
-    "points": 772,
-    "num_comments": 322,
+    "title": "GPT-5",
+    "url": "https://openai.com/gpt-5/",
+    "points": 1417,
+    "num_comments": 1695,
     "tags": [
       "story",
-      "author_divamgupta",
-      "story_44807868",
-      "show_hn",
+      "author_rd",
+      "story_44826997",
       "front_page"
     ],
-    "author": "divamgupta",
-    "created_at": "2025-08-06T05:04:36Z",
-    "aiHeadline": "Meet Kitten TTS: The Adorable, CPU-Only Text-to-Speech Model That Proves Even Cats Can Be Tech Geniuses"
+    "author": "rd",
+    "created_at": "2025-08-07T17:00:21Z",
+    "aiHeadline": "OpenAI Unveils GPT-5, Because Clearly GPT-4 Wasn't Advanced Enough to Write Its Own Press Release"
   },
   {
-    "title": "I gave the AI arms and legs then it rejected me",
-    "url": "https://grell.dev/blog/ai_rejection",
-    "points": 722,
-    "num_comments": 360,
+    "title": "Emailing a one-time code is worse than passwords",
+    "url": "https://blog.danielh.cc/blog/passwords",
+    "points": 848,
+    "num_comments": 692,
     "tags": [
       "story",
-      "author_serhack_",
-      "story_44808794"
+      "author_max__dev",
+      "story_44819917"
     ],
-    "author": "serhack_",
-    "created_at": "2025-08-06T07:25:43Z",
-    "aiHeadline": "AI Gets Arms and Legs, Immediately Rejects Its Creator Like It’s a High School Rom-Com"
+    "author": "max__dev",
+    "created_at": "2025-08-07T02:19:25Z",
+    "aiHeadline": "Security Experts Reveal Groundbreaking Insight: Emailing One-Time Codes is Actually Worse Than Passwords, Shocking No One Who's Ever Had Their Email Hacked"
   },
   {
-    "title": "Claude Code IDE integration for Emacs",
-    "url": "https://github.com/manzaltu/claude-code-ide.el",
-    "points": 556,
-    "num_comments": 182,
+    "title": "Vibechart",
+    "url": "https://www.vibechart.net/",
+    "points": 614,
+    "num_comments": 132,
     "tags": [
       "story",
-      "author_kgwgk",
-      "story_44811567",
+      "author_datadrivenangel",
+      "story_44830684",
       "front_page"
     ],
-    "author": "kgwgk",
-    "created_at": "2025-08-06T13:17:38Z",
-    "aiHeadline": "Claude Code IDE Meets Emacs: Because Apparently, Emacs Needs Even More Features to Stay Relevant"
+    "author": "datadrivenangel",
+    "created_at": "2025-08-07T21:36:45Z",
+    "aiHeadline": "Meet Vibechart, the Latest App That Will Probably Replace Your Job Someday, Because the World Needs More Apps That Replace Jobs"
   },
   {
-    "title": "Japan: Apple Must Lift Browser Engine Ban by December",
-    "url": "https://open-web-advocacy.org/blog/japan-apple-must-lift-engine-ban-by-december/",
-    "points": 397,
-    "num_comments": 316,
+    "title": "GPT-5: Key characteristics, pricing and system card",
+    "url": "https://simonwillison.net/2025/Aug/7/gpt-5/",
+    "points": 434,
+    "num_comments": 186,
     "tags": [
       "story",
-      "author_mtomweb",
-      "story_44810061"
+      "author_Philpax",
+      "story_44827794",
+      "front_page"
     ],
-    "author": "mtomweb",
-    "created_at": "2025-08-06T10:07:40Z",
-    "aiHeadline": "Apple Forced to Stop Being a Browser Bully by December: Will the Tech Giant Finally Learn to Share?"
+    "author": "Philpax",
+    "created_at": "2025-08-07T17:46:18Z",
+    "aiHeadline": "GPT-5: Now With Even More Features, Including the Ability to Write Its Own Feature List, Because Why Have a Marketing Team When You Can Have a Self-Aware AI?"
   },
   {
-    "title": "Constitution of the United States Website has removed sections",
-    "url": "https://reddit.com/r/law/comments/1mj3ttx/constitution_of_the_united_states_website_has/",
-    "points": 238,
-    "num_comments": 146,
+    "title": "GPT-5 for Developers",
+    "url": "https://openai.com/index/introducing-gpt-5-for-developers",
+    "points": 343,
+    "num_comments": 184,
     "tags": [
       "story",
-      "author_llm_nerd",
-      "story_44811733"
+      "author_6thbit",
+      "story_44827101",
+      "front_page"
     ],
-    "author": "llm_nerd",
-    "created_at": "2025-08-06T13:30:11Z",
-    "aiHeadline": "U.S. Constitution Website Removes Sections: Because Apparently, the Founding Fathers’ Work Wasn’t Already Complicated Enough"
+    "author": "6thbit",
+    "created_at": "2025-08-07T17:06:39Z",
+    "aiHeadline": "GPT-5 for Developers: Because Every Developer Needs Another Tool to Learn, and Also Because OpenAI Clearly Doesn't Understand Burnout"
   }
 ]
