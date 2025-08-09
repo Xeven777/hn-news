@@ -1,76 +1,76 @@
 [
   {
-    "title": "GPT-5",
-    "url": "https://openai.com/gpt-5/",
-    "points": 1417,
-    "num_comments": 1695,
+    "title": "Ultrathin business card runs a fluid simulation",
+    "url": "https://github.com/Nicholas-L-Johnson/flip-card",
+    "points": 860,
+    "num_comments": 171,
     "tags": [
       "story",
-      "author_rd",
-      "story_44826997",
+      "author_wompapumpum",
+      "story_44835879",
       "front_page"
     ],
-    "author": "rd",
-    "created_at": "2025-08-07T17:00:21Z",
-    "aiHeadline": "OpenAI Unveils GPT-5, Because Clearly GPT-4 Wasn't Advanced Enough to Write Its Own Press Release"
+    "author": "wompapumpum",
+    "created_at": "2025-08-08T11:41:04Z",
+    "aiHeadline": "Because regular business cards just aren't enough, here's one that simulates fluid dynamics while you hand it out."
   },
   {
-    "title": "Emailing a one-time code is worse than passwords",
-    "url": "https://blog.danielh.cc/blog/passwords",
-    "points": 848,
-    "num_comments": 692,
+    "title": "I want everything local – Building my offline AI workspace",
+    "url": "https://instavm.io/blog/building-my-offline-ai-workspace",
+    "points": 457,
+    "num_comments": 141,
     "tags": [
       "story",
-      "author_max__dev",
-      "story_44819917"
-    ],
-    "author": "max__dev",
-    "created_at": "2025-08-07T02:19:25Z",
-    "aiHeadline": "Security Experts Reveal Groundbreaking Insight: Emailing One-Time Codes is Actually Worse Than Passwords, Shocking No One Who's Ever Had Their Email Hacked"
-  },
-  {
-    "title": "Vibechart",
-    "url": "https://www.vibechart.net/",
-    "points": 614,
-    "num_comments": 132,
-    "tags": [
-      "story",
-      "author_datadrivenangel",
-      "story_44830684",
+      "author_mkagenius",
+      "story_44840013",
       "front_page"
     ],
-    "author": "datadrivenangel",
-    "created_at": "2025-08-07T21:36:45Z",
-    "aiHeadline": "Meet Vibechart, the Latest App That Will Probably Replace Your Job Someday, Because the World Needs More Apps That Replace Jobs"
+    "author": "mkagenius",
+    "created_at": "2025-08-08T18:19:05Z",
+    "aiHeadline": "In a world where everything is online, one developer is on a quest to make everything... local. Because why use the cloud when you can have your own personal AI in a box?"
   },
   {
-    "title": "GPT-5: Key characteristics, pricing and system card",
-    "url": "https://simonwillison.net/2025/Aug/7/gpt-5/",
-    "points": 434,
-    "num_comments": 186,
+    "title": "Linear sent me down a local-first rabbit hole",
+    "url": "https://bytemash.net/posts/i-went-down-the-linear-rabbit-hole/",
+    "points": 409,
+    "num_comments": 197,
     "tags": [
       "story",
-      "author_Philpax",
-      "story_44827794",
-      "front_page"
+      "author_jcusch",
+      "story_44833834"
     ],
-    "author": "Philpax",
-    "created_at": "2025-08-07T17:46:18Z",
-    "aiHeadline": "GPT-5: Now With Even More Features, Including the Ability to Write Its Own Feature List, Because Why Have a Marketing Team When You Can Have a Self-Aware AI?"
+    "author": "jcusch",
+    "created_at": "2025-08-08T05:45:42Z",
+    "aiHeadline": "Linear sent this developer on a wild goose chase, and now they're knee-deep in local-first architecture. Who knew collaboration software could be so... adventurous?"
   },
   {
-    "title": "GPT-5 for Developers",
-    "url": "https://openai.com/index/introducing-gpt-5-for-developers",
-    "points": 343,
-    "num_comments": 184,
+    "title": "Jim Lovell, Apollo 13 commander, has died",
+    "url": "https://www.nasa.gov/news-release/acting-nasa-administrator-reflects-on-legacy-of-astronaut-jim-lovell/",
+    "points": 368,
+    "num_comments": 74,
     "tags": [
       "story",
-      "author_6thbit",
-      "story_44827101",
+      "author_LorenDB",
+      "story_44840582",
       "front_page"
     ],
-    "author": "6thbit",
-    "created_at": "2025-08-07T17:06:39Z",
-    "aiHeadline": "GPT-5 for Developers: Because Every Developer Needs Another Tool to Learn, and Also Because OpenAI Clearly Doesn't Understand Burnout"
+    "author": "LorenDB",
+    "created_at": "2025-08-08T19:12:18Z",
+    "aiHeadline": "Apollo 13's commander, Jim Lovell, has passed away, leaving the world to wonder, 'What's the next giant leap for mankind?' RIP, Captain Lovell."
+  },
+  {
+    "title": "The surprise deprecation of GPT-4o for ChatGPT consumers",
+    "url": "https://simonwillison.net/2025/Aug/8/surprise-deprecation-of-gpt-4o/",
+    "points": 287,
+    "num_comments": 260,
+    "tags": [
+      "story",
+      "author_tosh",
+      "story_44839842",
+      "front_page"
+    ],
+    "author": "tosh",
+    "created_at": "2025-08-08T18:04:26Z",
+    "aiHeadline": "ChatGPT users are in for a shock as GPT-4o gets the boot, and no one saw it coming. Because nothing says 'we care about your workflow' like a surprise deprecation notice."
   }
 ]
