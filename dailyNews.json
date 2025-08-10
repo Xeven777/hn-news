@@ -1,76 +1,78 @@
 [
   {
-    "title": "Ultrathin business card runs a fluid simulation",
-    "url": "https://github.com/Nicholas-L-Johnson/flip-card",
-    "points": 860,
-    "num_comments": 171,
+    "title": "Show HN: The current sky at your approximate location, as a CSS gradient",
+    "url": "https://sky.dlazaro.ca",
+    "points": 554,
+    "num_comments": 114,
     "tags": [
       "story",
-      "author_wompapumpum",
-      "story_44835879",
+      "author_dlazaro",
+      "story_44846281",
+      "show_hn",
       "front_page"
     ],
-    "author": "wompapumpum",
-    "created_at": "2025-08-08T11:41:04Z",
-    "aiHeadline": "Because regular business cards just aren't enough, here's one that simulates fluid dynamics while you hand it out."
+    "author": "dlazaro",
+    "created_at": "2025-08-09T13:25:16Z",
+    "aiHeadline": "Because who doesn't want their browser to render the sky in real-time using CSS gradients? Now you can have the exact same sky as your neighbor, but in your browser!"
   },
   {
-    "title": "I want everything local – Building my offline AI workspace",
-    "url": "https://instavm.io/blog/building-my-offline-ai-workspace",
-    "points": 457,
-    "num_comments": 141,
+    "title": "Debian 13 \"Trixie\"",
+    "url": "https://www.debian.org/News/2025/20250809",
+    "points": 532,
+    "num_comments": 199,
     "tags": [
       "story",
-      "author_mkagenius",
-      "story_44840013",
+      "author_ducktective",
+      "story_44848782",
       "front_page"
     ],
-    "author": "mkagenius",
-    "created_at": "2025-08-08T18:19:05Z",
-    "aiHeadline": "In a world where everything is online, one developer is on a quest to make everything... local. Because why use the cloud when you can have your own personal AI in a box?"
+    "author": "ducktective",
+    "created_at": "2025-08-09T18:18:45Z",
+    "aiHeadline": "Debian 13 'Trixie' is here, bringing stability, security, and the same old reliable Debian experience you've come to love and occasionally curse."
   },
   {
-    "title": "Linear sent me down a local-first rabbit hole",
-    "url": "https://bytemash.net/posts/i-went-down-the-linear-rabbit-hole/",
-    "points": 409,
-    "num_comments": 197,
-    "tags": [
-      "story",
-      "author_jcusch",
-      "story_44833834"
-    ],
-    "author": "jcusch",
-    "created_at": "2025-08-08T05:45:42Z",
-    "aiHeadline": "Linear sent this developer on a wild goose chase, and now they're knee-deep in local-first architecture. Who knew collaboration software could be so... adventurous?"
-  },
-  {
-    "title": "Jim Lovell, Apollo 13 commander, has died",
-    "url": "https://www.nasa.gov/news-release/acting-nasa-administrator-reflects-on-legacy-of-astronaut-jim-lovell/",
-    "points": 368,
+    "title": "OpenFreeMap survived 100k requests per second",
+    "url": "https://blog.hyperknot.com/p/openfreemap-survived-100000-requests",
+    "points": 370,
     "num_comments": 74,
     "tags": [
       "story",
-      "author_LorenDB",
-      "story_44840582",
+      "author_hyperknot",
+      "story_44846318",
       "front_page"
     ],
-    "author": "LorenDB",
-    "created_at": "2025-08-08T19:12:18Z",
-    "aiHeadline": "Apollo 13's commander, Jim Lovell, has passed away, leaving the world to wonder, 'What's the next giant leap for mankind?' RIP, Captain Lovell."
+    "author": "hyperknot",
+    "created_at": "2025-08-09T13:31:30Z",
+    "aiHeadline": "OpenFreeMap just proved that 100,000 requests per second is totally manageable, unless your server catches on fire or something. But hey, at least it's scalable!"
   },
   {
-    "title": "The surprise deprecation of GPT-4o for ChatGPT consumers",
-    "url": "https://simonwillison.net/2025/Aug/8/surprise-deprecation-of-gpt-4o/",
-    "points": 287,
-    "num_comments": 260,
+    "title": "My Lethal Trifecta talk at the Bay Area AI Security Meetup",
+    "url": "https://simonwillison.net/2025/Aug/9/bay-area-ai/",
+    "points": 273,
+    "num_comments": 84,
     "tags": [
       "story",
-      "author_tosh",
-      "story_44839842",
+      "author_vismit2000",
+      "story_44846922",
       "front_page"
     ],
-    "author": "tosh",
-    "created_at": "2025-08-08T18:04:26Z",
-    "aiHeadline": "ChatGPT users are in for a shock as GPT-4o gets the boot, and no one saw it coming. Because nothing says 'we care about your workflow' like a surprise deprecation notice."
+    "author": "vismit2000",
+    "created_at": "2025-08-09T14:47:38Z",
+    "aiHeadline": "AI Security Experts Warn of Lethal Trifecta: AI, Security, and Your Imminent Doom. Because nothing says 'fun night out' like discussing how AI could end humanity."
+  },
+  {
+    "title": "MCP overlooks hard-won lessons from distributed systems",
+    "url": "https://julsimon.medium.com/why-mcps-disregard-for-40-years-of-rpc-best-practices-will-burn-enterprises-8ef85ce5bc9b",
+    "points": 259,
+    "num_comments": 147,
+    "tags": [
+      "story",
+      "author_yodon",
+      "story_44846871",
+      "front_page"
+    ],
+    "author": "yodon",
+    "created_at": "2025-08-09T14:42:10Z",
+    "aiHeadline": "MCP Ignores 40 Years of Distributed Systems Wisdom, Because Why Learn from History When You Can Repeat It?"
   }
 ]
