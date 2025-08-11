@@ -1,78 +1,78 @@
 [
   {
-    "title": "Show HN: The current sky at your approximate location, as a CSS gradient",
-    "url": "https://sky.dlazaro.ca",
-    "points": 554,
-    "num_comments": 114,
+    "title": "Fight Chat Control",
+    "url": "https://fightchatcontrol.eu/",
+    "points": 813,
+    "num_comments": 235,
     "tags": [
       "story",
-      "author_dlazaro",
-      "story_44846281",
+      "author_tokai",
+      "story_44856426",
+      "front_page"
+    ],
+    "author": "tokai",
+    "created_at": "2025-08-10T16:50:34Z",
+    "aiHeadline": "Fight Chat Control: Because who doesn't want to argue about arguing? Join the EU in their quest to make sure your online debates are as productive as possible—or not, depending on your perspective."
+  },
+  {
+    "title": "Try and",
+    "url": "https://ygdp.yale.edu/phenomena/try-and",
+    "points": 422,
+    "num_comments": 222,
+    "tags": [
+      "story",
+      "author_treetalker",
+      "story_44855079",
+      "front_page"
+    ],
+    "author": "treetalker",
+    "created_at": "2025-08-10T13:32:13Z",
+    "aiHeadline": "Try and: Because 'try to' is just too much effort, right? Yale explains why you should probably stop saying 'try and' and start saying 'try to' instead, but honestly, who cares? Language is just a series of arbitrary sounds anyway."
+  },
+  {
+    "title": "GPT-OSS vs. Qwen3 and a detailed look how things evolved since GPT-2",
+    "url": "https://magazine.sebastianraschka.com/p/from-gpt-2-to-gpt-oss-analyzing-the",
+    "points": 306,
+    "num_comments": 56,
+    "tags": [
+      "story",
+      "author_ModelForge",
+      "story_44855690",
+      "front_page"
+    ],
+    "author": "ModelForge",
+    "created_at": "2025-08-10T15:06:07Z",
+    "aiHeadline": "GPT-OSS vs. Qwen3: The battle of the AI models rages on! Who will come out on top? Probably whichever one you're not using, because that's how it always goes."
+  },
+  {
+    "title": "Show HN: Engineering.fyi – Search across tech engineering blogs in one place",
+    "url": "https://engineering.fyi/",
+    "points": 285,
+    "num_comments": 81,
+    "tags": [
+      "story",
+      "author_indiehackerman",
+      "story_44855157",
       "show_hn",
       "front_page"
     ],
-    "author": "dlazaro",
-    "created_at": "2025-08-09T13:25:16Z",
-    "aiHeadline": "Because who doesn't want their browser to render the sky in real-time using CSS gradients? Now you can have the exact same sky as your neighbor, but in your browser!"
+    "author": "indiehackerman",
+    "created_at": "2025-08-10T13:44:05Z",
+    "aiHeadline": "Show HN: Engineering.fyi – Because searching through 500 tech blogs one by one is just too fun. Now you can do it all in one place, saving yourself hours of time you could have spent scrolling through Twitter instead."
   },
   {
-    "title": "Debian 13 \"Trixie\"",
-    "url": "https://www.debian.org/News/2025/20250809",
-    "points": 532,
-    "num_comments": 199,
+    "title": "Abogen – Generate audiobooks from EPUBs, PDFs and text",
+    "url": "https://github.com/denizsafak/abogen",
+    "points": 279,
+    "num_comments": 66,
     "tags": [
       "story",
-      "author_ducktective",
-      "story_44848782",
+      "author_mzehrer",
+      "story_44853064",
       "front_page"
     ],
-    "author": "ducktective",
-    "created_at": "2025-08-09T18:18:45Z",
-    "aiHeadline": "Debian 13 'Trixie' is here, bringing stability, security, and the same old reliable Debian experience you've come to love and occasionally curse."
-  },
-  {
-    "title": "OpenFreeMap survived 100k requests per second",
-    "url": "https://blog.hyperknot.com/p/openfreemap-survived-100000-requests",
-    "points": 370,
-    "num_comments": 74,
-    "tags": [
-      "story",
-      "author_hyperknot",
-      "story_44846318",
-      "front_page"
-    ],
-    "author": "hyperknot",
-    "created_at": "2025-08-09T13:31:30Z",
-    "aiHeadline": "OpenFreeMap just proved that 100,000 requests per second is totally manageable, unless your server catches on fire or something. But hey, at least it's scalable!"
-  },
-  {
-    "title": "My Lethal Trifecta talk at the Bay Area AI Security Meetup",
-    "url": "https://simonwillison.net/2025/Aug/9/bay-area-ai/",
-    "points": 273,
-    "num_comments": 84,
-    "tags": [
-      "story",
-      "author_vismit2000",
-      "story_44846922",
-      "front_page"
-    ],
-    "author": "vismit2000",
-    "created_at": "2025-08-09T14:47:38Z",
-    "aiHeadline": "AI Security Experts Warn of Lethal Trifecta: AI, Security, and Your Imminent Doom. Because nothing says 'fun night out' like discussing how AI could end humanity."
-  },
-  {
-    "title": "MCP overlooks hard-won lessons from distributed systems",
-    "url": "https://julsimon.medium.com/why-mcps-disregard-for-40-years-of-rpc-best-practices-will-burn-enterprises-8ef85ce5bc9b",
-    "points": 259,
-    "num_comments": 147,
-    "tags": [
-      "story",
-      "author_yodon",
-      "story_44846871",
-      "front_page"
-    ],
-    "author": "yodon",
-    "created_at": "2025-08-09T14:42:10Z",
-    "aiHeadline": "MCP Ignores 40 Years of Distributed Systems Wisdom, Because Why Learn from History When You Can Repeat It?"
+    "author": "mzehrer",
+    "created_at": "2025-08-10T05:56:14Z",
+    "aiHeadline": "Abogen: Because reading is for chumps. Now you can turn any book into an audiobook and pretend you're actually learning something while you're stuck in traffic."
   }
 ]
