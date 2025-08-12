@@ -1,78 +1,76 @@
 [
   {
-    "title": "Fight Chat Control",
-    "url": "https://fightchatcontrol.eu/",
-    "points": 813,
-    "num_comments": 235,
+    "title": "GitHub is no longer independent at Microsoft after CEO resignation",
+    "url": "https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition",
+    "points": 932,
+    "num_comments": 696,
     "tags": [
       "story",
-      "author_tokai",
-      "story_44856426",
+      "author_Handy-Man",
+      "story_44865560",
       "front_page"
     ],
-    "author": "tokai",
-    "created_at": "2025-08-10T16:50:34Z",
-    "aiHeadline": "Fight Chat Control: Because who doesn't want to argue about arguing? Join the EU in their quest to make sure your online debates are as productive as possible—or not, depending on your perspective."
+    "author": "Handy-Man",
+    "created_at": "2025-08-11T15:47:48Z",
+    "aiHeadline": "GitHub's independence at Microsoft is now as independent as a paperclip in a Staples store—fully Microsoft now, after CEO's dramatic exit."
   },
   {
-    "title": "Try and",
-    "url": "https://ygdp.yale.edu/phenomena/try-and",
-    "points": 422,
-    "num_comments": 222,
+    "title": "I tried every todo app and ended up with a .txt file",
+    "url": "https://www.al3rez.com/todo-txt-journey",
+    "points": 795,
+    "num_comments": 509,
     "tags": [
       "story",
-      "author_treetalker",
-      "story_44855079",
+      "author_al3rez",
+      "story_44864134",
       "front_page"
     ],
-    "author": "treetalker",
-    "created_at": "2025-08-10T13:32:13Z",
-    "aiHeadline": "Try and: Because 'try to' is just too much effort, right? Yale explains why you should probably stop saying 'try and' and start saying 'try to' instead, but honestly, who cares? Language is just a series of arbitrary sounds anyway."
+    "author": "al3rez",
+    "created_at": "2025-08-11T13:59:02Z",
+    "aiHeadline": "After an exhaustive search for the perfect todo app, turns out a simple .txt file was the only productivity hack you needed—because why overcomplicate things?"
   },
   {
-    "title": "GPT-OSS vs. Qwen3 and a detailed look how things evolved since GPT-2",
-    "url": "https://magazine.sebastianraschka.com/p/from-gpt-2-to-gpt-oss-analyzing-the",
-    "points": 306,
-    "num_comments": 56,
+    "title": "Wikimedia Foundation Challenges UK Online Safety Act Regulations",
+    "url": "https://wikimediafoundation.org/news/2025/08/11/wikimedia-foundation-challenges-uk-online-safety-act-regulations/",
+    "points": 625,
+    "num_comments": 3,
     "tags": [
       "story",
-      "author_ModelForge",
-      "story_44855690",
-      "front_page"
+      "author_danso",
+      "story_44863487"
     ],
-    "author": "ModelForge",
-    "created_at": "2025-08-10T15:06:07Z",
-    "aiHeadline": "GPT-OSS vs. Qwen3: The battle of the AI models rages on! Who will come out on top? Probably whichever one you're not using, because that's how it always goes."
+    "author": "danso",
+    "created_at": "2025-08-11T12:38:15Z",
+    "aiHeadline": "Wikimedia Foundation takes a stand against UK's Online Safety Act, proving that even non-profits can be rebels without a cause."
   },
   {
-    "title": "Show HN: Engineering.fyi – Search across tech engineering blogs in one place",
-    "url": "https://engineering.fyi/",
-    "points": 285,
-    "num_comments": 81,
+    "title": "Wikipedia loses challenge against Online Safety Act",
+    "url": "https://www.bbc.com/news/articles/cjr11qqvvwlo",
+    "points": 572,
+    "num_comments": 475,
     "tags": [
       "story",
-      "author_indiehackerman",
-      "story_44855157",
-      "show_hn",
+      "author_phlummox",
+      "story_44866208",
       "front_page"
     ],
-    "author": "indiehackerman",
-    "created_at": "2025-08-10T13:44:05Z",
-    "aiHeadline": "Show HN: Engineering.fyi – Because searching through 500 tech blogs one by one is just too fun. Now you can do it all in one place, saving yourself hours of time you could have spent scrolling through Twitter instead."
+    "author": "phlummox",
+    "created_at": "2025-08-11T16:33:26Z",
+    "aiHeadline": "Wikipedia's fight against the Online Safety Act ends in defeat, proving that sometimes even the best ideas get regulated into oblivion."
   },
   {
-    "title": "Abogen – Generate audiobooks from EPUBs, PDFs and text",
-    "url": "https://github.com/denizsafak/abogen",
-    "points": 279,
-    "num_comments": 66,
+    "title": "Claude Code is all you need",
+    "url": "https://dwyer.co.za/static/claude-code-is-all-you-need.html",
+    "points": 482,
+    "num_comments": 274,
     "tags": [
       "story",
-      "author_mzehrer",
-      "story_44853064",
+      "author_sixhobbits",
+      "story_44864185",
       "front_page"
     ],
-    "author": "mzehrer",
-    "created_at": "2025-08-10T05:56:14Z",
-    "aiHeadline": "Abogen: Because reading is for chumps. Now you can turn any book into an audiobook and pretend you're actually learning something while you're stuck in traffic."
+    "author": "sixhobbits",
+    "created_at": "2025-08-11T14:03:46Z",
+    "aiHeadline": "Claude Code is all you need—because why bother with anything else when one tool can do it all, right?"
   }
 ]
