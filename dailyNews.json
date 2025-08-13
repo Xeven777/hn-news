@@ -1,76 +1,74 @@
 [
   {
-    "title": "GitHub is no longer independent at Microsoft after CEO resignation",
-    "url": "https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition",
-    "points": 932,
-    "num_comments": 696,
+    "title": "Claude Sonnet 4 now supports 1M tokens of context",
+    "url": "https://www.anthropic.com/news/1m-context",
+    "points": 889,
+    "num_comments": 492,
     "tags": [
       "story",
-      "author_Handy-Man",
-      "story_44865560",
+      "author_adocomplete",
+      "story_44878147",
       "front_page"
     ],
-    "author": "Handy-Man",
-    "created_at": "2025-08-11T15:47:48Z",
-    "aiHeadline": "GitHub's independence at Microsoft is now as independent as a paperclip in a Staples store—fully Microsoft now, after CEO's dramatic exit."
+    "author": "adocomplete",
+    "created_at": "2025-08-12T16:02:23Z",
+    "aiHeadline": "Claude Sonnet 4 now supports 1M tokens of context, because apparently 1M is the new 'context' for AI models, which is still way less than what a human can handle in a single conversation."
   },
   {
-    "title": "I tried every todo app and ended up with a .txt file",
-    "url": "https://www.al3rez.com/todo-txt-journey",
-    "points": 795,
-    "num_comments": 509,
+    "title": "StarDict sends X11 clipboard to remote servers",
+    "url": "https://lwn.net/SubscriberLink/1032732/3334850da49689e1/",
+    "points": 454,
+    "num_comments": 300,
     "tags": [
       "story",
-      "author_al3rez",
-      "story_44864134",
+      "author_pabs3",
+      "story_44872313"
+    ],
+    "author": "pabs3",
+    "created_at": "2025-08-12T04:08:13Z",
+    "aiHeadline": "StarDict is now 'feature'-ing the ability to send your X11 clipboard to remote servers, because who needs cybersecurity when you can share your clipboard with the world?"
+  },
+  {
+    "title": "Monero appears to be in the midst of a successful 51% attack",
+    "url": "https://twitter.com/p3b7_/status/1955173413992984988",
+    "points": 454,
+    "num_comments": 209,
+    "tags": [
+      "story",
+      "author_treyd",
+      "story_44875109"
+    ],
+    "author": "treyd",
+    "created_at": "2025-08-12T11:56:52Z",
+    "aiHeadline": "Monero is currently experiencing a 51% attack, proving once again that even the most 'secure' cryptocurrencies are just a bunch of code that can be hacked if someone really wants to."
+  },
+  {
+    "title": "Why are there so many rationalist cults?",
+    "url": "https://asteriskmag.com/issues/11/why-are-there-so-many-rationalist-cults",
+    "points": 383,
+    "num_comments": 584,
+    "tags": [
+      "story",
+      "author_glenstein",
+      "story_44877076",
       "front_page"
     ],
-    "author": "al3rez",
-    "created_at": "2025-08-11T13:59:02Z",
-    "aiHeadline": "After an exhaustive search for the perfect todo app, turns out a simple .txt file was the only productivity hack you needed—because why overcomplicate things?"
+    "author": "glenstein",
+    "created_at": "2025-08-12T14:56:53Z",
+    "aiHeadline": "Why are there so many rationalist cults? Because apparently, when you try to be too rational, you end up forming a cult that worships logic, which is about as logical as it gets."
   },
   {
-    "title": "Wikimedia Foundation Challenges UK Online Safety Act Regulations",
-    "url": "https://wikimediafoundation.org/news/2025/08/11/wikimedia-foundation-challenges-uk-online-safety-act-regulations/",
-    "points": 625,
-    "num_comments": 3,
+    "title": "GitHub was having issues",
+    "url": "https://www.githubstatus.com/incidents/9rfydl2xdqqj",
+    "points": 335,
+    "num_comments": 208,
     "tags": [
       "story",
-      "author_danso",
-      "story_44863487"
+      "author_rock_artist",
+      "story_44876784"
     ],
-    "author": "danso",
-    "created_at": "2025-08-11T12:38:15Z",
-    "aiHeadline": "Wikimedia Foundation takes a stand against UK's Online Safety Act, proving that even non-profits can be rebels without a cause."
-  },
-  {
-    "title": "Wikipedia loses challenge against Online Safety Act",
-    "url": "https://www.bbc.com/news/articles/cjr11qqvvwlo",
-    "points": 572,
-    "num_comments": 475,
-    "tags": [
-      "story",
-      "author_phlummox",
-      "story_44866208",
-      "front_page"
-    ],
-    "author": "phlummox",
-    "created_at": "2025-08-11T16:33:26Z",
-    "aiHeadline": "Wikipedia's fight against the Online Safety Act ends in defeat, proving that sometimes even the best ideas get regulated into oblivion."
-  },
-  {
-    "title": "Claude Code is all you need",
-    "url": "https://dwyer.co.za/static/claude-code-is-all-you-need.html",
-    "points": 482,
-    "num_comments": 274,
-    "tags": [
-      "story",
-      "author_sixhobbits",
-      "story_44864185",
-      "front_page"
-    ],
-    "author": "sixhobbits",
-    "created_at": "2025-08-11T14:03:46Z",
-    "aiHeadline": "Claude Code is all you need—because why bother with anything else when one tool can do it all, right?"
+    "author": "rock_artist",
+    "created_at": "2025-08-12T14:37:19Z",
+    "aiHeadline": "GitHub was having issues, which is surprising because we've all become so used to GitHub being the most reliable platform in the world, right? Wrong. It's just another day in the life of a developer."
   }
 ]
