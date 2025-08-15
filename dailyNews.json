@@ -1,74 +1,74 @@
 [
   {
-    "title": "Claude Sonnet 4 now supports 1M tokens of context",
-    "url": "https://www.anthropic.com/news/1m-context",
-    "points": 889,
-    "num_comments": 492,
+    "title": "Gemma 3 270M: Compact model for hyper-efficient AI",
+    "url": "https://developers.googleblog.com/en/introducing-gemma-3-270m/",
+    "points": 475,
+    "num_comments": 193,
     "tags": [
       "story",
-      "author_adocomplete",
-      "story_44878147",
+      "author_meetpateltech",
+      "story_44902148",
       "front_page"
     ],
-    "author": "adocomplete",
-    "created_at": "2025-08-12T16:02:23Z",
-    "aiHeadline": "Claude Sonnet 4 now supports 1M tokens of context, because apparently 1M is the new 'context' for AI models, which is still way less than what a human can handle in a single conversation."
+    "author": "meetpateltech",
+    "created_at": "2025-08-14T16:08:36Z",
+    "aiHeadline": "Google's latest AI model is so efficient, it can probably solve world hunger while simultaneously figuring out why your Wi-Fi is acting up."
   },
   {
-    "title": "StarDict sends X11 clipboard to remote servers",
-    "url": "https://lwn.net/SubscriberLink/1032732/3334850da49689e1/",
-    "points": 454,
-    "num_comments": 300,
+    "title": "Steve Wozniak: Life to me was never about accomplishment, but about happiness",
+    "url": "https://yro.slashdot.org/comments.pl?sid=23765914&cid=65583466",
+    "points": 395,
+    "num_comments": 262,
     "tags": [
       "story",
-      "author_pabs3",
-      "story_44872313"
-    ],
-    "author": "pabs3",
-    "created_at": "2025-08-12T04:08:13Z",
-    "aiHeadline": "StarDict is now 'feature'-ing the ability to send your X11 clipboard to remote servers, because who needs cybersecurity when you can share your clipboard with the world?"
-  },
-  {
-    "title": "Monero appears to be in the midst of a successful 51% attack",
-    "url": "https://twitter.com/p3b7_/status/1955173413992984988",
-    "points": 454,
-    "num_comments": 209,
-    "tags": [
-      "story",
-      "author_treyd",
-      "story_44875109"
-    ],
-    "author": "treyd",
-    "created_at": "2025-08-12T11:56:52Z",
-    "aiHeadline": "Monero is currently experiencing a 51% attack, proving once again that even the most 'secure' cryptocurrencies are just a bunch of code that can be hacked if someone really wants to."
-  },
-  {
-    "title": "Why are there so many rationalist cults?",
-    "url": "https://asteriskmag.com/issues/11/why-are-there-so-many-rationalist-cults",
-    "points": 383,
-    "num_comments": 584,
-    "tags": [
-      "story",
-      "author_glenstein",
-      "story_44877076",
+      "author_MilnerRoute",
+      "story_44903803",
       "front_page"
     ],
-    "author": "glenstein",
-    "created_at": "2025-08-12T14:56:53Z",
-    "aiHeadline": "Why are there so many rationalist cults? Because apparently, when you try to be too rational, you end up forming a cult that worships logic, which is about as logical as it gets."
+    "author": "MilnerRoute",
+    "created_at": "2025-08-14T18:19:42Z",
+    "aiHeadline": "Steve Wozniak, the guy who co-founded Apple, just revealed that life isn't about building empires or revolutionizing technology—it's about being happy. Who knew?"
   },
   {
-    "title": "GitHub was having issues",
-    "url": "https://www.githubstatus.com/incidents/9rfydl2xdqqj",
-    "points": 335,
-    "num_comments": 208,
+    "title": "Meta accessed women's health data from Flo app without consent, says court",
+    "url": "https://www.malwarebytes.com/blog/news/2025/08/meta-accessed-womens-health-data-from-flo-app-without-consent-says-court",
+    "points": 362,
+    "num_comments": 190,
     "tags": [
       "story",
-      "author_rock_artist",
-      "story_44876784"
+      "author_amarcheschi",
+      "story_44898934"
     ],
-    "author": "rock_artist",
-    "created_at": "2025-08-12T14:37:19Z",
-    "aiHeadline": "GitHub was having issues, which is surprising because we've all become so used to GitHub being the most reliable platform in the world, right? Wrong. It's just another day in the life of a developer."
+    "author": "amarcheschi",
+    "created_at": "2025-08-14T10:51:40Z",
+    "aiHeadline": "Meta, the company that invented privacy (just kidding, they actually invaded it), was caught accessing women's health data from the Flo app without consent. Because nothing says 'trust us with your data' like a blatant disregard for consent."
+  },
+  {
+    "title": "Why LLMs can't really build software",
+    "url": "https://zed.dev/blog/why-llms-cant-build-software",
+    "points": 347,
+    "num_comments": 239,
+    "tags": [
+      "story",
+      "author_srid",
+      "story_44900116"
+    ],
+    "author": "srid",
+    "created_at": "2025-08-14T13:26:09Z",
+    "aiHeadline": "LLMs are great at writing articles, composing poetry, and maybe even convincing you that they're sentient. But building actual software? That's a task best left to humans—apparently."
+  },
+  {
+    "title": "Arch shares its wiki strategy with Debian",
+    "url": "https://lwn.net/SubscriberLink/1032604/73596e0c3ed1945a/",
+    "points": 337,
+    "num_comments": 115,
+    "tags": [
+      "story",
+      "author_lemper",
+      "story_44898300"
+    ],
+    "author": "lemper",
+    "created_at": "2025-08-14T08:58:39Z",
+    "aiHeadline": "In a shocking twist, Arch Linux has decided to share its wiki strategy with Debian. This is about as surprising as finding out your cat actually likes tuna."
   }
 ]
