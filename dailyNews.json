@@ -1,74 +1,77 @@
 [
   {
-    "title": "Gemma 3 270M: Compact model for hyper-efficient AI",
-    "url": "https://developers.googleblog.com/en/introducing-gemma-3-270m/",
-    "points": 475,
-    "num_comments": 193,
+    "title": "Open hardware desktop 3D printing is dead?",
+    "url": "https://www.josefprusa.com/articles/open-hardware-in-3d-printing-is-dead/",
+    "points": 609,
+    "num_comments": 374,
     "tags": [
       "story",
-      "author_meetpateltech",
-      "story_44902148",
+      "author_rcarmo",
+      "story_44911423",
       "front_page"
     ],
-    "author": "meetpateltech",
-    "created_at": "2025-08-14T16:08:36Z",
-    "aiHeadline": "Google's latest AI model is so efficient, it can probably solve world hunger while simultaneously figuring out why your Wi-Fi is acting up."
+    "author": "rcarmo",
+    "created_at": "2025-08-15T12:14:46Z",
+    "aiHeadline": "Open hardware desktop 3D printing: because nothing says 'revolution' like a dead end."
   },
   {
-    "title": "Steve Wozniak: Life to me was never about accomplishment, but about happiness",
-    "url": "https://yro.slashdot.org/comments.pl?sid=23765914&cid=65583466",
-    "points": 395,
-    "num_comments": 262,
+    "title": "Occult books digitized and put online by Amsterdam’s Ritman Library",
+    "url": "https://www.openculture.com/2025/08/2178-occult-books-now-digitized-put-online.html",
+    "points": 290,
+    "num_comments": 114,
     "tags": [
       "story",
-      "author_MilnerRoute",
-      "story_44903803",
+      "author_Anon84",
+      "story_44914061",
       "front_page"
     ],
-    "author": "MilnerRoute",
-    "created_at": "2025-08-14T18:19:42Z",
-    "aiHeadline": "Steve Wozniak, the guy who co-founded Apple, just revealed that life isn't about building empires or revolutionizing technology—it's about being happy. Who knew?"
+    "author": "Anon84",
+    "created_at": "2025-08-15T16:03:36Z",
+    "aiHeadline": "Occult books now digitized: because nothing says 'ancient wisdom' like a PDF file."
   },
   {
-    "title": "Meta accessed women's health data from Flo app without consent, says court",
-    "url": "https://www.malwarebytes.com/blog/news/2025/08/meta-accessed-womens-health-data-from-flo-app-without-consent-says-court",
-    "points": 362,
-    "num_comments": 190,
+    "title": "The beauty of a text only webpage",
+    "url": "https://albanbrooke.com/the-beauty-of-a-text-only-webpage/",
+    "points": 250,
+    "num_comments": 162,
     "tags": [
       "story",
-      "author_amarcheschi",
-      "story_44898934"
+      "author_speckx",
+      "story_44913340"
     ],
-    "author": "amarcheschi",
-    "created_at": "2025-08-14T10:51:40Z",
-    "aiHeadline": "Meta, the company that invented privacy (just kidding, they actually invaded it), was caught accessing women's health data from the Flo app without consent. Because nothing says 'trust us with your data' like a blatant disregard for consent."
+    "author": "speckx",
+    "created_at": "2025-08-15T15:05:02Z",
+    "aiHeadline": "The beauty of a text-only webpage: because in 2025, minimalism is still revolutionary."
   },
   {
-    "title": "Why LLMs can't really build software",
-    "url": "https://zed.dev/blog/why-llms-cant-build-software",
-    "points": 347,
-    "num_comments": 239,
+    "title": "Show HN: Edka – Kubernetes clusters on your own Hetzner account",
+    "url": "https://edka.io",
+    "points": 243,
+    "num_comments": 77,
     "tags": [
       "story",
-      "author_srid",
-      "story_44900116"
+      "author_camil",
+      "story_44915164",
+      "show_hn",
+      "front_page"
     ],
-    "author": "srid",
-    "created_at": "2025-08-14T13:26:09Z",
-    "aiHeadline": "LLMs are great at writing articles, composing poetry, and maybe even convincing you that they're sentient. But building actual software? That's a task best left to humans—apparently."
+    "author": "camil",
+    "created_at": "2025-08-15T17:34:54Z",
+    "aiHeadline": "Edka: because who doesn't want to manage Kubernetes clusters on Hetzner like a pro?"
   },
   {
-    "title": "Arch shares its wiki strategy with Debian",
-    "url": "https://lwn.net/SubscriberLink/1032604/73596e0c3ed1945a/",
-    "points": 337,
-    "num_comments": 115,
+    "title": "Do Things That Don't Scale (2013)",
+    "url": "https://paulgraham.com/ds.html",
+    "points": 229,
+    "num_comments": 78,
     "tags": [
       "story",
-      "author_lemper",
-      "story_44898300"
+      "author_bschne",
+      "story_44913359",
+      "front_page"
     ],
-    "author": "lemper",
-    "created_at": "2025-08-14T08:58:39Z",
-    "aiHeadline": "In a shocking twist, Arch Linux has decided to share its wiki strategy with Debian. This is about as surprising as finding out your cat actually likes tuna."
+    "author": "bschne",
+    "created_at": "2025-08-15T15:07:04Z",
+    "aiHeadline": "Do Things That Don't Scale: because even in 2025, advice from 2013 still feels timeless."
   }
 ]
