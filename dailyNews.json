@@ -1,1 +1,76 @@
-[]
+[
+  {
+    "title": "Sunny days are warm: why LinkedIn rewards mediocrity",
+    "url": "https://www.elliotcsmith.com/linkedin-toxic-mediocrity/",
+    "points": 434,
+    "num_comments": 364,
+    "tags": [
+      "story",
+      "author_smitec",
+      "story_44930186"
+    ],
+    "author": "smitec",
+    "created_at": "2025-08-17T09:29:56Z",
+    "aiHeadline": "LinkedIn Proves Once Again That Mediocrity Thrives in Sunny Climates, Because Why Not?"
+  },
+  {
+    "title": "LL3M: Large Language 3D Modelers",
+    "url": "https://threedle.github.io/ll3m/",
+    "points": 368,
+    "num_comments": 158,
+    "tags": [
+      "story",
+      "author_simonpure",
+      "story_44930808",
+      "front_page"
+    ],
+    "author": "simonpure",
+    "created_at": "2025-08-17T11:20:20Z",
+    "aiHeadline": "LL3M: Where AI Finally Gets Its Hands Dirty, Because Who Needs Clean Code When You Can Have Virtual Mud?"
+  },
+  {
+    "title": "Node.js is able to execute TypeScript files without additional configuration",
+    "url": "https://nodejs.org/en/blog/release/v22.18.0",
+    "points": 337,
+    "num_comments": 199,
+    "tags": [
+      "story",
+      "author_steren",
+      "story_44929260",
+      "front_page"
+    ],
+    "author": "steren",
+    "created_at": "2025-08-17T06:03:27Z",
+    "aiHeadline": "Node.js 22.18: TypeScript Files Now Execute Without Extra Configuration, Because Apparently, We've All Been Doing It Wrong This Whole Time."
+  },
+  {
+    "title": "Claudia – Desktop companion for Claude code",
+    "url": "https://claudiacode.com/",
+    "points": 308,
+    "num_comments": 157,
+    "tags": [
+      "story",
+      "author_zerealshadowban",
+      "story_44933255",
+      "front_page"
+    ],
+    "author": "zerealshadowban",
+    "created_at": "2025-08-17T17:26:56Z",
+    "aiHeadline": "Claudia: Your New Desktop Companion for Claude Code, Because Who Doesn't Need Another App to Manage Their Apps?"
+  },
+  {
+    "title": "ArchiveTeam has finished archiving all goo.gl short links",
+    "url": "https://tracker.archiveteam.org/goo-gl/",
+    "points": 292,
+    "num_comments": 59,
+    "tags": [
+      "story",
+      "author_pentagrama",
+      "story_44933401",
+      "front_page"
+    ],
+    "author": "pentagrama",
+    "created_at": "2025-08-17T17:46:04Z",
+    "aiHeadline": "ArchiveTeam Completesgoo.gl Archiving: Now We Can All Relive the Glory Days of Redirects and Broken Links, Because Nostalgia Ain't What It Used to Be."
+  }
+]
