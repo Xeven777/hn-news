@@ -1,76 +1,75 @@
 [
   {
-    "title": "Sunny days are warm: why LinkedIn rewards mediocrity",
-    "url": "https://www.elliotcsmith.com/linkedin-toxic-mediocrity/",
-    "points": 434,
-    "num_comments": 364,
+    "title": "Anna's Archive: An Update from the Team",
+    "url": "https://annas-archive.org/blog/an-update-from-the-team.html",
+    "points": 792,
+    "num_comments": 375,
     "tags": [
       "story",
-      "author_smitec",
-      "story_44930186"
-    ],
-    "author": "smitec",
-    "created_at": "2025-08-17T09:29:56Z",
-    "aiHeadline": "LinkedIn Proves Once Again That Mediocrity Thrives in Sunny Climates, Because Why Not?"
-  },
-  {
-    "title": "LL3M: Large Language 3D Modelers",
-    "url": "https://threedle.github.io/ll3m/",
-    "points": 368,
-    "num_comments": 158,
-    "tags": [
-      "story",
-      "author_simonpure",
-      "story_44930808",
+      "author_jerheinze",
+      "story_44942501",
       "front_page"
     ],
-    "author": "simonpure",
-    "created_at": "2025-08-17T11:20:20Z",
-    "aiHeadline": "LL3M: Where AI Finally Gets Its Hands Dirty, Because Who Needs Clean Code When You Can Have Virtual Mud?"
+    "author": "jerheinze",
+    "created_at": "2025-08-18T16:31:48Z",
+    "aiHeadline": "Anna's Archive Team Finally Speaks Up After Months of Silence, Shares Updates on Their Groundbreaking Project"
   },
   {
-    "title": "Node.js is able to execute TypeScript files without additional configuration",
-    "url": "https://nodejs.org/en/blog/release/v22.18.0",
-    "points": 337,
-    "num_comments": 199,
+    "title": "Web apps in a single, portable, self-updating, vanilla HTML file",
+    "url": "https://hyperclay.com/",
+    "points": 585,
+    "num_comments": 209,
     "tags": [
       "story",
-      "author_steren",
-      "story_44929260",
-      "front_page"
+      "author_pil0u",
+      "story_44937991"
     ],
-    "author": "steren",
-    "created_at": "2025-08-17T06:03:27Z",
-    "aiHeadline": "Node.js 22.18: TypeScript Files Now Execute Without Extra Configuration, Because Apparently, We've All Been Doing It Wrong This Whole Time."
+    "author": "pil0u",
+    "created_at": "2025-08-18T06:38:11Z",
+    "aiHeadline": "Web Apps Just Got a Miracle Cure: Now You Can Have Everything in One Portable, Self-Updating HTML File"
   },
   {
-    "title": "Claudia – Desktop companion for Claude code",
-    "url": "https://claudiacode.com/",
-    "points": 308,
-    "num_comments": 157,
+    "title": "Obsidian Bases",
+    "url": "https://help.obsidian.md/bases",
+    "points": 307,
+    "num_comments": 98,
     "tags": [
       "story",
-      "author_zerealshadowban",
-      "story_44933255",
+      "author_twapi",
+      "story_44945532",
       "front_page"
     ],
-    "author": "zerealshadowban",
-    "created_at": "2025-08-17T17:26:56Z",
-    "aiHeadline": "Claudia: Your New Desktop Companion for Claude Code, Because Who Doesn't Need Another App to Manage Their Apps?"
+    "author": "twapi",
+    "created_at": "2025-08-18T21:28:05Z",
+    "aiHeadline": "Obsidian Bases: The Latest Feature That Will Either Revolutionize Your Note-Taking or Make You Question Your Life Choices"
   },
   {
-    "title": "ArchiveTeam has finished archiving all goo.gl short links",
-    "url": "https://tracker.archiveteam.org/goo-gl/",
-    "points": 292,
-    "num_comments": 59,
+    "title": "FFmpeg Assembly Language Lessons",
+    "url": "https://github.com/FFmpeg/asm-lessons",
+    "points": 307,
+    "num_comments": 91,
     "tags": [
       "story",
-      "author_pentagrama",
-      "story_44933401",
+      "author_flykespice",
+      "story_44940485",
       "front_page"
     ],
-    "author": "pentagrama",
-    "created_at": "2025-08-17T17:46:04Z",
-    "aiHeadline": "ArchiveTeam Completesgoo.gl Archiving: Now We Can All Relive the Glory Days of Redirects and Broken Links, Because Nostalgia Ain't What It Used to Be."
+    "author": "flykespice",
+    "created_at": "2025-08-18T13:39:53Z",
+    "aiHeadline": "FFmpeg Releases Assembly Language Lessons, Because Who Doesn't Want to Feel Like a 90s Hacker While Coding?"
+  },
+  {
+    "title": "Google admits anti-competitive conduct involving Google Search in Australia",
+    "url": "https://www.accc.gov.au/media-release/google-admits-anti-competitive-conduct-involving-google-search-in-australia",
+    "points": 289,
+    "num_comments": 195,
+    "tags": [
+      "story",
+      "author_Improvement",
+      "story_44936945"
+    ],
+    "author": "Improvement",
+    "created_at": "2025-08-18T02:54:55Z",
+    "aiHeadline": "Google Finally Admits to Being a Monopoly in Australia, But Don't Worry—They'll Probably Just Keep Doing Whatever They Want Anyway"
   }
 ]
