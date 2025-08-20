@@ -1,75 +1,74 @@
 [
   {
-    "title": "Anna's Archive: An Update from the Team",
-    "url": "https://annas-archive.org/blog/an-update-from-the-team.html",
-    "points": 792,
-    "num_comments": 375,
+    "title": "How we exploited CodeRabbit: From simple PR to RCE and write access on 1M repos",
+    "url": "https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/",
+    "points": 491,
+    "num_comments": 164,
     "tags": [
       "story",
-      "author_jerheinze",
-      "story_44942501",
+      "author_spiridow",
+      "story_44953032",
       "front_page"
     ],
-    "author": "jerheinze",
-    "created_at": "2025-08-18T16:31:48Z",
-    "aiHeadline": "Anna's Archive Team Finally Speaks Up After Months of Silence, Shares Updates on Their Groundbreaking Project"
+    "author": "spiridow",
+    "created_at": "2025-08-19T15:55:15Z",
+    "aiHeadline": "How a simple PR turned into a full-blown exploit, giving hackers access to a million repos—because who needs security anyway?"
   },
   {
-    "title": "Web apps in a single, portable, self-updating, vanilla HTML file",
-    "url": "https://hyperclay.com/",
-    "points": 585,
-    "num_comments": 209,
+    "title": "\"Remove mentions of XSLT from the html spec\"",
+    "url": "https://github.com/whatwg/html/pull/11563",
+    "points": 334,
+    "num_comments": 406,
     "tags": [
       "story",
-      "author_pil0u",
-      "story_44937991"
+      "author_troupo",
+      "story_44952185"
     ],
-    "author": "pil0u",
-    "created_at": "2025-08-18T06:38:11Z",
-    "aiHeadline": "Web Apps Just Got a Miracle Cure: Now You Can Have Everything in One Portable, Self-Updating HTML File"
+    "author": "troupo",
+    "created_at": "2025-08-19T14:48:54Z",
+    "aiHeadline": "The HTML spec is getting a makeover—bye-bye XSLT, hello simpler times! Or maybe just simpler lies?"
   },
   {
-    "title": "Obsidian Bases",
-    "url": "https://help.obsidian.md/bases",
-    "points": 307,
-    "num_comments": 98,
-    "tags": [
-      "story",
-      "author_twapi",
-      "story_44945532",
-      "front_page"
-    ],
-    "author": "twapi",
-    "created_at": "2025-08-18T21:28:05Z",
-    "aiHeadline": "Obsidian Bases: The Latest Feature That Will Either Revolutionize Your Note-Taking or Make You Question Your Life Choices"
-  },
-  {
-    "title": "FFmpeg Assembly Language Lessons",
-    "url": "https://github.com/FFmpeg/asm-lessons",
-    "points": 307,
+    "title": "Prime Number Grid",
+    "url": "https://susam.net/primegrid.html",
+    "points": 273,
     "num_comments": 91,
     "tags": [
       "story",
-      "author_flykespice",
-      "story_44940485",
-      "front_page"
+      "author_todsacerdoti",
+      "story_44949162"
     ],
-    "author": "flykespice",
-    "created_at": "2025-08-18T13:39:53Z",
-    "aiHeadline": "FFmpeg Releases Assembly Language Lessons, Because Who Doesn't Want to Feel Like a 90s Hacker While Coding?"
+    "author": "todsacerdoti",
+    "created_at": "2025-08-19T07:33:09Z",
+    "aiHeadline": "Tired of regular prime number grids? Here's a new one that'll make you question everything you know about math!"
   },
   {
-    "title": "Google admits anti-competitive conduct involving Google Search in Australia",
-    "url": "https://www.accc.gov.au/media-release/google-admits-anti-competitive-conduct-involving-google-search-in-australia",
-    "points": 289,
-    "num_comments": 195,
+    "title": "UK drops demand for backdoor into Apple encryption",
+    "url": "https://www.theverge.com/news/761240/uk-apple-us-encryption-back-door-demands-dropped",
+    "points": 265,
+    "num_comments": 107,
     "tags": [
       "story",
-      "author_Improvement",
-      "story_44936945"
+      "author_iamdamian",
+      "story_44950600"
     ],
-    "author": "Improvement",
-    "created_at": "2025-08-18T02:54:55Z",
-    "aiHeadline": "Google Finally Admits to Being a Monopoly in Australia, But Don't Worry—They'll Probably Just Keep Doing Whatever They Want Anyway"
+    "author": "iamdamian",
+    "created_at": "2025-08-19T11:58:34Z",
+    "aiHeadline": "In a shocking twist, the UK government decides not to force Apple into creating a backdoor—could it be that they finally realized it's a terrible idea?"
+  },
+  {
+    "title": "Custom telescope mount using harmonic drives and ESP32",
+    "url": "https://www.svendewaerhert.com/blog/telescope-mount/",
+    "points": 262,
+    "num_comments": 96,
+    "tags": [
+      "story",
+      "author_waerhert",
+      "story_44949895",
+      "front_page"
+    ],
+    "author": "waerhert",
+    "created_at": "2025-08-19T09:46:27Z",
+    "aiHeadline": "Build your own telescope mount with some fancy drives and a microcontroller—because who needs a professional setup when you can DIY it with style?"
   }
 ]
