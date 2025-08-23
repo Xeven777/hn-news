@@ -1,75 +1,75 @@
 [
   {
-    "title": "AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'",
-    "url": "https://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion/",
-    "points": 1141,
-    "num_comments": 457,
+    "title": "FFmpeg 8.0",
+    "url": "https://ffmpeg.org/index.html#pr8.0",
+    "points": 709,
+    "num_comments": 169,
     "tags": [
       "story",
-      "author_JustExAWS",
-      "story_44972151"
-    ],
-    "author": "JustExAWS",
-    "created_at": "2025-08-21T12:53:16Z",
-    "aiHeadline": "AWS CEO: Replacing Junior Staff with AI is the Dumbest Idea Ever—But Don’t Worry, They’re Probably Still Getting Replaced Anyway."
-  },
-  {
-    "title": "Mark Zuckerberg freezes AI hiring amid bubble fears",
-    "url": "https://www.telegraph.co.uk/business/2025/08/21/zuckerberg-freezes-ai-hiring-amid-bubble-fears/",
-    "points": 684,
-    "num_comments": 690,
-    "tags": [
-      "story",
-      "author_pera",
-      "story_44971273",
+      "author_gyan",
+      "story_44985730",
       "front_page"
     ],
-    "author": "pera",
-    "created_at": "2025-08-21T11:04:08Z",
-    "aiHeadline": "Mark Zuckerberg Pauses AI Hiring—Because Who Needs More AI When You’re Already in a Bubble? (Says the Guy Who Built a $1 Trillion Bubble)."
+    "author": "gyan",
+    "created_at": "2025-08-22T15:22:42Z",
+    "aiHeadline": "FFmpeg 8.0: Because who doesn't want to relive the glorious 90s with their video encoding?"
   },
   {
-    "title": "AI tooling must be disclosed for contributions",
-    "url": "https://github.com/ghostty-org/ghostty/pull/8289",
-    "points": 507,
-    "num_comments": 278,
+    "title": "Go is still not good",
+    "url": "https://blog.habets.se/2025/07/Go-is-still-not-good.html",
+    "points": 520,
+    "num_comments": 704,
     "tags": [
       "story",
-      "author_freetonik",
-      "story_44976568",
+      "author_ustad",
+      "story_44982491"
+    ],
+    "author": "ustad",
+    "created_at": "2025-08-22T09:25:23Z",
+    "aiHeadline": "Go is still not good: Because why fix what isn't broken when you can just keep breaking it?"
+  },
+  {
+    "title": "Waymo granted permit to begin testing in New York City",
+    "url": "https://www.cnbc.com/2025/08/22/waymo-permit-new-york-city-nyc-rides.html",
+    "points": 494,
+    "num_comments": 452,
+    "tags": [
+      "story",
+      "author_achristmascarl",
+      "story_44986949",
       "front_page"
     ],
-    "author": "freetonik",
-    "created_at": "2025-08-21T18:49:57Z",
-    "aiHeadline": "AI Tooling Must Be Disclosed—Because Transparency is Apparently a Superpower We’ve Just Discovered."
+    "author": "achristmascarl",
+    "created_at": "2025-08-22T17:02:48Z",
+    "aiHeadline": "Waymo granted permit to begin testing in NYC: Because nothing says 'we're ready' like a controlled chaos experiment in the city that never sleeps."
   },
   {
-    "title": "95% of Companies See 'Zero Return' on $30B Generative AI Spend",
-    "url": "https://thedailyadda.com/95-of-companies-see-zero-return-on-30-billion-generative-ai-spend-mit-report-finds/",
-    "points": 385,
-    "num_comments": 401,
+    "title": "Io_uring, kTLS and Rust for zero syscall HTTPS server",
+    "url": "https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html",
+    "points": 452,
+    "num_comments": 146,
     "tags": [
       "story",
-      "author_speckx",
-      "story_44974104"
+      "author_guntars",
+      "story_44980865"
     ],
-    "author": "speckx",
-    "created_at": "2025-08-21T15:36:24Z",
-    "aiHeadline": "95% of Companies See Zero Return on $30B Generative AI Spend—Proving Once Again That Throwing Money at AI is About as Smart as Gambling with Your Retirement Fund."
+    "author": "guntars",
+    "created_at": "2025-08-22T03:51:44Z",
+    "aiHeadline": "Io_uring, kTLS, and Rust for zero syscall HTTPS server: Finally, a way to make your server so efficient it doesn't even need to call its mom anymore."
   },
   {
-    "title": "Weaponizing image scaling against production AI systems",
-    "url": "https://blog.trailofbits.com/2025/08/21/weaponizing-image-scaling-against-production-ai-systems/",
-    "points": 313,
-    "num_comments": 86,
+    "title": "U.S. government takes 10% stake in Intel",
+    "url": "https://www.cnbc.com/2025/08/22/intel-goverment-equity-stake.html",
+    "points": 412,
+    "num_comments": 420,
     "tags": [
       "story",
-      "author_tatersolid",
-      "story_44971845",
+      "author_givemeethekeys",
+      "story_44989773",
       "front_page"
     ],
-    "author": "tatersolid",
-    "created_at": "2025-08-21T12:20:53Z",
-    "aiHeadline": "Weaponizing Image Scaling Against AI—Because Sometimes the Most Effective Weapon is Just a Resize Button."
+    "author": "givemeethekeys",
+    "created_at": "2025-08-22T21:01:52Z",
+    "aiHeadline": "U.S. government takes 10% stake in Intel: Because when you can't afford to buy the whole company, 10% is the next best thing to prove you're still relevant."
   }
 ]
