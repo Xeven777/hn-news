@@ -1,75 +1,76 @@
 [
   {
-    "title": "FFmpeg 8.0",
-    "url": "https://ffmpeg.org/index.html#pr8.0",
-    "points": 709,
-    "num_comments": 169,
+    "title": "Manim: Animation engine for explanatory math videos",
+    "url": "https://github.com/3b1b/manim",
+    "points": 386,
+    "num_comments": 65,
     "tags": [
       "story",
-      "author_gyan",
-      "story_44985730",
+      "author_pykello",
+      "story_44994071",
       "front_page"
     ],
-    "author": "gyan",
-    "created_at": "2025-08-22T15:22:42Z",
-    "aiHeadline": "FFmpeg 8.0: Because who doesn't want to relive the glorious 90s with their video encoding?"
+    "author": "pykello",
+    "created_at": "2025-08-23T07:35:49Z",
+    "aiHeadline": "Manim: Finally, a tool to make your math videos slightly less boring than actual math."
   },
   {
-    "title": "Go is still not good",
-    "url": "https://blog.habets.se/2025/07/Go-is-still-not-good.html",
-    "points": 520,
-    "num_comments": 704,
+    "title": "Librebox: An open source, Roblox-compatible game engine",
+    "url": "https://github.com/librebox-devs/librebox-demo",
+    "points": 233,
+    "num_comments": 62,
     "tags": [
       "story",
-      "author_ustad",
-      "story_44982491"
-    ],
-    "author": "ustad",
-    "created_at": "2025-08-22T09:25:23Z",
-    "aiHeadline": "Go is still not good: Because why fix what isn't broken when you can just keep breaking it?"
-  },
-  {
-    "title": "Waymo granted permit to begin testing in New York City",
-    "url": "https://www.cnbc.com/2025/08/22/waymo-permit-new-york-city-nyc-rides.html",
-    "points": 494,
-    "num_comments": 452,
-    "tags": [
-      "story",
-      "author_achristmascarl",
-      "story_44986949",
+      "author_libreboxdevs",
+      "story_44995147",
       "front_page"
     ],
-    "author": "achristmascarl",
-    "created_at": "2025-08-22T17:02:48Z",
-    "aiHeadline": "Waymo granted permit to begin testing in NYC: Because nothing says 'we're ready' like a controlled chaos experiment in the city that never sleeps."
+    "author": "libreboxdevs",
+    "created_at": "2025-08-23T11:22:15Z",
+    "aiHeadline": "Librebox: Because the world really needed another way to make terrible games."
   },
   {
-    "title": "Io_uring, kTLS and Rust for zero syscall HTTPS server",
-    "url": "https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html",
-    "points": 452,
-    "num_comments": 146,
+    "title": "RFC 9839 and Bad Unicode",
+    "url": "https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839",
+    "points": 212,
+    "num_comments": 109,
     "tags": [
       "story",
-      "author_guntars",
-      "story_44980865"
-    ],
-    "author": "guntars",
-    "created_at": "2025-08-22T03:51:44Z",
-    "aiHeadline": "Io_uring, kTLS, and Rust for zero syscall HTTPS server: Finally, a way to make your server so efficient it doesn't even need to call its mom anymore."
-  },
-  {
-    "title": "U.S. government takes 10% stake in Intel",
-    "url": "https://www.cnbc.com/2025/08/22/intel-goverment-equity-stake.html",
-    "points": 412,
-    "num_comments": 420,
-    "tags": [
-      "story",
-      "author_givemeethekeys",
-      "story_44989773",
+      "author_Bogdanp",
+      "story_44995640",
       "front_page"
     ],
-    "author": "givemeethekeys",
-    "created_at": "2025-08-22T21:01:52Z",
-    "aiHeadline": "U.S. government takes 10% stake in Intel: Because when you can't afford to buy the whole company, 10% is the next best thing to prove you're still relevant."
+    "author": "Bogdanp",
+    "created_at": "2025-08-23T12:54:01Z",
+    "aiHeadline": "RFC 9839 and Bad Unicode: Because who doesn't love arguing about Unicode for hours?"
+  },
+  {
+    "title": "I'm too dumb for Zig's new IO interface",
+    "url": "https://www.openmymind.net/Im-Too-Dumb-For-Zigs-New-IO-Interface/",
+    "points": 195,
+    "num_comments": 219,
+    "tags": [
+      "story",
+      "author_begoon",
+      "story_44993797"
+    ],
+    "author": "begoon",
+    "created_at": "2025-08-23T06:39:38Z",
+    "aiHeadline": "I'm too dumb for Zig's new IO interface: Proof that even smart people can't figure out Zig's IO."
+  },
+  {
+    "title": "Line scan camera image processing for train photography",
+    "url": "https://daniel.lawrence.lu/blog/y2025m09d21/",
+    "points": 189,
+    "num_comments": 37,
+    "tags": [
+      "story",
+      "author_dllu",
+      "story_44996938",
+      "front_page"
+    ],
+    "author": "dllu",
+    "created_at": "2025-08-23T16:09:21Z",
+    "aiHeadline": "Line scan camera image processing for train photography: Because trains are so interesting, right?"
   }
 ]
