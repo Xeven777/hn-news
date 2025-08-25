@@ -1,76 +1,75 @@
 [
   {
-    "title": "Manim: Animation engine for explanatory math videos",
-    "url": "https://github.com/3b1b/manim",
-    "points": 386,
-    "num_comments": 65,
+    "title": "A German ISP changed their DNS to block my website",
+    "url": "https://lina.sh/blog/telefonica-sabotages-me",
+    "points": 713,
+    "num_comments": 367,
     "tags": [
       "story",
-      "author_pykello",
-      "story_44994071",
-      "front_page"
+      "author_shaunpud",
+      "story_45003033"
     ],
-    "author": "pykello",
-    "created_at": "2025-08-23T07:35:49Z",
-    "aiHeadline": "Manim: Finally, a tool to make your math videos slightly less boring than actual math."
+    "author": "shaunpud",
+    "created_at": "2025-08-24T10:27:19Z",
+    "aiHeadline": "A German ISP decided to block my website because, you know, they just love helping out small businesses."
   },
   {
-    "title": "Librebox: An open source, Roblox-compatible game engine",
-    "url": "https://github.com/librebox-devs/librebox-demo",
-    "points": 233,
-    "num_comments": 62,
+    "title": "Comet AI browser can get prompt injected from any site, drain your bank account",
+    "url": "https://twitter.com/zack_overflow/status/1959308058200551721",
+    "points": 476,
+    "num_comments": 172,
     "tags": [
       "story",
-      "author_libreboxdevs",
-      "story_44995147",
+      "author_helloplanets",
+      "story_45004846",
       "front_page"
     ],
-    "author": "libreboxdevs",
-    "created_at": "2025-08-23T11:22:15Z",
-    "aiHeadline": "Librebox: Because the world really needed another way to make terrible games."
+    "author": "helloplanets",
+    "created_at": "2025-08-24T15:14:34Z",
+    "aiHeadline": "Comet AI browser: Now you can let any random website drain your bank account with just a few clicks!"
   },
   {
-    "title": "RFC 9839 and Bad Unicode",
-    "url": "https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839",
-    "points": 212,
-    "num_comments": 109,
+    "title": "How to build a coding agent",
+    "url": "https://ghuntley.com/agent/",
+    "points": 419,
+    "num_comments": 112,
     "tags": [
       "story",
-      "author_Bogdanp",
-      "story_44995640",
+      "author_ghuntley",
+      "story_45001051",
       "front_page"
     ],
-    "author": "Bogdanp",
-    "created_at": "2025-08-23T12:54:01Z",
-    "aiHeadline": "RFC 9839 and Bad Unicode: Because who doesn't love arguing about Unicode for hours?"
+    "author": "ghuntley",
+    "created_at": "2025-08-24T03:21:14Z",
+    "aiHeadline": "How to build a coding agent: Because who doesn't want to spend hours debugging just to make a robot write 'Hello, World!'?"
   },
   {
-    "title": "I'm too dumb for Zig's new IO interface",
-    "url": "https://www.openmymind.net/Im-Too-Dumb-For-Zigs-New-IO-Interface/",
-    "points": 195,
-    "num_comments": 219,
+    "title": "Making games in Go: 3 months without LLMs vs. 3 days with LLMs",
+    "url": "https://marianogappa.github.io/software/2025/08/24/i-made-two-card-games-in-go/",
+    "points": 248,
+    "num_comments": 177,
     "tags": [
       "story",
-      "author_begoon",
-      "story_44993797"
-    ],
-    "author": "begoon",
-    "created_at": "2025-08-23T06:39:38Z",
-    "aiHeadline": "I'm too dumb for Zig's new IO interface: Proof that even smart people can't figure out Zig's IO."
-  },
-  {
-    "title": "Line scan camera image processing for train photography",
-    "url": "https://daniel.lawrence.lu/blog/y2025m09d21/",
-    "points": 189,
-    "num_comments": 37,
-    "tags": [
-      "story",
-      "author_dllu",
-      "story_44996938",
+      "author_maloga",
+      "story_45004728",
       "front_page"
     ],
-    "author": "dllu",
-    "created_at": "2025-08-23T16:09:21Z",
-    "aiHeadline": "Line scan camera image processing for train photography: Because trains are so interesting, right?"
+    "author": "maloga",
+    "created_at": "2025-08-24T15:01:24Z",
+    "aiHeadline": "Making games in Go: 3 months of hard work without LLMs, or 3 days of pure magic with them!"
+  },
+  {
+    "title": "Valve Software handbook for new employees [pdf] (2012)",
+    "url": "https://cdn.akamai.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf",
+    "points": 225,
+    "num_comments": 174,
+    "tags": [
+      "story",
+      "author_Michelangelo11",
+      "story_45002301"
+    ],
+    "author": "Michelangelo11",
+    "created_at": "2025-08-24T08:02:12Z",
+    "aiHeadline": "Valve Software handbook for new employees [pdf] (2012): Because who needs updated information when you can have a decade-old guide?"
   }
 ]
