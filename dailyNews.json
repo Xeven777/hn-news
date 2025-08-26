@@ -1,75 +1,76 @@
 [
   {
-    "title": "A German ISP changed their DNS to block my website",
-    "url": "https://lina.sh/blog/telefonica-sabotages-me",
-    "points": 713,
-    "num_comments": 367,
+    "title": "Google to require developer verification to install and sideload Android apps",
+    "url": "https://9to5google.com/2025/08/25/android-apps-developer-verification/",
+    "points": 919,
+    "num_comments": 719,
     "tags": [
       "story",
-      "author_shaunpud",
-      "story_45003033"
-    ],
-    "author": "shaunpud",
-    "created_at": "2025-08-24T10:27:19Z",
-    "aiHeadline": "A German ISP decided to block my website because, you know, they just love helping out small businesses."
-  },
-  {
-    "title": "Comet AI browser can get prompt injected from any site, drain your bank account",
-    "url": "https://twitter.com/zack_overflow/status/1959308058200551721",
-    "points": 476,
-    "num_comments": 172,
-    "tags": [
-      "story",
-      "author_helloplanets",
-      "story_45004846",
+      "author_kotaKat",
+      "story_45017028",
       "front_page"
     ],
-    "author": "helloplanets",
-    "created_at": "2025-08-24T15:14:34Z",
-    "aiHeadline": "Comet AI browser: Now you can let any random website drain your bank account with just a few clicks!"
+    "author": "kotaKat",
+    "created_at": "2025-08-25T18:18:18Z",
+    "aiHeadline": "Google's New Plan to Annoy You Even More: Developer Verification for Android Apps"
   },
   {
-    "title": "How to build a coding agent",
-    "url": "https://ghuntley.com/agent/",
-    "points": 419,
-    "num_comments": 112,
+    "title": "What are OKLCH colors?",
+    "url": "https://jakub.kr/components/oklch-colors",
+    "points": 749,
+    "num_comments": 173,
     "tags": [
       "story",
-      "author_ghuntley",
-      "story_45001051",
+      "author_tontonius",
+      "story_45010876"
+    ],
+    "author": "tontonius",
+    "created_at": "2025-08-25T06:32:04Z",
+    "aiHeadline": "What Are OKLCH Colors? Because Apparently, HSL Wasn't Enough to Confuse Designers"
+  },
+  {
+    "title": "Ban me at the IP level if you don't like me",
+    "url": "https://boston.conman.org/2025/08/21.1",
+    "points": 538,
+    "num_comments": 396,
+    "tags": [
+      "story",
+      "author_classichasclass",
+      "story_45010183"
+    ],
+    "author": "classichasclass",
+    "created_at": "2025-08-25T04:23:29Z",
+    "aiHeadline": "Some Guy Says, 'Ban Me at the IP Level If You Don't Like Me,' and Now We're All Waiting for the Internet to Explode"
+  },
+  {
+    "title": "Show HN: Base, an SQLite database editor for macOS",
+    "url": "https://menial.co.uk/base/",
+    "points": 504,
+    "num_comments": 135,
+    "tags": [
+      "story",
+      "author___bb",
+      "story_45014131",
+      "show_hn",
       "front_page"
     ],
-    "author": "ghuntley",
-    "created_at": "2025-08-24T03:21:14Z",
-    "aiHeadline": "How to build a coding agent: Because who doesn't want to spend hours debugging just to make a robot write 'Hello, World!'?"
+    "author": "__bb",
+    "created_at": "2025-08-25T14:17:38Z",
+    "aiHeadline": "Base: The SQLite Database Editor for macOS That Proves You Can Make Even Databases Look Pretty"
   },
   {
-    "title": "Making games in Go: 3 months without LLMs vs. 3 days with LLMs",
-    "url": "https://marianogappa.github.io/software/2025/08/24/i-made-two-card-games-in-go/",
-    "points": 248,
-    "num_comments": 177,
+    "title": "Building the mouse Logitech won't make",
+    "url": "https://samwilkinson.io/posts/2025-08-24-mx-ergo-mods",
+    "points": 351,
+    "num_comments": 253,
     "tags": [
       "story",
-      "author_maloga",
-      "story_45004728",
+      "author_sammycdubs",
+      "story_45014993",
       "front_page"
     ],
-    "author": "maloga",
-    "created_at": "2025-08-24T15:01:24Z",
-    "aiHeadline": "Making games in Go: 3 months of hard work without LLMs, or 3 days of pure magic with them!"
-  },
-  {
-    "title": "Valve Software handbook for new employees [pdf] (2012)",
-    "url": "https://cdn.akamai.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf",
-    "points": 225,
-    "num_comments": 174,
-    "tags": [
-      "story",
-      "author_Michelangelo11",
-      "story_45002301"
-    ],
-    "author": "Michelangelo11",
-    "created_at": "2025-08-24T08:02:12Z",
-    "aiHeadline": "Valve Software handbook for new employees [pdf] (2012): Because who needs updated information when you can have a decade-old guide?"
+    "author": "sammycdubs",
+    "created_at": "2025-08-25T15:34:50Z",
+    "aiHeadline": "Building the Mouse Logitech Won't Make: Because Clearly, They're Too Busy Making Mice That Don't Actually Work"
   }
 ]
