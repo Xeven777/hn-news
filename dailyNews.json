@@ -1,76 +1,75 @@
 [
   {
-    "title": "Google to require developer verification to install and sideload Android apps",
-    "url": "https://9to5google.com/2025/08/25/android-apps-developer-verification/",
-    "points": 919,
-    "num_comments": 719,
+    "title": "Gemini 2.5 Flash Image",
+    "url": "https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/",
+    "points": 759,
+    "num_comments": 371,
     "tags": [
       "story",
-      "author_kotaKat",
-      "story_45017028",
+      "author_meetpateltech",
+      "story_45026719",
       "front_page"
     ],
-    "author": "kotaKat",
-    "created_at": "2025-08-25T18:18:18Z",
-    "aiHeadline": "Google's New Plan to Annoy You Even More: Developer Verification for Android Apps"
+    "author": "meetpateltech",
+    "created_at": "2025-08-26T14:01:46Z",
+    "aiHeadline": "Google's Gemini 2.5 Flash Image: Finally, an upgrade that might actually make a difference this time."
   },
   {
-    "title": "What are OKLCH colors?",
-    "url": "https://jakub.kr/components/oklch-colors",
-    "points": 749,
-    "num_comments": 173,
+    "title": "We regret but have to temporary suspend the shipments to USA",
+    "url": "https://olimex.wordpress.com/2025/08/26/we-regret-but-have-to-temporary-suspend-the-shipments-to-usa/",
+    "points": 551,
+    "num_comments": 540,
     "tags": [
       "story",
-      "author_tontonius",
-      "story_45010876"
+      "author_CTOSian",
+      "story_45029579"
     ],
-    "author": "tontonius",
-    "created_at": "2025-08-25T06:32:04Z",
-    "aiHeadline": "What Are OKLCH Colors? Because Apparently, HSL Wasn't Enough to Confuse Designers"
+    "author": "CTOSian",
+    "created_at": "2025-08-26T17:22:33Z",
+    "aiHeadline": "Olimex suspends shipments to the USA: Because who needs another excuse to wait for their order?"
   },
   {
-    "title": "Ban me at the IP level if you don't like me",
-    "url": "https://boston.conman.org/2025/08/21.1",
-    "points": 538,
-    "num_comments": 396,
+    "title": "Claude for Chrome",
+    "url": "https://www.anthropic.com/news/claude-for-chrome",
+    "points": 412,
+    "num_comments": 258,
     "tags": [
       "story",
-      "author_classichasclass",
-      "story_45010183"
-    ],
-    "author": "classichasclass",
-    "created_at": "2025-08-25T04:23:29Z",
-    "aiHeadline": "Some Guy Says, 'Ban Me at the IP Level If You Don't Like Me,' and Now We're All Waiting for the Internet to Explode"
-  },
-  {
-    "title": "Show HN: Base, an SQLite database editor for macOS",
-    "url": "https://menial.co.uk/base/",
-    "points": 504,
-    "num_comments": 135,
-    "tags": [
-      "story",
-      "author___bb",
-      "story_45014131",
-      "show_hn",
+      "author_davidbarker",
+      "story_45030760",
       "front_page"
     ],
-    "author": "__bb",
-    "created_at": "2025-08-25T14:17:38Z",
-    "aiHeadline": "Base: The SQLite Database Editor for macOS That Proves You Can Make Even Databases Look Pretty"
+    "author": "davidbarker",
+    "created_at": "2025-08-26T19:01:56Z",
+    "aiHeadline": "Claude for Chrome: Now your browser can be as slow as your brain, but with AI!"
   },
   {
-    "title": "Building the mouse Logitech won't make",
-    "url": "https://samwilkinson.io/posts/2025-08-24-mx-ergo-mods",
+    "title": "Michigan Supreme Court: Unrestricted phone searches violate Fourth Amendment",
+    "url": "https://reclaimthenet.org/michigan-supreme-court-rules-phone-search-warrants-must-be-specific",
+    "points": 366,
+    "num_comments": 79,
+    "tags": [
+      "story",
+      "author_mikece",
+      "story_45029764",
+      "front_page"
+    ],
+    "author": "mikece",
+    "created_at": "2025-08-26T17:36:57Z",
+    "aiHeadline": "Michigan Supreme Court: Police can't just rummage through your phone anymore. Shocking!"
+  },
+  {
+    "title": "Framework Laptop 16",
+    "url": "https://frame.work/ro/en/laptop16?tab=whats-new",
     "points": 351,
-    "num_comments": 253,
+    "num_comments": 304,
     "tags": [
       "story",
-      "author_sammycdubs",
-      "story_45014993",
-      "front_page"
+      "author_susanthenerd",
+      "story_45027725"
     ],
-    "author": "sammycdubs",
-    "created_at": "2025-08-25T15:34:50Z",
-    "aiHeadline": "Building the Mouse Logitech Won't Make: Because Clearly, They're Too Busy Making Mice That Don't Actually Work"
+    "author": "susanthenerd",
+    "created_at": "2025-08-26T15:12:30Z",
+    "aiHeadline": "Framework Laptop 16: The laptop that will make you question why you ever left your desk."
   }
 ]
