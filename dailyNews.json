@@ -1,75 +1,74 @@
 [
   {
-    "title": "Gemini 2.5 Flash Image",
-    "url": "https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/",
-    "points": 759,
-    "num_comments": 371,
+    "title": "Dissecting the Apple M1 GPU, the end",
+    "url": "https://rosenzweig.io/blog/asahi-gpu-part-n.html",
+    "points": 782,
+    "num_comments": 210,
     "tags": [
       "story",
-      "author_meetpateltech",
-      "story_45026719",
+      "author_alsetmusic",
+      "story_45034537"
+    ],
+    "author": "alsetmusic",
+    "created_at": "2025-08-27T01:44:16Z",
+    "aiHeadline": "The Apple M1 GPU's secrets are finally out, and it turns out it's just been hiding its lack of power all along."
+  },
+  {
+    "title": "Monodraw",
+    "url": "https://monodraw.helftone.com/",
+    "points": 543,
+    "num_comments": 172,
+    "tags": [
+      "story",
+      "author_mafro",
+      "story_45037904",
       "front_page"
     ],
-    "author": "meetpateltech",
-    "created_at": "2025-08-26T14:01:46Z",
-    "aiHeadline": "Google's Gemini 2.5 Flash Image: Finally, an upgrade that might actually make a difference this time."
+    "author": "mafro",
+    "created_at": "2025-08-27T10:54:41Z",
+    "aiHeadline": "Monodraw: because who doesn't want to draw monochrome shapes on their computer? Now you can, and it's as productive as a coffee break."
   },
   {
-    "title": "We regret but have to temporary suspend the shipments to USA",
-    "url": "https://olimex.wordpress.com/2025/08/26/we-regret-but-have-to-temporary-suspend-the-shipments-to-usa/",
-    "points": 551,
-    "num_comments": 540,
+    "title": "Scientist exposes anti-wind groups as oil-funded, now they want to silence him",
+    "url": "https://electrek.co/2025/08/25/scientist-exposes-anti-wind-groups-as-oil-funded-now-they-want-to-silence-him/",
+    "points": 500,
+    "num_comments": 259,
     "tags": [
       "story",
-      "author_CTOSian",
-      "story_45029579"
+      "author_xbmcuser",
+      "story_45036231"
     ],
-    "author": "CTOSian",
-    "created_at": "2025-08-26T17:22:33Z",
-    "aiHeadline": "Olimex suspends shipments to the USA: Because who needs another excuse to wait for their order?"
+    "author": "xbmcuser",
+    "created_at": "2025-08-27T06:49:23Z",
+    "aiHeadline": "A scientist blows the whistle on anti-wind groups funded by Big Oil, and now they're trying to shut him up—because nothing says 'thank you' like a legal battle."
   },
   {
-    "title": "Claude for Chrome",
-    "url": "https://www.anthropic.com/news/claude-for-chrome",
-    "points": 412,
-    "num_comments": 258,
+    "title": "Nx compromised: malware uses Claude code CLI to explore the filesystem",
+    "url": "https://semgrep.dev/blog/2025/security-alert-nx-compromised-to-steal-wallets-and-credentials/",
+    "points": 478,
+    "num_comments": 37,
     "tags": [
       "story",
-      "author_davidbarker",
-      "story_45030760",
+      "author_neuroo",
+      "story_45038653"
+    ],
+    "author": "neuroo",
+    "created_at": "2025-08-27T12:18:47Z",
+    "aiHeadline": "Nx gets hacked, and malware is using Claude code CLI to snoop around. Because sometimes, even your tools can turn into traitors."
+  },
+  {
+    "title": "The Therac-25 Incident (2021)",
+    "url": "https://thedailywtf.com/articles/the-therac-25-incident",
+    "points": 392,
+    "num_comments": 232,
+    "tags": [
+      "story",
+      "author_lemper",
+      "story_45036294",
       "front_page"
     ],
-    "author": "davidbarker",
-    "created_at": "2025-08-26T19:01:56Z",
-    "aiHeadline": "Claude for Chrome: Now your browser can be as slow as your brain, but with AI!"
-  },
-  {
-    "title": "Michigan Supreme Court: Unrestricted phone searches violate Fourth Amendment",
-    "url": "https://reclaimthenet.org/michigan-supreme-court-rules-phone-search-warrants-must-be-specific",
-    "points": 366,
-    "num_comments": 79,
-    "tags": [
-      "story",
-      "author_mikece",
-      "story_45029764",
-      "front_page"
-    ],
-    "author": "mikece",
-    "created_at": "2025-08-26T17:36:57Z",
-    "aiHeadline": "Michigan Supreme Court: Police can't just rummage through your phone anymore. Shocking!"
-  },
-  {
-    "title": "Framework Laptop 16",
-    "url": "https://frame.work/ro/en/laptop16?tab=whats-new",
-    "points": 351,
-    "num_comments": 304,
-    "tags": [
-      "story",
-      "author_susanthenerd",
-      "story_45027725"
-    ],
-    "author": "susanthenerd",
-    "created_at": "2025-08-26T15:12:30Z",
-    "aiHeadline": "Framework Laptop 16: The laptop that will make you question why you ever left your desk."
+    "author": "lemper",
+    "created_at": "2025-08-27T06:57:56Z",
+    "aiHeadline": "The Therac-25 Incident: when radiation therapy goes wrong, and software bugs become the stuff of nightmares. A cautionary tale for all us tech enthusiasts."
   }
 ]
