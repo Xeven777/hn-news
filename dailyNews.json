@@ -1,74 +1,74 @@
 [
   {
-    "title": "Dissecting the Apple M1 GPU, the end",
-    "url": "https://rosenzweig.io/blog/asahi-gpu-part-n.html",
-    "points": 782,
-    "num_comments": 210,
+    "title": "Ask HN: The government of my country blocked VPN access. What should I use?",
+    "points": 738,
+    "num_comments": 424,
     "tags": [
       "story",
-      "author_alsetmusic",
-      "story_45034537"
-    ],
-    "author": "alsetmusic",
-    "created_at": "2025-08-27T01:44:16Z",
-    "aiHeadline": "The Apple M1 GPU's secrets are finally out, and it turns out it's just been hiding its lack of power all along."
-  },
-  {
-    "title": "Monodraw",
-    "url": "https://monodraw.helftone.com/",
-    "points": 543,
-    "num_comments": 172,
-    "tags": [
-      "story",
-      "author_mafro",
-      "story_45037904",
+      "author_rickybule",
+      "story_45054260",
+      "ask_hn",
       "front_page"
     ],
-    "author": "mafro",
-    "created_at": "2025-08-27T10:54:41Z",
-    "aiHeadline": "Monodraw: because who doesn't want to draw monochrome shapes on their computer? Now you can, and it's as productive as a coffee break."
+    "author": "rickybule",
+    "created_at": "2025-08-28T16:43:05Z",
+    "aiHeadline": "Ask HN: My country's government decided to block VPNs because they're clearly the root of all evil. What should I use instead? Maybe a pigeon with a USB drive?"
   },
   {
-    "title": "Scientist exposes anti-wind groups as oil-funded, now they want to silence him",
-    "url": "https://electrek.co/2025/08/25/scientist-exposes-anti-wind-groups-as-oil-funded-now-they-want-to-silence-him/",
-    "points": 500,
-    "num_comments": 259,
+    "title": "Are OpenAI and Anthropic losing money on inference?",
+    "url": "https://martinalderson.com/posts/are-openai-and-anthropic-really-losing-money-on-inference/",
+    "points": 443,
+    "num_comments": 421,
     "tags": [
       "story",
-      "author_xbmcuser",
-      "story_45036231"
-    ],
-    "author": "xbmcuser",
-    "created_at": "2025-08-27T06:49:23Z",
-    "aiHeadline": "A scientist blows the whistle on anti-wind groups funded by Big Oil, and now they're trying to shut him up—because nothing says 'thank you' like a legal battle."
-  },
-  {
-    "title": "Nx compromised: malware uses Claude code CLI to explore the filesystem",
-    "url": "https://semgrep.dev/blog/2025/security-alert-nx-compromised-to-steal-wallets-and-credentials/",
-    "points": 478,
-    "num_comments": 37,
-    "tags": [
-      "story",
-      "author_neuroo",
-      "story_45038653"
-    ],
-    "author": "neuroo",
-    "created_at": "2025-08-27T12:18:47Z",
-    "aiHeadline": "Nx gets hacked, and malware is using Claude code CLI to snoop around. Because sometimes, even your tools can turn into traitors."
-  },
-  {
-    "title": "The Therac-25 Incident (2021)",
-    "url": "https://thedailywtf.com/articles/the-therac-25-incident",
-    "points": 392,
-    "num_comments": 232,
-    "tags": [
-      "story",
-      "author_lemper",
-      "story_45036294",
+      "author_martinald",
+      "story_45050415",
       "front_page"
     ],
-    "author": "lemper",
-    "created_at": "2025-08-27T06:57:56Z",
-    "aiHeadline": "The Therac-25 Incident: when radiation therapy goes wrong, and software bugs become the stuff of nightmares. A cautionary tale for all us tech enthusiasts."
+    "author": "martinald",
+    "created_at": "2025-08-28T10:15:22Z",
+    "aiHeadline": "Are OpenAI and Anthropic losing money on inference? Probably, but at least they're not losing it on trying to figure out why people keep asking if they're losing money."
+  },
+  {
+    "title": "Open Source is one person",
+    "url": "https://opensourcesecurity.io/2025/08-oss-one-person/",
+    "points": 342,
+    "num_comments": 145,
+    "tags": [
+      "story",
+      "author_LawnGnome",
+      "story_45047460"
+    ],
+    "author": "LawnGnome",
+    "created_at": "2025-08-28T01:54:59Z",
+    "aiHeadline": "Open Source is one person: Because apparently, the rest of the world is too busy scrolling through TikTok to help maintain critical infrastructure."
+  },
+  {
+    "title": "The Deletion of Docker.io/Bitnami",
+    "url": "https://community.broadcom.com/tanzu/blogs/beltran-rueda-borrego/2025/08/18/how-to-prepare-for-the-bitnami-changes-coming-soon",
+    "points": 329,
+    "num_comments": 226,
+    "tags": [
+      "story",
+      "author_zdkaster",
+      "story_45048419"
+    ],
+    "author": "zdkaster",
+    "created_at": "2025-08-28T04:37:12Z",
+    "aiHeadline": "The Deletion of Docker.io/Bitnami: Docker is cleaning up its act by deleting all the messy, community-driven stuff. Now it's just a bunch of curated, corporate-approved nonsense."
+  },
+  {
+    "title": "Important machine learning equations",
+    "url": "https://chizkidd.github.io//2025/05/30/machine-learning-key-math-eqns/",
+    "points": 272,
+    "num_comments": 27,
+    "tags": [
+      "story",
+      "author_sebg",
+      "story_45050931"
+    ],
+    "author": "sebg",
+    "created_at": "2025-08-28T11:38:44Z",
+    "aiHeadline": "Important machine learning equations: Because nothing says 'I'm a real data scientist' like memorizing a bunch of equations that no one actually understands."
   }
 ]
