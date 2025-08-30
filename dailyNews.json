@@ -1,74 +1,73 @@
 [
   {
-    "title": "Ask HN: The government of my country blocked VPN access. What should I use?",
-    "points": 738,
-    "num_comments": 424,
+    "title": "Updates to Consumer Terms and Privacy Policy",
+    "url": "https://www.anthropic.com/news/updates-to-our-consumer-terms",
+    "points": 714,
+    "num_comments": 489,
     "tags": [
       "story",
-      "author_rickybule",
-      "story_45054260",
-      "ask_hn",
+      "author_porridgeraisin",
+      "story_45062683"
+    ],
+    "author": "porridgeraisin",
+    "created_at": "2025-08-29T11:29:10Z",
+    "aiHeadline": "Anthropic rolls out new consumer terms and privacy policy updates, because what better way to start your day than reading through pages of fine print that could potentially strip you of all your digital rights?"
+  },
+  {
+    "title": "Tesla said it didn't have key data in a fatal crash, then a hacker found it",
+    "url": "https://www.washingtonpost.com/technology/2025/08/29/tesla-autopilot-crashes-evidence-testimony-wrongful-death/",
+    "points": 586,
+    "num_comments": 346,
+    "tags": [
+      "story",
+      "author_clcaev",
+      "story_45062614"
+    ],
+    "author": "clcaev",
+    "created_at": "2025-08-29T11:15:39Z",
+    "aiHeadline": "Tesla claims it had no key data from a fatal crash, but then a hacker found it, proving once again that when it comes to hiding data, Tesla is about as subtle as a sledgehammer in a china shop."
+  },
+  {
+    "title": "Some users have noticed settings that let Meta analyze and retain phone photos",
+    "url": "https://www.zdnet.com/article/meta-might-be-secretly-scanning-your-phones-camera-roll-how-to-check-and-turn-it-off/",
+    "points": 462,
+    "num_comments": 217,
+    "tags": [
+      "story",
+      "author_mdhb",
+      "story_45062910"
+    ],
+    "author": "mdhb",
+    "created_at": "2025-08-29T12:01:31Z",
+    "aiHeadline": "Meta悄悄分析并保留你的手机照片？一些用户发现了这个设置，这让我们不得不怀疑：Meta是不是偷偷把你的手机当成了他们的个人相册？"
+  },
+  {
+    "title": "The Synology End Game",
+    "url": "https://lowendbox.com/blog/they-used-to-be-good-but-now-theyve-turned-to-evil-the-synology-end-game/",
+    "points": 388,
+    "num_comments": 318,
+    "tags": [
+      "story",
+      "author_amacbride",
+      "story_45060920",
       "front_page"
     ],
-    "author": "rickybule",
-    "created_at": "2025-08-28T16:43:05Z",
-    "aiHeadline": "Ask HN: My country's government decided to block VPNs because they're clearly the root of all evil. What should I use instead? Maybe a pigeon with a USB drive?"
+    "author": "amacbride",
+    "created_at": "2025-08-29T06:37:21Z",
+    "aiHeadline": "The Synology End Game: Once upon a time, they were the heroes of the NAS world, but now they've turned to the dark side, proving that even the best can become evil with the right amount of greed and poor decision-making."
   },
   {
-    "title": "Are OpenAI and Anthropic losing money on inference?",
-    "url": "https://martinalderson.com/posts/are-openai-and-anthropic-really-losing-money-on-inference/",
-    "points": 443,
-    "num_comments": 421,
+    "title": "If you have a Claude account, they're going to train on your data moving forward",
+    "url": "https://old.reddit.com/r/LocalLLaMA/comments/1n2ubjx/if_you_have_a_claude_personal_account_they_are/",
+    "points": 368,
+    "num_comments": 192,
     "tags": [
       "story",
-      "author_martinald",
-      "story_45050415",
-      "front_page"
+      "author_diggan",
+      "story_45062738"
     ],
-    "author": "martinald",
-    "created_at": "2025-08-28T10:15:22Z",
-    "aiHeadline": "Are OpenAI and Anthropic losing money on inference? Probably, but at least they're not losing it on trying to figure out why people keep asking if they're losing money."
-  },
-  {
-    "title": "Open Source is one person",
-    "url": "https://opensourcesecurity.io/2025/08-oss-one-person/",
-    "points": 342,
-    "num_comments": 145,
-    "tags": [
-      "story",
-      "author_LawnGnome",
-      "story_45047460"
-    ],
-    "author": "LawnGnome",
-    "created_at": "2025-08-28T01:54:59Z",
-    "aiHeadline": "Open Source is one person: Because apparently, the rest of the world is too busy scrolling through TikTok to help maintain critical infrastructure."
-  },
-  {
-    "title": "The Deletion of Docker.io/Bitnami",
-    "url": "https://community.broadcom.com/tanzu/blogs/beltran-rueda-borrego/2025/08/18/how-to-prepare-for-the-bitnami-changes-coming-soon",
-    "points": 329,
-    "num_comments": 226,
-    "tags": [
-      "story",
-      "author_zdkaster",
-      "story_45048419"
-    ],
-    "author": "zdkaster",
-    "created_at": "2025-08-28T04:37:12Z",
-    "aiHeadline": "The Deletion of Docker.io/Bitnami: Docker is cleaning up its act by deleting all the messy, community-driven stuff. Now it's just a bunch of curated, corporate-approved nonsense."
-  },
-  {
-    "title": "Important machine learning equations",
-    "url": "https://chizkidd.github.io//2025/05/30/machine-learning-key-math-eqns/",
-    "points": 272,
-    "num_comments": 27,
-    "tags": [
-      "story",
-      "author_sebg",
-      "story_45050931"
-    ],
-    "author": "sebg",
-    "created_at": "2025-08-28T11:38:44Z",
-    "aiHeadline": "Important machine learning equations: Because nothing says 'I'm a real data scientist' like memorizing a bunch of equations that no one actually understands."
+    "author": "diggan",
+    "created_at": "2025-08-29T11:39:26Z",
+    "aiHeadline": "If you have a Claude account, prepare for your data to be used for training, because apparently, your life is now the ultimate AI training manual, and you're just along for the ride."
   }
 ]
