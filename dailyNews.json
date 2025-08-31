@@ -1,73 +1,77 @@
 [
   {
-    "title": "Updates to Consumer Terms and Privacy Policy",
-    "url": "https://www.anthropic.com/news/updates-to-our-consumer-terms",
-    "points": 714,
-    "num_comments": 489,
+    "title": "Cognitive load is what matters",
+    "url": "https://github.com/zakirullin/cognitive-load",
+    "points": 790,
+    "num_comments": 337,
     "tags": [
       "story",
-      "author_porridgeraisin",
-      "story_45062683"
-    ],
-    "author": "porridgeraisin",
-    "created_at": "2025-08-29T11:29:10Z",
-    "aiHeadline": "Anthropic rolls out new consumer terms and privacy policy updates, because what better way to start your day than reading through pages of fine print that could potentially strip you of all your digital rights?"
-  },
-  {
-    "title": "Tesla said it didn't have key data in a fatal crash, then a hacker found it",
-    "url": "https://www.washingtonpost.com/technology/2025/08/29/tesla-autopilot-crashes-evidence-testimony-wrongful-death/",
-    "points": 586,
-    "num_comments": 346,
-    "tags": [
-      "story",
-      "author_clcaev",
-      "story_45062614"
-    ],
-    "author": "clcaev",
-    "created_at": "2025-08-29T11:15:39Z",
-    "aiHeadline": "Tesla claims it had no key data from a fatal crash, but then a hacker found it, proving once again that when it comes to hiding data, Tesla is about as subtle as a sledgehammer in a china shop."
-  },
-  {
-    "title": "Some users have noticed settings that let Meta analyze and retain phone photos",
-    "url": "https://www.zdnet.com/article/meta-might-be-secretly-scanning-your-phones-camera-roll-how-to-check-and-turn-it-off/",
-    "points": 462,
-    "num_comments": 217,
-    "tags": [
-      "story",
-      "author_mdhb",
-      "story_45062910"
-    ],
-    "author": "mdhb",
-    "created_at": "2025-08-29T12:01:31Z",
-    "aiHeadline": "Meta悄悄分析并保留你的手机照片？一些用户发现了这个设置，这让我们不得不怀疑：Meta是不是偷偷把你的手机当成了他们的个人相册？"
-  },
-  {
-    "title": "The Synology End Game",
-    "url": "https://lowendbox.com/blog/they-used-to-be-good-but-now-theyve-turned-to-evil-the-synology-end-game/",
-    "points": 388,
-    "num_comments": 318,
-    "tags": [
-      "story",
-      "author_amacbride",
-      "story_45060920",
+      "author_nromiun",
+      "story_45074248",
       "front_page"
     ],
-    "author": "amacbride",
-    "created_at": "2025-08-29T06:37:21Z",
-    "aiHeadline": "The Synology End Game: Once upon a time, they were the heroes of the NAS world, but now they've turned to the dark side, proving that even the best can become evil with the right amount of greed and poor decision-making."
+    "author": "nromiun",
+    "created_at": "2025-08-30T12:58:48Z",
+    "aiHeadline": "Cognitive load: the secret sauce to making you feel like you're drowning in modern life while trying to keep up with everything."
   },
   {
-    "title": "If you have a Claude account, they're going to train on your data moving forward",
-    "url": "https://old.reddit.com/r/LocalLLaMA/comments/1n2ubjx/if_you_have_a_claude_personal_account_they_are/",
-    "points": 368,
-    "num_comments": 192,
+    "title": "Are we decentralized yet?",
+    "url": "https://arewedecentralizedyet.online/",
+    "points": 301,
+    "num_comments": 150,
     "tags": [
       "story",
-      "author_diggan",
-      "story_45062738"
+      "author_Bogdanp",
+      "story_45077291",
+      "front_page"
     ],
-    "author": "diggan",
-    "created_at": "2025-08-29T11:39:26Z",
-    "aiHeadline": "If you have a Claude account, prepare for your data to be used for training, because apparently, your life is now the ultimate AI training manual, and you're just along for the ride."
+    "author": "Bogdanp",
+    "created_at": "2025-08-30T19:26:29Z",
+    "aiHeadline": "Are we decentralized yet? Apparently not, because the internet still has opinions and we're all just stuck in this giant, interconnected echo chamber."
+  },
+  {
+    "title": "Show HN: Hacker News em dash user leaderboard pre-ChatGPT",
+    "url": "https://www.gally.net/miscellaneous/hn-em-dash-user-leaderboard.html",
+    "points": 297,
+    "num_comments": 234,
+    "tags": [
+      "story",
+      "author_tkgally",
+      "story_45071722",
+      "show_hn",
+      "front_page"
+    ],
+    "author": "tkgally",
+    "created_at": "2025-08-30T03:40:23Z",
+    "aiHeadline": "Hacker News em dash user leaderboard pre-ChatGPT: because nothing says 'old school' like a leaderboard from the days when humans still wrote comments."
+  },
+  {
+    "title": "Nokia’s legendary font makes for a great user interface font",
+    "url": "https://www.osnews.com/story/143222/it-turns-out-nokias-legendary-font-makes-for-a-great-general-user-interface-font/",
+    "points": 279,
+    "num_comments": 93,
+    "tags": [
+      "story",
+      "author_rguiscard",
+      "story_45074071",
+      "front_page"
+    ],
+    "author": "rguiscard",
+    "created_at": "2025-08-30T12:31:43Z",
+    "aiHeadline": "Nokia’s legendary font: because sometimes, the best design is the one that’s been around for decades and still looks like it was made yesterday."
+  },
+  {
+    "title": "FBI cyber cop: Salt Typhoon pwned 'nearly every American'",
+    "url": "https://www.theregister.com/2025/08/28/fbi_cyber_cop_salt_typhoon/",
+    "points": 256,
+    "num_comments": 144,
+    "tags": [
+      "story",
+      "author_Bender",
+      "story_45074157"
+    ],
+    "author": "Bender",
+    "created_at": "2025-08-30T12:43:44Z",
+    "aiHeadline": "FBI cyber cop: Salt Typhoon pwned 'nearly every American' – because apparently, being a pro at getting hacked is now a thing."
   }
 ]
