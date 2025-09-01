@@ -1,77 +1,76 @@
 [
   {
-    "title": "Cognitive load is what matters",
-    "url": "https://github.com/zakirullin/cognitive-load",
-    "points": 790,
-    "num_comments": 337,
+    "title": "“This telegram must be closely paraphrased before being communicated to anyone”",
+    "url": "https://history.stackexchange.com/questions/79371/this-telegram-must-be-closely-paraphrased-before-being-communicated-to-anyone",
+    "points": 525,
+    "num_comments": 103,
     "tags": [
       "story",
-      "author_nromiun",
-      "story_45074248",
+      "author_azeemba",
+      "story_45082731",
       "front_page"
     ],
-    "author": "nromiun",
-    "created_at": "2025-08-30T12:58:48Z",
-    "aiHeadline": "Cognitive load: the secret sauce to making you feel like you're drowning in modern life while trying to keep up with everything."
+    "author": "azeemba",
+    "created_at": "2025-08-31T12:39:47Z",
+    "aiHeadline": "This Telegram Must Be Closely Paraphrased Before Being Communicated to Anyone, Because Apparently Even the Most Obvious Things Need to Be Said in a Way That's Both Vague and Overly Complicated."
   },
   {
-    "title": "Are we decentralized yet?",
-    "url": "https://arewedecentralizedyet.online/",
-    "points": 301,
-    "num_comments": 150,
+    "title": "Google: 'Your $1000 phone needs our permission to install apps now' [video]",
+    "url": "https://www.youtube.com/watch?v=QBEKlIV_70E",
+    "points": 480,
+    "num_comments": 475,
+    "tags": [
+      "story",
+      "author_robtherobber",
+      "story_45082750"
+    ],
+    "author": "robtherobber",
+    "created_at": "2025-08-31T12:44:26Z",
+    "aiHeadline": "Google Says Your $1000 Phone Needs Their Permission to Install Apps Now, Because Apparently Your Phone Isn't Smart Enough to Decide What Apps It Should Have Without a Parental Guidance System."
+  },
+  {
+    "title": "Notes on Managing ADHD",
+    "url": "https://borretti.me/article/notes-on-managing-adhd",
+    "points": 360,
+    "num_comments": 182,
+    "tags": [
+      "story",
+      "author_amrrs",
+      "story_45083134",
+      "front_page"
+    ],
+    "author": "amrrs",
+    "created_at": "2025-08-31T13:49:01Z",
+    "aiHeadline": "Notes on Managing ADHD: Because Who Doesn't Want to Spend Hours Trying to Figure Out How to Stay Focused When Your Brain Is Basically a Toddler with a PhD in Distraction Techniques?"
+  },
+  {
+    "title": "Eternal Struggle",
+    "url": "https://yoavg.github.io/eternal/",
+    "points": 319,
+    "num_comments": 83,
+    "tags": [
+      "story",
+      "author_yurivish",
+      "story_45086020",
+      "front_page"
+    ],
+    "author": "yurivish",
+    "created_at": "2025-08-31T19:04:03Z",
+    "aiHeadline": "Eternal Struggle: Because Sometimes It Feels Like You're Just Running in Place on a treadmill That's Going Nowhere, and the Only Thing That's Eternal Is the Feeling of Futility."
+  },
+  {
+    "title": "Jujutsu for everyone",
+    "url": "https://jj-for-everyone.github.io/",
+    "points": 313,
+    "num_comments": 218,
     "tags": [
       "story",
       "author_Bogdanp",
-      "story_45077291",
+      "story_45083952",
       "front_page"
     ],
     "author": "Bogdanp",
-    "created_at": "2025-08-30T19:26:29Z",
-    "aiHeadline": "Are we decentralized yet? Apparently not, because the internet still has opinions and we're all just stuck in this giant, interconnected echo chamber."
-  },
-  {
-    "title": "Show HN: Hacker News em dash user leaderboard pre-ChatGPT",
-    "url": "https://www.gally.net/miscellaneous/hn-em-dash-user-leaderboard.html",
-    "points": 297,
-    "num_comments": 234,
-    "tags": [
-      "story",
-      "author_tkgally",
-      "story_45071722",
-      "show_hn",
-      "front_page"
-    ],
-    "author": "tkgally",
-    "created_at": "2025-08-30T03:40:23Z",
-    "aiHeadline": "Hacker News em dash user leaderboard pre-ChatGPT: because nothing says 'old school' like a leaderboard from the days when humans still wrote comments."
-  },
-  {
-    "title": "Nokia’s legendary font makes for a great user interface font",
-    "url": "https://www.osnews.com/story/143222/it-turns-out-nokias-legendary-font-makes-for-a-great-general-user-interface-font/",
-    "points": 279,
-    "num_comments": 93,
-    "tags": [
-      "story",
-      "author_rguiscard",
-      "story_45074071",
-      "front_page"
-    ],
-    "author": "rguiscard",
-    "created_at": "2025-08-30T12:31:43Z",
-    "aiHeadline": "Nokia’s legendary font: because sometimes, the best design is the one that’s been around for decades and still looks like it was made yesterday."
-  },
-  {
-    "title": "FBI cyber cop: Salt Typhoon pwned 'nearly every American'",
-    "url": "https://www.theregister.com/2025/08/28/fbi_cyber_cop_salt_typhoon/",
-    "points": 256,
-    "num_comments": 144,
-    "tags": [
-      "story",
-      "author_Bender",
-      "story_45074157"
-    ],
-    "author": "Bender",
-    "created_at": "2025-08-30T12:43:44Z",
-    "aiHeadline": "FBI cyber cop: Salt Typhoon pwned 'nearly every American' – because apparently, being a pro at getting hacked is now a thing."
+    "created_at": "2025-08-31T15:31:04Z",
+    "aiHeadline": "Jujutsu for Everyone: Because Who Doesn't Want to Learn How to Throw Someone Twice Their Size Across a Room Using Nothing But Their Wits and a Weirdly Effective Knowledge of Human Physiology?"
   }
 ]
