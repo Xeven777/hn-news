@@ -1,76 +1,75 @@
 [
   {
-    "title": "“This telegram must be closely paraphrased before being communicated to anyone”",
-    "url": "https://history.stackexchange.com/questions/79371/this-telegram-must-be-closely-paraphrased-before-being-communicated-to-anyone",
-    "points": 525,
-    "num_comments": 103,
+    "title": "Google AI Overview made up an elaborate story about me",
+    "url": "https://bsky.app/profile/bennjordan.bsky.social/post/3lxojrbessk2z",
+    "points": 561,
+    "num_comments": 229,
     "tags": [
       "story",
-      "author_azeemba",
-      "story_45082731",
-      "front_page"
+      "author_jsheard",
+      "story_45092925"
     ],
-    "author": "azeemba",
-    "created_at": "2025-08-31T12:39:47Z",
-    "aiHeadline": "This Telegram Must Be Closely Paraphrased Before Being Communicated to Anyone, Because Apparently Even the Most Obvious Things Need to Be Said in a Way That's Both Vague and Overly Complicated."
+    "author": "jsheard",
+    "created_at": "2025-09-01T14:27:17Z",
+    "aiHeadline": "Google AI's wild imagination runs rampant, invents a fictional life story about a random person, because apparently, making up stories about you is now its new hobby."
   },
   {
-    "title": "Google: 'Your $1000 phone needs our permission to install apps now' [video]",
-    "url": "https://www.youtube.com/watch?v=QBEKlIV_70E",
-    "points": 480,
-    "num_comments": 475,
+    "title": "Bear is now source-available",
+    "url": "https://herman.bearblog.dev/license/",
+    "points": 325,
+    "num_comments": 279,
     "tags": [
       "story",
-      "author_robtherobber",
-      "story_45082750"
-    ],
-    "author": "robtherobber",
-    "created_at": "2025-08-31T12:44:26Z",
-    "aiHeadline": "Google Says Your $1000 Phone Needs Their Permission to Install Apps Now, Because Apparently Your Phone Isn't Smart Enough to Decide What Apps It Should Have Without a Parental Guidance System."
-  },
-  {
-    "title": "Notes on Managing ADHD",
-    "url": "https://borretti.me/article/notes-on-managing-adhd",
-    "points": 360,
-    "num_comments": 182,
-    "tags": [
-      "story",
-      "author_amrrs",
-      "story_45083134",
+      "author_neoromantique",
+      "story_45092490",
       "front_page"
     ],
-    "author": "amrrs",
-    "created_at": "2025-08-31T13:49:01Z",
-    "aiHeadline": "Notes on Managing ADHD: Because Who Doesn't Want to Spend Hours Trying to Figure Out How to Stay Focused When Your Brain Is Basically a Toddler with a PhD in Distraction Techniques?"
+    "author": "neoromantique",
+    "created_at": "2025-09-01T13:17:56Z",
+    "aiHeadline": "Bear finally takes off its clothes, becomes source-available, proving that even software can embrace transparency and let the world see its naked code."
   },
   {
-    "title": "Eternal Struggle",
-    "url": "https://yoavg.github.io/eternal/",
-    "points": 319,
-    "num_comments": 83,
+    "title": "Cloudflare Radar: AI Insights",
+    "url": "https://radar.cloudflare.com/ai-insights",
+    "points": 284,
+    "num_comments": 97,
     "tags": [
       "story",
-      "author_yurivish",
-      "story_45086020",
+      "author_tosh",
+      "story_45093090",
       "front_page"
     ],
-    "author": "yurivish",
-    "created_at": "2025-08-31T19:04:03Z",
-    "aiHeadline": "Eternal Struggle: Because Sometimes It Feels Like You're Just Running in Place on a treadmill That's Going Nowhere, and the Only Thing That's Eternal Is the Feeling of Futility."
+    "author": "tosh",
+    "created_at": "2025-09-01T14:49:25Z",
+    "aiHeadline": "Cloudflare Radar reveals AI insights, probably because they're too busy trying to predict the future while the rest of us are just trying to figure out how to pay our bills."
   },
   {
-    "title": "Jujutsu for everyone",
-    "url": "https://jj-for-everyone.github.io/",
-    "points": 313,
-    "num_comments": 218,
+    "title": "CocoaPods trunk read-only plan",
+    "url": "https://blog.cocoapods.org/CocoaPods-Specs-Repo/",
+    "points": 228,
+    "num_comments": 102,
     "tags": [
       "story",
-      "author_Bogdanp",
-      "story_45083952",
+      "author_matharmin",
+      "story_45091493",
       "front_page"
     ],
-    "author": "Bogdanp",
-    "created_at": "2025-08-31T15:31:04Z",
-    "aiHeadline": "Jujutsu for Everyone: Because Who Doesn't Want to Learn How to Throw Someone Twice Their Size Across a Room Using Nothing But Their Wits and a Weirdly Effective Knowledge of Human Physiology?"
+    "author": "matharmin",
+    "created_at": "2025-09-01T10:39:25Z",
+    "aiHeadline": "CocoaPods trunk goes read-only, because who needs to actually contribute when you can just sit back and watch the chaos unfold, right?"
+  },
+  {
+    "title": "The time picker on the iPhone's alarm app isn't circular, it's just a long list",
+    "url": "https://old.reddit.com/r/interestingasfuck/comments/1n5lztw/the_time_picker_on_the_iphones_alarm_app_isnt/",
+    "points": 219,
+    "num_comments": 95,
+    "tags": [
+      "story",
+      "author_oidar",
+      "story_45093765"
+    ],
+    "author": "oidar",
+    "created_at": "2025-09-01T15:54:24Z",
+    "aiHeadline": "iPhone alarm app's time picker isn't circular? Who knew a list could be so revolutionary, or maybe Apple just ran out of circular designs and had to resort to the basics."
   }
 ]
