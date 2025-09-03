@@ -1,75 +1,74 @@
 [
   {
-    "title": "Google AI Overview made up an elaborate story about me",
-    "url": "https://bsky.app/profile/bennjordan.bsky.social/post/3lxojrbessk2z",
-    "points": 561,
-    "num_comments": 229,
+    "title": "Next.js is infuriating",
+    "url": "https://blog.meca.sh/3lxoty3shjc2z",
+    "points": 906,
+    "num_comments": 512,
     "tags": [
       "story",
-      "author_jsheard",
-      "story_45092925"
+      "author_Bogdanp",
+      "story_45099922"
     ],
-    "author": "jsheard",
-    "created_at": "2025-09-01T14:27:17Z",
-    "aiHeadline": "Google AI's wild imagination runs rampant, invents a fictional life story about a random person, because apparently, making up stories about you is now its new hobby."
+    "author": "Bogdanp",
+    "created_at": "2025-09-02T06:57:41Z",
+    "aiHeadline": "Next.js: The Framework That Thinks It's the Only One Who Gets to Be Annoying"
   },
   {
-    "title": "Bear is now source-available",
-    "url": "https://herman.bearblog.dev/license/",
-    "points": 325,
-    "num_comments": 279,
+    "title": "Anthropic raises $13B Series F",
+    "url": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation",
+    "points": 471,
+    "num_comments": 474,
     "tags": [
       "story",
-      "author_neoromantique",
-      "story_45092490",
+      "author_meetpateltech",
+      "story_45104907",
       "front_page"
     ],
-    "author": "neoromantique",
-    "created_at": "2025-09-01T13:17:56Z",
-    "aiHeadline": "Bear finally takes off its clothes, becomes source-available, proving that even software can embrace transparency and let the world see its naked code."
+    "author": "meetpateltech",
+    "created_at": "2025-09-02T16:04:15Z",
+    "aiHeadline": "Anthropic Just Raised $13B, Because Apparently, They Needed More Money to Keep Arguing About How Much They Deserve"
   },
   {
-    "title": "Cloudflare Radar: AI Insights",
-    "url": "https://radar.cloudflare.com/ai-insights",
-    "points": 284,
-    "num_comments": 97,
+    "title": "Google can keep its Chrome browser but will be barred from exclusive contracts",
+    "url": "https://www.cnbc.com/2025/09/02/google-antitrust-search-ruling.html",
+    "points": 453,
+    "num_comments": 296,
     "tags": [
       "story",
-      "author_tosh",
-      "story_45093090",
+      "author_colesantiago",
+      "story_45108548",
       "front_page"
     ],
-    "author": "tosh",
-    "created_at": "2025-09-01T14:49:25Z",
-    "aiHeadline": "Cloudflare Radar reveals AI insights, probably because they're too busy trying to predict the future while the rest of us are just trying to figure out how to pay our bills."
+    "author": "colesantiago",
+    "created_at": "2025-09-02T20:26:47Z",
+    "aiHeadline": "Google Gets to Keep Chrome, But Now It Has to Share the Spotlight—Imagine How Scary That Must Be"
   },
   {
-    "title": "CocoaPods trunk read-only plan",
-    "url": "https://blog.cocoapods.org/CocoaPods-Specs-Repo/",
-    "points": 228,
-    "num_comments": 102,
+    "title": "FreeDroidWarn",
+    "url": "https://github.com/woheller69/FreeDroidWarn",
+    "points": 390,
+    "num_comments": 283,
     "tags": [
       "story",
-      "author_matharmin",
-      "story_45091493",
-      "front_page"
+      "author_josephcsible",
+      "story_45098722"
     ],
-    "author": "matharmin",
-    "created_at": "2025-09-01T10:39:25Z",
-    "aiHeadline": "CocoaPods trunk goes read-only, because who needs to actually contribute when you can just sit back and watch the chaos unfold, right?"
+    "author": "josephcsible",
+    "created_at": "2025-09-02T03:01:02Z",
+    "aiHeadline": "FreeDroidWarn: The App That Warns You About Your Droid, For Free—Because Who Doesn't Need That?"
   },
   {
-    "title": "The time picker on the iPhone's alarm app isn't circular, it's just a long list",
-    "url": "https://old.reddit.com/r/interestingasfuck/comments/1n5lztw/the_time_picker_on_the_iphones_alarm_app_isnt/",
-    "points": 219,
-    "num_comments": 95,
+    "title": "You don't want to hire \"the best engineers\"",
+    "url": "https://www.otherbranch.com/shared/blog/no-you-dont-want-to-hire-the-best-engineers",
+    "points": 361,
+    "num_comments": 283,
     "tags": [
       "story",
-      "author_oidar",
-      "story_45093765"
+      "author_rachofsunshine",
+      "story_45103646"
     ],
-    "author": "oidar",
-    "created_at": "2025-09-01T15:54:24Z",
-    "aiHeadline": "iPhone alarm app's time picker isn't circular? Who knew a list could be so revolutionary, or maybe Apple just ran out of circular designs and had to resort to the basics."
+    "author": "rachofsunshine",
+    "created_at": "2025-09-02T14:32:47Z",
+    "aiHeadline": "Hiring 'The Best Engineers'? Yeah, That's Probably a Bad Idea—They're Likely Overconfident and Under-skilled Outside Their Niche"
   }
 ]
