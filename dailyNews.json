@@ -1,74 +1,76 @@
 [
   {
-    "title": "Next.js is infuriating",
-    "url": "https://blog.meca.sh/3lxoty3shjc2z",
-    "points": 906,
-    "num_comments": 512,
+    "title": "MIT Study Finds AI Use Reprograms the Brain, Leading to Cognitive Decline",
+    "url": "https://publichealthpolicyjournal.com/mit-study-finds-artificial-intelligence-use-reprograms-the-brain-leading-to-cognitive-decline/",
+    "points": 516,
+    "num_comments": 500,
     "tags": [
       "story",
-      "author_Bogdanp",
-      "story_45099922"
+      "author_cainxinth",
+      "story_45114753"
     ],
-    "author": "Bogdanp",
-    "created_at": "2025-09-02T06:57:41Z",
-    "aiHeadline": "Next.js: The Framework That Thinks It's the Only One Who Gets to Be Annoying"
+    "author": "cainxinth",
+    "created_at": "2025-09-03T12:06:19Z",
+    "aiHeadline": "MIT Study: Using AI Makes You Dumber, But at Least You're Still Using AI"
   },
   {
-    "title": "Anthropic raises $13B Series F",
-    "url": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation",
-    "points": 471,
-    "num_comments": 474,
+    "title": "Claude Code: Now in Beta in Zed",
+    "url": "https://zed.dev/blog/claude-code-via-acp",
+    "points": 478,
+    "num_comments": 308,
     "tags": [
       "story",
       "author_meetpateltech",
-      "story_45104907",
+      "story_45116688",
       "front_page"
     ],
     "author": "meetpateltech",
-    "created_at": "2025-09-02T16:04:15Z",
-    "aiHeadline": "Anthropic Just Raised $13B, Because Apparently, They Needed More Money to Keep Arguing About How Much They Deserve"
+    "created_at": "2025-09-03T15:07:20Z",
+    "aiHeadline": "Claude Code in Beta: Now with 50% More Bugs and 100% Less Features"
   },
   {
-    "title": "Google can keep its Chrome browser but will be barred from exclusive contracts",
-    "url": "https://www.cnbc.com/2025/09/02/google-antitrust-search-ruling.html",
-    "points": 453,
-    "num_comments": 296,
+    "title": "VibeVoice: A Frontier Open-Source Text-to-Speech Model",
+    "url": "https://microsoft.github.io/VibeVoice/",
+    "points": 400,
+    "num_comments": 147,
     "tags": [
       "story",
-      "author_colesantiago",
-      "story_45108548",
+      "author_lastdong",
+      "story_45114245",
       "front_page"
     ],
-    "author": "colesantiago",
-    "created_at": "2025-09-02T20:26:47Z",
-    "aiHeadline": "Google Gets to Keep Chrome, But Now It Has to Share the Spotlight—Imagine How Scary That Must Be"
+    "author": "lastdong",
+    "created_at": "2025-09-03T10:44:01Z",
+    "aiHeadline": "VibeVoice: The Latest in Text-to-Speech, Because the World Needs Another One"
   },
   {
-    "title": "FreeDroidWarn",
-    "url": "https://github.com/woheller69/FreeDroidWarn",
-    "points": 390,
-    "num_comments": 283,
+    "title": "Voyager – An interactive video generation model with realtime 3D reconstruction",
+    "url": "https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager",
+    "points": 298,
+    "num_comments": 205,
     "tags": [
       "story",
-      "author_josephcsible",
-      "story_45098722"
+      "author_mingtianzhang",
+      "story_45114379",
+      "front_page"
     ],
-    "author": "josephcsible",
-    "created_at": "2025-09-02T03:01:02Z",
-    "aiHeadline": "FreeDroidWarn: The App That Warns You About Your Droid, For Free—Because Who Doesn't Need That?"
+    "author": "mingtianzhang",
+    "created_at": "2025-09-03T11:07:16Z",
+    "aiHeadline": "Voyager: Real-Time 3D Video Magic, Because Who Doesn't Want to Live in a Matrix Simulation?"
   },
   {
-    "title": "You don't want to hire \"the best engineers\"",
-    "url": "https://www.otherbranch.com/shared/blog/no-you-dont-want-to-hire-the-best-engineers",
-    "points": 361,
-    "num_comments": 283,
+    "title": "Where's the shovelware? Why AI coding claims don't add up",
+    "url": "https://mikelovesrobots.substack.com/p/wheres-the-shovelware-why-ai-coding",
+    "points": 295,
+    "num_comments": 166,
     "tags": [
       "story",
-      "author_rachofsunshine",
-      "story_45103646"
+      "author_dbalatero",
+      "story_45120517",
+      "front_page"
     ],
-    "author": "rachofsunshine",
-    "created_at": "2025-09-02T14:32:47Z",
-    "aiHeadline": "Hiring 'The Best Engineers'? Yeah, That's Probably a Bad Idea—They're Likely Overconfident and Under-skilled Outside Their Niche"
+    "author": "dbalatero",
+    "created_at": "2025-09-03T21:18:29Z",
+    "aiHeadline": "Where's the Shovelware? AI Coding Hype Collides with Reality, and It's Not Pretty"
   }
 ]
