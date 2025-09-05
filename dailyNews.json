@@ -1,76 +1,76 @@
 [
   {
-    "title": "MIT Study Finds AI Use Reprograms the Brain, Leading to Cognitive Decline",
-    "url": "https://publichealthpolicyjournal.com/mit-study-finds-artificial-intelligence-use-reprograms-the-brain-leading-to-cognitive-decline/",
-    "points": 516,
-    "num_comments": 500,
+    "title": "30 minutes with a stranger",
+    "url": "https://pudding.cool/2025/06/hello-stranger/",
+    "points": 930,
+    "num_comments": 340,
     "tags": [
       "story",
-      "author_cainxinth",
-      "story_45114753"
+      "author_MaxLeiter",
+      "story_45124003"
     ],
-    "author": "cainxinth",
-    "created_at": "2025-09-03T12:06:19Z",
-    "aiHeadline": "MIT Study: Using AI Makes You Dumber, But at Least You're Still Using AI"
+    "author": "MaxLeiter",
+    "created_at": "2025-09-04T05:56:29Z",
+    "aiHeadline": "30 Minutes with a Stranger: Because Solving World Problems Alone Wasn't Enough"
   },
   {
-    "title": "Claude Code: Now in Beta in Zed",
-    "url": "https://zed.dev/blog/claude-code-via-acp",
-    "points": 478,
-    "num_comments": 308,
+    "title": "Almost anything you give sustained attention to will begin to loop on itself",
+    "url": "https://www.henrikkarlsson.xyz/p/attention",
+    "points": 599,
+    "num_comments": 168,
     "tags": [
       "story",
-      "author_meetpateltech",
-      "story_45116688",
+      "author_jger15",
+      "story_45126503",
       "front_page"
     ],
-    "author": "meetpateltech",
-    "created_at": "2025-09-03T15:07:20Z",
-    "aiHeadline": "Claude Code in Beta: Now with 50% More Bugs and 100% Less Features"
+    "author": "jger15",
+    "created_at": "2025-09-04T12:29:49Z",
+    "aiHeadline": "Almost Anything You Focus On Will Eventually Drive You Crazy in a Loop"
   },
   {
-    "title": "VibeVoice: A Frontier Open-Source Text-to-Speech Model",
-    "url": "https://microsoft.github.io/VibeVoice/",
-    "points": 400,
-    "num_comments": 147,
+    "title": "Stripe Launches L1 Blockchain: Tempo",
+    "url": "https://tempo.xyz",
+    "points": 520,
+    "num_comments": 650,
     "tags": [
       "story",
-      "author_lastdong",
-      "story_45114245",
+      "author__nvs",
+      "story_45129085",
       "front_page"
     ],
-    "author": "lastdong",
-    "created_at": "2025-09-03T10:44:01Z",
-    "aiHeadline": "VibeVoice: The Latest in Text-to-Speech, Because the World Needs Another One"
+    "author": "_nvs",
+    "created_at": "2025-09-04T16:32:24Z",
+    "aiHeadline": "Stripe Launches New Blockchain: Because Waiting for Bitcoin Wasn't Fast Enough"
   },
   {
-    "title": "Voyager – An interactive video generation model with realtime 3D reconstruction",
-    "url": "https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager",
-    "points": 298,
-    "num_comments": 205,
+    "title": "Atlassian is acquiring The Browser Company",
+    "url": "https://www.cnbc.com/2025/09/04/atlassian-the-browser-company-deal.html",
+    "points": 390,
+    "num_comments": 401,
     "tags": [
       "story",
-      "author_mingtianzhang",
-      "story_45114379",
+      "author_kevinyew",
+      "story_45126358",
       "front_page"
     ],
-    "author": "mingtianzhang",
-    "created_at": "2025-09-03T11:07:16Z",
-    "aiHeadline": "Voyager: Real-Time 3D Video Magic, Because Who Doesn't Want to Live in a Matrix Simulation?"
+    "author": "kevinyew",
+    "created_at": "2025-09-04T12:12:31Z",
+    "aiHeadline": "Atlassian Buys Browser Company: Now Your Browsing Will Be as Productive as Your Workflows"
   },
   {
-    "title": "Where's the shovelware? Why AI coding claims don't add up",
-    "url": "https://mikelovesrobots.substack.com/p/wheres-the-shovelware-why-ai-coding",
-    "points": 295,
-    "num_comments": 166,
+    "title": "Le Chat: Custom MCP Connectors, Memories",
+    "url": "https://mistral.ai/news/le-chat-mcp-connectors-memories",
+    "points": 367,
+    "num_comments": 150,
     "tags": [
       "story",
-      "author_dbalatero",
-      "story_45120517",
+      "author_Anon84",
+      "story_45125859",
       "front_page"
     ],
-    "author": "dbalatero",
-    "created_at": "2025-09-03T21:18:29Z",
-    "aiHeadline": "Where's the Shovelware? AI Coding Hype Collides with Reality, and It's Not Pretty"
+    "author": "Anon84",
+    "created_at": "2025-09-04T11:04:36Z",
+    "aiHeadline": "Le Chat: Now with Even More Features You'll Probably Forget About in 5 Minutes"
   }
 ]
