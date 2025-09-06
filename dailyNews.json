@@ -1,76 +1,76 @@
 [
   {
-    "title": "30 minutes with a stranger",
-    "url": "https://pudding.cool/2025/06/hello-stranger/",
-    "points": 930,
-    "num_comments": 340,
+    "title": "I ditched Docker for Podman",
+    "url": "https://codesmash.dev/why-i-ditched-docker-for-podman-and-you-should-too",
+    "points": 860,
+    "num_comments": 495,
     "tags": [
       "story",
-      "author_MaxLeiter",
-      "story_45124003"
-    ],
-    "author": "MaxLeiter",
-    "created_at": "2025-09-04T05:56:29Z",
-    "aiHeadline": "30 Minutes with a Stranger: Because Solving World Problems Alone Wasn't Enough"
-  },
-  {
-    "title": "Almost anything you give sustained attention to will begin to loop on itself",
-    "url": "https://www.henrikkarlsson.xyz/p/attention",
-    "points": 599,
-    "num_comments": 168,
-    "tags": [
-      "story",
-      "author_jger15",
-      "story_45126503",
+      "author_codesmash",
+      "story_45137525",
       "front_page"
     ],
-    "author": "jger15",
-    "created_at": "2025-09-04T12:29:49Z",
-    "aiHeadline": "Almost Anything You Focus On Will Eventually Drive You Crazy in a Loop"
+    "author": "codesmash",
+    "created_at": "2025-09-05T11:56:59Z",
+    "aiHeadline": "Why I Left Docker for Podman: Because Even My Cat Could Handle Containers"
   },
   {
-    "title": "Stripe Launches L1 Blockchain: Tempo",
-    "url": "https://tempo.xyz",
-    "points": 520,
-    "num_comments": 650,
+    "title": "I'm absolutely right",
+    "url": "https://absolutelyright.lol/",
+    "points": 584,
+    "num_comments": 238,
     "tags": [
       "story",
-      "author__nvs",
-      "story_45129085",
-      "front_page"
+      "author_yoavfr",
+      "story_45137802"
     ],
-    "author": "_nvs",
-    "created_at": "2025-09-04T16:32:24Z",
-    "aiHeadline": "Stripe Launches New Blockchain: Because Waiting for Bitcoin Wasn't Fast Enough"
+    "author": "yoavfr",
+    "created_at": "2025-09-05T12:36:47Z",
+    "aiHeadline": "I'm Absolutely Right, and You're Wrong, Deal With It"
   },
   {
-    "title": "Atlassian is acquiring The Browser Company",
-    "url": "https://www.cnbc.com/2025/09/04/atlassian-the-browser-company-deal.html",
-    "points": 390,
-    "num_comments": 401,
+    "title": "Anthropic agrees to pay $1.5B to settle lawsuit with book authors",
+    "url": "https://www.nytimes.com/2025/09/05/technology/anthropic-settlement-copyright-ai.html?unlocked_article_code=1.jk8.bTTt.Zir9wmtPaTp2&smid=url-share",
+    "points": 437,
+    "num_comments": 308,
     "tags": [
       "story",
-      "author_kevinyew",
-      "story_45126358",
+      "author_acomjean",
+      "story_45142885",
       "front_page"
     ],
-    "author": "kevinyew",
-    "created_at": "2025-09-04T12:12:31Z",
-    "aiHeadline": "Atlassian Buys Browser Company: Now Your Browsing Will Be as Productive as Your Workflows"
+    "author": "acomjean",
+    "created_at": "2025-09-05T19:52:45Z",
+    "aiHeadline": "AI Company Pays $1.5B: Finally, Someone Admits They're Not Geniuses"
   },
   {
-    "title": "Le Chat: Custom MCP Connectors, Memories",
-    "url": "https://mistral.ai/news/le-chat-mcp-connectors-memories",
-    "points": 367,
-    "num_comments": 150,
+    "title": "Purposeful animations",
+    "url": "https://emilkowal.ski/ui/you-dont-need-animations",
+    "points": 308,
+    "num_comments": 95,
     "tags": [
       "story",
-      "author_Anon84",
-      "story_45125859",
+      "author_jakelazaroff",
+      "story_45139088",
       "front_page"
     ],
-    "author": "Anon84",
-    "created_at": "2025-09-04T11:04:36Z",
-    "aiHeadline": "Le Chat: Now with Even More Features You'll Probably Forget About in 5 Minutes"
+    "author": "jakelazaroff",
+    "created_at": "2025-09-05T14:34:57Z",
+    "aiHeadline": "Why Your App Needs More Boring Animations: Because No One Cares"
+  },
+  {
+    "title": "I bought the cheapest EV, a used Nissan Leaf",
+    "url": "https://www.jeffgeerling.com/blog/2025/i-bought-cheapest-ev-used-nissan-leaf",
+    "points": 297,
+    "num_comments": 434,
+    "tags": [
+      "story",
+      "author_calcifer",
+      "story_45136103",
+      "front_page"
+    ],
+    "author": "calcifer",
+    "created_at": "2025-09-05T07:57:21Z",
+    "aiHeadline": "I Bought the Cheapest EV: Now I'm the Cool Guy Who Drives a Nissan Leaf"
   }
 ]
