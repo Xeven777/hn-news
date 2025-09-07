@@ -1,76 +1,75 @@
 [
   {
-    "title": "I ditched Docker for Podman",
-    "url": "https://codesmash.dev/why-i-ditched-docker-for-podman-and-you-should-too",
-    "points": 860,
-    "num_comments": 495,
+    "title": "996",
+    "url": "https://lucumr.pocoo.org/2025/9/4/996/",
+    "points": 907,
+    "num_comments": 459,
     "tags": [
       "story",
-      "author_codesmash",
-      "story_45137525",
-      "front_page"
+      "author_genericlemon24",
+      "story_45149049"
     ],
-    "author": "codesmash",
-    "created_at": "2025-09-05T11:56:59Z",
-    "aiHeadline": "Why I Left Docker for Podman: Because Even My Cat Could Handle Containers"
+    "author": "genericlemon24",
+    "created_at": "2025-09-06T13:20:57Z",
+    "aiHeadline": "The 996 Work Schedule: Because Who Doesn't Want to Spend 18 Hours a Day at Work, Right?"
   },
   {
-    "title": "I'm absolutely right",
-    "url": "https://absolutelyright.lol/",
-    "points": 584,
-    "num_comments": 238,
+    "title": "AI surveillance should be banned while there is still time",
+    "url": "https://gabrielweinberg.com/p/ai-surveillance-should-be-banned",
+    "points": 493,
+    "num_comments": 175,
     "tags": [
       "story",
-      "author_yoavfr",
-      "story_45137802"
-    ],
-    "author": "yoavfr",
-    "created_at": "2025-09-05T12:36:47Z",
-    "aiHeadline": "I'm Absolutely Right, and You're Wrong, Deal With It"
-  },
-  {
-    "title": "Anthropic agrees to pay $1.5B to settle lawsuit with book authors",
-    "url": "https://www.nytimes.com/2025/09/05/technology/anthropic-settlement-copyright-ai.html?unlocked_article_code=1.jk8.bTTt.Zir9wmtPaTp2&smid=url-share",
-    "points": 437,
-    "num_comments": 308,
-    "tags": [
-      "story",
-      "author_acomjean",
-      "story_45142885",
+      "author_mustaphah",
+      "story_45149281",
       "front_page"
     ],
-    "author": "acomjean",
-    "created_at": "2025-09-05T19:52:45Z",
-    "aiHeadline": "AI Company Pays $1.5B: Finally, Someone Admits They're Not Geniuses"
+    "author": "mustaphah",
+    "created_at": "2025-09-06T13:52:34Z",
+    "aiHeadline": "AI Surveillance: Because Nothing Says 'Big Brother' Like an Algorithm That Watches You 24/7!"
   },
   {
-    "title": "Purposeful animations",
-    "url": "https://emilkowal.ski/ui/you-dont-need-animations",
-    "points": 308,
-    "num_comments": 95,
+    "title": "Let us git rid of it, angry GitHub users say of forced Copilot features",
+    "url": "https://www.theregister.com/2025/09/05/github_copilot_complaints/",
+    "points": 394,
+    "num_comments": 289,
     "tags": [
       "story",
-      "author_jakelazaroff",
-      "story_45139088",
-      "front_page"
+      "author_latexr",
+      "story_45148167"
     ],
-    "author": "jakelazaroff",
-    "created_at": "2025-09-05T14:34:57Z",
-    "aiHeadline": "Why Your App Needs More Boring Animations: Because No One Cares"
+    "author": "latexr",
+    "created_at": "2025-09-06T10:44:07Z",
+    "aiHeadline": "GitHub Users Demand a 'Hard Reset' on Forced Copilot Features: 'We're Not Your Guinea Pigs!'"
   },
   {
-    "title": "I bought the cheapest EV, a used Nissan Leaf",
-    "url": "https://www.jeffgeerling.com/blog/2025/i-bought-cheapest-ev-used-nissan-leaf",
-    "points": 297,
-    "num_comments": 434,
+    "title": "We hacked Burger King: How auth bypass led to drive-thru audio surveillance",
+    "url": "https://bobdahacker.com/blog/rbi-hacked-drive-thrus/",
+    "points": 286,
+    "num_comments": 160,
     "tags": [
       "story",
-      "author_calcifer",
-      "story_45136103",
+      "author_BobDaHacker",
+      "story_45148944",
       "front_page"
     ],
-    "author": "calcifer",
-    "created_at": "2025-09-05T07:57:21Z",
-    "aiHeadline": "I Bought the Cheapest EV: Now I'm the Cool Guy Who Drives a Nissan Leaf"
+    "author": "BobDaHacker",
+    "created_at": "2025-09-06T13:04:51Z",
+    "aiHeadline": "Burger King Hacked: Cybercriminals Turn Drive-Thru Speakers Into Spy Devices—Apparently, Even Fast Food Isn't Safe Anymore."
+  },
+  {
+    "title": "Qwen3 30B A3B Hits 13 token/s on 4xRaspberry Pi 5",
+    "url": "https://github.com/b4rtaz/distributed-llama/discussions/255",
+    "points": 284,
+    "num_comments": 119,
+    "tags": [
+      "story",
+      "author_b4rtazz",
+      "story_45148237",
+      "front_page"
+    ],
+    "author": "b4rtazz",
+    "created_at": "2025-09-06T10:59:12Z",
+    "aiHeadline": "Qwen3 on Raspberry Pi: Because Who Needs a Supercomputer When You Can Just Use 4 Raspberry Pis and Wait 10 Minutes?"
   }
 ]
