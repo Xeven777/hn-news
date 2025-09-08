@@ -1,75 +1,76 @@
 [
   {
-    "title": "996",
-    "url": "https://lucumr.pocoo.org/2025/9/4/996/",
-    "points": 907,
-    "num_comments": 459,
+    "title": "Show HN: I recreated Windows XP as my portfolio",
+    "url": "https://mitchivin.com/",
+    "points": 927,
+    "num_comments": 297,
     "tags": [
       "story",
-      "author_genericlemon24",
-      "story_45149049"
+      "author_mitchivin",
+      "story_45154609",
+      "show_hn"
     ],
-    "author": "genericlemon24",
-    "created_at": "2025-09-06T13:20:57Z",
-    "aiHeadline": "The 996 Work Schedule: Because Who Doesn't Want to Spend 18 Hours a Day at Work, Right?"
+    "author": "mitchivin",
+    "created_at": "2025-09-07T01:44:19Z",
+    "aiHeadline": "In a world where we already have Windows 11, someone decided to recreate Windows XP as their portfolio project because apparently, 2025 wasn't weird enough."
   },
   {
-    "title": "AI surveillance should be banned while there is still time",
-    "url": "https://gabrielweinberg.com/p/ai-surveillance-should-be-banned",
-    "points": 493,
-    "num_comments": 175,
+    "title": "The MacBook has a sensor that knows the exact angle of the screen hinge",
+    "url": "https://twitter.com/samhenrigold/status/1964428927159382261",
+    "points": 572,
+    "num_comments": 281,
     "tags": [
       "story",
-      "author_mustaphah",
-      "story_45149281",
+      "author_leephillips",
+      "story_45158968",
       "front_page"
     ],
-    "author": "mustaphah",
-    "created_at": "2025-09-06T13:52:34Z",
-    "aiHeadline": "AI Surveillance: Because Nothing Says 'Big Brother' Like an Algorithm That Watches You 24/7!"
+    "author": "leephillips",
+    "created_at": "2025-09-07T15:20:29Z",
+    "aiHeadline": "Apple just spent who knows how much money to create a sensor that tells you the exact angle of your MacBook screen, proving once again that they know what you need better than you do."
   },
   {
-    "title": "Let us git rid of it, angry GitHub users say of forced Copilot features",
-    "url": "https://www.theregister.com/2025/09/05/github_copilot_complaints/",
-    "points": 394,
-    "num_comments": 289,
+    "title": "Serverless Horrors",
+    "url": "https://serverlesshorrors.com/",
+    "points": 542,
+    "num_comments": 406,
     "tags": [
       "story",
-      "author_latexr",
-      "story_45148167"
+      "author_operator-name",
+      "story_45157110"
     ],
-    "author": "latexr",
-    "created_at": "2025-09-06T10:44:07Z",
-    "aiHeadline": "GitHub Users Demand a 'Hard Reset' on Forced Copilot Features: 'We're Not Your Guinea Pigs!'"
+    "author": "operator-name",
+    "created_at": "2025-09-07T11:00:03Z",
+    "aiHeadline": "Serverless computing: the future of cloud computing where you don't have to manage servers, unless you're one of the unlucky ones who has to manage the serverless horrors."
   },
   {
-    "title": "We hacked Burger King: How auth bypass led to drive-thru audio surveillance",
-    "url": "https://bobdahacker.com/blog/rbi-hacked-drive-thrus/",
-    "points": 286,
-    "num_comments": 160,
+    "title": "Show HN: I'm a dermatologist and I vibe coded a skin cancer learning app",
+    "url": "https://molecheck.info/",
+    "points": 327,
+    "num_comments": 212,
     "tags": [
       "story",
-      "author_BobDaHacker",
-      "story_45148944",
+      "author_sungam",
+      "story_45157020",
+      "show_hn",
       "front_page"
     ],
-    "author": "BobDaHacker",
-    "created_at": "2025-09-06T13:04:51Z",
-    "aiHeadline": "Burger King Hacked: Cybercriminals Turn Drive-Thru Speakers Into Spy Devices—Apparently, Even Fast Food Isn't Safe Anymore."
+    "author": "sungam",
+    "created_at": "2025-09-07T10:38:29Z",
+    "aiHeadline": "A dermatologist has coded a skin cancer learning app, proving that even doctors need a break from saving lives and want to flex their coding skills."
   },
   {
-    "title": "Qwen3 30B A3B Hits 13 token/s on 4xRaspberry Pi 5",
-    "url": "https://github.com/b4rtaz/distributed-llama/discussions/255",
-    "points": 284,
-    "num_comments": 119,
+    "title": "Navy SEALs reportedly killed North Korean fishermen to hide a failed mission",
+    "url": "https://www.nytimes.com/2025/09/05/us/navy-seal-north-korea-trump-2019.html",
+    "points": 309,
+    "num_comments": 227,
     "tags": [
       "story",
-      "author_b4rtazz",
-      "story_45148237",
-      "front_page"
+      "author_nomilk",
+      "story_45154856"
     ],
-    "author": "b4rtazz",
-    "created_at": "2025-09-06T10:59:12Z",
-    "aiHeadline": "Qwen3 on Raspberry Pi: Because Who Needs a Supercomputer When You Can Just Use 4 Raspberry Pis and Wait 10 Minutes?"
+    "author": "nomilk",
+    "created_at": "2025-09-07T02:30:07Z",
+    "aiHeadline": "Navy SEALs reportedly killed North Korean fishermen to cover up a failed mission, because nothing says 'mission success' like a good old-fashioned cover-up."
   }
 ]
