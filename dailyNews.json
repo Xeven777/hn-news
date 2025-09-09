@@ -1,76 +1,75 @@
 [
   {
-    "title": "Show HN: I recreated Windows XP as my portfolio",
-    "url": "https://mitchivin.com/",
-    "points": 927,
-    "num_comments": 297,
+    "title": "NPM debug and chalk packages compromised",
+    "url": "https://www.aikido.dev/blog/npm-debug-and-chalk-packages-compromised",
+    "points": 951,
+    "num_comments": 513,
     "tags": [
       "story",
-      "author_mitchivin",
-      "story_45154609",
-      "show_hn"
+      "author_universesquid",
+      "story_45169657",
+      "front_page"
     ],
-    "author": "mitchivin",
-    "created_at": "2025-09-07T01:44:19Z",
-    "aiHeadline": "In a world where we already have Windows 11, someone decided to recreate Windows XP as their portfolio project because apparently, 2025 wasn't weird enough."
+    "author": "universesquid",
+    "created_at": "2025-09-08T15:37:57Z",
+    "aiHeadline": "NPM packages 'debug' and 'chalk' compromised, proving that even your debugging tools can't escape the chaos of the internet."
   },
   {
-    "title": "The MacBook has a sensor that knows the exact angle of the screen hinge",
-    "url": "https://twitter.com/samhenrigold/status/1964428927159382261",
+    "title": "Signal Secure Backups",
+    "url": "https://signal.org/blog/introducing-secure-backups/",
+    "points": 605,
+    "num_comments": 300,
+    "tags": [
+      "story",
+      "author_keyboardJones",
+      "story_45170515",
+      "front_page"
+    ],
+    "author": "keyboardJones",
+    "created_at": "2025-09-08T16:43:39Z",
+    "aiHeadline": "Signal introduces 'Secure Backups,' because what could go wrong with storing your messages in the cloud? Nothing, right?"
+  },
+  {
+    "title": "Chat Control Must Be Stopped",
+    "url": "https://www.privacyguides.org/articles/2025/09/08/chat-control-must-be-stopped/",
     "points": 572,
-    "num_comments": 281,
+    "num_comments": 180,
     "tags": [
       "story",
-      "author_leephillips",
-      "story_45158968",
+      "author_Improvement",
+      "story_45173277",
       "front_page"
     ],
-    "author": "leephillips",
-    "created_at": "2025-09-07T15:20:29Z",
-    "aiHeadline": "Apple just spent who knows how much money to create a sensor that tells you the exact angle of your MacBook screen, proving once again that they know what you need better than you do."
+    "author": "Improvement",
+    "created_at": "2025-09-08T20:07:22Z",
+    "aiHeadline": "Activists demand end to 'Chat Control,' because who needs privacy when the government can just read everything you say?"
   },
   {
-    "title": "Serverless Horrors",
-    "url": "https://serverlesshorrors.com/",
-    "points": 542,
-    "num_comments": 406,
+    "title": "14 Killed in anti-government protests in Nepal",
+    "url": "https://www.tribuneindia.com/news/world/massive-protests-in-nepal-over-social-media-ban/",
+    "points": 534,
+    "num_comments": 402,
     "tags": [
       "story",
-      "author_operator-name",
-      "story_45157110"
+      "author_whatsupdog",
+      "story_45166972"
     ],
-    "author": "operator-name",
-    "created_at": "2025-09-07T11:00:03Z",
-    "aiHeadline": "Serverless computing: the future of cloud computing where you don't have to manage servers, unless you're one of the unlucky ones who has to manage the serverless horrors."
+    "author": "whatsupdog",
+    "created_at": "2025-09-08T11:24:42Z",
+    "aiHeadline": "14 killed in Nepal as protests rage over social media ban, proving that people will always find a way to argue online, even if it means risking their lives."
   },
   {
-    "title": "Show HN: I'm a dermatologist and I vibe coded a skin cancer learning app",
-    "url": "https://molecheck.info/",
-    "points": 327,
-    "num_comments": 212,
+    "title": "Meta suppressed research on child safety, employees say",
+    "url": "https://www.washingtonpost.com/investigations/2025/09/08/meta-research-child-safety-virtual-reality/",
+    "points": 465,
+    "num_comments": 296,
     "tags": [
       "story",
-      "author_sungam",
-      "story_45157020",
-      "show_hn",
-      "front_page"
+      "author_mdhb",
+      "story_45167705"
     ],
-    "author": "sungam",
-    "created_at": "2025-09-07T10:38:29Z",
-    "aiHeadline": "A dermatologist has coded a skin cancer learning app, proving that even doctors need a break from saving lives and want to flex their coding skills."
-  },
-  {
-    "title": "Navy SEALs reportedly killed North Korean fishermen to hide a failed mission",
-    "url": "https://www.nytimes.com/2025/09/05/us/navy-seal-north-korea-trump-2019.html",
-    "points": 309,
-    "num_comments": 227,
-    "tags": [
-      "story",
-      "author_nomilk",
-      "story_45154856"
-    ],
-    "author": "nomilk",
-    "created_at": "2025-09-07T02:30:07Z",
-    "aiHeadline": "Navy SEALs reportedly killed North Korean fishermen to cover up a failed mission, because nothing says 'mission success' like a good old-fashioned cover-up."
+    "author": "mdhb",
+    "created_at": "2025-09-08T12:59:28Z",
+    "aiHeadline": "Meta allegedly suppresses child safety research, because what's a few more exploited kids when you're trying to make VR the next big thing?"
   }
 ]
