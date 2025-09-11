@@ -1,75 +1,76 @@
 [
   {
-    "title": "Mistral raises 1.7B€, partners with ASML",
-    "url": "https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai",
-    "points": 725,
-    "num_comments": 382,
+    "title": "I replaced Animal Crossing's dialogue with a live LLM by hacking GameCube memory",
+    "url": "https://joshfonseca.com/blogs/animal-crossing-llm",
+    "points": 810,
+    "num_comments": 176,
     "tags": [
       "story",
-      "author_TechTechTech",
-      "story_45178041"
+      "author_vuciv",
+      "story_45192655"
     ],
-    "author": "TechTechTech",
-    "created_at": "2025-09-09T06:10:15Z",
-    "aiHeadline": "Mistral AI blows a billion euros, partners with ASML to maybe not ruin the semiconductor industry."
+    "author": "vuciv",
+    "created_at": "2025-09-10T02:59:48Z",
+    "aiHeadline": "Hacker injects modern AI into ancient GameCube, proving that even dinosaurs can evolve."
   },
   {
-    "title": "New Mexico is first state in US to offer universal child care",
-    "url": "https://www.governor.state.nm.us/2025/09/08/new-mexico-is-first-state-in-nation-to-offer-universal-child-care/",
-    "points": 723,
-    "num_comments": 610,
+    "title": "I didn't bring my son to a museum to look at screens",
+    "url": "https://sethpurcell.com/writing/screens-in-museums/",
+    "points": 789,
+    "num_comments": 277,
     "tags": [
       "story",
-      "author_toomuchtodo",
-      "story_45182372"
-    ],
-    "author": "toomuchtodo",
-    "created_at": "2025-09-09T14:25:16Z",
-    "aiHeadline": "New Mexico becomes the first state to offer universal child care, because clearly, parents have been doing a terrible job all these years."
-  },
-  {
-    "title": "We all dodged a bullet",
-    "url": "https://xeiaso.net/notes/2025/we-dodged-a-bullet/",
-    "points": 554,
-    "num_comments": 328,
-    "tags": [
-      "story",
-      "author_WhyNotHugo",
-      "story_45183029",
+      "author_arch_deluxe",
+      "story_45199931",
       "front_page"
     ],
-    "author": "WhyNotHugo",
-    "created_at": "2025-09-09T15:11:26Z",
-    "aiHeadline": "We all dodged a bullet this time, but let's hope the next one isn't loaded with existential dread."
+    "author": "arch_deluxe",
+    "created_at": "2025-09-10T16:20:55Z",
+    "aiHeadline": "Parent outraged: Museum screens are ruining the experience, but what did they expect? A live exhibit?"
   },
   {
-    "title": "iPhone Air",
-    "url": "https://www.apple.com/newsroom/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design/",
-    "points": 484,
-    "num_comments": 1109,
+    "title": "Charlie Kirk killed at event in Utah",
+    "url": "https://www.nbcnews.com/news/us-news/live-blog/live-updates-shooting-charlie-kirk-event-utah-rcna230437",
+    "points": 681,
+    "num_comments": 1465,
     "tags": [
       "story",
-      "author_excerionsforte",
-      "story_45186015",
+      "author_david927",
+      "story_45202200",
       "front_page"
     ],
-    "author": "excerionsforte",
-    "created_at": "2025-09-09T18:12:51Z",
-    "aiHeadline": "Apple introduces the iPhone Air, because apparently, we all need a phone that looks like it's made of clouds and costs $1,000."
+    "author": "david927",
+    "created_at": "2025-09-10T19:02:48Z",
+    "aiHeadline": "Prominent figure meets unfortunate end at event, proving that even in Utah, life can be full of surprises."
   },
   {
-    "title": "ICE is using fake cell towers to spy on people's phones",
-    "url": "https://www.forbes.com/sites/the-wiretap/2025/09/09/how-ice-is-using-fake-cell-towers-to-spy-on-peoples-phones/",
-    "points": 470,
-    "num_comments": 191,
+    "title": "Pontevedra, Spain declares its entire urban area a \"reduced traffic zone\"",
+    "url": "https://www.greeneuropeanjournal.eu/made-for-people-not-cars-reclaiming-european-cities/",
+    "points": 668,
+    "num_comments": 802,
     "tags": [
       "story",
-      "author_coloneltcb",
-      "story_45184368",
+      "author_robtherobber",
+      "story_45195520",
       "front_page"
     ],
-    "author": "coloneltcb",
-    "created_at": "2025-09-09T16:27:41Z",
-    "aiHeadline": "ICE deploys fake cell towers to spy on your phone, because nothing says 'trust us' like pretending to be your cell provider."
+    "author": "robtherobber",
+    "created_at": "2025-09-10T10:08:14Z",
+    "aiHeadline": "Spain takes a bold step towards utopia by banning cars, proving that progress is possible, even in traffic."
+  },
+  {
+    "title": "ChatGPT Developer Mode: Full MCP client access",
+    "url": "https://platform.openai.com/docs/guides/developer-mode",
+    "points": 373,
+    "num_comments": 198,
+    "tags": [
+      "story",
+      "author_meetpateltech",
+      "story_45199713",
+      "front_page"
+    ],
+    "author": "meetpateltech",
+    "created_at": "2025-09-10T16:04:49Z",
+    "aiHeadline": "OpenAI drops the mic with Developer Mode, giving coders full control over ChatGPT, proving that with great power comes great responsibility... or just more headaches."
   }
 ]
