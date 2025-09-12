@@ -1,76 +1,74 @@
 [
   {
-    "title": "I replaced Animal Crossing's dialogue with a live LLM by hacking GameCube memory",
-    "url": "https://joshfonseca.com/blogs/animal-crossing-llm",
-    "points": 810,
-    "num_comments": 176,
+    "title": "Germany is not supporting ChatControl – blocking minority secured",
+    "url": "https://digitalcourage.social/@echo_pbreyer/115184350819592476",
+    "points": 1023,
+    "num_comments": 336,
     "tags": [
       "story",
-      "author_vuciv",
-      "story_45192655"
+      "author_xyzal",
+      "story_45209366"
     ],
-    "author": "vuciv",
-    "created_at": "2025-09-10T02:59:48Z",
-    "aiHeadline": "Hacker injects modern AI into ancient GameCube, proving that even dinosaurs can evolve."
+    "author": "xyzal",
+    "created_at": "2025-09-11T08:59:40Z",
+    "aiHeadline": "Germany decides to ignore minority rights... because they're busy arguing about whether ChatControl is a good idea."
   },
   {
-    "title": "I didn't bring my son to a museum to look at screens",
-    "url": "https://sethpurcell.com/writing/screens-in-museums/",
-    "points": 789,
-    "num_comments": 277,
+    "title": "Court rejects Verizon claim that selling location data without consent is legal",
+    "url": "https://arstechnica.com/tech-policy/2025/09/court-rejects-verizon-claim-that-selling-location-data-without-consent-is-legal/",
+    "points": 636,
+    "num_comments": 78,
     "tags": [
       "story",
-      "author_arch_deluxe",
-      "story_45199931",
-      "front_page"
+      "author_nobody9999",
+      "story_45206567"
     ],
-    "author": "arch_deluxe",
-    "created_at": "2025-09-10T16:20:55Z",
-    "aiHeadline": "Parent outraged: Museum screens are ruining the experience, but what did they expect? A live exhibit?"
+    "author": "nobody9999",
+    "created_at": "2025-09-11T01:27:31Z",
+    "aiHeadline": "Verizon is shocked, SHOCKED to find out that selling your location data without consent is actually illegal."
   },
   {
-    "title": "Charlie Kirk killed at event in Utah",
-    "url": "https://www.nbcnews.com/news/us-news/live-blog/live-updates-shooting-charlie-kirk-event-utah-rcna230437",
-    "points": 681,
-    "num_comments": 1465,
+    "title": "Behind the scenes of Bun Install",
+    "url": "https://bun.com/blog/behind-the-scenes-of-bun-install",
+    "points": 331,
+    "num_comments": 108,
     "tags": [
       "story",
-      "author_david927",
-      "story_45202200",
+      "author_Bogdanp",
+      "story_45210850",
       "front_page"
     ],
-    "author": "david927",
-    "created_at": "2025-09-10T19:02:48Z",
-    "aiHeadline": "Prominent figure meets unfortunate end at event, proving that even in Utah, life can be full of surprises."
+    "author": "Bogdanp",
+    "created_at": "2025-09-11T12:39:29Z",
+    "aiHeadline": "Bun Install: where software installation is as smooth as a cat walking on a keyboard."
   },
   {
-    "title": "Pontevedra, Spain declares its entire urban area a \"reduced traffic zone\"",
-    "url": "https://www.greeneuropeanjournal.eu/made-for-people-not-cars-reclaiming-european-cities/",
-    "points": 668,
-    "num_comments": 802,
+    "title": "Top model scores may be skewed by Git history leaks in SWE-bench",
+    "url": "https://github.com/SWE-bench/SWE-bench/issues/465",
+    "points": 295,
+    "num_comments": 104,
     "tags": [
       "story",
-      "author_robtherobber",
-      "story_45195520",
+      "author_mustaphah",
+      "story_45214670",
       "front_page"
     ],
-    "author": "robtherobber",
-    "created_at": "2025-09-10T10:08:14Z",
-    "aiHeadline": "Spain takes a bold step towards utopia by banning cars, proving that progress is possible, even in traffic."
+    "author": "mustaphah",
+    "created_at": "2025-09-11T18:32:23Z",
+    "aiHeadline": "Top model scores are being thrown off because their Git history is basically a public diary of all their mistakes."
   },
   {
-    "title": "ChatGPT Developer Mode: Full MCP client access",
-    "url": "https://platform.openai.com/docs/guides/developer-mode",
-    "points": 373,
-    "num_comments": 198,
+    "title": "GrapheneOS and forensic extraction of data (2024)",
+    "url": "https://discuss.grapheneos.org/d/13107-grapheneos-and-forensic-extraction-of-data",
+    "points": 292,
+    "num_comments": 163,
     "tags": [
       "story",
-      "author_meetpateltech",
-      "story_45199713",
-      "front_page"
+      "author_SoKamil",
+      "story_45210910"
     ],
-    "author": "meetpateltech",
-    "created_at": "2025-09-10T16:04:49Z",
-    "aiHeadline": "OpenAI drops the mic with Developer Mode, giving coders full control over ChatGPT, proving that with great power comes great responsibility... or just more headaches."
+    "author": "SoKamil",
+    "created_at": "2025-09-11T12:46:27Z",
+    "aiHeadline": "GrapheneOS: the most secure OS ever, unless you get arrested and they extract all your data forensically."
   }
 ]
