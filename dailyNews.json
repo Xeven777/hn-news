@@ -1,74 +1,75 @@
 [
   {
-    "title": "Germany is not supporting ChatControl – blocking minority secured",
-    "url": "https://digitalcourage.social/@echo_pbreyer/115184350819592476",
-    "points": 1023,
-    "num_comments": 336,
+    "title": "EU court rules nuclear energy is clean energy",
+    "url": "https://www.weplanet.org/post/eu-court-rules-nuclear-energy-is-clean-energy",
+    "points": 625,
+    "num_comments": 473,
     "tags": [
       "story",
-      "author_xyzal",
-      "story_45209366"
-    ],
-    "author": "xyzal",
-    "created_at": "2025-09-11T08:59:40Z",
-    "aiHeadline": "Germany decides to ignore minority rights... because they're busy arguing about whether ChatControl is a good idea."
-  },
-  {
-    "title": "Court rejects Verizon claim that selling location data without consent is legal",
-    "url": "https://arstechnica.com/tech-policy/2025/09/court-rejects-verizon-claim-that-selling-location-data-without-consent-is-legal/",
-    "points": 636,
-    "num_comments": 78,
-    "tags": [
-      "story",
-      "author_nobody9999",
-      "story_45206567"
-    ],
-    "author": "nobody9999",
-    "created_at": "2025-09-11T01:27:31Z",
-    "aiHeadline": "Verizon is shocked, SHOCKED to find out that selling your location data without consent is actually illegal."
-  },
-  {
-    "title": "Behind the scenes of Bun Install",
-    "url": "https://bun.com/blog/behind-the-scenes-of-bun-install",
-    "points": 331,
-    "num_comments": 108,
-    "tags": [
-      "story",
-      "author_Bogdanp",
-      "story_45210850",
+      "author_mpweiher",
+      "story_45224967",
       "front_page"
     ],
-    "author": "Bogdanp",
-    "created_at": "2025-09-11T12:39:29Z",
-    "aiHeadline": "Bun Install: where software installation is as smooth as a cat walking on a keyboard."
+    "author": "mpweiher",
+    "created_at": "2025-09-12T18:18:00Z",
+    "aiHeadline": "Nuclear Energy: The New Green Option, Because Nothing Says 'Clean' Like a Potential Meltdown"
   },
   {
-    "title": "Top model scores may be skewed by Git history leaks in SWE-bench",
-    "url": "https://github.com/SWE-bench/SWE-bench/issues/465",
-    "points": 295,
-    "num_comments": 104,
+    "title": "The treasury is expanding the Patriot Act to attack Bitcoin self custody",
+    "url": "https://www.tftc.io/treasury-iexpanding-patriot-act/",
+    "points": 600,
+    "num_comments": 451,
     "tags": [
       "story",
-      "author_mustaphah",
-      "story_45214670",
+      "author_bilsbie",
+      "story_45221274",
       "front_page"
     ],
-    "author": "mustaphah",
-    "created_at": "2025-09-11T18:32:23Z",
-    "aiHeadline": "Top model scores are being thrown off because their Git history is basically a public diary of all their mistakes."
+    "author": "bilsbie",
+    "created_at": "2025-09-12T12:10:29Z",
+    "aiHeadline": "The Treasury's Latest Scheme: Using the Patriot Act to Attack Bitcoin, Because Nothing Says 'Liberty' Like More Government Control"
   },
   {
-    "title": "GrapheneOS and forensic extraction of data (2024)",
-    "url": "https://discuss.grapheneos.org/d/13107-grapheneos-and-forensic-extraction-of-data",
-    "points": 292,
-    "num_comments": 163,
+    "title": "Qwen3-Next",
+    "url": "https://qwen.ai/blog?id=4074cca80393150c248e508aa62983f9cb7d27cd&from=research.latest-advancements-list",
+    "points": 532,
+    "num_comments": 204,
     "tags": [
       "story",
-      "author_SoKamil",
-      "story_45210910"
+      "author_tosh",
+      "story_45219228"
     ],
-    "author": "SoKamil",
-    "created_at": "2025-09-11T12:46:27Z",
-    "aiHeadline": "GrapheneOS: the most secure OS ever, unless you get arrested and they extract all your data forensically."
+    "author": "tosh",
+    "created_at": "2025-09-12T06:32:04Z",
+    "aiHeadline": "Qwen3-Next: The Latest AI Breakthrough, Because the Market Needs Another Model to Keep Things Interesting"
+  },
+  {
+    "title": "Many hard LeetCode problems are easy constraint problems",
+    "url": "https://buttondown.com/hillelwayne/archive/many-hard-leetcode-problems-are-easy-constraint/",
+    "points": 408,
+    "num_comments": 352,
+    "tags": [
+      "story",
+      "author_mpweiher",
+      "story_45222695",
+      "front_page"
+    ],
+    "author": "mpweiher",
+    "created_at": "2025-09-12T14:44:05Z",
+    "aiHeadline": "LeetCode Problems: Harder Than They Seem, or Just a Matter of Constraints? Probably the Latter"
+  },
+  {
+    "title": "Chat Control faces blocking minority in the EU",
+    "url": "https://twitter.com/TutaPrivacy/status/1966384776883142661",
+    "points": 377,
+    "num_comments": 115,
+    "tags": [
+      "story",
+      "author_miohtama",
+      "story_45221580"
+    ],
+    "author": "miohtama",
+    "created_at": "2025-09-12T12:52:52Z",
+    "aiHeadline": "Chat Control in the EU: Facing a Blocking Minority, Because Bureaucracy is the Real Chat Killer"
   }
 ]
