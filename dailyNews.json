@@ -1,76 +1,76 @@
 [
   {
-    "title": "Show HN: A store that generates products from anything you type in search",
-    "url": "https://anycrap.shop/",
-    "points": 744,
-    "num_comments": 250,
+    "title": "Models of European metro stations",
+    "url": "http://stations.albertguillaumes.cat/",
+    "points": 674,
+    "num_comments": 131,
     "tags": [
       "story",
-      "author_kafked",
-      "story_45231378",
-      "show_hn",
+      "author_tcumulus",
+      "story_45238055",
       "front_page"
     ],
-    "author": "kafked",
-    "created_at": "2025-09-13T12:02:11Z",
-    "aiHeadline": "Show HN: A Store That Generates Products From Anything You Type In Search—Because Why Not?"
+    "author": "tcumulus",
+    "created_at": "2025-09-14T07:00:44Z",
+    "aiHeadline": "Discover the painstakingly detailed models of European metro stations, because clearly, we don't have enough trains in real life."
   },
   {
-    "title": "SkiftOS: A hobby OS built from scratch using C/C++ for ARM, x86, and RISC-V",
-    "url": "https://skiftos.org",
-    "points": 422,
-    "num_comments": 86,
+    "title": "ChatControl update: blocking minority held but Denmark is moving forward anyway",
+    "url": "https://disobey.net/@yawnbox/115203365485529363",
+    "points": 448,
+    "num_comments": 314,
     "tags": [
       "story",
-      "author_ksec",
-      "story_45229414",
+      "author_nickslaughter02",
+      "story_45242458",
       "front_page"
     ],
-    "author": "ksec",
-    "created_at": "2025-09-13T04:55:14Z",
-    "aiHeadline": "SkiftOS: A Hobby OS Built From Scratch Using C/C++ For ARM, x86, And RISC-V—Because Who Needs Sleep Anyway?"
+    "author": "nickslaughter02",
+    "created_at": "2025-09-14T19:15:24Z",
+    "aiHeadline": "ChatControl update: minority opinions are inconvenient, but Denmark is charging forward anyway, proving that sometimes you just need to ignore the naysayers and do your thing."
   },
   {
-    "title": "AI coding",
-    "url": "https://geohot.github.io//blog/jekyll/update/2025/09/12/ai-coding.html",
-    "points": 343,
-    "num_comments": 246,
+    "title": "EPA Seeks to Eliminate Critical PFAS Drinking Water Protections",
+    "url": "https://earthjustice.org/press/2025/epa-seeks-to-roll-back-pfas-drinking-water-rules-keeping-millions-exposed-to-toxic-forever-chemicals-in-tap-water",
+    "points": 364,
+    "num_comments": 434,
     "tags": [
       "story",
-      "author_abhaynayar",
-      "story_45230677"
+      "author_enraged_camel",
+      "story_45239803"
     ],
-    "author": "abhaynayar",
-    "created_at": "2025-09-13T09:28:30Z",
-    "aiHeadline": "AI Coding: Because Writing Code Wasn't Already Stressful Enough, Now AI Can Do It Worse!"
+    "author": "enraged_camel",
+    "created_at": "2025-09-14T14:04:16Z",
+    "aiHeadline": "EPA decides that protecting drinking water from toxic chemicals is overrated, because nothing says 'we care about you' like exposing millions to 'forever chemicals.'"
   },
   {
-    "title": "Social media promised connection, but it has delivered exhaustion",
-    "url": "https://www.noemamag.com/the-last-days-of-social-media/",
-    "points": 311,
-    "num_comments": 195,
+    "title": "Repetitive negative thinking associated with cognitive decline in older adults",
+    "url": "https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-025-06815-2",
+    "points": 335,
+    "num_comments": 127,
     "tags": [
       "story",
-      "author_pseudolus",
-      "story_45229799"
-    ],
-    "author": "pseudolus",
-    "created_at": "2025-09-13T06:27:19Z",
-    "aiHeadline": "Social Media Promised Connection, But It Has Delivered Exhaustion—And Now We're All Just Tired Bots Scrolling Through Our Lives."
-  },
-  {
-    "title": "Japan sets record of nearly 100k people aged over 100",
-    "url": "https://www.bbc.com/news/articles/cd07nljlyv0o",
-    "points": 294,
-    "num_comments": 175,
-    "tags": [
-      "story",
-      "author_bookofjoe",
-      "story_45232052",
+      "author_redbell",
+      "story_45239085",
       "front_page"
     ],
-    "author": "bookofjoe",
-    "created_at": "2025-09-13T13:47:38Z",
-    "aiHeadline": "Japan Sets Record Of Nearly 100k People Aged Over 100—Proof That Longevity Is Overrated When You're Still Dealing With The Same Problems."
+    "author": "redbell",
+    "created_at": "2025-09-14T11:37:33Z",
+    "aiHeadline": "New study finds that overthinking is bad for your brain, which is why you should probably stop reading this and go do something productive instead."
+  },
+  {
+    "title": "Writing an operating system kernel from scratch",
+    "url": "https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/",
+    "points": 245,
+    "num_comments": 47,
+    "tags": [
+      "story",
+      "author_Bogdanp",
+      "story_45240682",
+      "front_page"
+    ],
+    "author": "Bogdanp",
+    "created_at": "2025-09-14T15:44:44Z",
+    "aiHeadline": "Writing an operating system kernel from scratch: because who needs sleep when you can spend weeks debugging a boot loader? (Hint: nobody.)"
   }
 ]
