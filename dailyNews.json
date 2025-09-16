@@ -1,76 +1,74 @@
 [
   {
-    "title": "Models of European metro stations",
-    "url": "http://stations.albertguillaumes.cat/",
-    "points": 674,
-    "num_comments": 131,
+    "title": "Hosting a website on a disposable vape",
+    "url": "https://bogdanthegeek.github.io/blog/projects/vapeserver/",
+    "points": 676,
+    "num_comments": 373,
     "tags": [
       "story",
-      "author_tcumulus",
-      "story_45238055",
+      "author_BogdanTheGeek",
+      "story_45252817",
       "front_page"
     ],
-    "author": "tcumulus",
-    "created_at": "2025-09-14T07:00:44Z",
-    "aiHeadline": "Discover the painstakingly detailed models of European metro stations, because clearly, we don't have enough trains in real life."
+    "author": "BogdanTheGeek",
+    "created_at": "2025-09-15T17:53:19Z",
+    "aiHeadline": "Forget servers, now you can host your website on a disposable vape—because who needs lungs when you can have a blog?"
   },
   {
-    "title": "ChatControl update: blocking minority held but Denmark is moving forward anyway",
-    "url": "https://disobey.net/@yawnbox/115203365485529363",
-    "points": 448,
-    "num_comments": 314,
+    "title": "Hosting a website on a disposable vape",
+    "url": "https://bogdanthegeek.github.io/blog/projects/vapeserver/",
+    "points": 650,
+    "num_comments": 15,
     "tags": [
       "story",
-      "author_nickslaughter02",
-      "story_45242458",
-      "front_page"
+      "author_dmazin",
+      "story_45249287"
     ],
-    "author": "nickslaughter02",
-    "created_at": "2025-09-14T19:15:24Z",
-    "aiHeadline": "ChatControl update: minority opinions are inconvenient, but Denmark is charging forward anyway, proving that sometimes you just need to ignore the naysayers and do your thing."
+    "author": "dmazin",
+    "created_at": "2025-09-15T13:13:49Z",
+    "aiHeadline": "Denmark's Justice Minister says encrypted messaging is a 'false civil liberty'—because nothing says 'trust us' like taking away your privacy."
   },
   {
-    "title": "EPA Seeks to Eliminate Critical PFAS Drinking Water Protections",
-    "url": "https://earthjustice.org/press/2025/epa-seeks-to-roll-back-pfas-drinking-water-rules-keeping-millions-exposed-to-toxic-forever-chemicals-in-tap-water",
+    "title": "Denmark's Justice Minister calls encrypted messaging a false civil liberty",
+    "url": "https://mastodon.social/@chatcontrol/115204439983078498",
+    "points": 414,
+    "num_comments": 268,
+    "tags": [
+      "story",
+      "author_belter",
+      "story_45248802"
+    ],
+    "author": "belter",
+    "created_at": "2025-09-15T12:21:21Z",
+    "aiHeadline": "PayPal finally embraces crypto—probably because they ran out of excuses to avoid it."
+  },
+  {
+    "title": "PayPal to support Ethereum and Bitcoin",
+    "url": "https://newsroom.paypal-corp.com/2025-09-15-PayPal-Ushers-in-a-New-Era-of-Peer-to-Peer-Payments,-Reimagining-How-Money-Moves-to-Anyone,-Anywhere",
     "points": 364,
-    "num_comments": 434,
+    "num_comments": 287,
     "tags": [
       "story",
-      "author_enraged_camel",
-      "story_45239803"
-    ],
-    "author": "enraged_camel",
-    "created_at": "2025-09-14T14:04:16Z",
-    "aiHeadline": "EPA decides that protecting drinking water from toxic chemicals is overrated, because nothing says 'we care about you' like exposing millions to 'forever chemicals.'"
-  },
-  {
-    "title": "Repetitive negative thinking associated with cognitive decline in older adults",
-    "url": "https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-025-06815-2",
-    "points": 335,
-    "num_comments": 127,
-    "tags": [
-      "story",
-      "author_redbell",
-      "story_45239085",
+      "author_DocFeind",
+      "story_45249915",
       "front_page"
     ],
-    "author": "redbell",
-    "created_at": "2025-09-14T11:37:33Z",
-    "aiHeadline": "New study finds that overthinking is bad for your brain, which is why you should probably stop reading this and go do something productive instead."
+    "author": "DocFeind",
+    "created_at": "2025-09-15T14:04:47Z",
+    "aiHeadline": "AI researchers figure out how to cram billions of concepts into 12,000 dimensions—because apparently, we weren't confused enough already."
   },
   {
-    "title": "Writing an operating system kernel from scratch",
-    "url": "https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/",
-    "points": 245,
-    "num_comments": 47,
+    "title": "Language models pack billions of concepts into 12k dimensions",
+    "url": "https://nickyoder.com/johnson-lindenstrauss/",
+    "points": 352,
+    "num_comments": 121,
     "tags": [
       "story",
-      "author_Bogdanp",
-      "story_45240682",
-      "front_page"
+      "author_lawrenceyan",
+      "story_45245948"
     ],
-    "author": "Bogdanp",
-    "created_at": "2025-09-14T15:44:44Z",
-    "aiHeadline": "Writing an operating system kernel from scratch: because who needs sleep when you can spend weeks debugging a boot loader? (Hint: nobody.)"
+    "author": "lawrenceyan",
+    "created_at": "2025-09-15T03:54:20Z",
+    "aiHeadline": "Disposable vapes are the new hosting solution—because why buy a server when you can just light it up and call it a day?"
   }
 ]
