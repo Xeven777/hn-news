@@ -1,74 +1,76 @@
 [
   {
-    "title": "Hosting a website on a disposable vape",
-    "url": "https://bogdanthegeek.github.io/blog/projects/vapeserver/",
-    "points": 676,
-    "num_comments": 373,
+    "title": "Man jailed for parole violations after refusing to decrypt his Tor node",
+    "url": "https://reddit.com/r/TOR/comments/1ni5drm/the_fbi_couldnt_get_my_husband_to_decrypt_his_tor/",
+    "points": 941,
+    "num_comments": 348,
     "tags": [
       "story",
-      "author_BogdanTheGeek",
-      "story_45252817",
+      "author_heavyset_go",
+      "story_45261163"
+    ],
+    "author": "heavyset_go",
+    "created_at": "2025-09-16T12:10:49Z",
+    "aiHeadline": "Man stubbornly refuses to decrypt his Tor node, gets jailed for his principles and an inability to cooperate with the FBI."
+  },
+  {
+    "title": "Shai-Hulud malware attack: Tinycolor and over 40 NPM packages compromised",
+    "url": "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+    "points": 884,
+    "num_comments": 673,
+    "tags": [
+      "story",
+      "author_jamesberthoty",
+      "story_45260741",
       "front_page"
     ],
-    "author": "BogdanTheGeek",
-    "created_at": "2025-09-15T17:53:19Z",
-    "aiHeadline": "Forget servers, now you can host your website on a disposable vape—because who needs lungs when you can have a blog?"
+    "author": "jamesberthoty",
+    "created_at": "2025-09-16T11:22:03Z",
+    "aiHeadline": "Hackers sneak into NPM packages, proving once again that even your favorite tools can turn against you."
   },
   {
-    "title": "Hosting a website on a disposable vape",
-    "url": "https://bogdanthegeek.github.io/blog/projects/vapeserver/",
-    "points": 650,
-    "num_comments": 15,
+    "title": "Top UN legal investigators conclude Israel is guilty of genocide in Gaza",
+    "url": "https://www.middleeasteye.net/news/un-concludes-israel-guilty-genocide-gaza",
+    "points": 663,
+    "num_comments": 443,
     "tags": [
       "story",
-      "author_dmazin",
-      "story_45249287"
-    ],
-    "author": "dmazin",
-    "created_at": "2025-09-15T13:13:49Z",
-    "aiHeadline": "Denmark's Justice Minister says encrypted messaging is a 'false civil liberty'—because nothing says 'trust us' like taking away your privacy."
-  },
-  {
-    "title": "Denmark's Justice Minister calls encrypted messaging a false civil liberty",
-    "url": "https://mastodon.social/@chatcontrol/115204439983078498",
-    "points": 414,
-    "num_comments": 268,
-    "tags": [
-      "story",
-      "author_belter",
-      "story_45248802"
-    ],
-    "author": "belter",
-    "created_at": "2025-09-15T12:21:21Z",
-    "aiHeadline": "PayPal finally embraces crypto—probably because they ran out of excuses to avoid it."
-  },
-  {
-    "title": "PayPal to support Ethereum and Bitcoin",
-    "url": "https://newsroom.paypal-corp.com/2025-09-15-PayPal-Ushers-in-a-New-Era-of-Peer-to-Peer-Payments,-Reimagining-How-Money-Moves-to-Anyone,-Anywhere",
-    "points": 364,
-    "num_comments": 287,
-    "tags": [
-      "story",
-      "author_DocFeind",
-      "story_45249915",
+      "author_Qem",
+      "story_45259553",
       "front_page"
     ],
-    "author": "DocFeind",
-    "created_at": "2025-09-15T14:04:47Z",
-    "aiHeadline": "AI researchers figure out how to cram billions of concepts into 12,000 dimensions—because apparently, we weren't confused enough already."
+    "author": "Qem",
+    "created_at": "2025-09-16T08:24:22Z",
+    "aiHeadline": "UN investigators conclude Israel guilty of genocide, while the world debates whether to take action or just scroll past."
   },
   {
-    "title": "Language models pack billions of concepts into 12k dimensions",
-    "url": "https://nickyoder.com/johnson-lindenstrauss/",
-    "points": 352,
-    "num_comments": 121,
+    "title": "Things you can do with a Software Defined Radio (2024)",
+    "url": "https://blinry.org/50-things-with-sdr/",
+    "points": 603,
+    "num_comments": 111,
     "tags": [
       "story",
-      "author_lawrenceyan",
-      "story_45245948"
+      "author_mihau",
+      "story_45262835",
+      "front_page"
     ],
-    "author": "lawrenceyan",
-    "created_at": "2025-09-15T03:54:20Z",
-    "aiHeadline": "Disposable vapes are the new hosting solution—because why buy a server when you can just light it up and call it a day?"
+    "author": "mihau",
+    "created_at": "2025-09-16T14:35:19Z",
+    "aiHeadline": "50 things you can do with a Software Defined Radio, because who doesn't want to be a tech wizard?"
+  },
+  {
+    "title": "Waymo has received our pilot permit allowing for commercial operations at SFO",
+    "url": "https://waymo.com/blog/#short-all-systems-go-at-sfo-waymo-has-received-our-pilot-permit",
+    "points": 566,
+    "num_comments": 530,
+    "tags": [
+      "story",
+      "author_ChrisArchitect",
+      "story_45264562",
+      "front_page"
+    ],
+    "author": "ChrisArchitect",
+    "created_at": "2025-09-16T16:38:08Z",
+    "aiHeadline": "Waymo gets permit to operate at SFO, proving that the future of transportation is here, and it's autonomous... or is it just another step towards robot domination?"
   }
 ]
