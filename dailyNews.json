@@ -1,76 +1,74 @@
 [
   {
-    "title": "Man jailed for parole violations after refusing to decrypt his Tor node",
-    "url": "https://reddit.com/r/TOR/comments/1ni5drm/the_fbi_couldnt_get_my_husband_to_decrypt_his_tor/",
-    "points": 941,
-    "num_comments": 348,
+    "title": "Apple Photos app corrupts images",
+    "url": "https://tenderlovemaking.com/2025/09/17/apple-photos-app-corrupts-images/",
+    "points": 968,
+    "num_comments": 369,
     "tags": [
       "story",
-      "author_heavyset_go",
-      "story_45261163"
-    ],
-    "author": "heavyset_go",
-    "created_at": "2025-09-16T12:10:49Z",
-    "aiHeadline": "Man stubbornly refuses to decrypt his Tor node, gets jailed for his principles and an inability to cooperate with the FBI."
-  },
-  {
-    "title": "Shai-Hulud malware attack: Tinycolor and over 40 NPM packages compromised",
-    "url": "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
-    "points": 884,
-    "num_comments": 673,
-    "tags": [
-      "story",
-      "author_jamesberthoty",
-      "story_45260741",
+      "author_pattyj",
+      "story_45274277",
       "front_page"
     ],
-    "author": "jamesberthoty",
-    "created_at": "2025-09-16T11:22:03Z",
-    "aiHeadline": "Hackers sneak into NPM packages, proving once again that even your favorite tools can turn against you."
+    "author": "pattyj",
+    "created_at": "2025-09-17T11:07:44Z",
+    "aiHeadline": "Apple's Photos App Finally Does Something Unexpected—Ruins Your Memories!"
   },
   {
-    "title": "Top UN legal investigators conclude Israel is guilty of genocide in Gaza",
-    "url": "https://www.middleeasteye.net/news/un-concludes-israel-guilty-genocide-gaza",
-    "points": 663,
-    "num_comments": 443,
+    "title": "WASM 3.0 Completed",
+    "url": "https://webassembly.org/news/2025-09-17-wasm-3.0/",
+    "points": 677,
+    "num_comments": 275,
     "tags": [
       "story",
-      "author_Qem",
-      "story_45259553",
+      "author_todsacerdoti",
+      "story_45279384",
       "front_page"
     ],
-    "author": "Qem",
-    "created_at": "2025-09-16T08:24:22Z",
-    "aiHeadline": "UN investigators conclude Israel guilty of genocide, while the world debates whether to take action or just scroll past."
+    "author": "todsacerdoti",
+    "created_at": "2025-09-17T18:16:53Z",
+    "aiHeadline": "WebAssembly 3.0 Released: Now You Can Write Code That’s 100% Faster Than Nothing!"
   },
   {
-    "title": "Things you can do with a Software Defined Radio (2024)",
-    "url": "https://blinry.org/50-things-with-sdr/",
-    "points": 603,
-    "num_comments": 111,
+    "title": "GNU Midnight Commander",
+    "url": "https://midnight-commander.org/",
+    "points": 485,
+    "num_comments": 286,
     "tags": [
       "story",
-      "author_mihau",
-      "story_45262835",
-      "front_page"
+      "author_pykello",
+      "story_45271481"
     ],
-    "author": "mihau",
-    "created_at": "2025-09-16T14:35:19Z",
-    "aiHeadline": "50 things you can do with a Software Defined Radio, because who doesn't want to be a tech wizard?"
+    "author": "pykello",
+    "created_at": "2025-09-17T03:54:06Z",
+    "aiHeadline": "GNU Midnight Commander Turns 30: Still the Best Way to Navigate Your Files If You’re a Time Traveler!"
   },
   {
-    "title": "Waymo has received our pilot permit allowing for commercial operations at SFO",
-    "url": "https://waymo.com/blog/#short-all-systems-go-at-sfo-waymo-has-received-our-pilot-permit",
-    "points": 566,
-    "num_comments": 530,
+    "title": "The Asus gaming laptop ACPI firmware bug",
+    "url": "https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive",
+    "points": 404,
+    "num_comments": 174,
     "tags": [
       "story",
-      "author_ChrisArchitect",
-      "story_45264562",
-      "front_page"
+      "author_signa11",
+      "story_45271484"
     ],
-    "author": "ChrisArchitect",
-    "created_at": "2025-09-16T16:38:08Z",
-    "aiHeadline": "Waymo gets permit to operate at SFO, proving that the future of transportation is here, and it's autonomous... or is it just another step towards robot domination?"
+    "author": "signa11",
+    "created_at": "2025-09-17T03:54:36Z",
+    "aiHeadline": "Asus Gaming Laptops Have a Bug So Bad, Your Laptop Might As Well Be a Paperweight!"
+  },
+  {
+    "title": "EU Chat Control: Germany's position has been reverted to undecided",
+    "url": "https://mastodon.social/@chatcontrol/115215006562371435",
+    "points": 386,
+    "num_comments": 272,
+    "tags": [
+      "story",
+      "author_doener",
+      "story_45273854"
+    ],
+    "author": "doener",
+    "created_at": "2025-09-17T10:02:55Z",
+    "aiHeadline": "EU Chat Control: Germany’s Position on Regulation is Now ‘Maybe’—Because Who Needs Consistency Anyway?"
   }
 ]
