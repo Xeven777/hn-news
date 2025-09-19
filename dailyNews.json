@@ -1,74 +1,76 @@
 [
   {
-    "title": "Apple Photos app corrupts images",
-    "url": "https://tenderlovemaking.com/2025/09/17/apple-photos-app-corrupts-images/",
-    "points": 968,
-    "num_comments": 369,
+    "title": "Slack has raised our charges by $195k per year",
+    "url": "https://skyfall.dev/posts/slack",
+    "points": 2854,
+    "num_comments": 1231,
     "tags": [
       "story",
-      "author_pattyj",
-      "story_45274277",
+      "author_JustSkyfall",
+      "story_45283887",
       "front_page"
     ],
-    "author": "pattyj",
-    "created_at": "2025-09-17T11:07:44Z",
-    "aiHeadline": "Apple's Photos App Finally Does Something Unexpected—Ruins Your Memories!"
+    "author": "JustSkyfall",
+    "created_at": "2025-09-18T01:37:11Z",
+    "aiHeadline": "Slack just raised its prices by $195k a year, proving that even digital communication can't escape the inflation train."
   },
   {
-    "title": "WASM 3.0 Completed",
-    "url": "https://webassembly.org/news/2025-09-17-wasm-3.0/",
-    "points": 677,
-    "num_comments": 275,
+    "title": "Nvidia buys $5B in Intel",
+    "url": "https://www.tomshardware.com/pc-components/cpus/nvidia-and-intel-announce-jointly-developed-intel-x86-rtx-socs-for-pcs-with-nvidia-graphics-also-custom-nvidia-data-center-x86-processors-nvidia-buys-usd5-billion-in-intel-stock-in-seismic-deal",
+    "points": 824,
+    "num_comments": 482,
+    "tags": [
+      "story",
+      "author_stycznik",
+      "story_45288161",
+      "front_page"
+    ],
+    "author": "stycznik",
+    "created_at": "2025-09-18T11:04:48Z",
+    "aiHeadline": "Nvidia spends $5 billion on Intel stock, because who needs actual innovation when you can just buy your way into the market?"
+  },
+  {
+    "title": "KDE is now my favorite desktop",
+    "url": "https://kokada.dev/blog/kde-is-now-my-favorite-desktop/",
+    "points": 704,
+    "num_comments": 572,
     "tags": [
       "story",
       "author_todsacerdoti",
-      "story_45279384",
+      "story_45288690",
       "front_page"
     ],
     "author": "todsacerdoti",
-    "created_at": "2025-09-17T18:16:53Z",
-    "aiHeadline": "WebAssembly 3.0 Released: Now You Can Write Code That’s 100% Faster Than Nothing!"
+    "created_at": "2025-09-18T12:17:51Z",
+    "aiHeadline": "After years of suffering through other desktops, one user finally finds KDE to be the most user-friendly, proving that sometimes, the best things in life are worth the learning curve."
   },
   {
-    "title": "GNU Midnight Commander",
-    "url": "https://midnight-commander.org/",
-    "points": 485,
-    "num_comments": 286,
+    "title": "Show HN: The text disappears when you screenshot it",
+    "url": "https://unscreenshottable.vercel.app/?text=Hello",
+    "points": 518,
+    "num_comments": 182,
     "tags": [
       "story",
-      "author_pykello",
-      "story_45271481"
+      "author_zikero",
+      "story_45284311",
+      "show_hn"
     ],
-    "author": "pykello",
-    "created_at": "2025-09-17T03:54:06Z",
-    "aiHeadline": "GNU Midnight Commander Turns 30: Still the Best Way to Navigate Your Files If You’re a Time Traveler!"
+    "author": "zikero",
+    "created_at": "2025-09-18T02:18:45Z",
+    "aiHeadline": "A new tool makes your text disappear when you screenshot it, because who needs evidence when you can just have a good laugh?"
   },
   {
-    "title": "The Asus gaming laptop ACPI firmware bug",
-    "url": "https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive",
-    "points": 404,
-    "num_comments": 174,
+    "title": "CERN Animal Shelter for Computer Mice (2011)",
+    "url": "https://computer-animal-shelter.web.cern.ch/index.shtml",
+    "points": 329,
+    "num_comments": 46,
     "tags": [
       "story",
-      "author_signa11",
-      "story_45271484"
+      "author_EbNar",
+      "story_45286369"
     ],
-    "author": "signa11",
-    "created_at": "2025-09-17T03:54:36Z",
-    "aiHeadline": "Asus Gaming Laptops Have a Bug So Bad, Your Laptop Might As Well Be a Paperweight!"
-  },
-  {
-    "title": "EU Chat Control: Germany's position has been reverted to undecided",
-    "url": "https://mastodon.social/@chatcontrol/115215006562371435",
-    "points": 386,
-    "num_comments": 272,
-    "tags": [
-      "story",
-      "author_doener",
-      "story_45273854"
-    ],
-    "author": "doener",
-    "created_at": "2025-09-17T10:02:55Z",
-    "aiHeadline": "EU Chat Control: Germany’s Position on Regulation is Now ‘Maybe’—Because Who Needs Consistency Anyway?"
+    "author": "EbNar",
+    "created_at": "2025-09-18T06:53:08Z",
+    "aiHeadline": "CERN, the organization that brought you the internet, now runs an animal shelter for computer mice, proving that even scientists need a break from particle physics."
   }
 ]
