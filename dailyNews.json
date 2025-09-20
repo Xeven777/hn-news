@@ -1,76 +1,74 @@
 [
   {
-    "title": "Slack has raised our charges by $195k per year",
-    "url": "https://skyfall.dev/posts/slack",
-    "points": 2854,
-    "num_comments": 1231,
+    "title": "Trump to impose $100k fee for H-1B worker visas, White House says",
+    "url": "https://www.reuters.com/business/media-telecom/trump-mulls-adding-new-100000-fee-h-1b-visas-bloomberg-news-reports-2025-09-19/",
+    "points": 672,
+    "num_comments": 751,
     "tags": [
       "story",
-      "author_JustSkyfall",
-      "story_45283887",
+      "author_mriguy",
+      "story_45305845"
+    ],
+    "author": "mriguy",
+    "created_at": "2025-09-19T19:59:33Z",
+    "aiHeadline": "Trump's latest genius idea: Charge $100k for H-1B visas because, hey, why not make hiring smart people even more expensive?"
+  },
+  {
+    "title": "Help us raise $200k to free JavaScript from Oracle",
+    "url": "https://deno.com/blog/javascript-tm-gofundme",
+    "points": 605,
+    "num_comments": 284,
+    "tags": [
+      "story",
+      "author_kaladin-jasnah",
+      "story_45297066"
+    ],
+    "author": "kaladin-jasnah",
+    "created_at": "2025-09-19T01:40:35Z",
+    "aiHeadline": "JavaScript is in trouble again—this time, it's being held hostage by Oracle, and we need your money to save it. Because clearly, JavaScript can't save itself."
+  },
+  {
+    "title": "Ruby Central's Attack on RubyGems [pdf]",
+    "url": "https://pup-e.com/goodbye-rubygems.pdf",
+    "points": 597,
+    "num_comments": 195,
+    "tags": [
+      "story",
+      "author_jolux",
+      "story_45299170",
       "front_page"
     ],
-    "author": "JustSkyfall",
-    "created_at": "2025-09-18T01:37:11Z",
-    "aiHeadline": "Slack just raised its prices by $195k a year, proving that even digital communication can't escape the inflation train."
+    "author": "jolux",
+    "created_at": "2025-09-19T08:09:17Z",
+    "aiHeadline": "Ruby Central is declaring war on RubyGems in the most dramatic way possible, complete with a PDF. Because who doesn't love a good tech industry drama?"
   },
   {
-    "title": "Nvidia buys $5B in Intel",
-    "url": "https://www.tomshardware.com/pc-components/cpus/nvidia-and-intel-announce-jointly-developed-intel-x86-rtx-socs-for-pcs-with-nvidia-graphics-also-custom-nvidia-data-center-x86-processors-nvidia-buys-usd5-billion-in-intel-stock-in-seismic-deal",
-    "points": 824,
-    "num_comments": 482,
+    "title": "I regret building this $3000 Pi AI cluster",
+    "url": "https://www.jeffgeerling.com/blog/2025/i-regret-building-3000-pi-ai-cluster",
+    "points": 411,
+    "num_comments": 299,
     "tags": [
       "story",
-      "author_stycznik",
-      "story_45288161",
+      "author_speckx",
+      "story_45302065"
+    ],
+    "author": "speckx",
+    "created_at": "2025-09-19T14:28:47Z",
+    "aiHeadline": "Building a $3000 Pi AI cluster was a terrible idea, and now the regret is setting in. Because who needs an expensive pile of Raspberry Pis, anyway?"
+  },
+  {
+    "title": "Ants that seem to defy biology – They lay eggs that hatch into another species",
+    "url": "https://www.smithsonianmag.com/smart-news/these-ant-queens-seem-to-defy-biology-they-lay-eggs-that-hatch-into-another-species-180987292/",
+    "points": 315,
+    "num_comments": 103,
+    "tags": [
+      "story",
+      "author_sampo",
+      "story_45300865",
       "front_page"
     ],
-    "author": "stycznik",
-    "created_at": "2025-09-18T11:04:48Z",
-    "aiHeadline": "Nvidia spends $5 billion on Intel stock, because who needs actual innovation when you can just buy your way into the market?"
-  },
-  {
-    "title": "KDE is now my favorite desktop",
-    "url": "https://kokada.dev/blog/kde-is-now-my-favorite-desktop/",
-    "points": 704,
-    "num_comments": 572,
-    "tags": [
-      "story",
-      "author_todsacerdoti",
-      "story_45288690",
-      "front_page"
-    ],
-    "author": "todsacerdoti",
-    "created_at": "2025-09-18T12:17:51Z",
-    "aiHeadline": "After years of suffering through other desktops, one user finally finds KDE to be the most user-friendly, proving that sometimes, the best things in life are worth the learning curve."
-  },
-  {
-    "title": "Show HN: The text disappears when you screenshot it",
-    "url": "https://unscreenshottable.vercel.app/?text=Hello",
-    "points": 518,
-    "num_comments": 182,
-    "tags": [
-      "story",
-      "author_zikero",
-      "story_45284311",
-      "show_hn"
-    ],
-    "author": "zikero",
-    "created_at": "2025-09-18T02:18:45Z",
-    "aiHeadline": "A new tool makes your text disappear when you screenshot it, because who needs evidence when you can just have a good laugh?"
-  },
-  {
-    "title": "CERN Animal Shelter for Computer Mice (2011)",
-    "url": "https://computer-animal-shelter.web.cern.ch/index.shtml",
-    "points": 329,
-    "num_comments": 46,
-    "tags": [
-      "story",
-      "author_EbNar",
-      "story_45286369"
-    ],
-    "author": "EbNar",
-    "created_at": "2025-09-18T06:53:08Z",
-    "aiHeadline": "CERN, the organization that brought you the internet, now runs an animal shelter for computer mice, proving that even scientists need a break from particle physics."
+    "author": "sampo",
+    "created_at": "2025-09-19T12:25:50Z",
+    "aiHeadline": "Ants are breaking all the rules of biology by laying eggs that hatch into a completely different species. Because apparently, some ants are just rebels without a cause."
   }
 ]
