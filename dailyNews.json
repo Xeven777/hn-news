@@ -1,74 +1,73 @@
 [
   {
-    "title": "Ultrasonic Chef's Knife",
-    "url": "https://seattleultrasonics.com/",
-    "points": 384,
-    "num_comments": 307,
+    "title": "They Thought They Were Free (1955)",
+    "url": "https://press.uchicago.edu/Misc/Chicago/511928.html",
+    "points": 561,
+    "num_comments": 434,
     "tags": [
       "story",
-      "author_hemloc_io",
-      "story_45314592",
+      "author_nataliste",
+      "story_45321663"
+    ],
+    "author": "nataliste",
+    "created_at": "2025-09-21T10:56:42Z",
+    "aiHeadline": "Freedom: Just an Illusion, Apparently (And We've Been Saying This Since 1955!)"
+  },
+  {
+    "title": "Meta exposé author faces $50k fine per breach of non-disparagement agreement",
+    "url": "https://www.theguardian.com/technology/2025/sep/21/meta-expose-author-sarah-wynn-williams-faces-bankruptcy-after-ban-on-criticising-company",
+    "points": 423,
+    "num_comments": 318,
+    "tags": [
+      "story",
+      "author_mindracer",
+      "story_45322050"
+    ],
+    "author": "mindracer",
+    "created_at": "2025-09-21T12:15:11Z",
+    "aiHeadline": "Meta's Non-Disparagement Agreement: Because Who Needs Free Speech When You Can Have Bankruptcy?"
+  },
+  {
+    "title": "Amazon to end commingling after years of complaints from brands and sellers",
+    "url": "https://www.modernretail.co/operations/amazon-to-end-commingling-program-after-years-of-complaints-from-brands-and-sellers/",
+    "points": 399,
+    "num_comments": 148,
+    "tags": [
+      "story",
+      "author_blindriver",
+      "story_45319463"
+    ],
+    "author": "blindriver",
+    "created_at": "2025-09-21T02:23:59Z",
+    "aiHeadline": "Amazon Finally Listens to Sellers: Ends Commingling Program (Because Fairness is Apparently a Thing Now)"
+  },
+  {
+    "title": "iFixit iPhone Air teardown",
+    "url": "https://www.ifixit.com/News/113171/iphone-air-teardown",
+    "points": 340,
+    "num_comments": 189,
+    "tags": [
+      "story",
+      "author_zdw",
+      "story_45319690"
+    ],
+    "author": "zdw",
+    "created_at": "2025-09-21T03:09:47Z",
+    "aiHeadline": "iFixit Tears Down iPhone Air: Because Even Apple's 'Revolutionary' Devices Need a Good Unboxing (And Maybe a New Battery)"
+  },
+  {
+    "title": "LaLiga's Anti-Piracy Crackdown Triggers Widespread Internet Disruptions in Spain",
+    "url": "https://reclaimthenet.org/laligas-anti-piracy-crackdown-triggers-widespread-internet-disruptions",
+    "points": 315,
+    "num_comments": 131,
+    "tags": [
+      "story",
+      "author_akyuu",
+      "story_45323856",
       "front_page"
     ],
-    "author": "hemloc_io",
-    "created_at": "2025-09-20T16:12:56Z",
-    "aiHeadline": "Ultrasonic Chef's Knife: Because cutting vegetables with a regular knife just wasn't exciting enough, now you can do it with sound waves!"
-  },
-  {
-    "title": "Microsoft has urged its employees on H-1B and H-4 visas to return immediately",
-    "url": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-has-a-24-hour-deadline-warning-for-indian-and-other-foreign-employees-after-h1-b-visa-fees-hike-to-100000-strongly-recommend-h1b-visa-holders-/articleshow/124010245.cms",
-    "points": 367,
-    "num_comments": 564,
-    "tags": [
-      "story",
-      "author_irthomasthomas",
-      "story_45312877"
-    ],
-    "author": "irthomasthomas",
-    "created_at": "2025-09-20T12:40:34Z",
-    "aiHeadline": "Microsoft tells H-1B and H-4 visa holders: 'Get back to the US or else!' Meanwhile, visa fees just went up by $10,000. Good luck, everyone!"
-  },
-  {
-    "title": "Git: Introduce Rust and announce it will become mandatory in the build system",
-    "url": "https://lore.kernel.org/git/20250904-b4-pks-rust-breaking-change-v1-0-3af1d25e0be9@pks.im/",
-    "points": 299,
-    "num_comments": 279,
-    "tags": [
-      "story",
-      "author_WhyNotHugo",
-      "story_45312696"
-    ],
-    "author": "WhyNotHugo",
-    "created_at": "2025-09-20T12:17:33Z",
-    "aiHeadline": "Git says, 'Hey, we love you, but now you have to learn Rust!' Because nothing says 'fun' like a mandatory programming language change."
-  },
-  {
-    "title": "Britain jumps into bed with Palantir in £1.5B defense pact",
-    "url": "https://www.theregister.com/2025/09/20/uk_palantir_defense_pact/",
-    "points": 194,
-    "num_comments": 127,
-    "tags": [
-      "story",
-      "author_rntn",
-      "story_45313793"
-    ],
-    "author": "rntn",
-    "created_at": "2025-09-20T14:37:52Z",
-    "aiHeadline": "Britain and Palantir: 'We’re teaming up to defend the realm!' Meanwhile, taxpayers wonder if this is the best use of £1.5 billion."
-  },
-  {
-    "title": "Cormac McCarthy's tips on how to write a science paper (2019) [pdf]",
-    "url": "https://gwern.net/doc/science/2019-savage.pdf",
-    "points": 194,
-    "num_comments": 77,
-    "tags": [
-      "story",
-      "author_surprisetalk",
-      "story_45313557",
-      "front_page"
-    ],
-    "author": "surprisetalk",
-    "created_at": "2025-09-20T14:08:24Z",
-    "aiHeadline": "Cormac McCarthy's science paper tips: 'Forget the data, just write like a madman!' Because who needs facts when you have a Pulitzer?"
+    "author": "akyuu",
+    "created_at": "2025-09-21T15:57:49Z",
+    "aiHeadline": "LaLiga's Anti-Piracy Measures: Because What's a Few Internet Outages When You're Trying to Stop Piracy? (Apparently, It's a National Crisis!)"
   }
 ]
