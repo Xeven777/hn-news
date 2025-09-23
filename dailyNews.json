@@ -1,73 +1,76 @@
 [
   {
-    "title": "They Thought They Were Free (1955)",
-    "url": "https://press.uchicago.edu/Misc/Chicago/511928.html",
-    "points": 561,
-    "num_comments": 434,
+    "title": "You did this with an AI and you do not understand what you're doing here",
+    "url": "https://hackerone.com/reports/3340109",
+    "points": 996,
+    "num_comments": 488,
     "tags": [
       "story",
-      "author_nataliste",
-      "story_45321663"
+      "author_redbell",
+      "story_45330378"
     ],
-    "author": "nataliste",
-    "created_at": "2025-09-21T10:56:42Z",
-    "aiHeadline": "Freedom: Just an Illusion, Apparently (And We've Been Saying This Since 1955!)"
+    "author": "redbell",
+    "created_at": "2025-09-22T07:59:37Z",
+    "aiHeadline": "AI did the work, but you're clueless about how it happened—classic human oversight."
   },
   {
-    "title": "Meta exposé author faces $50k fine per breach of non-disparagement agreement",
-    "url": "https://www.theguardian.com/technology/2025/sep/21/meta-expose-author-sarah-wynn-williams-faces-bankruptcy-after-ban-on-criticising-company",
-    "points": 423,
-    "num_comments": 318,
+    "title": "Cloudflare is sponsoring Ladybird and Omarchy",
+    "url": "https://blog.cloudflare.com/supporting-the-future-of-the-open-web/",
+    "points": 616,
+    "num_comments": 385,
     "tags": [
       "story",
-      "author_mindracer",
-      "story_45322050"
-    ],
-    "author": "mindracer",
-    "created_at": "2025-09-21T12:15:11Z",
-    "aiHeadline": "Meta's Non-Disparagement Agreement: Because Who Needs Free Speech When You Can Have Bankruptcy?"
-  },
-  {
-    "title": "Amazon to end commingling after years of complaints from brands and sellers",
-    "url": "https://www.modernretail.co/operations/amazon-to-end-commingling-program-after-years-of-complaints-from-brands-and-sellers/",
-    "points": 399,
-    "num_comments": 148,
-    "tags": [
-      "story",
-      "author_blindriver",
-      "story_45319463"
-    ],
-    "author": "blindriver",
-    "created_at": "2025-09-21T02:23:59Z",
-    "aiHeadline": "Amazon Finally Listens to Sellers: Ends Commingling Program (Because Fairness is Apparently a Thing Now)"
-  },
-  {
-    "title": "iFixit iPhone Air teardown",
-    "url": "https://www.ifixit.com/News/113171/iphone-air-teardown",
-    "points": 340,
-    "num_comments": 189,
-    "tags": [
-      "story",
-      "author_zdw",
-      "story_45319690"
-    ],
-    "author": "zdw",
-    "created_at": "2025-09-21T03:09:47Z",
-    "aiHeadline": "iFixit Tears Down iPhone Air: Because Even Apple's 'Revolutionary' Devices Need a Good Unboxing (And Maybe a New Battery)"
-  },
-  {
-    "title": "LaLiga's Anti-Piracy Crackdown Triggers Widespread Internet Disruptions in Spain",
-    "url": "https://reclaimthenet.org/laligas-anti-piracy-crackdown-triggers-widespread-internet-disruptions",
-    "points": 315,
-    "num_comments": 131,
-    "tags": [
-      "story",
-      "author_akyuu",
-      "story_45323856",
+      "author_jgrahamc",
+      "story_45332860",
       "front_page"
     ],
-    "author": "akyuu",
-    "created_at": "2025-09-21T15:57:49Z",
-    "aiHeadline": "LaLiga's Anti-Piracy Measures: Because What's a Few Internet Outages When You're Trying to Stop Piracy? (Apparently, It's a National Crisis!)"
+    "author": "jgrahamc",
+    "created_at": "2025-09-22T13:03:33Z",
+    "aiHeadline": "Cloudflare throws money at open-source projects, probably to feel better about themselves."
+  },
+  {
+    "title": "Cap'n Web: a new RPC system for browsers and web servers",
+    "url": "https://blog.cloudflare.com/capnweb-javascript-rpc-library/",
+    "points": 397,
+    "num_comments": 182,
+    "tags": [
+      "story",
+      "author_jgrahamc",
+      "story_45332883",
+      "front_page"
+    ],
+    "author": "jgrahamc",
+    "created_at": "2025-09-22T13:05:32Z",
+    "aiHeadline": "Another RPC system? Because the world wasn't complicated enough already."
+  },
+  {
+    "title": "OpenAI and Nvidia announce partnership to deploy 10GW of Nvidia systems",
+    "url": "https://openai.com/index/openai-nvidia-systems-partnership/",
+    "points": 389,
+    "num_comments": 502,
+    "tags": [
+      "story",
+      "author_meetpateltech",
+      "story_45335474",
+      "front_page"
+    ],
+    "author": "meetpateltech",
+    "created_at": "2025-09-22T16:10:15Z",
+    "aiHeadline": "OpenAI and Nvidia team up to make AI even more powerful—because the world needs more AI, right?"
+  },
+  {
+    "title": "Qwen3-Omni: Native Omni AI model for text, image and video",
+    "url": "https://github.com/QwenLM/Qwen3-Omni",
+    "points": 323,
+    "num_comments": 78,
+    "tags": [
+      "story",
+      "author_meetpateltech",
+      "story_45336989",
+      "front_page"
+    ],
+    "author": "meetpateltech",
+    "created_at": "2025-09-22T17:50:21Z",
+    "aiHeadline": "This AI does it all—text, images, videos. It's like the Swiss Army knife of AI models."
   }
 ]
