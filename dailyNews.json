@@ -1,75 +1,75 @@
 [
   {
-    "title": "Nine things I learned in ninety years",
-    "url": "http://edwardpackard.com/wp-content/uploads/2025/09/Nine-Things-I-Learned-in-Ninety-Years.pdf",
-    "points": 877,
-    "num_comments": 333,
+    "title": "That Secret Service SIM farm story is bogus",
+    "url": "https://cybersect.substack.com/p/that-secret-service-sim-farm-story",
+    "points": 997,
+    "num_comments": 562,
     "tags": [
       "story",
-      "author_coderintherye",
-      "story_45342364"
+      "author_sixhobbits",
+      "story_45357693"
     ],
-    "author": "coderintherye",
-    "created_at": "2025-09-23T03:03:06Z",
-    "aiHeadline": "A Centenarian Shares Nine Life Lessons, Because Apparently 90 Years Isn't Enough to Sum It Up"
+    "author": "sixhobbits",
+    "created_at": "2025-09-24T08:24:20Z",
+    "aiHeadline": "The Secret Service's SIM Farm Scandal? Turns Out It's Just Another Bogus Conspiracy Theory That Doesn't Hold Up Under Scrutiny."
   },
   {
-    "title": "Delete FROM users WHERE location = 'Iran';",
-    "url": "https://gist.github.com/avestura/ce2aa6e55dad783b1aba946161d5fef4",
-    "points": 863,
-    "num_comments": 723,
+    "title": "Yt-dlp: Upcoming new requirements for YouTube downloads",
+    "url": "https://github.com/yt-dlp/yt-dlp/issues/14404",
+    "points": 956,
+    "num_comments": 466,
     "tags": [
       "story",
-      "author_avestura",
-      "story_45343108"
-    ],
-    "author": "avestura",
-    "created_at": "2025-09-23T05:30:28Z",
-    "aiHeadline": "A Developer Finds the Most Efficient Way to Exclude Iranians from Their Database, Because Why Not?"
-  },
-  {
-    "title": "Always Invite Anna",
-    "url": "https://sharif.io/anna-alexei",
-    "points": 625,
-    "num_comments": 66,
-    "tags": [
-      "story",
-      "author_walterbell",
-      "story_45348495",
+      "author_phewlink",
+      "story_45358980",
       "front_page"
     ],
-    "author": "walterbell",
-    "created_at": "2025-09-23T15:33:23Z",
-    "aiHeadline": "The Secret to Social Success? Always Invite Anna, Apparently"
+    "author": "phewlink",
+    "created_at": "2025-09-24T11:41:54Z",
+    "aiHeadline": "Yt-dlp Warns Users: 'Prepare for More Annoying Requirements When Downloading YouTube Videos Because Apparently, YouTube Thinks Your Privacy is a Joke.'"
   },
   {
-    "title": "Find SF parking cops",
-    "url": "https://walzr.com/sf-parking/",
-    "points": 550,
-    "num_comments": 329,
+    "title": "Just let me select text",
+    "url": "https://aartaka.me/select-text.html",
+    "points": 723,
+    "num_comments": 507,
     "tags": [
       "story",
-      "author_alazsengul",
-      "story_45350690",
+      "author_ayoisaiah",
+      "story_45360475",
       "front_page"
     ],
-    "author": "alazsengul",
-    "created_at": "2025-09-23T18:06:07Z",
-    "aiHeadline": "Tired of Parking Tickets? Here's How to Avoid SF Parking Cops, Because Who Needs Expensive Parking Anyway?"
+    "author": "ayoisaiah",
+    "created_at": "2025-09-24T13:56:37Z",
+    "aiHeadline": "Tech Companies: 'We'll Keep Making It Harder to Select Text on Websites Because Why Would You Want to Copy Something Useful Anyway?'"
   },
   {
-    "title": "Libghostty is coming",
-    "url": "https://mitchellh.com/writing/libghostty-is-coming",
-    "points": 530,
-    "num_comments": 161,
+    "title": "Terence Tao: The role of small organizations in society has shrunk significantly",
+    "url": "https://mathstodon.xyz/@tao/115259943398316677",
+    "points": 711,
+    "num_comments": 385,
     "tags": [
       "story",
-      "author_kingori",
-      "story_45347117",
+      "author_bertman",
+      "story_45362697",
       "front_page"
     ],
-    "author": "kingori",
-    "created_at": "2025-09-23T13:56:28Z",
-    "aiHeadline": "The Future of Terminal Emulation is Here, and It's Called Libghostty—Because Ghosts Love Terminals, Right?"
+    "author": "bertman",
+    "created_at": "2025-09-24T16:32:24Z",
+    "aiHeadline": "Terence Tao: 'Small Organizations? Oh, They're Basically Extinct Now. Society Has Moved On to More Important Things Like Algorithms and AI.'"
+  },
+  {
+    "title": "US airlines are pushing to remove protections for passengers and add more fees",
+    "url": "https://www.travelandtourworld.com/news/article/american-joins-delta-southwest-united-and-other-us-airlines-push-to-strip-away-travelers-rights-and-add-more-fees-by-rolling-back-key-protections-in-new-deregulation-move/",
+    "points": 610,
+    "num_comments": 577,
+    "tags": [
+      "story",
+      "author_duxup",
+      "story_45359378"
+    ],
+    "author": "duxup",
+    "created_at": "2025-09-24T12:30:59Z",
+    "aiHeadline": "US Airlines: 'We're Removing Passenger Protections and Adding More Fees Because Why Should We Care About Your Comfort or Rights?'"
   }
 ]
