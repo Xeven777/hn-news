@@ -1,75 +1,75 @@
 [
   {
-    "title": "That Secret Service SIM farm story is bogus",
-    "url": "https://cybersect.substack.com/p/that-secret-service-sim-farm-story",
-    "points": 997,
-    "num_comments": 562,
+    "title": "ChatControl: EU wants to scan all private messages, even in encrypted apps",
+    "url": "https://metalhearf.fr/posts/chatcontrol-wants-your-private-messages/",
+    "points": 837,
+    "num_comments": 454,
     "tags": [
       "story",
-      "author_sixhobbits",
-      "story_45357693"
-    ],
-    "author": "sixhobbits",
-    "created_at": "2025-09-24T08:24:20Z",
-    "aiHeadline": "The Secret Service's SIM Farm Scandal? Turns Out It's Just Another Bogus Conspiracy Theory That Doesn't Hold Up Under Scrutiny."
-  },
-  {
-    "title": "Yt-dlp: Upcoming new requirements for YouTube downloads",
-    "url": "https://github.com/yt-dlp/yt-dlp/issues/14404",
-    "points": 956,
-    "num_comments": 466,
-    "tags": [
-      "story",
-      "author_phewlink",
-      "story_45358980",
+      "author_Metalhearf",
+      "story_45374500",
       "front_page"
     ],
-    "author": "phewlink",
-    "created_at": "2025-09-24T11:41:54Z",
-    "aiHeadline": "Yt-dlp Warns Users: 'Prepare for More Annoying Requirements When Downloading YouTube Videos Because Apparently, YouTube Thinks Your Privacy is a Joke.'"
+    "author": "Metalhearf",
+    "created_at": "2025-09-25T16:01:41Z",
+    "aiHeadline": "EU wants to peek into your private chats, because what's the point of end-to-end encryption if they can't read your 'I love you' messages?"
   },
   {
-    "title": "Just let me select text",
-    "url": "https://aartaka.me/select-text.html",
-    "points": 723,
-    "num_comments": 507,
+    "title": "Microsoft blocks Israel’s use of its tech in mass surveillance of Palestinians",
+    "url": "https://www.theguardian.com/world/2025/sep/25/microsoft-blocks-israels-use-of-its-technology-in-mass-surveillance-of-palestinians",
+    "points": 767,
+    "num_comments": 646,
     "tags": [
       "story",
-      "author_ayoisaiah",
-      "story_45360475",
+      "author_helsinkiandrew",
+      "story_45373564"
+    ],
+    "author": "helsinkiandrew",
+    "created_at": "2025-09-25T15:06:47Z",
+    "aiHeadline": "Microsoft takes a stand against surveillance, because nothing says 'we care about privacy' like selling AI to the NSA."
+  },
+  {
+    "title": "Death rates rose in hospital ERs after private equity firms took over",
+    "url": "https://www.nbcnews.com/news/us-news/death-rates-rose-hospital-ers-private-equity-firms-took-study-finds-rcna233211",
+    "points": 717,
+    "num_comments": 448,
+    "tags": [
+      "story",
+      "author_coloneltcb",
+      "story_45372442"
+    ],
+    "author": "coloneltcb",
+    "created_at": "2025-09-25T13:32:50Z",
+    "aiHeadline": "Private equity proves once again that if you can't make money off death, you're not trying hard enough."
+  },
+  {
+    "title": "Cloudflare Email Service: private beta",
+    "url": "https://blog.cloudflare.com/email-service/",
+    "points": 454,
+    "num_comments": 363,
+    "tags": [
+      "story",
+      "author_tosh",
+      "story_45373081",
       "front_page"
     ],
-    "author": "ayoisaiah",
-    "created_at": "2025-09-24T13:56:37Z",
-    "aiHeadline": "Tech Companies: 'We'll Keep Making It Harder to Select Text on Websites Because Why Would You Want to Copy Something Useful Anyway?'"
+    "author": "tosh",
+    "created_at": "2025-09-25T14:33:50Z",
+    "aiHeadline": "Because the world really needed another email service, Cloudflare is now your new email provider. Now you can have your emails and your DNS both fail at the same time!"
   },
   {
-    "title": "Terence Tao: The role of small organizations in society has shrunk significantly",
-    "url": "https://mathstodon.xyz/@tao/115259943398316677",
-    "points": 711,
-    "num_comments": 385,
+    "title": "The story of DOGE, as told by federal workers",
+    "url": "https://www.wired.com/story/oral-history-doge-federal-workers/",
+    "points": 387,
+    "num_comments": 316,
     "tags": [
       "story",
-      "author_bertman",
-      "story_45362697",
+      "author_rendx",
+      "story_45373102",
       "front_page"
     ],
-    "author": "bertman",
-    "created_at": "2025-09-24T16:32:24Z",
-    "aiHeadline": "Terence Tao: 'Small Organizations? Oh, They're Basically Extinct Now. Society Has Moved On to More Important Things Like Algorithms and AI.'"
-  },
-  {
-    "title": "US airlines are pushing to remove protections for passengers and add more fees",
-    "url": "https://www.travelandtourworld.com/news/article/american-joins-delta-southwest-united-and-other-us-airlines-push-to-strip-away-travelers-rights-and-add-more-fees-by-rolling-back-key-protections-in-new-deregulation-move/",
-    "points": 610,
-    "num_comments": 577,
-    "tags": [
-      "story",
-      "author_duxup",
-      "story_45359378"
-    ],
-    "author": "duxup",
-    "created_at": "2025-09-24T12:30:59Z",
-    "aiHeadline": "US Airlines: 'We're Removing Passenger Protections and Adding More Fees Because Why Should We Care About Your Comfort or Rights?'"
+    "author": "rendx",
+    "created_at": "2025-09-25T14:36:12Z",
+    "aiHeadline": "Federal workers, the people who brought you the IRS and the DMV, now bring you the definitive history of Dogecoin. Because who better to explain a joke than people who don't get them?"
   }
 ]
