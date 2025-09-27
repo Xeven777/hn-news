@@ -1,75 +1,74 @@
 [
   {
-    "title": "ChatControl: EU wants to scan all private messages, even in encrypted apps",
-    "url": "https://metalhearf.fr/posts/chatcontrol-wants-your-private-messages/",
-    "points": 837,
-    "num_comments": 454,
+    "title": "Open Social",
+    "url": "https://overreacted.io/open-social/",
+    "points": 429,
+    "num_comments": 211,
     "tags": [
       "story",
-      "author_Metalhearf",
-      "story_45374500",
+      "author_knowtheory",
+      "story_45388021",
       "front_page"
     ],
-    "author": "Metalhearf",
-    "created_at": "2025-09-25T16:01:41Z",
-    "aiHeadline": "EU wants to peek into your private chats, because what's the point of end-to-end encryption if they can't read your 'I love you' messages?"
+    "author": "knowtheory",
+    "created_at": "2025-09-26T16:01:55Z",
+    "aiHeadline": "Open Social: Because regular social media just isn't awkward enough for you!"
   },
   {
-    "title": "Microsoft blocks Israel’s use of its tech in mass surveillance of Palestinians",
-    "url": "https://www.theguardian.com/world/2025/sep/25/microsoft-blocks-israels-use-of-its-technology-in-mass-surveillance-of-palestinians",
-    "points": 767,
-    "num_comments": 646,
+    "title": "Pop OS 24.04 LTS Beta",
+    "url": "https://system76.com/pop/pop-beta/",
+    "points": 381,
+    "num_comments": 201,
     "tags": [
       "story",
-      "author_helsinkiandrew",
-      "story_45373564"
+      "author_agluszak",
+      "story_45384481"
     ],
-    "author": "helsinkiandrew",
-    "created_at": "2025-09-25T15:06:47Z",
-    "aiHeadline": "Microsoft takes a stand against surveillance, because nothing says 'we care about privacy' like selling AI to the NSA."
+    "author": "agluszak",
+    "created_at": "2025-09-26T09:20:07Z",
+    "aiHeadline": "Pop OS 24.04 LTS Beta: Because who doesn't love a good crash on their brand new OS?"
   },
   {
-    "title": "Death rates rose in hospital ERs after private equity firms took over",
-    "url": "https://www.nbcnews.com/news/us-news/death-rates-rose-hospital-ers-private-equity-firms-took-study-finds-rcna233211",
-    "points": 717,
-    "num_comments": 448,
+    "title": "Evanston orders Flock to remove reinstalled cameras",
+    "url": "https://evanstonroundtable.com/2025/09/24/flock-safety-reinstalls-evanston-cameras/",
+    "points": 371,
+    "num_comments": 217,
     "tags": [
       "story",
-      "author_coloneltcb",
-      "story_45372442"
+      "author_ptk",
+      "story_45382434"
     ],
-    "author": "coloneltcb",
-    "created_at": "2025-09-25T13:32:50Z",
-    "aiHeadline": "Private equity proves once again that if you can't make money off death, you're not trying hard enough."
+    "author": "ptk",
+    "created_at": "2025-09-26T03:51:16Z",
+    "aiHeadline": "Evanston orders Flock to remove reinstalled cameras: Because nothing says 'security' like a never-ending game of technological whack-a-mole!"
   },
   {
-    "title": "Cloudflare Email Service: private beta",
-    "url": "https://blog.cloudflare.com/email-service/",
-    "points": 454,
-    "num_comments": 363,
+    "title": "Britain to introduce compulsory digital ID for workers",
+    "url": "https://www.reuters.com/world/uk/britain-introduce-mandatory-digital-id-cards-2025-09-26/",
+    "points": 350,
+    "num_comments": 631,
     "tags": [
       "story",
-      "author_tosh",
-      "story_45373081",
+      "author_alex77456",
+      "story_45381810",
       "front_page"
     ],
-    "author": "tosh",
-    "created_at": "2025-09-25T14:33:50Z",
-    "aiHeadline": "Because the world really needed another email service, Cloudflare is now your new email provider. Now you can have your emails and your DNS both fail at the same time!"
+    "author": "alex77456",
+    "created_at": "2025-09-26T02:09:47Z",
+    "aiHeadline": "Britain to introduce compulsory digital ID for workers: Because nothing says 'freedom' like being tracked 24/7 by the government!"
   },
   {
-    "title": "The story of DOGE, as told by federal workers",
-    "url": "https://www.wired.com/story/oral-history-doge-federal-workers/",
-    "points": 387,
-    "num_comments": 316,
+    "title": "No reachable chess position with more than 218 moves",
+    "url": "https://lichess.org/@/Tobs40/blog/there-is-no-reachable-chess-position-with-more-than-218-moves/a5xdxeqs",
+    "points": 343,
+    "num_comments": 173,
     "tags": [
       "story",
-      "author_rendx",
-      "story_45373102",
-      "front_page"
+      "author_emporas",
+      "story_45382755"
     ],
-    "author": "rendx",
-    "created_at": "2025-09-25T14:36:12Z",
-    "aiHeadline": "Federal workers, the people who brought you the IRS and the DMV, now bring you the definitive history of Dogecoin. Because who better to explain a joke than people who don't get them?"
+    "author": "emporas",
+    "created_at": "2025-09-26T04:47:40Z",
+    "aiHeadline": "No reachable chess position with more than 218 moves: Because clearly, we've all been playing chess wrong this whole time!"
   }
 ]
