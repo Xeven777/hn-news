@@ -1,74 +1,77 @@
 [
   {
-    "title": "Open Social",
-    "url": "https://overreacted.io/open-social/",
-    "points": 429,
-    "num_comments": 211,
+    "title": "A WebGL game where you deliver messages on a tiny planet",
+    "url": "https://messenger.abeto.co/",
+    "points": 885,
+    "num_comments": 165,
     "tags": [
       "story",
-      "author_knowtheory",
-      "story_45388021",
+      "author_thecupisblue",
+      "story_45396441",
       "front_page"
     ],
-    "author": "knowtheory",
-    "created_at": "2025-09-26T16:01:55Z",
-    "aiHeadline": "Open Social: Because regular social media just isn't awkward enough for you!"
+    "author": "thecupisblue",
+    "created_at": "2025-09-27T15:17:30Z",
+    "aiHeadline": "Deliver messages on a tiny planet and become the most important person in the universe, or something."
   },
   {
-    "title": "Pop OS 24.04 LTS Beta",
-    "url": "https://system76.com/pop/pop-beta/",
-    "points": 381,
-    "num_comments": 201,
+    "title": "Typst: A Possible LaTeX Replacement",
+    "url": "https://lwn.net/Articles/1037577/",
+    "points": 643,
+    "num_comments": 318,
     "tags": [
       "story",
-      "author_agluszak",
-      "story_45384481"
-    ],
-    "author": "agluszak",
-    "created_at": "2025-09-26T09:20:07Z",
-    "aiHeadline": "Pop OS 24.04 LTS Beta: Because who doesn't love a good crash on their brand new OS?"
-  },
-  {
-    "title": "Evanston orders Flock to remove reinstalled cameras",
-    "url": "https://evanstonroundtable.com/2025/09/24/flock-safety-reinstalls-evanston-cameras/",
-    "points": 371,
-    "num_comments": 217,
-    "tags": [
-      "story",
-      "author_ptk",
-      "story_45382434"
-    ],
-    "author": "ptk",
-    "created_at": "2025-09-26T03:51:16Z",
-    "aiHeadline": "Evanston orders Flock to remove reinstalled cameras: Because nothing says 'security' like a never-ending game of technological whack-a-mole!"
-  },
-  {
-    "title": "Britain to introduce compulsory digital ID for workers",
-    "url": "https://www.reuters.com/world/uk/britain-introduce-mandatory-digital-id-cards-2025-09-26/",
-    "points": 350,
-    "num_comments": 631,
-    "tags": [
-      "story",
-      "author_alex77456",
-      "story_45381810",
+      "author_pykello",
+      "story_45393842",
       "front_page"
     ],
-    "author": "alex77456",
-    "created_at": "2025-09-26T02:09:47Z",
-    "aiHeadline": "Britain to introduce compulsory digital ID for workers: Because nothing says 'freedom' like being tracked 24/7 by the government!"
+    "author": "pykello",
+    "created_at": "2025-09-27T07:31:39Z",
+    "aiHeadline": "Typst: The LaTeX replacement that will finally make writing documents as easy as... well, maybe not, but it's worth a shot."
   },
   {
-    "title": "No reachable chess position with more than 218 moves",
-    "url": "https://lichess.org/@/Tobs40/blog/there-is-no-reachable-chess-position-with-more-than-218-moves/a5xdxeqs",
-    "points": 343,
-    "num_comments": 173,
+    "title": "Greenland is a beautiful nightmare",
+    "url": "https://matduggan.com/greenland-is-a-beautiful-nightmare/",
+    "points": 430,
+    "num_comments": 247,
     "tags": [
       "story",
-      "author_emporas",
-      "story_45382755"
+      "author_zdw",
+      "story_45396754",
+      "front_page"
     ],
-    "author": "emporas",
-    "created_at": "2025-09-26T04:47:40Z",
-    "aiHeadline": "No reachable chess position with more than 218 moves: Because clearly, we've all been playing chess wrong this whole time!"
+    "author": "zdw",
+    "created_at": "2025-09-27T15:46:46Z",
+    "aiHeadline": "Greenland is a beautiful nightmare, where the icebergs are as majestic as they are terrifying, and the cold will make you question your life choices."
+  },
+  {
+    "title": "SSH3: Faster and rich secure shell using HTTP/3",
+    "url": "https://github.com/francoismichel/ssh3",
+    "points": 335,
+    "num_comments": 184,
+    "tags": [
+      "story",
+      "author_tempaccount420",
+      "story_45395991",
+      "front_page"
+    ],
+    "author": "tempaccount420",
+    "created_at": "2025-09-27T14:27:10Z",
+    "aiHeadline": "SSH3: Because regular SSH just wasn't fast enough for your super important, top-secret, world-changing work."
+  },
+  {
+    "title": "Ishkur's Guide to Electronic Music",
+    "url": "http://music.ishkur.com/",
+    "points": 244,
+    "num_comments": 64,
+    "tags": [
+      "story",
+      "author_sajberpank",
+      "story_45394642",
+      "front_page"
+    ],
+    "author": "sajberpank",
+    "created_at": "2025-09-27T10:38:42Z",
+    "aiHeadline": "Ishkur's Guide to Electronic Music: Because you can't just listen to it; you need to know everything about it, right?"
   }
 ]
