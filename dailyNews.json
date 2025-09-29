@@ -1,77 +1,76 @@
 [
   {
-    "title": "A WebGL game where you deliver messages on a tiny planet",
-    "url": "https://messenger.abeto.co/",
-    "points": 885,
-    "num_comments": 165,
+    "title": "Privacy Badger is a free browser extension made by EFF to stop spying",
+    "url": "https://privacybadger.org/",
+    "points": 564,
+    "num_comments": 231,
     "tags": [
       "story",
-      "author_thecupisblue",
-      "story_45396441",
+      "author_doener",
+      "story_45404021",
       "front_page"
     ],
-    "author": "thecupisblue",
-    "created_at": "2025-09-27T15:17:30Z",
-    "aiHeadline": "Deliver messages on a tiny planet and become the most important person in the universe, or something."
+    "author": "doener",
+    "created_at": "2025-09-28T12:59:54Z",
+    "aiHeadline": "EFF releases Privacy Badger, because apparently, not being watched 24/7 wasn't an option anymore."
   },
   {
-    "title": "Typst: A Possible LaTeX Replacement",
-    "url": "https://lwn.net/Articles/1037577/",
-    "points": 643,
-    "num_comments": 318,
+    "title": "The AI coding trap",
+    "url": "https://chrisloy.dev/post/2025/09/28/the-ai-coding-trap",
+    "points": 455,
+    "num_comments": 291,
     "tags": [
       "story",
-      "author_pykello",
-      "story_45393842",
+      "author_chrisloy",
+      "story_45405177",
       "front_page"
     ],
-    "author": "pykello",
-    "created_at": "2025-09-27T07:31:39Z",
-    "aiHeadline": "Typst: The LaTeX replacement that will finally make writing documents as easy as... well, maybe not, but it's worth a shot."
+    "author": "chrisloy",
+    "created_at": "2025-09-28T15:43:33Z",
+    "aiHeadline": "AI is now coding for us, which is great—except when it writes code that makes us question our life choices."
   },
   {
-    "title": "Greenland is a beautiful nightmare",
-    "url": "https://matduggan.com/greenland-is-a-beautiful-nightmare/",
-    "points": 430,
-    "num_comments": 247,
+    "title": "When I say “alphabetical order”, I mean “alphabetical order”",
+    "url": "https://sebastiano.tronto.net/blog/2025-09-28-alphabetic-order/",
+    "points": 352,
+    "num_comments": 232,
     "tags": [
       "story",
-      "author_zdw",
-      "story_45396754",
+      "author_sebtron",
+      "story_45404022",
       "front_page"
     ],
-    "author": "zdw",
-    "created_at": "2025-09-27T15:46:46Z",
-    "aiHeadline": "Greenland is a beautiful nightmare, where the icebergs are as majestic as they are terrifying, and the cold will make you question your life choices."
+    "author": "sebtron",
+    "created_at": "2025-09-28T13:00:16Z",
+    "aiHeadline": "One developer's quest to enforce perfect alphabetical order, because clearly, the universe wasn't orderly enough on its own."
   },
   {
-    "title": "SSH3: Faster and rich secure shell using HTTP/3",
-    "url": "https://github.com/francoismichel/ssh3",
-    "points": 335,
-    "num_comments": 184,
+    "title": "Play snake in the URL address bar",
+    "url": "https://demian.ferrei.ro/snake/",
+    "points": 314,
+    "num_comments": 40,
     "tags": [
       "story",
-      "author_tempaccount420",
-      "story_45395991",
+      "author_macote",
+      "story_45408021",
       "front_page"
     ],
-    "author": "tempaccount420",
-    "created_at": "2025-09-27T14:27:10Z",
-    "aiHeadline": "SSH3: Because regular SSH just wasn't fast enough for your super important, top-secret, world-changing work."
+    "author": "macote",
+    "created_at": "2025-09-28T21:08:15Z",
+    "aiHeadline": "Finally, a way to waste even more time online—play Snake directly in your URL bar, because who needs productivity anyway?"
   },
   {
-    "title": "Ishkur's Guide to Electronic Music",
-    "url": "http://music.ishkur.com/",
-    "points": 244,
-    "num_comments": 64,
+    "title": "Why I gave the world wide web away for free",
+    "url": "https://www.theguardian.com/technology/2025/sep/28/why-i-gave-the-world-wide-web-away-for-free",
+    "points": 231,
+    "num_comments": 123,
     "tags": [
       "story",
-      "author_sajberpank",
-      "story_45394642",
-      "front_page"
+      "author_n1b0m",
+      "story_45403501"
     ],
-    "author": "sajberpank",
-    "created_at": "2025-09-27T10:38:42Z",
-    "aiHeadline": "Ishkur's Guide to Electronic Music: Because you can't just listen to it; you need to know everything about it, right?"
+    "author": "n1b0m",
+    "created_at": "2025-09-28T11:17:55Z",
+    "aiHeadline": "The inventor of the World Wide Web reveals why they gave it away for free, because apparently, selling it for a billion dollars wasn't on their list of life goals."
   }
 ]
