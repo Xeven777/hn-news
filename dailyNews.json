@@ -1,76 +1,74 @@
 [
   {
-    "title": "Privacy Badger is a free browser extension made by EFF to stop spying",
-    "url": "https://privacybadger.org/",
-    "points": 564,
-    "num_comments": 231,
+    "title": "F-Droid and Google’s developer registration decree",
+    "url": "https://f-droid.org/2025/09/29/google-developer-registration-decree.html",
+    "points": 1355,
+    "num_comments": 497,
     "tags": [
       "story",
-      "author_doener",
-      "story_45404021",
-      "front_page"
+      "author_gumby271",
+      "story_45409794"
     ],
-    "author": "doener",
-    "created_at": "2025-09-28T12:59:54Z",
-    "aiHeadline": "EFF releases Privacy Badger, because apparently, not being watched 24/7 wasn't an option anymore."
+    "author": "gumby271",
+    "created_at": "2025-09-29T02:10:20Z",
+    "aiHeadline": "F-Droid rebels against Google's latest decree, proving that even apps can be stubborn."
   },
   {
-    "title": "The AI coding trap",
-    "url": "https://chrisloy.dev/post/2025/09/28/the-ai-coding-trap",
-    "points": 455,
-    "num_comments": 291,
+    "title": "Claude Sonnet 4.5",
+    "url": "https://www.anthropic.com/news/claude-sonnet-4-5",
+    "points": 1047,
+    "num_comments": 560,
     "tags": [
       "story",
-      "author_chrisloy",
-      "story_45405177",
+      "author_adocomplete",
+      "story_45415962",
       "front_page"
     ],
-    "author": "chrisloy",
-    "created_at": "2025-09-28T15:43:33Z",
-    "aiHeadline": "AI is now coding for us, which is great—except when it writes code that makes us question our life choices."
+    "author": "adocomplete",
+    "created_at": "2025-09-29T16:52:59Z",
+    "aiHeadline": "Claude Sonnet 4.5: Because 4.0 wasn't enough, now it's 4.5—because half versions are the new full versions!"
   },
   {
-    "title": "When I say “alphabetical order”, I mean “alphabetical order”",
-    "url": "https://sebastiano.tronto.net/blog/2025-09-28-alphabetic-order/",
-    "points": 352,
-    "num_comments": 232,
+    "title": "What if I don't want videos of my hobby time available to the world?",
+    "url": "https://neilzone.co.uk/2025/09/what-if-i-dont-want-videos-of-my-hobby-time-available-to-the-entire-world/",
+    "points": 616,
+    "num_comments": 668,
     "tags": [
       "story",
-      "author_sebtron",
-      "story_45404022",
+      "author_speckx",
+      "story_45412419"
+    ],
+    "author": "speckx",
+    "created_at": "2025-09-29T11:28:06Z",
+    "aiHeadline": "Why share your hobbies with the world when you can keep them to yourself? Spoiler: Privacy is a thing!"
+  },
+  {
+    "title": "Claude Code 2.0",
+    "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code",
+    "points": 514,
+    "num_comments": 188,
+    "tags": [
+      "story",
+      "author_polyrand",
+      "story_45416228",
       "front_page"
     ],
-    "author": "sebtron",
-    "created_at": "2025-09-28T13:00:16Z",
-    "aiHeadline": "One developer's quest to enforce perfect alphabetical order, because clearly, the universe wasn't orderly enough on its own."
+    "author": "polyrand",
+    "created_at": "2025-09-29T17:12:13Z",
+    "aiHeadline": "Claude Code 2.0: Now with 100% more numbers and 0% more excitement!"
   },
   {
-    "title": "Play snake in the URL address bar",
-    "url": "https://demian.ferrei.ro/snake/",
-    "points": 314,
-    "num_comments": 40,
+    "title": "Meta-analysis of 2.2M people: Loneliness increases mortality risk by 32%",
+    "url": "https://lightcapai.medium.com/the-loneliness-epidemic-threatens-physical-health-like-smoking-e063220dde8b",
+    "points": 332,
+    "num_comments": 155,
     "tags": [
       "story",
-      "author_macote",
-      "story_45408021",
-      "front_page"
+      "author_WASDAai",
+      "story_45413481"
     ],
-    "author": "macote",
-    "created_at": "2025-09-28T21:08:15Z",
-    "aiHeadline": "Finally, a way to waste even more time online—play Snake directly in your URL bar, because who needs productivity anyway?"
-  },
-  {
-    "title": "Why I gave the world wide web away for free",
-    "url": "https://www.theguardian.com/technology/2025/sep/28/why-i-gave-the-world-wide-web-away-for-free",
-    "points": 231,
-    "num_comments": 123,
-    "tags": [
-      "story",
-      "author_n1b0m",
-      "story_45403501"
-    ],
-    "author": "n1b0m",
-    "created_at": "2025-09-28T11:17:55Z",
-    "aiHeadline": "The inventor of the World Wide Web reveals why they gave it away for free, because apparently, selling it for a billion dollars wasn't on their list of life goals."
+    "author": "WASDAai",
+    "created_at": "2025-09-29T13:25:40Z",
+    "aiHeadline": "Loneliness is the new smoking—kill yourself with solitude, one social media scroll at a time."
   }
 ]
