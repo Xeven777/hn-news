@@ -1,74 +1,75 @@
 [
   {
-    "title": "F-Droid and Google’s developer registration decree",
-    "url": "https://f-droid.org/2025/09/29/google-developer-registration-decree.html",
-    "points": 1355,
-    "num_comments": 497,
+    "title": "Kagi News",
+    "url": "https://blog.kagi.com/kagi-news",
+    "points": 748,
+    "num_comments": 352,
     "tags": [
       "story",
-      "author_gumby271",
-      "story_45409794"
-    ],
-    "author": "gumby271",
-    "created_at": "2025-09-29T02:10:20Z",
-    "aiHeadline": "F-Droid rebels against Google's latest decree, proving that even apps can be stubborn."
-  },
-  {
-    "title": "Claude Sonnet 4.5",
-    "url": "https://www.anthropic.com/news/claude-sonnet-4-5",
-    "points": 1047,
-    "num_comments": 560,
-    "tags": [
-      "story",
-      "author_adocomplete",
-      "story_45415962",
+      "author_grappler",
+      "story_45426490",
       "front_page"
     ],
-    "author": "adocomplete",
-    "created_at": "2025-09-29T16:52:59Z",
-    "aiHeadline": "Claude Sonnet 4.5: Because 4.0 wasn't enough, now it's 4.5—because half versions are the new full versions!"
+    "author": "grappler",
+    "created_at": "2025-09-30T15:09:00Z",
+    "aiHeadline": "Kagi Drops Another Bomb, Because Who Doesn’t Love More Tech News?"
   },
   {
-    "title": "What if I don't want videos of my hobby time available to the world?",
-    "url": "https://neilzone.co.uk/2025/09/what-if-i-dont-want-videos-of-my-hobby-time-available-to-the-entire-world/",
-    "points": 616,
-    "num_comments": 668,
+    "title": "Sora 2",
+    "url": "https://openai.com/index/sora-2/",
+    "points": 545,
+    "num_comments": 585,
     "tags": [
       "story",
-      "author_speckx",
-      "story_45412419"
-    ],
-    "author": "speckx",
-    "created_at": "2025-09-29T11:28:06Z",
-    "aiHeadline": "Why share your hobbies with the world when you can keep them to yourself? Spoiler: Privacy is a thing!"
-  },
-  {
-    "title": "Claude Code 2.0",
-    "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code",
-    "points": 514,
-    "num_comments": 188,
-    "tags": [
-      "story",
-      "author_polyrand",
-      "story_45416228",
+      "author_skilled",
+      "story_45427982",
       "front_page"
     ],
-    "author": "polyrand",
-    "created_at": "2025-09-29T17:12:13Z",
-    "aiHeadline": "Claude Code 2.0: Now with 100% more numbers and 0% more excitement!"
+    "author": "skilled",
+    "created_at": "2025-09-30T16:55:01Z",
+    "aiHeadline": "Sora 2: Because One AI Wasn’t Enough to Ruin Your Day"
   },
   {
-    "title": "Meta-analysis of 2.2M people: Loneliness increases mortality risk by 32%",
-    "url": "https://lightcapai.medium.com/the-loneliness-epidemic-threatens-physical-health-like-smoking-e063220dde8b",
-    "points": 332,
-    "num_comments": 155,
+    "title": "I’ve removed Disqus. It was making my blog worse",
+    "url": "https://ryansouthgate.com/goodbye-disqus/",
+    "points": 538,
+    "num_comments": 344,
     "tags": [
       "story",
-      "author_WASDAai",
-      "story_45413481"
+      "author_ry8806",
+      "story_45423268"
     ],
-    "author": "WASDAai",
-    "created_at": "2025-09-29T13:25:40Z",
-    "aiHeadline": "Loneliness is the new smoking—kill yourself with solitude, one social media scroll at a time."
+    "author": "ry8806",
+    "created_at": "2025-09-30T08:36:06Z",
+    "aiHeadline": "Goodbye Disqus, Hello Actual Productivity: A Blog’swildest Dream"
+  },
+  {
+    "title": "Comprehension debt: A ticking time bomb of LLM-generated code",
+    "url": "https://codemanship.wordpress.com/2025/09/30/comprehension-debt-the-ticking-time-bomb-of-llm-generated-code/",
+    "points": 479,
+    "num_comments": 311,
+    "tags": [
+      "story",
+      "author_todsacerdoti",
+      "story_45423917"
+    ],
+    "author": "todsacerdoti",
+    "created_at": "2025-09-30T10:37:39Z",
+    "aiHeadline": "LLM-Generated Code: The Gift That Keeps on Giving (Headaches)"
+  },
+  {
+    "title": "Inflammation now predicts heart disease more strongly than cholesterol",
+    "url": "https://www.empirical.health/blog/inflammation-and-heart-health/",
+    "points": 368,
+    "num_comments": 214,
+    "tags": [
+      "story",
+      "author_brandonb",
+      "story_45430498",
+      "front_page"
+    ],
+    "author": "brandonb",
+    "created_at": "2025-09-30T20:00:21Z",
+    "aiHeadline": "Inflammation Now the New Cholesterol: Because Everything Causes Heart Disease Anyway"
   }
 ]
