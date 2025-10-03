@@ -1,76 +1,74 @@
 [
   {
-    "title": "Jane Goodall has died",
-    "url": "https://www.latimes.com/obituaries/story/2025-10-01/jane-goodall-chimpanzees-dead",
-    "points": 946,
-    "num_comments": 129,
+    "title": "How Israeli actions caused famine in Gaza, visualized",
+    "url": "https://www.cnn.com/2025/10/02/middleeast/gaza-famine-causes-vis-intl",
+    "points": 800,
+    "num_comments": 719,
     "tags": [
       "story",
-      "author_jaredwiener",
-      "story_45441069",
+      "author_nashashmi",
+      "story_45447699",
       "front_page"
     ],
-    "author": "jaredwiener",
-    "created_at": "2025-10-01T18:10:39Z",
-    "aiHeadline": "Jane Goodall, the legendary chimp whisperer, has passed away, leaving the world to ponder how we'll ever top her groundbreaking discoveries about primate behavior and our own human foibles."
+    "author": "nashashmi",
+    "created_at": "2025-10-02T09:23:50Z",
+    "aiHeadline": "How Israeli actions caused famine in Gaza, visualized: Because nothing says 'we care' like a handy infographic of your blockade-induced starvation."
   },
   {
-    "title": "Show HN: Autism Simulator",
-    "url": "https://autism-simulator.vercel.app/",
-    "points": 487,
-    "num_comments": 562,
+    "title": "Immich v2.0.0 – First stable release",
+    "url": "https://github.com/immich-app/immich/discussions/22546",
+    "points": 483,
+    "num_comments": 137,
     "tags": [
       "story",
-      "author_joshcsimmons",
-      "story_45438346",
-      "show_hn",
+      "author_Alexvb",
+      "story_45446834"
+    ],
+    "author": "Alexvb",
+    "created_at": "2025-10-02T06:25:43Z",
+    "aiHeadline": "Immich v2.0.0 – First stable release: Finally, after years of beta testing and existential crises, Immich has achieved the pinnacle of software development: stability. Or maybe just less crashing."
+  },
+  {
+    "title": "Signal Protocol and Post-Quantum Ratchets",
+    "url": "https://signal.org/blog/spqr/",
+    "points": 440,
+    "num_comments": 195,
+    "tags": [
+      "story",
+      "author_pluto_modadic",
+      "story_45451527",
       "front_page"
     ],
-    "author": "joshcsimmons",
-    "created_at": "2025-10-01T14:48:31Z",
-    "aiHeadline": "A new Autism Simulator is here to 'help,' but let's be real, can a digital experience truly capture the complexity of neurodiversity, or is this just another tech trend that'll be forgotten by next week?"
+    "author": "pluto_modadic",
+    "created_at": "2025-10-02T16:06:10Z",
+    "aiHeadline": "Signal Protocol and Post-Quantum Ratchets: Because nothing says 'secure' like adding quantum mechanics to your messaging app. Now your messages are safe from both hackers and the heat death of the universe."
   },
   {
-    "title": "CDC File Transfer",
-    "url": "https://github.com/google/cdc-file-transfer",
-    "points": 364,
-    "num_comments": 96,
+    "title": "Potential issues in curl found using AI assisted tools",
+    "url": "https://mastodon.social/@bagder/115241241075258997",
+    "points": 360,
+    "num_comments": 106,
     "tags": [
       "story",
-      "author_GalaxySnail",
-      "story_45433768"
+      "author_robhlam",
+      "story_45449348"
     ],
-    "author": "GalaxySnail",
-    "created_at": "2025-10-01T02:38:18Z",
-    "aiHeadline": "The CDC has released a file transfer tool, proving once again that even health organizations can't resist the allure of creating yet another app, probably because they ran out of important public health crises to address."
+    "author": "robhlam",
+    "created_at": "2025-10-02T13:29:55Z",
+    "aiHeadline": "Potential issues in curl found using AI assisted tools: Because what did we do before AI? Oh right, we manually found issues in curl by staring at code until our eyes bled. Good times."
   },
   {
-    "title": "I only use Google Sheets",
-    "url": "https://mayberay.bearblog.dev/why-i-only-use-google-sheets/",
-    "points": 313,
-    "num_comments": 313,
+    "title": "NL Judge: Meta must respect user's choice of recommendation system",
+    "url": "https://www.bitsoffreedom.nl/2025/10/02/judge-in-the-bits-of-freedom-vs-meta-lawsuit-meta-must-respect-users-choice/",
+    "points": 303,
+    "num_comments": 218,
     "tags": [
       "story",
-      "author_mugamuga",
-      "story_45435463"
+      "author_mattashii",
+      "story_45448326"
     ],
-    "author": "mugamuga",
-    "created_at": "2025-10-01T08:06:50Z",
-    "aiHeadline": "In a world full of spreadsheet options, one person has decided that Google Sheets is the only way to go, and honestly, who can blame them? It's like the ultimate minimalist's tool—simple, functional, and about as exciting as a Monday morning."
-  },
-  {
-    "title": "Don't avoid workplace politics",
-    "url": "https://terriblesoftware.org/2025/10/01/stop-avoiding-politics/",
-    "points": 304,
-    "num_comments": 170,
-    "tags": [
-      "story",
-      "author_matheusml",
-      "story_45440571",
-      "front_page"
-    ],
-    "author": "matheusml",
-    "created_at": "2025-10-01T17:36:43Z",
-    "aiHeadline": "Workplace politics are unavoidable, so instead of trying to dodge them like a boss, the author suggests embracing the chaos, because let's face it, office drama is the real reason we all show up to work every day."
+    "author": "mattashii",
+    "created_at": "2025-10-02T11:32:19Z",
+    "aiHeadline": "NL Judge: Meta must respect user's choice of recommendation system: Because apparently, even Meta can't ignore the fact that users might actually want control over their own feeds. Shocking."
   }
 ]
