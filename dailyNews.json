@@ -1,73 +1,75 @@
 [
   {
-    "title": "Germany must stand firmly against client-side scanning in Chat Control [pdf]",
-    "url": "https://signal.org/blog/pdfs/germany-chat-control.pdf",
-    "points": 507,
-    "num_comments": 118,
+    "title": "Flock's gunshot detection microphones will start listening for human voices",
+    "url": "https://www.eff.org/deeplinks/2025/10/flocks-gunshot-detection-microphones-will-start-listening-human-voices",
+    "points": 288,
+    "num_comments": 223,
     "tags": [
       "story",
-      "author_greyface-",
-      "story_45464921"
+      "author_hhs",
+      "story_45473698"
     ],
-    "author": "greyface-",
-    "created_at": "2025-10-03T16:44:02Z",
-    "aiHeadline": "Germany Says 'Nein' to Snooping: Why You Should Care (Or Not, Because Who Reads Chat Controls Anyway?)"
+    "author": "hhs",
+    "created_at": "2025-10-04T14:49:30Z",
+    "aiHeadline": "Flock's gunshot detection microphones, which were already creepy enough, are now doubling down on their surveillance by listening in on human voices—because nothing says 'public safety' like turning everyone into a potential suspect."
   },
   {
-    "title": "Niri – A scrollable-tiling Wayland compositor",
-    "url": "https://github.com/YaLTeR/niri",
-    "points": 423,
-    "num_comments": 208,
+    "title": "How I influence tech company politics as a staff software engineer",
+    "url": "https://www.seangoedecke.com/how-to-influence-politics/",
+    "points": 269,
+    "num_comments": 155,
     "tags": [
       "story",
-      "author_atlintots",
-      "story_45461500",
+      "author_facundo_olano",
+      "story_45473852",
       "front_page"
     ],
-    "author": "atlintots",
-    "created_at": "2025-10-03T11:08:42Z",
-    "aiHeadline": "Niri: The Compositor That Even Your Geekiest Friends Haven't Heard Of (But They Should, Because It's Basically Magic for Linux Nerds)"
+    "author": "facundo_olano",
+    "created_at": "2025-10-04T15:09:41Z",
+    "aiHeadline": "How I influence tech company politics as a staff software engineer: by carefully navigating the minefield of office drama, corporate jargon, and the occasional existential crisis that comes with trying to make sense of the madness."
   },
   {
-    "title": "I spent the day teaching seniors how to use an iPhone",
-    "url": "https://forums.macrumors.com/threads/i-spent-the-day-trying-to-teach-seniors-how-to-use-an-iphone-and-it-was-a-nightmare.2468117/",
-    "points": 343,
-    "num_comments": 494,
+    "title": "The UK is still trying to backdoor encryption for Apple users",
+    "url": "https://www.eff.org/deeplinks/2025/10/uk-still-trying-backdoor-encryption-apple-users",
+    "points": 256,
+    "num_comments": 91,
     "tags": [
       "story",
-      "author_dabinat",
-      "story_45457670"
+      "author_CharlesW",
+      "story_45476273",
+      "front_page"
     ],
-    "author": "dabinat",
-    "created_at": "2025-10-03T01:20:32Z",
-    "aiHeadline": "Teaching Grandma How to Swipe: A Day in Tech Support Hell (And Why You Should Feel Bad for the Poor Instructor)"
+    "author": "CharlesW",
+    "created_at": "2025-10-04T20:07:11Z",
+    "aiHeadline": "The UK is still trying to backdoor encryption for Apple users, proving once again that when it comes to privacy, the government's idea of 'security' is basically 'we want to snoop on your messages, but we'll do it politely.'"
   },
   {
-    "title": "In Praise of RSS and Controlled Feeds of Information",
-    "url": "https://blog.burkert.me/posts/in_praise_of_syndication/",
-    "points": 332,
-    "num_comments": 134,
+    "title": "Alibaba cloud FPGA: the $200 Kintex UltraScale+",
+    "url": "https://essenceia.github.io/projects/alibaba_cloud_fpga/",
+    "points": 242,
+    "num_comments": 81,
     "tags": [
       "story",
-      "author_curioussquirrel",
-      "story_45459233"
+      "author_signa11",
+      "story_45471136"
     ],
-    "author": "curioussquirrel",
-    "created_at": "2025-10-03T05:13:47Z",
-    "aiHeadline": "RSS: The Internet's Version of a Healthy Relationship (No Algorithms, Just You and Your Feeds)"
+    "author": "signa11",
+    "created_at": "2025-10-04T06:49:58Z",
+    "aiHeadline": "Alibaba cloud FPGA: the $200 Kintex UltraScale+—because who needs a fancy, expensive FPGA when you can just rent one from the cloud? Oh, right, that's the point."
   },
   {
-    "title": "Fp8 runs ~100 tflops faster when the kernel name has \"cutlass\" in it",
-    "url": "https://github.com/triton-lang/triton/pull/7298",
-    "points": 328,
-    "num_comments": 147,
+    "title": "Paged Out Issue #7 [pdf]",
+    "url": "https://pagedout.institute/download/PagedOut_007.pdf",
+    "points": 227,
+    "num_comments": 19,
     "tags": [
       "story",
-      "author_mmastrac",
-      "story_45458948"
+      "author_todsacerdoti",
+      "story_45472319",
+      "front_page"
     ],
-    "author": "mmastrac",
-    "created_at": "2025-10-03T04:21:23Z",
-    "aiHeadline": "Cutlass: The Secret Sauce That Makes Fp8 Run Like a Racecar (Or Maybe It's Just a Fancy Name, Who Knows?)"
+    "author": "todsacerdoti",
+    "created_at": "2025-10-04T10:38:06Z",
+    "aiHeadline": "Paged Out Issue #7 [pdf]: because sometimes, the only way to truly understand the past is to read it on paper, away from the distractions of the digital world—unless, of course, you're too lazy to actually print it out."
   }
 ]
