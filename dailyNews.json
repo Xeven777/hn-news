@@ -1,75 +1,74 @@
 [
   {
-    "title": "Flock's gunshot detection microphones will start listening for human voices",
-    "url": "https://www.eff.org/deeplinks/2025/10/flocks-gunshot-detection-microphones-will-start-listening-human-voices",
-    "points": 288,
-    "num_comments": 223,
+    "title": "Fire destroys S. Korean government's cloud storage system, no backups available",
+    "url": "https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936",
+    "points": 948,
+    "num_comments": 440,
     "tags": [
       "story",
-      "author_hhs",
-      "story_45473698"
-    ],
-    "author": "hhs",
-    "created_at": "2025-10-04T14:49:30Z",
-    "aiHeadline": "Flock's gunshot detection microphones, which were already creepy enough, are now doubling down on their surveillance by listening in on human voices—because nothing says 'public safety' like turning everyone into a potential suspect."
-  },
-  {
-    "title": "How I influence tech company politics as a staff software engineer",
-    "url": "https://www.seangoedecke.com/how-to-influence-politics/",
-    "points": 269,
-    "num_comments": 155,
-    "tags": [
-      "story",
-      "author_facundo_olano",
-      "story_45473852",
+      "author_ksec",
+      "story_45483386",
       "front_page"
     ],
-    "author": "facundo_olano",
-    "created_at": "2025-10-04T15:09:41Z",
-    "aiHeadline": "How I influence tech company politics as a staff software engineer: by carefully navigating the minefield of office drama, corporate jargon, and the occasional existential crisis that comes with trying to make sense of the madness."
+    "author": "ksec",
+    "created_at": "2025-10-05T17:20:39Z",
+    "aiHeadline": "South Korea's government cloud storage goes up in flames, proving that even in the digital age, fire is still a thing."
   },
   {
-    "title": "The UK is still trying to backdoor encryption for Apple users",
-    "url": "https://www.eff.org/deeplinks/2025/10/uk-still-trying-backdoor-encryption-apple-users",
-    "points": 256,
-    "num_comments": 91,
+    "title": "Americans increasingly see legal sports betting as a bad thing for society",
+    "url": "https://www.pewresearch.org/short-reads/2025/10/02/americans-increasingly-see-legal-sports-betting-as-a-bad-thing-for-society-and-sports/",
+    "points": 430,
+    "num_comments": 403,
     "tags": [
       "story",
-      "author_CharlesW",
-      "story_45476273",
+      "author_aloukissas",
+      "story_45478749"
+    ],
+    "author": "aloukissas",
+    "created_at": "2025-10-05T04:01:57Z",
+    "aiHeadline": "Americans realize legal sports betting is a losing proposition for society, just like their favorite team's season."
+  },
+  {
+    "title": "Social Cooling (2017)",
+    "url": "https://www.socialcooling.com/",
+    "points": 375,
+    "num_comments": 197,
+    "tags": [
+      "story",
+      "author_laurex",
+      "story_45479165",
       "front_page"
     ],
-    "author": "CharlesW",
-    "created_at": "2025-10-04T20:07:11Z",
-    "aiHeadline": "The UK is still trying to backdoor encryption for Apple users, proving once again that when it comes to privacy, the government's idea of 'security' is basically 'we want to snoop on your messages, but we'll do it politely.'"
+    "author": "laurex",
+    "created_at": "2025-10-05T06:01:24Z",
+    "aiHeadline": "Social Cooling (2017) still relevant today, proving that the internet's cold shoulder never goes out of style."
   },
   {
-    "title": "Alibaba cloud FPGA: the $200 Kintex UltraScale+",
-    "url": "https://essenceia.github.io/projects/alibaba_cloud_fpga/",
-    "points": 242,
-    "num_comments": 81,
+    "title": "Personal data storage is an idea whose time has come",
+    "url": "https://blog.muni.town/personal-data-storage-idea/",
+    "points": 353,
+    "num_comments": 242,
     "tags": [
       "story",
-      "author_signa11",
-      "story_45471136"
+      "author_erlend_sh",
+      "story_45480106"
     ],
-    "author": "signa11",
-    "created_at": "2025-10-04T06:49:58Z",
-    "aiHeadline": "Alibaba cloud FPGA: the $200 Kintex UltraScale+—because who needs a fancy, expensive FPGA when you can just rent one from the cloud? Oh, right, that's the point."
+    "author": "erlend_sh",
+    "created_at": "2025-10-05T09:07:38Z",
+    "aiHeadline": "Personal data storage: because why let corporations have all the fun with your information?"
   },
   {
-    "title": "Paged Out Issue #7 [pdf]",
-    "url": "https://pagedout.institute/download/PagedOut_007.pdf",
-    "points": 227,
-    "num_comments": 19,
+    "title": "The deadline isn't when AI outsmarts us – it's when we stop using our own minds",
+    "url": "https://www.theargumentmag.com/p/you-have-18-months",
+    "points": 312,
+    "num_comments": 270,
     "tags": [
       "story",
-      "author_todsacerdoti",
-      "story_45472319",
-      "front_page"
+      "author_NotInOurNames",
+      "story_45480622"
     ],
-    "author": "todsacerdoti",
-    "created_at": "2025-10-04T10:38:06Z",
-    "aiHeadline": "Paged Out Issue #7 [pdf]: because sometimes, the only way to truly understand the past is to read it on paper, away from the distractions of the digital world—unless, of course, you're too lazy to actually print it out."
+    "author": "NotInOurNames",
+    "created_at": "2025-10-05T11:08:25Z",
+    "aiHeadline": "AI might not be the real threat—maybe it's us stopping using our brains that's the bigger issue."
   }
 ]
