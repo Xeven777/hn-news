@@ -1,74 +1,76 @@
 [
   {
-    "title": "Ladybird passes the Apple 90% threshold on web-platform-tests",
-    "url": "https://twitter.com/awesomekling/status/1974781722953953601",
-    "points": 678,
-    "num_comments": 191,
+    "title": "Qualcomm to acquire Arduino",
+    "url": "https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i",
+    "points": 987,
+    "num_comments": 417,
     "tags": [
       "story",
-      "author_sergiotapia",
-      "story_45493358",
+      "author_janjongboom",
+      "story_45502541",
       "front_page"
     ],
-    "author": "sergiotapia",
-    "created_at": "2025-10-06T16:52:58Z",
-    "aiHeadline": "Ladybird finally climbs the ladder of web-platform-tests and now boasts a 90% approval rating, just like Apple's latest iPhone features."
+    "author": "janjongboom",
+    "created_at": "2025-10-07T13:00:08Z",
+    "aiHeadline": "Qualcomm's latest move: buying Arduino to finally get into the hardware game, probably not adding any new features we actually want."
   },
   {
-    "title": "Why do LLMs freak out over the seahorse emoji?",
-    "url": "https://vgel.me/posts/seahorse/",
-    "points": 674,
-    "num_comments": 382,
+    "title": "German government comes out against Chat Control",
+    "url": "https://xcancel.com/paddi_hansen/status/1975595307800142205",
+    "points": 686,
+    "num_comments": 195,
     "tags": [
       "story",
-      "author_nyxt",
-      "story_45487044"
-    ],
-    "author": "nyxt",
-    "created_at": "2025-10-06T02:20:05Z",
-    "aiHeadline": "LLMs are throwing a tantrum over the seahorse emoji, proving once again that even the smartest machines can't handle the ocean's mysteries."
-  },
-  {
-    "title": "1 Trillion Web Pages Archived",
-    "url": "https://blog.archive.org/trillion/",
-    "points": 624,
-    "num_comments": 84,
-    "tags": [
-      "story",
-      "author_pabs3",
-      "story_45487476"
-    ],
-    "author": "pabs3",
-    "created_at": "2025-10-06T03:48:34Z",
-    "aiHeadline": "The internetarchive just hit a trillion archived web pages, which is impressive unless you're the guy who runs out of storage on their phone."
-  },
-  {
-    "title": "Gem.coop",
-    "url": "https://gem.coop/",
-    "points": 443,
-    "num_comments": 226,
-    "tags": [
-      "story",
-      "author_mbStavola",
-      "story_45487771",
+      "author_SolonIslandus",
+      "story_45506143",
       "front_page"
     ],
-    "author": "mbStavola",
-    "created_at": "2025-10-06T04:59:39Z",
-    "aiHeadline": "Gem.coop is the latest attempt to create a utopian online community, and by 'utopian,' we mean 'probably going to fail spectacularly.'"
+    "author": "SolonIslandus",
+    "created_at": "2025-10-07T17:31:49Z",
+    "aiHeadline": "German government says 'no' to Chat Control, proving once again that they're all about privacy—except when they're the ones watching."
   },
   {
-    "title": "Structured Procrastination (1995)",
-    "url": "https://structuredprocrastination.com",
-    "points": 433,
-    "num_comments": 152,
+    "title": "Deloitte to refund the Australian government after using AI in $440k report",
+    "url": "https://www.theguardian.com/australia-news/2025/oct/06/deloitte-to-pay-money-back-to-albanese-government-after-using-ai-in-440000-report",
+    "points": 420,
+    "num_comments": 214,
     "tags": [
       "story",
-      "author_ipnon",
-      "story_45488261"
+      "author_fforflo",
+      "story_45500485"
     ],
-    "author": "ipnon",
-    "created_at": "2025-10-06T06:35:36Z",
-    "aiHeadline": "Structured Procrastination turns 28, proving that some habits are timeless, and by 'habits,' we mean 'avoiding work at all costs.'"
+    "author": "fforflo",
+    "created_at": "2025-10-07T07:51:57Z",
+    "aiHeadline": "Deloitte to refund Australian government after AI messes up a $440k report, because apparently even AI can't get basic tasks right."
+  },
+  {
+    "title": "Nobel Prize in Physics 2025",
+    "url": "https://www.nobelprize.org/prizes/physics/2025/popular-information/",
+    "points": 342,
+    "num_comments": 80,
+    "tags": [
+      "story",
+      "author_luisb",
+      "story_45501189",
+      "front_page"
+    ],
+    "author": "luisb",
+    "created_at": "2025-10-07T09:50:49Z",
+    "aiHeadline": "Nobel Prize in Physics awarded for groundbreaking work that no one outside the lab really understands, but everyone agrees is important."
+  },
+  {
+    "title": "Gemini 2.5 Computer Use model",
+    "url": "https://blog.google/technology/google-deepmind/gemini-computer-use-model/",
+    "points": 334,
+    "num_comments": 180,
+    "tags": [
+      "story",
+      "author_mfiguiere",
+      "story_45507936",
+      "front_page"
+    ],
+    "author": "mfiguiere",
+    "created_at": "2025-10-07T19:49:11Z",
+    "aiHeadline": "Gemini 2.5 Computer Use model released, and it's supposedly smarter than humans—except when it comes to basic tasks like understanding sarcasm."
   }
 ]
