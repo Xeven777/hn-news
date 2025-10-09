@@ -1,76 +1,74 @@
 [
   {
-    "title": "Qualcomm to acquire Arduino",
-    "url": "https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i",
-    "points": 987,
-    "num_comments": 417,
+    "title": "Synology reverses policy banning third-party HDDs",
+    "url": "https://www.guru3d.com/story/synology-reverses-policy-banning-thirdparty-hdds-after-nas-sales-plummet/",
+    "points": 990,
+    "num_comments": 632,
     "tags": [
       "story",
-      "author_janjongboom",
-      "story_45502541",
-      "front_page"
+      "author_baobun",
+      "story_45513485"
     ],
-    "author": "janjongboom",
-    "created_at": "2025-10-07T13:00:08Z",
-    "aiHeadline": "Qualcomm's latest move: buying Arduino to finally get into the hardware game, probably not adding any new features we actually want."
+    "author": "baobun",
+    "created_at": "2025-10-08T08:19:36Z",
+    "aiHeadline": "Synology Finally Admits They Were Wrong About Banning Third-Party HDDs After Customers Flocked to Competitors and Sales Tanked"
   },
   {
-    "title": "German government comes out against Chat Control",
-    "url": "https://xcancel.com/paddi_hansen/status/1975595307800142205",
-    "points": 686,
-    "num_comments": 195,
+    "title": "We found a bug in Go's ARM64 compiler",
+    "url": "https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/",
+    "points": 545,
+    "num_comments": 87,
     "tags": [
       "story",
-      "author_SolonIslandus",
-      "story_45506143",
+      "author_jgrahamc",
+      "story_45516000",
       "front_page"
     ],
-    "author": "SolonIslandus",
-    "created_at": "2025-10-07T17:31:49Z",
-    "aiHeadline": "German government says 'no' to Chat Control, proving once again that they're all about privacy—except when they're the ones watching."
+    "author": "jgrahamc",
+    "created_at": "2025-10-08T13:33:15Z",
+    "aiHeadline": "Go's ARM64 Compiler Discovers a Bug That Should Have Been Found Before the Coffee Stains on Your Keyboard Were Dry"
   },
   {
-    "title": "Deloitte to refund the Australian government after using AI in $440k report",
-    "url": "https://www.theguardian.com/australia-news/2025/oct/06/deloitte-to-pay-money-back-to-albanese-government-after-using-ai-in-440000-report",
-    "points": 420,
-    "num_comments": 214,
+    "title": "One-man campaign ravages EU 'Chat Control' bill",
+    "url": "https://www.politico.eu/article/one-man-spam-campaign-ravages-eu-chat-control-bill-fight-chat-control/",
+    "points": 439,
+    "num_comments": 163,
     "tags": [
       "story",
-      "author_fforflo",
-      "story_45500485"
-    ],
-    "author": "fforflo",
-    "created_at": "2025-10-07T07:51:57Z",
-    "aiHeadline": "Deloitte to refund Australian government after AI messes up a $440k report, because apparently even AI can't get basic tasks right."
-  },
-  {
-    "title": "Nobel Prize in Physics 2025",
-    "url": "https://www.nobelprize.org/prizes/physics/2025/popular-information/",
-    "points": 342,
-    "num_comments": 80,
-    "tags": [
-      "story",
-      "author_luisb",
-      "story_45501189",
+      "author_cuu508",
+      "story_45514433",
       "front_page"
     ],
-    "author": "luisb",
-    "created_at": "2025-10-07T09:50:49Z",
-    "aiHeadline": "Nobel Prize in Physics awarded for groundbreaking work that no one outside the lab really understands, but everyone agrees is important."
+    "author": "cuu508",
+    "created_at": "2025-10-08T10:26:05Z",
+    "aiHeadline": "One-Man Spam Campaign Single-Handedly Ruins EU's Chat Control Bill, Proving That Even One Person Can Be a Real Pain in the Neck"
   },
   {
-    "title": "Gemini 2.5 Computer Use model",
-    "url": "https://blog.google/technology/google-deepmind/gemini-computer-use-model/",
-    "points": 334,
-    "num_comments": 180,
+    "title": "The email they shouldn't have read",
+    "url": "https://it-notes.dragas.net/2025/10/08/the-email-they-shouldnt-have-read/",
+    "points": 354,
+    "num_comments": 149,
     "tags": [
       "story",
-      "author_mfiguiere",
-      "story_45507936",
-      "front_page"
+      "author_miniBill",
+      "story_45515657"
     ],
-    "author": "mfiguiere",
-    "created_at": "2025-10-07T19:49:11Z",
-    "aiHeadline": "Gemini 2.5 Computer Use model released, and it's supposedly smarter than humans—except when it comes to basic tasks like understanding sarcasm."
+    "author": "miniBill",
+    "created_at": "2025-10-08T12:56:54Z",
+    "aiHeadline": "The Email They Swear They Didn't Read (But Obviously Did) Highlights the Perils of Office Gossip and the Inevitability of Embarrassing Leaks"
+  },
+  {
+    "title": "Nobel Prize in Chemistry 2025",
+    "url": "https://www.nobelprize.org/prizes/chemistry/2025/popular-information/",
+    "points": 302,
+    "num_comments": 52,
+    "tags": [
+      "story",
+      "author_pykello",
+      "story_45514164"
+    ],
+    "author": "pykello",
+    "created_at": "2025-10-08T09:49:36Z",
+    "aiHeadline": "2025 Nobel Prize in Chemistry Awarded to Scientists Who Finally Figured Out How to Make Things Work, Because Clearly, We Were All Stuck Before Their Genius"
   }
 ]
