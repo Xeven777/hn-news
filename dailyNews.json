@@ -1,74 +1,74 @@
 [
   {
-    "title": "Synology reverses policy banning third-party HDDs",
-    "url": "https://www.guru3d.com/story/synology-reverses-policy-banning-thirdparty-hdds-after-nas-sales-plummet/",
-    "points": 990,
-    "num_comments": 632,
+    "title": "A small number of samples can poison LLMs of any size",
+    "url": "https://www.anthropic.com/research/small-samples-poison",
+    "points": 679,
+    "num_comments": 211,
     "tags": [
       "story",
-      "author_baobun",
-      "story_45513485"
-    ],
-    "author": "baobun",
-    "created_at": "2025-10-08T08:19:36Z",
-    "aiHeadline": "Synology Finally Admits They Were Wrong About Banning Third-Party HDDs After Customers Flocked to Competitors and Sales Tanked"
-  },
-  {
-    "title": "We found a bug in Go's ARM64 compiler",
-    "url": "https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/",
-    "points": 545,
-    "num_comments": 87,
-    "tags": [
-      "story",
-      "author_jgrahamc",
-      "story_45516000",
+      "author_meetpateltech",
+      "story_45529587",
       "front_page"
     ],
-    "author": "jgrahamc",
-    "created_at": "2025-10-08T13:33:15Z",
-    "aiHeadline": "Go's ARM64 Compiler Discovers a Bug That Should Have Been Found Before the Coffee Stains on Your Keyboard Were Dry"
+    "author": "meetpateltech",
+    "created_at": "2025-10-09T16:04:04Z",
+    "aiHeadline": "Even the biggest AI models are no match for a tiny sprinkle of bad data, proving that size doesn't always matter when it comes to getting poisoned."
   },
   {
-    "title": "One-man campaign ravages EU 'Chat Control' bill",
-    "url": "https://www.politico.eu/article/one-man-spam-campaign-ravages-eu-chat-control-bill-fight-chat-control/",
-    "points": 439,
-    "num_comments": 163,
+    "title": "California enacts law enabling people to universally opt out of data sharing",
+    "url": "https://therecord.media/california-signs-law-opt-out-browsers",
+    "points": 418,
+    "num_comments": 77,
     "tags": [
       "story",
-      "author_cuu508",
-      "story_45514433",
+      "author_thm",
+      "story_45523033"
+    ],
+    "author": "thm",
+    "created_at": "2025-10-09T02:59:34Z",
+    "aiHeadline": "California finally gives you the power to say 'no' to data sharing, but don't get too excited—it's probably just another checkbox on a form no one reads."
+  },
+  {
+    "title": "Python 3.14 is here. How fast is it?",
+    "url": "https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it",
+    "points": 375,
+    "num_comments": 290,
+    "tags": [
+      "story",
+      "author_pjmlp",
+      "story_45524702",
       "front_page"
     ],
-    "author": "cuu508",
-    "created_at": "2025-10-08T10:26:05Z",
-    "aiHeadline": "One-Man Spam Campaign Single-Handedly Ruins EU's Chat Control Bill, Proving That Even One Person Can Be a Real Pain in the Neck"
+    "author": "pjmlp",
+    "created_at": "2025-10-09T07:40:42Z",
+    "aiHeadline": "Python 3.14 is out, and it's so fast you'll wonder if you even needed that coffee this morning. Spoiler: You still do."
   },
   {
-    "title": "The email they shouldn't have read",
-    "url": "https://it-notes.dragas.net/2025/10/08/the-email-they-shouldnt-have-read/",
-    "points": 354,
-    "num_comments": 149,
+    "title": "Two things LLM coding agents are still bad at",
+    "url": "https://kix.dev/two-things-llm-coding-agents-are-still-bad-at/",
+    "points": 305,
+    "num_comments": 348,
     "tags": [
       "story",
-      "author_miniBill",
-      "story_45515657"
+      "author_kixpanganiban",
+      "story_45523537"
     ],
-    "author": "miniBill",
-    "created_at": "2025-10-08T12:56:54Z",
-    "aiHeadline": "The Email They Swear They Didn't Read (But Obviously Did) Highlights the Perils of Office Gossip and the Inevitability of Embarrassing Leaks"
+    "author": "kixpanganiban",
+    "created_at": "2025-10-09T04:33:48Z",
+    "aiHeadline": "LLM coding agents are still clueless about two things, proving once again that even AI can't do everything. Spoiler: The two things are probably things you already knew they were bad at."
   },
   {
-    "title": "Nobel Prize in Chemistry 2025",
-    "url": "https://www.nobelprize.org/prizes/chemistry/2025/popular-information/",
-    "points": 302,
-    "num_comments": 52,
+    "title": "The React Foundation",
+    "url": "https://engineering.fb.com/2025/10/07/open-source/introducing-the-react-foundation-the-new-home-for-react-react-native/",
+    "points": 298,
+    "num_comments": 341,
     "tags": [
       "story",
-      "author_pykello",
-      "story_45514164"
+      "author_DanielHB",
+      "story_45524624"
     ],
-    "author": "pykello",
-    "created_at": "2025-10-08T09:49:36Z",
-    "aiHeadline": "2025 Nobel Prize in Chemistry Awarded to Scientists Who Finally Figured Out How to Make Things Work, Because Clearly, We Were All Stuck Before Their Genius"
+    "author": "DanielHB",
+    "created_at": "2025-10-09T07:30:12Z",
+    "aiHeadline": "React gets its own foundation, because clearly, the world needs another organization to tell you how to build apps. What's next? A foundation for your favorite coffee mug?"
   }
 ]
