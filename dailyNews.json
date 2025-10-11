@@ -1,74 +1,77 @@
 [
   {
-    "title": "A small number of samples can poison LLMs of any size",
-    "url": "https://www.anthropic.com/research/small-samples-poison",
-    "points": 679,
-    "num_comments": 211,
+    "title": "Nobel Peace Prize 2025: María Corina Machado",
+    "url": "https://www.nobelprize.org/prizes/peace/2025/summary/",
+    "points": 543,
+    "num_comments": 614,
     "tags": [
       "story",
-      "author_meetpateltech",
-      "story_45529587",
+      "author_pykello",
+      "story_45536700"
+    ],
+    "author": "pykello",
+    "created_at": "2025-10-10T09:03:16Z",
+    "aiHeadline": "Nobel Peace Prize 2025 goes to María Corina Machado, proving that sometimes even the most controversial figures get their 15 minutes of fame, or in this case, a Nobel Prize."
+  },
+  {
+    "title": "Ryanair flight landed at Manchester airport with six minutes of fuel left",
+    "url": "https://www.theguardian.com/business/2025/oct/10/ryanair-flight-landed-at-manchester-airport-with-six-minutes-of-fuel-left-flight-log-suggests",
+    "points": 506,
+    "num_comments": 381,
+    "tags": [
+      "story",
+      "author_mazokum",
+      "story_45539943",
       "front_page"
     ],
-    "author": "meetpateltech",
-    "created_at": "2025-10-09T16:04:04Z",
-    "aiHeadline": "Even the biggest AI models are no match for a tiny sprinkle of bad data, proving that size doesn't always matter when it comes to getting poisoned."
+    "author": "mazokum",
+    "created_at": "2025-10-10T15:11:04Z",
+    "aiHeadline": "Ryanair flight lands at Manchester with just six minutes of fuel left, because nothing says 'safe travel' like cutting it down to the wire and hoping the landing goes smoothly."
   },
   {
-    "title": "California enacts law enabling people to universally opt out of data sharing",
-    "url": "https://therecord.media/california-signs-law-opt-out-browsers",
-    "points": 418,
-    "num_comments": 77,
+    "title": "Show HN: I invented a new generative model and got accepted to ICLR",
+    "url": "https://discrete-distribution-networks.github.io/",
+    "points": 499,
+    "num_comments": 61,
     "tags": [
       "story",
-      "author_thm",
-      "story_45523033"
-    ],
-    "author": "thm",
-    "created_at": "2025-10-09T02:59:34Z",
-    "aiHeadline": "California finally gives you the power to say 'no' to data sharing, but don't get too excited—it's probably just another checkbox on a form no one reads."
-  },
-  {
-    "title": "Python 3.14 is here. How fast is it?",
-    "url": "https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it",
-    "points": 375,
-    "num_comments": 290,
-    "tags": [
-      "story",
-      "author_pjmlp",
-      "story_45524702",
+      "author_diyer22",
+      "story_45536694",
+      "show_hn",
       "front_page"
     ],
-    "author": "pjmlp",
-    "created_at": "2025-10-09T07:40:42Z",
-    "aiHeadline": "Python 3.14 is out, and it's so fast you'll wonder if you even needed that coffee this morning. Spoiler: You still do."
+    "author": "diyer22",
+    "created_at": "2025-10-10T09:01:54Z",
+    "aiHeadline": "Some guy invents a new generative model and gets accepted to ICLR, because clearly the world needs another AI model, and this one is definitely going to change everything... or maybe not."
   },
   {
-    "title": "Two things LLM coding agents are still bad at",
-    "url": "https://kix.dev/two-things-llm-coding-agents-are-still-bad-at/",
-    "points": 305,
-    "num_comments": 348,
+    "title": "Liquid Glass Is Cracked, and Usability Suffers in iOS 26",
+    "url": "https://www.nngroup.com/articles/liquid-glass/",
+    "points": 382,
+    "num_comments": 300,
     "tags": [
       "story",
-      "author_kixpanganiban",
-      "story_45523537"
+      "author_uxjw",
+      "story_45544044",
+      "front_page"
     ],
-    "author": "kixpanganiban",
-    "created_at": "2025-10-09T04:33:48Z",
-    "aiHeadline": "LLM coding agents are still clueless about two things, proving once again that even AI can't do everything. Spoiler: The two things are probably things you already knew they were bad at."
+    "author": "uxjw",
+    "created_at": "2025-10-10T21:35:22Z",
+    "aiHeadline": "Liquid Glass is cracked in iOS 26, and usability suffers, because who needs a smooth user experience when you can have a shiny new feature that doesn't work as intended?"
   },
   {
-    "title": "The React Foundation",
-    "url": "https://engineering.fb.com/2025/10/07/open-source/introducing-the-react-foundation-the-new-home-for-react-react-native/",
-    "points": 298,
-    "num_comments": 341,
+    "title": "Igalia, Servo, and the Sovereign Tech Fund",
+    "url": "https://www.igalia.com/2025/10/09/Igalia,-Servo,-and-the-Sovereign-Tech-Fund.html",
+    "points": 353,
+    "num_comments": 57,
     "tags": [
       "story",
-      "author_DanielHB",
-      "story_45524624"
+      "author_robin_reala",
+      "story_45538137",
+      "front_page"
     ],
-    "author": "DanielHB",
-    "created_at": "2025-10-09T07:30:12Z",
-    "aiHeadline": "React gets its own foundation, because clearly, the world needs another organization to tell you how to build apps. What's next? A foundation for your favorite coffee mug?"
+    "author": "robin_reala",
+    "created_at": "2025-10-10T12:21:02Z",
+    "aiHeadline": "Igalia partners with Servo and the Sovereign Tech Fund, proving that even in the tech world, sometimes you just need a good partnership to make things work, or at least look like they're working."
   }
 ]
