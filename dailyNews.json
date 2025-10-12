@@ -1,77 +1,76 @@
 [
   {
-    "title": "Nobel Peace Prize 2025: María Corina Machado",
-    "url": "https://www.nobelprize.org/prizes/peace/2025/summary/",
-    "points": 543,
-    "num_comments": 614,
+    "title": "The <output> Tag",
+    "url": "https://denodell.com/blog/html-best-kept-secret-output-tag",
+    "points": 710,
+    "num_comments": 160,
     "tags": [
       "story",
-      "author_pykello",
-      "story_45536700"
-    ],
-    "author": "pykello",
-    "created_at": "2025-10-10T09:03:16Z",
-    "aiHeadline": "Nobel Peace Prize 2025 goes to María Corina Machado, proving that sometimes even the most controversial figures get their 15 minutes of fame, or in this case, a Nobel Prize."
-  },
-  {
-    "title": "Ryanair flight landed at Manchester airport with six minutes of fuel left",
-    "url": "https://www.theguardian.com/business/2025/oct/10/ryanair-flight-landed-at-manchester-airport-with-six-minutes-of-fuel-left-flight-log-suggests",
-    "points": 506,
-    "num_comments": 381,
-    "tags": [
-      "story",
-      "author_mazokum",
-      "story_45539943",
+      "author_todsacerdoti",
+      "story_45547566",
       "front_page"
     ],
-    "author": "mazokum",
-    "created_at": "2025-10-10T15:11:04Z",
-    "aiHeadline": "Ryanair flight lands at Manchester with just six minutes of fuel left, because nothing says 'safe travel' like cutting it down to the wire and hoping the landing goes smoothly."
+    "author": "todsacerdoti",
+    "created_at": "2025-10-11T08:27:26Z",
+    "aiHeadline": "Discover the HTML Tag So Secret, Even the Web Developers Didn't Know About It Until Now"
   },
   {
-    "title": "Show HN: I invented a new generative model and got accepted to ICLR",
-    "url": "https://discrete-distribution-networks.github.io/",
-    "points": 499,
-    "num_comments": 61,
+    "title": "Daniel Kahneman opted for assisted suicide in Switzerland",
+    "url": "https://www.bluewin.ch/en/entertainment/nobel-prize-winner-opts-for-suicide-in-switzerland-2619460.html",
+    "points": 494,
+    "num_comments": 479,
     "tags": [
       "story",
-      "author_diyer22",
-      "story_45536694",
-      "show_hn",
-      "front_page"
+      "author_kvam",
+      "story_45547492"
     ],
-    "author": "diyer22",
-    "created_at": "2025-10-10T09:01:54Z",
-    "aiHeadline": "Some guy invents a new generative model and gets accepted to ICLR, because clearly the world needs another AI model, and this one is definitely going to change everything... or maybe not."
+    "author": "kvam",
+    "created_at": "2025-10-11T08:09:15Z",
+    "aiHeadline": "Nobel Prize Winner Proves That Even Geniuses Eventually Say, 'Enough With the Existential Crisis'"
   },
   {
-    "title": "Liquid Glass Is Cracked, and Usability Suffers in iOS 26",
-    "url": "https://www.nngroup.com/articles/liquid-glass/",
-    "points": 382,
-    "num_comments": 300,
+    "title": "Microsoft only lets you opt out of AI photo scanning 3x a year",
+    "url": "https://hardware.slashdot.org/story/25/10/11/0238213/microsofts-onedrive-begins-testing-face-recognizing-ai-for-photos-for-some-preview-users",
+    "points": 394,
+    "num_comments": 132,
     "tags": [
       "story",
-      "author_uxjw",
-      "story_45544044",
+      "author_dmitrygr",
+      "story_45551504",
       "front_page"
     ],
-    "author": "uxjw",
-    "created_at": "2025-10-10T21:35:22Z",
-    "aiHeadline": "Liquid Glass is cracked in iOS 26, and usability suffers, because who needs a smooth user experience when you can have a shiny new feature that doesn't work as intended?"
+    "author": "dmitrygr",
+    "created_at": "2025-10-11T18:36:51Z",
+    "aiHeadline": "Microsoft: Your Privacy Is Important to Us—Three Times a Year"
   },
   {
-    "title": "Igalia, Servo, and the Sovereign Tech Fund",
-    "url": "https://www.igalia.com/2025/10/09/Igalia,-Servo,-and-the-Sovereign-Tech-Fund.html",
-    "points": 353,
-    "num_comments": 57,
+    "title": "GNU Health",
+    "url": "https://www.gnuhealth.org/about-us.html",
+    "points": 336,
+    "num_comments": 96,
     "tags": [
       "story",
-      "author_robin_reala",
-      "story_45538137",
+      "author_smartmic",
+      "story_45550049",
       "front_page"
     ],
-    "author": "robin_reala",
-    "created_at": "2025-10-10T12:21:02Z",
-    "aiHeadline": "Igalia partners with Servo and the Sovereign Tech Fund, proving that even in the tech world, sometimes you just need a good partnership to make things work, or at least look like they're working."
+    "author": "smartmic",
+    "created_at": "2025-10-11T15:47:22Z",
+    "aiHeadline": "GNU Health: Because Managing Your Health Should Be as Fun as Debugging Open-Source Software"
+  },
+  {
+    "title": "AMD and Sony's PS6 chipset aims to rethink the current graphics pipeline",
+    "url": "https://arstechnica.com/gaming/2025/10/amd-and-sony-tease-new-chip-architecture-ahead-of-playstation-6/",
+    "points": 292,
+    "num_comments": 362,
+    "tags": [
+      "story",
+      "author_zdw",
+      "story_45546593",
+      "front_page"
+    ],
+    "author": "zdw",
+    "created_at": "2025-10-11T04:36:16Z",
+    "aiHeadline": "AMD and Sony Team Up to Redesign Graphics Pipelines, Because Clearly, We Didn't Already Have Enough Tech Hype"
   }
 ]
