@@ -1,76 +1,75 @@
 [
   {
-    "title": "The <output> Tag",
-    "url": "https://denodell.com/blog/html-best-kept-secret-output-tag",
-    "points": 710,
-    "num_comments": 160,
+    "title": "No I don't want to turn on Windows Backup with One Drive",
+    "url": "https://idiallo.com/byte-size/say-no-to-onedrive-backup",
+    "points": 491,
+    "num_comments": 392,
     "tags": [
       "story",
-      "author_todsacerdoti",
-      "story_45547566",
-      "front_page"
+      "author_firefoxd",
+      "story_45559023"
     ],
-    "author": "todsacerdoti",
-    "created_at": "2025-10-11T08:27:26Z",
-    "aiHeadline": "Discover the HTML Tag So Secret, Even the Web Developers Didn't Know About It Until Now"
+    "author": "firefoxd",
+    "created_at": "2025-10-12T15:42:00Z",
+    "aiHeadline": "Microsoft's latest attempt to force you into the cloud is so annoying, you'll want to throw your laptop out the window."
   },
   {
-    "title": "Daniel Kahneman opted for assisted suicide in Switzerland",
-    "url": "https://www.bluewin.ch/en/entertainment/nobel-prize-winner-opts-for-suicide-in-switzerland-2619460.html",
-    "points": 494,
-    "num_comments": 479,
+    "title": "Macro Splats 2025",
+    "url": "https://danybittel.ch/macro.html",
+    "points": 378,
+    "num_comments": 60,
     "tags": [
       "story",
-      "author_kvam",
-      "story_45547492"
-    ],
-    "author": "kvam",
-    "created_at": "2025-10-11T08:09:15Z",
-    "aiHeadline": "Nobel Prize Winner Proves That Even Geniuses Eventually Say, 'Enough With the Existential Crisis'"
-  },
-  {
-    "title": "Microsoft only lets you opt out of AI photo scanning 3x a year",
-    "url": "https://hardware.slashdot.org/story/25/10/11/0238213/microsofts-onedrive-begins-testing-face-recognizing-ai-for-photos-for-some-preview-users",
-    "points": 394,
-    "num_comments": 132,
-    "tags": [
-      "story",
-      "author_dmitrygr",
-      "story_45551504",
+      "author_danybittel",
+      "story_45556952",
       "front_page"
     ],
-    "author": "dmitrygr",
-    "created_at": "2025-10-11T18:36:51Z",
-    "aiHeadline": "Microsoft: Your Privacy Is Important to Us—Three Times a Year"
+    "author": "danybittel",
+    "created_at": "2025-10-12T10:08:02Z",
+    "aiHeadline": "Because the world didn't have enough chaos, here's a new way to make your macros explode in 2025."
   },
   {
-    "title": "GNU Health",
-    "url": "https://www.gnuhealth.org/about-us.html",
-    "points": 336,
-    "num_comments": 96,
+    "title": "Wireguard FPGA",
+    "url": "https://github.com/chili-chips-ba/wireguard-fpga",
+    "points": 338,
+    "num_comments": 92,
     "tags": [
       "story",
-      "author_smartmic",
-      "story_45550049",
+      "author_hasheddan",
+      "story_45559857",
       "front_page"
     ],
-    "author": "smartmic",
-    "created_at": "2025-10-11T15:47:22Z",
-    "aiHeadline": "GNU Health: Because Managing Your Health Should Be as Fun as Debugging Open-Source Software"
+    "author": "hasheddan",
+    "created_at": "2025-10-12T17:12:00Z",
+    "aiHeadline": "Geeks everywhere are drooling over this FPGA-powered WireGuard solution, because who doesn't love a good hardware upgrade?"
   },
   {
-    "title": "AMD and Sony's PS6 chipset aims to rethink the current graphics pipeline",
-    "url": "https://arstechnica.com/gaming/2025/10/amd-and-sony-tease-new-chip-architecture-ahead-of-playstation-6/",
-    "points": 292,
-    "num_comments": 362,
+    "title": "Schleswig-Holstein completes migration to open source email",
+    "url": "https://news.itsfoss.com/schleswig-holstein-email-system-migration/",
+    "points": 317,
+    "num_comments": 102,
     "tags": [
       "story",
-      "author_zdw",
-      "story_45546593",
+      "author_sebastian_z",
+      "story_45558635",
       "front_page"
     ],
-    "author": "zdw",
-    "created_at": "2025-10-11T04:36:16Z",
-    "aiHeadline": "AMD and Sony Team Up to Redesign Graphics Pipelines, Because Clearly, We Didn't Already Have Enough Tech Hype"
+    "author": "sebastian_z",
+    "created_at": "2025-10-12T14:53:45Z",
+    "aiHeadline": "Finally, some government actually did something right by ditching expensive email systems for open-source solutions that actually work."
+  },
+  {
+    "title": "Jeep pushed software update that bricked all 2024 Wrangler 4xe models",
+    "url": "https://twitter.com/StephenGutowski/status/1977055831720862101",
+    "points": 238,
+    "num_comments": 277,
+    "tags": [
+      "story",
+      "author_PKop",
+      "story_45558318"
+    ],
+    "author": "PKop",
+    "created_at": "2025-10-12T14:07:13Z",
+    "aiHeadline": "Jeep proves once again that they're the kings of the automotive world by successfully bricking every single 2024 Wrangler 4xe with a software update."
   }
 ]
