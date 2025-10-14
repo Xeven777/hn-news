@@ -1,75 +1,77 @@
 [
   {
-    "title": "No I don't want to turn on Windows Backup with One Drive",
-    "url": "https://idiallo.com/byte-size/say-no-to-onedrive-backup",
-    "points": 491,
-    "num_comments": 392,
+    "title": "NanoChat – The best ChatGPT that $100 can buy",
+    "url": "https://github.com/karpathy/nanochat",
+    "points": 844,
+    "num_comments": 173,
     "tags": [
       "story",
-      "author_firefoxd",
-      "story_45559023"
-    ],
-    "author": "firefoxd",
-    "created_at": "2025-10-12T15:42:00Z",
-    "aiHeadline": "Microsoft's latest attempt to force you into the cloud is so annoying, you'll want to throw your laptop out the window."
-  },
-  {
-    "title": "Macro Splats 2025",
-    "url": "https://danybittel.ch/macro.html",
-    "points": 378,
-    "num_comments": 60,
-    "tags": [
-      "story",
-      "author_danybittel",
-      "story_45556952",
+      "author_huseyinkeles",
+      "story_45569350",
       "front_page"
     ],
-    "author": "danybittel",
-    "created_at": "2025-10-12T10:08:02Z",
-    "aiHeadline": "Because the world didn't have enough chaos, here's a new way to make your macros explode in 2025."
+    "author": "huseyinkeles",
+    "created_at": "2025-10-13T15:22:47Z",
+    "aiHeadline": "Finally, a ChatGPT alternative that won't break the bank... unless you actually use it!"
   },
   {
-    "title": "Wireguard FPGA",
-    "url": "https://github.com/chili-chips-ba/wireguard-fpga",
-    "points": 338,
-    "num_comments": 92,
+    "title": "Android's sideloading limits are its most anti-consumer move",
+    "url": "https://www.makeuseof.com/androids-sideloading-limits-are-anti-consumer-move-yet/",
+    "points": 579,
+    "num_comments": 385,
     "tags": [
       "story",
-      "author_hasheddan",
-      "story_45559857",
+      "author_josephcsible",
+      "story_45569371",
       "front_page"
     ],
-    "author": "hasheddan",
-    "created_at": "2025-10-12T17:12:00Z",
-    "aiHeadline": "Geeks everywhere are drooling over this FPGA-powered WireGuard solution, because who doesn't love a good hardware upgrade?"
+    "author": "josephcsible",
+    "created_at": "2025-10-13T15:24:08Z",
+    "aiHeadline": "Android's latest move: proving that they truly love their users by making it harder to install apps from anywhere other than the Play Store."
   },
   {
-    "title": "Schleswig-Holstein completes migration to open source email",
-    "url": "https://news.itsfoss.com/schleswig-holstein-email-system-migration/",
+    "title": "Show HN: SQLite Online – 11 years of solo development, 11K daily users",
+    "url": "https://sqliteonline.com/",
+    "points": 337,
+    "num_comments": 113,
+    "tags": [
+      "story",
+      "author_sqliteonline",
+      "story_45567770",
+      "show_hn",
+      "front_page"
+    ],
+    "author": "sqliteonline",
+    "created_at": "2025-10-13T12:46:52Z",
+    "aiHeadline": "11 years of solo development, 11K daily users, and still no coffee breaks? This developer is a machine!"
+  },
+  {
+    "title": "Software update bricks some Jeep 4xe hybrids over the weekend",
+    "url": "https://arstechnica.com/cars/2025/10/software-update-bricks-some-jeep-4xe-hybrids-over-the-weekend/",
     "points": 317,
-    "num_comments": 102,
+    "num_comments": 217,
     "tags": [
       "story",
-      "author_sebastian_z",
-      "story_45558635",
+      "author_gloxkiqcza",
+      "story_45568700",
       "front_page"
     ],
-    "author": "sebastian_z",
-    "created_at": "2025-10-12T14:53:45Z",
-    "aiHeadline": "Finally, some government actually did something right by ditching expensive email systems for open-source solutions that actually work."
+    "author": "gloxkiqcza",
+    "created_at": "2025-10-13T14:28:25Z",
+    "aiHeadline": "Jeep's software update: because nothing says 'weekend plans' like a car that won't start."
   },
   {
-    "title": "Jeep pushed software update that bricked all 2024 Wrangler 4xe models",
-    "url": "https://twitter.com/StephenGutowski/status/1977055831720862101",
-    "points": 238,
-    "num_comments": 277,
+    "title": "Spotlight on pdfly, the Swiss Army knife for PDF files",
+    "url": "https://chezsoi.org/lucas/blog/spotlight-on-pdfly.html",
+    "points": 309,
+    "num_comments": 93,
     "tags": [
       "story",
-      "author_PKop",
-      "story_45558318"
+      "author_Lucas-C",
+      "story_45566139"
     ],
-    "author": "PKop",
-    "created_at": "2025-10-12T14:07:13Z",
-    "aiHeadline": "Jeep proves once again that they're the kings of the automotive world by successfully bricking every single 2024 Wrangler 4xe with a software update."
+    "author": "Lucas-C",
+    "created_at": "2025-10-13T08:36:33Z",
+    "aiHeadline": "pdfly: the only tool you'll ever need for PDFs, except when you need to do something it doesn't support."
   }
 ]
