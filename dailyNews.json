@@ -1,74 +1,75 @@
 [
   {
-    "title": "Don’t Look Up: Sensitive internal links in the clear on GEO satellites [pdf]",
-    "url": "https://satcom.sysnet.ucsd.edu/docs/dontlookup_ccs25_fullpaper.pdf",
-    "points": 518,
-    "num_comments": 126,
+    "title": "Apple M5 chip",
+    "url": "https://www.apple.com/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/",
+    "points": 941,
+    "num_comments": 1040,
     "tags": [
       "story",
-      "author_dweekly",
-      "story_45575391"
-    ],
-    "author": "dweekly",
-    "created_at": "2025-10-14T01:48:56Z",
-    "aiHeadline": "Satellites are leaking secrets, and we're all just looking up, wondering why no one thought to encrypt the links."
-  },
-  {
-    "title": "What Americans die from vs. what the news reports on",
-    "url": "https://ourworldindata.org/does-the-news-reflect-what-we-die-from",
-    "points": 380,
-    "num_comments": 214,
-    "tags": [
-      "story",
-      "author_alphabetatango",
-      "story_45583336",
+      "author_mihau",
+      "story_45591799",
       "front_page"
     ],
-    "author": "alphabetatango",
-    "created_at": "2025-10-14T18:40:23Z",
-    "aiHeadline": "The news is more interested in sensational stories than the actual causes of death, proving once again that clickbait trumps reality."
+    "author": "mihau",
+    "created_at": "2025-10-15T13:02:53Z",
+    "aiHeadline": "Apple's M5 Chip: Because Who Doesn't Want Another Chip That's 'The Next Big Leap' in AI? (Cue Ey rolls)."
   },
   {
-    "title": "New York Times, AP, Newsmax and others say they won't sign new Pentagon rules",
-    "url": "https://apnews.com/article/pentagon-press-access-defense-department-rules-95878bce05096912887701eaa6d019c6",
-    "points": 363,
-    "num_comments": 180,
+    "title": "I almost got hacked by a 'job interview'",
+    "url": "https://blog.daviddodda.com/how-i-almost-got-hacked-by-a-job-interview",
+    "points": 725,
+    "num_comments": 388,
     "tags": [
       "story",
-      "author_baobun",
-      "story_45575755"
-    ],
-    "author": "baobun",
-    "created_at": "2025-10-14T02:51:20Z",
-    "aiHeadline": "Major news outlets are rebelling against Pentagon rules, showing that even in the age of information warfare, some lines shouldn't be crossed."
-  },
-  {
-    "title": "Surveillance data challenges what we thought we knew about location tracking",
-    "url": "https://www.lighthousereports.com/investigation/surveillance-secrets/",
-    "points": 294,
-    "num_comments": 70,
-    "tags": [
-      "story",
-      "author__tk_",
-      "story_45584498",
+      "author_DavidDodda",
+      "story_45591707",
       "front_page"
     ],
-    "author": "_tk_",
-    "created_at": "2025-10-14T20:36:01Z",
-    "aiHeadline": "Your location data is being used against you, and we just found out we knew nothing about how it's done."
+    "author": "DavidDodda",
+    "created_at": "2025-10-15T12:56:12Z",
+    "aiHeadline": "How I Almost Got Hacked During a Job Interview: Because Who Needs a Thrilling Adventure When You're Just Trying to Get a Job?"
   },
   {
-    "title": "Why the push for Agentic when models can barely follow a simple instruction?",
-    "url": "https://forum.cursor.com/t/why-the-push-for-agentic-when-models-can-barely-follow-a-single-simple-instruction/137154",
-    "points": 292,
-    "num_comments": 327,
+    "title": "Ireland is making basic income for artists program permanent",
+    "url": "https://www.artnews.com/art-news/news/ireland-basic-income-artists-program-permanent-1234756981/",
+    "points": 432,
+    "num_comments": 432,
     "tags": [
       "story",
-      "author_fork-bomber",
-      "story_45577080"
+      "author_rbanffy",
+      "story_45590900"
     ],
-    "author": "fork-bomber",
-    "created_at": "2025-10-14T07:08:02Z",
-    "aiHeadline": "AI models are supposed to be smart, but they can't even follow a simple instruction, yet we're pushing for more autonomy. Go figure."
+    "author": "rbanffy",
+    "created_at": "2025-10-15T11:40:09Z",
+    "aiHeadline": "Ireland Makes Basic Income for Artists Permanent: Now You Can Finally Afford to Be Creative Without Starving (Or Maybe the Government Just Wants to Control Your Art)."
+  },
+  {
+    "title": "Claude Haiku 4.5",
+    "url": "https://www.anthropic.com/news/claude-haiku-4-5",
+    "points": 430,
+    "num_comments": 179,
+    "tags": [
+      "story",
+      "author_adocomplete",
+      "story_45595403",
+      "front_page"
+    ],
+    "author": "adocomplete",
+    "created_at": "2025-10-15T16:55:06Z",
+    "aiHeadline": "Claude Haiku 4.5: Because Sometimes You Just Need a Slightly Improved Version of an AI That's Already Pretty Good."
+  },
+  {
+    "title": "Bots are getting good at mimicking engagement",
+    "url": "https://joindatacops.com/resources/how-73-of-your-e-commerce-visitors-could-be-fake",
+    "points": 344,
+    "num_comments": 269,
+    "tags": [
+      "story",
+      "author_simul007",
+      "story_45590681"
+    ],
+    "author": "simul007",
+    "created_at": "2025-10-15T11:11:41Z",
+    "aiHeadline": "Bots Are Getting So Good at Mimicking Engagement That They Might As Well Be Human: Because Who Needs Real Interaction When You Can Have Fake Ones That Are Almost Indistinguishable?"
   }
 ]
