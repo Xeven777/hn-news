@@ -1,75 +1,74 @@
 [
   {
-    "title": "Apple M5 chip",
-    "url": "https://www.apple.com/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/",
-    "points": 941,
-    "num_comments": 1040,
+    "title": "TurboTax’s 20-year fight to stop Americans from filing taxes for free (2019)",
+    "url": "https://www.propublica.org/article/inside-turbotax-20-year-fight-to-stop-americans-from-filing-their-taxes-for-free",
+    "points": 781,
+    "num_comments": 418,
     "tags": [
       "story",
-      "author_mihau",
-      "story_45591799",
+      "author_lelandfe",
+      "story_45601750"
+    ],
+    "author": "lelandfe",
+    "created_at": "2025-10-16T05:31:31Z",
+    "aiHeadline": "TurboTax has spent 20 years fighting for your right to pay more for taxes, because who doesn't love a good fight?"
+  },
+  {
+    "title": "How I bypassed Amazon's Kindle web DRM",
+    "url": "https://blog.pixelmelt.dev/kindle-web-drm/",
+    "points": 507,
+    "num_comments": 153,
+    "tags": [
+      "story",
+      "author_pixelmelt",
+      "story_45610226",
       "front_page"
     ],
-    "author": "mihau",
-    "created_at": "2025-10-15T13:02:53Z",
-    "aiHeadline": "Apple's M5 Chip: Because Who Doesn't Want Another Chip That's 'The Next Big Leap' in AI? (Cue Ey rolls)."
+    "author": "pixelmelt",
+    "created_at": "2025-10-16T20:22:48Z",
+    "aiHeadline": "How I outsmarted Amazon's Kindle DRM: Because who needs to pay for books when you can just... not?"
   },
   {
-    "title": "I almost got hacked by a 'job interview'",
-    "url": "https://blog.daviddodda.com/how-i-almost-got-hacked-by-a-job-interview",
-    "points": 725,
-    "num_comments": 388,
+    "title": "Claude Skills",
+    "url": "https://www.anthropic.com/news/skills",
+    "points": 461,
+    "num_comments": 274,
     "tags": [
       "story",
-      "author_DavidDodda",
-      "story_45591707",
+      "author_meetpateltech",
+      "story_45607117",
       "front_page"
     ],
-    "author": "DavidDodda",
-    "created_at": "2025-10-15T12:56:12Z",
-    "aiHeadline": "How I Almost Got Hacked During a Job Interview: Because Who Needs a Thrilling Adventure When You're Just Trying to Get a Job?"
+    "author": "meetpateltech",
+    "created_at": "2025-10-16T16:05:47Z",
+    "aiHeadline": "Claude Skills: The latest thing everyone's talking about but no one understands, because tech trends are always this vague."
   },
   {
-    "title": "Ireland is making basic income for artists program permanent",
-    "url": "https://www.artnews.com/art-news/news/ireland-basic-income-artists-program-permanent-1234756981/",
-    "points": 432,
-    "num_comments": 432,
+    "title": "Journalists turn in access badges, exit Pentagon rather than agreeing new rules",
+    "url": "https://apnews.com/article/pentagon-press-access-hegseth-trump-restrictions-5d9c2a63e4e03b91fc1546bb09ffbf12",
+    "points": 437,
+    "num_comments": 420,
     "tags": [
       "story",
-      "author_rbanffy",
-      "story_45590900"
+      "author_pjmlp",
+      "story_45602179"
     ],
-    "author": "rbanffy",
-    "created_at": "2025-10-15T11:40:09Z",
-    "aiHeadline": "Ireland Makes Basic Income for Artists Permanent: Now You Can Finally Afford to Be Creative Without Starving (Or Maybe the Government Just Wants to Control Your Art)."
+    "author": "pjmlp",
+    "created_at": "2025-10-16T06:51:49Z",
+    "aiHeadline": "Journalists walk out of Pentagon because they refuse to follow new rules, proving that some people still value their integrity over convenience."
   },
   {
-    "title": "Claude Haiku 4.5",
-    "url": "https://www.anthropic.com/news/claude-haiku-4-5",
-    "points": 430,
-    "num_comments": 179,
+    "title": "Liquibase continues to advertise itself as \"open source\" despite license switch",
+    "url": "https://github.com/liquibase/liquibase/issues/7374",
+    "points": 325,
+    "num_comments": 291,
     "tags": [
       "story",
-      "author_adocomplete",
-      "story_45595403",
-      "front_page"
+      "author_LaSombra",
+      "story_45602676"
     ],
-    "author": "adocomplete",
-    "created_at": "2025-10-15T16:55:06Z",
-    "aiHeadline": "Claude Haiku 4.5: Because Sometimes You Just Need a Slightly Improved Version of an AI That's Already Pretty Good."
-  },
-  {
-    "title": "Bots are getting good at mimicking engagement",
-    "url": "https://joindatacops.com/resources/how-73-of-your-e-commerce-visitors-could-be-fake",
-    "points": 344,
-    "num_comments": 269,
-    "tags": [
-      "story",
-      "author_simul007",
-      "story_45590681"
-    ],
-    "author": "simul007",
-    "created_at": "2025-10-15T11:11:41Z",
-    "aiHeadline": "Bots Are Getting So Good at Mimicking Engagement That They Might As Well Be Human: Because Who Needs Real Interaction When You Can Have Fake Ones That Are Almost Indistinguishable?"
+    "author": "LaSombra",
+    "created_at": "2025-10-16T08:02:52Z",
+    "aiHeadline": "Liquibase continues to lie about being open source, because who doesn't love a good marketing scam?"
   }
 ]
