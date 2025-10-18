@@ -1,74 +1,75 @@
 [
   {
-    "title": "TurboTax’s 20-year fight to stop Americans from filing taxes for free (2019)",
-    "url": "https://www.propublica.org/article/inside-turbotax-20-year-fight-to-stop-americans-from-filing-their-taxes-for-free",
-    "points": 781,
-    "num_comments": 418,
+    "title": "Migrating from AWS to Hetzner",
+    "url": "https://digitalsociety.coop/posts/migrating-to-hetzner-cloud/",
+    "points": 1011,
+    "num_comments": 566,
     "tags": [
       "story",
-      "author_lelandfe",
-      "story_45601750"
+      "author_pingoo101010",
+      "story_45614922"
     ],
-    "author": "lelandfe",
-    "created_at": "2025-10-16T05:31:31Z",
-    "aiHeadline": "TurboTax has spent 20 years fighting for your right to pay more for taxes, because who doesn't love a good fight?"
+    "author": "pingoo101010",
+    "created_at": "2025-10-17T10:00:21Z",
+    "aiHeadline": "Migrating from AWS to Hetzner: Because even tech companies can't afford to live large anymore, apparently."
   },
   {
-    "title": "How I bypassed Amazon's Kindle web DRM",
-    "url": "https://blog.pixelmelt.dev/kindle-web-drm/",
-    "points": 507,
-    "num_comments": 153,
+    "title": "Meow.camera",
+    "url": "https://meow.camera/",
+    "points": 612,
+    "num_comments": 205,
     "tags": [
       "story",
-      "author_pixelmelt",
-      "story_45610226",
+      "author_southwindcg",
+      "story_45613047",
       "front_page"
     ],
-    "author": "pixelmelt",
-    "created_at": "2025-10-16T20:22:48Z",
-    "aiHeadline": "How I outsmarted Amazon's Kindle DRM: Because who needs to pay for books when you can just... not?"
+    "author": "southwindcg",
+    "created_at": "2025-10-17T03:27:24Z",
+    "aiHeadline": "Meow.camera: Because the world needs more cat videos, apparently."
   },
   {
-    "title": "Claude Skills",
-    "url": "https://www.anthropic.com/news/skills",
-    "points": 461,
-    "num_comments": 274,
+    "title": "Ruby core team takes ownership of RubyGems and Bundler",
+    "url": "https://www.ruby-lang.org/en/news/2025/10/17/rubygems-repository-transition/",
+    "points": 571,
+    "num_comments": 305,
     "tags": [
       "story",
-      "author_meetpateltech",
-      "story_45607117",
+      "author_sebiw",
+      "story_45615863",
       "front_page"
     ],
-    "author": "meetpateltech",
-    "created_at": "2025-10-16T16:05:47Z",
-    "aiHeadline": "Claude Skills: The latest thing everyone's talking about but no one understands, because tech trends are always this vague."
+    "author": "sebiw",
+    "created_at": "2025-10-17T12:15:53Z",
+    "aiHeadline": "Ruby core team takes ownership of RubyGems and Bundler: Finally, someone’s taking the blame for all those dependency hell issues!"
   },
   {
-    "title": "Journalists turn in access badges, exit Pentagon rather than agreeing new rules",
-    "url": "https://apnews.com/article/pentagon-press-access-hegseth-trump-restrictions-5d9c2a63e4e03b91fc1546bb09ffbf12",
-    "points": 437,
-    "num_comments": 420,
+    "title": "The Rapper 50 Cent, Adjusted for Inflation",
+    "url": "https://50centadjustedforinflation.com/",
+    "points": 475,
+    "num_comments": 134,
     "tags": [
       "story",
-      "author_pjmlp",
-      "story_45602179"
+      "author_gaws",
+      "story_45618790",
+      "front_page"
     ],
-    "author": "pjmlp",
-    "created_at": "2025-10-16T06:51:49Z",
-    "aiHeadline": "Journalists walk out of Pentagon because they refuse to follow new rules, proving that some people still value their integrity over convenience."
+    "author": "gaws",
+    "created_at": "2025-10-17T16:40:02Z",
+    "aiHeadline": "The Rapper 50 Cent, Adjusted for Inflation: Because even a rapper’s cash can’t escape the clutches of inflation."
   },
   {
-    "title": "Liquibase continues to advertise itself as \"open source\" despite license switch",
-    "url": "https://github.com/liquibase/liquibase/issues/7374",
-    "points": 325,
-    "num_comments": 291,
+    "title": "Amazon’s Ring to partner with Flock",
+    "url": "https://techcrunch.com/2025/10/16/amazons-ring-to-partner-with-flock-a-network-of-ai-cameras-used-by-ice-feds-and-police/",
+    "points": 463,
+    "num_comments": 349,
     "tags": [
       "story",
-      "author_LaSombra",
-      "story_45602676"
+      "author_gman83",
+      "story_45614713"
     ],
-    "author": "LaSombra",
-    "created_at": "2025-10-16T08:02:52Z",
-    "aiHeadline": "Liquibase continues to lie about being open source, because who doesn't love a good marketing scam?"
+    "author": "gman83",
+    "created_at": "2025-10-17T09:15:25Z",
+    "aiHeadline": "Amazon’s Ring to partner with Flock: Because nothing says ‘home security’ like partnering with the same network used by ICE and the police."
   }
 ]
