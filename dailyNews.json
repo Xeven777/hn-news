@@ -1,75 +1,76 @@
 [
   {
-    "title": "Migrating from AWS to Hetzner",
-    "url": "https://digitalsociety.coop/posts/migrating-to-hetzner-cloud/",
-    "points": 1011,
-    "num_comments": 566,
+    "title": "IDEs we had 30 years ago and lost (2023)",
+    "url": "https://blogsystem5.substack.com/p/the-ides-we-had-30-years-ago-and",
+    "points": 462,
+    "num_comments": 416,
     "tags": [
       "story",
-      "author_pingoo101010",
-      "story_45614922"
+      "author_AlexeyBrin",
+      "story_45626910"
     ],
-    "author": "pingoo101010",
-    "created_at": "2025-10-17T10:00:21Z",
-    "aiHeadline": "Migrating from AWS to Hetzner: Because even tech companies can't afford to live large anymore, apparently."
+    "author": "AlexeyBrin",
+    "created_at": "2025-10-18T12:44:16Z",
+    "aiHeadline": "Remember when coding meant staring at a green screen? Yeah, those days are back with IDEs from the '90s that somehow feel both nostalgic and terrifyingly outdated."
   },
   {
-    "title": "Meow.camera",
-    "url": "https://meow.camera/",
-    "points": 612,
-    "num_comments": 205,
+    "title": "Ripgrep 15.0",
+    "url": "https://github.com/BurntSushi/ripgrep/releases/tag/15.0.0",
+    "points": 359,
+    "num_comments": 88,
     "tags": [
       "story",
-      "author_southwindcg",
-      "story_45613047",
+      "author_robin_reala",
+      "story_45627324",
       "front_page"
     ],
-    "author": "southwindcg",
-    "created_at": "2025-10-17T03:27:24Z",
-    "aiHeadline": "Meow.camera: Because the world needs more cat videos, apparently."
+    "author": "robin_reala",
+    "created_at": "2025-10-18T13:44:02Z",
+    "aiHeadline": "After a decade of being the best, Ripgrep finally gets an update that doesn't break everything—miraculously, it's still faster than your average developer's coffee-fueled workflow."
   },
   {
-    "title": "Ruby core team takes ownership of RubyGems and Bundler",
-    "url": "https://www.ruby-lang.org/en/news/2025/10/17/rubygems-repository-transition/",
-    "points": 571,
-    "num_comments": 305,
+    "title": "./watch",
+    "url": "https://dotslashwatch.com/",
+    "points": 311,
+    "num_comments": 82,
     "tags": [
       "story",
-      "author_sebiw",
-      "story_45615863",
+      "author_shrx",
+      "story_45626130",
       "front_page"
     ],
-    "author": "sebiw",
-    "created_at": "2025-10-17T12:15:53Z",
-    "aiHeadline": "Ruby core team takes ownership of RubyGems and Bundler: Finally, someone’s taking the blame for all those dependency hell issues!"
+    "author": "shrx",
+    "created_at": "2025-10-18T09:55:06Z",
+    "aiHeadline": "Because watching your code change isn't creepy at all, here's a tool that lets you monitor every file like you're the NSA of your own projects."
   },
   {
-    "title": "The Rapper 50 Cent, Adjusted for Inflation",
-    "url": "https://50centadjustedforinflation.com/",
-    "points": 475,
-    "num_comments": 134,
+    "title": "Root System Drawings",
+    "url": "https://images.wur.nl/digital/collection/coll13/search",
+    "points": 280,
+    "num_comments": 52,
     "tags": [
       "story",
-      "author_gaws",
-      "story_45618790",
+      "author_bookofjoe",
+      "story_45627394",
       "front_page"
     ],
-    "author": "gaws",
-    "created_at": "2025-10-17T16:40:02Z",
-    "aiHeadline": "The Rapper 50 Cent, Adjusted for Inflation: Because even a rapper’s cash can’t escape the clutches of inflation."
+    "author": "bookofjoe",
+    "created_at": "2025-10-18T13:52:24Z",
+    "aiHeadline": "Because who doesn't want to spend their weekend staring at underground plant structures? Here's a collection of root system drawings that will make you question your life choices."
   },
   {
-    "title": "Amazon’s Ring to partner with Flock",
-    "url": "https://techcrunch.com/2025/10/16/amazons-ring-to-partner-with-flock-a-network-of-ai-cameras-used-by-ice-feds-and-police/",
-    "points": 463,
-    "num_comments": 349,
+    "title": "Tinnitus Neuromodulator",
+    "url": "https://mynoise.net/NoiseMachines/neuromodulationTonesGenerator.php",
+    "points": 246,
+    "num_comments": 159,
     "tags": [
       "story",
-      "author_gman83",
-      "story_45614713"
+      "author_gjvc",
+      "story_45628391",
+      "front_page"
     ],
-    "author": "gman83",
-    "created_at": "2025-10-17T09:15:25Z",
-    "aiHeadline": "Amazon’s Ring to partner with Flock: Because nothing says ‘home security’ like partnering with the same network used by ICE and the police."
+    "author": "gjvc",
+    "created_at": "2025-10-18T16:08:10Z",
+    "aiHeadline": "Because nothing says 'modern tech' like a device that makes your ears ring even more, here's the latest in neuromodulation for your tinnitus needs."
   }
 ]
