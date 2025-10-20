@@ -1,76 +1,74 @@
 [
   {
-    "title": "IDEs we had 30 years ago and lost (2023)",
-    "url": "https://blogsystem5.substack.com/p/the-ides-we-had-30-years-ago-and",
-    "points": 462,
-    "num_comments": 416,
+    "title": "Replacement.ai",
+    "url": "https://replacement.ai",
+    "points": 909,
+    "num_comments": 601,
     "tags": [
       "story",
-      "author_AlexeyBrin",
-      "story_45626910"
+      "author_wh313",
+      "story_45634095"
     ],
-    "author": "AlexeyBrin",
-    "created_at": "2025-10-18T12:44:16Z",
-    "aiHeadline": "Remember when coding meant staring at a green screen? Yeah, those days are back with IDEs from the '90s that somehow feel both nostalgic and terrifyingly outdated."
+    "author": "wh313",
+    "created_at": "2025-10-19T13:47:21Z",
+    "aiHeadline": "AI startup Replacement.ai is here to replace you with robots, because who needs humans when you can have better-looking, non-complaining machines?"
   },
   {
-    "title": "Ripgrep 15.0",
-    "url": "https://github.com/BurntSushi/ripgrep/releases/tag/15.0.0",
-    "points": 359,
-    "num_comments": 88,
+    "title": "Doing well in your courses: Andrej's advice for success (2013)",
+    "url": "https://cs.stanford.edu/people/karpathy/advice.html",
+    "points": 381,
+    "num_comments": 123,
     "tags": [
       "story",
-      "author_robin_reala",
-      "story_45627324",
+      "author_peterkshultz",
+      "story_45635533",
       "front_page"
     ],
-    "author": "robin_reala",
-    "created_at": "2025-10-18T13:44:02Z",
-    "aiHeadline": "After a decade of being the best, Ripgrep finally gets an update that doesn't break everything—miraculously, it's still faster than your average developer's coffee-fueled workflow."
+    "author": "peterkshultz",
+    "created_at": "2025-10-19T16:31:57Z",
+    "aiHeadline": "Andrej Karpathy's 2013 advice on acing courses is still relevant, unless you're too cool for school and prefer to just scroll through TikTok all day."
   },
   {
-    "title": "./watch",
-    "url": "https://dotslashwatch.com/",
-    "points": 311,
-    "num_comments": 82,
+    "title": "OpenAI researcher announced GPT-5 math breakthrough that never happened",
+    "url": "https://the-decoder.com/leading-openai-researcher-announced-a-gpt-5-math-breakthrough-that-never-happened/",
+    "points": 369,
+    "num_comments": 198,
     "tags": [
       "story",
-      "author_shrx",
-      "story_45626130",
-      "front_page"
+      "author_Topfi",
+      "story_45633482"
     ],
-    "author": "shrx",
-    "created_at": "2025-10-18T09:55:06Z",
-    "aiHeadline": "Because watching your code change isn't creepy at all, here's a tool that lets you monitor every file like you're the NSA of your own projects."
+    "author": "Topfi",
+    "created_at": "2025-10-19T11:30:17Z",
+    "aiHeadline": "OpenAI researcher claims GPT-5 has a math breakthrough, but don't get too excited—apparently, it's just another example of AI overhyping itself."
   },
   {
-    "title": "Root System Drawings",
-    "url": "https://images.wur.nl/digital/collection/coll13/search",
-    "points": 280,
-    "num_comments": 52,
+    "title": "Xubuntu.org Might Be Compromised",
+    "url": "https://old.reddit.com/r/Ubuntu/comments/1oa4549/xubuntuorg_might_be_compromised/",
+    "points": 316,
+    "num_comments": 131,
     "tags": [
       "story",
-      "author_bookofjoe",
-      "story_45627394",
-      "front_page"
+      "author_kekqqq",
+      "story_45634367"
     ],
-    "author": "bookofjoe",
-    "created_at": "2025-10-18T13:52:24Z",
-    "aiHeadline": "Because who doesn't want to spend their weekend staring at underground plant structures? Here's a collection of root system drawings that will make you question your life choices."
+    "author": "kekqqq",
+    "created_at": "2025-10-19T14:25:45Z",
+    "aiHeadline": "Xubuntu.org might be compromised, which is ironic because Linux was supposed to be the secure alternative to Windows. Go figure."
   },
   {
-    "title": "Tinnitus Neuromodulator",
-    "url": "https://mynoise.net/NoiseMachines/neuromodulationTonesGenerator.php",
-    "points": 246,
-    "num_comments": 159,
+    "title": "Novo Nordisk's Canadian Mistake",
+    "url": "https://www.science.org/content/blog-post/novo-nordisk-s-canadian-mistake",
+    "points": 238,
+    "num_comments": 113,
     "tags": [
       "story",
-      "author_gjvc",
-      "story_45628391",
+      "author_jbm",
+      "story_45637744",
       "front_page"
     ],
-    "author": "gjvc",
-    "created_at": "2025-10-18T16:08:10Z",
-    "aiHeadline": "Because nothing says 'modern tech' like a device that makes your ears ring even more, here's the latest in neuromodulation for your tinnitus needs."
+    "author": "jbm",
+    "created_at": "2025-10-19T20:39:13Z",
+    "aiHeadline": "Novo Nordisk's Canadian mistake shows that even big pharma companies can mess up, especially when it comes to Canadian regulations. Who knew?"
   }
 ]
