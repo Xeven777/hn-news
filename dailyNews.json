@@ -1,74 +1,75 @@
 [
   {
-    "title": "Replacement.ai",
-    "url": "https://replacement.ai",
-    "points": 909,
-    "num_comments": 601,
+    "title": "AWS multiple services outage in us-east-1",
+    "url": "https://health.aws.amazon.com/health/status?ts=20251020",
+    "points": 1603,
+    "num_comments": 1781,
     "tags": [
       "story",
-      "author_wh313",
-      "story_45634095"
-    ],
-    "author": "wh313",
-    "created_at": "2025-10-19T13:47:21Z",
-    "aiHeadline": "AI startup Replacement.ai is here to replace you with robots, because who needs humans when you can have better-looking, non-complaining machines?"
-  },
-  {
-    "title": "Doing well in your courses: Andrej's advice for success (2013)",
-    "url": "https://cs.stanford.edu/people/karpathy/advice.html",
-    "points": 381,
-    "num_comments": 123,
-    "tags": [
-      "story",
-      "author_peterkshultz",
-      "story_45635533",
+      "author_kondro",
+      "story_45640838",
       "front_page"
     ],
-    "author": "peterkshultz",
-    "created_at": "2025-10-19T16:31:57Z",
-    "aiHeadline": "Andrej Karpathy's 2013 advice on acing courses is still relevant, unless you're too cool for school and prefer to just scroll through TikTok all day."
+    "author": "kondro",
+    "created_at": "2025-10-20T07:22:28Z",
+    "aiHeadline": "AWS Has Another Glorious Meltdown, Because What's the Point of Having Redundancy Anyway?"
   },
   {
-    "title": "OpenAI researcher announced GPT-5 math breakthrough that never happened",
-    "url": "https://the-decoder.com/leading-openai-researcher-announced-a-gpt-5-math-breakthrough-that-never-happened/",
-    "points": 369,
-    "num_comments": 198,
+    "title": "Space Elevator",
+    "url": "https://neal.fun/space-elevator/",
+    "points": 1480,
+    "num_comments": 336,
     "tags": [
       "story",
-      "author_Topfi",
-      "story_45633482"
-    ],
-    "author": "Topfi",
-    "created_at": "2025-10-19T11:30:17Z",
-    "aiHeadline": "OpenAI researcher claims GPT-5 has a math breakthrough, but don't get too excited—apparently, it's just another example of AI overhyping itself."
-  },
-  {
-    "title": "Xubuntu.org Might Be Compromised",
-    "url": "https://old.reddit.com/r/Ubuntu/comments/1oa4549/xubuntuorg_might_be_compromised/",
-    "points": 316,
-    "num_comments": 131,
-    "tags": [
-      "story",
-      "author_kekqqq",
-      "story_45634367"
-    ],
-    "author": "kekqqq",
-    "created_at": "2025-10-19T14:25:45Z",
-    "aiHeadline": "Xubuntu.org might be compromised, which is ironic because Linux was supposed to be the secure alternative to Windows. Go figure."
-  },
-  {
-    "title": "Novo Nordisk's Canadian Mistake",
-    "url": "https://www.science.org/content/blog-post/novo-nordisk-s-canadian-mistake",
-    "points": 238,
-    "num_comments": 113,
-    "tags": [
-      "story",
-      "author_jbm",
-      "story_45637744",
+      "author_kaonwarb",
+      "story_45640226",
       "front_page"
     ],
-    "author": "jbm",
-    "created_at": "2025-10-19T20:39:13Z",
-    "aiHeadline": "Novo Nordisk's Canadian mistake shows that even big pharma companies can mess up, especially when it comes to Canadian regulations. Who knew?"
+    "author": "kaonwarb",
+    "created_at": "2025-10-20T04:42:08Z",
+    "aiHeadline": "Space Elevator: The Future of Commuting, Because Who Doesn't Want to Spend Hours Stuck in a Carbon Nanotube Elevator?"
+  },
+  {
+    "title": "Major AWS Outage Happening",
+    "url": "https://old.reddit.com/r/aws/comments/1obd3lx/dynamodb_down_useast1/",
+    "points": 1071,
+    "num_comments": 10,
+    "tags": [
+      "story",
+      "author_vvoyer",
+      "story_45640772"
+    ],
+    "author": "vvoyer",
+    "created_at": "2025-10-20T07:11:06Z",
+    "aiHeadline": "Major AWS Outage: Because Nothing Says 'We're Essential' Like Making the Internet Wait for Us."
+  },
+  {
+    "title": "DeepSeek OCR",
+    "url": "https://github.com/deepseek-ai/DeepSeek-OCR",
+    "points": 865,
+    "num_comments": 220,
+    "tags": [
+      "story",
+      "author_pierre",
+      "story_45640594",
+      "front_page"
+    ],
+    "author": "pierre",
+    "created_at": "2025-10-20T06:26:33Z",
+    "aiHeadline": "DeepSeek OCR: Now You Can Spend Hours Training an AI to Do Something You Could've Done in 5 Minutes Yourself."
+  },
+  {
+    "title": "Entire Linux Network stack diagram (2024)",
+    "url": "https://zenodo.org/records/14179366",
+    "points": 550,
+    "num_comments": 47,
+    "tags": [
+      "story",
+      "author_hhutw",
+      "story_45639995"
+    ],
+    "author": "hhutw",
+    "created_at": "2025-10-20T03:33:11Z",
+    "aiHeadline": "Linux Network Stack Diagram: Because Who Doesn't Want to Spend an Afternoon Trying to Understand Why Their Wi-Fi Isn't Working?"
   }
 ]
