@@ -1,75 +1,77 @@
 [
   {
-    "title": "AWS multiple services outage in us-east-1",
-    "url": "https://health.aws.amazon.com/health/status?ts=20251020",
-    "points": 1603,
-    "num_comments": 1781,
+    "title": "ChatGPT Atlas",
+    "url": "https://chatgpt.com/atlas",
+    "points": 557,
+    "num_comments": 531,
     "tags": [
       "story",
-      "author_kondro",
-      "story_45640838",
+      "author_easton",
+      "story_45658479",
       "front_page"
     ],
-    "author": "kondro",
-    "created_at": "2025-10-20T07:22:28Z",
-    "aiHeadline": "AWS Has Another Glorious Meltdown, Because What's the Point of Having Redundancy Anyway?"
+    "author": "easton",
+    "created_at": "2025-10-21T17:18:13Z",
+    "aiHeadline": "ChatGPT just got a new toy called 'Atlas'—because apparently, world domination wasn't enough, and now it needs a map too."
   },
   {
-    "title": "Space Elevator",
-    "url": "https://neal.fun/space-elevator/",
-    "points": 1480,
-    "num_comments": 336,
+    "title": "Replacing a $3000/mo Heroku bill with a $55/mo server",
+    "url": "https://disco.cloud/blog/how-idealistorg-replaced-a-3000mo-heroku-bill-with-a-55-server/",
+    "points": 375,
+    "num_comments": 294,
     "tags": [
       "story",
-      "author_kaonwarb",
-      "story_45640226",
+      "author_jryio",
+      "story_45661253",
       "front_page"
     ],
-    "author": "kaonwarb",
-    "created_at": "2025-10-20T04:42:08Z",
-    "aiHeadline": "Space Elevator: The Future of Commuting, Because Who Doesn't Want to Spend Hours Stuck in a Carbon Nanotube Elevator?"
+    "author": "jryio",
+    "created_at": "2025-10-21T20:28:15Z",
+    "aiHeadline": "One startup realized that paying $3,000 a month for Heroku was like renting a mansion when you could just build a tiny shed for $55—genius move, or just a sign of the times?"
   },
   {
-    "title": "Major AWS Outage Happening",
-    "url": "https://old.reddit.com/r/aws/comments/1obd3lx/dynamodb_down_useast1/",
-    "points": 1071,
-    "num_comments": 10,
+    "title": "Build your own database",
+    "url": "https://www.nan.fyi/database",
+    "points": 368,
+    "num_comments": 62,
     "tags": [
       "story",
-      "author_vvoyer",
-      "story_45640772"
-    ],
-    "author": "vvoyer",
-    "created_at": "2025-10-20T07:11:06Z",
-    "aiHeadline": "Major AWS Outage: Because Nothing Says 'We're Essential' Like Making the Internet Wait for Us."
-  },
-  {
-    "title": "DeepSeek OCR",
-    "url": "https://github.com/deepseek-ai/DeepSeek-OCR",
-    "points": 865,
-    "num_comments": 220,
-    "tags": [
-      "story",
-      "author_pierre",
-      "story_45640594",
+      "author_nansdotio",
+      "story_45657827",
       "front_page"
     ],
-    "author": "pierre",
-    "created_at": "2025-10-20T06:26:33Z",
-    "aiHeadline": "DeepSeek OCR: Now You Can Spend Hours Training an AI to Do Something You Could've Done in 5 Minutes Yourself."
+    "author": "nansdotio",
+    "created_at": "2025-10-21T16:31:51Z",
+    "aiHeadline": "Why settle for existing databases when you can build your own? Because clearly, the world isn't broken enough yet."
   },
   {
-    "title": "Entire Linux Network stack diagram (2024)",
-    "url": "https://zenodo.org/records/14179366",
-    "points": 550,
-    "num_comments": 47,
+    "title": "Neural audio codecs: how to get audio into LLMs",
+    "url": "https://kyutai.org/next/codec-explainer",
+    "points": 329,
+    "num_comments": 99,
     "tags": [
       "story",
-      "author_hhutw",
-      "story_45639995"
+      "author_karimf",
+      "story_45655161",
+      "front_page"
     ],
-    "author": "hhutw",
-    "created_at": "2025-10-20T03:33:11Z",
-    "aiHeadline": "Linux Network Stack Diagram: Because Who Doesn't Want to Spend an Afternoon Trying to Understand Why Their Wi-Fi Isn't Working?"
+    "author": "karimf",
+    "created_at": "2025-10-21T12:55:59Z",
+    "aiHeadline": "Scientists are now teaching LLMs how to 'listen' to audio—because what could possibly go wrong when AI starts understanding everything we say?"
+  },
+  {
+    "title": "Foreign hackers breached a US nuclear weapons plant via SharePoint flaws",
+    "url": "https://www.csoonline.com/article/4074962/foreign-hackers-breached-a-us-nuclear-weapons-plant-via-sharepoint-flaws.html",
+    "points": 321,
+    "num_comments": 214,
+    "tags": [
+      "story",
+      "author_zdw",
+      "story_45657287",
+      "front_page"
+    ],
+    "author": "zdw",
+    "created_at": "2025-10-21T15:51:33Z",
+    "aiHeadline": "Foreign hackers breached a US nuclear weapons plant via SharePoint flaws—because apparently, even the most secure facilities can't resist the allure of an unpatched software vulnerability."
   }
 ]
