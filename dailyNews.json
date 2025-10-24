@@ -1,74 +1,74 @@
 [
   {
-    "title": "MinIO stops distributing free Docker images",
-    "url": "https://github.com/minio/minio/issues/21647#issuecomment-3418675115",
-    "points": 652,
-    "num_comments": 380,
+    "title": "US axes website for reporting human rights abuses by US-armed foreign forces",
+    "url": "https://www.bbc.com/news/articles/cqx30vnwd4do",
+    "points": 722,
+    "num_comments": 389,
     "tags": [
       "story",
-      "author_LexSiga",
-      "story_45665452"
+      "author_tartoran",
+      "story_45682169"
     ],
-    "author": "LexSiga",
-    "created_at": "2025-10-22T06:17:18Z",
-    "aiHeadline": "MinIO decides that 'free' was just a marketing ploy all along, now charging for Docker images because apparently, open-source is a joke."
+    "author": "tartoran",
+    "created_at": "2025-10-23T14:25:22Z",
+    "aiHeadline": "US government takes a stand against transparency by shutting down a website that dared to report on human rights abuses by US-armed foreign forces—because who needs accountability, right?"
   },
   {
-    "title": "Internet's biggest annoyance: Cookie laws should target browsers, not websites",
-    "url": "https://nednex.com/en/the-internets-biggest-annoyance-why-cookie-laws-should-target-browsers-not-websites/",
-    "points": 538,
-    "num_comments": 513,
+    "title": "Trump pardons convicted Binance founder",
+    "url": "https://www.wsj.com/finance/currencies/trump-pardons-convicted-binance-founder-7509bd63",
+    "points": 713,
+    "num_comments": 706,
     "tags": [
       "story",
-      "author_SweetSoftPillow",
-      "story_45667866"
-    ],
-    "author": "SweetSoftPillow",
-    "created_at": "2025-10-22T12:12:28Z",
-    "aiHeadline": "The internet's biggest annoyance? Cookie laws should target browsers, not websites—because what we really need is another layer of bureaucracy."
-  },
-  {
-    "title": "Greg Newby, CEO of Project Gutenberg Literary Archive Foundation, has died",
-    "url": "https://www.pgdp.net/wiki/In_Memoriam/gbnewby",
-    "points": 526,
-    "num_comments": 70,
-    "tags": [
-      "story",
-      "author_ron_k",
-      "story_45666510",
+      "author_cowboyscott",
+      "story_45683152",
       "front_page"
     ],
-    "author": "ron_k",
-    "created_at": "2025-10-22T09:05:21Z",
-    "aiHeadline": "Greg Newby, CEO of Project Gutenberg, has died, leaving the world without his invaluable contributions to free literature and a gaping hole in the digital library community—but at least his work will live on in our e-books, right?"
+    "author": "cowboyscott",
+    "created_at": "2025-10-23T15:41:48Z",
+    "aiHeadline": "In a shocking twist, Trump pardons the convicted Binance founder, proving that even in the crypto world, connections can get you out of hot water."
   },
   {
-    "title": "Scripts I wrote that I use all the time",
-    "url": "https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/",
-    "points": 465,
-    "num_comments": 165,
+    "title": "VST3 audio plugin format is now MIT",
+    "url": "https://forums.steinberg.net/t/vst-3-8-0-sdk-released/1011988",
+    "points": 622,
+    "num_comments": 160,
     "tags": [
       "story",
-      "author_speckx",
-      "story_45670052",
+      "author_rock_artist",
+      "story_45678549"
+    ],
+    "author": "rock_artist",
+    "created_at": "2025-10-23T05:48:02Z",
+    "aiHeadline": "VST3 audio plugin format goes open-source with MIT license—because who doesn't love free plugins and more creative freedom?"
+  },
+  {
+    "title": "What happened to Apple's legendary attention to detail?",
+    "url": "https://blog.johnozbay.com/what-happened-to-apples-attention-to-detail.html",
+    "points": 585,
+    "num_comments": 388,
+    "tags": [
+      "story",
+      "author_Bogdanp",
+      "story_45685551"
+    ],
+    "author": "Bogdanp",
+    "created_at": "2025-10-23T19:05:24Z",
+    "aiHeadline": "AI's questionable judgment leads to armed police swarming a student over a bag of Doritos—because nothing says 'I'm a threat' like a snack."
+  },
+  {
+    "title": "Armed police swarm student after AI mistakes bag of Doritos for a weapon",
+    "url": "https://www.dexerto.com/entertainment/armed-police-swarm-student-after-ai-mistakes-bag-of-doritos-for-a-weapon-3273512/",
+    "points": 464,
+    "num_comments": 290,
+    "tags": [
+      "story",
+      "author_antongribok",
+      "story_45684934",
       "front_page"
     ],
-    "author": "speckx",
-    "created_at": "2025-10-22T14:53:54Z",
-    "aiHeadline": "Scripts I wrote that I use all the time—because apparently, I'm too lazy to do anything manually, and my computer is my personal assistant now."
-  },
-  {
-    "title": "Meta is axing 600 roles across its AI division",
-    "url": "https://www.theverge.com/news/804253/meta-ai-research-layoffs-fair-superintelligence",
-    "points": 454,
-    "num_comments": 383,
-    "tags": [
-      "story",
-      "author_Lionga",
-      "story_45671778"
-    ],
-    "author": "Lionga",
-    "created_at": "2025-10-22T16:44:43Z",
-    "aiHeadline": "Meta is axing 600 roles across its AI division, proving that even AI can't save you from the corporate layoffs machine."
+    "author": "antongribok",
+    "created_at": "2025-10-23T18:09:37Z",
+    "aiHeadline": "Apple's legendary attention to detail? More like 'legendary' in the past tense—because who needs polished products when you can have a bunch of half-baked features?"
   }
 ]
