@@ -1,74 +1,75 @@
 [
   {
-    "title": "US axes website for reporting human rights abuses by US-armed foreign forces",
-    "url": "https://www.bbc.com/news/articles/cqx30vnwd4do",
-    "points": 722,
-    "num_comments": 389,
+    "title": "Typst 0.14",
+    "url": "https://typst.app/blog/2025/typst-0.14/",
+    "points": 534,
+    "num_comments": 142,
     "tags": [
       "story",
-      "author_tartoran",
-      "story_45682169"
-    ],
-    "author": "tartoran",
-    "created_at": "2025-10-23T14:25:22Z",
-    "aiHeadline": "US government takes a stand against transparency by shutting down a website that dared to report on human rights abuses by US-armed foreign forces—because who needs accountability, right?"
-  },
-  {
-    "title": "Trump pardons convicted Binance founder",
-    "url": "https://www.wsj.com/finance/currencies/trump-pardons-convicted-binance-founder-7509bd63",
-    "points": 713,
-    "num_comments": 706,
-    "tags": [
-      "story",
-      "author_cowboyscott",
-      "story_45683152",
+      "author_optionalsquid",
+      "story_45693978",
       "front_page"
     ],
-    "author": "cowboyscott",
-    "created_at": "2025-10-23T15:41:48Z",
-    "aiHeadline": "In a shocking twist, Trump pardons the convicted Binance founder, proving that even in the crypto world, connections can get you out of hot water."
+    "author": "optionalsquid",
+    "created_at": "2025-10-24T12:33:10Z",
+    "aiHeadline": "Typst 0.14 Released: Finally, a Version Number That Doesn’t Make Me Feel Old!"
   },
   {
-    "title": "VST3 audio plugin format is now MIT",
-    "url": "https://forums.steinberg.net/t/vst-3-8-0-sdk-released/1011988",
-    "points": 622,
-    "num_comments": 160,
+    "title": "Roc Camera",
+    "url": "https://roc.camera/",
+    "points": 521,
+    "num_comments": 447,
     "tags": [
       "story",
-      "author_rock_artist",
-      "story_45678549"
+      "author_martialg",
+      "story_45690251"
     ],
-    "author": "rock_artist",
-    "created_at": "2025-10-23T05:48:02Z",
-    "aiHeadline": "VST3 audio plugin format goes open-source with MIT license—because who doesn't love free plugins and more creative freedom?"
+    "author": "martialg",
+    "created_at": "2025-10-24T02:54:29Z",
+    "aiHeadline": "Roc Camera Launches: Because the World Needs Another Camera That Does Everything Except Cook Breakfast."
   },
   {
-    "title": "What happened to Apple's legendary attention to detail?",
-    "url": "https://blog.johnozbay.com/what-happened-to-apples-attention-to-detail.html",
-    "points": 585,
-    "num_comments": 388,
+    "title": "Computer science courses that don't exist, but should (2015)",
+    "url": "https://prog21.dadgum.com/210.html",
+    "points": 336,
+    "num_comments": 272,
     "tags": [
       "story",
-      "author_Bogdanp",
-      "story_45685551"
+      "author_wonger_",
+      "story_45690045"
     ],
-    "author": "Bogdanp",
-    "created_at": "2025-10-23T19:05:24Z",
-    "aiHeadline": "AI's questionable judgment leads to armed police swarming a student over a bag of Doritos—because nothing says 'I'm a threat' like a snack."
+    "author": "wonger_",
+    "created_at": "2025-10-24T02:22:07Z",
+    "aiHeadline": "‘Computer Science Courses That Don’t Exist, But Should’ (2015): Still Relevant, Because Who Doesn’t Want a Degree in ‘How to Avoid Work’?"
   },
   {
-    "title": "Armed police swarm student after AI mistakes bag of Doritos for a weapon",
-    "url": "https://www.dexerto.com/entertainment/armed-police-swarm-student-after-ai-mistakes-bag-of-doritos-for-a-weapon-3273512/",
-    "points": 464,
-    "num_comments": 290,
+    "title": "The Swift SDK for Android",
+    "url": "https://www.swift.org/blog/nightly-swift-sdk-for-android/",
+    "points": 335,
+    "num_comments": 134,
     "tags": [
       "story",
-      "author_antongribok",
-      "story_45684934",
+      "author_gok",
+      "story_45698570",
       "front_page"
     ],
-    "author": "antongribok",
-    "created_at": "2025-10-23T18:09:37Z",
-    "aiHeadline": "Apple's legendary attention to detail? More like 'legendary' in the past tense—because who needs polished products when you can have a bunch of half-baked features?"
+    "author": "gok",
+    "created_at": "2025-10-24T20:06:52Z",
+    "aiHeadline": "Swift SDK for Android: Because Who Needs Consistency When You Can Have Cross-Platform Confusion?"
+  },
+  {
+    "title": "'Attention is all you need' coauthor says he's 'sick' of transformers",
+    "url": "https://venturebeat.com/ai/sakana-ais-cto-says-hes-absolutely-sick-of-transformers-the-tech-that-powers",
+    "points": 333,
+    "num_comments": 174,
+    "tags": [
+      "story",
+      "author_achow",
+      "story_45690840",
+      "front_page"
+    ],
+    "author": "achow",
+    "created_at": "2025-10-24T04:40:31Z",
+    "aiHeadline": "'Attention Is All You Need' Coauthor Says He’s 'Sick' of Transformers: Because Apparently, Even AI Researchers Get Bored."
   }
 ]
