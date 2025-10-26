@@ -1,75 +1,73 @@
 [
   {
-    "title": "Typst 0.14",
-    "url": "https://typst.app/blog/2025/typst-0.14/",
-    "points": 534,
-    "num_comments": 142,
+    "title": "Synadia and TigerBeetle Commit $512k USD to the Zig Software Foundation",
+    "url": "https://www.synadia.com/blog/synadia-tigerbeetle-zig-foundation-pledge",
+    "points": 392,
+    "num_comments": 4,
     "tags": [
       "story",
-      "author_optionalsquid",
-      "story_45693978",
+      "author_derekcollison",
+      "story_45703716"
+    ],
+    "author": "derekcollison",
+    "created_at": "2025-10-25T13:24:14Z",
+    "aiHeadline": "Synadia and TigerBeetle throw more money at Zig Foundation, proving that throwing money at problems is the best way to solve them."
+  },
+  {
+    "title": "Meet the real screen addicts: the elderly",
+    "url": "https://www.economist.com/international/2025/10/23/meet-the-real-screen-addicts-the-elderly",
+    "points": 295,
+    "num_comments": 334,
+    "tags": [
+      "story",
+      "author_johntfella",
+      "story_45701305"
+    ],
+    "author": "johntfella",
+    "created_at": "2025-10-25T04:09:18Z",
+    "aiHeadline": "Elderly folks are the real screen addicts, because apparently, 'screen time' is now a thing for people who remember when screens were just TVs."
+  },
+  {
+    "title": "React vs. Backbone in 2025",
+    "url": "https://backbonenotbad.hyperclay.com/",
+    "points": 271,
+    "num_comments": 197,
+    "tags": [
+      "story",
+      "author_mjsu",
+      "story_45702558"
+    ],
+    "author": "mjsu",
+    "created_at": "2025-10-25T09:43:54Z",
+    "aiHeadline": "React vs. Backbone: because in 2025, we're still arguing about which JavaScript framework is better, and somehow React is still here."
+  },
+  {
+    "title": "Key IOCs for Pegasus and Predator Spyware Removed with iOS 26 Update",
+    "url": "https://iverify.io/blog/key-iocs-for-pegasus-and-predator-spyware-cleaned-with-ios-26-update",
+    "points": 216,
+    "num_comments": 156,
+    "tags": [
+      "story",
+      "author_transpute",
+      "story_45700946"
+    ],
+    "author": "transpute",
+    "created_at": "2025-10-25T02:31:55Z",
+    "aiHeadline": "Apple finally removes some spyware stuff in iOS 26, because apparently, 'security updates' are a thing that happen every now and then."
+  },
+  {
+    "title": "We do not have sufficient links to the UK for Online Safety Act to be applicable",
+    "url": "https://libera.chat/news/advised",
+    "points": 193,
+    "num_comments": 60,
+    "tags": [
+      "story",
+      "author_todsacerdoti",
+      "story_45705381",
       "front_page"
     ],
-    "author": "optionalsquid",
-    "created_at": "2025-10-24T12:33:10Z",
-    "aiHeadline": "Typst 0.14 Released: Finally, a Version Number That Doesn’t Make Me Feel Old!"
-  },
-  {
-    "title": "Roc Camera",
-    "url": "https://roc.camera/",
-    "points": 521,
-    "num_comments": 447,
-    "tags": [
-      "story",
-      "author_martialg",
-      "story_45690251"
-    ],
-    "author": "martialg",
-    "created_at": "2025-10-24T02:54:29Z",
-    "aiHeadline": "Roc Camera Launches: Because the World Needs Another Camera That Does Everything Except Cook Breakfast."
-  },
-  {
-    "title": "Computer science courses that don't exist, but should (2015)",
-    "url": "https://prog21.dadgum.com/210.html",
-    "points": 336,
-    "num_comments": 272,
-    "tags": [
-      "story",
-      "author_wonger_",
-      "story_45690045"
-    ],
-    "author": "wonger_",
-    "created_at": "2025-10-24T02:22:07Z",
-    "aiHeadline": "‘Computer Science Courses That Don’t Exist, But Should’ (2015): Still Relevant, Because Who Doesn’t Want a Degree in ‘How to Avoid Work’?"
-  },
-  {
-    "title": "The Swift SDK for Android",
-    "url": "https://www.swift.org/blog/nightly-swift-sdk-for-android/",
-    "points": 335,
-    "num_comments": 134,
-    "tags": [
-      "story",
-      "author_gok",
-      "story_45698570",
-      "front_page"
-    ],
-    "author": "gok",
-    "created_at": "2025-10-24T20:06:52Z",
-    "aiHeadline": "Swift SDK for Android: Because Who Needs Consistency When You Can Have Cross-Platform Confusion?"
-  },
-  {
-    "title": "'Attention is all you need' coauthor says he's 'sick' of transformers",
-    "url": "https://venturebeat.com/ai/sakana-ais-cto-says-hes-absolutely-sick-of-transformers-the-tech-that-powers",
-    "points": 333,
-    "num_comments": 174,
-    "tags": [
-      "story",
-      "author_achow",
-      "story_45690840",
-      "front_page"
-    ],
-    "author": "achow",
-    "created_at": "2025-10-24T04:40:31Z",
-    "aiHeadline": "'Attention Is All You Need' Coauthor Says He’s 'Sick' of Transformers: Because Apparently, Even AI Researchers Get Bored."
+    "author": "todsacerdoti",
+    "created_at": "2025-10-25T17:07:40Z",
+    "aiHeadline": "UK's Online Safety Act doesn't apply because we don't have enough links to the UK, proving that the internet is just a bunch of disconnected islands."
   }
 ]
