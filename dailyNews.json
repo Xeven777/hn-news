@@ -1,75 +1,77 @@
 [
   {
-    "title": "Using AI to negotiate a $195k hospital bill down to $33k",
-    "url": "https://www.threads.com/@nthmonkey/post/DQVdAD1gHhw",
-    "points": 800,
-    "num_comments": 720,
+    "title": "Keep Android Open",
+    "url": "http://keepandroidopen.org/",
+    "points": 2318,
+    "num_comments": 740,
     "tags": [
       "story",
-      "author_stevenhubertron",
-      "story_45734582",
+      "author_LorenDB",
+      "story_45742488",
       "front_page"
     ],
-    "author": "stevenhubertron",
-    "created_at": "2025-10-28T15:58:58Z",
-    "aiHeadline": "AI Negotiates Hospital Bill Down from $195k to $33k, Proving Robots Are Better at Haggling Than You Are"
+    "author": "LorenDB",
+    "created_at": "2025-10-29T04:03:41Z",
+    "aiHeadline": "Google's latest 'Keep Android Open' campaign is as believable as their 'Don't Be Evil' motto, which somehow still manages to make us all laugh in 2025."
   },
   {
-    "title": "What we talk about when we talk about sideloading",
-    "url": "https://f-droid.org/2025/10/28/sideloading.html",
-    "points": 688,
-    "num_comments": 326,
+    "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
+    "url": "https://emily.space/posts/251023-uv",
+    "points": 1095,
+    "num_comments": 642,
     "tags": [
       "story",
-      "author_rom1v",
-      "story_45736479",
+      "author_todsacerdoti",
+      "story_45751400",
       "front_page"
     ],
-    "author": "rom1v",
-    "created_at": "2025-10-28T18:02:36Z",
-    "aiHeadline": "Sideloading: The Secret Art of Installing Apps Without Actually Following Any Rules, Because Who Needs Guidelines Anyway?"
+    "author": "todsacerdoti",
+    "created_at": "2025-10-29T18:57:29Z",
+    "aiHeadline": "After a decade of Python tools that somehow manage to be both overcomplicated and underpowered, 'uv' finally arrives to save the day—probably by adding yet another layer of complexity we'll all hate in six months."
   },
   {
-    "title": "Washington Post editorials omit a key disclosure: Bezos' financial ties",
-    "url": "https://www.npr.org/2025/10/28/nx-s1-5587932/washington-post-editorials-omit-a-key-disclosure-bezos-financial-ties",
-    "points": 531,
-    "num_comments": 238,
+    "title": "Tell HN: Azure outage",
+    "points": 635,
+    "num_comments": 626,
     "tags": [
       "story",
-      "author_ilamont",
-      "story_45733197"
-    ],
-    "author": "ilamont",
-    "created_at": "2025-10-28T14:16:42Z",
-    "aiHeadline": "Washington Post Editorials Omit Bezos' Financial Ties, Because Obviously, a Billionaire Wouldn't Influence Editorial Decisions—Right?"
-  },
-  {
-    "title": "EuroLLM: LLM made in Europe built to support all 24 official EU languages",
-    "url": "https://eurollm.io/",
-    "points": 511,
-    "num_comments": 406,
-    "tags": [
-      "story",
-      "author_NotInOurNames",
-      "story_45733707",
+      "author_tartieret",
+      "story_45748661",
+      "ask_hn",
       "front_page"
     ],
-    "author": "NotInOurNames",
-    "created_at": "2025-10-28T14:58:04Z",
-    "aiHeadline": "EuroLLM: The Latest LLM Built in Europe, Because Apparently, Supporting 24 Languages Wasn't Ambitious Enough"
+    "author": "tartieret",
+    "created_at": "2025-10-29T16:01:18Z",
+    "aiHeadline": "Azure outage? Oh, that's just Microsoft's way of reminding us that even their cloud services can't escape the inevitable tech chaos, much like how Windows updates always break something important."
   },
   {
-    "title": "Austrian ministry kicks out Microsoft in favor of Nextcloud",
-    "url": "https://news.itsfoss.com/austrian-ministry-kicks-out-microsoft/",
-    "points": 409,
-    "num_comments": 93,
+    "title": "AWS to bare metal two years later: Answering your questions about leaving AWS",
+    "url": "https://oneuptime.com/blog/post/2025-10-29-aws-to-bare-metal-two-years-later/view",
+    "points": 602,
+    "num_comments": 424,
     "tags": [
       "story",
-      "author_buyucu",
-      "story_45732485"
+      "author_ndhandala",
+      "story_45745281",
+      "front_page"
     ],
-    "author": "buyucu",
-    "created_at": "2025-10-28T13:16:40Z",
-    "aiHeadline": "Austrian Ministry Ditches Microsoft for Nextcloud, Proving Once Again That Sometimes, You Just Need to Fire the Germans to Hire the Germans"
+    "author": "ndhandala",
+    "created_at": "2025-10-29T11:14:38Z",
+    "aiHeadline": "Two years later, a company finally leaves AWS and answers all our questions—except the one we really care about: 'Why did it take so long?'"
+  },
+  {
+    "title": "Minecraft removing obfuscation in Java Edition",
+    "url": "https://www.minecraft.net/en-us/article/removing-obfuscation-in-java-edition",
+    "points": 550,
+    "num_comments": 190,
+    "tags": [
+      "story",
+      "author_SteveHawk27",
+      "story_45748879",
+      "front_page"
+    ],
+    "author": "SteveHawk27",
+    "created_at": "2025-10-29T16:12:56Z",
+    "aiHeadline": "Minecraft removes obfuscation in Java Edition, making it easier for everyone to see how their code works—except, of course, for the mods that will now have an even harder time keeping up with the changes."
   }
 ]
