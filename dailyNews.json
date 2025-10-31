@@ -1,77 +1,76 @@
 [
   {
-    "title": "Keep Android Open",
-    "url": "http://keepandroidopen.org/",
-    "points": 2318,
-    "num_comments": 740,
+    "title": "Affinity Studio now free",
+    "url": "https://www.affinity.studio/get-affinity",
+    "points": 776,
+    "num_comments": 563,
     "tags": [
       "story",
-      "author_LorenDB",
-      "story_45742488",
+      "author_dagmx",
+      "story_45761445",
       "front_page"
     ],
-    "author": "LorenDB",
-    "created_at": "2025-10-29T04:03:41Z",
-    "aiHeadline": "Google's latest 'Keep Android Open' campaign is as believable as their 'Don't Be Evil' motto, which somehow still manages to make us all laugh in 2025."
+    "author": "dagmx",
+    "created_at": "2025-10-30T15:54:38Z",
+    "aiHeadline": "Professional-grade design software becomes free, proving that capitalism is just a phase and we're all just waiting for the inevitable collapse."
   },
   {
-    "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
-    "url": "https://emily.space/posts/251023-uv",
-    "points": 1095,
-    "num_comments": 642,
+    "title": "Free software scares normal people",
+    "url": "https://danieldelaney.net/normal/",
+    "points": 468,
+    "num_comments": 316,
     "tags": [
       "story",
-      "author_todsacerdoti",
-      "story_45751400",
+      "author_cryptophreak",
+      "story_45760878",
       "front_page"
     ],
-    "author": "todsacerdoti",
-    "created_at": "2025-10-29T18:57:29Z",
-    "aiHeadline": "After a decade of Python tools that somehow manage to be both overcomplicated and underpowered, 'uv' finally arrives to save the day—probably by adding yet another layer of complexity we'll all hate in six months."
+    "author": "cryptophreak",
+    "created_at": "2025-10-30T15:07:15Z",
+    "aiHeadline": "Why free software is the real horror story of 2025, according to people who panic at the sight of a free lunch."
   },
   {
-    "title": "Tell HN: Azure outage",
-    "points": 635,
-    "num_comments": 626,
+    "title": "The ear does not do a Fourier transform (2024)",
+    "url": "https://www.dissonances.blog/p/the-ear-does-not-do-a-fourier-transform",
+    "points": 348,
+    "num_comments": 116,
     "tags": [
       "story",
-      "author_tartieret",
-      "story_45748661",
-      "ask_hn",
+      "author_izhak",
+      "story_45762259",
       "front_page"
     ],
-    "author": "tartieret",
-    "created_at": "2025-10-29T16:01:18Z",
-    "aiHeadline": "Azure outage? Oh, that's just Microsoft's way of reminding us that even their cloud services can't escape the inevitable tech chaos, much like how Windows updates always break something important."
+    "author": "izhak",
+    "created_at": "2025-10-30T17:01:20Z",
+    "aiHeadline": "Scientists finally confirm what you already knew: your ears aren't math geniuses, and that's okay."
   },
   {
-    "title": "AWS to bare metal two years later: Answering your questions about leaving AWS",
-    "url": "https://oneuptime.com/blog/post/2025-10-29-aws-to-bare-metal-two-years-later/view",
-    "points": 602,
-    "num_comments": 424,
+    "title": "US declines to join more than 70 countries in signing UN cybercrime treaty",
+    "url": "https://therecord.media/us-declines-signing-cybercrime-treaty?",
+    "points": 318,
+    "num_comments": 198,
     "tags": [
       "story",
-      "author_ndhandala",
-      "story_45745281",
+      "author_pcaharrier",
+      "story_45760328",
       "front_page"
     ],
-    "author": "ndhandala",
-    "created_at": "2025-10-29T11:14:38Z",
-    "aiHeadline": "Two years later, a company finally leaves AWS and answers all our questions—except the one we really care about: 'Why did it take so long?'"
+    "author": "pcaharrier",
+    "created_at": "2025-10-30T14:22:44Z",
+    "aiHeadline": "US decides to sit out the UN cybercrime treaty, proving once again that they're just too cool to play along with the rest of the world."
   },
   {
-    "title": "Minecraft removing obfuscation in Java Edition",
-    "url": "https://www.minecraft.net/en-us/article/removing-obfuscation-in-java-edition",
-    "points": 550,
-    "num_comments": 190,
+    "title": "Ventoy: Create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI Files",
+    "url": "https://github.com/ventoy/Ventoy",
+    "points": 256,
+    "num_comments": 106,
     "tags": [
       "story",
-      "author_SteveHawk27",
-      "story_45748879",
-      "front_page"
+      "author_wilsonfiifi",
+      "story_45760340"
     ],
-    "author": "SteveHawk27",
-    "created_at": "2025-10-29T16:12:56Z",
-    "aiHeadline": "Minecraft removes obfuscation in Java Edition, making it easier for everyone to see how their code works—except, of course, for the mods that will now have an even harder time keeping up with the changes."
+    "author": "wilsonfiifi",
+    "created_at": "2025-10-30T14:23:57Z",
+    "aiHeadline": "Meet Ventoy: the ultimate tool for geeks who think burning ISOs is a fun Friday night activity."
   }
 ]
