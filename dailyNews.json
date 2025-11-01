@@ -1,76 +1,74 @@
 [
   {
-    "title": "Affinity Studio now free",
-    "url": "https://www.affinity.studio/get-affinity",
-    "points": 776,
-    "num_comments": 563,
+    "title": "Attention lapses due to sleep deprivation due to flushing fluid from brain",
+    "url": "https://news.mit.edu/2025/your-brain-without-sleep-1029",
+    "points": 512,
+    "num_comments": 250,
     "tags": [
       "story",
-      "author_dagmx",
-      "story_45761445",
+      "author_gmays",
+      "story_45771636",
       "front_page"
     ],
-    "author": "dagmx",
-    "created_at": "2025-10-30T15:54:38Z",
-    "aiHeadline": "Professional-grade design software becomes free, proving that capitalism is just a phase and we're all just waiting for the inevitable collapse."
+    "author": "gmays",
+    "created_at": "2025-10-31T13:14:23Z",
+    "aiHeadline": "Your Brain's Fluid Flush Might Be Why You're Acting Like a Zombie After Staying Up All Night"
   },
   {
-    "title": "Free software scares normal people",
-    "url": "https://danieldelaney.net/normal/",
-    "points": 468,
-    "num_comments": 316,
+    "title": "John Carmack on mutable variables",
+    "url": "https://twitter.com/id_aa_carmack/status/1983593511703474196",
+    "points": 465,
+    "num_comments": 547,
     "tags": [
       "story",
-      "author_cryptophreak",
-      "story_45760878",
+      "author_azhenley",
+      "story_45767725"
+    ],
+    "author": "azhenley",
+    "created_at": "2025-10-31T02:34:36Z",
+    "aiHeadline": "John Carmack Finally Admits Mutable Variables Are Like Trying to Tame a Toddler on Caffeine"
+  },
+  {
+    "title": "How OpenAI uses complex and circular deals to fuel its multibillion-dollar rise",
+    "url": "https://www.nytimes.com/interactive/2025/10/31/technology/openai-fundraising-deals.html",
+    "points": 366,
+    "num_comments": 376,
+    "tags": [
+      "story",
+      "author_reaperducer",
+      "story_45771538"
+    ],
+    "author": "reaperducer",
+    "created_at": "2025-10-31T13:03:46Z",
+    "aiHeadline": "OpenAI's Multibillion Dollar Rise: Because Who Doesn't Love a Good Game of Financial Chess with a Side of Red Tape?"
+  },
+  {
+    "title": "AMD could enter ARM market with Sound Wave APU built on TSMC 3nm process",
+    "url": "https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process/",
+    "points": 274,
+    "num_comments": 218,
+    "tags": [
+      "story",
+      "author_walterbell",
+      "story_45767916"
+    ],
+    "author": "walterbell",
+    "created_at": "2025-10-31T03:07:48Z",
+    "aiHeadline": "AMD's New Sound Wave APU: Because ARM Market Wasn't Chaotic Enough Without AMD Throwing Its Hat Into the Ring"
+  },
+  {
+    "title": "Futurelock: A subtle risk in async Rust",
+    "url": "https://rfd.shared.oxide.computer/rfd/0609",
+    "points": 251,
+    "num_comments": 104,
+    "tags": [
+      "story",
+      "author_bcantrill",
+      "story_45774086",
       "front_page"
     ],
-    "author": "cryptophreak",
-    "created_at": "2025-10-30T15:07:15Z",
-    "aiHeadline": "Why free software is the real horror story of 2025, according to people who panic at the sight of a free lunch."
-  },
-  {
-    "title": "The ear does not do a Fourier transform (2024)",
-    "url": "https://www.dissonances.blog/p/the-ear-does-not-do-a-fourier-transform",
-    "points": 348,
-    "num_comments": 116,
-    "tags": [
-      "story",
-      "author_izhak",
-      "story_45762259",
-      "front_page"
-    ],
-    "author": "izhak",
-    "created_at": "2025-10-30T17:01:20Z",
-    "aiHeadline": "Scientists finally confirm what you already knew: your ears aren't math geniuses, and that's okay."
-  },
-  {
-    "title": "US declines to join more than 70 countries in signing UN cybercrime treaty",
-    "url": "https://therecord.media/us-declines-signing-cybercrime-treaty?",
-    "points": 318,
-    "num_comments": 198,
-    "tags": [
-      "story",
-      "author_pcaharrier",
-      "story_45760328",
-      "front_page"
-    ],
-    "author": "pcaharrier",
-    "created_at": "2025-10-30T14:22:44Z",
-    "aiHeadline": "US decides to sit out the UN cybercrime treaty, proving once again that they're just too cool to play along with the rest of the world."
-  },
-  {
-    "title": "Ventoy: Create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI Files",
-    "url": "https://github.com/ventoy/Ventoy",
-    "points": 256,
-    "num_comments": 106,
-    "tags": [
-      "story",
-      "author_wilsonfiifi",
-      "story_45760340"
-    ],
-    "author": "wilsonfiifi",
-    "created_at": "2025-10-30T14:23:57Z",
-    "aiHeadline": "Meet Ventoy: the ultimate tool for geeks who think burning ISOs is a fun Friday night activity."
+    "author": "bcantrill",
+    "created_at": "2025-10-31T16:49:26Z",
+    "aiHeadline": "Futurelock in Async Rust: Because Nothing Says 'Good Morning' Like a Subtle Risk That'll Keep You Up All Night"
   }
 ]
