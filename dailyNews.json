@@ -1,76 +1,77 @@
 [
   {
-    "title": "You can't refuse to be scanned by ICE's facial recognition app, DHS document say",
-    "url": "https://www.404media.co/you-cant-refuse-to-be-scanned-by-ices-facial-recognition-app-dhs-document-says/",
-    "points": 473,
-    "num_comments": 333,
+    "title": "Linux gamers on Steam cross over the 3% mark",
+    "url": "https://www.gamingonlinux.com/2025/11/linux-gamers-on-steam-finally-cross-over-the-3-mark/",
+    "points": 584,
+    "num_comments": 344,
     "tags": [
       "story",
-      "author_nh43215rgb",
-      "story_45780228"
-    ],
-    "author": "nh43215rgb",
-    "created_at": "2025-11-01T08:58:54Z",
-    "aiHeadline": "You can't refuse to be scanned by ICE's facial recognition app, DHS document say: Maybe the Fourth Amendment is just a suggestion now?"
-  },
-  {
-    "title": "Chat Control proposal fails again after public opposition",
-    "url": "https://andreafortuna.org/2025/11/01/chat-control-proposal-fails-again-after-massive-public-opposition/",
-    "points": 447,
-    "num_comments": 118,
-    "tags": [
-      "story",
-      "author_speckx",
-      "story_45783114",
+      "author_haunter",
+      "story_45792503",
       "front_page"
     ],
-    "author": "speckx",
-    "created_at": "2025-11-01T16:42:57Z",
-    "aiHeadline": "Chat Control proposal fails again after public opposition: Proving once again that when the public says 'no,' maybe you should listen."
+    "author": "haunter",
+    "created_at": "2025-11-02T18:54:59Z",
+    "aiHeadline": "Linux Gamers on Steam Finally Cross 3% Market Share, Proving That Even Nerds Have Limits"
   },
   {
-    "title": "Updated practice for review articles and position papers in ArXiv CS category",
-    "url": "https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/",
-    "points": 413,
-    "num_comments": 196,
+    "title": "URLs are state containers",
+    "url": "https://alfy.blog/2025/10/31/your-url-is-your-state.html",
+    "points": 326,
+    "num_comments": 145,
     "tags": [
       "story",
-      "author_dw64",
-      "story_45782136",
+      "author_thm",
+      "story_45789474",
       "front_page"
     ],
-    "author": "dw64",
-    "created_at": "2025-11-01T14:58:05Z",
-    "aiHeadline": "Updated practice for review articles and position papers in ArXiv CS category: Now you can argue about the new rules instead of the old ones."
+    "author": "thm",
+    "created_at": "2025-11-02T11:12:58Z",
+    "aiHeadline": "URLs Are Now State Containers, Because Apparently Your Browser History Wasn't Creepy Enough Already"
   },
   {
-    "title": "Hard Rust requirements from May onward",
-    "url": "https://lists.debian.org/debian-devel/2025/10/msg00285.html",
-    "points": 328,
-    "num_comments": 569,
+    "title": "Notes by djb on using Fil-C",
+    "url": "https://cr.yp.to/2025/fil-c.html",
+    "points": 294,
+    "num_comments": 177,
     "tags": [
       "story",
-      "author_rkta",
-      "story_45779860",
+      "author_transpute",
+      "story_45788040",
       "front_page"
     ],
-    "author": "rkta",
-    "created_at": "2025-11-01T07:31:40Z",
-    "aiHeadline": "Hard Rust requirements from May onward: Debian is getting serious with Rust, so if you're not ready for the hard stuff, better start practicing."
+    "author": "transpute",
+    "created_at": "2025-11-02T05:32:02Z",
+    "aiHeadline": "djb Shares Notes on Using Fil-C, Because Apparently We All Need More Reasons to Feel Inadequate About Our Coding Skills"
   },
   {
-    "title": "Visible from space, Sudan's bloodied sands expose a massacre of thousands",
-    "url": "https://www.telegraph.co.uk/world-news/2025/10/28/sudan-bloodied-sands-massacre-thousands/",
-    "points": 259,
-    "num_comments": 95,
+    "title": "Backpropagation is a leaky abstraction (2016)",
+    "url": "https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b",
+    "points": 288,
+    "num_comments": 122,
     "tags": [
       "story",
-      "author_wslh",
-      "story_45783699",
+      "author_swatson741",
+      "story_45787993",
       "front_page"
     ],
-    "author": "wslh",
-    "created_at": "2025-11-01T17:50:38Z",
-    "aiHeadline": "Visible from space, Sudan's bloodied sands expose a massacre of thousands: Sometimes the worst news is literally out of this world."
+    "author": "swatson741",
+    "created_at": "2025-11-02T05:20:12Z",
+    "aiHeadline": "Backpropagation is a Leaky Abstraction, And We've Known This Since 2016, But Here's Another Article to Remind You How Little You Actually Understand About Machine Learning"
+  },
+  {
+    "title": "Tongyi DeepResearch – open-source 30B MoE Model that rivals OpenAI DeepResearch",
+    "url": "https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/",
+    "points": 244,
+    "num_comments": 93,
+    "tags": [
+      "story",
+      "author_meander_water",
+      "story_45789602",
+      "front_page"
+    ],
+    "author": "meander_water",
+    "created_at": "2025-11-02T11:43:26Z",
+    "aiHeadline": "Tongyi Releases Open-Source 30B MoE Model to Rival OpenAI, Because Apparently the World Needs Another AI Model That No One Will Actually Use"
   }
 ]
