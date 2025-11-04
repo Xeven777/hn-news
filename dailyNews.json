@@ -1,77 +1,75 @@
 [
   {
-    "title": "Linux gamers on Steam cross over the 3% mark",
-    "url": "https://www.gamingonlinux.com/2025/11/linux-gamers-on-steam-finally-cross-over-the-3-mark/",
-    "points": 584,
-    "num_comments": 344,
+    "title": "Tiny electric motor can produce more than 1,000 horsepower",
+    "url": "https://supercarblondie.com/electric-motor-yasa-more-powerful-tesla-mercedes/",
+    "points": 551,
+    "num_comments": 520,
     "tags": [
       "story",
-      "author_haunter",
-      "story_45792503",
-      "front_page"
+      "author_chris_overseas",
+      "story_45797242"
     ],
-    "author": "haunter",
-    "created_at": "2025-11-02T18:54:59Z",
-    "aiHeadline": "Linux Gamers on Steam Finally Cross 3% Market Share, Proving That Even Nerds Have Limits"
+    "author": "chris_overseas",
+    "created_at": "2025-11-03T09:20:01Z",
+    "aiHeadline": "Tiny electric motor outpaces your tea kettle with over 1,000 horsepower—because who needs a quiet morning, am I right?"
   },
   {
-    "title": "URLs are state containers",
-    "url": "https://alfy.blog/2025/10/31/your-url-is-your-state.html",
-    "points": 326,
-    "num_comments": 145,
+    "title": "Google suspended my company's Google cloud account for the third time",
+    "url": "https://www.agwa.name/blog/post/google_suspended_sslmates_cloud_account_again",
+    "points": 375,
+    "num_comments": 176,
     "tags": [
       "story",
-      "author_thm",
-      "story_45789474",
-      "front_page"
+      "author_agwa",
+      "story_45798827"
     ],
-    "author": "thm",
-    "created_at": "2025-11-02T11:12:58Z",
-    "aiHeadline": "URLs Are Now State Containers, Because Apparently Your Browser History Wasn't Creepy Enough Already"
+    "author": "agwa",
+    "created_at": "2025-11-03T13:39:18Z",
+    "aiHeadline": "Google Cloud: Because nothing says 'we're in charge' like suspending your account three times. Enjoy the outage!"
   },
   {
-    "title": "Notes by djb on using Fil-C",
-    "url": "https://cr.yp.to/2025/fil-c.html",
-    "points": 294,
-    "num_comments": 177,
+    "title": "Why Nextcloud feels slow to use",
+    "url": "https://ounapuu.ee/posts/2025/11/03/nextcloud-slow/",
+    "points": 364,
+    "num_comments": 286,
     "tags": [
       "story",
-      "author_transpute",
-      "story_45788040",
+      "author_rpgbr",
+      "story_45798681",
       "front_page"
     ],
-    "author": "transpute",
-    "created_at": "2025-11-02T05:32:02Z",
-    "aiHeadline": "djb Shares Notes on Using Fil-C, Because Apparently We All Need More Reasons to Feel Inadequate About Our Coding Skills"
+    "author": "rpgbr",
+    "created_at": "2025-11-03T13:21:09Z",
+    "aiHeadline": "Nextcloud: The app that makes your computer feel like a sloth on melatonin—because who doesn't love waiting for everything?"
   },
   {
-    "title": "Backpropagation is a leaky abstraction (2016)",
-    "url": "https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b",
-    "points": 288,
-    "num_comments": 122,
+    "title": "Ask HN: Who is hiring? (November 2025)",
+    "points": 290,
+    "num_comments": 324,
     "tags": [
       "story",
-      "author_swatson741",
-      "story_45787993",
+      "author_whoishiring",
+      "story_45800465",
+      "ask_hn",
       "front_page"
     ],
-    "author": "swatson741",
-    "created_at": "2025-11-02T05:20:12Z",
-    "aiHeadline": "Backpropagation is a Leaky Abstraction, And We've Known This Since 2016, But Here's Another Article to Remind You How Little You Actually Understand About Machine Learning"
+    "author": "whoishiring",
+    "created_at": "2025-11-03T16:00:00Z",
+    "aiHeadline": "Ask HN: Who's hiring? Because clearly, no one's hiring at your local coffee shop."
   },
   {
-    "title": "Tongyi DeepResearch – open-source 30B MoE Model that rivals OpenAI DeepResearch",
-    "url": "https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/",
-    "points": 244,
-    "num_comments": 93,
+    "title": "The Case Against PGVector",
+    "url": "https://alex-jacobs.com/posts/the-case-against-pgvector/",
+    "points": 269,
+    "num_comments": 103,
     "tags": [
       "story",
-      "author_meander_water",
-      "story_45789602",
+      "author_tacoooooooo",
+      "story_45798479",
       "front_page"
     ],
-    "author": "meander_water",
-    "created_at": "2025-11-02T11:43:26Z",
-    "aiHeadline": "Tongyi Releases Open-Source 30B MoE Model to Rival OpenAI, Because Apparently the World Needs Another AI Model That No One Will Actually Use"
+    "author": "tacoooooooo",
+    "created_at": "2025-11-03T12:50:27Z",
+    "aiHeadline": "PGVector: The vector database that proves you can overcomplicate even the simplest tasks—because who needs efficiency, right?"
   }
 ]
