@@ -1,76 +1,73 @@
 [
   {
-    "title": "Tell HN: X is opening any tweet link in a webview whether you press it or not",
-    "points": 559,
-    "num_comments": 476,
+    "title": "Zohran Mamdani wins the New York mayoral race",
+    "url": "https://www.nbcnews.com/politics/elections/new-york-city-mayor-election-winner-2025-race-rcna238909",
+    "points": 769,
+    "num_comments": 1066,
     "tags": [
       "story",
-      "author_stillatit",
-      "story_45807775",
-      "ask_hn",
+      "author_jsheard",
+      "story_45818421"
+    ],
+    "author": "jsheard",
+    "created_at": "2025-11-05T02:50:06Z",
+    "aiHeadline": "Zohran Mamdani takes the crown as New York's mayor, proving that sometimes, change is just a different flavor of the same old thing."
+  },
+  {
+    "title": "Solarpunk is happening in Africa",
+    "url": "https://climatedrift.substack.com/p/why-solarpunk-is-already-happening",
+    "points": 527,
+    "num_comments": 258,
+    "tags": [
+      "story",
+      "author_JoiDegn",
+      "story_45827190",
       "front_page"
     ],
-    "author": "stillatit",
-    "created_at": "2025-11-04T05:53:02Z",
-    "aiHeadline": "X is now forcing you to view tweets in a webview, whether you like it or not—because apparently, you can't make your own choices anymore."
+    "author": "JoiDegn",
+    "created_at": "2025-11-05T20:00:40Z",
+    "aiHeadline": "Solarpunk isn't just a genre anymore—Africa's leading the charge into a sustainable future, while the rest of us are still figuring out how to unplug our phones."
   },
   {
-    "title": "My Truck Desk",
-    "url": "https://www.theparisreview.org/blog/2025/10/29/truck-desk/",
-    "points": 420,
-    "num_comments": 110,
+    "title": "YouTube erased more than 700 videos documenting Israeli human rights violations",
+    "url": "https://theintercept.com/2025/11/04/youtube-google-israel-palestine-human-rights-censorship/",
+    "points": 392,
+    "num_comments": 118,
     "tags": [
       "story",
-      "author_zdw",
-      "story_45806903"
+      "author_rzk",
+      "story_45822018"
     ],
-    "author": "zdw",
-    "created_at": "2025-11-04T02:37:01Z",
-    "aiHeadline": "Meet the truck desk: because working from home isn't quirky enough, now you can do it from a moving vehicle—commuting and procrastinating in one convenient package!"
+    "author": "rzk",
+    "created_at": "2025-11-05T12:13:08Z",
+    "aiHeadline": "YouTube deletes over 700 videos about Israeli human rights violations, because nothing says 'free speech' like selectively silencing uncomfortable truths."
   },
   {
-    "title": "What is a manifold?",
-    "url": "https://www.quantamagazine.org/what-is-a-manifold-20251103/",
-    "points": 331,
-    "num_comments": 117,
+    "title": "I’m worried that they put co-pilot in Excel",
+    "url": "https://simonwillison.net/2025/Nov/5/brenda/",
+    "points": 385,
+    "num_comments": 293,
     "tags": [
       "story",
       "author_isaacfrond",
-      "story_45809193",
-      "front_page"
+      "story_45820872"
     ],
     "author": "isaacfrond",
-    "created_at": "2025-11-04T09:58:14Z",
-    "aiHeadline": "What is a manifold? Well, now you can find out, because clearly, you've been living your whole life without this knowledge and it's been a terrible burden."
+    "created_at": "2025-11-05T08:54:11Z",
+    "aiHeadline": "Co-pilot gets a new seat—in Excel. Because clearly, we needed AI to help us with our spreadsheets, and nothing else was more important."
   },
   {
-    "title": "NoLongerEvil-Thermostat – Nest Generation 1 and 2 Firmware",
-    "url": "https://github.com/codykociemba/NoLongerEvil-Thermostat",
-    "points": 308,
-    "num_comments": 109,
+    "title": "Direct File won't happen in 2026, IRS tells states",
+    "url": "https://www.nextgov.com/digital-government/2025/11/direct-file-wont-happen-2026-irs-tells-states/409309/",
+    "points": 326,
+    "num_comments": 223,
     "tags": [
       "story",
-      "author_mukti",
-      "story_45813343",
-      "front_page"
+      "author_jhatax",
+      "story_45818319"
     ],
-    "author": "mukti",
-    "created_at": "2025-11-04T17:10:35Z",
-    "aiHeadline": "NoLongerEvil-Thermostat: because your Nest thermostat needs to know it's not evil anymore—because apparently, thermostats have feelings now."
-  },
-  {
-    "title": "This Day in 1988, the Morris worm infected 10% of the Internet within 24 hours",
-    "url": "https://www.tomshardware.com/tech-industry/cyber-security/on-this-day-in-1988-the-morris-worm-slithered-out-and-sparked-a-new-era-in-cybersecurity-10-percent-of-the-internet-was-infected-within-24-hours",
-    "points": 298,
-    "num_comments": 143,
-    "tags": [
-      "story",
-      "author_canucker2016",
-      "story_45812024",
-      "front_page"
-    ],
-    "author": "canucker2016",
-    "created_at": "2025-11-04T15:23:14Z",
-    "aiHeadline": "This Day in 1988: The Morris worm proved that even back then, the internet could be ruined by a single person's curiosity—and we're still dealing with the aftermath."
+    "author": "jhatax",
+    "created_at": "2025-11-05T02:30:38Z",
+    "aiHeadline": "IRS tells states to forget about Direct File in 2026, because waiting until the last minute is a tradition, not a problem."
   }
 ]
