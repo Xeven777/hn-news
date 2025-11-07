@@ -1,73 +1,75 @@
 [
   {
-    "title": "Zohran Mamdani wins the New York mayoral race",
-    "url": "https://www.nbcnews.com/politics/elections/new-york-city-mayor-election-winner-2025-race-rcna238909",
-    "points": 769,
-    "num_comments": 1066,
+    "title": "End of Japanese community",
+    "url": "https://support.mozilla.org/en-US/forums/contributors/717446",
+    "points": 909,
+    "num_comments": 715,
     "tags": [
       "story",
-      "author_jsheard",
-      "story_45818421"
+      "author_phantomathkg",
+      "story_45830770"
     ],
-    "author": "jsheard",
-    "created_at": "2025-11-05T02:50:06Z",
-    "aiHeadline": "Zohran Mamdani takes the crown as New York's mayor, proving that sometimes, change is just a different flavor of the same old thing."
+    "author": "phantomathkg",
+    "created_at": "2025-11-06T02:38:53Z",
+    "aiHeadline": "Japanese community on Mozilla's support forum officially calls it quits, leaving behind a legacy of... well, not much, really."
   },
   {
-    "title": "Solarpunk is happening in Africa",
-    "url": "https://climatedrift.substack.com/p/why-solarpunk-is-already-happening",
-    "points": 527,
-    "num_comments": 258,
+    "title": "Ratatui – App Showcase",
+    "url": "https://ratatui.rs/showcase/apps/",
+    "points": 706,
+    "num_comments": 201,
     "tags": [
       "story",
-      "author_JoiDegn",
-      "story_45827190",
+      "author_AbuAssar",
+      "story_45830829"
+    ],
+    "author": "AbuAssar",
+    "created_at": "2025-11-06T02:50:31Z",
+    "aiHeadline": "Ratatui showcase: because who doesn't want their terminal to look like a rat's kitchen? Now with more CLI flair!"
+  },
+  {
+    "title": "FBI tries to unmask owner of archive.is",
+    "url": "https://www.heise.de/en/news/Archive-today-FBI-Demands-Data-from-Provider-Tucows-11066346.html",
+    "points": 685,
+    "num_comments": 361,
+    "tags": [
+      "story",
+      "author_Projectiboga",
+      "story_45836826",
       "front_page"
     ],
-    "author": "JoiDegn",
-    "created_at": "2025-11-05T20:00:40Z",
-    "aiHeadline": "Solarpunk isn't just a genre anymore—Africa's leading the charge into a sustainable future, while the rest of us are still figuring out how to unplug our phones."
+    "author": "Projectiboga",
+    "created_at": "2025-11-06T16:18:18Z",
+    "aiHeadline": "FBI's latest move: unmasking the elusive archive.is owner. Because nothing says 'fun' like a game of digital hide and seek with the law."
   },
   {
-    "title": "YouTube erased more than 700 videos documenting Israeli human rights violations",
-    "url": "https://theintercept.com/2025/11/04/youtube-google-israel-palestine-human-rights-censorship/",
-    "points": 392,
-    "num_comments": 118,
+    "title": "Kimi K2 Thinking, a SOTA open-source trillion-parameter reasoning model",
+    "url": "https://moonshotai.github.io/Kimi-K2/thinking.html",
+    "points": 574,
+    "num_comments": 230,
     "tags": [
       "story",
-      "author_rzk",
-      "story_45822018"
+      "author_nekofneko",
+      "story_45836070",
+      "front_page"
     ],
-    "author": "rzk",
-    "created_at": "2025-11-05T12:13:08Z",
-    "aiHeadline": "YouTube deletes over 700 videos about Israeli human rights violations, because nothing says 'free speech' like selectively silencing uncomfortable truths."
+    "author": "nekofneko",
+    "created_at": "2025-11-06T15:06:06Z",
+    "aiHeadline": "Kimi K2 Thinking: because one trillion parameters are just enough to make you question the meaning of life... and your RAM usage."
   },
   {
-    "title": "I’m worried that they put co-pilot in Excel",
-    "url": "https://simonwillison.net/2025/Nov/5/brenda/",
-    "points": 385,
-    "num_comments": 293,
+    "title": "ICC ditches Microsoft 365 for openDesk",
+    "url": "https://www.binnenlandsbestuur.nl/digitaal/internationaal-strafhof-neemt-afscheid-van-microsoft-365",
+    "points": 529,
+    "num_comments": 163,
     "tags": [
       "story",
-      "author_isaacfrond",
-      "story_45820872"
+      "author_vincvinc",
+      "story_45837342",
+      "front_page"
     ],
-    "author": "isaacfrond",
-    "created_at": "2025-11-05T08:54:11Z",
-    "aiHeadline": "Co-pilot gets a new seat—in Excel. Because clearly, we needed AI to help us with our spreadsheets, and nothing else was more important."
-  },
-  {
-    "title": "Direct File won't happen in 2026, IRS tells states",
-    "url": "https://www.nextgov.com/digital-government/2025/11/direct-file-wont-happen-2026-irs-tells-states/409309/",
-    "points": 326,
-    "num_comments": 223,
-    "tags": [
-      "story",
-      "author_jhatax",
-      "story_45818319"
-    ],
-    "author": "jhatax",
-    "created_at": "2025-11-05T02:30:38Z",
-    "aiHeadline": "IRS tells states to forget about Direct File in 2026, because waiting until the last minute is a tradition, not a problem."
+    "author": "vincvinc",
+    "created_at": "2025-11-06T16:57:55Z",
+    "aiHeadline": "ICC switches from Microsoft 365 to openDesk: because who needs proprietary software when you can have open-source greatness? Now with 100% more freedom and 0% less PowerPoint templates."
   }
 ]
