@@ -1,75 +1,72 @@
 [
   {
-    "title": "End of Japanese community",
-    "url": "https://support.mozilla.org/en-US/forums/contributors/717446",
-    "points": 909,
-    "num_comments": 715,
+    "title": "Leaving Meta and PyTorch",
+    "url": "https://soumith.ch/blog/2025-11-06-leaving-meta-and-pytorch.md.html",
+    "points": 670,
+    "num_comments": 162,
     "tags": [
       "story",
-      "author_phantomathkg",
-      "story_45830770"
+      "author_saikatsg",
+      "story_45843948"
     ],
-    "author": "phantomathkg",
-    "created_at": "2025-11-06T02:38:53Z",
-    "aiHeadline": "Japanese community on Mozilla's support forum officially calls it quits, leaving behind a legacy of... well, not much, really."
+    "author": "saikatsg",
+    "created_at": "2025-11-07T06:14:50Z",
+    "aiHeadline": "Saying Goodbye to Meta and PyTorch: One Person's Journey from Big Tech to Bigger Questions."
   },
   {
-    "title": "Ratatui – App Showcase",
-    "url": "https://ratatui.rs/showcase/apps/",
-    "points": 706,
-    "num_comments": 201,
+    "title": "Meta projected 10% of 2024 revenue came from scams",
+    "url": "https://sherwood.news/tech/meta-projected-10-of-2024-revenue-came-from-scams-and-banned-goods-reuters/",
+    "points": 639,
+    "num_comments": 474,
     "tags": [
       "story",
-      "author_AbuAssar",
-      "story_45830829"
+      "author_donohoe",
+      "story_45845772"
     ],
-    "author": "AbuAssar",
-    "created_at": "2025-11-06T02:50:31Z",
-    "aiHeadline": "Ratatui showcase: because who doesn't want their terminal to look like a rat's kitchen? Now with more CLI flair!"
+    "author": "donohoe",
+    "created_at": "2025-11-07T12:39:54Z",
+    "aiHeadline": "Meta's 2024 Revenue: 10% from Scams, 90% from Your Naivety—A Business Model That's as Transparent as Their Algorithms."
   },
   {
-    "title": "FBI tries to unmask owner of archive.is",
-    "url": "https://www.heise.de/en/news/Archive-today-FBI-Demands-Data-from-Provider-Tucows-11066346.html",
-    "points": 685,
-    "num_comments": 361,
+    "title": "A Fond Farewell",
+    "url": "https://www.farmersalmanac.com/fond-farewell-from-farmers-almanac",
+    "points": 549,
+    "num_comments": 198,
     "tags": [
       "story",
-      "author_Projectiboga",
-      "story_45836826",
-      "front_page"
+      "author_erhuve",
+      "story_45843146"
     ],
-    "author": "Projectiboga",
-    "created_at": "2025-11-06T16:18:18Z",
-    "aiHeadline": "FBI's latest move: unmasking the elusive archive.is owner. Because nothing says 'fun' like a game of digital hide and seek with the law."
+    "author": "erhuve",
+    "created_at": "2025-11-07T03:01:32Z",
+    "aiHeadline": "Farewell to the Farmers' Almanac: Because Who Needs Weather Predictions When You've Got Climate Change?"
   },
   {
-    "title": "Kimi K2 Thinking, a SOTA open-source trillion-parameter reasoning model",
-    "url": "https://moonshotai.github.io/Kimi-K2/thinking.html",
-    "points": 574,
-    "num_comments": 230,
+    "title": "Rockstar employee shares account of the company's union-busting efforts",
+    "url": "https://gtaforums.com/topic/1004182-rockstar-games-alleged-union-busting/",
+    "points": 457,
+    "num_comments": 304,
     "tags": [
       "story",
-      "author_nekofneko",
-      "story_45836070",
-      "front_page"
+      "author_mrzool",
+      "story_45849281"
     ],
-    "author": "nekofneko",
-    "created_at": "2025-11-06T15:06:06Z",
-    "aiHeadline": "Kimi K2 Thinking: because one trillion parameters are just enough to make you question the meaning of life... and your RAM usage."
+    "author": "mrzool",
+    "created_at": "2025-11-07T18:22:09Z",
+    "aiHeadline": "Rockstar Employee Spills the Tea: How the Company Tried to Bust Unions While Keeping the Party Going."
   },
   {
-    "title": "ICC ditches Microsoft 365 for openDesk",
-    "url": "https://www.binnenlandsbestuur.nl/digitaal/internationaal-strafhof-neemt-afscheid-van-microsoft-365",
-    "points": 529,
-    "num_comments": 163,
+    "title": "Vodafone Germany is killing the open internet – one peering connection at a time",
+    "url": "https://coffee.link/vodafone-germany-is-killing-the-open-internet-one-peering-connection-at-a-time/",
+    "points": 431,
+    "num_comments": 168,
     "tags": [
       "story",
-      "author_vincvinc",
-      "story_45837342",
-      "front_page"
+      "author_PhilKunz",
+      "story_45848484"
     ],
-    "author": "vincvinc",
-    "created_at": "2025-11-06T16:57:55Z",
-    "aiHeadline": "ICC switches from Microsoft 365 to openDesk: because who needs proprietary software when you can have open-source greatness? Now with 100% more freedom and 0% less PowerPoint templates."
+    "author": "PhilKunz",
+    "created_at": "2025-11-07T17:05:06Z",
+    "aiHeadline": "Vodafone Germany: One by One, They're Peering Their Way to a Closed-Door Internet Party."
   }
 ]
