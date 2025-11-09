@@ -1,72 +1,74 @@
 [
   {
-    "title": "Leaving Meta and PyTorch",
-    "url": "https://soumith.ch/blog/2025-11-06-leaving-meta-and-pytorch.md.html",
-    "points": 670,
-    "num_comments": 162,
+    "title": "I Want You to Understand Chicago",
+    "url": "https://aphyr.com/posts/397-i-want-you-to-understand-chicago",
+    "points": 534,
+    "num_comments": 269,
     "tags": [
       "story",
-      "author_saikatsg",
-      "story_45843948"
+      "author_tonyg",
+      "story_45859402"
     ],
-    "author": "saikatsg",
-    "created_at": "2025-11-07T06:14:50Z",
-    "aiHeadline": "Saying Goodbye to Meta and PyTorch: One Person's Journey from Big Tech to Bigger Questions."
+    "author": "tonyg",
+    "created_at": "2025-11-08T19:47:26Z",
+    "aiHeadline": "I Want You to Understand Chicago: A City’s Heartfelt Plea to Be Seen Beyond Stereotypes"
   },
   {
-    "title": "Meta projected 10% of 2024 revenue came from scams",
-    "url": "https://sherwood.news/tech/meta-projected-10-of-2024-revenue-came-from-scams-and-banned-goods-reuters/",
-    "points": 639,
-    "num_comments": 474,
+    "title": "Ticker: Don't die of heart disease",
+    "url": "https://myticker.com/",
+    "points": 386,
+    "num_comments": 340,
     "tags": [
       "story",
-      "author_donohoe",
-      "story_45845772"
+      "author_colelyman",
+      "story_45857053",
+      "front_page"
     ],
-    "author": "donohoe",
-    "created_at": "2025-11-07T12:39:54Z",
-    "aiHeadline": "Meta's 2024 Revenue: 10% from Scams, 90% from Your Naivety—A Business Model That's as Transparent as Their Algorithms."
+    "author": "colelyman",
+    "created_at": "2025-11-08T14:59:05Z",
+    "aiHeadline": "Ticker: Don't Die of Heart Disease – Because Dying of Boredom is Already Bad Enough"
   },
   {
-    "title": "A Fond Farewell",
-    "url": "https://www.farmersalmanac.com/fond-farewell-from-farmers-almanac",
-    "points": 549,
-    "num_comments": 198,
+    "title": "Study identifies weaknesses in how AI systems are evaluated",
+    "url": "https://www.oii.ox.ac.uk/news-events/study-identifies-weaknesses-in-how-ai-systems-are-evaluated/",
+    "points": 295,
+    "num_comments": 154,
     "tags": [
       "story",
-      "author_erhuve",
-      "story_45843146"
+      "author_pseudolus",
+      "story_45856804",
+      "front_page"
     ],
-    "author": "erhuve",
-    "created_at": "2025-11-07T03:01:32Z",
-    "aiHeadline": "Farewell to the Farmers' Almanac: Because Who Needs Weather Predictions When You've Got Climate Change?"
+    "author": "pseudolus",
+    "created_at": "2025-11-08T14:18:22Z",
+    "aiHeadline": "Study Identifies Weaknesses in AI Evaluation: Basically, We’re All Just winging It"
   },
   {
-    "title": "Rockstar employee shares account of the company's union-busting efforts",
-    "url": "https://gtaforums.com/topic/1004182-rockstar-games-alleged-union-busting/",
-    "points": 457,
-    "num_comments": 304,
+    "title": "My friends and I accidentally faked the Ryzen 7 9700X3D leaks",
+    "url": "https://old.reddit.com/r/pcmasterrace/comments/1orc6jl/my_friends_and_i_accidentally_faked_the_ryzen_7/",
+    "points": 272,
+    "num_comments": 65,
     "tags": [
       "story",
-      "author_mrzool",
-      "story_45849281"
+      "author_djrockstar1",
+      "story_45855933"
     ],
-    "author": "mrzool",
-    "created_at": "2025-11-07T18:22:09Z",
-    "aiHeadline": "Rockstar Employee Spills the Tea: How the Company Tried to Bust Unions While Keeping the Party Going."
+    "author": "djrockstar1",
+    "created_at": "2025-11-08T11:27:56Z",
+    "aiHeadline": "My Friends and I Accidentally Faked the Ryzen 7 9700X3D Leaks – And Now We’re Basically Tech Legends"
   },
   {
-    "title": "Vodafone Germany is killing the open internet – one peering connection at a time",
-    "url": "https://coffee.link/vodafone-germany-is-killing-the-open-internet-one-peering-connection-at-a-time/",
-    "points": 431,
+    "title": "Apple's \"notarisation\" – blocking software freedom of developers and users",
+    "url": "https://fsfe.org/news/2025/news-20251105-01.en.html",
+    "points": 265,
     "num_comments": 168,
     "tags": [
       "story",
-      "author_PhilKunz",
-      "story_45848484"
+      "author_DavideNL",
+      "story_45854441"
     ],
-    "author": "PhilKunz",
-    "created_at": "2025-11-07T17:05:06Z",
-    "aiHeadline": "Vodafone Germany: One by One, They're Peering Their Way to a Closed-Door Internet Party."
+    "author": "DavideNL",
+    "created_at": "2025-11-08T05:37:08Z",
+    "aiHeadline": "Apple’s 'Notarisation' – Because Who Needs Software Freedom When You Can Have a Little Dictator in Your Mac?"
   }
 ]
