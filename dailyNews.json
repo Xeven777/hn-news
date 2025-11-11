@@ -1,74 +1,74 @@
 [
   {
-    "title": "I Am Mark Zuckerberg",
-    "url": "https://iammarkzuckerberg.com/",
-    "points": 1121,
-    "num_comments": 391,
+    "title": "XSLT RIP",
+    "url": "https://xslt.rip/",
+    "points": 643,
+    "num_comments": 421,
     "tags": [
       "story",
-      "author_jb1991",
-      "story_45863360"
+      "author_edent",
+      "story_45873434"
     ],
-    "author": "jb1991",
-    "created_at": "2025-11-09T06:13:05Z",
-    "aiHeadline": "Mark Zuckerberg finally reveals his true personality—spoiler: it's exactly what you'd expect from the guy who created Facebook."
+    "author": "edent",
+    "created_at": "2025-11-10T07:39:36Z",
+    "aiHeadline": "XSLT takes its final bow, or maybe it's just taking a nap—either way, it's definitely not coming back."
   },
   {
-    "title": "AI isn't replacing jobs. AI spending is",
-    "url": "https://www.fastcompany.com/91435192/chatgpt-llm-openai-jobs-amazon",
-    "points": 583,
-    "num_comments": 420,
+    "title": "Unexpected things that are people",
+    "url": "https://bengoldhaber.substack.com/p/unexpected-things-that-are-people",
+    "points": 448,
+    "num_comments": 220,
     "tags": [
       "story",
-      "author_felineflock",
-      "story_45866243"
-    ],
-    "author": "felineflock",
-    "created_at": "2025-11-09T15:30:23Z",
-    "aiHeadline": "AI isn't taking your job—unless you're in charge of wasting money on overpriced AI solutions."
-  },
-  {
-    "title": "Marble Fountain",
-    "url": "https://willmorrison.net/posts/marble-fountain/",
-    "points": 490,
-    "num_comments": 55,
-    "tags": [
-      "story",
-      "author_chris_overseas",
-      "story_45866697",
+      "author_lindowe",
+      "story_45877257",
       "front_page"
     ],
-    "author": "chris_overseas",
-    "created_at": "2025-11-09T16:26:09Z",
-    "aiHeadline": "Forget about water—this guy built a marble fountain so expensive it could've funded a small country's infrastructure."
+    "author": "lindowe",
+    "created_at": "2025-11-10T16:05:46Z",
+    "aiHeadline": "You thought your pet rock was just a rock? Think again, buddy."
   },
   {
-    "title": "Montana becomes first state to enshrine 'right to compute' into law",
-    "url": "https://montananewsroom.com/montana-becomes-first-state-to-enshrine-right-to-compute-into-law/",
-    "points": 336,
-    "num_comments": 169,
+    "title": "LLMs are steroids for your Dunning-Kruger",
+    "url": "https://bytesauna.com/post/dunning-kruger",
+    "points": 320,
+    "num_comments": 253,
     "tags": [
       "story",
-      "author_bilsbie",
-      "story_45865289",
+      "author_gridentio",
+      "story_45876744"
+    ],
+    "author": "gridentio",
+    "created_at": "2025-11-10T15:14:05Z",
+    "aiHeadline": "LLMs: because nothing says 'I'm an expert' like a chatbot that doesn't know what it's talking about."
+  },
+  {
+    "title": "Time to start de-Appling",
+    "url": "https://heatherburns.tech/2025/11/10/time-to-start-de-appling/",
+    "points": 295,
+    "num_comments": 216,
+    "tags": [
+      "story",
+      "author_msangi",
+      "story_45876598"
+    ],
+    "author": "msangi",
+    "created_at": "2025-11-10T14:57:26Z",
+    "aiHeadline": "It's time to break up with Apple—because who needs another device that just tells you to charge it?"
+  },
+  {
+    "title": "Redmond, WA, turns off Flock Safety cameras after ICE arrests",
+    "url": "https://www.seattletimes.com/seattle-news/law-justice/redmond-turns-off-flock-safety-cameras-after-ice-arrests/",
+    "points": 264,
+    "num_comments": 277,
+    "tags": [
+      "story",
+      "author_dredmorbius",
+      "story_45879101",
       "front_page"
     ],
-    "author": "bilsbie",
-    "created_at": "2025-11-09T13:03:36Z",
-    "aiHeadline": "Montana just became the first state to legally guarantee your right to compute—because nothing says 'freedom' like endless tech debates."
-  },
-  {
-    "title": "Tabloid: The Clickbait Headline Programming Language",
-    "url": "https://tabloid.vercel.app/",
-    "points": 300,
-    "num_comments": 45,
-    "tags": [
-      "story",
-      "author_sadeshmukh",
-      "story_45862470"
-    ],
-    "author": "sadeshmukh",
-    "created_at": "2025-11-09T02:53:45Z",
-    "aiHeadline": "Introducing Tabloid: the programming language that finally makes writing clickbait headlines as easy as 1, 2, 3."
+    "author": "dredmorbius",
+    "created_at": "2025-11-10T18:30:06Z",
+    "aiHeadline": "Redmond shuts down safety cameras after ICE raids—because who needs safety when you're busy arresting people?"
   }
 ]
