@@ -1,74 +1,75 @@
 [
   {
-    "title": "XSLT RIP",
-    "url": "https://xslt.rip/",
-    "points": 643,
-    "num_comments": 421,
+    "title": "The 'Toy Story' You Remember",
+    "url": "https://animationobsessive.substack.com/p/the-toy-story-you-remember",
+    "points": 1094,
+    "num_comments": 315,
     "tags": [
       "story",
-      "author_edent",
-      "story_45873434"
+      "author_ani_obsessive",
+      "story_45883788"
     ],
-    "author": "edent",
-    "created_at": "2025-11-10T07:39:36Z",
-    "aiHeadline": "XSLT takes its final bow, or maybe it's just taking a nap—either way, it's definitely not coming back."
+    "author": "ani_obsessive",
+    "created_at": "2025-11-11T03:17:43Z",
+    "aiHeadline": "Remember when Toy Story was just about toys and not a billion-dollar franchise? Turns out, even your childhood favorites can't escape the corporate machine."
   },
   {
-    "title": "Unexpected things that are people",
-    "url": "https://bengoldhaber.substack.com/p/unexpected-things-that-are-people",
-    "points": 448,
-    "num_comments": 220,
+    "title": "FFmpeg to Google: Fund us or stop sending bugs",
+    "url": "https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/",
+    "points": 502,
+    "num_comments": 383,
     "tags": [
       "story",
-      "author_lindowe",
-      "story_45877257",
+      "author_CrankyBear",
+      "story_45891016",
       "front_page"
     ],
-    "author": "lindowe",
-    "created_at": "2025-11-10T16:05:46Z",
-    "aiHeadline": "You thought your pet rock was just a rock? Think again, buddy."
+    "author": "CrankyBear",
+    "created_at": "2025-11-11T18:32:11Z",
+    "aiHeadline": "FFmpeg tells Google: 'Either fund us or stop spamming us with bugs—seriously, we're not your free tech support.'"
   },
   {
-    "title": "LLMs are steroids for your Dunning-Kruger",
-    "url": "https://bytesauna.com/post/dunning-kruger",
-    "points": 320,
-    "num_comments": 253,
+    "title": "iPhone Pocket",
+    "url": "https://www.apple.com/newsroom/2025/11/introducing-iphone-pocket-a-beautiful-way-to-wear-and-carry-iphone/",
+    "points": 429,
+    "num_comments": 1090,
     "tags": [
       "story",
-      "author_gridentio",
-      "story_45876744"
-    ],
-    "author": "gridentio",
-    "created_at": "2025-11-10T15:14:05Z",
-    "aiHeadline": "LLMs: because nothing says 'I'm an expert' like a chatbot that doesn't know what it's talking about."
-  },
-  {
-    "title": "Time to start de-Appling",
-    "url": "https://heatherburns.tech/2025/11/10/time-to-start-de-appling/",
-    "points": 295,
-    "num_comments": 216,
-    "tags": [
-      "story",
-      "author_msangi",
-      "story_45876598"
-    ],
-    "author": "msangi",
-    "created_at": "2025-11-10T14:57:26Z",
-    "aiHeadline": "It's time to break up with Apple—because who needs another device that just tells you to charge it?"
-  },
-  {
-    "title": "Redmond, WA, turns off Flock Safety cameras after ICE arrests",
-    "url": "https://www.seattletimes.com/seattle-news/law-justice/redmond-turns-off-flock-safety-cameras-after-ice-arrests/",
-    "points": 264,
-    "num_comments": 277,
-    "tags": [
-      "story",
-      "author_dredmorbius",
-      "story_45879101",
+      "author_soheilpro",
+      "story_45885813",
       "front_page"
     ],
-    "author": "dredmorbius",
-    "created_at": "2025-11-10T18:30:06Z",
-    "aiHeadline": "Redmond shuts down safety cameras after ICE raids—because who needs safety when you're busy arresting people?"
+    "author": "soheilpro",
+    "created_at": "2025-11-11T10:17:57Z",
+    "aiHeadline": "Apple introduces the iPhone Pocket: because carrying your phone in your hand wasn't inconvenient enough, right?"
+  },
+  {
+    "title": "SoftBank sells its entire stake in Nvidia",
+    "url": "https://www.cnbc.com/2025/11/11/softbank-sells-its-entire-stake-in-nvidia-for-5point83-billion.html",
+    "points": 299,
+    "num_comments": 193,
+    "tags": [
+      "story",
+      "author_mfiguiere",
+      "story_45884937"
+    ],
+    "author": "mfiguiere",
+    "created_at": "2025-11-11T07:32:06Z",
+    "aiHeadline": "SoftBank sells entire stake in Nvidia: because who needs to make money when you can just buy and sell companies for fun?"
+  },
+  {
+    "title": "Collaboration sucks",
+    "url": "https://newsletter.posthog.com/p/collaboration-sucks",
+    "points": 296,
+    "num_comments": 174,
+    "tags": [
+      "story",
+      "author_Kinrany",
+      "story_45892394",
+      "front_page"
+    ],
+    "author": "Kinrany",
+    "created_at": "2025-11-11T20:27:38Z",
+    "aiHeadline": "Collaboration sucks: because nothing says 'teamwork' like endless meetings, conflicting opinions, and somehow always ending up with a worse result than if you'd just done it alone."
   }
 ]
