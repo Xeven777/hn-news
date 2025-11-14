@@ -1,76 +1,75 @@
 [
   {
-    "title": "Steam Machine",
-    "url": "https://store.steampowered.com/sale/steammachine",
-    "points": 1348,
-    "num_comments": 691,
+    "title": "Checkout.com hacked, refuses ransom payment, donates to security labs",
+    "url": "https://www.checkout.com/blog/protecting-our-merchants-standing-up-to-extortion",
+    "points": 547,
+    "num_comments": 240,
     "tags": [
       "story",
-      "author_davikr",
-      "story_45903404",
+      "author_StrangeSound",
+      "story_45912698",
       "front_page"
     ],
-    "author": "davikr",
-    "created_at": "2025-11-12T17:59:43Z",
-    "aiHeadline": "Steam Machine: Because who doesn't want to spend $500 on a gaming machine that looks like a mini fridge?"
+    "author": "StrangeSound",
+    "created_at": "2025-11-13T09:23:30Z",
+    "aiHeadline": "Checkout.com gets hacked, refuses to pay ransom, and instead donates to security labs—because why not throw good money after bad?"
   },
   {
-    "title": "Steam Frame",
-    "url": "https://store.steampowered.com/sale/steamframe",
-    "points": 974,
-    "num_comments": 361,
+    "title": "Zed is our office",
+    "url": "https://zed.dev/blog/zed-is-our-office",
+    "points": 469,
+    "num_comments": 233,
     "tags": [
       "story",
-      "author_Philpax",
-      "story_45903325",
+      "author_sagacity",
+      "story_45916196",
       "front_page"
     ],
-    "author": "Philpax",
-    "created_at": "2025-11-12T17:54:58Z",
-    "aiHeadline": "Steam Frame: Now you can frame your gaming experience with this new Steam product, because who doesn't need another frame in their life?"
+    "author": "sagacity",
+    "created_at": "2025-11-13T15:41:26Z",
+    "aiHeadline": "Zed is now our office—because who needs a physical location when you can just be a software tool?"
   },
   {
-    "title": "Yt-dlp: External JavaScript runtime now required for full YouTube support",
-    "url": "https://github.com/yt-dlp/yt-dlp/issues/15012",
-    "points": 867,
-    "num_comments": 527,
+    "title": "Britain's railway privatization was an abject failure",
+    "url": "https://www.rosalux.de/en/news/id/53917/britains-railway-privatization-was-an-abject-failure",
+    "points": 450,
+    "num_comments": 405,
     "tags": [
       "story",
-      "author_bertman",
-      "story_45898407",
+      "author_robtherobber",
+      "story_45914718"
+    ],
+    "author": "robtherobber",
+    "created_at": "2025-11-13T13:34:38Z",
+    "aiHeadline": "Britain's railway privatization: a triumph of incompetence, delivered with precision and flair."
+  },
+  {
+    "title": "Nano Banana can be prompt engineered for nuanced AI image generation",
+    "url": "https://minimaxir.com/2025/11/nano-banana-prompts/",
+    "points": 441,
+    "num_comments": 114,
+    "tags": [
+      "story",
+      "author_minimaxir",
+      "story_45917875",
       "front_page"
     ],
-    "author": "bertman",
-    "created_at": "2025-11-12T10:12:53Z",
-    "aiHeadline": "Yt-dlp: Now requiring an external JavaScript runtime because apparently, your computer isn't complicated enough yet."
+    "author": "minimaxir",
+    "created_at": "2025-11-13T17:39:13Z",
+    "aiHeadline": "Nano Banana proves that even the smallest AI can still manage to be a bit of a banana in the world of image generation."
   },
   {
-    "title": "Yann LeCun to depart Meta and launch AI startup focused on 'world models'",
-    "url": "https://www.nasdaq.com/articles/metas-chief-ai-scientist-yann-lecun-depart-and-launch-ai-start-focused-world-models",
-    "points": 799,
-    "num_comments": 610,
+    "title": "My dad could still be alive, but he's not",
+    "url": "https://www.jenn.site/my-dad-could-still-be-alive-but-hes-not/",
+    "points": 433,
+    "num_comments": 294,
     "tags": [
       "story",
-      "author_MindBreaker2605",
-      "story_45897271"
+      "author_DustinEchoes",
+      "story_45909667"
     ],
-    "author": "MindBreaker2605",
-    "created_at": "2025-11-12T07:25:30Z",
-    "aiHeadline": "Yann LeCun Leaves Meta: Because who needs a big company when you can start your own AI startup and call it 'world models'?"
-  },
-  {
-    "title": "The last-ever penny will be minted today in Philadelphia",
-    "url": "https://www.cnn.com/2025/11/12/business/last-penny-minted",
-    "points": 559,
-    "num_comments": 743,
-    "tags": [
-      "story",
-      "author_andrewl",
-      "story_45901904",
-      "front_page"
-    ],
-    "author": "andrewl",
-    "created_at": "2025-11-12T16:10:13Z",
-    "aiHeadline": "Last Penny Minted: Because who needs pennies when we can just round up to the nearest dollar and pretend we're living in a cashless utopia."
+    "author": "DustinEchoes",
+    "created_at": "2025-11-13T02:17:30Z",
+    "aiHeadline": "My dad could still be alive, but he's not—because apparently, life has a sense of humor that I don't quite get."
   }
 ]
