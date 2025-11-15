@@ -1,75 +1,76 @@
 [
   {
-    "title": "Checkout.com hacked, refuses ransom payment, donates to security labs",
-    "url": "https://www.checkout.com/blog/protecting-our-merchants-standing-up-to-extortion",
-    "points": 547,
-    "num_comments": 240,
+    "title": "I think nobody wants AI in Firefox, Mozilla",
+    "url": "https://manualdousuario.net/en/mozilla-firefox-window-ai/",
+    "points": 1144,
+    "num_comments": 675,
     "tags": [
       "story",
-      "author_StrangeSound",
-      "story_45912698",
+      "author_rpgbr",
+      "story_45926779"
+    ],
+    "author": "rpgbr",
+    "created_at": "2025-11-14T14:05:00Z",
+    "aiHeadline": "Mozilla Thinks Adding AI to Firefox is a Great Idea, and the Internet is Not Surprised"
+  },
+  {
+    "title": "AI World Clocks",
+    "url": "https://clocks.brianmoore.com/",
+    "points": 662,
+    "num_comments": 261,
+    "tags": [
+      "story",
+      "author_waxpancake",
+      "story_45930151",
       "front_page"
     ],
-    "author": "StrangeSound",
-    "created_at": "2025-11-13T09:23:30Z",
-    "aiHeadline": "Checkout.com gets hacked, refuses to pay ransom, and instead donates to security labs—because why not throw good money after bad?"
+    "author": "waxpancake",
+    "created_at": "2025-11-14T18:35:22Z",
+    "aiHeadline": "AI-Driven Clocks: Because Regular Clocks Weren't Sarcastic Enough Already"
   },
   {
-    "title": "Zed is our office",
-    "url": "https://zed.dev/blog/zed-is-our-office",
-    "points": 469,
-    "num_comments": 233,
+    "title": "AGI fantasy is a blocker to actual engineering",
+    "url": "https://www.tomwphillips.co.uk/2025/11/agi-fantasy-is-a-blocker-to-actual-engineering/",
+    "points": 544,
+    "num_comments": 547,
     "tags": [
       "story",
-      "author_sagacity",
-      "story_45916196",
+      "author_tomwphillips",
+      "story_45926469",
       "front_page"
     ],
-    "author": "sagacity",
-    "created_at": "2025-11-13T15:41:26Z",
-    "aiHeadline": "Zed is now our office—because who needs a physical location when you can just be a software tool?"
+    "author": "tomwphillips",
+    "created_at": "2025-11-14T13:21:24Z",
+    "aiHeadline": "AGI Fantasy is Blocking Actual Engineering, Which is Basically the Plot of Every Sci-Fi Movie Ever"
   },
   {
-    "title": "Britain's railway privatization was an abject failure",
-    "url": "https://www.rosalux.de/en/news/id/53917/britains-railway-privatization-was-an-abject-failure",
-    "points": 450,
-    "num_comments": 405,
+    "title": "The disguised return of EU Chat Control",
+    "url": "https://reclaimthenet.org/the-disguised-return-of-the-eus-private-message-scanning-plot",
+    "points": 510,
+    "num_comments": 217,
     "tags": [
       "story",
-      "author_robtherobber",
-      "story_45914718"
-    ],
-    "author": "robtherobber",
-    "created_at": "2025-11-13T13:34:38Z",
-    "aiHeadline": "Britain's railway privatization: a triumph of incompetence, delivered with precision and flair."
-  },
-  {
-    "title": "Nano Banana can be prompt engineered for nuanced AI image generation",
-    "url": "https://minimaxir.com/2025/11/nano-banana-prompts/",
-    "points": 441,
-    "num_comments": 114,
-    "tags": [
-      "story",
-      "author_minimaxir",
-      "story_45917875",
+      "author_egorfine",
+      "story_45929511",
       "front_page"
     ],
-    "author": "minimaxir",
-    "created_at": "2025-11-13T17:39:13Z",
-    "aiHeadline": "Nano Banana proves that even the smallest AI can still manage to be a bit of a banana in the world of image generation."
+    "author": "egorfine",
+    "created_at": "2025-11-14T17:54:07Z",
+    "aiHeadline": "The EU is Back with Chat Control, but This Time They’re Wearing a Disguise and Hoping No One Notices"
   },
   {
-    "title": "My dad could still be alive, but he's not",
-    "url": "https://www.jenn.site/my-dad-could-still-be-alive-but-hes-not/",
-    "points": 433,
-    "num_comments": 294,
+    "title": "Being poor vs. being broke",
+    "url": "https://blog.ctms.me/posts/2025-11-14-being-poor-or-being-broke/",
+    "points": 383,
+    "num_comments": 459,
     "tags": [
       "story",
-      "author_DustinEchoes",
-      "story_45909667"
+      "author_speckx",
+      "story_45928912",
+      "front_page"
     ],
-    "author": "DustinEchoes",
-    "created_at": "2025-11-13T02:17:30Z",
-    "aiHeadline": "My dad could still be alive, but he's not—because apparently, life has a sense of humor that I don't quite get."
+    "author": "speckx",
+    "created_at": "2025-11-14T17:08:15Z",
+    "aiHeadline": "Being Poor vs. Being Broke: A Guide to Understanding the Subtle Differences in Financial Misery"
   }
 ]
