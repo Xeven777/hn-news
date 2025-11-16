@@ -1,76 +1,75 @@
 [
   {
-    "title": "I think nobody wants AI in Firefox, Mozilla",
-    "url": "https://manualdousuario.net/en/mozilla-firefox-window-ai/",
-    "points": 1144,
-    "num_comments": 675,
+    "title": "Our investigation into the suspicious pressure on Archive.today",
+    "url": "https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html",
+    "points": 1312,
+    "num_comments": 360,
     "tags": [
       "story",
-      "author_rpgbr",
-      "story_45926779"
-    ],
-    "author": "rpgbr",
-    "created_at": "2025-11-14T14:05:00Z",
-    "aiHeadline": "Mozilla Thinks Adding AI to Firefox is a Great Idea, and the Internet is Not Surprised"
-  },
-  {
-    "title": "AI World Clocks",
-    "url": "https://clocks.brianmoore.com/",
-    "points": 662,
-    "num_comments": 261,
-    "tags": [
-      "story",
-      "author_waxpancake",
-      "story_45930151",
+      "author_immibis",
+      "story_45936460",
       "front_page"
     ],
-    "author": "waxpancake",
-    "created_at": "2025-11-14T18:35:22Z",
-    "aiHeadline": "AI-Driven Clocks: Because Regular Clocks Weren't Sarcastic Enough Already"
+    "author": "immibis",
+    "created_at": "2025-11-15T10:30:52Z",
+    "aiHeadline": "Archive.today under pressure: because who doesn't love a good conspiracy theory?"
   },
   {
-    "title": "AGI fantasy is a blocker to actual engineering",
-    "url": "https://www.tomwphillips.co.uk/2025/11/agi-fantasy-is-a-blocker-to-actual-engineering/",
-    "points": 544,
-    "num_comments": 547,
+    "title": "TCP, the workhorse of the internet",
+    "url": "https://cefboud.com/posts/tcp-deep-dive-internals/",
+    "points": 278,
+    "num_comments": 138,
     "tags": [
       "story",
-      "author_tomwphillips",
-      "story_45926469",
+      "author_signa11",
+      "story_45935503",
       "front_page"
     ],
-    "author": "tomwphillips",
-    "created_at": "2025-11-14T13:21:24Z",
-    "aiHeadline": "AGI Fantasy is Blocking Actual Engineering, Which is Basically the Plot of Every Sci-Fi Movie Ever"
+    "author": "signa11",
+    "created_at": "2025-11-15T06:37:50Z",
+    "aiHeadline": "TCP: the workhorse of the internet, because apparently, we need a metaphorical uncle who never takes a vacation."
   },
   {
-    "title": "The disguised return of EU Chat Control",
-    "url": "https://reclaimthenet.org/the-disguised-return-of-the-eus-private-message-scanning-plot",
-    "points": 510,
-    "num_comments": 217,
+    "title": "AMD GPUs Go Brrr",
+    "url": "https://hazyresearch.stanford.edu/blog/2025-11-09-amd-brr",
+    "points": 249,
+    "num_comments": 88,
     "tags": [
       "story",
-      "author_egorfine",
-      "story_45929511",
-      "front_page"
+      "author_vinhnx",
+      "story_45934416"
     ],
-    "author": "egorfine",
-    "created_at": "2025-11-14T17:54:07Z",
-    "aiHeadline": "The EU is Back with Chat Control, but This Time They’re Wearing a Disguise and Hoping No One Notices"
+    "author": "vinhnx",
+    "created_at": "2025-11-15T02:06:16Z",
+    "aiHeadline": "AMD GPUs go 'brrr': because silence is overrated, apparently."
   },
   {
-    "title": "Being poor vs. being broke",
-    "url": "https://blog.ctms.me/posts/2025-11-14-being-poor-or-being-broke/",
-    "points": 383,
-    "num_comments": 459,
+    "title": "I can't recommend Grafana anymore",
+    "url": "https://henrikgerdes.me/blog/2025-11-grafana-mess/",
+    "points": 221,
+    "num_comments": 93,
     "tags": [
       "story",
-      "author_speckx",
-      "story_45928912",
+      "author_gpi",
+      "story_45934940"
+    ],
+    "author": "gpi",
+    "created_at": "2025-11-15T03:58:01Z",
+    "aiHeadline": "Grafana: now officially the worst tool ever, because who needs a reliable monitoring system, right?"
+  },
+  {
+    "title": "Messing with scraper bots",
+    "url": "https://herman.bearblog.dev/messing-with-bots/",
+    "points": 203,
+    "num_comments": 72,
+    "tags": [
+      "story",
+      "author_HermanMartinus",
+      "story_45935729",
       "front_page"
     ],
-    "author": "speckx",
-    "created_at": "2025-11-14T17:08:15Z",
-    "aiHeadline": "Being Poor vs. Being Broke: A Guide to Understanding the Subtle Differences in Financial Misery"
+    "author": "HermanMartinus",
+    "created_at": "2025-11-15T07:38:18Z",
+    "aiHeadline": "Scraper bots: because nothing says 'fun' like trying to outsmart automated scripts."
   }
 ]
