@@ -1,75 +1,76 @@
 [
   {
-    "title": "Our investigation into the suspicious pressure on Archive.today",
-    "url": "https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html",
-    "points": 1312,
-    "num_comments": 360,
+    "title": "Anthropic’s paper smells like bullshit",
+    "url": "https://djnn.sh/posts/anthropic-s-paper-smells-like-bullshit/",
+    "points": 847,
+    "num_comments": 262,
     "tags": [
       "story",
-      "author_immibis",
-      "story_45936460",
+      "author_vxvxvx",
+      "story_45944296",
       "front_page"
     ],
-    "author": "immibis",
-    "created_at": "2025-11-15T10:30:52Z",
-    "aiHeadline": "Archive.today under pressure: because who doesn't love a good conspiracy theory?"
+    "author": "vxvxvx",
+    "created_at": "2025-11-16T11:32:39Z",
+    "aiHeadline": "Anthropic's groundbreaking paper is so full of hot air, it's making everyone's bullshit detector go off like a fire alarm."
   },
   {
-    "title": "TCP, the workhorse of the internet",
-    "url": "https://cefboud.com/posts/tcp-deep-dive-internals/",
-    "points": 278,
-    "num_comments": 138,
+    "title": "Heretic: Automatic censorship removal for language models",
+    "url": "https://github.com/p-e-w/heretic",
+    "points": 398,
+    "num_comments": 157,
     "tags": [
       "story",
-      "author_signa11",
-      "story_45935503",
+      "author_melded",
+      "story_45945587",
       "front_page"
     ],
-    "author": "signa11",
-    "created_at": "2025-11-15T06:37:50Z",
-    "aiHeadline": "TCP: the workhorse of the internet, because apparently, we need a metaphorical uncle who never takes a vacation."
+    "author": "melded",
+    "created_at": "2025-11-16T15:00:24Z",
+    "aiHeadline": "Finally, a tool to uncensor AI's thoughts—because clearly, they were holding back all the good stuff."
   },
   {
-    "title": "AMD GPUs Go Brrr",
-    "url": "https://hazyresearch.stanford.edu/blog/2025-11-09-amd-brr",
-    "points": 249,
-    "num_comments": 88,
+    "title": "Maybe you’re not trying",
+    "url": "https://usefulfictions.substack.com/p/maybe-youre-not-actually-trying",
+    "points": 366,
+    "num_comments": 156,
     "tags": [
       "story",
-      "author_vinhnx",
-      "story_45934416"
+      "author_eatitraw",
+      "story_45943979"
     ],
-    "author": "vinhnx",
-    "created_at": "2025-11-15T02:06:16Z",
-    "aiHeadline": "AMD GPUs go 'brrr': because silence is overrated, apparently."
+    "author": "eatitraw",
+    "created_at": "2025-11-16T10:14:25Z",
+    "aiHeadline": "Are you really trying? Apparently, you're not, according to this article that's basically your life's autobiography."
   },
   {
-    "title": "I can't recommend Grafana anymore",
-    "url": "https://henrikgerdes.me/blog/2025-11-grafana-mess/",
-    "points": 221,
-    "num_comments": 93,
+    "title": "Open-source Zig book",
+    "url": "https://www.zigbook.net",
+    "points": 345,
+    "num_comments": 119,
     "tags": [
       "story",
-      "author_gpi",
-      "story_45934940"
-    ],
-    "author": "gpi",
-    "created_at": "2025-11-15T03:58:01Z",
-    "aiHeadline": "Grafana: now officially the worst tool ever, because who needs a reliable monitoring system, right?"
-  },
-  {
-    "title": "Messing with scraper bots",
-    "url": "https://herman.bearblog.dev/messing-with-bots/",
-    "points": 203,
-    "num_comments": 72,
-    "tags": [
-      "story",
-      "author_HermanMartinus",
-      "story_45935729",
+      "author_rudedogg",
+      "story_45947810",
       "front_page"
     ],
-    "author": "HermanMartinus",
-    "created_at": "2025-11-15T07:38:18Z",
-    "aiHeadline": "Scraper bots: because nothing says 'fun' like trying to outsmart automated scripts."
+    "author": "rudedogg",
+    "created_at": "2025-11-16T19:44:27Z",
+    "aiHeadline": "The ultimate guide to learning Zig, now open-source—because who needs paid resources when you can have a community-built masterpiece?"
+  },
+  {
+    "title": "I have recordings proving Coinbase knew about breach months before disclosure",
+    "url": "https://jonathanclark.com/posts/coinbase-breach-timeline.html",
+    "points": 323,
+    "num_comments": 110,
+    "tags": [
+      "story",
+      "author_jclarkcom",
+      "story_45948058",
+      "front_page"
+    ],
+    "author": "jclarkcom",
+    "created_at": "2025-11-16T20:18:10Z",
+    "aiHeadline": "Coinbase: masters of transparency, because nothing says 'we're on top of this' like hiding it for months and then getting caught."
   }
 ]
