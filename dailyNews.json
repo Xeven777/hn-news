@@ -1,76 +1,73 @@
 [
   {
-    "title": "Anthropic’s paper smells like bullshit",
-    "url": "https://djnn.sh/posts/anthropic-s-paper-smells-like-bullshit/",
-    "points": 847,
-    "num_comments": 262,
+    "title": "Google is killing the open web, part 2",
+    "url": "https://wok.oblomov.eu/tecnologia/google-killing-open-web-2/",
+    "points": 337,
+    "num_comments": 289,
     "tags": [
       "story",
-      "author_vxvxvx",
-      "story_45944296",
-      "front_page"
+      "author_akagusu",
+      "story_45954560"
     ],
-    "author": "vxvxvx",
-    "created_at": "2025-11-16T11:32:39Z",
-    "aiHeadline": "Anthropic's groundbreaking paper is so full of hot air, it's making everyone's bullshit detector go off like a fire alarm."
+    "author": "akagusu",
+    "created_at": "2025-11-17T15:41:08Z",
+    "aiHeadline": "Google is at it again, this time with part 2 of their quest to kill the open web—because one wasn't enough, apparently."
   },
   {
-    "title": "Heretic: Automatic censorship removal for language models",
-    "url": "https://github.com/p-e-w/heretic",
-    "points": 398,
-    "num_comments": 157,
+    "title": "Israeli-founded app preloaded on Samsung phones is attracting controversy",
+    "url": "https://www.sammobile.com/news/israeli-app-app-cloud-samsung-phones-controversy/",
+    "points": 324,
+    "num_comments": 243,
     "tags": [
       "story",
-      "author_melded",
-      "story_45945587",
-      "front_page"
+      "author_croes",
+      "story_45955424"
     ],
-    "author": "melded",
-    "created_at": "2025-11-16T15:00:24Z",
-    "aiHeadline": "Finally, a tool to uncensor AI's thoughts—because clearly, they were holding back all the good stuff."
+    "author": "croes",
+    "created_at": "2025-11-17T16:54:53Z",
+    "aiHeadline": "Samsung preloads yet another app that's about to become the talk of the town—controversy edition!"
   },
   {
-    "title": "Maybe you’re not trying",
-    "url": "https://usefulfictions.substack.com/p/maybe-youre-not-actually-trying",
-    "points": 366,
-    "num_comments": 156,
+    "title": "Replicate is joining Cloudflare",
+    "url": "https://replicate.com/blog/replicate-cloudflare",
+    "points": 262,
+    "num_comments": 60,
     "tags": [
       "story",
-      "author_eatitraw",
-      "story_45943979"
+      "author_bfirsh",
+      "story_45953702"
     ],
-    "author": "eatitraw",
-    "created_at": "2025-11-16T10:14:25Z",
-    "aiHeadline": "Are you really trying? Apparently, you're not, according to this article that's basically your life's autobiography."
+    "author": "bfirsh",
+    "created_at": "2025-11-17T14:11:57Z",
+    "aiHeadline": "Replicate joins forces with Cloudflare in a move that's sure to confuse everyone, including their competitors."
   },
   {
-    "title": "Open-source Zig book",
-    "url": "https://www.zigbook.net",
-    "points": 345,
-    "num_comments": 119,
+    "title": "Building a Simple Search Engine That Works",
+    "url": "https://karboosx.net/post/4eZxhBon/building-a-simple-search-engine-that-actually-works",
+    "points": 251,
+    "num_comments": 76,
     "tags": [
       "story",
-      "author_rudedogg",
-      "story_45947810",
-      "front_page"
+      "author_freediver",
+      "story_45950720"
     ],
-    "author": "rudedogg",
-    "created_at": "2025-11-16T19:44:27Z",
-    "aiHeadline": "The ultimate guide to learning Zig, now open-source—because who needs paid resources when you can have a community-built masterpiece?"
+    "author": "freediver",
+    "created_at": "2025-11-17T03:52:50Z",
+    "aiHeadline": "Building a simple search engine that actually works? Shocking, right?"
   },
   {
-    "title": "I have recordings proving Coinbase knew about breach months before disclosure",
-    "url": "https://jonathanclark.com/posts/coinbase-breach-timeline.html",
-    "points": 323,
-    "num_comments": 110,
+    "title": "FreeMDU: Open-source Miele appliance diagnostic tools",
+    "url": "https://github.com/medusalix/FreeMDU",
+    "points": 246,
+    "num_comments": 63,
     "tags": [
       "story",
-      "author_jclarkcom",
-      "story_45948058",
+      "author_Medusalix",
+      "story_45953452",
       "front_page"
     ],
-    "author": "jclarkcom",
-    "created_at": "2025-11-16T20:18:10Z",
-    "aiHeadline": "Coinbase: masters of transparency, because nothing says 'we're on top of this' like hiding it for months and then getting caught."
+    "author": "Medusalix",
+    "created_at": "2025-11-17T13:40:40Z",
+    "aiHeadline": "FreeMDU: Open-source tools for diagnosing Miele appliances—because proprietary software was just too much to handle."
   }
 ]
