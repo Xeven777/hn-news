@@ -1,73 +1,76 @@
 [
   {
-    "title": "Google is killing the open web, part 2",
-    "url": "https://wok.oblomov.eu/tecnologia/google-killing-open-web-2/",
-    "points": 337,
-    "num_comments": 289,
+    "title": "Cloudflare Global Network experiencing issues",
+    "url": "https://www.cloudflarestatus.com/incidents/8gmgl950y3h7",
+    "points": 2310,
+    "num_comments": 1591,
     "tags": [
       "story",
-      "author_akagusu",
-      "story_45954560"
-    ],
-    "author": "akagusu",
-    "created_at": "2025-11-17T15:41:08Z",
-    "aiHeadline": "Google is at it again, this time with part 2 of their quest to kill the open web—because one wasn't enough, apparently."
-  },
-  {
-    "title": "Israeli-founded app preloaded on Samsung phones is attracting controversy",
-    "url": "https://www.sammobile.com/news/israeli-app-app-cloud-samsung-phones-controversy/",
-    "points": 324,
-    "num_comments": 243,
-    "tags": [
-      "story",
-      "author_croes",
-      "story_45955424"
-    ],
-    "author": "croes",
-    "created_at": "2025-11-17T16:54:53Z",
-    "aiHeadline": "Samsung preloads yet another app that's about to become the talk of the town—controversy edition!"
-  },
-  {
-    "title": "Replicate is joining Cloudflare",
-    "url": "https://replicate.com/blog/replicate-cloudflare",
-    "points": 262,
-    "num_comments": 60,
-    "tags": [
-      "story",
-      "author_bfirsh",
-      "story_45953702"
-    ],
-    "author": "bfirsh",
-    "created_at": "2025-11-17T14:11:57Z",
-    "aiHeadline": "Replicate joins forces with Cloudflare in a move that's sure to confuse everyone, including their competitors."
-  },
-  {
-    "title": "Building a Simple Search Engine That Works",
-    "url": "https://karboosx.net/post/4eZxhBon/building-a-simple-search-engine-that-actually-works",
-    "points": 251,
-    "num_comments": 76,
-    "tags": [
-      "story",
-      "author_freediver",
-      "story_45950720"
-    ],
-    "author": "freediver",
-    "created_at": "2025-11-17T03:52:50Z",
-    "aiHeadline": "Building a simple search engine that actually works? Shocking, right?"
-  },
-  {
-    "title": "FreeMDU: Open-source Miele appliance diagnostic tools",
-    "url": "https://github.com/medusalix/FreeMDU",
-    "points": 246,
-    "num_comments": 63,
-    "tags": [
-      "story",
-      "author_Medusalix",
-      "story_45953452",
+      "author_imdsm",
+      "story_45963780",
       "front_page"
     ],
-    "author": "Medusalix",
-    "created_at": "2025-11-17T13:40:40Z",
-    "aiHeadline": "FreeMDU: Open-source tools for diagnosing Miele appliances—because proprietary software was just too much to handle."
+    "author": "imdsm",
+    "created_at": "2025-11-18T11:35:10Z",
+    "aiHeadline": "Cloudflare's Global Network Issues: Because the internet doesn't need another reason to be slow today."
+  },
+  {
+    "title": "Gemini 3",
+    "url": "https://blog.google/products/gemini/gemini-3/",
+    "points": 1158,
+    "num_comments": 752,
+    "tags": [
+      "story",
+      "author_preek",
+      "story_45967211",
+      "front_page"
+    ],
+    "author": "preek",
+    "created_at": "2025-11-18T15:09:38Z",
+    "aiHeadline": "Gemini 3: Google's latest AI update, because who doesn't want their AI to be just as confused as they are?"
+  },
+  {
+    "title": "Google Antigravity",
+    "url": "https://antigravity.google/",
+    "points": 695,
+    "num_comments": 742,
+    "tags": [
+      "story",
+      "author_Fysi",
+      "story_45967814",
+      "front_page"
+    ],
+    "author": "Fysi",
+    "created_at": "2025-11-18T15:47:38Z",
+    "aiHeadline": "Google Antigravity: Finally, a way to skip that morning commute by floating out of your bedroom window."
+  },
+  {
+    "title": "Nearly all UK drivers say headlights are too bright",
+    "url": "https://www.bbc.com/news/articles/c1j8ewy1p86o",
+    "points": 667,
+    "num_comments": 688,
+    "tags": [
+      "story",
+      "author_YeGoblynQueenne",
+      "story_45966251",
+      "front_page"
+    ],
+    "author": "YeGoblynQueenne",
+    "created_at": "2025-11-18T14:11:17Z",
+    "aiHeadline": "UK Drivers Complain About Bright Headlights: Because nothing says 'I'm annoyed' like being blinded by light."
+  },
+  {
+    "title": "Core Devices keeps stealing our work",
+    "url": "https://rebble.io/2025/11/17/core-devices-keeps-stealing-our-work.html",
+    "points": 594,
+    "num_comments": 113,
+    "tags": [
+      "story",
+      "author_jdauriemma",
+      "story_45960893"
+    ],
+    "author": "jdauriemma",
+    "created_at": "2025-11-18T02:53:28Z",
+    "aiHeadline": "Core Devices Keeps Stealing Our Work: Because innovation is overrated when you can just copy-paste it."
   }
 ]
