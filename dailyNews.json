@@ -1,76 +1,76 @@
 [
   {
-    "title": "Cloudflare Global Network experiencing issues",
-    "url": "https://www.cloudflarestatus.com/incidents/8gmgl950y3h7",
-    "points": 2310,
-    "num_comments": 1591,
+    "title": "Europe is scaling back GDPR and relaxing AI laws",
+    "url": "https://www.theverge.com/news/823750/european-union-ai-act-gdpr-changes",
+    "points": 512,
+    "num_comments": 530,
     "tags": [
       "story",
-      "author_imdsm",
-      "story_45963780",
+      "author_ksec",
+      "story_45980117",
       "front_page"
     ],
-    "author": "imdsm",
-    "created_at": "2025-11-18T11:35:10Z",
-    "aiHeadline": "Cloudflare's Global Network Issues: Because the internet doesn't need another reason to be slow today."
+    "author": "ksec",
+    "created_at": "2025-11-19T14:41:30Z",
+    "aiHeadline": "Europe caves to Big Tech lobbyists, quietly loosening GDPR restrictions and opening the floodgates for AI surveillance with some sneaky backdoors."
   },
   {
-    "title": "Gemini 3",
-    "url": "https://blog.google/products/gemini/gemini-3/",
-    "points": 1158,
-    "num_comments": 752,
+    "title": "Your smartphone, their rules: App stores enable corporate-government censorship",
+    "url": "https://www.aclu.org/news/free-speech/app-store-oligopoly",
+    "points": 431,
+    "num_comments": 215,
     "tags": [
       "story",
-      "author_preek",
-      "story_45967211",
+      "author_pabs3",
+      "story_45979297"
+    ],
+    "author": "pabs3",
+    "created_at": "2025-11-19T13:28:40Z",
+    "aiHeadline": "Your smartphone is now a tool of censorship, as app stores become the new gatekeepers enforcing the rules of corporate overlords and Big Brother alike."
+  },
+  {
+    "title": "The Death of Arduino?",
+    "url": "https://www.linkedin.com/posts/adafruit_opensource-privacy-techpolicy-activity-7396903362237054976-r14H",
+    "points": 363,
+    "num_comments": 183,
+    "tags": [
+      "story",
+      "author_ChuckMcM",
+      "story_45984143",
       "front_page"
     ],
-    "author": "preek",
-    "created_at": "2025-11-18T15:09:38Z",
-    "aiHeadline": "Gemini 3: Google's latest AI update, because who doesn't want their AI to be just as confused as they are?"
+    "author": "ChuckMcM",
+    "created_at": "2025-11-19T19:44:46Z",
+    "aiHeadline": "The Arduino revolution is over, and the reign of proprietary tech begins as the DIY community mourns the loss of their beloved open-source hero."
   },
   {
-    "title": "Google Antigravity",
-    "url": "https://antigravity.google/",
-    "points": 695,
-    "num_comments": 742,
+    "title": "Building more with GPT-5.1-Codex-Max",
+    "url": "https://openai.com/index/gpt-5-1-codex-max/",
+    "points": 334,
+    "num_comments": 191,
     "tags": [
       "story",
-      "author_Fysi",
-      "story_45967814",
+      "author_hansonw",
+      "story_45982649",
       "front_page"
     ],
-    "author": "Fysi",
-    "created_at": "2025-11-18T15:47:38Z",
-    "aiHeadline": "Google Antigravity: Finally, a way to skip that morning commute by floating out of your bedroom window."
+    "author": "hansonw",
+    "created_at": "2025-11-19T18:01:59Z",
+    "aiHeadline": "GPT-5.1-Codex-Max is here, and it's not just building houses—it's building entire empires, one line of code at a time."
   },
   {
-    "title": "Nearly all UK drivers say headlights are too bright",
-    "url": "https://www.bbc.com/news/articles/c1j8ewy1p86o",
-    "points": 667,
-    "num_comments": 688,
+    "title": "Thunderbird adds native Microsoft Exchange email support",
+    "url": "https://blog.thunderbird.net/2025/11/thunderbird-adds-native-microsoft-exchange-email-support/",
+    "points": 320,
+    "num_comments": 96,
     "tags": [
       "story",
-      "author_YeGoblynQueenne",
-      "story_45966251",
+      "author_babolivier",
+      "story_45978423",
       "front_page"
     ],
-    "author": "YeGoblynQueenne",
-    "created_at": "2025-11-18T14:11:17Z",
-    "aiHeadline": "UK Drivers Complain About Bright Headlights: Because nothing says 'I'm annoyed' like being blinded by light."
-  },
-  {
-    "title": "Core Devices keeps stealing our work",
-    "url": "https://rebble.io/2025/11/17/core-devices-keeps-stealing-our-work.html",
-    "points": 594,
-    "num_comments": 113,
-    "tags": [
-      "story",
-      "author_jdauriemma",
-      "story_45960893"
-    ],
-    "author": "jdauriemma",
-    "created_at": "2025-11-18T02:53:28Z",
-    "aiHeadline": "Core Devices Keeps Stealing Our Work: Because innovation is overrated when you can just copy-paste it."
+    "author": "babolivier",
+    "created_at": "2025-11-19T11:45:51Z",
+    "aiHeadline": "Thunderbird finally gives in to corporate demands, adding native Microsoft Exchange support so you can seamlessly integrate with the rest of your workplace's ecosystem of misery."
   }
 ]
