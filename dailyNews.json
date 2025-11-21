@@ -1,76 +1,76 @@
 [
   {
-    "title": "Europe is scaling back GDPR and relaxing AI laws",
-    "url": "https://www.theverge.com/news/823750/european-union-ai-act-gdpr-changes",
-    "points": 512,
-    "num_comments": 530,
+    "title": "Nano Banana Pro",
+    "url": "https://blog.google/technology/ai/nano-banana-pro/",
+    "points": 824,
+    "num_comments": 514,
     "tags": [
       "story",
-      "author_ksec",
-      "story_45980117",
+      "author_meetpateltech",
+      "story_45993296",
       "front_page"
     ],
-    "author": "ksec",
-    "created_at": "2025-11-19T14:41:30Z",
-    "aiHeadline": "Europe caves to Big Tech lobbyists, quietly loosening GDPR restrictions and opening the floodgates for AI surveillance with some sneaky backdoors."
+    "author": "meetpateltech",
+    "created_at": "2025-11-20T15:04:23Z",
+    "aiHeadline": "Google's latest innovation: a tiny banana-shaped gadget that somehow manages to be both underwhelming and overpriced, because why not?"
   },
   {
-    "title": "Your smartphone, their rules: App stores enable corporate-government censorship",
-    "url": "https://www.aclu.org/news/free-speech/app-store-oligopoly",
-    "points": 431,
-    "num_comments": 215,
+    "title": "CBP is monitoring US drivers and detaining those with suspicious travel patterns",
+    "url": "https://apnews.com/article/immigration-border-patrol-surveillance-drivers-ice-trump-9f5d05469ce8c629d6fecf32d32098cd",
+    "points": 552,
+    "num_comments": 630,
     "tags": [
       "story",
-      "author_pabs3",
-      "story_45979297"
+      "author_jjwiseman",
+      "story_45996860"
     ],
-    "author": "pabs3",
-    "created_at": "2025-11-19T13:28:40Z",
-    "aiHeadline": "Your smartphone is now a tool of censorship, as app stores become the new gatekeepers enforcing the rules of corporate overlords and Big Brother alike."
+    "author": "jjwiseman",
+    "created_at": "2025-11-20T19:52:55Z",
+    "aiHeadline": "CBP is now watching your every move on the road, because nothing says 'freedom' like being pulled over for having a 'suspicious' route on your GPS."
   },
   {
-    "title": "The Death of Arduino?",
-    "url": "https://www.linkedin.com/posts/adafruit_opensource-privacy-techpolicy-activity-7396903362237054976-r14H",
-    "points": 363,
-    "num_comments": 183,
+    "title": "Microsoft makes Zork open-source",
+    "url": "https://opensource.microsoft.com/blog/2025/11/20/preserving-code-that-shaped-generations-zork-i-ii-and-iii-go-open-source",
+    "points": 424,
+    "num_comments": 177,
     "tags": [
       "story",
-      "author_ChuckMcM",
-      "story_45984143",
+      "author_tabletcorry",
+      "story_45995740",
       "front_page"
     ],
-    "author": "ChuckMcM",
-    "created_at": "2025-11-19T19:44:46Z",
-    "aiHeadline": "The Arduino revolution is over, and the reign of proprietary tech begins as the DIY community mourns the loss of their beloved open-source hero."
+    "author": "tabletcorry",
+    "created_at": "2025-11-20T18:13:39Z",
+    "aiHeadline": "Microsoft finally does the world a favor by open-sourcing Zork, because who doesn't want to relive the glory days of text-based adventure gaming with a modern twist of irony?"
   },
   {
-    "title": "Building more with GPT-5.1-Codex-Max",
-    "url": "https://openai.com/index/gpt-5-1-codex-max/",
-    "points": 334,
-    "num_comments": 191,
+    "title": "Android and iPhone users can now share files, starting with the Pixel 10",
+    "url": "https://blog.google/products/android/quick-share-airdrop/",
+    "points": 423,
+    "num_comments": 276,
     "tags": [
       "story",
-      "author_hansonw",
-      "story_45982649",
+      "author_abraham",
+      "story_45994854",
       "front_page"
     ],
-    "author": "hansonw",
-    "created_at": "2025-11-19T18:01:59Z",
-    "aiHeadline": "GPT-5.1-Codex-Max is here, and it's not just building houses—it's building entire empires, one line of code at a time."
+    "author": "abraham",
+    "created_at": "2025-11-20T17:04:34Z",
+    "aiHeadline": "Android and iPhone users can now share files, but don't get too excited—this feature still somehow manages to feel like a consolation prize in the ongoing smartphone wars."
   },
   {
-    "title": "Thunderbird adds native Microsoft Exchange email support",
-    "url": "https://blog.thunderbird.net/2025/11/thunderbird-adds-native-microsoft-exchange-email-support/",
-    "points": 320,
-    "num_comments": 96,
+    "title": "Red Alert 2 in web browser",
+    "url": "https://chronodivide.com/",
+    "points": 401,
+    "num_comments": 131,
     "tags": [
       "story",
-      "author_babolivier",
-      "story_45978423",
+      "author_nsoonhui",
+      "story_45991853",
       "front_page"
     ],
-    "author": "babolivier",
-    "created_at": "2025-11-19T11:45:51Z",
-    "aiHeadline": "Thunderbird finally gives in to corporate demands, adding native Microsoft Exchange support so you can seamlessly integrate with the rest of your workplace's ecosystem of misery."
+    "author": "nsoonhui",
+    "created_at": "2025-11-20T12:21:15Z",
+    "aiHeadline": "Red Alert 2 is now playable in your browser, proving once again that nostalgia is the only thing that can make a 20-year-old game feel like cutting-edge technology."
   }
 ]
