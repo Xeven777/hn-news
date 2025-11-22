@@ -1,76 +1,77 @@
 [
   {
-    "title": "Nano Banana Pro",
-    "url": "https://blog.google/technology/ai/nano-banana-pro/",
-    "points": 824,
-    "num_comments": 514,
+    "title": "Show HN: Wealthfolio 2.0- Open source investment tracker. Now Mobile and Docker",
+    "url": "https://wealthfolio.app/?v=2.0",
+    "points": 433,
+    "num_comments": 149,
     "tags": [
       "story",
-      "author_meetpateltech",
-      "story_45993296",
+      "author_a-fadil",
+      "story_46006016",
+      "show_hn",
       "front_page"
     ],
-    "author": "meetpateltech",
-    "created_at": "2025-11-20T15:04:23Z",
-    "aiHeadline": "Google's latest innovation: a tiny banana-shaped gadget that somehow manages to be both underwhelming and overpriced, because why not?"
+    "author": "a-fadil",
+    "created_at": "2025-11-21T16:34:52Z",
+    "aiHeadline": "Wealthfolio 2.0: Now your investments can follow you on the go, because clearly you couldn't manage your money without your phone."
   },
   {
-    "title": "CBP is monitoring US drivers and detaining those with suspicious travel patterns",
-    "url": "https://apnews.com/article/immigration-border-patrol-surveillance-drivers-ice-trump-9f5d05469ce8c629d6fecf32d32098cd",
-    "points": 552,
-    "num_comments": 630,
+    "title": "Helping Valve to power up Steam devices",
+    "url": "https://www.igalia.com/2025/11/helpingvalve.html",
+    "points": 419,
+    "num_comments": 128,
     "tags": [
       "story",
-      "author_jjwiseman",
-      "story_45996860"
-    ],
-    "author": "jjwiseman",
-    "created_at": "2025-11-20T19:52:55Z",
-    "aiHeadline": "CBP is now watching your every move on the road, because nothing says 'freedom' like being pulled over for having a 'suspicious' route on your GPS."
-  },
-  {
-    "title": "Microsoft makes Zork open-source",
-    "url": "https://opensource.microsoft.com/blog/2025/11/20/preserving-code-that-shaped-generations-zork-i-ii-and-iii-go-open-source",
-    "points": 424,
-    "num_comments": 177,
-    "tags": [
-      "story",
-      "author_tabletcorry",
-      "story_45995740",
+      "author_TingPing",
+      "story_46006616",
       "front_page"
     ],
-    "author": "tabletcorry",
-    "created_at": "2025-11-20T18:13:39Z",
-    "aiHeadline": "Microsoft finally does the world a favor by open-sourcing Zork, because who doesn't want to relive the glory days of text-based adventure gaming with a modern twist of irony?"
+    "author": "TingPing",
+    "created_at": "2025-11-21T17:29:59Z",
+    "aiHeadline": "Valve gets a power boost for Steam devices, because apparently your gaming setup needs more juice than a regular outlet can provide."
   },
   {
-    "title": "Android and iPhone users can now share files, starting with the Pixel 10",
-    "url": "https://blog.google/products/android/quick-share-airdrop/",
-    "points": 423,
-    "num_comments": 276,
+    "title": "How a French judge was digitally cut off by the USA",
+    "url": "https://www.heise.de/en/news/How-a-French-judge-was-digitally-cut-off-by-the-USA-11087561.html",
+    "points": 393,
+    "num_comments": 445,
     "tags": [
       "story",
-      "author_abraham",
-      "story_45994854",
-      "front_page"
+      "author_i-con",
+      "story_46003778"
     ],
-    "author": "abraham",
-    "created_at": "2025-11-20T17:04:34Z",
-    "aiHeadline": "Android and iPhone users can now share files, but don't get too excited—this feature still somehow manages to feel like a consolation prize in the ongoing smartphone wars."
+    "author": "i-con",
+    "created_at": "2025-11-21T12:12:41Z",
+    "aiHeadline": "French judge gets digitally 'cut off' by the USA, proving once again that when the US wants to play hide and seek, they're unbeatable."
   },
   {
-    "title": "Red Alert 2 in web browser",
-    "url": "https://chronodivide.com/",
-    "points": 401,
-    "num_comments": 131,
+    "title": "Olmo 3: Charting a path through the model flow to lead open-source AI",
+    "url": "https://allenai.org/blog/olmo3",
+    "points": 356,
+    "num_comments": 119,
     "tags": [
       "story",
-      "author_nsoonhui",
-      "story_45991853",
+      "author_mseri",
+      "story_46001889",
       "front_page"
     ],
-    "author": "nsoonhui",
-    "created_at": "2025-11-20T12:21:15Z",
-    "aiHeadline": "Red Alert 2 is now playable in your browser, proving once again that nostalgia is the only thing that can make a 20-year-old game feel like cutting-edge technology."
+    "author": "mseri",
+    "created_at": "2025-11-21T06:50:14Z",
+    "aiHeadline": "Olmo 3 aims to lead open-source AI, because who doesn't want to be the captain of the model flow ship? (Hint: Probably the competition.)"
+  },
+  {
+    "title": "Arduino published updated terms and conditions: no longer an open commons",
+    "url": "https://www.molecularist.com/2025/11/did-qualcomm-kill-arduino-for-good.html",
+    "points": 315,
+    "num_comments": 101,
+    "tags": [
+      "story",
+      "author_felineflock",
+      "story_46005553",
+      "front_page"
+    ],
+    "author": "felineflock",
+    "created_at": "2025-11-21T15:44:16Z",
+    "aiHeadline": "Arduino updates terms: No longer an open commons, because apparently the world's tinkerers need to pay for their creativity now."
   }
 ]
