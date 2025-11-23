@@ -1,77 +1,75 @@
 [
   {
-    "title": "Show HN: Wealthfolio 2.0- Open source investment tracker. Now Mobile and Docker",
-    "url": "https://wealthfolio.app/?v=2.0",
-    "points": 433,
-    "num_comments": 149,
+    "title": "The privacy nightmare of browser fingerprinting",
+    "url": "https://kevinboone.me/fingerprinting.html",
+    "points": 435,
+    "num_comments": 266,
     "tags": [
       "story",
-      "author_a-fadil",
-      "story_46006016",
-      "show_hn",
+      "author_ingve",
+      "story_46016249",
       "front_page"
     ],
-    "author": "a-fadil",
-    "created_at": "2025-11-21T16:34:52Z",
-    "aiHeadline": "Wealthfolio 2.0: Now your investments can follow you on the go, because clearly you couldn't manage your money without your phone."
+    "author": "ingve",
+    "created_at": "2025-11-22T17:08:36Z",
+    "aiHeadline": "Browser fingerprinting: Because being tracked online wasn't creepy enough, now your browser is your unique snowflake!"
   },
   {
-    "title": "Helping Valve to power up Steam devices",
-    "url": "https://www.igalia.com/2025/11/helpingvalve.html",
-    "points": 419,
-    "num_comments": 128,
+    "title": "Agent design is still hard",
+    "url": "https://lucumr.pocoo.org/2025/11/21/agents-are-hard/",
+    "points": 340,
+    "num_comments": 200,
     "tags": [
       "story",
-      "author_TingPing",
-      "story_46006616",
+      "author_the_mitsuhiko",
+      "story_46013935",
       "front_page"
     ],
-    "author": "TingPing",
-    "created_at": "2025-11-21T17:29:59Z",
-    "aiHeadline": "Valve gets a power boost for Steam devices, because apparently your gaming setup needs more juice than a regular outlet can provide."
+    "author": "the_mitsuhiko",
+    "created_at": "2025-11-22T11:27:24Z",
+    "aiHeadline": "Agent design: Because making a robot that doesn't mess up is as easy as teaching a cat to do algebra."
   },
   {
-    "title": "How a French judge was digitally cut off by the USA",
-    "url": "https://www.heise.de/en/news/How-a-French-judge-was-digitally-cut-off-by-the-USA-11087561.html",
-    "points": 393,
-    "num_comments": 445,
+    "title": "Original Superman comic becomes the highest-priced comic book ever sold",
+    "url": "https://www.bbc.com/news/articles/c8e9rp0knj6o",
+    "points": 309,
+    "num_comments": 203,
     "tags": [
       "story",
-      "author_i-con",
-      "story_46003778"
+      "author_1659447091",
+      "story_46012328"
     ],
-    "author": "i-con",
-    "created_at": "2025-11-21T12:12:41Z",
-    "aiHeadline": "French judge gets digitally 'cut off' by the USA, proving once again that when the US wants to play hide and seek, they're unbeatable."
+    "author": "1659447091",
+    "created_at": "2025-11-22T05:21:53Z",
+    "aiHeadline": "Superman comic: Because nostalgia is worth a fortune, especially when it's yellowed and smells like old cardboard."
   },
   {
-    "title": "Olmo 3: Charting a path through the model flow to lead open-source AI",
-    "url": "https://allenai.org/blog/olmo3",
-    "points": 356,
-    "num_comments": 119,
+    "title": "In a U.S. First, New Mexico Opens Doors to Free Child Care for All",
+    "url": "https://www.wsj.com/us-news/in-a-u-s-first-new-mexico-opens-doors-to-free-child-care-for-all-2dfdea96",
+    "points": 293,
+    "num_comments": 423,
     "tags": [
       "story",
-      "author_mseri",
-      "story_46001889",
+      "author_nairteashop",
+      "story_46015763"
+    ],
+    "author": "nairteashop",
+    "created_at": "2025-11-22T16:11:12Z",
+    "aiHeadline": "Free child care in New Mexico: Because it's about time the US realized that raising kids shouldn't cost an arm and a leg—or your soul."
+  },
+  {
+    "title": "China reaches energy milestone by \"breeding\" uranium from thorium",
+    "url": "https://www.scmp.com/news/china/science/article/3331312/china-reaches-energy-independence-milestone-breeding-uranium-thorium",
+    "points": 205,
+    "num_comments": 152,
+    "tags": [
+      "story",
+      "author_surprisetalk",
+      "story_46016639",
       "front_page"
     ],
-    "author": "mseri",
-    "created_at": "2025-11-21T06:50:14Z",
-    "aiHeadline": "Olmo 3 aims to lead open-source AI, because who doesn't want to be the captain of the model flow ship? (Hint: Probably the competition.)"
-  },
-  {
-    "title": "Arduino published updated terms and conditions: no longer an open commons",
-    "url": "https://www.molecularist.com/2025/11/did-qualcomm-kill-arduino-for-good.html",
-    "points": 315,
-    "num_comments": 101,
-    "tags": [
-      "story",
-      "author_felineflock",
-      "story_46005553",
-      "front_page"
-    ],
-    "author": "felineflock",
-    "created_at": "2025-11-21T15:44:16Z",
-    "aiHeadline": "Arduino updates terms: No longer an open commons, because apparently the world's tinkerers need to pay for their creativity now."
+    "author": "surprisetalk",
+    "created_at": "2025-11-22T17:49:27Z",
+    "aiHeadline": "China's energy milestone: Because who needs oil when you can 'breed' uranium like it's a pet project?"
   }
 ]
