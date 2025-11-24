@@ -1,75 +1,77 @@
 [
   {
-    "title": "The privacy nightmare of browser fingerprinting",
-    "url": "https://kevinboone.me/fingerprinting.html",
-    "points": 435,
-    "num_comments": 266,
+    "title": "After my dad died, we found the love letters",
+    "url": "https://www.jenn.site/after-my-dad-died-we-found-the-love-letters/",
+    "points": 783,
+    "num_comments": 372,
     "tags": [
       "story",
-      "author_ingve",
-      "story_46016249",
+      "author_eatitraw",
+      "story_46021825",
       "front_page"
     ],
-    "author": "ingve",
-    "created_at": "2025-11-22T17:08:36Z",
-    "aiHeadline": "Browser fingerprinting: Because being tracked online wasn't creepy enough, now your browser is your unique snowflake!"
+    "author": "eatitraw",
+    "created_at": "2025-11-23T08:40:41Z",
+    "aiHeadline": "After my dad died, we found the love letters—because apparently, he was saving them for the afterlife."
   },
   {
-    "title": "Agent design is still hard",
-    "url": "https://lucumr.pocoo.org/2025/11/21/agents-are-hard/",
-    "points": 340,
-    "num_comments": 200,
+    "title": "Fran Sans – font inspired by San Francisco light rail displays",
+    "url": "https://emilysneddon.com/fran-sans-essay",
+    "points": 569,
+    "num_comments": 85,
     "tags": [
       "story",
-      "author_the_mitsuhiko",
-      "story_46013935",
+      "author_ChrisArchitect",
+      "story_46025942",
       "front_page"
     ],
-    "author": "the_mitsuhiko",
-    "created_at": "2025-11-22T11:27:24Z",
-    "aiHeadline": "Agent design: Because making a robot that doesn't mess up is as easy as teaching a cat to do algebra."
+    "author": "ChrisArchitect",
+    "created_at": "2025-11-23T18:20:27Z",
+    "aiHeadline": "Fran Sans: the font that makes your PowerPoint look like it was designed by a 90s-era San Francisco transit system."
   },
   {
-    "title": "Original Superman comic becomes the highest-priced comic book ever sold",
-    "url": "https://www.bbc.com/news/articles/c8e9rp0knj6o",
+    "title": "Shaders: How to draw high fidelity graphics with just x and y coordinates",
+    "url": "https://www.makingsoftware.com/chapters/shaders",
+    "points": 339,
+    "num_comments": 75,
+    "tags": [
+      "story",
+      "author_Garbage",
+      "story_46023013",
+      "front_page"
+    ],
+    "author": "Garbage",
+    "created_at": "2025-11-23T12:26:30Z",
+    "aiHeadline": "Shaders: because who needs pixels when you can just use coordinates and pretend you're coding in the 90s?"
+  },
+  {
+    "title": "Court filings allege Meta downplayed risks to children and misled the public",
+    "url": "https://time.com/7336204/meta-lawsuit-files-child-safety/",
+    "points": 317,
+    "num_comments": 140,
+    "tags": [
+      "story",
+      "author_binning",
+      "story_46024184",
+      "front_page"
+    ],
+    "author": "binning",
+    "created_at": "2025-11-23T15:18:00Z",
+    "aiHeadline": "Court filings allege Meta downplayed risks to children—because who doesn't want to admit they're turning kids into screen-addicted zombies?"
+  },
+  {
+    "title": "Native Secure Enclave backed SSH keys on macOS",
+    "url": "https://gist.github.com/arianvp/5f59f1783e3eaf1a2d4cd8e952bb4acf",
     "points": 309,
-    "num_comments": 203,
+    "num_comments": 129,
     "tags": [
       "story",
-      "author_1659447091",
-      "story_46012328"
-    ],
-    "author": "1659447091",
-    "created_at": "2025-11-22T05:21:53Z",
-    "aiHeadline": "Superman comic: Because nostalgia is worth a fortune, especially when it's yellowed and smells like old cardboard."
-  },
-  {
-    "title": "In a U.S. First, New Mexico Opens Doors to Free Child Care for All",
-    "url": "https://www.wsj.com/us-news/in-a-u-s-first-new-mexico-opens-doors-to-free-child-care-for-all-2dfdea96",
-    "points": 293,
-    "num_comments": 423,
-    "tags": [
-      "story",
-      "author_nairteashop",
-      "story_46015763"
-    ],
-    "author": "nairteashop",
-    "created_at": "2025-11-22T16:11:12Z",
-    "aiHeadline": "Free child care in New Mexico: Because it's about time the US realized that raising kids shouldn't cost an arm and a leg—or your soul."
-  },
-  {
-    "title": "China reaches energy milestone by \"breeding\" uranium from thorium",
-    "url": "https://www.scmp.com/news/china/science/article/3331312/china-reaches-energy-independence-milestone-breeding-uranium-thorium",
-    "points": 205,
-    "num_comments": 152,
-    "tags": [
-      "story",
-      "author_surprisetalk",
-      "story_46016639",
+      "author_arianvanp",
+      "story_46025721",
       "front_page"
     ],
-    "author": "surprisetalk",
-    "created_at": "2025-11-22T17:49:27Z",
-    "aiHeadline": "China's energy milestone: Because who needs oil when you can 'breed' uranium like it's a pet project?"
+    "author": "arianvanp",
+    "created_at": "2025-11-23T17:55:11Z",
+    "aiHeadline": "Native Secure Enclave backed SSH keys on macOS: because even your cat videos need military-grade encryption."
   }
 ]
