@@ -1,77 +1,75 @@
 [
   {
-    "title": "After my dad died, we found the love letters",
-    "url": "https://www.jenn.site/after-my-dad-died-we-found-the-love-letters/",
-    "points": 783,
-    "num_comments": 372,
+    "title": "Shai-Hulud Returns: Over 300 NPM Packages Infected",
+    "url": "https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24",
+    "points": 866,
+    "num_comments": 692,
     "tags": [
       "story",
-      "author_eatitraw",
-      "story_46021825",
+      "author_mrdosija",
+      "story_46032539",
       "front_page"
     ],
-    "author": "eatitraw",
-    "created_at": "2025-11-23T08:40:41Z",
-    "aiHeadline": "After my dad died, we found the love letters—because apparently, he was saving them for the afterlife."
+    "author": "mrdosija",
+    "created_at": "2025-11-24T10:40:22Z",
+    "aiHeadline": "Shai-Hulud: The Sequel Nobody Asked For, Infecting Over 300 NPM Packages Like It's a Movie Franchise"
   },
   {
-    "title": "Fran Sans – font inspired by San Francisco light rail displays",
-    "url": "https://emilysneddon.com/fran-sans-essay",
-    "points": 569,
-    "num_comments": 85,
+    "title": "Claude Opus 4.5",
+    "url": "https://www.anthropic.com/news/claude-opus-4-5",
+    "points": 753,
+    "num_comments": 341,
     "tags": [
       "story",
-      "author_ChrisArchitect",
-      "story_46025942",
+      "author_adocomplete",
+      "story_46037637",
       "front_page"
     ],
-    "author": "ChrisArchitect",
-    "created_at": "2025-11-23T18:20:27Z",
-    "aiHeadline": "Fran Sans: the font that makes your PowerPoint look like it was designed by a 90s-era San Francisco transit system."
+    "author": "adocomplete",
+    "created_at": "2025-11-24T18:53:05Z",
+    "aiHeadline": "Claude Opus 4.5: Because 4.0 Just Didn't Understand Your Jokes About Cats"
   },
   {
-    "title": "Shaders: How to draw high fidelity graphics with just x and y coordinates",
-    "url": "https://www.makingsoftware.com/chapters/shaders",
+    "title": "Pebble Watch software is now 100% open source",
+    "url": "https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source",
+    "points": 677,
+    "num_comments": 112,
+    "tags": [
+      "story",
+      "author_Larrikin",
+      "story_46037626",
+      "front_page"
+    ],
+    "author": "Larrikin",
+    "created_at": "2025-11-24T18:52:12Z",
+    "aiHeadline": "Pebble Watches: Now 100% Open Source and 100% Discontinued. Yay for Nostalgia!"
+  },
+  {
+    "title": "France threatens GrapheneOS with arrests / server seizure for refusing backdoors",
+    "url": "https://mamot.fr/@LaQuadrature/115581775965025042",
+    "points": 558,
+    "num_comments": 2,
+    "tags": [
+      "story",
+      "author_nabakin",
+      "story_46036217"
+    ],
+    "author": "nabakin",
+    "created_at": "2025-11-24T17:00:07Z",
+    "aiHeadline": "France vs. GrapheneOS: The Drama of a Nation Trying to Teach Its Tech a Lesson"
+  },
+  {
+    "title": "Shai Hulud launches second supply-chain attack",
+    "url": "https://www.aikido.dev/blog/shai-hulud-strikes-again-hitting-zapier-ensdomains",
     "points": 339,
-    "num_comments": 75,
+    "num_comments": 19,
     "tags": [
       "story",
-      "author_Garbage",
-      "story_46023013",
-      "front_page"
+      "author_birdculture",
+      "story_46035533"
     ],
-    "author": "Garbage",
-    "created_at": "2025-11-23T12:26:30Z",
-    "aiHeadline": "Shaders: because who needs pixels when you can just use coordinates and pretend you're coding in the 90s?"
-  },
-  {
-    "title": "Court filings allege Meta downplayed risks to children and misled the public",
-    "url": "https://time.com/7336204/meta-lawsuit-files-child-safety/",
-    "points": 317,
-    "num_comments": 140,
-    "tags": [
-      "story",
-      "author_binning",
-      "story_46024184",
-      "front_page"
-    ],
-    "author": "binning",
-    "created_at": "2025-11-23T15:18:00Z",
-    "aiHeadline": "Court filings allege Meta downplayed risks to children—because who doesn't want to admit they're turning kids into screen-addicted zombies?"
-  },
-  {
-    "title": "Native Secure Enclave backed SSH keys on macOS",
-    "url": "https://gist.github.com/arianvp/5f59f1783e3eaf1a2d4cd8e952bb4acf",
-    "points": 309,
-    "num_comments": 129,
-    "tags": [
-      "story",
-      "author_arianvanp",
-      "story_46025721",
-      "front_page"
-    ],
-    "author": "arianvanp",
-    "created_at": "2025-11-23T17:55:11Z",
-    "aiHeadline": "Native Secure Enclave backed SSH keys on macOS: because even your cat videos need military-grade encryption."
+    "author": "birdculture",
+    "created_at": "2025-11-24T16:03:36Z",
+    "aiHeadline": "Shai Hulud: Because One Supply-Chain Attack Wasn't Enough, Here's Another One with Better Marketing"
   }
 ]
