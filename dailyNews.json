@@ -1,75 +1,75 @@
 [
   {
-    "title": "Shai-Hulud Returns: Over 300 NPM Packages Infected",
-    "url": "https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24",
-    "points": 866,
-    "num_comments": 692,
+    "title": "Google Antigravity exfiltrates data via indirect prompt injection attack",
+    "url": "https://www.promptarmor.com/resources/google-antigravity-exfiltrates-data",
+    "points": 557,
+    "num_comments": 149,
     "tags": [
       "story",
-      "author_mrdosija",
-      "story_46032539",
+      "author_jjmaxwell4",
+      "story_46048996",
       "front_page"
     ],
-    "author": "mrdosija",
-    "created_at": "2025-11-24T10:40:22Z",
-    "aiHeadline": "Shai-Hulud: The Sequel Nobody Asked For, Infecting Over 300 NPM Packages Like It's a Movie Franchise"
+    "author": "jjmaxwell4",
+    "created_at": "2025-11-25T18:31:16Z",
+    "aiHeadline": "Google's Antigravity Team Discovers New Method of Data Theft: Levitating Data via Indirect Prompt Injection (Because Regular Hacking Wasn't Cool Enough)"
   },
   {
-    "title": "Claude Opus 4.5",
-    "url": "https://www.anthropic.com/news/claude-opus-4-5",
-    "points": 753,
-    "num_comments": 341,
+    "title": "Human brains are preconfigured with instructions for understanding the world",
+    "url": "https://news.ucsc.edu/2025/11/sharf-preconfigured-brain/",
+    "points": 418,
+    "num_comments": 285,
     "tags": [
       "story",
-      "author_adocomplete",
-      "story_46037637",
+      "author_XzetaU8",
+      "story_46042928"
+    ],
+    "author": "XzetaU8",
+    "created_at": "2025-11-25T06:31:31Z",
+    "aiHeadline": "Scientists Shockingly Find That Human Brains Actually Come Pre-Installed with Instructions (Who Knew?)"
+  },
+  {
+    "title": "Orion 1.0",
+    "url": "https://blog.kagi.com/orion",
+    "points": 360,
+    "num_comments": 210,
+    "tags": [
+      "story",
+      "author_STRiDEX",
+      "story_46047350"
+    ],
+    "author": "STRiDEX",
+    "created_at": "2025-11-25T16:21:24Z",
+    "aiHeadline": "Orion 1.0: The Latest in Technology That You Didn't Ask For But Will Probably Regret Clicking On Anyway"
+  },
+  {
+    "title": "Trillions spent and big software projects are still failing",
+    "url": "https://spectrum.ieee.org/it-management-software-failures",
+    "points": 304,
+    "num_comments": 273,
+    "tags": [
+      "story",
+      "author_pseudolus",
+      "story_46045085",
       "front_page"
     ],
-    "author": "adocomplete",
-    "created_at": "2025-11-24T18:53:05Z",
-    "aiHeadline": "Claude Opus 4.5: Because 4.0 Just Didn't Understand Your Jokes About Cats"
+    "author": "pseudolus",
+    "created_at": "2025-11-25T12:14:11Z",
+    "aiHeadline": "Trillions of Dollars Later, Big Software Projects Still Fail: Innovation Wins Again!"
   },
   {
-    "title": "Pebble Watch software is now 100% open source",
-    "url": "https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source",
-    "points": 677,
-    "num_comments": 112,
+    "title": "Someone at YouTube Needs Glasses: The Prophecy Has Been Fulfilled",
+    "url": "https://jayd.ml/2025/11/10/someone-at-youtube-needs-glasses-prophecy-fulfilled.html",
+    "points": 288,
+    "num_comments": 193,
     "tags": [
       "story",
-      "author_Larrikin",
-      "story_46037626",
+      "author_jaydenmilne",
+      "story_46051340",
       "front_page"
     ],
-    "author": "Larrikin",
-    "created_at": "2025-11-24T18:52:12Z",
-    "aiHeadline": "Pebble Watches: Now 100% Open Source and 100% Discontinued. Yay for Nostalgia!"
-  },
-  {
-    "title": "France threatens GrapheneOS with arrests / server seizure for refusing backdoors",
-    "url": "https://mamot.fr/@LaQuadrature/115581775965025042",
-    "points": 558,
-    "num_comments": 2,
-    "tags": [
-      "story",
-      "author_nabakin",
-      "story_46036217"
-    ],
-    "author": "nabakin",
-    "created_at": "2025-11-24T17:00:07Z",
-    "aiHeadline": "France vs. GrapheneOS: The Drama of a Nation Trying to Teach Its Tech a Lesson"
-  },
-  {
-    "title": "Shai Hulud launches second supply-chain attack",
-    "url": "https://www.aikido.dev/blog/shai-hulud-strikes-again-hitting-zapier-ensdomains",
-    "points": 339,
-    "num_comments": 19,
-    "tags": [
-      "story",
-      "author_birdculture",
-      "story_46035533"
-    ],
-    "author": "birdculture",
-    "created_at": "2025-11-24T16:03:36Z",
-    "aiHeadline": "Shai Hulud: Because One Supply-Chain Attack Wasn't Enough, Here's Another One with Better Marketing"
+    "author": "jaydenmilne",
+    "created_at": "2025-11-25T22:04:31Z",
+    "aiHeadline": "YouTube's Prophecy Fulfilled: Someone Finally Realizes That 'HD' Doesn't Mean 'Watchable' (Thank You, Universe)"
   }
 ]
