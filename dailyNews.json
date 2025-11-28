@@ -1,75 +1,76 @@
 [
   {
-    "title": "Voyager 1 is about to reach one light-day from earth",
-    "url": "https://scienceclock.com/voyager-1-is-about-to-reach-one-light-day-from-earth/",
-    "points": 771,
-    "num_comments": 277,
-    "tags": [
-      "story",
-      "author_ashishgupta2209",
-      "story_46057488",
-      "front_page"
-    ],
-    "author": "ashishgupta2209",
-    "created_at": "2025-11-26T14:02:46Z",
-    "aiHeadline": "Voyager 1 Finally Decides to Leave Earth's Wi-Fi Range After 48 Years, Still Not Fast Enough to Escape My Mom's Texts"
-  },
-  {
-    "title": "OpenAI needs to raise at least $207B by 2030",
-    "url": "https://ft.com/content/23e54a28-6f63-4533-ab96-3756d9c88bad",
-    "points": 521,
-    "num_comments": 513,
-    "tags": [
-      "story",
-      "author_akira_067",
-      "story_46058065"
-    ],
-    "author": "akira_067",
-    "created_at": "2025-11-26T15:06:37Z",
-    "aiHeadline": "OpenAI's Fundraising Goal for 2030: $207B, Because Apparently, Teaching AI to Write Sarcastic Headlines Isn't Profitable Enough"
-  },
-  {
-    "title": "I don't care how well your \"AI\" works",
-    "url": "https://fokus.cool/2025/11/25/i-dont-care-how-well-your-ai-works.html",
-    "points": 462,
-    "num_comments": 701,
+    "title": "Migrating the main Zig repository from GitHub to Codeberg",
+    "url": "https://ziglang.org/news/migrating-from-github-to-codeberg/",
+    "points": 858,
+    "num_comments": 806,
     "tags": [
       "story",
       "author_todsacerdoti",
-      "story_46055944"
+      "story_46064571"
     ],
     "author": "todsacerdoti",
-    "created_at": "2025-11-26T10:08:20Z",
-    "aiHeadline": "I Don't Care How Well Your 'AI' Works, It Still Can't Make Me Care About Your 'AI' Enough to Read This Article"
+    "created_at": "2025-11-27T01:49:00Z",
+    "aiHeadline": "Zig Lang Ditches GitHub for Codeberg: 'We're Not Leaving, We're Just Moving to a Place Without the Same Level of Corporate Overlordship'"
   },
   {
-    "title": "Bring Bathroom Doors Back to Hotels",
-    "url": "https://bringbackdoors.com/",
-    "points": 300,
-    "num_comments": 220,
+    "title": "Penpot: The Open-Source Figma",
+    "url": "https://github.com/penpot/penpot",
+    "points": 691,
+    "num_comments": 171,
     "tags": [
       "story",
-      "author_bariumbitmap",
-      "story_46063072",
+      "author_selvan",
+      "story_46064757",
       "front_page"
     ],
-    "author": "bariumbitmap",
-    "created_at": "2025-11-26T22:26:36Z",
-    "aiHeadline": "Hotels Finally Realize That Maybe Leaving Bathroom Doors Open Wasn't the Best Idea, Especially When You're Trying to Hide the Fact That You Can't Even Flush Properly"
+    "author": "selvan",
+    "created_at": "2025-11-27T02:14:36Z",
+    "aiHeadline": "Penpot: The Open-Source Figma Clone That's Basically Figma But Without the Fancy Marketing Team"
   },
   {
-    "title": "The EU made Apple adopt new Wi-Fi standards, and now Android can support AirDrop",
-    "url": "https://arstechnica.com/gadgets/2025/11/the-eu-made-apple-adopt-new-wi-fi-standards-and-now-android-can-support-airdrop/",
-    "points": 257,
-    "num_comments": 120,
+    "title": "Linux Kernel Explorer",
+    "url": "https://reverser.dev/linux-kernel-explorer",
+    "points": 533,
+    "num_comments": 79,
     "tags": [
       "story",
-      "author_cyclecount",
-      "story_46062504",
+      "author_tanelpoder",
+      "story_46066280",
       "front_page"
     ],
-    "author": "cyclecount",
-    "created_at": "2025-11-26T21:25:36Z",
-    "aiHeadline": "EU Forces Apple to Share Its Wi-Fi Standards, and Now Android Can Finally Use AirDrop, Proving That Sometimes, You Need a Government to Make Apple Do Something Useful"
+    "author": "tanelpoder",
+    "created_at": "2025-11-27T06:17:37Z",
+    "aiHeadline": "Linux Kernel Explorer: Because Who Doesn't Want to Spend Their Free Time Digging Through Thousands of Lines of Kernel Code?"
+  },
+  {
+    "title": "Tell HN: Happy Thanksgiving",
+    "points": 510,
+    "num_comments": 126,
+    "tags": [
+      "story",
+      "author_prodigycorp",
+      "story_46065955",
+      "ask_hn",
+      "front_page"
+    ],
+    "author": "prodigycorp",
+    "created_at": "2025-11-27T05:21:16Z",
+    "aiHeadline": "Tell HN: Happy Thanksgiving! Now Go Eat Some Turkey and Try Not to Fall Asleep During the Football Game"
+  },
+  {
+    "title": "DIY NAS: 2026 Edition",
+    "url": "https://blog.briancmoses.com/2025/11/diy-nas-2026-edition.html",
+    "points": 396,
+    "num_comments": 254,
+    "tags": [
+      "story",
+      "author_sashk",
+      "story_46065034",
+      "front_page"
+    ],
+    "author": "sashk",
+    "created_at": "2025-11-27T02:54:23Z",
+    "aiHeadline": "DIY NAS 2026 Edition: Because Who Needs a Cloud When You Can Just Build Your Own Personal Data Center in the Basement?"
   }
 ]
