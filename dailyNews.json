@@ -1,76 +1,74 @@
 [
   {
-    "title": "Migrating the main Zig repository from GitHub to Codeberg",
-    "url": "https://ziglang.org/news/migrating-from-github-to-codeberg/",
-    "points": 858,
-    "num_comments": 806,
+    "title": "Pocketbase – open-source realtime back end in 1 file",
+    "url": "https://pocketbase.io/",
+    "points": 602,
+    "num_comments": 175,
     "tags": [
       "story",
-      "author_todsacerdoti",
-      "story_46064571"
+      "author_modinfo",
+      "story_46075320"
     ],
-    "author": "todsacerdoti",
-    "created_at": "2025-11-27T01:49:00Z",
-    "aiHeadline": "Zig Lang Ditches GitHub for Codeberg: 'We're Not Leaving, We're Just Moving to a Place Without the Same Level of Corporate Overlordship'"
+    "author": "modinfo",
+    "created_at": "2025-11-28T03:45:04Z",
+    "aiHeadline": "Meet Pocketbase, the open-source backend that's so tiny it fits in one file, proving that sometimes less really is more."
   },
   {
-    "title": "Penpot: The Open-Source Figma",
-    "url": "https://github.com/penpot/penpot",
-    "points": 691,
-    "num_comments": 171,
+    "title": "EU Council Approves New \"Chat Control\" Mandate Pushing Mass Surveillance",
+    "url": "https://reclaimthenet.org/eu-council-approves-new-chat-control-mandate-pushing-mass-surveillance",
+    "points": 582,
+    "num_comments": 385,
     "tags": [
       "story",
-      "author_selvan",
-      "story_46064757",
-      "front_page"
+      "author_fragebogen",
+      "story_46077393"
     ],
-    "author": "selvan",
-    "created_at": "2025-11-27T02:14:36Z",
-    "aiHeadline": "Penpot: The Open-Source Figma Clone That's Basically Figma But Without the Fancy Marketing Team"
+    "author": "fragebogen",
+    "created_at": "2025-11-28T10:36:08Z",
+    "aiHeadline": "The EU Council just approved a new 'Chat Control' mandate, because nothing says 'we're watching you' like a little surveillance on the side."
   },
   {
-    "title": "Linux Kernel Explorer",
-    "url": "https://reverser.dev/linux-kernel-explorer",
-    "points": 533,
-    "num_comments": 79,
+    "title": "Petition to formally recognize open source work as civic service in Germany",
+    "url": "https://www.openpetition.de/petition/online/anerkennung-von-open-source-arbeit-als-ehrenamt-in-deutschland#petition-main",
+    "points": 499,
+    "num_comments": 116,
     "tags": [
       "story",
-      "author_tanelpoder",
-      "story_46066280",
-      "front_page"
+      "author_PhilippGille",
+      "story_46078770"
     ],
-    "author": "tanelpoder",
-    "created_at": "2025-11-27T06:17:37Z",
-    "aiHeadline": "Linux Kernel Explorer: Because Who Doesn't Want to Spend Their Free Time Digging Through Thousands of Lines of Kernel Code?"
+    "author": "PhilippGille",
+    "created_at": "2025-11-28T14:08:14Z",
+    "aiHeadline": "Germany is considering recognizing open-source work as civic service, which is about as groundbreaking as finally giving credit to the people who invented the wheel."
   },
   {
-    "title": "Tell HN: Happy Thanksgiving",
-    "points": 510,
-    "num_comments": 126,
+    "title": "Show HN: Glasses to detect smart-glasses that have cameras",
+    "url": "https://github.com/NullPxl/banrays",
+    "points": 469,
+    "num_comments": 173,
     "tags": [
       "story",
-      "author_prodigycorp",
-      "story_46065955",
-      "ask_hn",
-      "front_page"
+      "author_nullpxl",
+      "story_46075882",
+      "show_hn"
     ],
-    "author": "prodigycorp",
-    "created_at": "2025-11-27T05:21:16Z",
-    "aiHeadline": "Tell HN: Happy Thanksgiving! Now Go Eat Some Turkey and Try Not to Fall Asleep During the Football Game"
+    "author": "nullpxl",
+    "created_at": "2025-11-28T05:52:38Z",
+    "aiHeadline": "Introducing 'banrays,' the ultimate glasses to detect smart glasses with cameras, because who needs privacy when you can just look like a tech-savvy fashionista?"
   },
   {
-    "title": "DIY NAS: 2026 Edition",
-    "url": "https://blog.briancmoses.com/2025/11/diy-nas-2026-edition.html",
-    "points": 396,
-    "num_comments": 254,
+    "title": "Credit report shows Meta keeping $27B off its books through advanced geometry",
+    "url": "https://stohl.substack.com/p/exclusive-credit-report-shows-meta",
+    "points": 351,
+    "num_comments": 184,
     "tags": [
       "story",
-      "author_sashk",
-      "story_46065034",
+      "author_FreeQueso",
+      "story_46079868",
       "front_page"
     ],
-    "author": "sashk",
-    "created_at": "2025-11-27T02:54:23Z",
-    "aiHeadline": "DIY NAS 2026 Edition: Because Who Needs a Cloud When You Can Just Build Your Own Personal Data Center in the Basement?"
+    "author": "FreeQueso",
+    "created_at": "2025-11-28T16:09:50Z",
+    "aiHeadline": "Meta's credit report reveals they've been hiding $27B using advanced geometry, proving that even in the digital age, magic still exists—but only for tech giants."
   }
 ]
