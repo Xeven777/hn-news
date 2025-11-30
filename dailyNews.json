@@ -1,74 +1,74 @@
 [
   {
-    "title": "Pocketbase – open-source realtime back end in 1 file",
-    "url": "https://pocketbase.io/",
-    "points": 602,
-    "num_comments": 175,
+    "title": "Leak confirms OpenAI is preparing ads on ChatGPT for public roll out",
+    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-preparing-ads-on-chatgpt-for-public-roll-out/",
+    "points": 504,
+    "num_comments": 488,
     "tags": [
       "story",
-      "author_modinfo",
-      "story_46075320"
-    ],
-    "author": "modinfo",
-    "created_at": "2025-11-28T03:45:04Z",
-    "aiHeadline": "Meet Pocketbase, the open-source backend that's so tiny it fits in one file, proving that sometimes less really is more."
-  },
-  {
-    "title": "EU Council Approves New \"Chat Control\" Mandate Pushing Mass Surveillance",
-    "url": "https://reclaimthenet.org/eu-council-approves-new-chat-control-mandate-pushing-mass-surveillance",
-    "points": 582,
-    "num_comments": 385,
-    "tags": [
-      "story",
-      "author_fragebogen",
-      "story_46077393"
-    ],
-    "author": "fragebogen",
-    "created_at": "2025-11-28T10:36:08Z",
-    "aiHeadline": "The EU Council just approved a new 'Chat Control' mandate, because nothing says 'we're watching you' like a little surveillance on the side."
-  },
-  {
-    "title": "Petition to formally recognize open source work as civic service in Germany",
-    "url": "https://www.openpetition.de/petition/online/anerkennung-von-open-source-arbeit-als-ehrenamt-in-deutschland#petition-main",
-    "points": 499,
-    "num_comments": 116,
-    "tags": [
-      "story",
-      "author_PhilippGille",
-      "story_46078770"
-    ],
-    "author": "PhilippGille",
-    "created_at": "2025-11-28T14:08:14Z",
-    "aiHeadline": "Germany is considering recognizing open-source work as civic service, which is about as groundbreaking as finally giving credit to the people who invented the wheel."
-  },
-  {
-    "title": "Show HN: Glasses to detect smart-glasses that have cameras",
-    "url": "https://github.com/NullPxl/banrays",
-    "points": 469,
-    "num_comments": 173,
-    "tags": [
-      "story",
-      "author_nullpxl",
-      "story_46075882",
-      "show_hn"
-    ],
-    "author": "nullpxl",
-    "created_at": "2025-11-28T05:52:38Z",
-    "aiHeadline": "Introducing 'banrays,' the ultimate glasses to detect smart glasses with cameras, because who needs privacy when you can just look like a tech-savvy fashionista?"
-  },
-  {
-    "title": "Credit report shows Meta keeping $27B off its books through advanced geometry",
-    "url": "https://stohl.substack.com/p/exclusive-credit-report-shows-meta",
-    "points": 351,
-    "num_comments": 184,
-    "tags": [
-      "story",
-      "author_FreeQueso",
-      "story_46079868",
+      "author_fleahunter",
+      "story_46086771",
       "front_page"
     ],
-    "author": "FreeQueso",
-    "created_at": "2025-11-28T16:09:50Z",
-    "aiHeadline": "Meta's credit report reveals they've been hiding $27B using advanced geometry, proving that even in the digital age, magic still exists—but only for tech giants."
+    "author": "fleahunter",
+    "created_at": "2025-11-29T11:31:58Z",
+    "aiHeadline": "OpenAI Finally Admits ChatGPT Needs Ads to Stay Relevant, Because Apparently Free AI Isn't Profitable Enough"
+  },
+  {
+    "title": "Iceland declares ocean-current instability a national security risk",
+    "url": "https://edition.cnn.com/2025/11/15/climate/iceland-warming-current-amoc-collapse-threat",
+    "points": 329,
+    "num_comments": 129,
+    "tags": [
+      "story",
+      "author_donohoe",
+      "story_46088192"
+    ],
+    "author": "donohoe",
+    "created_at": "2025-11-29T15:21:29Z",
+    "aiHeadline": "Iceland Panics as Gulf Stream Might Actually Do Something Unexpected, Because Who Knew Ocean Currents Could Be So Dramatic?"
+  },
+  {
+    "title": "System 7 natively boots on the Mac mini G4",
+    "url": "https://macos9lives.com/smforum/index.php?topic=7711.0",
+    "points": 315,
+    "num_comments": 101,
+    "tags": [
+      "story",
+      "author_ibobev",
+      "story_46084956"
+    ],
+    "author": "ibobev",
+    "created_at": "2025-11-29T03:26:01Z",
+    "aiHeadline": "System 7 on a Mac mini G4: Because Who Doesn't Want to Relive the 90s While Booting a 25-Year-Old OS?"
+  },
+  {
+    "title": "All it takes is for one to work out",
+    "url": "https://alearningaday.blog/2025/11/28/all-it-takes-is-for-one-to-work-out-2/",
+    "points": 301,
+    "num_comments": 164,
+    "tags": [
+      "story",
+      "author_herbertl",
+      "story_46090433",
+      "front_page"
+    ],
+    "author": "herbertl",
+    "created_at": "2025-11-29T20:22:44Z",
+    "aiHeadline": "One Person Working Out Apparently Solves All of Humanity's Problems, According to This Blog Post That's Surprisingly Convinced"
+  },
+  {
+    "title": "It's Always the Process, Stupid",
+    "url": "https://its.promp.td/its-always-the-process-stupid/",
+    "points": 250,
+    "num_comments": 105,
+    "tags": [
+      "story",
+      "author_DocIsInDaHouse",
+      "story_46087737"
+    ],
+    "author": "DocIsInDaHouse",
+    "created_at": "2025-11-29T14:20:46Z",
+    "aiHeadline": "The Process is the Problem, Shocking Revelation from the 21st Century That No One Saw Coming"
   }
 ]
