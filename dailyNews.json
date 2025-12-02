@@ -1,75 +1,75 @@
 [
   {
-    "title": "Advent of Code 2025",
-    "url": "https://adventofcode.com/2025/about",
-    "points": 726,
-    "num_comments": 251,
+    "title": "Search tool that only returns content created before ChatGPT's public release",
+    "url": "https://tegabrain.com/Slop-Evader",
+    "points": 831,
+    "num_comments": 323,
     "tags": [
       "story",
-      "author_vismit2000",
-      "story_46096337",
+      "author_dmitrygr",
+      "story_46103376"
+    ],
+    "author": "dmitrygr",
+    "created_at": "2025-12-01T04:06:06Z",
+    "aiHeadline": "Search tool tries to turn back the clock on AI, because apparently, the internet was better before ChatGPT ruined everything."
+  },
+  {
+    "title": "DeepSeek-v3.2: Pushing the frontier of open large language models [pdf]",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V3.2/resolve/main/assets/paper.pdf",
+    "points": 542,
+    "num_comments": 259,
+    "tags": [
+      "story",
+      "author_pretext",
+      "story_46108780",
       "front_page"
     ],
-    "author": "vismit2000",
-    "created_at": "2025-11-30T13:07:15Z",
-    "aiHeadline": "Advent of Code 2025: Because Solving Problems in December Wasn't Stressful Enough!"
+    "author": "pretext",
+    "created_at": "2025-12-01T15:48:03Z",
+    "aiHeadline": "AI researchers release yet another overpowered language model, because the world clearly needs more ways to generate text that no one asked for."
   },
   {
-    "title": "Show HN: Boing",
-    "url": "https://boing.greg.technology/",
-    "points": 706,
-    "num_comments": 139,
+    "title": "Why xor eax, eax?",
+    "url": "https://xania.org/202512/01-xor-eax-eax",
+    "points": 487,
+    "num_comments": 184,
     "tags": [
       "story",
-      "author_gregsadetsky",
-      "story_46093473",
-      "show_hn"
-    ],
-    "author": "gregsadetsky",
-    "created_at": "2025-11-30T03:46:35Z",
-    "aiHeadline": "Show HN: Boing - Because Who Doesn't Want to Spend Hours Staring at a Bouncing Ball?"
-  },
-  {
-    "title": "Zigbook Is Plagiarizing the Zigtools Playground",
-    "url": "https://zigtools.org/blog/zigbook-plagiarizing-playground/",
-    "points": 451,
-    "num_comments": 134,
-    "tags": [
-      "story",
-      "author_todsacerdoti",
-      "story_46093518"
-    ],
-    "author": "todsacerdoti",
-    "created_at": "2025-11-30T03:54:51Z",
-    "aiHeadline": "Zigbook Accused of Plagiarizing Zigtools Playground: Because Who Needs Original Content When You Can Just Copy It?"
-  },
-  {
-    "title": "Windows drive letters are not limited to A-Z",
-    "url": "https://www.ryanliptak.com/blog/windows-drive-letters-are-not-limited-to-a-z/",
-    "points": 371,
-    "num_comments": 180,
-    "tags": [
-      "story",
-      "author_LorenDB",
-      "story_46096556",
+      "author_hasheddan",
+      "story_46106556",
       "front_page"
     ],
-    "author": "LorenDB",
-    "created_at": "2025-11-30T13:40:17Z",
-    "aiHeadline": "Windows Drive Letters: Now You Can Have Drives Named 'A1' and 'B2' - Because A-Z Wasn't Enough for Your Storage Needs!"
+    "author": "hasheddan",
+    "created_at": "2025-12-01T12:22:35Z",
+    "aiHeadline": "Why would anyone ever write 'xor eax, eax' in assembly? Because clearly, the world needs more confusing ways to zero out a register."
   },
   {
-    "title": "Don't push AI down our throats",
-    "url": "https://gpt3experiments.substack.com/p/dont-push-ai-down-our-throats",
-    "points": 356,
-    "num_comments": 265,
+    "title": "Google Antigravity just deleted the contents of whole drive",
+    "url": "https://old.reddit.com/r/google_antigravity/comments/1p82or6/google_antigravity_just_deleted_the_contents_of/",
+    "points": 483,
+    "num_comments": 454,
     "tags": [
       "story",
-      "author_nutanc",
-      "story_46098992"
+      "author_tamnd",
+      "story_46103532"
     ],
-    "author": "nutanc",
-    "created_at": "2025-11-30T18:17:13Z",
-    "aiHeadline": "Don't Push AI Down Our Throats: Because We All Know AI is the Solution to Every Problem, Right?"
+    "author": "tamnd",
+    "created_at": "2025-12-01T04:39:28Z",
+    "aiHeadline": "Google Antigravity introduces a new feature: deleting your entire drive for fun and profit. Because who needs data when you can have a clean slate?"
+  },
+  {
+    "title": "India orders smartphone makers to preload state-owned cyber safety app",
+    "url": "https://www.reuters.com/sustainability/boards-policy-regulation/india-orders-mobile-phones-preloaded-with-government-app-ensure-cyber-safety-2025-12-01/",
+    "points": 443,
+    "num_comments": 238,
+    "tags": [
+      "story",
+      "author_jmsflknr",
+      "story_46104193",
+      "front_page"
+    ],
+    "author": "jmsflknr",
+    "created_at": "2025-12-01T06:30:14Z",
+    "aiHeadline": "India tells smartphone makers to preload government spyware, because nothing says 'cyber safety' like having the state monitor everything you do."
   }
 ]
