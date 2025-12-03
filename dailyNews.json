@@ -1,75 +1,75 @@
 [
   {
-    "title": "Search tool that only returns content created before ChatGPT's public release",
-    "url": "https://tegabrain.com/Slop-Evader",
-    "points": 831,
-    "num_comments": 323,
+    "title": "Anthropic acquires Bun",
+    "url": "https://bun.com/blog/bun-joins-anthropic",
+    "points": 1385,
+    "num_comments": 681,
     "tags": [
       "story",
-      "author_dmitrygr",
-      "story_46103376"
-    ],
-    "author": "dmitrygr",
-    "created_at": "2025-12-01T04:06:06Z",
-    "aiHeadline": "Search tool tries to turn back the clock on AI, because apparently, the internet was better before ChatGPT ruined everything."
-  },
-  {
-    "title": "DeepSeek-v3.2: Pushing the frontier of open large language models [pdf]",
-    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V3.2/resolve/main/assets/paper.pdf",
-    "points": 542,
-    "num_comments": 259,
-    "tags": [
-      "story",
-      "author_pretext",
-      "story_46108780",
+      "author_ryanvogel",
+      "story_46124267",
       "front_page"
     ],
-    "author": "pretext",
-    "created_at": "2025-12-01T15:48:03Z",
-    "aiHeadline": "AI researchers release yet another overpowered language model, because the world clearly needs more ways to generate text that no one asked for."
+    "author": "ryanvogel",
+    "created_at": "2025-12-02T18:05:44Z",
+    "aiHeadline": "Anthropic acquires Bun, proving that even AI companies need a reliable sandwich shop."
   },
   {
-    "title": "Why xor eax, eax?",
-    "url": "https://xania.org/202512/01-xor-eax-eax",
-    "points": 487,
-    "num_comments": 184,
+    "title": "Mistral 3 family of models released",
+    "url": "https://mistral.ai/news/mistral-3",
+    "points": 659,
+    "num_comments": 189,
     "tags": [
       "story",
-      "author_hasheddan",
-      "story_46106556",
+      "author_pember",
+      "story_46121889",
       "front_page"
     ],
-    "author": "hasheddan",
-    "created_at": "2025-12-01T12:22:35Z",
-    "aiHeadline": "Why would anyone ever write 'xor eax, eax' in assembly? Because clearly, the world needs more confusing ways to zero out a register."
+    "author": "pember",
+    "created_at": "2025-12-02T15:01:53Z",
+    "aiHeadline": "Mistral 3 family of models released, because who doesn't need more models in their life?"
   },
   {
-    "title": "Google Antigravity just deleted the contents of whole drive",
-    "url": "https://old.reddit.com/r/google_antigravity/comments/1p82or6/google_antigravity_just_deleted_the_contents_of/",
-    "points": 483,
-    "num_comments": 454,
+    "title": "What will enter the public domain in 2026?",
+    "url": "https://publicdomainreview.org/features/entering-the-public-domain/2026/",
+    "points": 475,
+    "num_comments": 342,
     "tags": [
       "story",
-      "author_tamnd",
-      "story_46103532"
+      "author_herbertl",
+      "story_46117112"
     ],
-    "author": "tamnd",
-    "created_at": "2025-12-01T04:39:28Z",
-    "aiHeadline": "Google Antigravity introduces a new feature: deleting your entire drive for fun and profit. Because who needs data when you can have a clean slate?"
+    "author": "herbertl",
+    "created_at": "2025-12-02T03:23:10Z",
+    "aiHeadline": "What will enter the public domain in 2026? Apparently, your old content will finally be free, because the universe has a sense of irony."
   },
   {
-    "title": "India orders smartphone makers to preload state-owned cyber safety app",
-    "url": "https://www.reuters.com/sustainability/boards-policy-regulation/india-orders-mobile-phones-preloaded-with-government-app-ensure-cyber-safety-2025-12-01/",
-    "points": 443,
-    "num_comments": 238,
+    "title": "OpenAI declares 'code red' as Google catches up in AI race",
+    "url": "https://www.theverge.com/news/836212/openai-code-red-chatgpt",
+    "points": 438,
+    "num_comments": 517,
     "tags": [
       "story",
-      "author_jmsflknr",
-      "story_46104193",
+      "author_goplayoutside",
+      "story_46121870",
       "front_page"
     ],
-    "author": "jmsflknr",
-    "created_at": "2025-12-01T06:30:14Z",
-    "aiHeadline": "India tells smartphone makers to preload government spyware, because nothing says 'cyber safety' like having the state monitor everything you do."
+    "author": "goplayoutside",
+    "created_at": "2025-12-02T15:00:16Z",
+    "aiHeadline": "OpenAI declares 'code red' as Google catches up in AI race, proving that even geniuses can have a bad day."
+  },
+  {
+    "title": "Apple Releases Open Weights Video Model",
+    "url": "https://starflow-v.github.io",
+    "points": 428,
+    "num_comments": 152,
+    "tags": [
+      "story",
+      "author_vessenes",
+      "story_46117802"
+    ],
+    "author": "vessenes",
+    "created_at": "2025-12-02T05:10:01Z",
+    "aiHeadline": "Apple Releases Open Weights Video Model, because even they can't keep everything under wraps forever."
   }
 ]
