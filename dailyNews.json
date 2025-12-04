@@ -1,75 +1,74 @@
 [
   {
-    "title": "Anthropic acquires Bun",
-    "url": "https://bun.com/blog/bun-joins-anthropic",
-    "points": 1385,
-    "num_comments": 681,
+    "title": "Zig quits GitHub, says Microsoft's AI obsession has ruined the service",
+    "url": "https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/",
+    "points": 949,
+    "num_comments": 556,
     "tags": [
       "story",
-      "author_ryanvogel",
-      "story_46124267",
+      "author_Brajeshwar",
+      "story_46131406"
+    ],
+    "author": "Brajeshwar",
+    "created_at": "2025-12-03T07:52:37Z",
+    "aiHeadline": "GitHub's AI Overhaul So Bad, Even Its Founder Zig Had to Quit in Despair"
+  },
+  {
+    "title": "Accepting US car standards would risk European lives",
+    "url": "https://etsc.eu/accepting-us-car-standards-would-risk-european-lives-warn-cities-and-civil-society/",
+    "points": 820,
+    "num_comments": 698,
+    "tags": [
+      "story",
+      "author_saubeidl",
+      "story_46131330"
+    ],
+    "author": "saubeidl",
+    "created_at": "2025-12-03T07:41:51Z",
+    "aiHeadline": "Europeans Warn US Car Standards Are So Terrible, They Might Actually Kill You"
+  },
+  {
+    "title": "“Captain Gains” on Capitol Hill",
+    "url": "https://www.nber.org/papers/w34524",
+    "points": 781,
+    "num_comments": 506,
+    "tags": [
+      "story",
+      "author_mhb",
+      "story_46134443"
+    ],
+    "author": "mhb",
+    "created_at": "2025-12-03T13:50:10Z",
+    "aiHeadline": "Meet 'Captain Gains,' the Capitol Hill Hero Who's Probably Just Out for Himself"
+  },
+  {
+    "title": "Ghostty is now non-profit",
+    "url": "https://mitchellh.com/writing/ghostty-non-profit",
+    "points": 761,
+    "num_comments": 149,
+    "tags": [
+      "story",
+      "author_vrnvu",
+      "story_46138238",
       "front_page"
     ],
-    "author": "ryanvogel",
-    "created_at": "2025-12-02T18:05:44Z",
-    "aiHeadline": "Anthropic acquires Bun, proving that even AI companies need a reliable sandwich shop."
+    "author": "vrnvu",
+    "created_at": "2025-12-03T18:40:06Z",
+    "aiHeadline": "Ghostty Finally Becomes Non-Profit, Probably to Avoid Paying Taxes"
   },
   {
-    "title": "Mistral 3 family of models released",
-    "url": "https://mistral.ai/news/mistral-3",
-    "points": 659,
-    "num_comments": 189,
+    "title": "Everyone in Seattle hates AI",
+    "url": "https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html",
+    "points": 578,
+    "num_comments": 546,
     "tags": [
       "story",
-      "author_pember",
-      "story_46121889",
+      "author_mips_avatar",
+      "story_46138952",
       "front_page"
     ],
-    "author": "pember",
-    "created_at": "2025-12-02T15:01:53Z",
-    "aiHeadline": "Mistral 3 family of models released, because who doesn't need more models in their life?"
-  },
-  {
-    "title": "What will enter the public domain in 2026?",
-    "url": "https://publicdomainreview.org/features/entering-the-public-domain/2026/",
-    "points": 475,
-    "num_comments": 342,
-    "tags": [
-      "story",
-      "author_herbertl",
-      "story_46117112"
-    ],
-    "author": "herbertl",
-    "created_at": "2025-12-02T03:23:10Z",
-    "aiHeadline": "What will enter the public domain in 2026? Apparently, your old content will finally be free, because the universe has a sense of irony."
-  },
-  {
-    "title": "OpenAI declares 'code red' as Google catches up in AI race",
-    "url": "https://www.theverge.com/news/836212/openai-code-red-chatgpt",
-    "points": 438,
-    "num_comments": 517,
-    "tags": [
-      "story",
-      "author_goplayoutside",
-      "story_46121870",
-      "front_page"
-    ],
-    "author": "goplayoutside",
-    "created_at": "2025-12-02T15:00:16Z",
-    "aiHeadline": "OpenAI declares 'code red' as Google catches up in AI race, proving that even geniuses can have a bad day."
-  },
-  {
-    "title": "Apple Releases Open Weights Video Model",
-    "url": "https://starflow-v.github.io",
-    "points": 428,
-    "num_comments": 152,
-    "tags": [
-      "story",
-      "author_vessenes",
-      "story_46117802"
-    ],
-    "author": "vessenes",
-    "created_at": "2025-12-02T05:10:01Z",
-    "aiHeadline": "Apple Releases Open Weights Video Model, because even they can't keep everything under wraps forever."
+    "author": "mips_avatar",
+    "created_at": "2025-12-03T19:37:25Z",
+    "aiHeadline": "Seattle's Tech Elite Hate AI Now, Probably Because It's Taking Over Their Jobs"
   }
 ]
