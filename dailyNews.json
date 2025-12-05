@@ -1,74 +1,76 @@
 [
   {
-    "title": "Zig quits GitHub, says Microsoft's AI obsession has ruined the service",
-    "url": "https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/",
-    "points": 949,
-    "num_comments": 556,
+    "title": "It’s time to free JavaScript (2024)",
+    "url": "https://javascript.tm/letter",
+    "points": 653,
+    "num_comments": 331,
     "tags": [
       "story",
-      "author_Brajeshwar",
-      "story_46131406"
-    ],
-    "author": "Brajeshwar",
-    "created_at": "2025-12-03T07:52:37Z",
-    "aiHeadline": "GitHub's AI Overhaul So Bad, Even Its Founder Zig Had to Quit in Despair"
-  },
-  {
-    "title": "Accepting US car standards would risk European lives",
-    "url": "https://etsc.eu/accepting-us-car-standards-would-risk-european-lives-warn-cities-and-civil-society/",
-    "points": 820,
-    "num_comments": 698,
-    "tags": [
-      "story",
-      "author_saubeidl",
-      "story_46131330"
-    ],
-    "author": "saubeidl",
-    "created_at": "2025-12-03T07:41:51Z",
-    "aiHeadline": "Europeans Warn US Car Standards Are So Terrible, They Might Actually Kill You"
-  },
-  {
-    "title": "“Captain Gains” on Capitol Hill",
-    "url": "https://www.nber.org/papers/w34524",
-    "points": 781,
-    "num_comments": 506,
-    "tags": [
-      "story",
-      "author_mhb",
-      "story_46134443"
-    ],
-    "author": "mhb",
-    "created_at": "2025-12-03T13:50:10Z",
-    "aiHeadline": "Meet 'Captain Gains,' the Capitol Hill Hero Who's Probably Just Out for Himself"
-  },
-  {
-    "title": "Ghostty is now non-profit",
-    "url": "https://mitchellh.com/writing/ghostty-non-profit",
-    "points": 761,
-    "num_comments": 149,
-    "tags": [
-      "story",
-      "author_vrnvu",
-      "story_46138238",
+      "author_pavelai",
+      "story_46145365",
       "front_page"
     ],
-    "author": "vrnvu",
-    "created_at": "2025-12-03T18:40:06Z",
-    "aiHeadline": "Ghostty Finally Becomes Non-Profit, Probably to Avoid Paying Taxes"
+    "author": "pavelai",
+    "created_at": "2025-12-04T09:01:55Z",
+    "aiHeadline": "JavaScript finally breaks free from its chains, proving that even the most popular programming language needs a vacation."
   },
   {
-    "title": "Everyone in Seattle hates AI",
-    "url": "https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html",
-    "points": 578,
-    "num_comments": 546,
+    "title": "PGlite – Embeddable Postgres",
+    "url": "https://pglite.dev/",
+    "points": 503,
+    "num_comments": 102,
     "tags": [
       "story",
-      "author_mips_avatar",
-      "story_46138952",
+      "author_dsego",
+      "story_46146133",
       "front_page"
     ],
-    "author": "mips_avatar",
-    "created_at": "2025-12-03T19:37:25Z",
-    "aiHeadline": "Seattle's Tech Elite Hate AI Now, Probably Because It's Taking Over Their Jobs"
+    "author": "dsego",
+    "created_at": "2025-12-04T10:52:42Z",
+    "aiHeadline": "Postgres gets a gym membership, loses weight, and becomes PGlite—now small enough to fit in your pocket, but still as opinionated as ever."
+  },
+  {
+    "title": "How elites could shape mass preferences as AI reduces persuasion costs",
+    "url": "https://arxiv.org/abs/2512.04047",
+    "points": 490,
+    "num_comments": 478,
+    "tags": [
+      "story",
+      "author_50kIters",
+      "story_46145180",
+      "front_page"
+    ],
+    "author": "50kIters",
+    "created_at": "2025-12-04T08:38:17Z",
+    "aiHeadline": "Elites are getting smarter, using AI to make persuasion as easy as ordering pizza—just add a click and you're convinced."
+  },
+  {
+    "title": "Why are 38 percent of Stanford students saying they're disabled?",
+    "url": "https://reason.com/2025/12/04/why-are-38-percent-of-stanford-students-saying-theyre-disabled/",
+    "points": 468,
+    "num_comments": 711,
+    "tags": [
+      "story",
+      "author_delichon",
+      "story_46150715",
+      "front_page"
+    ],
+    "author": "delichon",
+    "created_at": "2025-12-04T18:04:07Z",
+    "aiHeadline": "Stanford students are 38% more likely to say they're disabled, proving that even the smartest kids can be a bit lazy."
+  },
+  {
+    "title": "Unreal Tournament 2004 is back",
+    "url": "https://old.reddit.com/r/unrealtournament/comments/1pdbe69/breaking_unreal_tournament_2004_is_back/",
+    "points": 417,
+    "num_comments": 186,
+    "tags": [
+      "story",
+      "author_keithoffer",
+      "story_46145834"
+    ],
+    "author": "keithoffer",
+    "created_at": "2025-12-04T10:06:35Z",
+    "aiHeadline": "Unreal Tournament 2004 returns, proving that some things never get old—except your memory of how good you used to be."
   }
 ]
