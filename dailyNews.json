@@ -1,76 +1,75 @@
 [
   {
-    "title": "It’s time to free JavaScript (2024)",
-    "url": "https://javascript.tm/letter",
-    "points": 653,
-    "num_comments": 331,
+    "title": "Netflix to Acquire Warner Bros",
+    "url": "https://about.netflix.com/en/news/netflix-to-acquire-warner-bros",
+    "points": 1446,
+    "num_comments": 1133,
     "tags": [
       "story",
-      "author_pavelai",
-      "story_46145365",
+      "author_meetpateltech",
+      "story_46160315",
       "front_page"
     ],
-    "author": "pavelai",
-    "created_at": "2025-12-04T09:01:55Z",
-    "aiHeadline": "JavaScript finally breaks free from its chains, proving that even the most popular programming language needs a vacation."
+    "author": "meetpateltech",
+    "created_at": "2025-12-05T12:21:19Z",
+    "aiHeadline": "Netflix's latest acquisition: Warner Bros., because why have one streaming service when you can have all of them?"
   },
   {
-    "title": "PGlite – Embeddable Postgres",
-    "url": "https://pglite.dev/",
-    "points": 503,
-    "num_comments": 102,
+    "title": "Cloudflare was down",
+    "url": "https://www.cloudflare.com/",
+    "points": 811,
+    "num_comments": 518,
     "tags": [
       "story",
-      "author_dsego",
-      "story_46146133",
+      "author_mektrik",
+      "story_46158191"
+    ],
+    "author": "mektrik",
+    "created_at": "2025-12-05T08:50:16Z",
+    "aiHeadline": "Cloudflare outage: because nothing says 'good morning' like a worldwide internet meltdown."
+  },
+  {
+    "title": "Cloudflare outage on December 5, 2025",
+    "url": "https://blog.cloudflare.com/5-december-2025-outage/",
+    "points": 555,
+    "num_comments": 422,
+    "tags": [
+      "story",
+      "author_meetpateltech",
+      "story_46162656",
       "front_page"
     ],
-    "author": "dsego",
-    "created_at": "2025-12-04T10:52:42Z",
-    "aiHeadline": "Postgres gets a gym membership, loses weight, and becomes PGlite—now small enough to fit in your pocket, but still as opinionated as ever."
+    "author": "meetpateltech",
+    "created_at": "2025-12-05T15:35:43Z",
+    "aiHeadline": "Cloudflare outage on December 5, 2025: Because one outage wasn't enough to ruin your day."
   },
   {
-    "title": "How elites could shape mass preferences as AI reduces persuasion costs",
-    "url": "https://arxiv.org/abs/2512.04047",
-    "points": 490,
-    "num_comments": 478,
+    "title": "The US polluters that are rewriting the EU's human rights and climate law",
+    "url": "https://www.somo.nl/the-secretive-cabal-of-us-polluters-that-is-rewriting-the-eus-human-rights-and-climate-law/",
+    "points": 421,
+    "num_comments": 249,
     "tags": [
       "story",
-      "author_50kIters",
-      "story_46145180",
+      "author_saubeidl",
+      "story_46159193"
+    ],
+    "author": "saubeidl",
+    "created_at": "2025-12-05T09:58:01Z",
+    "aiHeadline": "US Polluters Rewrite EU Laws: Because who needs environmental protections when you can have corporate profits?"
+  },
+  {
+    "title": "UniFi 5G",
+    "url": "https://blog.ui.com/article/introducing-unifi-5g",
+    "points": 348,
+    "num_comments": 281,
+    "tags": [
+      "story",
+      "author_janandonly",
+      "story_46157594",
       "front_page"
     ],
-    "author": "50kIters",
-    "created_at": "2025-12-04T08:38:17Z",
-    "aiHeadline": "Elites are getting smarter, using AI to make persuasion as easy as ordering pizza—just add a click and you're convinced."
-  },
-  {
-    "title": "Why are 38 percent of Stanford students saying they're disabled?",
-    "url": "https://reason.com/2025/12/04/why-are-38-percent-of-stanford-students-saying-theyre-disabled/",
-    "points": 468,
-    "num_comments": 711,
-    "tags": [
-      "story",
-      "author_delichon",
-      "story_46150715",
-      "front_page"
-    ],
-    "author": "delichon",
-    "created_at": "2025-12-04T18:04:07Z",
-    "aiHeadline": "Stanford students are 38% more likely to say they're disabled, proving that even the smartest kids can be a bit lazy."
-  },
-  {
-    "title": "Unreal Tournament 2004 is back",
-    "url": "https://old.reddit.com/r/unrealtournament/comments/1pdbe69/breaking_unreal_tournament_2004_is_back/",
-    "points": 417,
-    "num_comments": 186,
-    "tags": [
-      "story",
-      "author_keithoffer",
-      "story_46145834"
-    ],
-    "author": "keithoffer",
-    "created_at": "2025-12-04T10:06:35Z",
-    "aiHeadline": "Unreal Tournament 2004 returns, proving that some things never get old—except your memory of how good you used to be."
+    "author": "janandonly",
+    "created_at": "2025-12-05T07:06:38Z",
+    "aiHeadline": "UniFi 5G: Because your Wi-Fi was working just fine, but now it's 5G-enabled and somehow still manages to drop the connection."
   }
 ]
