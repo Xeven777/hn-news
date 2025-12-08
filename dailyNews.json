@@ -1,74 +1,76 @@
 [
   {
-    "title": "Schizophrenia sufferer mistakes smart fridge ad for psychotic episode",
-    "url": "https://old.reddit.com/r/LegalAdviceUK/comments/1pc7999/my_schizophrenic_sister_hospitalised_herself/",
-    "points": 479,
-    "num_comments": 431,
+    "title": "The state of Schleswig-Holstein is consistently relying on open source",
+    "url": "https://www.heise.de/en/news/Goodbye-Microsoft-Schleswig-Holstein-relies-on-Open-Source-and-saves-millions-11105459.html",
+    "points": 515,
+    "num_comments": 238,
     "tags": [
       "story",
-      "author_hliyan",
-      "story_46171425"
-    ],
-    "author": "hliyan",
-    "created_at": "2025-12-06T07:31:07Z",
-    "aiHeadline": "Woman with schizophrenia mistakes smart fridge ad for a hallucination, proving that some tech is just too advanced for its own good."
-  },
-  {
-    "title": "GrapheneOS is the only Android OS providing full security patches",
-    "url": "https://grapheneos.social/@GrapheneOS/115647408229616018",
-    "points": 467,
-    "num_comments": 202,
-    "tags": [
-      "story",
-      "author_akyuu",
-      "story_46173407",
+      "author_doener",
+      "story_46181491",
       "front_page"
     ],
-    "author": "akyuu",
-    "created_at": "2025-12-06T13:58:31Z",
-    "aiHeadline": "GrapheneOS is the only Android OS that actually gives a damn about your security, unlike all the others that just let you get hacked."
+    "author": "doener",
+    "created_at": "2025-12-07T13:21:24Z",
+    "aiHeadline": "Goodbye, Microsoft! Schleswig-Holstein saves millions by embracing open-source software and proving that you don't need expensive proprietary solutions to run a state."
   },
   {
-    "title": "How I discovered a hidden microphone on a Chinese NanoKVM",
-    "url": "https://telefoncek.si/2025/02/2025-02-10-hidden-microphone-on-nanokvm/",
-    "points": 371,
-    "num_comments": 97,
+    "title": "Over fifty new hallucinations in ICLR 2026 submissions",
+    "url": "https://gptzero.me/news/iclr-2026/",
+    "points": 458,
+    "num_comments": 357,
     "tags": [
       "story",
-      "author_ementally",
-      "story_46173383"
-    ],
-    "author": "ementally",
-    "created_at": "2025-12-06T13:54:59Z",
-    "aiHeadline": "Some guy finds a hidden microphone in his Chinese NanoKVM, proving that even your keyboard is spying on you now."
-  },
-  {
-    "title": "Tiny Core Linux: a 23 MB Linux distro with graphical desktop",
-    "url": "http://www.tinycorelinux.net/",
-    "points": 357,
-    "num_comments": 165,
-    "tags": [
-      "story",
-      "author_LorenDB",
-      "story_46173547",
+      "author_puttycat",
+      "story_46181466",
       "front_page"
     ],
-    "author": "LorenDB",
-    "created_at": "2025-12-06T14:18:42Z",
-    "aiHeadline": "Linux geeks rejoice! Tiny Core Linux is so small it might disappear if you blink, but it still manages to have a graphical desktop."
+    "author": "puttycat",
+    "created_at": "2025-12-07T13:16:26Z",
+    "aiHeadline": "ICLR 2026 submissions are getting weirder by the day, with over fifty new hallucinations that will make you question reality itself. AI researchers are clearly having too much fun with their models."
   },
   {
-    "title": "Have I been Flocked? – Check if your license plate is being watched",
-    "url": "https://haveibeenflocked.com/",
-    "points": 289,
-    "num_comments": 218,
+    "title": "Google Titans architecture, helping AI have long-term memory",
+    "url": "https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/",
+    "points": 386,
+    "num_comments": 136,
     "tags": [
       "story",
-      "author_pkaeding",
-      "story_46170302"
+      "author_Alifatisk",
+      "story_46181231",
+      "front_page"
     ],
-    "author": "pkaeding",
-    "created_at": "2025-12-06T03:16:35Z",
-    "aiHeadline": "Wondering if your car is being watched? 'Have I been Flocked?' has the answer, because apparently, your license plate is the new social media."
+    "author": "Alifatisk",
+    "created_at": "2025-12-07T12:23:45Z",
+    "aiHeadline": "Google's new Titans architecture is giving AI the long-term memory it always deserved. Now, your chatbot can remember your preferences for months—because who needs privacy when you have persistence?"
+  },
+  {
+    "title": "Z2 – Lithographically fabricated IC in a garage fab",
+    "url": "https://sam.zeloof.xyz/second-ic/",
+    "points": 337,
+    "num_comments": 79,
+    "tags": [
+      "story",
+      "author_embedding-shape",
+      "story_46178789"
+    ],
+    "author": "embedding-shape",
+    "created_at": "2025-12-07T03:03:09Z",
+    "aiHeadline": "Meet Z2, the latest in DIY electronics: a lithographically fabricated IC created in a garage. Because why have a factory when you can have a garage full of circuit boards and ambition?"
+  },
+  {
+    "title": "I failed to recreate the 1996 Space Jam website with Claude",
+    "url": "https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude/",
+    "points": 299,
+    "num_comments": 250,
+    "tags": [
+      "story",
+      "author_thecr0w",
+      "story_46183294",
+      "front_page"
+    ],
+    "author": "thecr0w",
+    "created_at": "2025-12-07T17:18:54Z",
+    "aiHeadline": "In a surprising twist, someone failed to recreate the 1996 Space Jam website using Claude. Apparently, even AI can't bring back the glory days of Geocities and animated GIFs."
   }
 ]
