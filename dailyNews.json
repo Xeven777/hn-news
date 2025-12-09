@@ -1,76 +1,74 @@
 [
   {
-    "title": "The state of Schleswig-Holstein is consistently relying on open source",
-    "url": "https://www.heise.de/en/news/Goodbye-Microsoft-Schleswig-Holstein-relies-on-Open-Source-and-saves-millions-11105459.html",
-    "points": 515,
-    "num_comments": 238,
+    "title": "The fuck off contact page",
+    "url": "https://www.nicchan.me/blog/the-f-off-contact-page/",
+    "points": 449,
+    "num_comments": 183,
     "tags": [
       "story",
-      "author_doener",
-      "story_46181491",
-      "front_page"
+      "author_OuterVale",
+      "story_46189994"
     ],
-    "author": "doener",
-    "created_at": "2025-12-07T13:21:24Z",
-    "aiHeadline": "Goodbye, Microsoft! Schleswig-Holstein saves millions by embracing open-source software and proving that you don't need expensive proprietary solutions to run a state."
+    "author": "OuterVale",
+    "created_at": "2025-12-08T08:57:19Z",
+    "aiHeadline": "A developer's heartfelt plea: 'Please, just leave me alone' – The 'fuck off' contact page that says it all."
   },
   {
-    "title": "Over fifty new hallucinations in ICLR 2026 submissions",
-    "url": "https://gptzero.me/news/iclr-2026/",
-    "points": 458,
-    "num_comments": 357,
+    "title": "Microsoft has a problem: lack of demand for its AI products",
+    "url": "https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai",
+    "points": 379,
+    "num_comments": 318,
     "tags": [
       "story",
-      "author_puttycat",
-      "story_46181466",
-      "front_page"
+      "author_mohi-kalantari",
+      "story_46194615"
     ],
-    "author": "puttycat",
-    "created_at": "2025-12-07T13:16:26Z",
-    "aiHeadline": "ICLR 2026 submissions are getting weirder by the day, with over fifty new hallucinations that will make you question reality itself. AI researchers are clearly having too much fun with their models."
+    "author": "mohi-kalantari",
+    "created_at": "2025-12-08T16:54:31Z",
+    "aiHeadline": "Microsoft's AI products: So bad, even they can't find anyone to buy them – A lesson in what not to do when everyone's already doing it."
   },
   {
-    "title": "Google Titans architecture, helping AI have long-term memory",
-    "url": "https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/",
-    "points": 386,
-    "num_comments": 136,
+    "title": "GitHub Actions has a package manager, and it might be the worst",
+    "url": "https://nesbitt.io/2025/12/06/github-actions-package-manager.html",
+    "points": 379,
+    "num_comments": 225,
     "tags": [
       "story",
-      "author_Alifatisk",
-      "story_46181231",
-      "front_page"
+      "author_robin_reala",
+      "story_46189692"
     ],
-    "author": "Alifatisk",
-    "created_at": "2025-12-07T12:23:45Z",
-    "aiHeadline": "Google's new Titans architecture is giving AI the long-term memory it always deserved. Now, your chatbot can remember your preferences for months—because who needs privacy when you have persistence?"
+    "author": "robin_reala",
+    "created_at": "2025-12-08T08:15:32Z",
+    "aiHeadline": "GitHub's package manager: Because who doesn't love a tool that makes your workflow feel like a trip to the DMV?"
   },
   {
-    "title": "Z2 – Lithographically fabricated IC in a garage fab",
-    "url": "https://sam.zeloof.xyz/second-ic/",
-    "points": 337,
-    "num_comments": 79,
+    "title": "IBM to acquire Confluent",
+    "url": "https://www.confluent.io/blog/ibm-to-acquire-confluent/",
+    "points": 339,
+    "num_comments": 272,
     "tags": [
       "story",
-      "author_embedding-shape",
-      "story_46178789"
-    ],
-    "author": "embedding-shape",
-    "created_at": "2025-12-07T03:03:09Z",
-    "aiHeadline": "Meet Z2, the latest in DIY electronics: a lithographically fabricated IC created in a garage. Because why have a factory when you can have a garage full of circuit boards and ambition?"
-  },
-  {
-    "title": "I failed to recreate the 1996 Space Jam website with Claude",
-    "url": "https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude/",
-    "points": 299,
-    "num_comments": 250,
-    "tags": [
-      "story",
-      "author_thecr0w",
-      "story_46183294",
+      "author_abd12",
+      "story_46192130",
       "front_page"
     ],
-    "author": "thecr0w",
-    "created_at": "2025-12-07T17:18:54Z",
-    "aiHeadline": "In a surprising twist, someone failed to recreate the 1996 Space Jam website using Claude. Apparently, even AI can't bring back the glory days of Geocities and animated GIFs."
+    "author": "abd12",
+    "created_at": "2025-12-08T13:43:59Z",
+    "aiHeadline": "IBM's latest acquisition: Confluent – Because when you're struggling to keep up, why not just buy the company that's doing it right?"
+  },
+  {
+    "title": "Jepsen: NATS 2.12.1",
+    "url": "https://jepsen.io/analyses/nats-2.12.1",
+    "points": 272,
+    "num_comments": 104,
+    "tags": [
+      "story",
+      "author_aphyr",
+      "story_46196105",
+      "front_page"
+    ],
+    "author": "aphyr",
+    "created_at": "2025-12-08T18:51:03Z",
+    "aiHeadline": "Jepsen's latest analysis of NATS 2.12.1: Because who doesn't love a good old-fashioned 'this is terrible' review?"
   }
 ]
