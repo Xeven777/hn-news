@@ -1,74 +1,77 @@
 [
   {
-    "title": "The fuck off contact page",
-    "url": "https://www.nicchan.me/blog/the-f-off-contact-page/",
-    "points": 449,
-    "num_comments": 183,
+    "title": "Show HN: Gemini Pro 3 hallucinates the HN front page 10 years from now",
+    "url": "https://dosaygo-studio.github.io/hn-front-page-2035/news",
+    "points": 1864,
+    "num_comments": 640,
     "tags": [
       "story",
-      "author_OuterVale",
-      "story_46189994"
-    ],
-    "author": "OuterVale",
-    "created_at": "2025-12-08T08:57:19Z",
-    "aiHeadline": "A developer's heartfelt plea: 'Please, just leave me alone' – The 'fuck off' contact page that says it all."
-  },
-  {
-    "title": "Microsoft has a problem: lack of demand for its AI products",
-    "url": "https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai",
-    "points": 379,
-    "num_comments": 318,
-    "tags": [
-      "story",
-      "author_mohi-kalantari",
-      "story_46194615"
-    ],
-    "author": "mohi-kalantari",
-    "created_at": "2025-12-08T16:54:31Z",
-    "aiHeadline": "Microsoft's AI products: So bad, even they can't find anyone to buy them – A lesson in what not to do when everyone's already doing it."
-  },
-  {
-    "title": "GitHub Actions has a package manager, and it might be the worst",
-    "url": "https://nesbitt.io/2025/12/06/github-actions-package-manager.html",
-    "points": 379,
-    "num_comments": 225,
-    "tags": [
-      "story",
-      "author_robin_reala",
-      "story_46189692"
-    ],
-    "author": "robin_reala",
-    "created_at": "2025-12-08T08:15:32Z",
-    "aiHeadline": "GitHub's package manager: Because who doesn't love a tool that makes your workflow feel like a trip to the DMV?"
-  },
-  {
-    "title": "IBM to acquire Confluent",
-    "url": "https://www.confluent.io/blog/ibm-to-acquire-confluent/",
-    "points": 339,
-    "num_comments": 272,
-    "tags": [
-      "story",
-      "author_abd12",
-      "story_46192130",
+      "author_keepamovin",
+      "story_46205632",
+      "show_hn",
       "front_page"
     ],
-    "author": "abd12",
-    "created_at": "2025-12-08T13:43:59Z",
-    "aiHeadline": "IBM's latest acquisition: Confluent – Because when you're struggling to keep up, why not just buy the company that's doing it right?"
+    "author": "keepamovin",
+    "created_at": "2025-12-09T15:00:38Z",
+    "aiHeadline": "Time-traveling AI predicts HN front page 10 years into the future, and somehow it's still full of tech debates and cat videos."
   },
   {
-    "title": "Jepsen: NATS 2.12.1",
-    "url": "https://jepsen.io/analyses/nats-2.12.1",
-    "points": 272,
-    "num_comments": 104,
+    "title": "Ask HN: Should \"I asked $AI, and it said\" replies be forbidden in HN guidelines?",
+    "points": 774,
+    "num_comments": 416,
     "tags": [
       "story",
-      "author_aphyr",
-      "story_46196105",
+      "author_embedding-shape",
+      "story_46206457",
+      "ask_hn"
+    ],
+    "author": "embedding-shape",
+    "created_at": "2025-12-09T16:02:37Z",
+    "aiHeadline": "Ask HN: Should we ban people from saying 'I asked an AI and it said' because honestly, we're all just parrots now, right?"
+  },
+  {
+    "title": "Mistral releases Devstral2 and Mistral Vibe CLI",
+    "url": "https://mistral.ai/news/devstral-2-vibe-cli",
+    "points": 490,
+    "num_comments": 248,
+    "tags": [
+      "story",
+      "author_pember",
+      "story_46205437",
       "front_page"
     ],
-    "author": "aphyr",
-    "created_at": "2025-12-08T18:51:03Z",
-    "aiHeadline": "Jepsen's latest analysis of NATS 2.12.1: Because who doesn't love a good old-fashioned 'this is terrible' review?"
+    "author": "pember",
+    "created_at": "2025-12-09T14:45:01Z",
+    "aiHeadline": "Mistral drops new AI tools, because clearly the world needs more AI tools, and also because they're apparently the AI overlords now."
+  },
+  {
+    "title": "10 Years of Let's Encrypt",
+    "url": "https://letsencrypt.org/2025/12/09/10-years",
+    "points": 461,
+    "num_comments": 192,
+    "tags": [
+      "story",
+      "author_SGran",
+      "story_46208962",
+      "front_page"
+    ],
+    "author": "SGran",
+    "created_at": "2025-12-09T18:54:55Z",
+    "aiHeadline": "Let's Encrypt turns 10, and somehow the internet is still not entirely secure, but at least we have free, automated, and secure certificates now!"
+  },
+  {
+    "title": "PeerTube is recognized as a digital public good by Digital Public Goods Alliance",
+    "url": "https://www.digitalpublicgoods.net/r/peertube",
+    "points": 400,
+    "num_comments": 66,
+    "tags": [
+      "story",
+      "author_fsflover",
+      "story_46207464",
+      "front_page"
+    ],
+    "author": "fsflover",
+    "created_at": "2025-12-09T17:08:37Z",
+    "aiHeadline": "PeerTube gets official recognition as a digital public good, proving that sometimes the quiet, under-the-radar platforms are the ones actually changing the world."
   }
 ]
