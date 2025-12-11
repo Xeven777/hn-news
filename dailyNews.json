@@ -1,77 +1,74 @@
 [
   {
-    "title": "Show HN: Gemini Pro 3 hallucinates the HN front page 10 years from now",
-    "url": "https://dosaygo-studio.github.io/hn-front-page-2035/news",
-    "points": 1864,
-    "num_comments": 640,
+    "title": "Size of Life",
+    "url": "https://neal.fun/size-of-life/",
+    "points": 1384,
+    "num_comments": 175,
     "tags": [
       "story",
-      "author_keepamovin",
-      "story_46205632",
-      "show_hn",
+      "author_eatonphil",
+      "story_46219346",
       "front_page"
     ],
-    "author": "keepamovin",
-    "created_at": "2025-12-09T15:00:38Z",
-    "aiHeadline": "Time-traveling AI predicts HN front page 10 years into the future, and somehow it's still full of tech debates and cat videos."
+    "author": "eatonphil",
+    "created_at": "2025-12-10T16:02:57Z",
+    "aiHeadline": "Scientists finally figure out that bigger is better, except when it's not, in this groundbreaking study about the size of life."
   },
   {
-    "title": "Ask HN: Should \"I asked $AI, and it said\" replies be forbidden in HN guidelines?",
-    "points": 774,
-    "num_comments": 416,
+    "title": "Rust in the kernel is no longer experimental",
+    "url": "https://lwn.net/Articles/1049831/",
+    "points": 923,
+    "num_comments": 715,
     "tags": [
       "story",
-      "author_embedding-shape",
-      "story_46206457",
-      "ask_hn"
+      "author_rascul",
+      "story_46213585"
     ],
-    "author": "embedding-shape",
-    "created_at": "2025-12-09T16:02:37Z",
-    "aiHeadline": "Ask HN: Should we ban people from saying 'I asked an AI and it said' because honestly, we're all just parrots now, right?"
+    "author": "rascul",
+    "created_at": "2025-12-10T03:15:24Z",
+    "aiHeadline": "Rust in the kernel? Experimental? Please, it's been stable since 2023. Now it's just officially not experimental, because why not?"
   },
   {
-    "title": "Mistral releases Devstral2 and Mistral Vibe CLI",
-    "url": "https://mistral.ai/news/devstral-2-vibe-cli",
-    "points": 490,
-    "num_comments": 248,
+    "title": "Valve: HDMI Forum Continues to Block HDMI 2.1 for Linux",
+    "url": "https://www.heise.de/en/news/Valve-HDMI-Forum-Continues-to-Block-HDMI-2-1-for-Linux-11107440.html",
+    "points": 520,
+    "num_comments": 298,
     "tags": [
       "story",
-      "author_pember",
-      "story_46205437",
+      "author_OsrsNeedsf2P",
+      "story_46220488",
       "front_page"
     ],
-    "author": "pember",
-    "created_at": "2025-12-09T14:45:01Z",
-    "aiHeadline": "Mistral drops new AI tools, because clearly the world needs more AI tools, and also because they're apparently the AI overlords now."
+    "author": "OsrsNeedsf2P",
+    "created_at": "2025-12-10T17:20:06Z",
+    "aiHeadline": "Because nothing says 'we love Linux' like blocking HDMI 2.1, the HDMI Forum continues to prove they're experts at making everyone else's life harder."
   },
   {
-    "title": "10 Years of Let's Encrypt",
-    "url": "https://letsencrypt.org/2025/12/09/10-years",
-    "points": 461,
-    "num_comments": 192,
+    "title": "Israel used Palantir technologies in pager attack in Lebanon",
+    "url": "https://the307.substack.com/p/revealed-israel-used-palantir-technologies",
+    "points": 410,
+    "num_comments": 354,
     "tags": [
       "story",
-      "author_SGran",
-      "story_46208962",
-      "front_page"
+      "author_cramsession",
+      "story_46218640"
     ],
-    "author": "SGran",
-    "created_at": "2025-12-09T18:54:55Z",
-    "aiHeadline": "Let's Encrypt turns 10, and somehow the internet is still not entirely secure, but at least we have free, automated, and secure certificates now!"
+    "author": "cramsession",
+    "created_at": "2025-12-10T15:18:47Z",
+    "aiHeadline": "Israel shows that even in war, you can't escape big data. Using Palantir, they've turned warfare into a spreadsheet battle."
   },
   {
-    "title": "PeerTube is recognized as a digital public good by Digital Public Goods Alliance",
-    "url": "https://www.digitalpublicgoods.net/r/peertube",
-    "points": 400,
-    "num_comments": 66,
+    "title": "In New York City, congestion pricing leads to marked drop in pollution",
+    "url": "https://e360.yale.edu/digest/new-york-congestion-pricing-pollution",
+    "points": 402,
+    "num_comments": 420,
     "tags": [
       "story",
-      "author_fsflover",
-      "story_46207464",
-      "front_page"
+      "author_Brajeshwar",
+      "story_46218725"
     ],
-    "author": "fsflover",
-    "created_at": "2025-12-09T17:08:37Z",
-    "aiHeadline": "PeerTube gets official recognition as a digital public good, proving that sometimes the quiet, under-the-radar platforms are the ones actually changing the world."
+    "author": "Brajeshwar",
+    "created_at": "2025-12-10T15:25:05Z",
+    "aiHeadline": "Who would have thought? Charging people to drive in NYC actually works. Pollution drops, and everyone learns that money talks, even when it's about saving the planet."
   }
 ]
