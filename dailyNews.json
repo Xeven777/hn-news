@@ -1,74 +1,75 @@
 [
   {
-    "title": "Size of Life",
-    "url": "https://neal.fun/size-of-life/",
-    "points": 1384,
-    "num_comments": 175,
+    "title": "GPT-5.2",
+    "url": "https://openai.com/index/introducing-gpt-5-2/",
+    "points": 763,
+    "num_comments": 614,
     "tags": [
       "story",
-      "author_eatonphil",
-      "story_46219346",
+      "author_atgctg",
+      "story_46234788",
       "front_page"
     ],
-    "author": "eatonphil",
-    "created_at": "2025-12-10T16:02:57Z",
-    "aiHeadline": "Scientists finally figure out that bigger is better, except when it's not, in this groundbreaking study about the size of life."
+    "author": "atgctg",
+    "created_at": "2025-12-11T18:04:47Z",
+    "aiHeadline": "OpenAI releases GPT-5.2, proving that even AI needs regular updates to stay relevant."
   },
   {
-    "title": "Rust in the kernel is no longer experimental",
-    "url": "https://lwn.net/Articles/1049831/",
-    "points": 923,
-    "num_comments": 715,
+    "title": "iPhone Typos? It's Not Just You – The iOS Keyboard Is Broken [video]",
+    "url": "https://www.youtube.com/watch?v=hksVvXONrIo",
+    "points": 469,
+    "num_comments": 326,
     "tags": [
       "story",
-      "author_rascul",
-      "story_46213585"
-    ],
-    "author": "rascul",
-    "created_at": "2025-12-10T03:15:24Z",
-    "aiHeadline": "Rust in the kernel? Experimental? Please, it's been stable since 2023. Now it's just officially not experimental, because why not?"
-  },
-  {
-    "title": "Valve: HDMI Forum Continues to Block HDMI 2.1 for Linux",
-    "url": "https://www.heise.de/en/news/Valve-HDMI-Forum-Continues-to-Block-HDMI-2-1-for-Linux-11107440.html",
-    "points": 520,
-    "num_comments": 298,
-    "tags": [
-      "story",
-      "author_OsrsNeedsf2P",
-      "story_46220488",
+      "author_walterbell",
+      "story_46232528",
       "front_page"
     ],
-    "author": "OsrsNeedsf2P",
-    "created_at": "2025-12-10T17:20:06Z",
-    "aiHeadline": "Because nothing says 'we love Linux' like blocking HDMI 2.1, the HDMI Forum continues to prove they're experts at making everyone else's life harder."
+    "author": "walterbell",
+    "created_at": "2025-12-11T15:25:43Z",
+    "aiHeadline": "iOS keyboard broken? Shocking news as Apple finally admits their devices aren't perfect, but don't worry, they'll fix it in the next update... in 2026."
   },
   {
-    "title": "Israel used Palantir technologies in pager attack in Lebanon",
-    "url": "https://the307.substack.com/p/revealed-israel-used-palantir-technologies",
-    "points": 410,
-    "num_comments": 354,
+    "title": "Meta shuts down global accounts linked to abortion advice and queer content",
+    "url": "https://www.theguardian.com/global-development/2025/dec/11/meta-shuts-down-global-accounts-linked-to-abortion-advice-and-queer-content",
+    "points": 341,
+    "num_comments": 318,
     "tags": [
       "story",
-      "author_cramsession",
-      "story_46218640"
+      "author_ta988",
+      "story_46230072"
     ],
-    "author": "cramsession",
-    "created_at": "2025-12-10T15:18:47Z",
-    "aiHeadline": "Israel shows that even in war, you can't escape big data. Using Palantir, they've turned warfare into a spreadsheet battle."
+    "author": "ta988",
+    "created_at": "2025-12-11T11:26:45Z",
+    "aiHeadline": "Meta continues its quest to be the internet's biggest busybody by shutting down accounts that dare to discuss abortion and queer content, because nothing says 'free speech' like censorship."
   },
   {
-    "title": "In New York City, congestion pricing leads to marked drop in pollution",
-    "url": "https://e360.yale.edu/digest/new-york-congestion-pricing-pollution",
-    "points": 402,
-    "num_comments": 420,
+    "title": "Disney making $1B investment in OpenAI, will allow characters on Sora AI",
+    "url": "https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html",
+    "points": 320,
+    "num_comments": 2,
     "tags": [
       "story",
-      "author_Brajeshwar",
-      "story_46218725"
+      "author_tiahura",
+      "story_46231585"
     ],
-    "author": "Brajeshwar",
-    "created_at": "2025-12-10T15:25:05Z",
-    "aiHeadline": "Who would have thought? Charging people to drive in NYC actually works. Pollution drops, and everyone learns that money talks, even when it's about saving the planet."
+    "author": "tiahura",
+    "created_at": "2025-12-11T14:12:14Z",
+    "aiHeadline": "Disney invests $1B in OpenAI, because what better way to control your thoughts than by having Mickey Mouse and Minnie in your AI assistant? Now, Sora AI will be your new best friend... or your new overlord."
+  },
+  {
+    "title": "UK House of Lords attempting to ban use of VPNs by anyone under 16",
+    "url": "https://alecmuffett.com/article/134925",
+    "points": 278,
+    "num_comments": 262,
+    "tags": [
+      "story",
+      "author_nvarsj",
+      "story_46236738",
+      "front_page"
+    ],
+    "author": "nvarsj",
+    "created_at": "2025-12-11T20:32:22Z",
+    "aiHeadline": "UK House of Lords wants to ban VPNs for under-16s, proving once again that lawmakers have no idea how the internet works, but hey, at least they're trying to keep kids safe from... whatever they're trying to protect them from."
   }
 ]
