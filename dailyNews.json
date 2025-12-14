@@ -1,73 +1,74 @@
 [
   {
-    "title": "Epic celebrates \"the end of the Apple Tax\" after court win in iOS payments case",
-    "url": "https://arstechnica.com/tech-policy/2025/12/epic-celebrates-the-end-of-the-apple-tax-after-appeals-court-win-in-ios-payments-case/",
-    "points": 367,
-    "num_comments": 257,
+    "title": "Apple has locked my Apple ID, and I have no recourse. A plea for help",
+    "url": "https://hey.paris/posts/appleid/",
+    "points": 1489,
+    "num_comments": 902,
     "tags": [
       "story",
-      "author_nobody9999",
-      "story_46245398"
+      "author_parisidau",
+      "story_46252114"
     ],
-    "author": "nobody9999",
-    "created_at": "2025-12-12T16:04:16Z",
-    "aiHeadline": "Epic's victory over Apple's 'tax' is a win for developers, but don't expect your apps to suddenly become free."
+    "author": "parisidau",
+    "created_at": "2025-12-13T04:55:59Z",
+    "aiHeadline": "Apple locks user out of their own account, because that's what happens when you trust a company that's never wrong."
   },
   {
-    "title": "The Tor Project is switching to Rust",
-    "url": "https://itsfoss.com/news/tor-rust-rewrite-progress/",
-    "points": 318,
-    "num_comments": 235,
+    "title": "Google removes Sci-Hub domains from U.S. search results due to dated court order",
+    "url": "https://torrentfreak.com/google-removes-sci-hub-domains-from-u-s-search-results-due-to-dated-court-order/",
+    "points": 259,
+    "num_comments": 45,
     "tags": [
       "story",
-      "author_giuliomagnifico",
-      "story_46243543"
+      "author_t-3",
+      "story_46251684"
     ],
-    "author": "giuliomagnifico",
-    "created_at": "2025-12-12T12:35:57Z",
-    "aiHeadline": "Tor finally decides to switch to Rust, because who doesn't want their privacy protected by a language that's basically a safety-first enthusiast."
+    "author": "t-3",
+    "created_at": "2025-12-13T03:21:32Z",
+    "aiHeadline": "Google takes down Sci-Hub from U.S. search results, proving that old court orders are still relevant, apparently."
   },
   {
-    "title": "SQLite JSON at full index speed using generated columns",
-    "url": "https://www.dbpro.app/blog/sqlite-json-virtual-columns-indexing",
-    "points": 311,
-    "num_comments": 96,
+    "title": "VPN location claims don't match real traffic exits",
+    "url": "https://ipinfo.io/blog/vpn-location-mismatch-report",
+    "points": 244,
+    "num_comments": 144,
     "tags": [
       "story",
-      "author_upmostly",
-      "story_46243904",
+      "author_mmaia",
+      "story_46257339",
       "front_page"
     ],
-    "author": "upmostly",
-    "created_at": "2025-12-12T13:25:19Z",
-    "aiHeadline": "SQLite's new JSON indexing feature is so fast, it might just make your database jealous of your morning coffee."
+    "author": "mmaia",
+    "created_at": "2025-12-13T19:46:19Z",
+    "aiHeadline": "VPNs promise to hide your location, but apparently, they're just hiding where they're not hiding you."
   },
   {
-    "title": "Koralm Railway",
-    "url": "https://infrastruktur.oebb.at/en/projects-for-austria/railway-lines/southern-line-vienna-villach/koralm-railway",
-    "points": 291,
-    "num_comments": 173,
+    "title": "I tried Gleam for Advent of Code",
+    "url": "https://blog.tymscar.com/posts/gleamaoc2025/",
+    "points": 238,
+    "num_comments": 133,
     "tags": [
       "story",
-      "author_fzeindl",
-      "story_46242871"
+      "author_tymscar",
+      "story_46255991",
+      "front_page"
     ],
-    "author": "fzeindl",
-    "created_at": "2025-12-12T10:50:22Z",
-    "aiHeadline": "The Koralm Railway project is so on time, it's practically a metaphor for Austrian efficiency."
+    "author": "tymscar",
+    "created_at": "2025-12-13T17:00:14Z",
+    "aiHeadline": "Advent of Code gets a new twist with Gleam, because who doesn't want to make their coding challenges even more complicated?"
   },
   {
-    "title": "Id Software devs form \"wall-to-wall\" union",
-    "url": "https://www.rockpapershotgun.com/id-software-devs-form-wall-to-wall-union-with-165-workers-at-doom-studio-the-latest-to-vote-in-favour",
-    "points": 279,
-    "num_comments": 299,
+    "title": "Computer animator and Amiga fanatic Dick van Dyke turns 100",
+    "points": 231,
+    "num_comments": 82,
     "tags": [
       "story",
-      "author_simjue",
-      "story_46246845"
+      "author_ggm",
+      "story_46252993",
+      "ask_hn"
     ],
-    "author": "simjue",
-    "created_at": "2025-12-12T18:11:23Z",
-    "aiHeadline": "Id Software devs form a 'wall-to-wall' union, proving that even Doom slayers need a break from the demons."
+    "author": "ggm",
+    "created_at": "2025-12-13T08:15:48Z",
+    "aiHeadline": "Dick van Dyke turns 100, proving that age is just a number, unless you're trying to remember how to use TikTok."
   }
 ]
