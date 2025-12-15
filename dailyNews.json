@@ -1,74 +1,75 @@
 [
   {
-    "title": "Apple has locked my Apple ID, and I have no recourse. A plea for help",
-    "url": "https://hey.paris/posts/appleid/",
-    "points": 1489,
-    "num_comments": 902,
+    "title": "Europeans' health data sold to US firm run by ex-Israeli spies",
+    "url": "https://www.ftm.eu/articles/europe-health-data-us-firm-israel-spies",
+    "points": 621,
+    "num_comments": 379,
     "tags": [
       "story",
-      "author_parisidau",
-      "story_46252114"
+      "author_Fnoord",
+      "story_46262524"
     ],
-    "author": "parisidau",
-    "created_at": "2025-12-13T04:55:59Z",
-    "aiHeadline": "Apple locks user out of their own account, because that's what happens when you trust a company that's never wrong."
+    "author": "Fnoord",
+    "created_at": "2025-12-14T12:15:09Z",
+    "aiHeadline": "Europeans' health data finds new home in US firm, because what could go wrong?"
   },
   {
-    "title": "Google removes Sci-Hub domains from U.S. search results due to dated court order",
-    "url": "https://torrentfreak.com/google-removes-sci-hub-domains-from-u-s-search-results-due-to-dated-court-order/",
-    "points": 259,
-    "num_comments": 45,
+    "title": "Anthropic Outage for Opus 4.5 and Sonnet 4/4.5 across all services",
+    "url": "https://status.claude.com/incidents/9g6qpr72ttbr",
+    "points": 251,
+    "num_comments": 126,
     "tags": [
       "story",
-      "author_t-3",
-      "story_46251684"
+      "author_pablo24602",
+      "story_46267385",
+      "front_page"
     ],
-    "author": "t-3",
-    "created_at": "2025-12-13T03:21:32Z",
-    "aiHeadline": "Google takes down Sci-Hub from U.S. search results, proving that old court orders are still relevant, apparently."
+    "author": "pablo24602",
+    "created_at": "2025-12-14T21:53:13Z",
+    "aiHeadline": "Anthropic's Opus and Sonnet models take a break, proving that even AI needs a vacation."
   },
   {
-    "title": "VPN location claims don't match real traffic exits",
-    "url": "https://ipinfo.io/blog/vpn-location-mismatch-report",
+    "title": "Hashcards: A plain-text spaced repetition system",
+    "url": "https://borretti.me/article/hashcards-plain-text-spaced-repetition",
     "points": 244,
-    "num_comments": 144,
+    "num_comments": 104,
     "tags": [
       "story",
-      "author_mmaia",
-      "story_46257339",
+      "author_thomascountz",
+      "story_46264492",
       "front_page"
     ],
-    "author": "mmaia",
-    "created_at": "2025-12-13T19:46:19Z",
-    "aiHeadline": "VPNs promise to hide your location, but apparently, they're just hiding where they're not hiding you."
+    "author": "thomascountz",
+    "created_at": "2025-12-14T16:55:29Z",
+    "aiHeadline": "Hashcards: The latest in spaced repetition, because who doesn't love another app to track their learning?"
   },
   {
-    "title": "I tried Gleam for Advent of Code",
-    "url": "https://blog.tymscar.com/posts/gleamaoc2025/",
-    "points": 238,
-    "num_comments": 133,
+    "title": "AI and the ironies of automation – Part 2",
+    "url": "https://www.ufried.com/blog/ironies_of_ai_2/",
+    "points": 208,
+    "num_comments": 91,
     "tags": [
       "story",
-      "author_tymscar",
-      "story_46255991",
+      "author_BinaryIgor",
+      "story_46262816",
       "front_page"
     ],
-    "author": "tymscar",
-    "created_at": "2025-12-13T17:00:14Z",
-    "aiHeadline": "Advent of Code gets a new twist with Gleam, because who doesn't want to make their coding challenges even more complicated?"
+    "author": "BinaryIgor",
+    "created_at": "2025-12-14T13:19:15Z",
+    "aiHeadline": "AI and automation: Still ironing out the kinks, because progress takes time—like forever."
   },
   {
-    "title": "Computer animator and Amiga fanatic Dick van Dyke turns 100",
-    "points": 231,
-    "num_comments": 82,
+    "title": "Kimi K2 1T model runs on 2 512GB M3 Ultras",
+    "url": "https://twitter.com/awnihannun/status/1943723599971443134",
+    "points": 204,
+    "num_comments": 105,
     "tags": [
       "story",
-      "author_ggm",
-      "story_46252993",
-      "ask_hn"
+      "author_jeudesprits",
+      "story_46262734"
     ],
-    "author": "ggm",
-    "created_at": "2025-12-13T08:15:48Z",
-    "aiHeadline": "Dick van Dyke turns 100, proving that age is just a number, unless you're trying to remember how to use TikTok."
+    "author": "jeudesprits",
+    "created_at": "2025-12-14T13:04:34Z",
+    "aiHeadline": "Kimi K2 1T model demands two 512GB M3 Ultras, because why not make it harder?"
   }
 ]
