@@ -1,75 +1,75 @@
 [
   {
-    "title": "Europeans' health data sold to US firm run by ex-Israeli spies",
-    "url": "https://www.ftm.eu/articles/europe-health-data-us-firm-israel-spies",
-    "points": 621,
-    "num_comments": 379,
+    "title": "I'm Kenyan. I don't write like ChatGPT, ChatGPT writes like me",
+    "url": "https://marcusolang.substack.com/p/im-kenyan-i-dont-write-like-chatgpt",
+    "points": 546,
+    "num_comments": 363,
     "tags": [
       "story",
-      "author_Fnoord",
-      "story_46262524"
-    ],
-    "author": "Fnoord",
-    "created_at": "2025-12-14T12:15:09Z",
-    "aiHeadline": "Europeans' health data finds new home in US firm, because what could go wrong?"
-  },
-  {
-    "title": "Anthropic Outage for Opus 4.5 and Sonnet 4/4.5 across all services",
-    "url": "https://status.claude.com/incidents/9g6qpr72ttbr",
-    "points": 251,
-    "num_comments": 126,
-    "tags": [
-      "story",
-      "author_pablo24602",
-      "story_46267385",
+      "author_florian_s",
+      "story_46273466",
       "front_page"
     ],
-    "author": "pablo24602",
-    "created_at": "2025-12-14T21:53:13Z",
-    "aiHeadline": "Anthropic's Opus and Sonnet models take a break, proving that even AI needs a vacation."
+    "author": "florian_s",
+    "created_at": "2025-12-15T12:12:24Z",
+    "aiHeadline": "Kenyan Author Proves ChatGPT is Just a Copycat, Because Clearly, It's Kenyan Now"
   },
   {
-    "title": "Hashcards: A plain-text spaced repetition system",
-    "url": "https://borretti.me/article/hashcards-plain-text-spaced-repetition",
-    "points": 244,
-    "num_comments": 104,
+    "title": "“Super secure” messaging app leaks everyone's phone number",
+    "url": "https://ericdaigle.ca/posts/super-secure-maga-messaging-app-leaks-everyones-phone-number/",
+    "points": 512,
+    "num_comments": 240,
     "tags": [
       "story",
-      "author_thomascountz",
-      "story_46264492",
+      "author_e_daigle",
+      "story_46279123",
       "front_page"
     ],
-    "author": "thomascountz",
-    "created_at": "2025-12-14T16:55:29Z",
-    "aiHeadline": "Hashcards: The latest in spaced repetition, because who doesn't love another app to track their learning?"
+    "author": "e_daigle",
+    "created_at": "2025-12-15T19:23:51Z",
+    "aiHeadline": "Oh, 'Super Secure' Messaging App? More Like 'Super Insecure' Because It Just Leaked All Your Contacts"
   },
   {
-    "title": "AI and the ironies of automation – Part 2",
-    "url": "https://www.ufried.com/blog/ironies_of_ai_2/",
-    "points": 208,
-    "num_comments": 91,
+    "title": "Pro-democracy HK tycoon Jimmy Lai convicted in national security trial",
+    "url": "https://www.bbc.com/news/articles/cp844kjj37vo",
+    "points": 405,
+    "num_comments": 422,
     "tags": [
       "story",
-      "author_BinaryIgor",
-      "story_46262816",
+      "author_onemoresoop",
+      "story_46276740"
+    ],
+    "author": "onemoresoop",
+    "created_at": "2025-12-15T16:36:19Z",
+    "aiHeadline": "Pro-Democracy Tycoon Convicted in 'Fair' Trial: Because Nothing Says Justice Like a Conviction in a National Security Case"
+  },
+  {
+    "title": "Thousands of U.S. farmers have Parkinson's. They blame a deadly pesticide",
+    "url": "https://www.mlive.com/news/2025/12/thousands-of-us-farmers-have-parkinsons-they-blame-a-deadly-pesticide.html",
+    "points": 379,
+    "num_comments": 295,
+    "tags": [
+      "story",
+      "author_bikenaga",
+      "story_46275079"
+    ],
+    "author": "bikenaga",
+    "created_at": "2025-12-15T14:37:12Z",
+    "aiHeadline": "Thousands of U.S. Farmers Have Parkinson's, Blame Pesticide: Because Who Needs a Healthy Harvest When You Can Have a Chemical-Induced Disease?"
+  },
+  {
+    "title": "Carrier Landing in Top Gun for the NES",
+    "url": "https://relaxing.run/blag/posts/top-gun-landing/",
+    "points": 354,
+    "num_comments": 147,
+    "tags": [
+      "story",
+      "author_todsacerdoti",
+      "story_46274822",
       "front_page"
     ],
-    "author": "BinaryIgor",
-    "created_at": "2025-12-14T13:19:15Z",
-    "aiHeadline": "AI and automation: Still ironing out the kinks, because progress takes time—like forever."
-  },
-  {
-    "title": "Kimi K2 1T model runs on 2 512GB M3 Ultras",
-    "url": "https://twitter.com/awnihannun/status/1943723599971443134",
-    "points": 204,
-    "num_comments": 105,
-    "tags": [
-      "story",
-      "author_jeudesprits",
-      "story_46262734"
-    ],
-    "author": "jeudesprits",
-    "created_at": "2025-12-14T13:04:34Z",
-    "aiHeadline": "Kimi K2 1T model demands two 512GB M3 Ultras, because why not make it harder?"
+    "author": "todsacerdoti",
+    "created_at": "2025-12-15T14:16:32Z",
+    "aiHeadline": "Top Gun NES Finally Gets a Carrier Landing: Because Nothing Says 'Easy Mode' Like Trying to Land a Fighter Jet on a Moving Ship"
   }
 ]
