@@ -1,75 +1,73 @@
 [
   {
-    "title": "I'm Kenyan. I don't write like ChatGPT, ChatGPT writes like me",
-    "url": "https://marcusolang.substack.com/p/im-kenyan-i-dont-write-like-chatgpt",
-    "points": 546,
-    "num_comments": 363,
-    "tags": [
-      "story",
-      "author_florian_s",
-      "story_46273466",
-      "front_page"
-    ],
-    "author": "florian_s",
-    "created_at": "2025-12-15T12:12:24Z",
-    "aiHeadline": "Kenyan Author Proves ChatGPT is Just a Copycat, Because Clearly, It's Kenyan Now"
-  },
-  {
-    "title": "“Super secure” messaging app leaks everyone's phone number",
-    "url": "https://ericdaigle.ca/posts/super-secure-maga-messaging-app-leaks-everyones-phone-number/",
-    "points": 512,
+    "title": "8M users' AI conversations sold for profit by \"privacy\" extensions",
+    "url": "https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection",
+    "points": 780,
     "num_comments": 240,
     "tags": [
       "story",
-      "author_e_daigle",
-      "story_46279123",
+      "author_takira",
+      "story_46284266"
+    ],
+    "author": "takira",
+    "created_at": "2025-12-16T03:03:49Z",
+    "aiHeadline": "8M users' AI conversations sold for profit by 'privacy' extensions: Because what's the point of privacy if you can't monetize it, right?"
+  },
+  {
+    "title": "This is not the future",
+    "url": "https://blog.mathieui.net/this-is-not-the-future.html",
+    "points": 664,
+    "num_comments": 383,
+    "tags": [
+      "story",
+      "author_ericdanielski",
+      "story_46288371"
+    ],
+    "author": "ericdanielski",
+    "created_at": "2025-12-16T13:42:24Z",
+    "aiHeadline": "This is not the future: Apparently, the future is always 'not here yet,' just like your Amazon packages."
+  },
+  {
+    "title": "alpr.watch",
+    "url": "https://alpr.watch/",
+    "points": 618,
+    "num_comments": 318,
+    "tags": [
+      "story",
+      "author_theamk",
+      "story_46290916",
       "front_page"
     ],
-    "author": "e_daigle",
-    "created_at": "2025-12-15T19:23:51Z",
-    "aiHeadline": "Oh, 'Super Secure' Messaging App? More Like 'Super Insecure' Because It Just Leaked All Your Contacts"
+    "author": "theamk",
+    "created_at": "2025-12-16T16:54:19Z",
+    "aiHeadline": "alpr.watch: Because nothing says 'Have a nice day!' like being tracked 24/7 by a robot."
   },
   {
-    "title": "Pro-democracy HK tycoon Jimmy Lai convicted in national security trial",
-    "url": "https://www.bbc.com/news/articles/cp844kjj37vo",
-    "points": 405,
-    "num_comments": 422,
+    "title": "Children with cancer scammed out of millions fundraised for their treatment",
+    "url": "https://www.bbc.com/news/articles/ckgz318y8elo",
+    "points": 518,
+    "num_comments": 438,
     "tags": [
       "story",
-      "author_onemoresoop",
-      "story_46276740"
+      "author_1659447091",
+      "story_46285376"
     ],
-    "author": "onemoresoop",
-    "created_at": "2025-12-15T16:36:19Z",
-    "aiHeadline": "Pro-Democracy Tycoon Convicted in 'Fair' Trial: Because Nothing Says Justice Like a Conviction in a National Security Case"
+    "author": "1659447091",
+    "created_at": "2025-12-16T06:17:37Z",
+    "aiHeadline": "Children with cancer scammed out of millions fundraised for their treatment: Because donating to a scammer's wallet is the new 'charitable act.'"
   },
   {
-    "title": "Thousands of U.S. farmers have Parkinson's. They blame a deadly pesticide",
-    "url": "https://www.mlive.com/news/2025/12/thousands-of-us-farmers-have-parkinsons-they-blame-a-deadly-pesticide.html",
-    "points": 379,
-    "num_comments": 295,
+    "title": "SHARP, an approach to photorealistic view synthesis from a single image",
+    "url": "https://apple.github.io/ml-sharp/",
+    "points": 491,
+    "num_comments": 104,
     "tags": [
       "story",
-      "author_bikenaga",
-      "story_46275079"
+      "author_dvrp",
+      "story_46284658"
     ],
-    "author": "bikenaga",
-    "created_at": "2025-12-15T14:37:12Z",
-    "aiHeadline": "Thousands of U.S. Farmers Have Parkinson's, Blame Pesticide: Because Who Needs a Healthy Harvest When You Can Have a Chemical-Induced Disease?"
-  },
-  {
-    "title": "Carrier Landing in Top Gun for the NES",
-    "url": "https://relaxing.run/blag/posts/top-gun-landing/",
-    "points": 354,
-    "num_comments": 147,
-    "tags": [
-      "story",
-      "author_todsacerdoti",
-      "story_46274822",
-      "front_page"
-    ],
-    "author": "todsacerdoti",
-    "created_at": "2025-12-15T14:16:32Z",
-    "aiHeadline": "Top Gun NES Finally Gets a Carrier Landing: Because Nothing Says 'Easy Mode' Like Trying to Land a Fighter Jet on a Moving Ship"
+    "author": "dvrp",
+    "created_at": "2025-12-16T04:06:51Z",
+    "aiHeadline": "SHARP, an approach to photorealistic view synthesis from a single image: Because we all need yet another way to make our photos look slightly better, right?"
   }
 ]
