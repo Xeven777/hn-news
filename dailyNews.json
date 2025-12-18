@@ -1,73 +1,77 @@
 [
   {
-    "title": "8M users' AI conversations sold for profit by \"privacy\" extensions",
-    "url": "https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection",
-    "points": 780,
-    "num_comments": 240,
+    "title": "Is Mozilla trying hard to kill itself?",
+    "url": "https://infosec.press/brunomiguel/is-mozilla-trying-hard-to-kill-itself",
+    "points": 830,
+    "num_comments": 724,
     "tags": [
       "story",
-      "author_takira",
-      "story_46284266"
-    ],
-    "author": "takira",
-    "created_at": "2025-12-16T03:03:49Z",
-    "aiHeadline": "8M users' AI conversations sold for profit by 'privacy' extensions: Because what's the point of privacy if you can't monetize it, right?"
-  },
-  {
-    "title": "This is not the future",
-    "url": "https://blog.mathieui.net/this-is-not-the-future.html",
-    "points": 664,
-    "num_comments": 383,
-    "tags": [
-      "story",
-      "author_ericdanielski",
-      "story_46288371"
-    ],
-    "author": "ericdanielski",
-    "created_at": "2025-12-16T13:42:24Z",
-    "aiHeadline": "This is not the future: Apparently, the future is always 'not here yet,' just like your Amazon packages."
-  },
-  {
-    "title": "alpr.watch",
-    "url": "https://alpr.watch/",
-    "points": 618,
-    "num_comments": 318,
-    "tags": [
-      "story",
-      "author_theamk",
-      "story_46290916",
+      "author_pabs3",
+      "story_46299934",
       "front_page"
     ],
-    "author": "theamk",
-    "created_at": "2025-12-16T16:54:19Z",
-    "aiHeadline": "alpr.watch: Because nothing says 'Have a nice day!' like being tracked 24/7 by a robot."
+    "author": "pabs3",
+    "created_at": "2025-12-17T09:37:24Z",
+    "aiHeadline": "Mozilla's latest move: a masterclass in self-destruction, or just another chapter in their quest to become the poster child for corporate suicide?"
   },
   {
-    "title": "Children with cancer scammed out of millions fundraised for their treatment",
-    "url": "https://www.bbc.com/news/articles/ckgz318y8elo",
-    "points": 518,
-    "num_comments": 438,
+    "title": "Gemini 3 Flash: Frontier intelligence built for speed",
+    "url": "https://blog.google/products/gemini/gemini-3-flash/",
+    "points": 759,
+    "num_comments": 393,
     "tags": [
       "story",
-      "author_1659447091",
-      "story_46285376"
+      "author_meetpateltech",
+      "story_46301851",
+      "front_page"
     ],
-    "author": "1659447091",
-    "created_at": "2025-12-16T06:17:37Z",
-    "aiHeadline": "Children with cancer scammed out of millions fundraised for their treatment: Because donating to a scammer's wallet is the new 'charitable act.'"
+    "author": "meetpateltech",
+    "created_at": "2025-12-17T16:42:13Z",
+    "aiHeadline": "Gemini 3 Flash: So fast, it might just outrun your patience, but hey, at least it's not as slow as your Wi-Fi connection."
   },
   {
-    "title": "SHARP, an approach to photorealistic view synthesis from a single image",
-    "url": "https://apple.github.io/ml-sharp/",
-    "points": 491,
-    "num_comments": 104,
+    "title": "AWS CEO says replacing junior devs with AI is 'one of the dumbest ideas'",
+    "url": "https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers",
+    "points": 735,
+    "num_comments": 415,
     "tags": [
       "story",
-      "author_dvrp",
-      "story_46284658"
+      "author_birdculture",
+      "story_46302267",
+      "front_page"
     ],
-    "author": "dvrp",
-    "created_at": "2025-12-16T04:06:51Z",
-    "aiHeadline": "SHARP, an approach to photorealistic view synthesis from a single image: Because we all need yet another way to make our photos look slightly better, right?"
+    "author": "birdculture",
+    "created_at": "2025-12-17T17:08:35Z",
+    "aiHeadline": "AWS CEO: Replacing junior developers with AI? That's about as smart as replacing your brain with a paperclip. Just saying."
+  },
+  {
+    "title": "Tell HN: HN was down",
+    "points": 478,
+    "num_comments": 281,
+    "tags": [
+      "story",
+      "author_uyzstvqs",
+      "story_46301921",
+      "ask_hn",
+      "front_page"
+    ],
+    "author": "uyzstvqs",
+    "created_at": "2025-12-17T16:48:18Z",
+    "aiHeadline": "HN outage: When the internet's favorite platform goes dark, and no one knows why, but hey, at least you can finally enjoy some peace and quiet."
+  },
+  {
+    "title": "Coursera to combine with Udemy",
+    "url": "https://investor.coursera.com/news/news-details/2025/Coursera-to-Combine-with-Udemy-to-Empower-the-Global-Workforce-with-Skills-for-the-AI-Era/default.aspx",
+    "points": 421,
+    "num_comments": 236,
+    "tags": [
+      "story",
+      "author_throwaway019254",
+      "story_46301346",
+      "front_page"
+    ],
+    "author": "throwaway019254",
+    "created_at": "2025-12-17T12:45:40Z",
+    "aiHeadline": "Coursera and Udemy team up: Now your online learning experience will be twice as overwhelming, but hey, at least you'll have twice as many certificates to show off."
   }
 ]
