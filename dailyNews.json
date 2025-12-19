@@ -1,77 +1,76 @@
 [
   {
-    "title": "Is Mozilla trying hard to kill itself?",
-    "url": "https://infosec.press/brunomiguel/is-mozilla-trying-hard-to-kill-itself",
-    "points": 830,
-    "num_comments": 724,
+    "title": "Beginning January 2026, all ACM publications will be made open access",
+    "url": "https://dl.acm.org/openaccess",
+    "points": 1338,
+    "num_comments": 147,
     "tags": [
       "story",
-      "author_pabs3",
-      "story_46299934",
+      "author_Kerrick",
+      "story_46313991",
       "front_page"
     ],
-    "author": "pabs3",
-    "created_at": "2025-12-17T09:37:24Z",
-    "aiHeadline": "Mozilla's latest move: a masterclass in self-destruction, or just another chapter in their quest to become the poster child for corporate suicide?"
+    "author": "Kerrick",
+    "created_at": "2025-12-18T15:39:09Z",
+    "aiHeadline": "ACM publications will finally be open access starting in 2026, because why not wait until everyone else has already done it?"
   },
   {
-    "title": "Gemini 3 Flash: Frontier intelligence built for speed",
-    "url": "https://blog.google/products/gemini/gemini-3-flash/",
-    "points": 759,
-    "num_comments": 393,
+    "title": "Your job is to deliver code you have proven to work",
+    "url": "https://simonwillison.net/2025/Dec/18/code-proven-to-work/",
+    "points": 634,
+    "num_comments": 535,
     "tags": [
       "story",
-      "author_meetpateltech",
-      "story_46301851",
+      "author_simonw",
+      "story_46313297",
       "front_page"
     ],
-    "author": "meetpateltech",
-    "created_at": "2025-12-17T16:42:13Z",
-    "aiHeadline": "Gemini 3 Flash: So fast, it might just outrun your patience, but hey, at least it's not as slow as your Wi-Fi connection."
+    "author": "simonw",
+    "created_at": "2025-12-18T14:52:11Z",
+    "aiHeadline": "Your job is to deliver code that actually works—innovative concept, right?"
   },
   {
-    "title": "AWS CEO says replacing junior devs with AI is 'one of the dumbest ideas'",
-    "url": "https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers",
-    "points": 735,
-    "num_comments": 415,
+    "title": "We pwned X, Vercel, Cursor, and Discord through a supply-chain attack",
+    "url": "https://gist.github.com/hackermondev/5e2cdc32849405fff6b46957747a2d28",
+    "points": 603,
+    "num_comments": 241,
     "tags": [
       "story",
-      "author_birdculture",
-      "story_46302267",
+      "author_hackermondev",
+      "story_46317098",
       "front_page"
     ],
-    "author": "birdculture",
-    "created_at": "2025-12-17T17:08:35Z",
-    "aiHeadline": "AWS CEO: Replacing junior developers with AI? That's about as smart as replacing your brain with a paperclip. Just saying."
+    "author": "hackermondev",
+    "created_at": "2025-12-18T19:08:48Z",
+    "aiHeadline": "Hackers successfully pwned X, Vercel, Cursor, and Discord through a supply-chain attack—because who needs secure software anyway?"
   },
   {
-    "title": "Tell HN: HN was down",
-    "points": 478,
-    "num_comments": 281,
+    "title": "Classical statues were not painted horribly",
+    "url": "https://worksinprogress.co/issue/were-classical-statues-painted-horribly/",
+    "points": 556,
+    "num_comments": 267,
     "tags": [
       "story",
-      "author_uyzstvqs",
-      "story_46301921",
-      "ask_hn",
+      "author_bensouthwood",
+      "story_46311856",
       "front_page"
     ],
-    "author": "uyzstvqs",
-    "created_at": "2025-12-17T16:48:18Z",
-    "aiHeadline": "HN outage: When the internet's favorite platform goes dark, and no one knows why, but hey, at least you can finally enjoy some peace and quiet."
+    "author": "bensouthwood",
+    "created_at": "2025-12-18T12:28:45Z",
+    "aiHeadline": "Classical statues were not painted horribly—spoiler alert: they looked amazing all along!"
   },
   {
-    "title": "Coursera to combine with Udemy",
-    "url": "https://investor.coursera.com/news/news-details/2025/Coursera-to-Combine-with-Udemy-to-Empower-the-Global-Workforce-with-Skills-for-the-AI-Era/default.aspx",
-    "points": 421,
-    "num_comments": 236,
+    "title": "Are Apple gift cards safe to redeem?",
+    "url": "https://daringfireball.net/linked/2025/12/17/are-apple-gift-cards-safe-to-redeem",
+    "points": 489,
+    "num_comments": 408,
     "tags": [
       "story",
-      "author_throwaway019254",
-      "story_46301346",
-      "front_page"
+      "author_tosh",
+      "story_46313061"
     ],
-    "author": "throwaway019254",
-    "created_at": "2025-12-17T12:45:40Z",
-    "aiHeadline": "Coursera and Udemy team up: Now your online learning experience will be twice as overwhelming, but hey, at least you'll have twice as many certificates to show off."
+    "author": "tosh",
+    "created_at": "2025-12-18T14:26:57Z",
+    "aiHeadline": "Are Apple gift cards safe to redeem? Because nothing says 'holiday cheer' like wondering if your gift card is a scam."
   }
 ]
