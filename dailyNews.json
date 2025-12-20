@@ -1,76 +1,75 @@
 [
   {
-    "title": "Beginning January 2026, all ACM publications will be made open access",
-    "url": "https://dl.acm.org/openaccess",
-    "points": 1338,
-    "num_comments": 147,
+    "title": "Hacker News front page now, but the titles are honest",
+    "url": "https://dosaygo-studio.github.io/hn-front-page-2035/news-honest.html",
+    "points": 1277,
+    "num_comments": 299,
     "tags": [
       "story",
-      "author_Kerrick",
-      "story_46313991",
-      "front_page"
+      "author_keepamovin",
+      "story_46326588"
     ],
-    "author": "Kerrick",
-    "created_at": "2025-12-18T15:39:09Z",
-    "aiHeadline": "ACM publications will finally be open access starting in 2026, because why not wait until everyone else has already done it?"
+    "author": "keepamovin",
+    "created_at": "2025-12-19T15:02:24Z",
+    "aiHeadline": "Hacker News Titles Get Honest, and Now They're Basically Just Confessional Poems About Our Existential Crises."
   },
   {
-    "title": "Your job is to deliver code you have proven to work",
-    "url": "https://simonwillison.net/2025/Dec/18/code-proven-to-work/",
-    "points": 634,
-    "num_comments": 535,
+    "title": "GotaTun – Mullvad's WireGuard Implementation in Rust",
+    "url": "https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn",
+    "points": 539,
+    "num_comments": 112,
     "tags": [
       "story",
-      "author_simonw",
-      "story_46313297",
+      "author_km",
+      "story_46324543",
       "front_page"
     ],
-    "author": "simonw",
-    "created_at": "2025-12-18T14:52:11Z",
-    "aiHeadline": "Your job is to deliver code that actually works—innovative concept, right?"
+    "author": "km",
+    "created_at": "2025-12-19T11:16:23Z",
+    "aiHeadline": "Mullvad's New Rust-Based WireGuard Implementation: Because Even VPNs Need a Memory-Safe Language to Avoid Looking Stupid."
   },
   {
-    "title": "We pwned X, Vercel, Cursor, and Discord through a supply-chain attack",
-    "url": "https://gist.github.com/hackermondev/5e2cdc32849405fff6b46957747a2d28",
-    "points": 603,
-    "num_comments": 241,
+    "title": "Amazon will allow ePub and PDF downloads for DRM-free eBooks",
+    "url": "https://www.kdpcommunity.com/s/article/New-eBook-Download-Options-for-Readers-Coming-in-2026?language=en_US",
+    "points": 536,
+    "num_comments": 278,
     "tags": [
       "story",
-      "author_hackermondev",
-      "story_46317098",
+      "author_captn3m0",
+      "story_46324078",
       "front_page"
     ],
-    "author": "hackermondev",
-    "created_at": "2025-12-18T19:08:48Z",
-    "aiHeadline": "Hackers successfully pwned X, Vercel, Cursor, and Discord through a supply-chain attack—because who needs secure software anyway?"
+    "author": "captn3m0",
+    "created_at": "2025-12-19T10:03:38Z",
+    "aiHeadline": "Amazon Lets You Download eBooks Without DRM: Finally, Because Who Needs Digital Rights Management When You Can Just Steal Content Anyway?"
   },
   {
-    "title": "Classical statues were not painted horribly",
-    "url": "https://worksinprogress.co/issue/were-classical-statues-painted-horribly/",
-    "points": 556,
-    "num_comments": 267,
+    "title": "Garage – An S3 object store so reliable you can run it outside datacenters",
+    "url": "https://garagehq.deuxfleurs.fr/",
+    "points": 452,
+    "num_comments": 91,
     "tags": [
       "story",
-      "author_bensouthwood",
-      "story_46311856",
+      "author_ibobev",
+      "story_46326984",
       "front_page"
     ],
-    "author": "bensouthwood",
-    "created_at": "2025-12-18T12:28:45Z",
-    "aiHeadline": "Classical statues were not painted horribly—spoiler alert: they looked amazing all along!"
+    "author": "ibobev",
+    "created_at": "2025-12-19T15:40:03Z",
+    "aiHeadline": "New S3 Object Store So Reliable, You Can Run It in Your Garage and Still Feel Safe About Your Data."
   },
   {
-    "title": "Are Apple gift cards safe to redeem?",
-    "url": "https://daringfireball.net/linked/2025/12/17/are-apple-gift-cards-safe-to-redeem",
-    "points": 489,
-    "num_comments": 408,
+    "title": "Noclip.website – A digital museum of video game levels",
+    "url": "https://noclip.website/",
+    "points": 442,
+    "num_comments": 56,
     "tags": [
       "story",
-      "author_tosh",
-      "story_46313061"
+      "author_ivmoreau",
+      "story_46321619"
     ],
-    "author": "tosh",
-    "created_at": "2025-12-18T14:26:57Z",
-    "aiHeadline": "Are Apple gift cards safe to redeem? Because nothing says 'holiday cheer' like wondering if your gift card is a scam."
+    "author": "ivmoreau",
+    "created_at": "2025-12-19T02:20:08Z",
+    "aiHeadline": "Digital Museum of Video Game Levels: Now You Can Relive Your Childhood Nostalgia Without Actually Playing the Games."
   }
 ]
