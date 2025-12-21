@@ -1,75 +1,76 @@
 [
   {
-    "title": "Hacker News front page now, but the titles are honest",
-    "url": "https://dosaygo-studio.github.io/hn-front-page-2035/news-honest.html",
-    "points": 1277,
-    "num_comments": 299,
+    "title": "Backing Up Spotify",
+    "url": "https://annas-archive.li/blog/backing-up-spotify.html",
+    "points": 817,
+    "num_comments": 289,
     "tags": [
       "story",
-      "author_keepamovin",
-      "story_46326588"
-    ],
-    "author": "keepamovin",
-    "created_at": "2025-12-19T15:02:24Z",
-    "aiHeadline": "Hacker News Titles Get Honest, and Now They're Basically Just Confessional Poems About Our Existential Crises."
-  },
-  {
-    "title": "GotaTun – Mullvad's WireGuard Implementation in Rust",
-    "url": "https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn",
-    "points": 539,
-    "num_comments": 112,
-    "tags": [
-      "story",
-      "author_km",
-      "story_46324543",
+      "author_vitplister",
+      "story_46338339",
       "front_page"
     ],
-    "author": "km",
-    "created_at": "2025-12-19T11:16:23Z",
-    "aiHeadline": "Mullvad's New Rust-Based WireGuard Implementation: Because Even VPNs Need a Memory-Safe Language to Avoid Looking Stupid."
+    "author": "vitplister",
+    "created_at": "2025-12-20T18:28:41Z",
+    "aiHeadline": "Because your music taste is the only thing more important than your soul, here's how to back up your Spotify playlists for eternity."
   },
   {
-    "title": "Amazon will allow ePub and PDF downloads for DRM-free eBooks",
-    "url": "https://www.kdpcommunity.com/s/article/New-eBook-Download-Options-for-Readers-Coming-in-2026?language=en_US",
-    "points": 536,
-    "num_comments": 278,
+    "title": "Airbus to migrate critical apps to a sovereign Euro cloud",
+    "url": "https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/",
+    "points": 440,
+    "num_comments": 392,
     "tags": [
       "story",
-      "author_captn3m0",
-      "story_46324078",
+      "author_saubeidl",
+      "story_46334533"
+    ],
+    "author": "saubeidl",
+    "created_at": "2025-12-20T08:36:52Z",
+    "aiHeadline": "Airbus is finally taking its data to a cloud that's as secure as a European vault—because who needs American tech when you can have French cheese and German efficiency?"
+  },
+  {
+    "title": "NTP at NIST Boulder Has Lost Power",
+    "url": "https://lists.nanog.org/archives/list/nanog@lists.nanog.org/message/ACADD3NKOG2QRWZ56OSNNG7UIEKKTZXL/",
+    "points": 430,
+    "num_comments": 192,
+    "tags": [
+      "story",
+      "author_lpage",
+      "story_46334299",
       "front_page"
     ],
-    "author": "captn3m0",
-    "created_at": "2025-12-19T10:03:38Z",
-    "aiHeadline": "Amazon Lets You Download eBooks Without DRM: Finally, Because Who Needs Digital Rights Management When You Can Just Steal Content Anyway?"
+    "author": "lpage",
+    "created_at": "2025-12-20T07:39:26Z",
+    "aiHeadline": "The world's timekeeping just got a little more unreliable as NIST Boulder's NTP loses power, proving that even time can't be trusted these days."
   },
   {
-    "title": "Garage – An S3 object store so reliable you can run it outside datacenters",
-    "url": "https://garagehq.deuxfleurs.fr/",
-    "points": 452,
-    "num_comments": 91,
+    "title": "Go ahead, self-host Postgres",
+    "url": "https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1",
+    "points": 425,
+    "num_comments": 273,
     "tags": [
       "story",
-      "author_ibobev",
-      "story_46326984",
+      "author_pavel_lishin",
+      "story_46336947",
       "front_page"
     ],
-    "author": "ibobev",
-    "created_at": "2025-12-19T15:40:03Z",
-    "aiHeadline": "New S3 Object Store So Reliable, You Can Run It in Your Garage and Still Feel Safe About Your Data."
+    "author": "pavel_lishin",
+    "created_at": "2025-12-20T15:43:15Z",
+    "aiHeadline": "Self-hosting Postgres is fun until someone realizes they're now the IT department, so enjoy your DIY database management adventure!"
   },
   {
-    "title": "Noclip.website – A digital museum of video game levels",
-    "url": "https://noclip.website/",
-    "points": 442,
-    "num_comments": 56,
+    "title": "Privacy doesn't mean anything anymore, anonymity does",
+    "url": "https://servury.com/blog/privacy-is-marketing-anonymity-is-architecture/",
+    "points": 371,
+    "num_comments": 242,
     "tags": [
       "story",
-      "author_ivmoreau",
-      "story_46321619"
+      "author_ybceo",
+      "story_46334025",
+      "front_page"
     ],
-    "author": "ivmoreau",
-    "created_at": "2025-12-19T02:20:08Z",
-    "aiHeadline": "Digital Museum of Video Game Levels: Now You Can Relive Your Childhood Nostalgia Without Actually Playing the Games."
+    "author": "ybceo",
+    "created_at": "2025-12-20T06:21:05Z",
+    "aiHeadline": "Privacy is dead, long live anonymity! Because who needs to keep their data secret when you can just be a faceless entity in the digital void?"
   }
 ]
