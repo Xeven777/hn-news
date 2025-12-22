@@ -1,76 +1,77 @@
 [
   {
-    "title": "Backing Up Spotify",
-    "url": "https://annas-archive.li/blog/backing-up-spotify.html",
-    "points": 817,
-    "num_comments": 289,
+    "title": "Logging sucks",
+    "url": "https://loggingsucks.com/",
+    "points": 506,
+    "num_comments": 187,
     "tags": [
       "story",
-      "author_vitplister",
-      "story_46338339",
-      "front_page"
+      "author_FlorinSays",
+      "story_46346796"
     ],
-    "author": "vitplister",
-    "created_at": "2025-12-20T18:28:41Z",
-    "aiHeadline": "Because your music taste is the only thing more important than your soul, here's how to back up your Spotify playlists for eternity."
+    "author": "FlorinSays",
+    "created_at": "2025-12-21T18:09:52Z",
+    "aiHeadline": "Logging: The eternal struggle where your code finally speaks, but no one listens."
   },
   {
-    "title": "Airbus to migrate critical apps to a sovereign Euro cloud",
-    "url": "https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/",
-    "points": 440,
-    "num_comments": 392,
+    "title": "The Going Dark initiative or ProtectEU is a Chat Control 3.0 attempt",
+    "url": "https://mastodon.online/@mullvadnet/115742530333573065",
+    "points": 462,
+    "num_comments": 144,
     "tags": [
       "story",
-      "author_saubeidl",
-      "story_46334533"
-    ],
-    "author": "saubeidl",
-    "created_at": "2025-12-20T08:36:52Z",
-    "aiHeadline": "Airbus is finally taking its data to a cloud that's as secure as a European vault—because who needs American tech when you can have French cheese and German efficiency?"
-  },
-  {
-    "title": "NTP at NIST Boulder Has Lost Power",
-    "url": "https://lists.nanog.org/archives/list/nanog@lists.nanog.org/message/ACADD3NKOG2QRWZ56OSNNG7UIEKKTZXL/",
-    "points": 430,
-    "num_comments": 192,
-    "tags": [
-      "story",
-      "author_lpage",
-      "story_46334299",
+      "author_janandonly",
+      "story_46347080",
       "front_page"
     ],
-    "author": "lpage",
-    "created_at": "2025-12-20T07:39:26Z",
-    "aiHeadline": "The world's timekeeping just got a little more unreliable as NIST Boulder's NTP loses power, proving that even time can't be trusted these days."
+    "author": "janandonly",
+    "created_at": "2025-12-21T18:39:46Z",
+    "aiHeadline": "The Going Dark initiative: Because nothing says 'freedom' like a new layer of surveillance."
   },
   {
-    "title": "Go ahead, self-host Postgres",
-    "url": "https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1",
-    "points": 425,
-    "num_comments": 273,
+    "title": "Ruby website redesigned",
+    "url": "https://www.ruby-lang.org/en/",
+    "points": 361,
+    "num_comments": 139,
     "tags": [
       "story",
-      "author_pavel_lishin",
-      "story_46336947",
+      "author_psxuaw",
+      "story_46342859",
       "front_page"
     ],
-    "author": "pavel_lishin",
-    "created_at": "2025-12-20T15:43:15Z",
-    "aiHeadline": "Self-hosting Postgres is fun until someone realizes they're now the IT department, so enjoy your DIY database management adventure!"
+    "author": "psxuaw",
+    "created_at": "2025-12-21T07:06:48Z",
+    "aiHeadline": "Ruby gets a fresh coat of paint, proving that even programming languages need a makeover every few years."
   },
   {
-    "title": "Privacy doesn't mean anything anymore, anonymity does",
-    "url": "https://servury.com/blog/privacy-is-marketing-anonymity-is-architecture/",
-    "points": 371,
-    "num_comments": 242,
+    "title": "I can't upgrade to Windows 11, now leave me alone",
+    "url": "https://idiallo.com/byte-size/cant-update-to-windows-11-leave-me-alone",
+    "points": 349,
+    "num_comments": 325,
     "tags": [
       "story",
-      "author_ybceo",
-      "story_46334025",
+      "author_firefoxd",
+      "story_46347108",
       "front_page"
     ],
-    "author": "ybceo",
-    "created_at": "2025-12-20T06:21:05Z",
-    "aiHeadline": "Privacy is dead, long live anonymity! Because who needs to keep their data secret when you can just be a faceless entity in the digital void?"
+    "author": "firefoxd",
+    "created_at": "2025-12-21T18:43:20Z",
+    "aiHeadline": "Windows 11 upgrade: Now available, except for those who've been left behind by progress and are just fine where they are, thank you very much."
+  },
+  {
+    "title": "Show HN: Books mentioned on Hacker News in 2025",
+    "url": "https://hackernews-readings-613604506318.us-west1.run.app",
+    "points": 340,
+    "num_comments": 131,
+    "tags": [
+      "story",
+      "author_seinvak",
+      "story_46345897",
+      "show_hn",
+      "front_page"
+    ],
+    "author": "seinvak",
+    "created_at": "2025-12-21T16:21:04Z",
+    "aiHeadline": "The 2025 Hacker News reading list: Because who doesn't want to spend their free time reading even more tech books?"
   }
 ]
