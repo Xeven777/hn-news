@@ -1,77 +1,76 @@
 [
   {
-    "title": "Logging sucks",
-    "url": "https://loggingsucks.com/",
-    "points": 506,
-    "num_comments": 187,
+    "title": "US blocks all offshore wind construction, says reason is classified",
+    "url": "https://arstechnica.com/science/2025/12/us-government-finds-new-excuse-to-stop-construction-of-offshore-wind/",
+    "points": 447,
+    "num_comments": 370,
     "tags": [
       "story",
-      "author_FlorinSays",
-      "story_46346796"
-    ],
-    "author": "FlorinSays",
-    "created_at": "2025-12-21T18:09:52Z",
-    "aiHeadline": "Logging: The eternal struggle where your code finally speaks, but no one listens."
-  },
-  {
-    "title": "The Going Dark initiative or ProtectEU is a Chat Control 3.0 attempt",
-    "url": "https://mastodon.online/@mullvadnet/115742530333573065",
-    "points": 462,
-    "num_comments": 144,
-    "tags": [
-      "story",
-      "author_janandonly",
-      "story_46347080",
+      "author_rbanffy",
+      "story_46357881",
       "front_page"
     ],
-    "author": "janandonly",
-    "created_at": "2025-12-21T18:39:46Z",
-    "aiHeadline": "The Going Dark initiative: Because nothing says 'freedom' like a new layer of surveillance."
+    "author": "rbanffy",
+    "created_at": "2025-12-22T19:31:11Z",
+    "aiHeadline": "US government blocks offshore wind construction, citing 'classified reasons'—because clearly, nothing says 'green energy' like top-secret bureaucratic red tape."
   },
   {
-    "title": "Ruby website redesigned",
-    "url": "https://www.ruby-lang.org/en/",
+    "title": "If you don't design your career, someone else will (2014)",
+    "url": "https://gregmckeown.com/if-you-dont-design-your-career-someone-else-will/",
+    "points": 376,
+    "num_comments": 221,
+    "tags": [
+      "story",
+      "author_TheAlchemist",
+      "story_46352930"
+    ],
+    "author": "TheAlchemist",
+    "created_at": "2025-12-22T10:27:52Z",
+    "aiHeadline": "If you don't design your career, someone else will—probably while you're still in your pajamas at 10 AM on a Tuesday."
+  },
+  {
+    "title": "Flock Exposed Its AI-Powered Cameras to the Internet. We Tracked Ourselves",
+    "url": "https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/",
     "points": 361,
-    "num_comments": 139,
+    "num_comments": 332,
     "tags": [
       "story",
-      "author_psxuaw",
-      "story_46342859",
+      "author_chaps",
+      "story_46355548",
       "front_page"
     ],
-    "author": "psxuaw",
-    "created_at": "2025-12-21T07:06:48Z",
-    "aiHeadline": "Ruby gets a fresh coat of paint, proving that even programming languages need a makeover every few years."
+    "author": "chaps",
+    "created_at": "2025-12-22T16:31:40Z",
+    "aiHeadline": "Flock's AI-powered cameras exposed to the internet: because nothing says 'privacy' like letting the world track your every move."
   },
   {
-    "title": "I can't upgrade to Windows 11, now leave me alone",
-    "url": "https://idiallo.com/byte-size/cant-update-to-windows-11-leave-me-alone",
-    "points": 349,
-    "num_comments": 325,
+    "title": "Claude Code gets native LSP support",
+    "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
+    "points": 301,
+    "num_comments": 161,
     "tags": [
       "story",
-      "author_firefoxd",
-      "story_46347108",
+      "author_JamesSwift",
+      "story_46355165",
       "front_page"
     ],
-    "author": "firefoxd",
-    "created_at": "2025-12-21T18:43:20Z",
-    "aiHeadline": "Windows 11 upgrade: Now available, except for those who've been left behind by progress and are just fine where they are, thank you very much."
+    "author": "JamesSwift",
+    "created_at": "2025-12-22T15:59:01Z",
+    "aiHeadline": "Claude Code finally gets native LSP support—because even AI needs a little help with its code sometimes."
   },
   {
-    "title": "Show HN: Books mentioned on Hacker News in 2025",
-    "url": "https://hackernews-readings-613604506318.us-west1.run.app",
-    "points": 340,
-    "num_comments": 131,
+    "title": "Jimmy Lai Is a Martyr for Freedom",
+    "url": "https://reason.com/2025/12/19/jimmy-lai-is-a-martyr-for-freedom/",
+    "points": 301,
+    "num_comments": 151,
     "tags": [
       "story",
-      "author_seinvak",
-      "story_46345897",
-      "show_hn",
+      "author_mooreds",
+      "story_46355888",
       "front_page"
     ],
-    "author": "seinvak",
-    "created_at": "2025-12-21T16:21:04Z",
-    "aiHeadline": "The 2025 Hacker News reading list: Because who doesn't want to spend their free time reading even more tech books?"
+    "author": "mooreds",
+    "created_at": "2025-12-22T16:56:35Z",
+    "aiHeadline": "Jimmy Lai is a martyr for freedom, according to some folks who probably don't live under a rock—or in a country with actual censorship."
   }
 ]
