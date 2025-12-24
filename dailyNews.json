@@ -1,76 +1,76 @@
 [
   {
-    "title": "US blocks all offshore wind construction, says reason is classified",
-    "url": "https://arstechnica.com/science/2025/12/us-government-finds-new-excuse-to-stop-construction-of-offshore-wind/",
-    "points": 447,
-    "num_comments": 370,
+    "title": "Fabrice Bellard Releases MicroQuickJS",
+    "url": "https://github.com/bellard/mquickjs/blob/main/README.md",
+    "points": 777,
+    "num_comments": 310,
     "tags": [
       "story",
-      "author_rbanffy",
-      "story_46357881",
+      "author_Aissen",
+      "story_46367224",
       "front_page"
     ],
-    "author": "rbanffy",
-    "created_at": "2025-12-22T19:31:11Z",
-    "aiHeadline": "US government blocks offshore wind construction, citing 'classified reasons'—because clearly, nothing says 'green energy' like top-secret bureaucratic red tape."
+    "author": "Aissen",
+    "created_at": "2025-12-23T17:33:42Z",
+    "aiHeadline": "Fabrice Bellard, the guy who invented the world's smallest Linux distro, is back with MicroQuickJS—a JavaScript engine so tiny it might just fit inside a squirrel's brain."
   },
   {
-    "title": "If you don't design your career, someone else will (2014)",
-    "url": "https://gregmckeown.com/if-you-dont-design-your-career-someone-else-will/",
-    "points": 376,
-    "num_comments": 221,
+    "title": "Meta is using the Linux scheduler designed for Valve's Steam Deck on its servers",
+    "url": "https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server",
+    "points": 548,
+    "num_comments": 298,
     "tags": [
       "story",
-      "author_TheAlchemist",
-      "story_46352930"
-    ],
-    "author": "TheAlchemist",
-    "created_at": "2025-12-22T10:27:52Z",
-    "aiHeadline": "If you don't design your career, someone else will—probably while you're still in your pajamas at 10 AM on a Tuesday."
-  },
-  {
-    "title": "Flock Exposed Its AI-Powered Cameras to the Internet. We Tracked Ourselves",
-    "url": "https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/",
-    "points": 361,
-    "num_comments": 332,
-    "tags": [
-      "story",
-      "author_chaps",
-      "story_46355548",
+      "author_yellow_lead",
+      "story_46366998",
       "front_page"
     ],
-    "author": "chaps",
-    "created_at": "2025-12-22T16:31:40Z",
-    "aiHeadline": "Flock's AI-powered cameras exposed to the internet: because nothing says 'privacy' like letting the world track your every move."
+    "author": "yellow_lead",
+    "created_at": "2025-12-23T17:08:34Z",
+    "aiHeadline": "Meta, in a desperate attempt to make their servers less laggy, has decided to steal the Linux scheduler from Valve's Steam Deck. Because clearly, gaming consoles know how to manage server load better than Facebook engineers."
   },
   {
-    "title": "Claude Code gets native LSP support",
-    "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
-    "points": 301,
-    "num_comments": 161,
+    "title": "Instant database clones with PostgreSQL 18",
+    "url": "https://boringsql.com/posts/instant-database-clones/",
+    "points": 382,
+    "num_comments": 147,
     "tags": [
       "story",
-      "author_JamesSwift",
-      "story_46355165",
+      "author_radimm",
+      "story_46363360",
       "front_page"
     ],
-    "author": "JamesSwift",
-    "created_at": "2025-12-22T15:59:01Z",
-    "aiHeadline": "Claude Code finally gets native LSP support—because even AI needs a little help with its code sometimes."
+    "author": "radimm",
+    "created_at": "2025-12-23T07:58:25Z",
+    "aiHeadline": "PostgreSQL 18 just dropped, and it's like they gave database cloning a superpower upgrade. Now you can clone your database instantly, because who needs time when you can have instant gratification?"
   },
   {
-    "title": "Jimmy Lai Is a Martyr for Freedom",
-    "url": "https://reason.com/2025/12/19/jimmy-lai-is-a-martyr-for-freedom/",
-    "points": 301,
-    "num_comments": 151,
+    "title": "Ask HN: What are the best engineering blogs with real-world depth?",
+    "points": 350,
+    "num_comments": 114,
     "tags": [
       "story",
-      "author_mooreds",
-      "story_46355888",
+      "author_nishilpatel",
+      "story_46363921",
+      "ask_hn"
+    ],
+    "author": "nishilpatel",
+    "created_at": "2025-12-23T09:50:31Z",
+    "aiHeadline": "Ask HN: What are the best engineering blogs with real-world depth? Because clearly, no one has figured this out yet, and we're all still pretending to know what we're doing."
+  },
+  {
+    "title": "We replaced H.264 streaming with JPEG screenshots (and it worked better)",
+    "url": "https://blog.helix.ml/p/we-mass-deployed-15-year-old-screen",
+    "points": 328,
+    "num_comments": 204,
+    "tags": [
+      "story",
+      "author_quesobob",
+      "story_46367475",
       "front_page"
     ],
-    "author": "mooreds",
-    "created_at": "2025-12-22T16:56:35Z",
-    "aiHeadline": "Jimmy Lai is a martyr for freedom, according to some folks who probably don't live under a rock—or in a country with actual censorship."
+    "author": "quesobob",
+    "created_at": "2025-12-23T18:00:31Z",
+    "aiHeadline": "In a shocking twist, a company replaced H.264 streaming with JPEG screenshots and somehow it worked better. Because apparently, the future of video streaming is 15-year-old tech and pixelated images."
   }
 ]
