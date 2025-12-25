@@ -1,76 +1,78 @@
 [
   {
-    "title": "Fabrice Bellard Releases MicroQuickJS",
-    "url": "https://github.com/bellard/mquickjs/blob/main/README.md",
-    "points": 777,
-    "num_comments": 310,
+    "title": "Tell HN: Merry Christmas",
+    "points": 463,
+    "num_comments": 142,
     "tags": [
       "story",
-      "author_Aissen",
-      "story_46367224",
+      "author_basilikum",
+      "story_46380168",
+      "ask_hn",
       "front_page"
     ],
-    "author": "Aissen",
-    "created_at": "2025-12-23T17:33:42Z",
-    "aiHeadline": "Fabrice Bellard, the guy who invented the world's smallest Linux distro, is back with MicroQuickJS—a JavaScript engine so tiny it might just fit inside a squirrel's brain."
+    "author": "basilikum",
+    "created_at": "2025-12-24T22:56:00Z",
+    "aiHeadline": "Merry Christmas, HN! Because nothing says 'holiday spirit' like another HN thread about how you're not celebrating Christmas right."
   },
   {
-    "title": "Meta is using the Linux scheduler designed for Valve's Steam Deck on its servers",
-    "url": "https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server",
-    "points": 548,
-    "num_comments": 298,
+    "title": "Nvidia buying AI chip startup Groq for about $20B in cash",
+    "url": "https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html",
+    "points": 346,
+    "num_comments": 211,
     "tags": [
       "story",
-      "author_yellow_lead",
-      "story_46366998",
+      "author_nickrubin",
+      "story_46379183",
       "front_page"
     ],
-    "author": "yellow_lead",
-    "created_at": "2025-12-23T17:08:34Z",
-    "aiHeadline": "Meta, in a desperate attempt to make their servers less laggy, has decided to steal the Linux scheduler from Valve's Steam Deck. Because clearly, gaming consoles know how to manage server load better than Facebook engineers."
+    "author": "nickrubin",
+    "created_at": "2025-12-24T21:02:15Z",
+    "aiHeadline": "Nvidia Spends $20B on Groq: Because what's $20 billion when you can just print more money, right?"
   },
   {
-    "title": "Instant database clones with PostgreSQL 18",
-    "url": "https://boringsql.com/posts/instant-database-clones/",
-    "points": 382,
-    "num_comments": 147,
+    "title": "Show HN: Minimalist editor that lives in browser, stores everything in the URL",
+    "url": "https://github.com/antonmedv/textarea",
+    "points": 234,
+    "num_comments": 83,
     "tags": [
       "story",
-      "author_radimm",
-      "story_46363360",
+      "author_medv",
+      "story_46378554",
+      "show_hn",
       "front_page"
     ],
-    "author": "radimm",
-    "created_at": "2025-12-23T07:58:25Z",
-    "aiHeadline": "PostgreSQL 18 just dropped, and it's like they gave database cloning a superpower upgrade. Now you can clone your database instantly, because who needs time when you can have instant gratification?"
+    "author": "medv",
+    "created_at": "2025-12-24T19:42:25Z",
+    "aiHeadline": "Meet the Future of Productivity: A Browser-Based Editor That Stores Everything in the URL Because Who Needs Privacy Anyway?"
   },
   {
-    "title": "Ask HN: What are the best engineering blogs with real-world depth?",
-    "points": 350,
-    "num_comments": 114,
+    "title": "Show HN: Vibium – Browser automation for AI and humans, by Selenium's creator",
+    "url": "https://github.com/VibiumDev/vibium",
+    "points": 221,
+    "num_comments": 76,
     "tags": [
       "story",
-      "author_nishilpatel",
-      "story_46363921",
-      "ask_hn"
-    ],
-    "author": "nishilpatel",
-    "created_at": "2025-12-23T09:50:31Z",
-    "aiHeadline": "Ask HN: What are the best engineering blogs with real-world depth? Because clearly, no one has figured this out yet, and we're all still pretending to know what we're doing."
-  },
-  {
-    "title": "We replaced H.264 streaming with JPEG screenshots (and it worked better)",
-    "url": "https://blog.helix.ml/p/we-mass-deployed-15-year-old-screen",
-    "points": 328,
-    "num_comments": 204,
-    "tags": [
-      "story",
-      "author_quesobob",
-      "story_46367475",
+      "author_hugs",
+      "story_46377597",
+      "show_hn",
       "front_page"
     ],
-    "author": "quesobob",
-    "created_at": "2025-12-23T18:00:31Z",
-    "aiHeadline": "In a shocking twist, a company replaced H.264 streaming with JPEG screenshots and somehow it worked better. Because apparently, the future of video streaming is 15-year-old tech and pixelated images."
+    "author": "hugs",
+    "created_at": "2025-12-24T17:49:02Z",
+    "aiHeadline": "Selenium Creator Launches Vibium: Because Why Have One Automation Tool When You Can Have Two?"
+  },
+  {
+    "title": "Don't Become the Machine",
+    "url": "https://armeet.bearblog.dev/becoming-the-machine/",
+    "points": 214,
+    "num_comments": 126,
+    "tags": [
+      "story",
+      "author_armeet",
+      "story_46372153"
+    ],
+    "author": "armeet",
+    "created_at": "2025-12-24T03:34:31Z",
+    "aiHeadline": "Don't Become the Machine: Unless You Want to Be More Efficient Than a Human, Which is Basically the Point."
   }
 ]
