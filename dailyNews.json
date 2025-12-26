@@ -1,78 +1,75 @@
 [
   {
-    "title": "Tell HN: Merry Christmas",
-    "points": 463,
-    "num_comments": 142,
+    "title": "We invited a man into our home at Christmas and he stayed with us for 45 years",
+    "url": "https://www.bbc.co.uk/news/articles/cdxwllqz1l0o",
+    "points": 923,
+    "num_comments": 218,
     "tags": [
       "story",
-      "author_basilikum",
-      "story_46380168",
-      "ask_hn",
+      "author_rajeshrajappan",
+      "story_46383552",
       "front_page"
     ],
-    "author": "basilikum",
-    "created_at": "2025-12-24T22:56:00Z",
-    "aiHeadline": "Merry Christmas, HN! Because nothing says 'holiday spirit' like another HN thread about how you're not celebrating Christmas right."
+    "author": "rajeshrajappan",
+    "created_at": "2025-12-25T10:35:34Z",
+    "aiHeadline": "We invited a man into our home at Christmas and he stayed with us for 45 years—talk about a holiday gift that keeps on giving (and giving, and giving...)"
   },
   {
-    "title": "Nvidia buying AI chip startup Groq for about $20B in cash",
-    "url": "https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html",
-    "points": 346,
-    "num_comments": 211,
+    "title": "Ruby 4.0.0",
+    "url": "https://www.ruby-lang.org/en/news/2025/12/25/ruby-4-0-0-released/",
+    "points": 676,
+    "num_comments": 151,
     "tags": [
       "story",
-      "author_nickrubin",
-      "story_46379183",
+      "author_FBISurveillance",
+      "story_46382011"
+    ],
+    "author": "FBISurveillance",
+    "created_at": "2025-12-25T04:13:00Z",
+    "aiHeadline": "Ruby 4.0.0: Because sometimes you just need a new version of a programming language to feel like you're making progress in life."
+  },
+  {
+    "title": "Alzheimer’s disease can be reversed in animal models? Study",
+    "url": "https://case.edu/news/new-study-shows-alzheimers-disease-can-be-reversed-achieve-full-neurological-recovery-not-just-prevented-or-slowed-animal-models",
+    "points": 425,
+    "num_comments": 106,
+    "tags": [
+      "story",
+      "author_thunderbong",
+      "story_46384919",
       "front_page"
     ],
-    "author": "nickrubin",
-    "created_at": "2025-12-24T21:02:15Z",
-    "aiHeadline": "Nvidia Spends $20B on Groq: Because what's $20 billion when you can just print more money, right?"
+    "author": "thunderbong",
+    "created_at": "2025-12-25T15:22:36Z",
+    "aiHeadline": "Alzheimer’s disease can be reversed in animal models? Study says yes, but don't hold your breath—mice have been curing everything for years."
   },
   {
-    "title": "Show HN: Minimalist editor that lives in browser, stores everything in the URL",
-    "url": "https://github.com/antonmedv/textarea",
-    "points": 234,
-    "num_comments": 83,
+    "title": "I sell onions on the Internet (2019)",
+    "url": "https://www.deepsouthventures.com/i-sell-onions-on-the-internet/",
+    "points": 365,
+    "num_comments": 111,
     "tags": [
       "story",
-      "author_medv",
-      "story_46378554",
-      "show_hn",
+      "author_sogen",
+      "story_46385308",
       "front_page"
     ],
-    "author": "medv",
-    "created_at": "2025-12-24T19:42:25Z",
-    "aiHeadline": "Meet the Future of Productivity: A Browser-Based Editor That Stores Everything in the URL Because Who Needs Privacy Anyway?"
+    "author": "sogen",
+    "created_at": "2025-12-25T16:24:45Z",
+    "aiHeadline": "I sell onions on the Internet (2019): Because nothing says 'modern entrepreneurship' like selling produce online—especially if it's been sitting in a blog post for six years."
   },
   {
-    "title": "Show HN: Vibium – Browser automation for AI and humans, by Selenium's creator",
-    "url": "https://github.com/VibiumDev/vibium",
-    "points": 221,
-    "num_comments": 76,
+    "title": "Mattermost restricted access to old messages after 10000 limit is reached",
+    "url": "https://github.com/mattermost/mattermost/issues/34271",
+    "points": 334,
+    "num_comments": 205,
     "tags": [
       "story",
-      "author_hugs",
-      "story_46377597",
-      "show_hn",
-      "front_page"
+      "author_xvilka",
+      "story_46383675"
     ],
-    "author": "hugs",
-    "created_at": "2025-12-24T17:49:02Z",
-    "aiHeadline": "Selenium Creator Launches Vibium: Because Why Have One Automation Tool When You Can Have Two?"
-  },
-  {
-    "title": "Don't Become the Machine",
-    "url": "https://armeet.bearblog.dev/becoming-the-machine/",
-    "points": 214,
-    "num_comments": 126,
-    "tags": [
-      "story",
-      "author_armeet",
-      "story_46372153"
-    ],
-    "author": "armeet",
-    "created_at": "2025-12-24T03:34:31Z",
-    "aiHeadline": "Don't Become the Machine: Unless You Want to Be More Efficient Than a Human, Which is Basically the Point."
+    "author": "xvilka",
+    "created_at": "2025-12-25T11:03:59Z",
+    "aiHeadline": "Mattermost restricted access to old messages after 10000 limit is reached: Because who needs a record of past conversations when you can just live in the present—unless that present is a never-ending stream of 'LOL's and 'pls help's."
   }
 ]
