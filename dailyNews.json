@@ -1,75 +1,76 @@
 [
   {
-    "title": "We invited a man into our home at Christmas and he stayed with us for 45 years",
-    "url": "https://www.bbc.co.uk/news/articles/cdxwllqz1l0o",
-    "points": 923,
-    "num_comments": 218,
+    "title": "Rob Pike goes nuclear over GenAI",
+    "url": "https://skyview.social/?url=https%3A%2F%2Fbsky.app%2Fprofile%2Frobpike.io%2Fpost%2F3matwg6w3ic2s&viewtype=tree",
+    "points": 1237,
+    "num_comments": 1495,
     "tags": [
       "story",
-      "author_rajeshrajappan",
-      "story_46383552",
+      "author_christoph-heiss",
+      "story_46392115",
       "front_page"
     ],
-    "author": "rajeshrajappan",
-    "created_at": "2025-12-25T10:35:34Z",
-    "aiHeadline": "We invited a man into our home at Christmas and he stayed with us for 45 years—talk about a holiday gift that keeps on giving (and giving, and giving...)"
+    "author": "christoph-heiss",
+    "created_at": "2025-12-26T14:08:47Z",
+    "aiHeadline": "Rob Pike, the guy who invented Go, is now more upset about AI than a parent at a Fortnite LAN party."
   },
   {
-    "title": "Ruby 4.0.0",
-    "url": "https://www.ruby-lang.org/en/news/2025/12/25/ruby-4-0-0-released/",
-    "points": 676,
-    "num_comments": 151,
+    "title": "Package managers keep using Git as a database, it never works out",
+    "url": "https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html",
+    "points": 576,
+    "num_comments": 324,
     "tags": [
       "story",
-      "author_FBISurveillance",
-      "story_46382011"
-    ],
-    "author": "FBISurveillance",
-    "created_at": "2025-12-25T04:13:00Z",
-    "aiHeadline": "Ruby 4.0.0: Because sometimes you just need a new version of a programming language to feel like you're making progress in life."
-  },
-  {
-    "title": "Alzheimer’s disease can be reversed in animal models? Study",
-    "url": "https://case.edu/news/new-study-shows-alzheimers-disease-can-be-reversed-achieve-full-neurological-recovery-not-just-prevented-or-slowed-animal-models",
-    "points": 425,
-    "num_comments": 106,
-    "tags": [
-      "story",
-      "author_thunderbong",
-      "story_46384919",
+      "author_birdculture",
+      "story_46391514",
       "front_page"
     ],
-    "author": "thunderbong",
-    "created_at": "2025-12-25T15:22:36Z",
-    "aiHeadline": "Alzheimer’s disease can be reversed in animal models? Study says yes, but don't hold your breath—mice have been curing everything for years."
+    "author": "birdculture",
+    "created_at": "2025-12-26T12:46:36Z",
+    "aiHeadline": "Package managers keep treating Git like a database, and honestly, it's like trying to use a toaster as a microwave—it just doesn't work out."
   },
   {
-    "title": "I sell onions on the Internet (2019)",
-    "url": "https://www.deepsouthventures.com/i-sell-onions-on-the-internet/",
-    "points": 365,
-    "num_comments": 111,
+    "title": "How uv got so fast",
+    "url": "https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html",
+    "points": 548,
+    "num_comments": 183,
     "tags": [
       "story",
-      "author_sogen",
-      "story_46385308",
+      "author_zdw",
+      "story_46393992",
       "front_page"
     ],
-    "author": "sogen",
-    "created_at": "2025-12-25T16:24:45Z",
-    "aiHeadline": "I sell onions on the Internet (2019): Because nothing says 'modern entrepreneurship' like selling produce online—especially if it's been sitting in a blog post for six years."
+    "author": "zdw",
+    "created_at": "2025-12-26T17:13:07Z",
+    "aiHeadline": "How 'uv' got so fast: because it's basically a rocket-powered squirrel on caffeine."
   },
   {
-    "title": "Mattermost restricted access to old messages after 10000 limit is reached",
-    "url": "https://github.com/mattermost/mattermost/issues/34271",
-    "points": 334,
-    "num_comments": 205,
+    "title": "Rob Pike Goes Nuclear over GenAI",
+    "url": "https://imgur.com/nUJCI3o",
+    "points": 457,
+    "num_comments": 18,
     "tags": [
       "story",
-      "author_xvilka",
-      "story_46383675"
+      "author_signa11",
+      "story_46389444"
     ],
-    "author": "xvilka",
-    "created_at": "2025-12-25T11:03:59Z",
-    "aiHeadline": "Mattermost restricted access to old messages after 10000 limit is reached: Because who needs a record of past conversations when you can just live in the present—unless that present is a never-ending stream of 'LOL's and 'pls help's."
+    "author": "signa11",
+    "created_at": "2025-12-26T05:27:05Z",
+    "aiHeadline": "Rob Pike is still mad about AI, and honestly, we're all just waiting for him to invent a time machine to stop it."
+  },
+  {
+    "title": "FFmpeg has issued a DMCA takedown on GitHub",
+    "url": "https://twitter.com/FFmpeg/status/2004599109559496984",
+    "points": 390,
+    "num_comments": 119,
+    "tags": [
+      "story",
+      "author_merlindru",
+      "story_46394327",
+      "front_page"
+    ],
+    "author": "merlindru",
+    "created_at": "2025-12-26T17:48:25Z",
+    "aiHeadline": "FFmpeg is so serious about their code that they just sent a DMCA takedown to GitHub, because apparently, even the internet needs a time-out."
   }
 ]
