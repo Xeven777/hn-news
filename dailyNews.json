@@ -1,76 +1,77 @@
 [
   {
-    "title": "Rob Pike goes nuclear over GenAI",
-    "url": "https://skyview.social/?url=https%3A%2F%2Fbsky.app%2Fprofile%2Frobpike.io%2Fpost%2F3matwg6w3ic2s&viewtype=tree",
-    "points": 1237,
-    "num_comments": 1495,
+    "title": "Floor796",
+    "url": "https://floor796.com/",
+    "points": 561,
+    "num_comments": 72,
     "tags": [
       "story",
-      "author_christoph-heiss",
-      "story_46392115",
+      "author_krtkush",
+      "story_46401612",
       "front_page"
     ],
-    "author": "christoph-heiss",
-    "created_at": "2025-12-26T14:08:47Z",
-    "aiHeadline": "Rob Pike, the guy who invented Go, is now more upset about AI than a parent at a Fortnite LAN party."
+    "author": "krtkush",
+    "created_at": "2025-12-27T13:13:00Z",
+    "aiHeadline": "A website named 'Floor796' is making waves online, and honestly, we're all just here wondering if it's a secret code or just someone's weird inside joke."
   },
   {
-    "title": "Package managers keep using Git as a database, it never works out",
-    "url": "https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html",
-    "points": 576,
-    "num_comments": 324,
+    "title": "Apple releases open-source model that instantly turns 2D photos into 3D views",
+    "url": "https://github.com/apple/ml-sharp",
+    "points": 362,
+    "num_comments": 186,
     "tags": [
       "story",
-      "author_birdculture",
-      "story_46391514",
+      "author_SG-",
+      "story_46401539"
+    ],
+    "author": "SG-",
+    "created_at": "2025-12-27T12:58:12Z",
+    "aiHeadline": "Apple's new open-source model turns 2D photos into 3D views, but let's be real, it's probably just another way for them to sell you an expensive upgrade."
+  },
+  {
+    "title": "Show HN: Ez FFmpeg – Video editing in plain English",
+    "url": "http://npmjs.com/package/ezff",
+    "points": 341,
+    "num_comments": 163,
+    "tags": [
+      "story",
+      "author_josharsh",
+      "story_46400251",
+      "show_hn",
       "front_page"
     ],
-    "author": "birdculture",
-    "created_at": "2025-12-26T12:46:36Z",
-    "aiHeadline": "Package managers keep treating Git like a database, and honestly, it's like trying to use a toaster as a microwave—it just doesn't work out."
+    "author": "josharsh",
+    "created_at": "2025-12-27T08:45:46Z",
+    "aiHeadline": "Ez FFmpeg is here to save your life if you're one of those people who can't handle the command line, but don't worry, it's still going to crash your computer eventually."
   },
   {
-    "title": "How uv got so fast",
-    "url": "https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html",
-    "points": 548,
-    "num_comments": 183,
+    "title": "Nvidia's $20B antitrust loophole",
+    "url": "https://ossa-ma.github.io/blog/groq",
+    "points": 338,
+    "num_comments": 118,
     "tags": [
       "story",
-      "author_zdw",
-      "story_46393992",
+      "author_ossa-ma",
+      "story_46403559",
       "front_page"
     ],
-    "author": "zdw",
-    "created_at": "2025-12-26T17:13:07Z",
-    "aiHeadline": "How 'uv' got so fast: because it's basically a rocket-powered squirrel on caffeine."
+    "author": "ossa-ma",
+    "created_at": "2025-12-27T17:42:46Z",
+    "aiHeadline": "Nvidia's $20B antitrust loophole is the kind of thing that makes you realize big companies are basically playing a different game where the rules don't apply to them."
   },
   {
-    "title": "Rob Pike Goes Nuclear over GenAI",
-    "url": "https://imgur.com/nUJCI3o",
-    "points": 457,
-    "num_comments": 18,
+    "title": "How we lost communication to entertainment",
+    "url": "https://ploum.net/2025-12-15-communication-entertainment.html",
+    "points": 280,
+    "num_comments": 143,
     "tags": [
       "story",
-      "author_signa11",
-      "story_46389444"
-    ],
-    "author": "signa11",
-    "created_at": "2025-12-26T05:27:05Z",
-    "aiHeadline": "Rob Pike is still mad about AI, and honestly, we're all just waiting for him to invent a time machine to stop it."
-  },
-  {
-    "title": "FFmpeg has issued a DMCA takedown on GitHub",
-    "url": "https://twitter.com/FFmpeg/status/2004599109559496984",
-    "points": 390,
-    "num_comments": 119,
-    "tags": [
-      "story",
-      "author_merlindru",
-      "story_46394327",
+      "author_8organicbits",
+      "story_46404848",
       "front_page"
     ],
-    "author": "merlindru",
-    "created_at": "2025-12-26T17:48:25Z",
-    "aiHeadline": "FFmpeg is so serious about their code that they just sent a DMCA takedown to GitHub, because apparently, even the internet needs a time-out."
+    "author": "8organicbits",
+    "created_at": "2025-12-27T20:15:01Z",
+    "aiHeadline": "We've officially lost communication to entertainment, and honestly, we're all just here waiting for the day when our texts start auto-liking each other."
   }
 ]
