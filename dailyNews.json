@@ -1,77 +1,75 @@
 [
   {
-    "title": "Floor796",
-    "url": "https://floor796.com/",
-    "points": 561,
-    "num_comments": 72,
+    "title": "Calendar",
+    "url": "https://neatnik.net/calendar/?year=2026",
+    "points": 960,
+    "num_comments": 116,
     "tags": [
       "story",
-      "author_krtkush",
-      "story_46401612",
-      "front_page"
+      "author_twapi",
+      "story_46408613"
     ],
-    "author": "krtkush",
-    "created_at": "2025-12-27T13:13:00Z",
-    "aiHeadline": "A website named 'Floor796' is making waves online, and honestly, we're all just here wondering if it's a secret code or just someone's weird inside joke."
+    "author": "twapi",
+    "created_at": "2025-12-28T05:02:39Z",
+    "aiHeadline": "Prepare for the future by meticulously planning your 2026 calendar, because nothing says 'I'm in control' like knowing what day of the week January 1st will fall on."
   },
   {
-    "title": "Apple releases open-source model that instantly turns 2D photos into 3D views",
-    "url": "https://github.com/apple/ml-sharp",
-    "points": 362,
-    "num_comments": 186,
+    "title": "Growing up in “404 Not Found”: China's nuclear city in the Gobi Desert",
+    "url": "https://substack.com/inbox/post/182743659",
+    "points": 692,
+    "num_comments": 297,
     "tags": [
       "story",
-      "author_SG-",
-      "story_46401539"
-    ],
-    "author": "SG-",
-    "created_at": "2025-12-27T12:58:12Z",
-    "aiHeadline": "Apple's new open-source model turns 2D photos into 3D views, but let's be real, it's probably just another way for them to sell you an expensive upgrade."
-  },
-  {
-    "title": "Show HN: Ez FFmpeg – Video editing in plain English",
-    "url": "http://npmjs.com/package/ezff",
-    "points": 341,
-    "num_comments": 163,
-    "tags": [
-      "story",
-      "author_josharsh",
-      "story_46400251",
-      "show_hn",
+      "author_Vincent_Yan404",
+      "story_46408988",
       "front_page"
     ],
-    "author": "josharsh",
-    "created_at": "2025-12-27T08:45:46Z",
-    "aiHeadline": "Ez FFmpeg is here to save your life if you're one of those people who can't handle the command line, but don't worry, it's still going to crash your computer eventually."
+    "author": "Vincent_Yan404",
+    "created_at": "2025-12-28T06:43:25Z",
+    "aiHeadline": "Discover the fascinating tale of growing up in '404 Not Found,' a hidden nuclear city in the Gobi Desert where even Google Maps says, 'I can't find that place,' but it's real, and it's China's secret."
   },
   {
-    "title": "Nvidia's $20B antitrust loophole",
-    "url": "https://ossa-ma.github.io/blog/groq",
-    "points": 338,
-    "num_comments": 118,
+    "title": "What an unprocessed photo looks like",
+    "url": "https://maurycyz.com/misc/raw_photo/",
+    "points": 483,
+    "num_comments": 127,
     "tags": [
       "story",
-      "author_ossa-ma",
-      "story_46403559",
+      "author_zdw",
+      "story_46415225",
       "front_page"
     ],
-    "author": "ossa-ma",
-    "created_at": "2025-12-27T17:42:46Z",
-    "aiHeadline": "Nvidia's $20B antitrust loophole is the kind of thing that makes you realize big companies are basically playing a different game where the rules don't apply to them."
+    "author": "zdw",
+    "created_at": "2025-12-28T22:35:02Z",
+    "aiHeadline": "Witness the raw, unfiltered truth of what your photos really look like before Instagram filters, because apparently, we've all been living in a digital lie."
   },
   {
-    "title": "How we lost communication to entertainment",
-    "url": "https://ploum.net/2025-12-15-communication-entertainment.html",
-    "points": 280,
-    "num_comments": 143,
+    "title": "Last Year on My Mac: Look Back in Disbelief",
+    "url": "https://eclecticlight.co/2025/12/28/last-year-on-my-mac-look-back-in-disbelief/",
+    "points": 430,
+    "num_comments": 336,
     "tags": [
       "story",
-      "author_8organicbits",
-      "story_46404848",
+      "author_vitosartori",
+      "story_46409969"
+    ],
+    "author": "vitosartori",
+    "created_at": "2025-12-28T10:12:08Z",
+    "aiHeadline": "Relive the glory days of your Mac usage from last year, because who doesn't want to relive the pain of slow performance and endless updates?"
+  },
+  {
+    "title": "Building a macOS app to know when my Mac is thermal throttling",
+    "url": "https://stanislas.blog/2025/12/macos-thermal-throttling-app/",
+    "points": 231,
+    "num_comments": 101,
+    "tags": [
+      "story",
+      "author_angristan",
+      "story_46410402",
       "front_page"
     ],
-    "author": "8organicbits",
-    "created_at": "2025-12-27T20:15:01Z",
-    "aiHeadline": "We've officially lost communication to entertainment, and honestly, we're all just here waiting for the day when our texts start auto-liking each other."
+    "author": "angristan",
+    "created_at": "2025-12-28T11:51:42Z",
+    "aiHeadline": "Finally, an app to tell you when your Mac is slowing down because it's too hot, because who doesn't want to know their computer is basically having a heat stroke?"
   }
 ]
