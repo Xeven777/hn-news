@@ -1,75 +1,76 @@
 [
   {
-    "title": "Calendar",
-    "url": "https://neatnik.net/calendar/?year=2026",
-    "points": 960,
-    "num_comments": 116,
+    "title": "Kidnapped by Deutsche Bahn",
+    "url": "https://www.theocharis.dev/blog/kidnapped-by-deutsche-bahn/",
+    "points": 934,
+    "num_comments": 837,
     "tags": [
       "story",
-      "author_twapi",
-      "story_46408613"
-    ],
-    "author": "twapi",
-    "created_at": "2025-12-28T05:02:39Z",
-    "aiHeadline": "Prepare for the future by meticulously planning your 2026 calendar, because nothing says 'I'm in control' like knowing what day of the week January 1st will fall on."
-  },
-  {
-    "title": "Growing up in “404 Not Found”: China's nuclear city in the Gobi Desert",
-    "url": "https://substack.com/inbox/post/182743659",
-    "points": 692,
-    "num_comments": 297,
-    "tags": [
-      "story",
-      "author_Vincent_Yan404",
-      "story_46408988",
+      "author_JeremyTheo",
+      "story_46419970",
       "front_page"
     ],
-    "author": "Vincent_Yan404",
-    "created_at": "2025-12-28T06:43:25Z",
-    "aiHeadline": "Discover the fascinating tale of growing up in '404 Not Found,' a hidden nuclear city in the Gobi Desert where even Google Maps says, 'I can't find that place,' but it's real, and it's China's secret."
+    "author": "JeremyTheo",
+    "created_at": "2025-12-29T12:24:00Z",
+    "aiHeadline": "Deutsche Bahn kidnaps you, but at least you get a free ride and a lifetime of unforgettable memories (and probably some legal paperwork)."
   },
   {
-    "title": "What an unprocessed photo looks like",
-    "url": "https://maurycyz.com/misc/raw_photo/",
-    "points": 483,
-    "num_comments": 127,
+    "title": "You can make up HTML tags",
+    "url": "https://maurycyz.com/misc/make-up-tags/",
+    "points": 529,
+    "num_comments": 177,
     "tags": [
       "story",
-      "author_zdw",
-      "story_46415225",
+      "author_todsacerdoti",
+      "story_46416945"
+    ],
+    "author": "todsacerdoti",
+    "created_at": "2025-12-29T02:47:44Z",
+    "aiHeadline": "You can make up HTML tags, but don't expect anyone to understand your genius or your browser to render it properly. Welcome to the wild world of web development!"
+  },
+  {
+    "title": "GOG is getting acquired by its original co-founder",
+    "url": "https://www.gog.com/blog/gog-is-getting-acquired-by-its-original-co-founder-what-it-means-for-you/",
+    "points": 527,
+    "num_comments": 291,
+    "tags": [
+      "story",
+      "author_haunter",
+      "story_46422412",
       "front_page"
     ],
-    "author": "zdw",
-    "created_at": "2025-12-28T22:35:02Z",
-    "aiHeadline": "Witness the raw, unfiltered truth of what your photos really look like before Instagram filters, because apparently, we've all been living in a digital lie."
+    "author": "haunter",
+    "created_at": "2025-12-29T16:43:14Z",
+    "aiHeadline": "GOG is getting acquired by its original co-founder, proving that sometimes the best way to fix a company is to let it come full circle—like a ouroboros made of nostalgia."
   },
   {
-    "title": "Last Year on My Mac: Look Back in Disbelief",
-    "url": "https://eclecticlight.co/2025/12/28/last-year-on-my-mac-look-back-in-disbelief/",
-    "points": 430,
-    "num_comments": 336,
+    "title": "Google is dead. Where do we go now?",
+    "url": "https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/",
+    "points": 480,
+    "num_comments": 452,
     "tags": [
       "story",
-      "author_vitosartori",
-      "story_46409969"
-    ],
-    "author": "vitosartori",
-    "created_at": "2025-12-28T10:12:08Z",
-    "aiHeadline": "Relive the glory days of your Mac usage from last year, because who doesn't want to relive the pain of slow performance and endless updates?"
-  },
-  {
-    "title": "Building a macOS app to know when my Mac is thermal throttling",
-    "url": "https://stanislas.blog/2025/12/macos-thermal-throttling-app/",
-    "points": 231,
-    "num_comments": 101,
-    "tags": [
-      "story",
-      "author_angristan",
-      "story_46410402",
+      "author_tomjuggler",
+      "story_46425198",
       "front_page"
     ],
-    "author": "angristan",
-    "created_at": "2025-12-28T11:51:42Z",
-    "aiHeadline": "Finally, an app to tell you when your Mac is slowing down because it's too hot, because who doesn't want to know their computer is basically having a heat stroke?"
+    "author": "tomjuggler",
+    "created_at": "2025-12-29T20:29:26Z",
+    "aiHeadline": "Google is dead. Where do we go now? Probably to Bing, but let's be honest, we'll all just keep using DuckDuckGo anyway because privacy is cool."
+  },
+  {
+    "title": "Show HN: Z80-μLM, a 'Conversational AI' That Fits in 40KB",
+    "url": "https://github.com/HarryR/z80ai",
+    "points": 469,
+    "num_comments": 106,
+    "tags": [
+      "story",
+      "author_quesomaster9000",
+      "story_46417815",
+      "show_hn"
+    ],
+    "author": "quesomaster9000",
+    "created_at": "2025-12-29T05:41:24Z",
+    "aiHeadline": "Show HN: Z80-μLM, a 'Conversational AI' That Fits in 40KB—because sometimes you want your AI to be as tiny as your brain when it's trying to understand what's going on."
   }
 ]
