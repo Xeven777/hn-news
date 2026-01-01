@@ -1,77 +1,77 @@
 [
   {
-    "title": "Netflix Open Content",
-    "url": "https://opencontent.netflix.com/",
-    "points": 586,
-    "num_comments": 117,
+    "title": "Stardew Valley developer made a $125k donation to the FOSS C# framework MonoGame",
+    "url": "https://monogame.net/blog/2025-12-30-385-new-sponsor-announcement/",
+    "points": 508,
+    "num_comments": 223,
     "tags": [
       "story",
-      "author_tosh",
-      "story_46431560",
+      "author_haunter",
+      "story_46445068"
+    ],
+    "author": "haunter",
+    "created_at": "2025-12-31T15:39:58Z",
+    "aiHeadline": "Stardew Valley Dev Donates $125k to MonoGame, Proving That Even Indie Game Developers Have Hearts (And Excess Cash)."
+  },
+  {
+    "title": "Warren Buffett steps down as Berkshire Hathaway CEO after six decades",
+    "url": "https://www.latimes.com/business/story/2025-12-31/warren-buffett-steps-down-as-berkshire-hathaway-ceo-after-six-decades",
+    "points": 362,
+    "num_comments": 222,
+    "tags": [
+      "story",
+      "author_ValentineC",
+      "story_46448705",
       "front_page"
     ],
-    "author": "tosh",
-    "created_at": "2025-12-30T10:11:57Z",
-    "aiHeadline": "Netflix finally opens up its content, but don't get too excited—it's still behind a paywall and you'll probably still feel like you're paying too much for it."
+    "author": "ValentineC",
+    "created_at": "2025-12-31T21:44:42Z",
+    "aiHeadline": "Warren Buffett Finally Retires After Six Decades, Leaving Berkshire Hathaway to Figure Out How to Function Without Him."
   },
   {
-    "title": "Nicolas Guillou, French ICC judge sanctioned by the US and “debanked”",
-    "url": "https://www.lemonde.fr/en/international/article/2025/11/19/nicolas-guillou-french-icc-judge-sanctioned-by-the-us-you-are-effectively-blacklisted-by-much-of-the-world-s-banking-system_6747628_4.html",
-    "points": 355,
-    "num_comments": 373,
+    "title": "I canceled my book deal",
+    "url": "https://austinhenley.com/blog/canceledbookdeal.html",
+    "points": 327,
+    "num_comments": 218,
     "tags": [
       "story",
-      "author_lifeisstillgood",
-      "story_46432057"
-    ],
-    "author": "lifeisstillgood",
-    "created_at": "2025-12-30T11:13:30Z",
-    "aiHeadline": "French judge Nicolas Guillou gets sanctioned by the US and 'debanked,' proving once again that if you're not on the right side of the world's most powerful country, you might as well be a broke college student trying to buy coffee."
-  },
-  {
-    "title": "Go away Python",
-    "url": "https://lorentz.app/blog-item.html?id=go-shebang",
-    "points": 340,
-    "num_comments": 326,
-    "tags": [
-      "story",
-      "author_baalimago",
-      "story_46431028",
+      "author_azhenley",
+      "story_46446815",
       "front_page"
     ],
-    "author": "baalimago",
-    "created_at": "2025-12-30T08:50:44Z",
-    "aiHeadline": "Python is so popular that people are literally writing blog posts titled 'Go away Python,' which is about as effective as telling the sun to stop shining or water to stop being wet."
+    "author": "azhenley",
+    "created_at": "2025-12-31T18:26:32Z",
+    "aiHeadline": "Author Cancellations: The Latest Trend in Publishing, Because Who Needs a Book Deal Anyway?"
   },
   {
-    "title": "Non-Zero-Sum Games",
-    "url": "https://nonzerosum.games/",
-    "points": 325,
-    "num_comments": 169,
+    "title": "Show HN: Use Claude Code to Query 600 GB Indexes over Hacker News, ArXiv, etc.",
+    "url": "https://exopriors.com/scry",
+    "points": 300,
+    "num_comments": 112,
     "tags": [
       "story",
-      "author_8organicbits",
-      "story_46432311",
-      "front_page"
-    ],
-    "author": "8organicbits",
-    "created_at": "2025-12-30T11:42:55Z",
-    "aiHeadline": "Non-Zero-Sum Games: Because why have fun when you can just make sure everyone loses? And by 'everyone,' we mean you, your enemies, and probably your pets too."
-  },
-  {
-    "title": "Show HN: 22 GB of Hacker News in SQLite",
-    "url": "https://hackerbook.dosaygo.com",
-    "points": 321,
-    "num_comments": 104,
-    "tags": [
-      "story",
-      "author_keepamovin",
-      "story_46435308",
+      "author_Xyra",
+      "story_46442245",
       "show_hn",
       "front_page"
     ],
-    "author": "keepamovin",
-    "created_at": "2025-12-30T17:01:59Z",
-    "aiHeadline": "Show HN: 22 GB of Hacker News in SQLite—because who doesn't want to relive the past decade of tech debates, flame wars, and the occasional insightful comment, all in one convenient, massive database? And by 'convenient,' we mean 'takes up more space than your average hard drive.'"
+    "author": "Xyra",
+    "created_at": "2025-12-31T07:47:44Z",
+    "aiHeadline": "Query 600 GB Indexes Over HN and ArXiv? Why Not Just Google It? Because Apparently, We Need Another Tool for That."
+  },
+  {
+    "title": "Akin's Laws of Spacecraft Design (2011) [pdf]",
+    "url": "https://www.ece.uvic.ca/~elec399/201409/Akin%27s%20Laws%20of%20Spacecraft%20Design.pdf",
+    "points": 265,
+    "num_comments": 80,
+    "tags": [
+      "story",
+      "author_tosh",
+      "story_46442903",
+      "front_page"
+    ],
+    "author": "tosh",
+    "created_at": "2025-12-31T10:12:51Z",
+    "aiHeadline": "Akin's Laws of Spacecraft Design: Because Who Needs Experience When You Can Just Laugh at These Timeless Jokes?"
   }
 ]
