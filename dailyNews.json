@@ -1,77 +1,78 @@
 [
   {
-    "title": "Stardew Valley developer made a $125k donation to the FOSS C# framework MonoGame",
-    "url": "https://monogame.net/blog/2025-12-30-385-new-sponsor-announcement/",
-    "points": 508,
-    "num_comments": 223,
+    "title": "Linux is good now",
+    "url": "https://www.pcgamer.com/software/linux/im-brave-enough-to-say-it-linux-is-good-now-and-if-you-want-to-feel-like-you-actually-own-your-pc-make-2026-the-year-of-linux-on-your-desktop/",
+    "points": 464,
+    "num_comments": 397,
     "tags": [
       "story",
-      "author_haunter",
-      "story_46445068"
-    ],
-    "author": "haunter",
-    "created_at": "2025-12-31T15:39:58Z",
-    "aiHeadline": "Stardew Valley Dev Donates $125k to MonoGame, Proving That Even Indie Game Developers Have Hearts (And Excess Cash)."
-  },
-  {
-    "title": "Warren Buffett steps down as Berkshire Hathaway CEO after six decades",
-    "url": "https://www.latimes.com/business/story/2025-12-31/warren-buffett-steps-down-as-berkshire-hathaway-ceo-after-six-decades",
-    "points": 362,
-    "num_comments": 222,
-    "tags": [
-      "story",
-      "author_ValentineC",
-      "story_46448705",
+      "author_Vinnl",
+      "story_46457770",
       "front_page"
     ],
-    "author": "ValentineC",
-    "created_at": "2025-12-31T21:44:42Z",
-    "aiHeadline": "Warren Buffett Finally Retires After Six Decades, Leaving Berkshire Hathaway to Figure Out How to Function Without Him."
+    "author": "Vinnl",
+    "created_at": "2026-01-01T20:35:11Z",
+    "aiHeadline": "Linux finally gets its act together after years of being the awkward, underappreciated sibling of the OS world, and now it's telling you to make 2026 the year it takes over your desktop—because clearly, you're not doing enough with your life."
   },
   {
-    "title": "I canceled my book deal",
-    "url": "https://austinhenley.com/blog/canceledbookdeal.html",
-    "points": 327,
-    "num_comments": 218,
+    "title": "Bluetooth Headphone Jacking: A Key to Your Phone [video]",
+    "url": "https://media.ccc.de/v/39c3-bluetooth-headphone-jacking-a-key-to-your-phone",
+    "points": 428,
+    "num_comments": 146,
     "tags": [
       "story",
-      "author_azhenley",
-      "story_46446815",
+      "author_AndrewDucker",
+      "story_46453204",
       "front_page"
     ],
-    "author": "azhenley",
-    "created_at": "2025-12-31T18:26:32Z",
-    "aiHeadline": "Author Cancellations: The Latest Trend in Publishing, Because Who Needs a Book Deal Anyway?"
+    "author": "AndrewDucker",
+    "created_at": "2026-01-01T11:17:18Z",
+    "aiHeadline": "Bluetooth headphones are now the key to your phone's soul, and if you're not paranoid enough about your devices, here's your wake-up call: your earbuds could be the gateway to your digital life, and you're just sitting there, blissfully ignorant."
   },
   {
-    "title": "Show HN: Use Claude Code to Query 600 GB Indexes over Hacker News, ArXiv, etc.",
-    "url": "https://exopriors.com/scry",
-    "points": 300,
-    "num_comments": 112,
+    "title": "Show HN: OpenWorkers – Self-hosted Cloudflare workers in Rust",
+    "url": "https://openworkers.com/introducing-openworkers",
+    "points": 369,
+    "num_comments": 114,
     "tags": [
       "story",
-      "author_Xyra",
-      "story_46442245",
+      "author_max_lt",
+      "story_46454693",
       "show_hn",
       "front_page"
     ],
-    "author": "Xyra",
-    "created_at": "2025-12-31T07:47:44Z",
-    "aiHeadline": "Query 600 GB Indexes Over HN and ArXiv? Why Not Just Google It? Because Apparently, We Need Another Tool for That."
+    "author": "max_lt",
+    "created_at": "2026-01-01T15:09:06Z",
+    "aiHeadline": "OpenWorkers: because who doesn't want to self-host their own Cloudflare workers in Rust? You're basically a wizard now, but with the added bonus of debugging in a language that looks like it was written by a cat walking on a keyboard."
   },
   {
-    "title": "Akin's Laws of Spacecraft Design (2011) [pdf]",
-    "url": "https://www.ece.uvic.ca/~elec399/201409/Akin%27s%20Laws%20of%20Spacecraft%20Design.pdf",
-    "points": 265,
-    "num_comments": 80,
+    "title": "iOS allows alternative browser engines in Japan",
+    "url": "https://developer.apple.com/support/alternative-browser-engines-jp/",
+    "points": 358,
+    "num_comments": 306,
     "tags": [
       "story",
-      "author_tosh",
-      "story_46442903",
+      "author_eklavya",
+      "story_46453950",
       "front_page"
     ],
-    "author": "tosh",
-    "created_at": "2025-12-31T10:12:51Z",
-    "aiHeadline": "Akin's Laws of Spacecraft Design: Because Who Needs Experience When You Can Just Laugh at These Timeless Jokes?"
+    "author": "eklavya",
+    "created_at": "2026-01-01T13:30:45Z",
+    "aiHeadline": "iOS lets Japan have alternative browser engines, because apparently, the land of the rising sun is the only place where users are allowed to have a choice—and you're not, because Apple knows best, except when they don't."
+  },
+  {
+    "title": "Cameras and Lenses (2020)",
+    "url": "https://ciechanow.ski/cameras-and-lenses/",
+    "points": 350,
+    "num_comments": 42,
+    "tags": [
+      "story",
+      "author_sebg",
+      "story_46455872",
+      "front_page"
+    ],
+    "author": "sebg",
+    "created_at": "2026-01-01T17:18:01Z",
+    "aiHeadline": "Cameras and lenses: because who doesn't want to spend thousands of dollars on gear that makes you look like a professional photographer, even if you're just taking pictures of your cat sitting on a keyboard and wondering why your photos still suck."
   }
 ]
