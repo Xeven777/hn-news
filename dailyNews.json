@@ -1,78 +1,75 @@
 [
   {
-    "title": "Linux is good now",
-    "url": "https://www.pcgamer.com/software/linux/im-brave-enough-to-say-it-linux-is-good-now-and-if-you-want-to-feel-like-you-actually-own-your-pc-make-2026-the-year-of-linux-on-your-desktop/",
-    "points": 464,
-    "num_comments": 397,
+    "title": "I'm a developer for a major food delivery app",
+    "url": "https://old.reddit.com/r/confession/comments/1q1mzej/im_a_developer_for_a_major_food_delivery_app_the/",
+    "points": 576,
+    "num_comments": 276,
     "tags": [
       "story",
-      "author_Vinnl",
-      "story_46457770",
-      "front_page"
+      "author_apayan",
+      "story_46461563"
     ],
-    "author": "Vinnl",
-    "created_at": "2026-01-01T20:35:11Z",
-    "aiHeadline": "Linux finally gets its act together after years of being the awkward, underappreciated sibling of the OS world, and now it's telling you to make 2026 the year it takes over your desktop—because clearly, you're not doing enough with your life."
+    "author": "apayan",
+    "created_at": "2026-01-02T04:57:25Z",
+    "aiHeadline": "Confession from a developer: 'I work on a food delivery app, and honestly, I'm surprised it works at all.'"
   },
   {
-    "title": "Bluetooth Headphone Jacking: A Key to Your Phone [video]",
-    "url": "https://media.ccc.de/v/39c3-bluetooth-headphone-jacking-a-key-to-your-phone",
-    "points": 428,
-    "num_comments": 146,
+    "title": "HPV vaccination reduces oncogenic HPV16/18 prevalence from 16% to <1% in Denmark",
+    "url": "https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2025.30.27.2400820",
+    "points": 505,
+    "num_comments": 269,
     "tags": [
       "story",
-      "author_AndrewDucker",
-      "story_46453204",
+      "author_stared",
+      "story_46463315",
       "front_page"
     ],
-    "author": "AndrewDucker",
-    "created_at": "2026-01-01T11:17:18Z",
-    "aiHeadline": "Bluetooth headphones are now the key to your phone's soul, and if you're not paranoid enough about your devices, here's your wake-up call: your earbuds could be the gateway to your digital life, and you're just sitting there, blissfully ignorant."
+    "author": "stared",
+    "created_at": "2026-01-02T10:10:46Z",
+    "aiHeadline": "HPV vaccination success: Denmark drops prevalence from 16% to less than 1%, proving that science works—unlike your Wi-Fi."
   },
   {
-    "title": "Show HN: OpenWorkers – Self-hosted Cloudflare workers in Rust",
-    "url": "https://openworkers.com/introducing-openworkers",
-    "points": 369,
-    "num_comments": 114,
+    "title": "FracturedJson",
+    "url": "https://github.com/j-brooke/FracturedJson/wiki",
+    "points": 505,
+    "num_comments": 138,
     "tags": [
       "story",
-      "author_max_lt",
-      "story_46454693",
-      "show_hn",
+      "author_PretzelFisch",
+      "story_46464235",
       "front_page"
     ],
-    "author": "max_lt",
-    "created_at": "2026-01-01T15:09:06Z",
-    "aiHeadline": "OpenWorkers: because who doesn't want to self-host their own Cloudflare workers in Rust? You're basically a wizard now, but with the added bonus of debugging in a language that looks like it was written by a cat walking on a keyboard."
+    "author": "PretzelFisch",
+    "created_at": "2026-01-02T12:46:31Z",
+    "aiHeadline": "FracturedJson: Because who doesn't love a good JSON catastrophe? Now you can embrace the chaos with this new project."
   },
   {
-    "title": "iOS allows alternative browser engines in Japan",
-    "url": "https://developer.apple.com/support/alternative-browser-engines-jp/",
-    "points": 358,
-    "num_comments": 306,
+    "title": "10 years of personal finances in plain text files",
+    "url": "https://sgoel.dev/posts/10-years-of-personal-finances-in-plain-text-files/",
+    "points": 432,
+    "num_comments": 166,
     "tags": [
       "story",
-      "author_eklavya",
-      "story_46453950",
+      "author_wrxd",
+      "story_46463644",
       "front_page"
     ],
-    "author": "eklavya",
-    "created_at": "2026-01-01T13:30:45Z",
-    "aiHeadline": "iOS lets Japan have alternative browser engines, because apparently, the land of the rising sun is the only place where users are allowed to have a choice—and you're not, because Apple knows best, except when they don't."
+    "author": "wrxd",
+    "created_at": "2026-01-02T11:07:51Z",
+    "aiHeadline": "10 years of personal finances in plain text files: Because who needs fancy apps when you can use a stone tablet and a quill?"
   },
   {
-    "title": "Cameras and Lenses (2020)",
-    "url": "https://ciechanow.ski/cameras-and-lenses/",
-    "points": 350,
-    "num_comments": 42,
+    "title": "Happy Public Domain Day 2026",
+    "url": "https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/",
+    "points": 414,
+    "num_comments": 84,
     "tags": [
       "story",
-      "author_sebg",
-      "story_46455872",
-      "front_page"
+      "author_apetresc",
+      "story_46460440"
     ],
-    "author": "sebg",
-    "created_at": "2026-01-01T17:18:01Z",
-    "aiHeadline": "Cameras and lenses: because who doesn't want to spend thousands of dollars on gear that makes you look like a professional photographer, even if you're just taking pictures of your cat sitting on a keyboard and wondering why your photos still suck."
+    "author": "apetresc",
+    "created_at": "2026-01-02T01:42:16Z",
+    "aiHeadline": "Happy Public Domain Day 2026: Finally, some content that's free to use—because everything else is probably copyrighted by a cat."
   }
 ]
