@@ -1,75 +1,76 @@
 [
   {
-    "title": "I'm a developer for a major food delivery app",
-    "url": "https://old.reddit.com/r/confession/comments/1q1mzej/im_a_developer_for_a_major_food_delivery_app_the/",
-    "points": 576,
-    "num_comments": 276,
+    "title": "Trump says Venezuela’s Maduro captured after strikes",
+    "url": "https://www.reuters.com/world/americas/loud-noises-heard-venezuela-capital-southern-area-without-electricity-2026-01-03/",
+    "points": 1561,
+    "num_comments": 3719,
     "tags": [
       "story",
-      "author_apayan",
-      "story_46461563"
-    ],
-    "author": "apayan",
-    "created_at": "2026-01-02T04:57:25Z",
-    "aiHeadline": "Confession from a developer: 'I work on a food delivery app, and honestly, I'm surprised it works at all.'"
-  },
-  {
-    "title": "HPV vaccination reduces oncogenic HPV16/18 prevalence from 16% to <1% in Denmark",
-    "url": "https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2025.30.27.2400820",
-    "points": 505,
-    "num_comments": 269,
-    "tags": [
-      "story",
-      "author_stared",
-      "story_46463315",
+      "author_jumpocelot",
+      "story_46473348",
       "front_page"
     ],
-    "author": "stared",
-    "created_at": "2026-01-02T10:10:46Z",
-    "aiHeadline": "HPV vaccination success: Denmark drops prevalence from 16% to less than 1%, proving that science works—unlike your Wi-Fi."
+    "author": "jumpocelot",
+    "created_at": "2026-01-03T06:35:21Z",
+    "aiHeadline": "Trump claims Maduro has been captured, but we're all still waiting for the rest of his tweets to make sense."
   },
   {
-    "title": "FracturedJson",
-    "url": "https://github.com/j-brooke/FracturedJson/wiki",
-    "points": 505,
-    "num_comments": 138,
+    "title": "Total monthly number of StackOverflow questions over time",
+    "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph",
+    "points": 516,
+    "num_comments": 313,
     "tags": [
       "story",
-      "author_PretzelFisch",
-      "story_46464235",
+      "author_maartin0",
+      "story_46482345",
       "front_page"
     ],
-    "author": "PretzelFisch",
-    "created_at": "2026-01-02T12:46:31Z",
-    "aiHeadline": "FracturedJson: Because who doesn't love a good JSON catastrophe? Now you can embrace the chaos with this new project."
+    "author": "maartin0",
+    "created_at": "2026-01-03T22:23:34Z",
+    "aiHeadline": "StackOverflow hits new highs in monthly questions, proving once again that no one knows what they're doing."
   },
   {
-    "title": "10 years of personal finances in plain text files",
-    "url": "https://sgoel.dev/posts/10-years-of-personal-finances-in-plain-text-files/",
-    "points": 432,
-    "num_comments": 166,
+    "title": "The Most Popular Blogs of Hacker News in 2025",
+    "url": "https://refactoringenglish.com/blog/2025-hn-top-5/",
+    "points": 418,
+    "num_comments": 88,
     "tags": [
       "story",
-      "author_wrxd",
-      "story_46463644",
+      "author_mtlynch",
+      "story_46478377",
       "front_page"
     ],
-    "author": "wrxd",
-    "created_at": "2026-01-02T11:07:51Z",
-    "aiHeadline": "10 years of personal finances in plain text files: Because who needs fancy apps when you can use a stone tablet and a quill?"
+    "author": "mtlynch",
+    "created_at": "2026-01-03T16:20:10Z",
+    "aiHeadline": "Hacker News reveals the most popular blogs of 2025, and somehow, it's still the same ones we've been reading for years."
   },
   {
-    "title": "Happy Public Domain Day 2026",
-    "url": "https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/",
-    "points": 414,
-    "num_comments": 84,
+    "title": "Report: Microsoft kills official way to activate Windows 11/10 without internet",
+    "url": "https://www.neowin.net/news/report-microsoft-quietly-kills-official-way-to-activate-windows-1110-without-internet/#google_vignette",
+    "points": 371,
+    "num_comments": 310,
     "tags": [
       "story",
-      "author_apetresc",
-      "story_46460440"
+      "author_taubek",
+      "story_46480156"
     ],
-    "author": "apetresc",
-    "created_at": "2026-01-02T01:42:16Z",
-    "aiHeadline": "Happy Public Domain Day 2026: Finally, some content that's free to use—because everything else is probably copyrighted by a cat."
+    "author": "taubek",
+    "created_at": "2026-01-03T18:53:10Z",
+    "aiHeadline": "Microsoft removes offline Windows activation, because who doesn't love being forced online for everything?"
+  },
+  {
+    "title": "The C3 Programming Language",
+    "url": "https://c3-lang.org",
+    "points": 293,
+    "num_comments": 175,
+    "tags": [
+      "story",
+      "author_y1n0",
+      "story_46478647",
+      "front_page"
+    ],
+    "author": "y1n0",
+    "created_at": "2026-01-03T16:41:06Z",
+    "aiHeadline": "The world needs another programming language, so here's C3, because clearly, we didn't have enough already."
   }
 ]
