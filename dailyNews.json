@@ -1,76 +1,75 @@
 [
   {
-    "title": "Lessons from 14 Years at Google",
-    "url": "https://addyosmani.com/blog/21-lessons/",
-    "points": 830,
-    "num_comments": 371,
+    "title": "It's hard to justify Tahoe icons",
+    "url": "https://tonsky.me/blog/tahoe-icons/",
+    "points": 2185,
+    "num_comments": 860,
     "tags": [
       "story",
-      "author_cdrnsf",
-      "story_46488819",
+      "author_lylejantzi3rd",
+      "story_46497712",
       "front_page"
     ],
-    "author": "cdrnsf",
-    "created_at": "2026-01-04T15:23:54Z",
-    "aiHeadline": "After 14 years at Google, I've learned that free snacks are overrated and your boss still doesn't understand why you can't just 'ship it already'."
+    "author": "lylejantzi3rd",
+    "created_at": "2026-01-05T11:51:42Z",
+    "aiHeadline": "Tahoe icons: Because nothing says 'I'm a design genius' like arguing over tiny pictures of lakes."
   },
   {
-    "title": "Neural Networks: Zero to Hero",
-    "url": "https://karpathy.ai/zero-to-hero.html",
-    "points": 703,
-    "num_comments": 64,
+    "title": "Anna's Archive loses .org domain after surprise suspension",
+    "url": "https://torrentfreak.com/annas-archive-loses-org-domain-after-surprise-suspension/",
+    "points": 615,
+    "num_comments": 316,
     "tags": [
       "story",
-      "author_suioir",
-      "story_46485090"
+      "author_CTOSian",
+      "story_46497164"
     ],
-    "author": "suioir",
-    "created_at": "2026-01-04T05:02:16Z",
-    "aiHeadline": "Neural networks: from zero to hero in one click, or how I learned to stop worrying and love the black box."
+    "author": "CTOSian",
+    "created_at": "2026-01-05T10:23:32Z",
+    "aiHeadline": "Anna's Archive loses its .org domain in a move that's about as surprising as finding out your backup didn't actually work."
   },
   {
-    "title": "The Unbearable Joy of Sitting Alone in a Café",
-    "url": "https://candost.blog/the-unbearable-joy-of-sitting-alone-in-a-cafe/",
-    "points": 431,
-    "num_comments": 274,
+    "title": "Databases in 2025: A Year in Review",
+    "url": "https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html",
+    "points": 532,
+    "num_comments": 150,
     "tags": [
       "story",
-      "author_mooreds",
-      "story_46488355",
+      "author_viveknathani_",
+      "story_46496103",
       "front_page"
     ],
-    "author": "mooreds",
-    "created_at": "2026-01-04T14:37:58Z",
-    "aiHeadline": "The unbearable joy of sitting alone in a café, because who needs friends when you have a latte and your thoughts?"
+    "author": "viveknathani_",
+    "created_at": "2026-01-05T07:14:30Z",
+    "aiHeadline": "Databases in 2025: Because who doesn't love a good year of arguing about whether to use SQL or NoSQL while your data slowly rots?"
   },
   {
-    "title": "Street Fighter II, the World Warrier (2021)",
-    "url": "https://fabiensanglard.net/sf2_warrier/",
-    "points": 309,
-    "num_comments": 49,
+    "title": "There were BGP anomalies during the Venezuela blackout",
+    "url": "https://loworbitsecurity.com/radar/radar16/",
+    "points": 469,
+    "num_comments": 243,
     "tags": [
       "story",
-      "author_birdculture",
-      "story_46488278",
+      "author_illithid0",
+      "story_46504963",
       "front_page"
     ],
-    "author": "birdculture",
-    "created_at": "2026-01-04T14:30:29Z",
-    "aiHeadline": "Street Fighter II: where every button press is a life lesson, and your thumbs are the real warriors."
+    "author": "illithid0",
+    "created_at": "2026-01-05T21:05:50Z",
+    "aiHeadline": "Venezuela blackout: When even the internet said, 'I'm out of here, I'm not dealing with this anymore.'"
   },
   {
-    "title": "Web development is fun again",
-    "url": "https://ma.ttias.be/web-development-is-fun-again/",
-    "points": 288,
-    "num_comments": 376,
+    "title": "Murder-suicide case shows OpenAI selectively hides data after users die",
+    "url": "https://arstechnica.com/tech-policy/2025/12/openai-refuses-to-say-where-chatgpt-logs-go-when-users-die/",
+    "points": 434,
+    "num_comments": 257,
     "tags": [
       "story",
-      "author_Mojah",
-      "story_46488576",
-      "front_page"
+      "author_randycupertino",
+      "story_46499983"
     ],
-    "author": "Mojah",
-    "created_at": "2026-01-04T15:00:18Z",
-    "aiHeadline": "Web development is fun again, just like when you thought you'd finally mastered it—until the next framework came along."
+    "author": "randycupertino",
+    "created_at": "2026-01-05T15:34:40Z",
+    "aiHeadline": "OpenAI and death: Because nothing says 'We care about your privacy' like refusing to return your data even after you're dead."
   }
 ]
