@@ -1,75 +1,73 @@
 [
   {
-    "title": "It's hard to justify Tahoe icons",
-    "url": "https://tonsky.me/blog/tahoe-icons/",
-    "points": 2185,
-    "num_comments": 860,
+    "title": "Vietnam bans unskippable ads",
+    "url": "https://saigoneer.com/vietnam-news/28652-vienam-bans-unskippable-ads,-requires-skip-button-to-appear-after-5-seconds",
+    "points": 1074,
+    "num_comments": 583,
     "tags": [
       "story",
-      "author_lylejantzi3rd",
-      "story_46497712",
+      "author_hoherd",
+      "story_46514677",
       "front_page"
     ],
-    "author": "lylejantzi3rd",
-    "created_at": "2026-01-05T11:51:42Z",
-    "aiHeadline": "Tahoe icons: Because nothing says 'I'm a design genius' like arguing over tiny pictures of lakes."
+    "author": "hoherd",
+    "created_at": "2026-01-06T16:45:42Z",
+    "aiHeadline": "Vietnam finally takes a stand against unskippable ads, because who doesn't love watching ads for five seconds before they can skip them?"
   },
   {
-    "title": "Anna's Archive loses .org domain after surprise suspension",
-    "url": "https://torrentfreak.com/annas-archive-loses-org-domain-after-surprise-suspension/",
-    "points": 615,
-    "num_comments": 316,
+    "title": "enclose.horse",
+    "url": "https://enclose.horse/",
+    "points": 1072,
+    "num_comments": 197,
     "tags": [
       "story",
-      "author_CTOSian",
-      "story_46497164"
+      "author_DavidSJ",
+      "story_46509211"
     ],
-    "author": "CTOSian",
-    "created_at": "2026-01-05T10:23:32Z",
-    "aiHeadline": "Anna's Archive loses its .org domain in a move that's about as surprising as finding out your backup didn't actually work."
+    "author": "DavidSJ",
+    "created_at": "2026-01-06T06:01:57Z",
+    "aiHeadline": "enclose.horse: the only website you need to know about, because who doesn't want to enclose things in horses?"
   },
   {
-    "title": "Databases in 2025: A Year in Review",
-    "url": "https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html",
-    "points": 532,
-    "num_comments": 150,
+    "title": "AWS raises GPU prices 15% on a Saturday, hopes you weren't paying attention",
+    "url": "https://www.theregister.com/2026/01/05/aws_price_increase/",
+    "points": 667,
+    "num_comments": 445,
     "tags": [
       "story",
-      "author_viveknathani_",
-      "story_46496103",
-      "front_page"
+      "author_Brajeshwar",
+      "story_46511153"
     ],
-    "author": "viveknathani_",
-    "created_at": "2026-01-05T07:14:30Z",
-    "aiHeadline": "Databases in 2025: Because who doesn't love a good year of arguing about whether to use SQL or NoSQL while your data slowly rots?"
+    "author": "Brajeshwar",
+    "created_at": "2026-01-06T11:42:35Z",
+    "aiHeadline": "AWS raises GPU prices by 15% on a Saturday, because who doesn't love a surprise price hike when they're trying to enjoy their weekend?"
   },
   {
-    "title": "There were BGP anomalies during the Venezuela blackout",
-    "url": "https://loworbitsecurity.com/radar/radar16/",
-    "points": 469,
-    "num_comments": 243,
+    "title": "The Post-American Internet",
+    "url": "https://pluralistic.net/2026/01/01/39c3/",
+    "points": 518,
+    "num_comments": 402,
     "tags": [
       "story",
-      "author_illithid0",
-      "story_46504963",
-      "front_page"
+      "author_EvanAnderson",
+      "story_46509019"
     ],
-    "author": "illithid0",
-    "created_at": "2026-01-05T21:05:50Z",
-    "aiHeadline": "Venezuela blackout: When even the internet said, 'I'm out of here, I'm not dealing with this anymore.'"
+    "author": "EvanAnderson",
+    "created_at": "2026-01-06T05:20:40Z",
+    "aiHeadline": "The Post-American Internet: because the internet is finally realizing it doesn't need America to tell it what to do."
   },
   {
-    "title": "Murder-suicide case shows OpenAI selectively hides data after users die",
-    "url": "https://arstechnica.com/tech-policy/2025/12/openai-refuses-to-say-where-chatgpt-logs-go-when-users-die/",
-    "points": 434,
-    "num_comments": 257,
+    "title": "65% of Hacker News posts have negative sentiment, and they outperform",
+    "url": "https://philippdubach.com/standalone/hn-sentiment/",
+    "points": 455,
+    "num_comments": 436,
     "tags": [
       "story",
-      "author_randycupertino",
-      "story_46499983"
+      "author_7777777phil",
+      "story_46512881"
     ],
-    "author": "randycupertino",
-    "created_at": "2026-01-05T15:34:40Z",
-    "aiHeadline": "OpenAI and death: Because nothing says 'We care about your privacy' like refusing to return your data even after you're dead."
+    "author": "7777777phil",
+    "created_at": "2026-01-06T14:45:47Z",
+    "aiHeadline": "65% of Hacker News posts have negative sentiment, and they outperform, proving that negativity sells—because who doesn't love a good rant?"
   }
 ]
