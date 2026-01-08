@@ -1,73 +1,77 @@
 [
   {
-    "title": "Vietnam bans unskippable ads",
-    "url": "https://saigoneer.com/vietnam-news/28652-vienam-bans-unskippable-ads,-requires-skip-button-to-appear-after-5-seconds",
-    "points": 1074,
-    "num_comments": 583,
+    "title": "Creators of Tailwind laid off 75% of their engineering team",
+    "url": "https://github.com/tailwindlabs/tailwindcss.com/pull/2388",
+    "points": 958,
+    "num_comments": 582,
     "tags": [
       "story",
-      "author_hoherd",
-      "story_46514677",
+      "author_kevlened",
+      "story_46527950",
       "front_page"
     ],
-    "author": "hoherd",
-    "created_at": "2026-01-06T16:45:42Z",
-    "aiHeadline": "Vietnam finally takes a stand against unskippable ads, because who doesn't love watching ads for five seconds before they can skip them?"
+    "author": "kevlened",
+    "created_at": "2026-01-07T16:02:19Z",
+    "aiHeadline": "Tailwind CSS creators lay off 75% of their engineering team, proving that even the best tools can't save you from a stylish disaster."
   },
   {
-    "title": "enclose.horse",
-    "url": "https://enclose.horse/",
-    "points": 1072,
-    "num_comments": 197,
+    "title": "Sugar industry influenced researchers and blamed fat for CVD (2016)",
+    "url": "https://www.ucsf.edu/news/2016/09/404081/sugar-papers-reveal-industry-role-shifting-national-heart-disease-focus",
+    "points": 653,
+    "num_comments": 390,
     "tags": [
       "story",
-      "author_DavidSJ",
-      "story_46509211"
+      "author_aldarion",
+      "story_46526740",
+      "front_page"
     ],
-    "author": "DavidSJ",
-    "created_at": "2026-01-06T06:01:57Z",
-    "aiHeadline": "enclose.horse: the only website you need to know about, because who doesn't want to enclose things in horses?"
+    "author": "aldarion",
+    "created_at": "2026-01-07T14:29:25Z",
+    "aiHeadline": "Sugar industry paid researchers to blame fat for heart disease, because nothing says 'I love you' like a sweet, healthy heart."
   },
   {
-    "title": "AWS raises GPU prices 15% on a Saturday, hopes you weren't paying attention",
-    "url": "https://www.theregister.com/2026/01/05/aws_price_increase/",
-    "points": 667,
-    "num_comments": 445,
+    "title": "US will ban Wall Street investors from buying single-family homes",
+    "url": "https://www.reuters.com/world/us/us-will-ban-large-institutional-investors-buying-single-family-homes-trump-says-2026-01-07/",
+    "points": 594,
+    "num_comments": 644,
     "tags": [
       "story",
-      "author_Brajeshwar",
-      "story_46511153"
+      "author_kpw94",
+      "story_46531068",
+      "front_page"
     ],
-    "author": "Brajeshwar",
-    "created_at": "2026-01-06T11:42:35Z",
-    "aiHeadline": "AWS raises GPU prices by 15% on a Saturday, because who doesn't love a surprise price hike when they're trying to enjoy their weekend?"
+    "author": "kpw94",
+    "created_at": "2026-01-07T19:13:19Z",
+    "aiHeadline": "US government bans Wall Street investors from buying single-family homes, because clearly, the solution to housing shortages is to let regular folks buy them instead."
   },
   {
-    "title": "The Post-American Internet",
-    "url": "https://pluralistic.net/2026/01/01/39c3/",
-    "points": 518,
-    "num_comments": 402,
+    "title": "Eat Real Food",
+    "url": "https://realfood.gov",
+    "points": 535,
+    "num_comments": 842,
     "tags": [
       "story",
-      "author_EvanAnderson",
-      "story_46509019"
+      "author_atestu",
+      "story_46529237",
+      "front_page"
     ],
-    "author": "EvanAnderson",
-    "created_at": "2026-01-06T05:20:40Z",
-    "aiHeadline": "The Post-American Internet: because the internet is finally realizing it doesn't need America to tell it what to do."
+    "author": "atestu",
+    "created_at": "2026-01-07T17:22:09Z",
+    "aiHeadline": "Government website tells you to 'Eat Real Food,' because nothing says 'we're in charge' like giving advice that's as helpful as a paper fan in a fire."
   },
   {
-    "title": "65% of Hacker News posts have negative sentiment, and they outperform",
-    "url": "https://philippdubach.com/standalone/hn-sentiment/",
-    "points": 455,
-    "num_comments": 436,
+    "title": "Shipmap.org",
+    "url": "https://www.shipmap.org/",
+    "points": 466,
+    "num_comments": 77,
     "tags": [
       "story",
-      "author_7777777phil",
-      "story_46512881"
+      "author_surprisetalk",
+      "story_46527161",
+      "front_page"
     ],
-    "author": "7777777phil",
-    "created_at": "2026-01-06T14:45:47Z",
-    "aiHeadline": "65% of Hacker News posts have negative sentiment, and they outperform, proving that negativity sells—because who doesn't love a good rant?"
+    "author": "surprisetalk",
+    "created_at": "2026-01-07T15:03:41Z",
+    "aiHeadline": "Shipmap.org lets you track every ship in the ocean, because nothing says 'privacy' like knowing where every cargo ship is at all times."
   }
 ]
