@@ -1,77 +1,74 @@
 [
   {
-    "title": "Creators of Tailwind laid off 75% of their engineering team",
-    "url": "https://github.com/tailwindlabs/tailwindcss.com/pull/2388",
-    "points": 958,
-    "num_comments": 582,
+    "title": "Bose has released API docs and opened the API for its EoL SoundTouch speakers",
+    "url": "https://arstechnica.com/gadgets/2026/01/bose-open-sources-its-soundtouch-home-theater-smart-speakers-ahead-of-eol/",
+    "points": 2096,
+    "num_comments": 316,
     "tags": [
       "story",
-      "author_kevlened",
-      "story_46527950",
+      "author_rayrey",
+      "story_46541892",
       "front_page"
     ],
-    "author": "kevlened",
-    "created_at": "2026-01-07T16:02:19Z",
-    "aiHeadline": "Tailwind CSS creators lay off 75% of their engineering team, proving that even the best tools can't save you from a stylish disaster."
+    "author": "rayrey",
+    "created_at": "2026-01-08T15:07:57Z",
+    "aiHeadline": "Bose gives a final hurrah to its SoundTouch speakers by releasing API docs just before they become obsolete, proving that even tech giants can't escape the inevitable."
   },
   {
-    "title": "Sugar industry influenced researchers and blamed fat for CVD (2016)",
-    "url": "https://www.ucsf.edu/news/2016/09/404081/sugar-papers-reveal-industry-role-shifting-national-heart-disease-focus",
-    "points": 653,
-    "num_comments": 390,
+    "title": "Google AI Studio is now sponsoring Tailwind CSS",
+    "url": "https://twitter.com/OfficialLoganK/status/2009339263251566902",
+    "points": 461,
+    "num_comments": 163,
     "tags": [
       "story",
-      "author_aldarion",
-      "story_46526740",
+      "author_qwertyforce",
+      "story_46545077",
       "front_page"
     ],
-    "author": "aldarion",
-    "created_at": "2026-01-07T14:29:25Z",
-    "aiHeadline": "Sugar industry paid researchers to blame fat for heart disease, because nothing says 'I love you' like a sweet, healthy heart."
+    "author": "qwertyforce",
+    "created_at": "2026-01-08T19:09:23Z",
+    "aiHeadline": "Google's AI division throws its weight behind Tailwind CSS, because even robots need a stylish interface to show off their smarts."
   },
   {
-    "title": "US will ban Wall Street investors from buying single-family homes",
-    "url": "https://www.reuters.com/world/us/us-will-ban-large-institutional-investors-buying-single-family-homes-trump-says-2026-01-07/",
-    "points": 594,
-    "num_comments": 644,
+    "title": "Open Infrastructure Map",
+    "url": "https://openinframap.org",
+    "points": 424,
+    "num_comments": 92,
     "tags": [
       "story",
-      "author_kpw94",
-      "story_46531068",
-      "front_page"
+      "author_efskap",
+      "story_46536866"
     ],
-    "author": "kpw94",
-    "created_at": "2026-01-07T19:13:19Z",
-    "aiHeadline": "US government bans Wall Street investors from buying single-family homes, because clearly, the solution to housing shortages is to let regular folks buy them instead."
+    "author": "efskap",
+    "created_at": "2026-01-08T03:31:12Z",
+    "aiHeadline": "The Open Infrastructure Map lets you explore the world's underground networks, because who doesn't love a good digging project?"
   },
   {
-    "title": "Eat Real Food",
-    "url": "https://realfood.gov",
-    "points": 535,
-    "num_comments": 842,
+    "title": "Project Patchouli: Open-source electromagnetic drawing tablet hardware",
+    "url": "https://patchouli.readthedocs.io/en/latest/",
+    "points": 418,
+    "num_comments": 49,
     "tags": [
       "story",
-      "author_atestu",
-      "story_46529237",
-      "front_page"
+      "author_ffin",
+      "story_46537489"
     ],
-    "author": "atestu",
-    "created_at": "2026-01-07T17:22:09Z",
-    "aiHeadline": "Government website tells you to 'Eat Real Food,' because nothing says 'we're in charge' like giving advice that's as helpful as a paper fan in a fire."
+    "author": "ffin",
+    "created_at": "2026-01-08T05:20:05Z",
+    "aiHeadline": "Project Patchouli brings DIY creativity to the next level with an open-source electromagnetic drawing tablet, because why buy when you can build?"
   },
   {
-    "title": "Shipmap.org",
-    "url": "https://www.shipmap.org/",
-    "points": 466,
-    "num_comments": 77,
+    "title": "Iran Goes Into IPv6 Blackout",
+    "url": "https://radar.cloudflare.com/routing/ir",
+    "points": 401,
+    "num_comments": 288,
     "tags": [
       "story",
-      "author_surprisetalk",
-      "story_46527161",
-      "front_page"
+      "author_honeycrispy",
+      "story_46542683"
     ],
-    "author": "surprisetalk",
-    "created_at": "2026-01-07T15:03:41Z",
-    "aiHeadline": "Shipmap.org lets you track every ship in the ocean, because nothing says 'privacy' like knowing where every cargo ship is at all times."
+    "author": "honeycrispy",
+    "created_at": "2026-01-08T16:11:48Z",
+    "aiHeadline": "Iran takes a step back in internet connectivity as they face an IPv6 blackout, proving that sometimes, going back is the only way forward."
   }
 ]
