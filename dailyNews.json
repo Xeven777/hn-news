@@ -1,74 +1,76 @@
 [
   {
-    "title": "Bose has released API docs and opened the API for its EoL SoundTouch speakers",
-    "url": "https://arstechnica.com/gadgets/2026/01/bose-open-sources-its-soundtouch-home-theater-smart-speakers-ahead-of-eol/",
-    "points": 2096,
-    "num_comments": 316,
+    "title": "Anthropic blocks third-party use of Claude Code subscriptions",
+    "url": "https://github.com/anomalyco/opencode/issues/7410",
+    "points": 561,
+    "num_comments": 474,
     "tags": [
       "story",
-      "author_rayrey",
-      "story_46541892",
+      "author_sergiotapia",
+      "story_46549823"
+    ],
+    "author": "sergiotapia",
+    "created_at": "2026-01-09T03:44:35Z",
+    "aiHeadline": "Anthropic decides that hoarding AI is the best way to show off their superiority, blocking third-party use of Claude Code subscriptions."
+  },
+  {
+    "title": "The Vietnam government has banned rooted phones from using any banking app",
+    "url": "https://xdaforums.com/t/discussion-the-root-and-mod-hiding-fingerprint-spoofing-keybox-stealing-cat-and-mouse-game.4425939/page-118",
+    "points": 422,
+    "num_comments": 515,
+    "tags": [
+      "story",
+      "author_Magnusmaster",
+      "story_46555963",
       "front_page"
     ],
-    "author": "rayrey",
-    "created_at": "2026-01-08T15:07:57Z",
-    "aiHeadline": "Bose gives a final hurrah to its SoundTouch speakers by releasing API docs just before they become obsolete, proving that even tech giants can't escape the inevitable."
+    "author": "Magnusmaster",
+    "created_at": "2026-01-09T17:00:11Z",
+    "aiHeadline": "Vietnam government: 'We're banning rooted phones because we're too lazy to fix actual security issues!'"
   },
   {
-    "title": "Google AI Studio is now sponsoring Tailwind CSS",
-    "url": "https://twitter.com/OfficialLoganK/status/2009339263251566902",
-    "points": 461,
-    "num_comments": 163,
+    "title": "European Commission issues call for evidence on open source",
+    "url": "https://lwn.net/Articles/1053107/",
+    "points": 412,
+    "num_comments": 325,
     "tags": [
       "story",
-      "author_qwertyforce",
-      "story_46545077",
+      "author_pabs3",
+      "story_46550912"
+    ],
+    "author": "pabs3",
+    "created_at": "2026-01-09T07:09:39Z",
+    "aiHeadline": "European Commission: 'We're finally looking into open source because we ran out of other things to waste taxpayer money on!'"
+  },
+  {
+    "title": "Cloudflare CEO on the Italy fines",
+    "url": "https://twitter.com/eastdakota/status/2009654937303896492",
+    "points": 411,
+    "num_comments": 586,
+    "tags": [
+      "story",
+      "author_sidcool",
+      "story_46555760",
       "front_page"
     ],
-    "author": "qwertyforce",
-    "created_at": "2026-01-08T19:09:23Z",
-    "aiHeadline": "Google's AI division throws its weight behind Tailwind CSS, because even robots need a stylish interface to show off their smarts."
+    "author": "sidcool",
+    "created_at": "2026-01-09T16:46:48Z",
+    "aiHeadline": "Cloudflare CEO: 'We're being fined because we're too good at dodging regulations, right?'"
   },
   {
-    "title": "Open Infrastructure Map",
-    "url": "https://openinframap.org",
-    "points": 424,
-    "num_comments": 92,
+    "title": "Show HN: I made a memory game to teach you to play piano by ear",
+    "url": "https://lend-me-your-ears.specr.net",
+    "points": 404,
+    "num_comments": 142,
     "tags": [
       "story",
-      "author_efskap",
-      "story_46536866"
+      "author_vunderba",
+      "story_46556210",
+      "show_hn",
+      "front_page"
     ],
-    "author": "efskap",
-    "created_at": "2026-01-08T03:31:12Z",
-    "aiHeadline": "The Open Infrastructure Map lets you explore the world's underground networks, because who doesn't love a good digging project?"
-  },
-  {
-    "title": "Project Patchouli: Open-source electromagnetic drawing tablet hardware",
-    "url": "https://patchouli.readthedocs.io/en/latest/",
-    "points": 418,
-    "num_comments": 49,
-    "tags": [
-      "story",
-      "author_ffin",
-      "story_46537489"
-    ],
-    "author": "ffin",
-    "created_at": "2026-01-08T05:20:05Z",
-    "aiHeadline": "Project Patchouli brings DIY creativity to the next level with an open-source electromagnetic drawing tablet, because why buy when you can build?"
-  },
-  {
-    "title": "Iran Goes Into IPv6 Blackout",
-    "url": "https://radar.cloudflare.com/routing/ir",
-    "points": 401,
-    "num_comments": 288,
-    "tags": [
-      "story",
-      "author_honeycrispy",
-      "story_46542683"
-    ],
-    "author": "honeycrispy",
-    "created_at": "2026-01-08T16:11:48Z",
-    "aiHeadline": "Iran takes a step back in internet connectivity as they face an IPv6 blackout, proving that sometimes, going back is the only way forward."
+    "author": "vunderba",
+    "created_at": "2026-01-09T17:17:28Z",
+    "aiHeadline": "Teach yourself piano by ear with this game, because why learn music theory when you can just wing it?"
   }
 ]
