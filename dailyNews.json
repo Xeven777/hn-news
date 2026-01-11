@@ -1,76 +1,75 @@
 [
   {
-    "title": "Anthropic blocks third-party use of Claude Code subscriptions",
-    "url": "https://github.com/anomalyco/opencode/issues/7410",
-    "points": 561,
-    "num_comments": 474,
+    "title": "Allow me to introduce, the Citroen C15",
+    "url": "https://eupolicy.social/@jmaris/115860595238097654",
+    "points": 683,
+    "num_comments": 475,
     "tags": [
       "story",
-      "author_sergiotapia",
-      "story_46549823"
+      "author_colinprince",
+      "story_46564696"
     ],
-    "author": "sergiotapia",
-    "created_at": "2026-01-09T03:44:35Z",
-    "aiHeadline": "Anthropic decides that hoarding AI is the best way to show off their superiority, blocking third-party use of Claude Code subscriptions."
+    "author": "colinprince",
+    "created_at": "2026-01-10T11:12:15Z",
+    "aiHeadline": "Citroen C15: Because who doesn't want a car that looks like it was designed by a drunkards' committee in a parallel universe where functionality is optional?"
   },
   {
-    "title": "The Vietnam government has banned rooted phones from using any banking app",
-    "url": "https://xdaforums.com/t/discussion-the-root-and-mod-hiding-fingerprint-spoofing-keybox-stealing-cat-and-mouse-game.4425939/page-118",
-    "points": 422,
-    "num_comments": 515,
+    "title": "I replaced Windows with Linux and everything's going great",
+    "url": "https://www.theverge.com/tech/858910/linux-diary-gaming-desktop",
+    "points": 559,
+    "num_comments": 472,
     "tags": [
       "story",
-      "author_Magnusmaster",
-      "story_46555963",
+      "author_rorylawless",
+      "story_46566465",
       "front_page"
     ],
-    "author": "Magnusmaster",
-    "created_at": "2026-01-09T17:00:11Z",
-    "aiHeadline": "Vietnam government: 'We're banning rooted phones because we're too lazy to fix actual security issues!'"
+    "author": "rorylawless",
+    "created_at": "2026-01-10T15:26:26Z",
+    "aiHeadline": "Switching to Linux: Because who needs stability when you can have the thrill of debugging your terminal every morning like it's a religious experience?"
   },
   {
-    "title": "European Commission issues call for evidence on open source",
-    "url": "https://lwn.net/Articles/1053107/",
-    "points": 412,
-    "num_comments": 325,
+    "title": "Eulogy for Dark Sky, a data visualization masterpiece (2023)",
+    "url": "https://nightingaledvs.com/dark-sky-weather-data-viz/",
+    "points": 373,
+    "num_comments": 157,
     "tags": [
       "story",
-      "author_pabs3",
-      "story_46550912"
-    ],
-    "author": "pabs3",
-    "created_at": "2026-01-09T07:09:39Z",
-    "aiHeadline": "European Commission: 'We're finally looking into open source because we ran out of other things to waste taxpayer money on!'"
-  },
-  {
-    "title": "Cloudflare CEO on the Italy fines",
-    "url": "https://twitter.com/eastdakota/status/2009654937303896492",
-    "points": 411,
-    "num_comments": 586,
-    "tags": [
-      "story",
-      "author_sidcool",
-      "story_46555760",
+      "author_skadamat",
+      "story_46565132",
       "front_page"
     ],
-    "author": "sidcool",
-    "created_at": "2026-01-09T16:46:48Z",
-    "aiHeadline": "Cloudflare CEO: 'We're being fined because we're too good at dodging regulations, right?'"
+    "author": "skadamat",
+    "created_at": "2026-01-10T12:23:20Z",
+    "aiHeadline": "Farewell to Dark Sky: The weather app so good it became a relic, proving that sometimes the best things in life are the ones that get taken away before you can fully appreciate them."
   },
   {
-    "title": "Show HN: I made a memory game to teach you to play piano by ear",
-    "url": "https://lend-me-your-ears.specr.net",
-    "points": 404,
-    "num_comments": 142,
+    "title": "Open Chaos: A self-evolving open-source project",
+    "url": "https://www.openchaos.dev/",
+    "points": 309,
+    "num_comments": 63,
     "tags": [
       "story",
-      "author_vunderba",
-      "story_46556210",
-      "show_hn",
+      "author_stefanvdw1",
+      "story_46566812",
       "front_page"
     ],
-    "author": "vunderba",
-    "created_at": "2026-01-09T17:17:28Z",
-    "aiHeadline": "Teach yourself piano by ear with this game, because why learn music theory when you can just wing it?"
+    "author": "stefanvdw1",
+    "created_at": "2026-01-10T16:03:55Z",
+    "aiHeadline": "Open Chaos: The open-source project that proves even anarchy can be self-evolving, because why have a plan when you can have spontaneous combustion?"
+  },
+  {
+    "title": "Oh My Zsh adds bloat",
+    "url": "https://rushter.com/blog/zsh-shell/",
+    "points": 305,
+    "num_comments": 272,
+    "tags": [
+      "story",
+      "author_fla",
+      "story_46562790"
+    ],
+    "author": "fla",
+    "created_at": "2026-01-10T04:35:32Z",
+    "aiHeadline": "Oh My Zsh Adds Bloat: Because minimalism was overrated, and now your shell can be as bloated as your ego!"
   }
 ]
