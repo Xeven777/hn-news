@@ -1,75 +1,76 @@
 [
   {
-    "title": "Allow me to introduce, the Citroen C15",
-    "url": "https://eupolicy.social/@jmaris/115860595238097654",
-    "points": 683,
-    "num_comments": 475,
+    "title": "The struggle of resizing windows on macOS Tahoe",
+    "url": "https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/",
+    "points": 823,
+    "num_comments": 373,
     "tags": [
       "story",
-      "author_colinprince",
-      "story_46564696"
-    ],
-    "author": "colinprince",
-    "created_at": "2026-01-10T11:12:15Z",
-    "aiHeadline": "Citroen C15: Because who doesn't want a car that looks like it was designed by a drunkards' committee in a parallel universe where functionality is optional?"
-  },
-  {
-    "title": "I replaced Windows with Linux and everything's going great",
-    "url": "https://www.theverge.com/tech/858910/linux-diary-gaming-desktop",
-    "points": 559,
-    "num_comments": 472,
-    "tags": [
-      "story",
-      "author_rorylawless",
-      "story_46566465",
+      "author_happosai",
+      "story_46579864",
       "front_page"
     ],
-    "author": "rorylawless",
-    "created_at": "2026-01-10T15:26:26Z",
-    "aiHeadline": "Switching to Linux: Because who needs stability when you can have the thrill of debugging your terminal every morning like it's a religious experience?"
+    "author": "happosai",
+    "created_at": "2026-01-11T20:47:55Z",
+    "aiHeadline": "Resizing windows on macOS Tahoe is like trying to fit a square peg into a round hole... except it's even more frustrating."
   },
   {
-    "title": "Eulogy for Dark Sky, a data visualization masterpiece (2023)",
-    "url": "https://nightingaledvs.com/dark-sky-weather-data-viz/",
-    "points": 373,
-    "num_comments": 157,
+    "title": "I dumped Windows 11 for Linux, and you should too",
+    "url": "https://www.notebookcheck.net/I-dumped-Windows-11-for-Linux-and-you-should-too.1190961.0.html",
+    "points": 741,
+    "num_comments": 698,
     "tags": [
       "story",
-      "author_skadamat",
-      "story_46565132",
+      "author_smurda",
+      "story_46574707"
+    ],
+    "author": "smurda",
+    "created_at": "2026-01-11T11:31:22Z",
+    "aiHeadline": "Why bother with Windows 11 when Linux is like a perfectly tuned orchestra? Because who needs a headache when you can have a smooth experience?"
+  },
+  {
+    "title": "Don't fall into the anti-AI hype",
+    "url": "https://antirez.com/news/158",
+    "points": 600,
+    "num_comments": 786,
+    "tags": [
+      "story",
+      "author_todsacerdoti",
+      "story_46574276",
       "front_page"
     ],
-    "author": "skadamat",
-    "created_at": "2026-01-10T12:23:20Z",
-    "aiHeadline": "Farewell to Dark Sky: The weather app so good it became a relic, proving that sometimes the best things in life are the ones that get taken away before you can fully appreciate them."
+    "author": "todsacerdoti",
+    "created_at": "2026-01-11T10:26:18Z",
+    "aiHeadline": "AI is going to take over the world? Please, it can't even figure out how to make a decent cup of coffee."
   },
   {
-    "title": "Open Chaos: A self-evolving open-source project",
-    "url": "https://www.openchaos.dev/",
-    "points": 309,
-    "num_comments": 63,
+    "title": "iCloud Photos Downloader",
+    "url": "https://github.com/icloud-photos-downloader/icloud_photos_downloader",
+    "points": 306,
+    "num_comments": 152,
     "tags": [
       "story",
-      "author_stefanvdw1",
-      "story_46566812",
+      "author_reconnecting",
+      "story_46578921",
       "front_page"
     ],
-    "author": "stefanvdw1",
-    "created_at": "2026-01-10T16:03:55Z",
-    "aiHeadline": "Open Chaos: The open-source project that proves even anarchy can be self-evolving, because why have a plan when you can have spontaneous combustion?"
+    "author": "reconnecting",
+    "created_at": "2026-01-11T19:23:58Z",
+    "aiHeadline": "Because who doesn't love paying Apple for the privilege of accessing their own photos? Now you can download them all at once!"
   },
   {
-    "title": "Oh My Zsh adds bloat",
-    "url": "https://rushter.com/blog/zsh-shell/",
-    "points": 305,
-    "num_comments": 272,
+    "title": "Gentoo Linux 2025 Review",
+    "url": "https://www.gentoo.org/news/2026/01/05/new-year.html",
+    "points": 294,
+    "num_comments": 150,
     "tags": [
       "story",
-      "author_fla",
-      "story_46562790"
+      "author_akhuettel",
+      "story_46574769",
+      "front_page"
     ],
-    "author": "fla",
-    "created_at": "2026-01-10T04:35:32Z",
-    "aiHeadline": "Oh My Zsh Adds Bloat: Because minimalism was overrated, and now your shell can be as bloated as your ego!"
+    "author": "akhuettel",
+    "created_at": "2026-01-11T11:38:52Z",
+    "aiHeadline": "If you enjoy spending hours compiling your system just to make it slightly faster, Gentoo Linux 2025 is your new best friend."
   }
 ]
