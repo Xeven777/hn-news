@@ -1,76 +1,76 @@
 [
   {
-    "title": "The struggle of resizing windows on macOS Tahoe",
-    "url": "https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/",
-    "points": 823,
-    "num_comments": 373,
+    "title": "Apple picks Google's Gemini to power Siri",
+    "url": "https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html",
+    "points": 649,
+    "num_comments": 377,
     "tags": [
       "story",
-      "author_happosai",
-      "story_46579864",
+      "author_stygiansonic",
+      "story_46589675",
       "front_page"
     ],
-    "author": "happosai",
-    "created_at": "2026-01-11T20:47:55Z",
-    "aiHeadline": "Resizing windows on macOS Tahoe is like trying to fit a square peg into a round hole... except it's even more frustrating."
+    "author": "stygiansonic",
+    "created_at": "2026-01-12T15:22:21Z",
+    "aiHeadline": "Apple finally admits they can't do everything and teams up with Google's AI to make Siri less awkward."
   },
   {
-    "title": "I dumped Windows 11 for Linux, and you should too",
-    "url": "https://www.notebookcheck.net/I-dumped-Windows-11-for-Linux-and-you-should-too.1190961.0.html",
-    "points": 741,
-    "num_comments": 698,
+    "title": "Cowork: Claude Code for the rest of your work",
+    "url": "https://claude.com/blog/cowork-research-preview",
+    "points": 613,
+    "num_comments": 323,
     "tags": [
       "story",
-      "author_smurda",
-      "story_46574707"
-    ],
-    "author": "smurda",
-    "created_at": "2026-01-11T11:31:22Z",
-    "aiHeadline": "Why bother with Windows 11 when Linux is like a perfectly tuned orchestra? Because who needs a headache when you can have a smooth experience?"
-  },
-  {
-    "title": "Don't fall into the anti-AI hype",
-    "url": "https://antirez.com/news/158",
-    "points": 600,
-    "num_comments": 786,
-    "tags": [
-      "story",
-      "author_todsacerdoti",
-      "story_46574276",
+      "author_adocomplete",
+      "story_46593022",
       "front_page"
     ],
-    "author": "todsacerdoti",
-    "created_at": "2026-01-11T10:26:18Z",
-    "aiHeadline": "AI is going to take over the world? Please, it can't even figure out how to make a decent cup of coffee."
+    "author": "adocomplete",
+    "created_at": "2026-01-12T19:27:19Z",
+    "aiHeadline": "AI is now doing your job, so you can finally take that nap at your desk."
   },
   {
-    "title": "iCloud Photos Downloader",
-    "url": "https://github.com/icloud-photos-downloader/icloud_photos_downloader",
-    "points": 306,
-    "num_comments": 152,
+    "title": "Floppy disks turn out to be the greatest TV remote for kids",
+    "url": "https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/",
+    "points": 495,
+    "num_comments": 293,
     "tags": [
       "story",
-      "author_reconnecting",
-      "story_46578921",
+      "author_mchro",
+      "story_46587934",
       "front_page"
     ],
-    "author": "reconnecting",
-    "created_at": "2026-01-11T19:23:58Z",
-    "aiHeadline": "Because who doesn't love paying Apple for the privilege of accessing their own photos? Now you can download them all at once!"
+    "author": "mchro",
+    "created_at": "2026-01-12T13:07:49Z",
+    "aiHeadline": "Kids today are so tech-savvy they're using floppy disks as remotes, proving that old tech is the new cool."
   },
   {
-    "title": "Gentoo Linux 2025 Review",
-    "url": "https://www.gentoo.org/news/2026/01/05/new-year.html",
-    "points": 294,
-    "num_comments": 150,
+    "title": "TimeCapsuleLLM: LLM trained only on data from 1800-1875",
+    "url": "https://github.com/haykgrigo3/TimeCapsuleLLM",
+    "points": 480,
+    "num_comments": 198,
     "tags": [
       "story",
-      "author_akhuettel",
-      "story_46574769",
+      "author_admp",
+      "story_46590280",
       "front_page"
     ],
-    "author": "akhuettel",
-    "created_at": "2026-01-11T11:38:52Z",
-    "aiHeadline": "If you enjoy spending hours compiling your system just to make it slightly faster, Gentoo Linux 2025 is your new best friend."
+    "author": "admp",
+    "created_at": "2026-01-12T16:04:27Z",
+    "aiHeadline": "AI now thinks we're all wearing top hats and riding horses to work, thanks to this new model."
+  },
+  {
+    "title": "Ozempic reduced grocery spending by an average of 5.3% in the US",
+    "url": "https://news.cornell.edu/stories/2025/12/ozempic-changing-foods-americans-buy",
+    "points": 319,
+    "num_comments": 573,
+    "tags": [
+      "story",
+      "author_giuliomagnifico",
+      "story_46587536"
+    ],
+    "author": "giuliomagnifico",
+    "created_at": "2026-01-12T12:29:00Z",
+    "aiHeadline": "Finally, a weight-loss drug that also makes you a coupon-clipping master."
   }
 ]
