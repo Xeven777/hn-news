@@ -1,76 +1,74 @@
 [
   {
-    "title": "Apple picks Google's Gemini to power Siri",
-    "url": "https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html",
-    "points": 649,
-    "num_comments": 377,
+    "title": "Scott Adams has died",
+    "url": "https://www.youtube.com/watch?v=Rs_JrOIo3SE",
+    "points": 751,
+    "num_comments": 1232,
     "tags": [
       "story",
-      "author_stygiansonic",
-      "story_46589675",
+      "author_ekianjo",
+      "story_46602102",
       "front_page"
     ],
-    "author": "stygiansonic",
-    "created_at": "2026-01-12T15:22:21Z",
-    "aiHeadline": "Apple finally admits they can't do everything and teams up with Google's AI to make Siri less awkward."
+    "author": "ekianjo",
+    "created_at": "2026-01-13T15:18:43Z",
+    "aiHeadline": "The Man Who Taught Us All How to Hate Our Jobs Has Died: Scott Adams, Creator of Dilbert, Passes Away After a Prostate Cancer Battle"
   },
   {
-    "title": "Cowork: Claude Code for the rest of your work",
-    "url": "https://claude.com/blog/cowork-research-preview",
-    "points": 613,
-    "num_comments": 323,
+    "title": "AI Generated Music Barred from Bandcamp",
+    "url": "https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/",
+    "points": 577,
+    "num_comments": 436,
     "tags": [
       "story",
-      "author_adocomplete",
-      "story_46593022",
+      "author_cdrnsf",
+      "story_46605490",
       "front_page"
     ],
-    "author": "adocomplete",
-    "created_at": "2026-01-12T19:27:19Z",
-    "aiHeadline": "AI is now doing your job, so you can finally take that nap at your desk."
+    "author": "cdrnsf",
+    "created_at": "2026-01-13T18:31:50Z",
+    "aiHeadline": "Bandcamp Finally Joins the Fight Against Robot Takeovers by Banning AI-Generated Music"
   },
   {
-    "title": "Floppy disks turn out to be the greatest TV remote for kids",
-    "url": "https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/",
-    "points": 495,
-    "num_comments": 293,
+    "title": "Apple Creator Studio",
+    "url": "https://www.apple.com/newsroom/2026/01/introducing-apple-creator-studio-an-inspiring-collection-of-creative-apps/",
+    "points": 475,
+    "num_comments": 391,
     "tags": [
       "story",
-      "author_mchro",
-      "story_46587934",
-      "front_page"
+      "author_lemonlime227",
+      "story_46601157"
     ],
-    "author": "mchro",
-    "created_at": "2026-01-12T13:07:49Z",
-    "aiHeadline": "Kids today are so tech-savvy they're using floppy disks as remotes, proving that old tech is the new cool."
+    "author": "lemonlime227",
+    "created_at": "2026-01-13T14:14:18Z",
+    "aiHeadline": "Apple’s Latest Move: Because You Didn’t Already Have Enough Apps to Waste Time On, They’re Launching a Creator Studio for Artists"
   },
   {
-    "title": "TimeCapsuleLLM: LLM trained only on data from 1800-1875",
-    "url": "https://github.com/haykgrigo3/TimeCapsuleLLM",
-    "points": 480,
-    "num_comments": 198,
+    "title": "Scott Adams has died",
+    "url": "https://www.usatoday.com/story/entertainment/celebrities/2026/01/13/scott-adams-dead-dilbert-creator-prostate-cancer/88158828007/",
+    "points": 417,
+    "num_comments": 3,
     "tags": [
       "story",
-      "author_admp",
-      "story_46590280",
-      "front_page"
+      "author_schmuckonwheels",
+      "story_46603431"
     ],
-    "author": "admp",
-    "created_at": "2026-01-12T16:04:27Z",
-    "aiHeadline": "AI now thinks we're all wearing top hats and riding horses to work, thanks to this new model."
+    "author": "schmuckonwheels",
+    "created_at": "2026-01-13T16:41:40Z",
+    "aiHeadline": "Scott Adams Has Died (Again): This Time, It’s Actually True, and the Internet Is Reacting with a Mix of Sadness and Relief"
   },
   {
-    "title": "Ozempic reduced grocery spending by an average of 5.3% in the US",
-    "url": "https://news.cornell.edu/stories/2025/12/ozempic-changing-foods-americans-buy",
-    "points": 319,
-    "num_comments": 573,
+    "title": "Chromium Has Merged JpegXL",
+    "url": "https://chromium-review.googlesource.com/c/chromium/src/+/7184969",
+    "points": 412,
+    "num_comments": 140,
     "tags": [
       "story",
-      "author_giuliomagnifico",
-      "story_46587536"
+      "author_thunderbong",
+      "story_46597927"
     ],
-    "author": "giuliomagnifico",
-    "created_at": "2026-01-12T12:29:00Z",
-    "aiHeadline": "Finally, a weight-loss drug that also makes you a coupon-clipping master."
+    "author": "thunderbong",
+    "created_at": "2026-01-13T06:42:49Z",
+    "aiHeadline": "The Internet Just Got a Little Less Terrible Thanks to JpegXL Being Merged into Chromium"
   }
 ]
