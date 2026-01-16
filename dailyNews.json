@@ -1,76 +1,75 @@
 [
   {
-    "title": "FBI raids Washington Post reporter's home",
-    "url": "https://www.theguardian.com/us-news/2026/jan/14/fbi-raid-washington-post-hannah-natanson",
-    "points": 866,
-    "num_comments": 548,
+    "title": "The URL shortener that makes your links look as suspicious as possible",
+    "url": "https://creepylink.com/",
+    "points": 758,
+    "num_comments": 141,
     "tags": [
       "story",
-      "author_echelon_musk",
-      "story_46616745"
+      "author_dreadsword",
+      "story_46627652"
     ],
-    "author": "echelon_musk",
-    "created_at": "2026-01-14T14:57:30Z",
-    "aiHeadline": "FBI raids Washington Post reporter's home, proving that the government's priority is to investigate journalists instead of actual crimes."
+    "author": "dreadsword",
+    "created_at": "2026-01-15T03:28:20Z",
+    "aiHeadline": "Introducing the URL Shortener That Makes Your Links Look Like They're About to Rob a Bank"
   },
   {
-    "title": "Ford F-150 Lightning outsold the Cybertruck and was then canceled for poor sales",
-    "url": "https://electrek.co/2026/01/13/ford-f150-lightning-outsold-tesla-cybertruck-canceled-not-selling-enough/",
-    "points": 446,
-    "num_comments": 602,
+    "title": "The Palantir app helping ICE raids in Minneapolis",
+    "url": "https://www.404media.co/elite-the-palantir-app-ice-uses-to-find-neighborhoods-to-raid/",
+    "points": 582,
+    "num_comments": 746,
     "tags": [
       "story",
-      "author_MBCook",
-      "story_46618901",
-      "front_page"
+      "author_fajmccain",
+      "story_46633378"
     ],
-    "author": "MBCook",
-    "created_at": "2026-01-14T17:20:09Z",
-    "aiHeadline": "Ford F-150 Lightning outsold Tesla Cybertruck, but Ford decided to cancel it anyway because, hey, why not make life harder for electric truck enthusiasts?"
+    "author": "fajmccain",
+    "created_at": "2026-01-15T14:54:51Z",
+    "aiHeadline": "Palantir's App Helps ICE Find You, Because Who Doesn't Want the Government to Know Exactly Where You Live?"
   },
   {
-    "title": "Claude Cowork Exfiltrates Files",
-    "url": "https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files",
-    "points": 439,
-    "num_comments": 186,
+    "title": "Apple is fighting for TSMC capacity as Nvidia takes center stage",
+    "url": "https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc",
+    "points": 563,
+    "num_comments": 344,
     "tags": [
       "story",
-      "author_takira",
-      "story_46622328",
+      "author_speckx",
+      "story_46633488",
       "front_page"
     ],
-    "author": "takira",
-    "created_at": "2026-01-14T20:12:25Z",
-    "aiHeadline": "Claude Cowork exfiltrates files, because apparently, AI models are now moonlighting as spies in the corporate world."
+    "author": "speckx",
+    "created_at": "2026-01-15T15:02:42Z",
+    "aiHeadline": "Apple Desperately Clings to TSMC Capacity While Nvidia Steals the Spotlight, Proving Once Again That Sometimes It's Better to Be Lucky Than Good"
   },
   {
-    "title": "I hate GitHub Actions with passion",
-    "url": "https://xlii.space/eng/i-hate-github-actions-with-passion/",
-    "points": 419,
-    "num_comments": 296,
+    "title": "Photos capture the breathtaking scale of China's wind and solar buildout",
+    "url": "https://e360.yale.edu/digest/china-renewable-photo-essay",
+    "points": 505,
+    "num_comments": 393,
     "tags": [
       "story",
-      "author_xlii",
-      "story_46614558",
+      "author_mrtksn",
+      "story_46630369",
       "front_page"
     ],
-    "author": "xlii",
-    "created_at": "2026-01-14T10:53:13Z",
-    "aiHeadline": "I hate GitHub Actions with passion, and honestly, who can blame me? It's like dealing with a temperamental toddler who refuses to follow simple instructions."
+    "author": "mrtksn",
+    "created_at": "2026-01-15T09:54:10Z",
+    "aiHeadline": "China's Renewable Energy Buildout is So Enormous It Might Just Be the Only Thing That Can Outshine Their Space Program"
   },
   {
-    "title": "Ask HN: Share your personal website",
-    "points": 401,
-    "num_comments": 1286,
+    "title": "25 Years of Wikipedia",
+    "url": "https://wikipedia25.org",
+    "points": 430,
+    "num_comments": 365,
     "tags": [
       "story",
-      "author_susam",
-      "story_46618714",
-      "ask_hn",
+      "author_easton",
+      "story_46632023",
       "front_page"
     ],
-    "author": "susam",
-    "created_at": "2026-01-14T17:07:42Z",
-    "aiHeadline": "Ask HN: Share your personal website, because nothing says 'I'm a tech enthusiast' like a personal website that probably hasn't been updated since 2015."
+    "author": "easton",
+    "created_at": "2026-01-15T13:17:07Z",
+    "aiHeadline": "Wikipedia Turns 25, Proving That Even When You're Built on Volunteer Contributions and Constant Vandalism, You Can Still Outlast Most Social Media Platforms"
   }
 ]
