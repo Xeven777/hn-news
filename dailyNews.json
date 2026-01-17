@@ -1,75 +1,76 @@
 [
   {
-    "title": "The URL shortener that makes your links look as suspicious as possible",
-    "url": "https://creepylink.com/",
-    "points": 758,
-    "num_comments": 141,
+    "title": "Cloudflare acquires Astro",
+    "url": "https://astro.build/blog/joining-cloudflare/",
+    "points": 708,
+    "num_comments": 329,
     "tags": [
       "story",
-      "author_dreadsword",
-      "story_46627652"
-    ],
-    "author": "dreadsword",
-    "created_at": "2026-01-15T03:28:20Z",
-    "aiHeadline": "Introducing the URL Shortener That Makes Your Links Look Like They're About to Rob a Bank"
-  },
-  {
-    "title": "The Palantir app helping ICE raids in Minneapolis",
-    "url": "https://www.404media.co/elite-the-palantir-app-ice-uses-to-find-neighborhoods-to-raid/",
-    "points": 582,
-    "num_comments": 746,
-    "tags": [
-      "story",
-      "author_fajmccain",
-      "story_46633378"
-    ],
-    "author": "fajmccain",
-    "created_at": "2026-01-15T14:54:51Z",
-    "aiHeadline": "Palantir's App Helps ICE Find You, Because Who Doesn't Want the Government to Know Exactly Where You Live?"
-  },
-  {
-    "title": "Apple is fighting for TSMC capacity as Nvidia takes center stage",
-    "url": "https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc",
-    "points": 563,
-    "num_comments": 344,
-    "tags": [
-      "story",
-      "author_speckx",
-      "story_46633488",
+      "author_todotask2",
+      "story_46646645",
       "front_page"
     ],
-    "author": "speckx",
-    "created_at": "2026-01-15T15:02:42Z",
-    "aiHeadline": "Apple Desperately Clings to TSMC Capacity While Nvidia Steals the Spotlight, Proving Once Again That Sometimes It's Better to Be Lucky Than Good"
+    "author": "todotask2",
+    "created_at": "2026-01-16T14:25:54Z",
+    "aiHeadline": "Cloudflare acquires Astro, proving that even in the tech world, sometimes you just need more stars in your life."
   },
   {
-    "title": "Photos capture the breathtaking scale of China's wind and solar buildout",
-    "url": "https://e360.yale.edu/digest/china-renewable-photo-essay",
-    "points": 505,
-    "num_comments": 393,
+    "title": "STFU",
+    "url": "https://github.com/Pankajtanwarbanna/stfu",
+    "points": 637,
+    "num_comments": 432,
     "tags": [
       "story",
-      "author_mrtksn",
-      "story_46630369",
+      "author_tanelpoder",
+      "story_46649142",
       "front_page"
     ],
-    "author": "mrtksn",
-    "created_at": "2026-01-15T09:54:10Z",
-    "aiHeadline": "China's Renewable Energy Buildout is So Enormous It Might Just Be the Only Thing That Can Outshine Their Space Program"
+    "author": "tanelpoder",
+    "created_at": "2026-01-16T17:32:40Z",
+    "aiHeadline": "A new project called 'STFU' is making the internet a quieter place, one command at a time."
   },
   {
-    "title": "25 Years of Wikipedia",
-    "url": "https://wikipedia25.org",
-    "points": 430,
-    "num_comments": 365,
+    "title": "Just the Browser",
+    "url": "https://justthebrowser.com/",
+    "points": 489,
+    "num_comments": 237,
     "tags": [
       "story",
-      "author_easton",
-      "story_46632023",
+      "author_cl3misch",
+      "story_46645615",
       "front_page"
     ],
-    "author": "easton",
-    "created_at": "2026-01-15T13:17:07Z",
-    "aiHeadline": "Wikipedia Turns 25, Proving That Even When You're Built on Volunteer Contributions and Constant Vandalism, You Can Still Outlast Most Social Media Platforms"
+    "author": "cl3misch",
+    "created_at": "2026-01-16T12:03:52Z",
+    "aiHeadline": "A browser that's just the browser? Radical idea: maybe we don't need 100 tabs open at once."
+  },
+  {
+    "title": "Cursor's latest “browser experiment” implied success without evidence",
+    "url": "https://embedding-shapes.github.io/cursor-implied-success-without-evidence/",
+    "points": 401,
+    "num_comments": 168,
+    "tags": [
+      "story",
+      "author_embedding-shape",
+      "story_46646777",
+      "front_page"
+    ],
+    "author": "embedding-shape",
+    "created_at": "2026-01-16T14:37:49Z",
+    "aiHeadline": "Cursor's latest browser experiment proves that sometimes, success is just a matter of implication, not actual evidence."
+  },
+  {
+    "title": "OpenBSD-current now runs as guest under Apple Hypervisor",
+    "url": "https://www.undeadly.org/cgi?action=article;sid=20260115203619",
+    "points": 393,
+    "num_comments": 56,
+    "tags": [
+      "story",
+      "author_gpi",
+      "story_46642560"
+    ],
+    "author": "gpi",
+    "created_at": "2026-01-16T03:10:36Z",
+    "aiHeadline": "OpenBSD-current now runs under Apple's hypervisor, proving that even rebels can play nice with the system when forced."
   }
 ]
