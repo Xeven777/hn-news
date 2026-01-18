@@ -1,76 +1,75 @@
 [
   {
-    "title": "Cloudflare acquires Astro",
-    "url": "https://astro.build/blog/joining-cloudflare/",
-    "points": 708,
-    "num_comments": 329,
+    "title": "ASCII characters are not pixels: a deep dive into ASCII rendering",
+    "url": "https://alexharri.com/blog/ascii-rendering",
+    "points": 833,
+    "num_comments": 102,
     "tags": [
       "story",
-      "author_todotask2",
-      "story_46646645",
+      "author_alexharri",
+      "story_46657122",
       "front_page"
     ],
-    "author": "todotask2",
-    "created_at": "2026-01-16T14:25:54Z",
-    "aiHeadline": "Cloudflare acquires Astro, proving that even in the tech world, sometimes you just need more stars in your life."
+    "author": "alexharri",
+    "created_at": "2026-01-17T11:15:26Z",
+    "aiHeadline": "Discover the mind-blowing revelation that ASCII characters aren't just pixels—because who would've guessed that letters could represent art?"
   },
   {
-    "title": "STFU",
-    "url": "https://github.com/Pankajtanwarbanna/stfu",
-    "points": 637,
-    "num_comments": 432,
+    "title": "US electricity demand surged in 2025 – solar handled 61% of it",
+    "url": "https://electrek.co/2026/01/16/us-electricity-demand-surged-in-2025-solar-handled-61-percent/",
+    "points": 325,
+    "num_comments": 292,
     "tags": [
       "story",
-      "author_tanelpoder",
-      "story_46649142",
+      "author_doener",
+      "story_46656903"
+    ],
+    "author": "doener",
+    "created_at": "2026-01-17T10:28:06Z",
+    "aiHeadline": "In 2025, US electricity demand skyrocketed, and solar power heroically saved the day by handling 61% of it—because clearly, we're all just waiting for the sun to run out."
+  },
+  {
+    "title": "The recurring dream of replacing developers",
+    "url": "https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html",
+    "points": 282,
+    "num_comments": 234,
+    "tags": [
+      "story",
+      "author_glimshe",
+      "story_46658345",
       "front_page"
     ],
-    "author": "tanelpoder",
-    "created_at": "2026-01-16T17:32:40Z",
-    "aiHeadline": "A new project called 'STFU' is making the internet a quieter place, one command at a time."
+    "author": "glimshe",
+    "created_at": "2026-01-17T14:31:33Z",
+    "aiHeadline": "The never-ending fantasy of replacing developers with AI continues, because what could possibly go wrong with automating the people who write the code that runs everything?"
   },
   {
-    "title": "Just the Browser",
-    "url": "https://justthebrowser.com/",
-    "points": 489,
-    "num_comments": 237,
+    "title": "PCs refuse to shut down after Microsoft patch",
+    "url": "https://www.theregister.com/2026/01/16/patch_tuesday_secure_launch_bug_no_shutdown/",
+    "points": 229,
+    "num_comments": 254,
     "tags": [
       "story",
-      "author_cl3misch",
-      "story_46645615",
+      "author_smurda",
+      "story_46656998"
+    ],
+    "author": "smurda",
+    "created_at": "2026-01-17T10:51:19Z",
+    "aiHeadline": "Microsoft's latest patch ensures your PC stays powered on indefinitely, because who needs sleep when you can have a forced all-nighter with your computer?"
+  },
+  {
+    "title": "Map To Poster – Create Art of your favourite city",
+    "url": "https://github.com/originalankur/maptoposter",
+    "points": 225,
+    "num_comments": 58,
+    "tags": [
+      "story",
+      "author_originalankur",
+      "story_46656834",
       "front_page"
     ],
-    "author": "cl3misch",
-    "created_at": "2026-01-16T12:03:52Z",
-    "aiHeadline": "A browser that's just the browser? Radical idea: maybe we don't need 100 tabs open at once."
-  },
-  {
-    "title": "Cursor's latest “browser experiment” implied success without evidence",
-    "url": "https://embedding-shapes.github.io/cursor-implied-success-without-evidence/",
-    "points": 401,
-    "num_comments": 168,
-    "tags": [
-      "story",
-      "author_embedding-shape",
-      "story_46646777",
-      "front_page"
-    ],
-    "author": "embedding-shape",
-    "created_at": "2026-01-16T14:37:49Z",
-    "aiHeadline": "Cursor's latest browser experiment proves that sometimes, success is just a matter of implication, not actual evidence."
-  },
-  {
-    "title": "OpenBSD-current now runs as guest under Apple Hypervisor",
-    "url": "https://www.undeadly.org/cgi?action=article;sid=20260115203619",
-    "points": 393,
-    "num_comments": 56,
-    "tags": [
-      "story",
-      "author_gpi",
-      "story_46642560"
-    ],
-    "author": "gpi",
-    "created_at": "2026-01-16T03:10:36Z",
-    "aiHeadline": "OpenBSD-current now runs under Apple's hypervisor, proving that even rebels can play nice with the system when forced."
+    "author": "originalankur",
+    "created_at": "2026-01-17T10:13:57Z",
+    "aiHeadline": "Transform your city into a masterpiece with Map To Poster—because who needs a vacation when you can have a digital postcard of your hometown?"
   }
 ]
