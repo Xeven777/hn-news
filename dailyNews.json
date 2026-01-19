@@ -1,75 +1,75 @@
 [
   {
-    "title": "ASCII characters are not pixels: a deep dive into ASCII rendering",
-    "url": "https://alexharri.com/blog/ascii-rendering",
-    "points": 833,
-    "num_comments": 102,
+    "title": "jQuery 4",
+    "url": "https://blog.jquery.com/2026/01/17/jquery-4-0-0/",
+    "points": 727,
+    "num_comments": 240,
     "tags": [
       "story",
-      "author_alexharri",
-      "story_46657122",
+      "author_OuterVale",
+      "story_46664755",
       "front_page"
     ],
-    "author": "alexharri",
-    "created_at": "2026-01-17T11:15:26Z",
-    "aiHeadline": "Discover the mind-blowing revelation that ASCII characters aren't just pixels—because who would've guessed that letters could represent art?"
+    "author": "OuterVale",
+    "created_at": "2026-01-18T04:23:28Z",
+    "aiHeadline": "jQuery 4 Finally Released, Proving That Old Browsers Still Love Us All"
   },
   {
-    "title": "US electricity demand surged in 2025 – solar handled 61% of it",
-    "url": "https://electrek.co/2026/01/16/us-electricity-demand-surged-in-2025-solar-handled-61-percent/",
-    "points": 325,
-    "num_comments": 292,
+    "title": "Iconify: Library of Open Source Icons",
+    "url": "https://icon-sets.iconify.design/",
+    "points": 503,
+    "num_comments": 56,
     "tags": [
       "story",
-      "author_doener",
-      "story_46656903"
+      "author_sea-gold",
+      "story_46665411"
     ],
-    "author": "doener",
-    "created_at": "2026-01-17T10:28:06Z",
-    "aiHeadline": "In 2025, US electricity demand skyrocketed, and solar power heroically saved the day by handling 61% of it—because clearly, we're all just waiting for the sun to run out."
+    "author": "sea-gold",
+    "created_at": "2026-01-18T06:53:36Z",
+    "aiHeadline": "Iconify: The Latest in Open-Source Icons, Because We All Need 500 More Sets, Right?"
   },
   {
-    "title": "The recurring dream of replacing developers",
-    "url": "https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html",
-    "points": 282,
-    "num_comments": 234,
+    "title": "Predicting OpenAI's ad strategy",
+    "url": "https://ossa-ma.github.io/blog/openads",
+    "points": 484,
+    "num_comments": 411,
     "tags": [
       "story",
-      "author_glimshe",
-      "story_46658345",
+      "author_calcifer",
+      "story_46668021",
       "front_page"
     ],
-    "author": "glimshe",
-    "created_at": "2026-01-17T14:31:33Z",
-    "aiHeadline": "The never-ending fantasy of replacing developers with AI continues, because what could possibly go wrong with automating the people who write the code that runs everything?"
+    "author": "calcifer",
+    "created_at": "2026-01-18T14:25:49Z",
+    "aiHeadline": "Predicting OpenAI's Ad Strategy: Because Apparently, Even AI Needs to Sell Stuff Now"
   },
   {
-    "title": "PCs refuse to shut down after Microsoft patch",
-    "url": "https://www.theregister.com/2026/01/16/patch_tuesday_secure_launch_bug_no_shutdown/",
-    "points": 229,
-    "num_comments": 254,
+    "title": "Gaussian Splatting – A$AP Rocky \"Helicopter\" music video",
+    "url": "https://radiancefields.com/a-ap-rocky-releases-helicopter-music-video-featuring-gaussian-splatting",
+    "points": 448,
+    "num_comments": 153,
     "tags": [
       "story",
-      "author_smurda",
-      "story_46656998"
-    ],
-    "author": "smurda",
-    "created_at": "2026-01-17T10:51:19Z",
-    "aiHeadline": "Microsoft's latest patch ensures your PC stays powered on indefinitely, because who needs sleep when you can have a forced all-nighter with your computer?"
-  },
-  {
-    "title": "Map To Poster – Create Art of your favourite city",
-    "url": "https://github.com/originalankur/maptoposter",
-    "points": 225,
-    "num_comments": 58,
-    "tags": [
-      "story",
-      "author_originalankur",
-      "story_46656834",
+      "author_ChrisArchitect",
+      "story_46670024",
       "front_page"
     ],
-    "author": "originalankur",
-    "created_at": "2026-01-17T10:13:57Z",
-    "aiHeadline": "Transform your city into a masterpiece with Map To Poster—because who needs a vacation when you can have a digital postcard of your hometown?"
+    "author": "ChrisArchitect",
+    "created_at": "2026-01-18T17:40:55Z",
+    "aiHeadline": "Gaussian Splatting Makes Its Hollywood Debut in A$AP Rocky's 'Helicopter' Video, Because Math Just Got Lit"
+  },
+  {
+    "title": "Statement by Denmark, Finland, France, Germany, the Netherlands,Norway,Sweden,UK",
+    "url": "https://www.presidentti.fi/statement-by-denmark-finland-france-germany-the-netherlands-norway-sweden-and-the-united-kingdom-englanniksi/",
+    "points": 436,
+    "num_comments": 464,
+    "tags": [
+      "story",
+      "author_calcifer",
+      "story_46669025"
+    ],
+    "author": "calcifer",
+    "created_at": "2026-01-18T16:17:39Z",
+    "aiHeadline": "Eight Countries Issue a Statement, Because Clearly, Diplomacy Hasn't Failed Us Yet"
   }
 ]
