@@ -1,75 +1,74 @@
 [
   {
-    "title": "Danish pension fund divesting US Treasuries",
-    "url": "https://www.reuters.com/business/danish-pension-fund-divest-its-us-treasuries-2026-01-20/",
-    "points": 617,
-    "num_comments": 641,
+    "title": "EU–INC – A new pan-European legal entity",
+    "url": "https://www.eu-inc.org/",
+    "points": 703,
+    "num_comments": 658,
     "tags": [
       "story",
-      "author_mythical_39",
-      "story_46692594",
+      "author_tilt",
+      "story_46703763"
+    ],
+    "author": "tilt",
+    "created_at": "2026-01-21T10:49:20Z",
+    "aiHeadline": "The EU, because nothing says 'let's get stuff done' like creating another legal entity to discuss creating more legal entities."
+  },
+  {
+    "title": "Anthropic's original take home assignment open sourced",
+    "url": "https://github.com/anthropics/original_performance_takehome",
+    "points": 606,
+    "num_comments": 332,
+    "tags": [
+      "story",
+      "author_myahio",
+      "story_46700594"
+    ],
+    "author": "myahio",
+    "created_at": "2026-01-21T02:54:32Z",
+    "aiHeadline": "Anthropic decides to open-source their take-home assignment, because what better way to assess candidates than making them do your homework for free."
+  },
+  {
+    "title": "Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)",
+    "url": "https://github.com/ChartGPU/ChartGPU",
+    "points": 506,
+    "num_comments": 148,
+    "tags": [
+      "story",
+      "author_huntergemmer",
+      "story_46706528",
+      "show_hn",
       "front_page"
     ],
-    "author": "mythical_39",
-    "created_at": "2026-01-20T15:11:45Z",
-    "aiHeadline": "Danish Pension Fund: 'We're Done Being Your ATM, America!'"
+    "author": "huntergemmer",
+    "created_at": "2026-01-21T14:54:56Z",
+    "aiHeadline": "ChartGPU: because 1 million data points at 60fps is what the world needs right now, apparently. (Hint: it's not.)"
   },
   {
-    "title": "De-dollarization: Is the US dollar losing its dominance? (2025)",
-    "url": "https://www.jpmorgan.com/insights/global-research/currencies/de-dollarization",
-    "points": 565,
-    "num_comments": 753,
+    "title": "cURL removes bug bounties",
+    "url": "https://etn.se/index.php/nyheter/72808-curl-removes-bug-bounties.html",
+    "points": 408,
+    "num_comments": 239,
     "tags": [
       "story",
-      "author_andsoitis",
-      "story_46693346"
+      "author_jnord",
+      "story_46701733"
     ],
-    "author": "andsoitis",
-    "created_at": "2026-01-20T16:03:21Z",
-    "aiHeadline": "The Dollar's Throne is Wobbling: Is the World Finally Sick of America's Financial Imperialism?"
+    "author": "jnord",
+    "created_at": "2026-01-21T06:07:03Z",
+    "aiHeadline": "cURL removes bug bounties, proving once again that the best way to secure software is to make it as unappealing as possible to hackers."
   },
   {
-    "title": "I'm addicted to being useful",
-    "url": "https://www.seangoedecke.com/addicted-to-being-useful/",
-    "points": 496,
-    "num_comments": 250,
-    "tags": [
-      "story",
-      "author_swah",
-      "story_46690402",
-      "front_page"
-    ],
-    "author": "swah",
-    "created_at": "2026-01-20T10:47:25Z",
-    "aiHeadline": "I'm Addicted to Being Useful: Because Who Needs a Life When You Can Be Everyone's Go-To Guy?"
-  },
-  {
-    "title": "The Overcomplexity of the Shadcn Radio Button",
-    "url": "https://paulmakeswebsites.com/writing/shadcn-radio-button/",
-    "points": 482,
-    "num_comments": 307,
-    "tags": [
-      "story",
-      "author_dbushell",
-      "story_46688971"
-    ],
-    "author": "dbushell",
-    "created_at": "2026-01-20T07:35:09Z",
-    "aiHeadline": "The Shadcn Radio Button: Because Who Needs a Simple Toggle When You Can Have a Full-On Engineering Project?"
-  },
-  {
-    "title": "A 26,000-year astronomical monument hidden in plain sight (2019)",
-    "url": "https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/",
+    "title": "Tell HN: Bending Spoons laid off almost everybody at Vimeo yesterday",
     "points": 352,
-    "num_comments": 77,
+    "num_comments": 332,
     "tags": [
       "story",
-      "author_mkmk",
-      "story_46695628",
-      "front_page"
+      "author_Daemon404",
+      "story_46707699",
+      "ask_hn"
     ],
-    "author": "mkmk",
-    "created_at": "2026-01-20T18:16:09Z",
-    "aiHeadline": "26,000-Year-Old Astronomical Monument Discovered: Because Apparently, We're Just Now Realizing We've Been Standing on It for Decades."
+    "author": "Daemon404",
+    "created_at": "2026-01-21T16:14:39Z",
+    "aiHeadline": "Bending Spoons lays off almost everyone at Vimeo, because nothing says 'we value our employees' like letting them go in a single fell swoop."
   }
 ]
