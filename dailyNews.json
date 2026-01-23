@@ -1,74 +1,77 @@
 [
   {
-    "title": "EU–INC – A new pan-European legal entity",
-    "url": "https://www.eu-inc.org/",
-    "points": 703,
-    "num_comments": 658,
+    "title": "We will ban you and ridicule you in public if you waste our time on crap reports",
+    "url": "https://curl.se/.well-known/security.txt",
+    "points": 883,
+    "num_comments": 574,
     "tags": [
       "story",
-      "author_tilt",
-      "story_46703763"
+      "author_latexr",
+      "story_46717556"
     ],
-    "author": "tilt",
-    "created_at": "2026-01-21T10:49:20Z",
-    "aiHeadline": "The EU, because nothing says 'let's get stuff done' like creating another legal entity to discuss creating more legal entities."
+    "author": "latexr",
+    "created_at": "2026-01-22T10:48:27Z",
+    "aiHeadline": "Security Experts Threaten to Ban and Ridicule You for Submitting Crap Reports, Because Apparently, They've Got Time to Spare"
   },
   {
-    "title": "Anthropic's original take home assignment open sourced",
-    "url": "https://github.com/anthropics/original_performance_takehome",
-    "points": 606,
-    "num_comments": 332,
+    "title": "GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers",
+    "url": "https://gptzero.me/news/neurips/",
+    "points": 707,
+    "num_comments": 379,
     "tags": [
       "story",
-      "author_myahio",
-      "story_46700594"
+      "author_segmenta",
+      "story_46720395",
+      "front_page"
     ],
-    "author": "myahio",
-    "created_at": "2026-01-21T02:54:32Z",
-    "aiHeadline": "Anthropic decides to open-source their take-home assignment, because what better way to assess candidates than making them do your homework for free."
+    "author": "segmenta",
+    "created_at": "2026-01-22T15:20:48Z",
+    "aiHeadline": "AI Still Can't Tell Fact from Fiction: GPTZero Discovers 100 More Hallucinations in Research Papers, Proving Once Again That AI is Basically a Toddler with a PhD"
   },
   {
-    "title": "Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)",
-    "url": "https://github.com/ChartGPU/ChartGPU",
-    "points": 506,
-    "num_comments": 148,
+    "title": "Show HN: isometric.nyc – giant isometric pixel art map of NYC",
+    "url": "https://cannoneyed.com/isometric-nyc/",
+    "points": 646,
+    "num_comments": 155,
     "tags": [
       "story",
-      "author_huntergemmer",
-      "story_46706528",
+      "author_cannoneyed",
+      "story_46721802",
       "show_hn",
       "front_page"
     ],
-    "author": "huntergemmer",
-    "created_at": "2026-01-21T14:54:56Z",
-    "aiHeadline": "ChartGPU: because 1 million data points at 60fps is what the world needs right now, apparently. (Hint: it's not.)"
+    "author": "cannoneyed",
+    "created_at": "2026-01-22T16:52:35Z",
+    "aiHeadline": "NYC in Pixel Form: A Giant Isometric Map That Looks Like a Video Game Made by a Toddler, But Somehow Still Captivates"
   },
   {
-    "title": "cURL removes bug bounties",
-    "url": "https://etn.se/index.php/nyheter/72808-curl-removes-bug-bounties.html",
-    "points": 408,
-    "num_comments": 239,
+    "title": "In Europe, wind and solar overtake fossil fuels",
+    "url": "https://e360.yale.edu/digest/europe-wind-solar-fossil-fuels",
+    "points": 482,
+    "num_comments": 497,
     "tags": [
       "story",
-      "author_jnord",
-      "story_46701733"
+      "author_speckx",
+      "story_46719491",
+      "front_page"
     ],
-    "author": "jnord",
-    "created_at": "2026-01-21T06:07:03Z",
-    "aiHeadline": "cURL removes bug bounties, proving once again that the best way to secure software is to make it as unappealing as possible to hackers."
+    "author": "speckx",
+    "created_at": "2026-01-22T14:14:15Z",
+    "aiHeadline": "Europe Finally Gets It: Wind and Solar Now Outperform Fossil Fuels, Because Apparently, They've Been Paying Attention for the Last Decade"
   },
   {
-    "title": "Tell HN: Bending Spoons laid off almost everybody at Vimeo yesterday",
-    "points": 352,
-    "num_comments": 332,
+    "title": "Qwen3-TTS family is now open sourced: Voice design, clone, and generation",
+    "url": "https://qwen.ai/blog?id=qwen3tts-0115",
+    "points": 470,
+    "num_comments": 141,
     "tags": [
       "story",
-      "author_Daemon404",
-      "story_46707699",
-      "ask_hn"
+      "author_Palmik",
+      "story_46719229",
+      "front_page"
     ],
-    "author": "Daemon404",
-    "created_at": "2026-01-21T16:14:39Z",
-    "aiHeadline": "Bending Spoons lays off almost everyone at Vimeo, because nothing says 'we value our employees' like letting them go in a single fell swoop."
+    "author": "Palmik",
+    "created_at": "2026-01-22T13:51:25Z",
+    "aiHeadline": "AI Voices Now Available for Everyone: Clone, Design, and Generate Voices with Qwen3-TTS, Because Who Doesn't Want Their Own AI Voice Clone?"
   }
 ]
