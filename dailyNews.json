@@ -1,77 +1,74 @@
 [
   {
-    "title": "We will ban you and ridicule you in public if you waste our time on crap reports",
-    "url": "https://curl.se/.well-known/security.txt",
-    "points": 883,
-    "num_comments": 574,
+    "title": "Bugs Apple loves",
+    "url": "https://www.bugsappleloves.com",
+    "points": 931,
+    "num_comments": 466,
     "tags": [
       "story",
-      "author_latexr",
-      "story_46717556"
+      "author_nhod",
+      "story_46727587"
     ],
-    "author": "latexr",
-    "created_at": "2026-01-22T10:48:27Z",
-    "aiHeadline": "Security Experts Threaten to Ban and Ridicule You for Submitting Crap Reports, Because Apparently, They've Got Time to Spare"
+    "author": "nhod",
+    "created_at": "2026-01-23T02:24:12Z",
+    "aiHeadline": "Apple's new 'bugs' collection: because some software flaws are just too charming to fix."
   },
   {
-    "title": "GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers",
-    "url": "https://gptzero.me/news/neurips/",
-    "points": 707,
-    "num_comments": 379,
+    "title": "European Alternatives",
+    "url": "https://european-alternatives.eu",
+    "points": 638,
+    "num_comments": 382,
     "tags": [
       "story",
-      "author_segmenta",
-      "story_46720395",
+      "author_s_dev",
+      "story_46731976"
+    ],
+    "author": "s_dev",
+    "created_at": "2026-01-23T13:01:51Z",
+    "aiHeadline": "Europe offers alternatives to everything, including sanity and common sense."
+  },
+  {
+    "title": "Microsoft gave FBI set of BitLocker encryption keys to unlock suspects' laptops",
+    "url": "https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/",
+    "points": 631,
+    "num_comments": 430,
+    "tags": [
+      "story",
+      "author_bookofjoe",
+      "story_46735545",
       "front_page"
     ],
-    "author": "segmenta",
-    "created_at": "2026-01-22T15:20:48Z",
-    "aiHeadline": "AI Still Can't Tell Fact from Fiction: GPTZero Discovers 100 More Hallucinations in Research Papers, Proving Once Again That AI is Basically a Toddler with a PhD"
+    "author": "bookofjoe",
+    "created_at": "2026-01-23T17:58:56Z",
+    "aiHeadline": "Microsoft hands over BitLocker keys to FBI: because who needs encryption when you have government access?"
   },
   {
-    "title": "Show HN: isometric.nyc – giant isometric pixel art map of NYC",
-    "url": "https://cannoneyed.com/isometric-nyc/",
-    "points": 646,
-    "num_comments": 155,
-    "tags": [
-      "story",
-      "author_cannoneyed",
-      "story_46721802",
-      "show_hn",
-      "front_page"
-    ],
-    "author": "cannoneyed",
-    "created_at": "2026-01-22T16:52:35Z",
-    "aiHeadline": "NYC in Pixel Form: A Giant Isometric Map That Looks Like a Video Game Made by a Toddler, But Somehow Still Captivates"
-  },
-  {
-    "title": "In Europe, wind and solar overtake fossil fuels",
-    "url": "https://e360.yale.edu/digest/europe-wind-solar-fossil-fuels",
-    "points": 482,
-    "num_comments": 497,
-    "tags": [
-      "story",
-      "author_speckx",
-      "story_46719491",
-      "front_page"
-    ],
-    "author": "speckx",
-    "created_at": "2026-01-22T14:14:15Z",
-    "aiHeadline": "Europe Finally Gets It: Wind and Solar Now Outperform Fossil Fuels, Because Apparently, They've Been Paying Attention for the Last Decade"
-  },
-  {
-    "title": "Qwen3-TTS family is now open sourced: Voice design, clone, and generation",
-    "url": "https://qwen.ai/blog?id=qwen3tts-0115",
+    "title": "Proton Spam and the AI Consent Problem",
+    "url": "https://dbushell.com/2026/01/22/proton-spam/",
     "points": 470,
-    "num_comments": 141,
+    "num_comments": 327,
     "tags": [
       "story",
-      "author_Palmik",
-      "story_46719229",
+      "author_dbushell",
+      "story_46729368",
       "front_page"
     ],
-    "author": "Palmik",
-    "created_at": "2026-01-22T13:51:25Z",
-    "aiHeadline": "AI Voices Now Available for Everyone: Clone, Design, and Generate Voices with Qwen3-TTS, Because Who Doesn't Want Their Own AI Voice Clone?"
+    "author": "dbushell",
+    "created_at": "2026-01-23T07:01:29Z",
+    "aiHeadline": "Proton struggles with AI spam: because consent is just another word for 'please don't ruin my day.'"
+  },
+  {
+    "title": "AI Usage Policy",
+    "url": "https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md",
+    "points": 470,
+    "num_comments": 247,
+    "tags": [
+      "story",
+      "author_mefengl",
+      "story_46730504"
+    ],
+    "author": "mefengl",
+    "created_at": "2026-01-23T09:50:26Z",
+    "aiHeadline": "AI Usage Policy: now you can regulate robots, but can they regulate you?"
   }
 ]
