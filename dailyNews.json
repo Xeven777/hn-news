@@ -1,74 +1,75 @@
 [
   {
-    "title": "Bugs Apple loves",
-    "url": "https://www.bugsappleloves.com",
-    "points": 931,
-    "num_comments": 466,
+    "title": "Man shot and killed by federal agents in south Minneapolis this morning",
+    "url": "https://www.startribune.com/ice-raids-minnesota/601546426",
+    "points": 463,
+    "num_comments": 469,
     "tags": [
       "story",
-      "author_nhod",
-      "story_46727587"
+      "author_oceansky",
+      "story_46745047"
     ],
-    "author": "nhod",
-    "created_at": "2026-01-23T02:24:12Z",
-    "aiHeadline": "Apple's new 'bugs' collection: because some software flaws are just too charming to fix."
+    "author": "oceansky",
+    "created_at": "2026-01-24T16:43:38Z",
+    "aiHeadline": "Federal Agents Show Up, Shoot Guy, and Now Minneapolis is Like, 'What's Next?'"
   },
   {
-    "title": "European Alternatives",
-    "url": "https://european-alternatives.eu",
-    "points": 638,
-    "num_comments": 382,
+    "title": "MS confirms it will give the FBI your Windows PC data encryption key if asked",
+    "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-bitlocker-encryption-keys-give-fbi-legal-order-privacy-nightmare",
+    "points": 447,
+    "num_comments": 283,
     "tags": [
       "story",
-      "author_s_dev",
-      "story_46731976"
-    ],
-    "author": "s_dev",
-    "created_at": "2026-01-23T13:01:51Z",
-    "aiHeadline": "Europe offers alternatives to everything, including sanity and common sense."
-  },
-  {
-    "title": "Microsoft gave FBI set of BitLocker encryption keys to unlock suspects' laptops",
-    "url": "https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/",
-    "points": 631,
-    "num_comments": 430,
-    "tags": [
-      "story",
-      "author_bookofjoe",
-      "story_46735545",
+      "author_blacktulip",
+      "story_46743154",
       "front_page"
     ],
-    "author": "bookofjoe",
-    "created_at": "2026-01-23T17:58:56Z",
-    "aiHeadline": "Microsoft hands over BitLocker keys to FBI: because who needs encryption when you have government access?"
+    "author": "blacktulip",
+    "created_at": "2026-01-24T12:55:22Z",
+    "aiHeadline": "Microsoft: 'Sure, We'll Hand Over Your Encryption Keys—Just Don't Call It Spying!'"
   },
   {
-    "title": "Proton Spam and the AI Consent Problem",
-    "url": "https://dbushell.com/2026/01/22/proton-spam/",
-    "points": 470,
-    "num_comments": 327,
+    "title": "Doing gigabit Ethernet over my British phone wires",
+    "url": "https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/",
+    "points": 426,
+    "num_comments": 244,
     "tags": [
       "story",
-      "author_dbushell",
-      "story_46729368",
+      "author_user5994461",
+      "story_46742362"
+    ],
+    "author": "user5994461",
+    "created_at": "2026-01-24T10:14:31Z",
+    "aiHeadline": "British Phone Wires: Now Bringing You Gigabit Ethernet—Because Why Not?"
+  },
+  {
+    "title": "How I estimate work",
+    "url": "https://www.seangoedecke.com/how-i-estimate-work/",
+    "points": 406,
+    "num_comments": 250,
+    "tags": [
+      "story",
+      "author_mattjhall",
+      "story_46742389",
       "front_page"
     ],
-    "author": "dbushell",
-    "created_at": "2026-01-23T07:01:29Z",
-    "aiHeadline": "Proton struggles with AI spam: because consent is just another word for 'please don't ruin my day.'"
+    "author": "mattjhall",
+    "created_at": "2026-01-24T10:22:32Z",
+    "aiHeadline": "Estimating Work: The Art of Guessing How Long It'll Take to Do Something That Probably Won't Go As Planned"
   },
   {
-    "title": "AI Usage Policy",
-    "url": "https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md",
-    "points": 470,
-    "num_comments": 247,
+    "title": "BirdyChat becomes first European chat app that is interoperable with WhatsApp",
+    "url": "https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp",
+    "points": 402,
+    "num_comments": 252,
     "tags": [
       "story",
-      "author_mefengl",
-      "story_46730504"
+      "author_joooscha",
+      "story_46746476",
+      "front_page"
     ],
-    "author": "mefengl",
-    "created_at": "2026-01-23T09:50:26Z",
-    "aiHeadline": "AI Usage Policy: now you can regulate robots, but can they regulate you?"
+    "author": "joooscha",
+    "created_at": "2026-01-24T19:04:08Z",
+    "aiHeadline": "BirdyChat: The First European Chat App to Actually Talk to WhatsApp—Now Europe is All, 'Why Didn't We Think of That Earlier?'"
   }
 ]
