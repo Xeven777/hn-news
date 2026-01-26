@@ -1,75 +1,75 @@
 [
   {
-    "title": "Man shot and killed by federal agents in south Minneapolis this morning",
-    "url": "https://www.startribune.com/ice-raids-minnesota/601546426",
-    "points": 463,
-    "num_comments": 469,
+    "title": "ICE using Palantir tool that feeds on Medicaid data",
+    "url": "https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data",
+    "points": 900,
+    "num_comments": 540,
     "tags": [
       "story",
-      "author_oceansky",
-      "story_46745047"
-    ],
-    "author": "oceansky",
-    "created_at": "2026-01-24T16:43:38Z",
-    "aiHeadline": "Federal Agents Show Up, Shoot Guy, and Now Minneapolis is Like, 'What's Next?'"
-  },
-  {
-    "title": "MS confirms it will give the FBI your Windows PC data encryption key if asked",
-    "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-bitlocker-encryption-keys-give-fbi-legal-order-privacy-nightmare",
-    "points": 447,
-    "num_comments": 283,
-    "tags": [
-      "story",
-      "author_blacktulip",
-      "story_46743154",
+      "author_JKCalhoun",
+      "story_46756117",
       "front_page"
     ],
-    "author": "blacktulip",
-    "created_at": "2026-01-24T12:55:22Z",
-    "aiHeadline": "Microsoft: 'Sure, We'll Hand Over Your Encryption Keys—Just Don't Call It Spying!'"
+    "author": "JKCalhoun",
+    "created_at": "2026-01-25T17:36:19Z",
+    "aiHeadline": "ICE's latest scheme: using Palantir to mine Medicaid data for fun and profit, because nothing says 'Big Brother' like healthcare surveillance."
   },
   {
-    "title": "Doing gigabit Ethernet over my British phone wires",
-    "url": "https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/",
-    "points": 426,
-    "num_comments": 244,
+    "title": "A flawed paper in management science has been cited more than 6k times",
+    "url": "https://statmodeling.stat.columbia.edu/2026/01/22/aking/",
+    "points": 630,
+    "num_comments": 329,
     "tags": [
       "story",
-      "author_user5994461",
-      "story_46742362"
-    ],
-    "author": "user5994461",
-    "created_at": "2026-01-24T10:14:31Z",
-    "aiHeadline": "British Phone Wires: Now Bringing You Gigabit Ethernet—Because Why Not?"
-  },
-  {
-    "title": "How I estimate work",
-    "url": "https://www.seangoedecke.com/how-i-estimate-work/",
-    "points": 406,
-    "num_comments": 250,
-    "tags": [
-      "story",
-      "author_mattjhall",
-      "story_46742389",
+      "author_timr",
+      "story_46752151",
       "front_page"
     ],
-    "author": "mattjhall",
-    "created_at": "2026-01-24T10:22:32Z",
-    "aiHeadline": "Estimating Work: The Art of Guessing How Long It'll Take to Do Something That Probably Won't Go As Planned"
+    "author": "timr",
+    "created_at": "2026-01-25T09:04:30Z",
+    "aiHeadline": "A management paper so flawed it's been cited 6,000 times: because nothing says 'academic rigor' like repeating the same mistakes over and over again."
   },
   {
-    "title": "BirdyChat becomes first European chat app that is interoperable with WhatsApp",
-    "url": "https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp",
-    "points": 402,
-    "num_comments": 252,
+    "title": "Deutsche Telekom is throttling the internet",
+    "url": "https://netzbremse.de/en/",
+    "points": 576,
+    "num_comments": 284,
     "tags": [
       "story",
-      "author_joooscha",
-      "story_46746476",
+      "author_tietjens",
+      "story_46751899"
+    ],
+    "author": "tietjens",
+    "created_at": "2026-01-25T08:22:17Z",
+    "aiHeadline": "Deutsche Telekom throttles the internet, proving once again that when you're a giant telecom, 'throttling' is just a fancy word for 'slowing down your competition.'"
+  },
+  {
+    "title": "A macOS app that blurs your screen when you slouch",
+    "url": "https://github.com/tldev/posturr",
+    "points": 470,
+    "num_comments": 162,
+    "tags": [
+      "story",
+      "author_dnw",
+      "story_46754944",
       "front_page"
     ],
-    "author": "joooscha",
-    "created_at": "2026-01-24T19:04:08Z",
-    "aiHeadline": "BirdyChat: The First European Chat App to Actually Talk to WhatsApp—Now Europe is All, 'Why Didn't We Think of That Earlier?'"
+    "author": "dnw",
+    "created_at": "2026-01-25T15:34:51Z",
+    "aiHeadline": "A macOS app that blurs your screen when you slouch: because your computer now thinks it's your mom, nagging you about your posture."
+  },
+  {
+    "title": "Yes, It's Fascism",
+    "url": "https://www.theatlantic.com/ideas/2026/01/america-fascism-trump-maga-ice/685751/",
+    "points": 364,
+    "num_comments": 186,
+    "tags": [
+      "story",
+      "author_mickle00",
+      "story_46757822"
+    ],
+    "author": "mickle00",
+    "created_at": "2026-01-25T20:28:33Z",
+    "aiHeadline": "Yes, it's fascism: because apparently, the only thing more dangerous than a fascist regime is a fascist regime that thinks it's not fascist."
   }
 ]
