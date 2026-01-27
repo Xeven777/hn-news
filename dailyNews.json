@@ -1,75 +1,77 @@
 [
   {
-    "title": "ICE using Palantir tool that feeds on Medicaid data",
-    "url": "https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data",
-    "points": 900,
-    "num_comments": 540,
+    "title": "After two years of vibecoding, I'm back to writing by hand",
+    "url": "https://atmoio.substack.com/p/after-two-years-of-vibecoding-im",
+    "points": 640,
+    "num_comments": 488,
     "tags": [
       "story",
-      "author_JKCalhoun",
-      "story_46756117",
+      "author_mobitar",
+      "story_46765460",
       "front_page"
     ],
-    "author": "JKCalhoun",
-    "created_at": "2026-01-25T17:36:19Z",
-    "aiHeadline": "ICE's latest scheme: using Palantir to mine Medicaid data for fun and profit, because nothing says 'Big Brother' like healthcare surveillance."
+    "author": "mobitar",
+    "created_at": "2026-01-26T13:36:22Z",
+    "aiHeadline": "After two years of vibecoding, I'm back to writing by hand because apparently, typing isn't spiritual enough."
   },
   {
-    "title": "A flawed paper in management science has been cited more than 6k times",
-    "url": "https://statmodeling.stat.columbia.edu/2026/01/22/aking/",
-    "points": 630,
-    "num_comments": 329,
+    "title": "France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.",
+    "url": "https://twitter.com/lellouchenico/status/2015775970330882319",
+    "points": 522,
+    "num_comments": 448,
     "tags": [
       "story",
-      "author_timr",
-      "story_46752151",
+      "author_bwb",
+      "story_46767668",
       "front_page"
     ],
-    "author": "timr",
-    "created_at": "2026-01-25T09:04:30Z",
-    "aiHeadline": "A management paper so flawed it's been cited 6,000 times: because nothing says 'academic rigor' like repeating the same mistakes over and over again."
+    "author": "bwb",
+    "created_at": "2026-01-26T16:27:46Z",
+    "aiHeadline": "France is trying to replace Zoom, Google Meet, and Microsoft Teams with their own thing because clearly, the world needs another video conferencing app."
   },
   {
-    "title": "Deutsche Telekom is throttling the internet",
-    "url": "https://netzbremse.de/en/",
-    "points": 576,
-    "num_comments": 284,
+    "title": "Television is 100 years old today",
+    "url": "https://diamondgeezer.blogspot.com/2026/01/tv100.html",
+    "points": 506,
+    "num_comments": 175,
     "tags": [
       "story",
-      "author_tietjens",
-      "story_46751899"
+      "author_qassiov",
+      "story_46766188",
+      "front_page"
     ],
-    "author": "tietjens",
-    "created_at": "2026-01-25T08:22:17Z",
-    "aiHeadline": "Deutsche Telekom throttles the internet, proving once again that when you're a giant telecom, 'throttling' is just a fancy word for 'slowing down your competition.'"
+    "author": "qassiov",
+    "created_at": "2026-01-26T14:41:04Z",
+    "aiHeadline": "Television turns 100 years old today, proving that even obsolete technology can have a long retirement."
   },
   {
-    "title": "A macOS app that blurs your screen when you slouch",
-    "url": "https://github.com/tldev/posturr",
-    "points": 470,
+    "title": "Fedora Asahi Remix is now working on Apple M3",
+    "url": "https://bsky.app/profile/did:plc:okydh7e54e2nok65kjxdklvd/post/3mdd55paffk2o",
+    "points": 427,
     "num_comments": 162,
     "tags": [
       "story",
-      "author_dnw",
-      "story_46754944",
+      "author_todsacerdoti",
+      "story_46769051",
       "front_page"
     ],
-    "author": "dnw",
-    "created_at": "2026-01-25T15:34:51Z",
-    "aiHeadline": "A macOS app that blurs your screen when you slouch: because your computer now thinks it's your mom, nagging you about your posture."
+    "author": "todsacerdoti",
+    "created_at": "2026-01-26T17:54:20Z",
+    "aiHeadline": "Fedora Asahi Remix is now working on Apple M3, because nothing says 'open-source' like running on proprietary hardware."
   },
   {
-    "title": "Yes, It's Fascism",
-    "url": "https://www.theatlantic.com/ideas/2026/01/america-fascism-trump-maga-ice/685751/",
-    "points": 364,
-    "num_comments": 186,
+    "title": "Qwen3-Max-Thinking",
+    "url": "https://qwen.ai/blog?id=qwen3-max-thinking",
+    "points": 413,
+    "num_comments": 373,
     "tags": [
       "story",
-      "author_mickle00",
-      "story_46757822"
+      "author_vinhnx",
+      "story_46766741",
+      "front_page"
     ],
-    "author": "mickle00",
-    "created_at": "2026-01-25T20:28:33Z",
-    "aiHeadline": "Yes, it's fascism: because apparently, the only thing more dangerous than a fascist regime is a fascist regime that thinks it's not fascist."
+    "author": "vinhnx",
+    "created_at": "2026-01-26T15:23:00Z",
+    "aiHeadline": "Qwen3-Max-Thinking is here, and it's probably going to solve all your problems except the ones you didn't realize you had."
   }
 ]
