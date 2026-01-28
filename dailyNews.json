@@ -1,77 +1,73 @@
 [
   {
-    "title": "After two years of vibecoding, I'm back to writing by hand",
-    "url": "https://atmoio.substack.com/p/after-two-years-of-vibecoding-im",
-    "points": 640,
-    "num_comments": 488,
+    "title": "TikTok users can't upload anti-ICE videos. The company blames tech issues",
+    "url": "https://www.cnn.com/2026/01/26/tech/tiktok-ice-censorship-glitch-cec",
+    "points": 1260,
+    "num_comments": 845,
     "tags": [
       "story",
-      "author_mobitar",
-      "story_46765460",
-      "front_page"
+      "author_kotaKat",
+      "story_46779809"
     ],
-    "author": "mobitar",
-    "created_at": "2026-01-26T13:36:22Z",
-    "aiHeadline": "After two years of vibecoding, I'm back to writing by hand because apparently, typing isn't spiritual enough."
+    "author": "kotaKat",
+    "created_at": "2026-01-27T13:44:24Z",
+    "aiHeadline": "TikTok users can't upload anti-ICE videos, and the company is blaming it on 'tech issues'—because nothing says 'we're not censoring you' like a conveniently timed glitch."
   },
   {
-    "title": "France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.",
-    "url": "https://twitter.com/lellouchenico/status/2015775970330882319",
-    "points": 522,
-    "num_comments": 448,
+    "title": "FBI is investigating Minnesota Signal chats tracking ICE",
+    "url": "https://www.nbcnews.com/tech/internet/fbi-investigating-minnesota-signal-minneapolis-group-ice-patel-kash-rcna256041",
+    "points": 536,
+    "num_comments": 661,
     "tags": [
       "story",
-      "author_bwb",
-      "story_46767668",
+      "author_duxup",
+      "story_46783254",
       "front_page"
     ],
-    "author": "bwb",
-    "created_at": "2026-01-26T16:27:46Z",
-    "aiHeadline": "France is trying to replace Zoom, Google Meet, and Microsoft Teams with their own thing because clearly, the world needs another video conferencing app."
+    "author": "duxup",
+    "created_at": "2026-01-27T17:32:05Z",
+    "aiHeadline": "The FBI is investigating Minnesota Signal chats that were tracking ICE, proving once again that the government's favorite hobby is spying on people who are spying on the government."
   },
   {
-    "title": "Television is 100 years old today",
-    "url": "https://diamondgeezer.blogspot.com/2026/01/tv100.html",
-    "points": 506,
+    "title": "Cloudflare claimed they implemented Matrix on Cloudflare workers. They didn't",
+    "url": "https://tech.lgbt/@JadedBlueEyes/115967791152135761",
+    "points": 474,
     "num_comments": 175,
     "tags": [
       "story",
-      "author_qassiov",
-      "story_46766188",
-      "front_page"
+      "author_JadedBlueEyes",
+      "story_46781516"
     ],
-    "author": "qassiov",
-    "created_at": "2026-01-26T14:41:04Z",
-    "aiHeadline": "Television turns 100 years old today, proving that even obsolete technology can have a long retirement."
+    "author": "JadedBlueEyes",
+    "created_at": "2026-01-27T15:45:45Z",
+    "aiHeadline": "Cloudflare claimed they implemented Matrix on Cloudflare workers, but don't worry—they're still as transparent as ever, just now they're transparent liars."
   },
   {
-    "title": "Fedora Asahi Remix is now working on Apple M3",
-    "url": "https://bsky.app/profile/did:plc:okydh7e54e2nok65kjxdklvd/post/3mdd55paffk2o",
-    "points": 427,
-    "num_comments": 162,
+    "title": "U.S. government has lost more than 10k STEM PhDs since Trump took office",
+    "url": "https://www.science.org/content/article/u-s-government-has-lost-more-10-000-stem-ph-d-s-trump-took-office",
+    "points": 465,
+    "num_comments": 332,
     "tags": [
       "story",
-      "author_todsacerdoti",
-      "story_46769051",
-      "front_page"
+      "author_j_maffe",
+      "story_46784263"
     ],
-    "author": "todsacerdoti",
-    "created_at": "2026-01-26T17:54:20Z",
-    "aiHeadline": "Fedora Asahi Remix is now working on Apple M3, because nothing says 'open-source' like running on proprietary hardware."
+    "author": "j_maffe",
+    "created_at": "2026-01-27T18:35:33Z",
+    "aiHeadline": "The U.S. government has lost more than 10,000 STEM PhDs since Trump took office, which is about the same number of brain cells the administration lost trying to figure out how to keep them."
   },
   {
-    "title": "Qwen3-Max-Thinking",
-    "url": "https://qwen.ai/blog?id=qwen3-max-thinking",
-    "points": 413,
-    "num_comments": 373,
+    "title": "Kimi Released Kimi K2.5, Open-Source Visual SOTA-Agentic Model",
+    "url": "https://www.kimi.com/blog/kimi-k2-5.html",
+    "points": 462,
+    "num_comments": 219,
     "tags": [
       "story",
-      "author_vinhnx",
-      "story_46766741",
-      "front_page"
+      "author_nekofneko",
+      "story_46775961"
     ],
-    "author": "vinhnx",
-    "created_at": "2026-01-26T15:23:00Z",
-    "aiHeadline": "Qwen3-Max-Thinking is here, and it's probably going to solve all your problems except the ones you didn't realize you had."
+    "author": "nekofneko",
+    "created_at": "2026-01-27T05:42:27Z",
+    "aiHeadline": "Kimi released Kimi K2.5, an open-source visual SOTA-agentic model, because clearly the world needed another version number to keep up with the Kardashians."
   }
 ]
