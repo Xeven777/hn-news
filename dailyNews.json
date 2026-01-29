@@ -1,73 +1,76 @@
 [
   {
-    "title": "TikTok users can't upload anti-ICE videos. The company blames tech issues",
-    "url": "https://www.cnn.com/2026/01/26/tech/tiktok-ice-censorship-glitch-cec",
-    "points": 1260,
-    "num_comments": 845,
+    "title": "Microsoft forced me to switch to Linux",
+    "url": "https://www.himthe.dev/blog/microsoft-to-linux",
+    "points": 1597,
+    "num_comments": 1273,
     "tags": [
       "story",
-      "author_kotaKat",
-      "story_46779809"
-    ],
-    "author": "kotaKat",
-    "created_at": "2026-01-27T13:44:24Z",
-    "aiHeadline": "TikTok users can't upload anti-ICE videos, and the company is blaming it on 'tech issues'—because nothing says 'we're not censoring you' like a conveniently timed glitch."
-  },
-  {
-    "title": "FBI is investigating Minnesota Signal chats tracking ICE",
-    "url": "https://www.nbcnews.com/tech/internet/fbi-investigating-minnesota-signal-minneapolis-group-ice-patel-kash-rcna256041",
-    "points": 536,
-    "num_comments": 661,
-    "tags": [
-      "story",
-      "author_duxup",
-      "story_46783254",
+      "author_bobsterlobster",
+      "story_46795864",
       "front_page"
     ],
-    "author": "duxup",
-    "created_at": "2026-01-27T17:32:05Z",
-    "aiHeadline": "The FBI is investigating Minnesota Signal chats that were tracking ICE, proving once again that the government's favorite hobby is spying on people who are spying on the government."
+    "author": "bobsterlobster",
+    "created_at": "2026-01-28T14:28:21Z",
+    "aiHeadline": "Microsoft's latest 'innovation' leaves users with no choice but to flee to Linux, because who needs buggy software and forced updates, right?"
   },
   {
-    "title": "Cloudflare claimed they implemented Matrix on Cloudflare workers. They didn't",
-    "url": "https://tech.lgbt/@JadedBlueEyes/115967791152135761",
-    "points": 474,
-    "num_comments": 175,
+    "title": "Amazon cuts 16k jobs",
+    "url": "https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/",
+    "points": 528,
+    "num_comments": 724,
     "tags": [
       "story",
-      "author_JadedBlueEyes",
-      "story_46781516"
+      "author_DGAP",
+      "story_46796745",
+      "front_page"
     ],
-    "author": "JadedBlueEyes",
-    "created_at": "2026-01-27T15:45:45Z",
-    "aiHeadline": "Cloudflare claimed they implemented Matrix on Cloudflare workers, but don't worry—they're still as transparent as ever, just now they're transparent liars."
+    "author": "DGAP",
+    "created_at": "2026-01-28T15:39:11Z",
+    "aiHeadline": "Amazon, the king of automation, finally does the one thing robots can't: fire 16,000 humans in a move that's as surprising as a tech giant admitting they're not perfect."
   },
   {
-    "title": "U.S. government has lost more than 10k STEM PhDs since Trump took office",
-    "url": "https://www.science.org/content/article/u-s-government-has-lost-more-10-000-stem-ph-d-s-trump-took-office",
-    "points": 465,
-    "num_comments": 332,
+    "title": "ICE and Palantir: US agents using health data to hunt illegal immigrants",
+    "url": "https://www.bmj.com/content/392/bmj.s168",
+    "points": 426,
+    "num_comments": 252,
     "tags": [
       "story",
-      "author_j_maffe",
-      "story_46784263"
+      "author_dberhane",
+      "story_46794365"
     ],
-    "author": "j_maffe",
-    "created_at": "2026-01-27T18:35:33Z",
-    "aiHeadline": "The U.S. government has lost more than 10,000 STEM PhDs since Trump took office, which is about the same number of brain cells the administration lost trying to figure out how to keep them."
+    "author": "dberhane",
+    "created_at": "2026-01-28T12:18:12Z",
+    "aiHeadline": "ICE and Palantir team up to misuse health data, proving once again that the government's idea of 'public health' is more about surveillance than actual care."
   },
   {
-    "title": "Kimi Released Kimi K2.5, Open-Source Visual SOTA-Agentic Model",
-    "url": "https://www.kimi.com/blog/kimi-k2-5.html",
-    "points": 462,
-    "num_comments": 219,
+    "title": "Please Don't Say Mean Things about the AI I Just Invested a Billion Dollars In",
+    "url": "https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in",
+    "points": 373,
+    "num_comments": 153,
     "tags": [
       "story",
-      "author_nekofneko",
-      "story_46775961"
+      "author_randycupertino",
+      "story_46803356",
+      "front_page"
     ],
-    "author": "nekofneko",
-    "created_at": "2026-01-27T05:42:27Z",
-    "aiHeadline": "Kimi released Kimi K2.5, an open-source visual SOTA-agentic model, because clearly the world needed another version number to keep up with the Kardashians."
+    "author": "randycupertino",
+    "created_at": "2026-01-28T23:36:23Z",
+    "aiHeadline": "Billionaire begs the world to be nice to their AI, because nothing says 'I'm worth a billion' like throwing a tantrum when people criticize your robot friend."
+  },
+  {
+    "title": "Somebody used spoofed ADSB signals to raster the meme of JD Vance",
+    "url": "https://alecmuffett.com/article/143548",
+    "points": 370,
+    "num_comments": 93,
+    "tags": [
+      "story",
+      "author_wubin",
+      "story_46802067",
+      "front_page"
+    ],
+    "author": "wubin",
+    "created_at": "2026-01-28T21:50:47Z",
+    "aiHeadline": "Someone decides that spoofing ADSB signals to mock JD Vance is the best use of their time, proving that even in the tech world, there's no shortage of people with too much time and not enough sense."
   }
 ]
