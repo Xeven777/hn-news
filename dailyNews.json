@@ -1,76 +1,74 @@
 [
   {
-    "title": "Microsoft forced me to switch to Linux",
-    "url": "https://www.himthe.dev/blog/microsoft-to-linux",
-    "points": 1597,
-    "num_comments": 1273,
+    "title": "Vitamin D and Omega-3 have a larger effect on depression than antidepressants",
+    "url": "https://blog.ncase.me/on-depression/",
+    "points": 840,
+    "num_comments": 594,
     "tags": [
       "story",
-      "author_bobsterlobster",
-      "story_46795864",
-      "front_page"
+      "author_mijailt",
+      "story_46808251"
     ],
-    "author": "bobsterlobster",
-    "created_at": "2026-01-28T14:28:21Z",
-    "aiHeadline": "Microsoft's latest 'innovation' leaves users with no choice but to flee to Linux, because who needs buggy software and forced updates, right?"
+    "author": "mijailt",
+    "created_at": "2026-01-29T10:35:00Z",
+    "aiHeadline": "Vitamin D and Omega-3: The Supplements That Finally Make Antidepressants Look Like Placebos"
   },
   {
-    "title": "Amazon cuts 16k jobs",
-    "url": "https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/",
-    "points": 528,
-    "num_comments": 724,
+    "title": "Europe’s next-generation weather satellite sends back first images",
+    "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images",
+    "points": 652,
+    "num_comments": 91,
     "tags": [
       "story",
-      "author_DGAP",
-      "story_46796745",
-      "front_page"
+      "author_saubeidl",
+      "story_46806773"
     ],
-    "author": "DGAP",
-    "created_at": "2026-01-28T15:39:11Z",
-    "aiHeadline": "Amazon, the king of automation, finally does the one thing robots can't: fire 16,000 humans in a move that's as surprising as a tech giant admitting they're not perfect."
+    "author": "saubeidl",
+    "created_at": "2026-01-29T07:07:17Z",
+    "aiHeadline": "Europe’s New Weather Satellite: Because Apparently We Needed Another One to Just Confirm It’s Still Raining"
   },
   {
-    "title": "ICE and Palantir: US agents using health data to hunt illegal immigrants",
-    "url": "https://www.bmj.com/content/392/bmj.s168",
-    "points": 426,
-    "num_comments": 252,
+    "title": "We can’t send mail farther than 500 miles (2002)",
+    "url": "https://web.mit.edu/jemorris/humor/500-miles",
+    "points": 640,
+    "num_comments": 105,
     "tags": [
       "story",
-      "author_dberhane",
-      "story_46794365"
+      "author_giancarlostoro",
+      "story_46805665"
     ],
-    "author": "dberhane",
-    "created_at": "2026-01-28T12:18:12Z",
-    "aiHeadline": "ICE and Palantir team up to misuse health data, proving once again that the government's idea of 'public health' is more about surveillance than actual care."
+    "author": "giancarlostoro",
+    "created_at": "2026-01-29T03:58:33Z",
+    "aiHeadline": "The Postal Service’s 2002 Limitation: Because Clearly, Mail Delivery Beyond 500 Miles Was a Problem We Couldn’t Solve in 20 Years"
   },
   {
-    "title": "Please Don't Say Mean Things about the AI I Just Invested a Billion Dollars In",
-    "url": "https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in",
-    "points": 373,
-    "num_comments": 153,
+    "title": "Claude Code daily benchmarks for degradation tracking",
+    "url": "https://marginlab.ai/trackers/claude-code/",
+    "points": 558,
+    "num_comments": 273,
     "tags": [
       "story",
-      "author_randycupertino",
-      "story_46803356",
+      "author_qwesr123",
+      "story_46810282",
       "front_page"
     ],
-    "author": "randycupertino",
-    "created_at": "2026-01-28T23:36:23Z",
-    "aiHeadline": "Billionaire begs the world to be nice to their AI, because nothing says 'I'm worth a billion' like throwing a tantrum when people criticize your robot friend."
+    "author": "qwesr123",
+    "created_at": "2026-01-29T13:59:07Z",
+    "aiHeadline": "Claude Code’s Daily Degradation Tracker: Because Nothing Says Progress Like Getting Worse Every Day"
   },
   {
-    "title": "Somebody used spoofed ADSB signals to raster the meme of JD Vance",
-    "url": "https://alecmuffett.com/article/143548",
-    "points": 370,
-    "num_comments": 93,
+    "title": "Project Genie: Experimenting with infinite, interactive worlds",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/",
+    "points": 456,
+    "num_comments": 229,
     "tags": [
       "story",
-      "author_wubin",
-      "story_46802067",
+      "author_meetpateltech",
+      "story_46812933",
       "front_page"
     ],
-    "author": "wubin",
-    "created_at": "2026-01-28T21:50:47Z",
-    "aiHeadline": "Someone decides that spoofing ADSB signals to mock JD Vance is the best use of their time, proving that even in the tech world, there's no shortage of people with too much time and not enough sense."
+    "author": "meetpateltech",
+    "created_at": "2026-01-29T17:02:39Z",
+    "aiHeadline": "Project Genie: Building Infinite Interactive Worlds Because Clearly, We Didn’t Have Enough Already"
   }
 ]
