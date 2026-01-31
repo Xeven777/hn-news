@@ -1,74 +1,74 @@
 [
   {
-    "title": "Vitamin D and Omega-3 have a larger effect on depression than antidepressants",
-    "url": "https://blog.ncase.me/on-depression/",
-    "points": 840,
-    "num_comments": 594,
+    "title": "Moltbook",
+    "url": "https://www.moltbook.com/",
+    "points": 1293,
+    "num_comments": 620,
     "tags": [
       "story",
-      "author_mijailt",
-      "story_46808251"
-    ],
-    "author": "mijailt",
-    "created_at": "2026-01-29T10:35:00Z",
-    "aiHeadline": "Vitamin D and Omega-3: The Supplements That Finally Make Antidepressants Look Like Placebos"
-  },
-  {
-    "title": "Europe’s next-generation weather satellite sends back first images",
-    "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images",
-    "points": 652,
-    "num_comments": 91,
-    "tags": [
-      "story",
-      "author_saubeidl",
-      "story_46806773"
-    ],
-    "author": "saubeidl",
-    "created_at": "2026-01-29T07:07:17Z",
-    "aiHeadline": "Europe’s New Weather Satellite: Because Apparently We Needed Another One to Just Confirm It’s Still Raining"
-  },
-  {
-    "title": "We can’t send mail farther than 500 miles (2002)",
-    "url": "https://web.mit.edu/jemorris/humor/500-miles",
-    "points": 640,
-    "num_comments": 105,
-    "tags": [
-      "story",
-      "author_giancarlostoro",
-      "story_46805665"
-    ],
-    "author": "giancarlostoro",
-    "created_at": "2026-01-29T03:58:33Z",
-    "aiHeadline": "The Postal Service’s 2002 Limitation: Because Clearly, Mail Delivery Beyond 500 Miles Was a Problem We Couldn’t Solve in 20 Years"
-  },
-  {
-    "title": "Claude Code daily benchmarks for degradation tracking",
-    "url": "https://marginlab.ai/trackers/claude-code/",
-    "points": 558,
-    "num_comments": 273,
-    "tags": [
-      "story",
-      "author_qwesr123",
-      "story_46810282",
+      "author_teej",
+      "story_46820360",
       "front_page"
     ],
-    "author": "qwesr123",
-    "created_at": "2026-01-29T13:59:07Z",
-    "aiHeadline": "Claude Code’s Daily Degradation Tracker: Because Nothing Says Progress Like Getting Worse Every Day"
+    "author": "teej",
+    "created_at": "2026-01-30T03:55:34Z",
+    "aiHeadline": "Moltbook: A literary masterpiece so bad it's good, or maybe just molten in its execution."
   },
   {
-    "title": "Project Genie: Experimenting with infinite, interactive worlds",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/",
-    "points": 456,
-    "num_comments": 229,
+    "title": "Antirender: remove the glossy shine on architectural renderings",
+    "url": "https://antirender.com/",
+    "points": 777,
+    "num_comments": 183,
     "tags": [
       "story",
-      "author_meetpateltech",
-      "story_46812933",
+      "author_iambateman",
+      "story_46829147",
       "front_page"
     ],
-    "author": "meetpateltech",
-    "created_at": "2026-01-29T17:02:39Z",
-    "aiHeadline": "Project Genie: Building Infinite Interactive Worlds Because Clearly, We Didn’t Have Enough Already"
+    "author": "iambateman",
+    "created_at": "2026-01-30T20:05:24Z",
+    "aiHeadline": "Antirender: Finally, a tool to make architectural renders as bland as your beige carpet."
+  },
+  {
+    "title": "GOG: Linux \"the next major frontier\" for gaming as it works on a native client",
+    "url": "https://www.xda-developers.com/gog-calls-linux-the-next-major-frontier-for-gaming-as-it-works-on-a-native-client/",
+    "points": 656,
+    "num_comments": 354,
+    "tags": [
+      "story",
+      "author_franczesko",
+      "story_46821774"
+    ],
+    "author": "franczesko",
+    "created_at": "2026-01-30T08:09:41Z",
+    "aiHeadline": "GOG: Linux is the next big thing in gaming, because who doesn't want to tweak their terminal for fun?"
+  },
+  {
+    "title": "OpenClaw – Moltbot Renamed Again",
+    "url": "https://openclaw.ai/blog/introducing-openclaw",
+    "points": 604,
+    "num_comments": 304,
+    "tags": [
+      "story",
+      "author_ed",
+      "story_46820783"
+    ],
+    "author": "ed",
+    "created_at": "2026-01-30T05:14:48Z",
+    "aiHeadline": "OpenClaw: Moltbot's latest rename, proving that even AI can't decide on a name."
+  },
+  {
+    "title": "Netflix Animation Studios Joins the Blender Development Fund as Corporate Patron",
+    "url": "https://www.blender.org/press/netflix-animation-studios-joins-the-blender-development-fund-as-corporate-patron/",
+    "points": 465,
+    "num_comments": 90,
+    "tags": [
+      "story",
+      "author_vidyesh",
+      "story_46821134"
+    ],
+    "author": "vidyesh",
+    "created_at": "2026-01-30T06:19:36Z",
+    "aiHeadline": "Netflix and Blender: A match made in PR heaven, where big names support open-source for the spotlight."
   }
 ]
