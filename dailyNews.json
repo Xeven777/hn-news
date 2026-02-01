@@ -1,74 +1,75 @@
 [
   {
-    "title": "Moltbook",
-    "url": "https://www.moltbook.com/",
-    "points": 1293,
-    "num_comments": 620,
+    "title": "Euro firms must ditch Uncle Sam's clouds and go EU-native",
+    "url": "https://www.theregister.com/2026/01/30/euro_firms_must_ditch_us/",
+    "points": 715,
+    "num_comments": 614,
     "tags": [
       "story",
-      "author_teej",
-      "story_46820360",
+      "author_jamesblonde",
+      "story_46835336"
+    ],
+    "author": "jamesblonde",
+    "created_at": "2026-01-31T10:34:07Z",
+    "aiHeadline": "European companies are told to kick Uncle Sam to the curb and switch to EU clouds, because apparently, your data privacy is just a side effect of their geopolitical chess game."
+  },
+  {
+    "title": "Finland looks to introduce Australia-style ban on social media",
+    "url": "https://yle.fi/a/74-20207494",
+    "points": 512,
+    "num_comments": 364,
+    "tags": [
+      "story",
+      "author_Teever",
+      "story_46838417",
       "front_page"
     ],
-    "author": "teej",
-    "created_at": "2026-01-30T03:55:34Z",
-    "aiHeadline": "Moltbook: A literary masterpiece so bad it's good, or maybe just molten in its execution."
+    "author": "Teever",
+    "created_at": "2026-01-31T17:06:22Z",
+    "aiHeadline": "Finland considers banning social media, proving once again that the only thing more dangerous than the internet is Finland's plan to save us from it."
   },
   {
-    "title": "Antirender: remove the glossy shine on architectural renderings",
-    "url": "https://antirender.com/",
-    "points": 777,
-    "num_comments": 183,
+    "title": "Mobile carriers can get your GPS location",
+    "url": "https://an.dywa.ng/carrier-gnss.html",
+    "points": 466,
+    "num_comments": 309,
     "tags": [
       "story",
-      "author_iambateman",
-      "story_46829147",
+      "author_cbeuw",
+      "story_46838597",
       "front_page"
     ],
-    "author": "iambateman",
-    "created_at": "2026-01-30T20:05:24Z",
-    "aiHeadline": "Antirender: Finally, a tool to make architectural renders as bland as your beige carpet."
+    "author": "cbeuw",
+    "created_at": "2026-01-31T17:21:34Z",
+    "aiHeadline": "Your mobile carrier already knows where you are, and now they’re just flaunting it, because privacy is apparently optional in 2026."
   },
   {
-    "title": "GOG: Linux \"the next major frontier\" for gaming as it works on a native client",
-    "url": "https://www.xda-developers.com/gog-calls-linux-the-next-major-frontier-for-gaming-as-it-works-on-a-native-client/",
-    "points": 656,
-    "num_comments": 354,
+    "title": "We have ipinfo at home or how to geolocate IPs in your CLI using latency",
+    "url": "https://blog.globalping.io/we-have-ipinfo-at-home-or-how-to-geolocate-ips-in-your-cli-using-latency/",
+    "points": 207,
+    "num_comments": 52,
     "tags": [
       "story",
-      "author_franczesko",
-      "story_46821774"
+      "author_jimaek",
+      "story_46834953",
+      "front_page"
     ],
-    "author": "franczesko",
-    "created_at": "2026-01-30T08:09:41Z",
-    "aiHeadline": "GOG: Linux is the next big thing in gaming, because who doesn't want to tweak their terminal for fun?"
+    "author": "jimaek",
+    "created_at": "2026-01-31T09:30:05Z",
+    "aiHeadline": "Geolocate any IP from your CLI? Sure, why not? Because nothing says 'I’m a tech wizard' like using command-line tools to track people down."
   },
   {
-    "title": "OpenClaw – Moltbot Renamed Again",
-    "url": "https://openclaw.ai/blog/introducing-openclaw",
-    "points": 604,
-    "num_comments": 304,
+    "title": "Automatic Programming",
+    "url": "https://antirez.com/news/159",
+    "points": 198,
+    "num_comments": 200,
     "tags": [
       "story",
-      "author_ed",
-      "story_46820783"
+      "author_dvrp",
+      "story_46835208"
     ],
-    "author": "ed",
-    "created_at": "2026-01-30T05:14:48Z",
-    "aiHeadline": "OpenClaw: Moltbot's latest rename, proving that even AI can't decide on a name."
-  },
-  {
-    "title": "Netflix Animation Studios Joins the Blender Development Fund as Corporate Patron",
-    "url": "https://www.blender.org/press/netflix-animation-studios-joins-the-blender-development-fund-as-corporate-patron/",
-    "points": 465,
-    "num_comments": 90,
-    "tags": [
-      "story",
-      "author_vidyesh",
-      "story_46821134"
-    ],
-    "author": "vidyesh",
-    "created_at": "2026-01-30T06:19:36Z",
-    "aiHeadline": "Netflix and Blender: A match made in PR heaven, where big names support open-source for the spotlight."
+    "author": "dvrp",
+    "created_at": "2026-01-31T10:11:25Z",
+    "aiHeadline": "Automatic programming is here, and while it’s great for coders who want to take a coffee break, the rest of us are just waiting for the inevitable robot uprising."
   }
 ]
