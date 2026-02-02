@@ -1,75 +1,76 @@
 [
   {
-    "title": "Euro firms must ditch Uncle Sam's clouds and go EU-native",
-    "url": "https://www.theregister.com/2026/01/30/euro_firms_must_ditch_us/",
-    "points": 715,
-    "num_comments": 614,
+    "title": "Netbird – Open Source Zero Trust Networking",
+    "url": "https://netbird.io/",
+    "points": 645,
+    "num_comments": 245,
     "tags": [
       "story",
-      "author_jamesblonde",
-      "story_46835336"
-    ],
-    "author": "jamesblonde",
-    "created_at": "2026-01-31T10:34:07Z",
-    "aiHeadline": "European companies are told to kick Uncle Sam to the curb and switch to EU clouds, because apparently, your data privacy is just a side effect of their geopolitical chess game."
-  },
-  {
-    "title": "Finland looks to introduce Australia-style ban on social media",
-    "url": "https://yle.fi/a/74-20207494",
-    "points": 512,
-    "num_comments": 364,
-    "tags": [
-      "story",
-      "author_Teever",
-      "story_46838417",
+      "author_l1am0",
+      "story_46844870",
       "front_page"
     ],
-    "author": "Teever",
-    "created_at": "2026-01-31T17:06:22Z",
-    "aiHeadline": "Finland considers banning social media, proving once again that the only thing more dangerous than the internet is Finland's plan to save us from it."
+    "author": "l1am0",
+    "created_at": "2026-02-01T09:44:01Z",
+    "aiHeadline": "Why do we need another networking tool? Because clearly, trust is at an all-time low! Introducing Netbird, the latest open-source zero trust networking solution that probably still needs a firewall."
   },
   {
-    "title": "Mobile carriers can get your GPS location",
-    "url": "https://an.dywa.ng/carrier-gnss.html",
-    "points": 466,
-    "num_comments": 309,
+    "title": "Teaching my neighbor to keep the volume down",
+    "url": "https://idiallo.com/blog/teaching-my-neighbor-to-keep-the-volume-down",
+    "points": 542,
+    "num_comments": 238,
     "tags": [
       "story",
-      "author_cbeuw",
-      "story_46838597",
+      "author_firefoxd",
+      "story_46848415",
       "front_page"
     ],
-    "author": "cbeuw",
-    "created_at": "2026-01-31T17:21:34Z",
-    "aiHeadline": "Your mobile carrier already knows where you are, and now they’re just flaunting it, because privacy is apparently optional in 2026."
+    "author": "firefoxd",
+    "created_at": "2026-02-01T19:00:46Z",
+    "aiHeadline": "Teaching my neighbor to keep the volume down: Because nothing says 'good neighbor' like a polite reminder to not blast your music at 3 AM."
   },
   {
-    "title": "We have ipinfo at home or how to geolocate IPs in your CLI using latency",
-    "url": "https://blog.globalping.io/we-have-ipinfo-at-home-or-how-to-geolocate-ips-in-your-cli-using-latency/",
-    "points": 207,
-    "num_comments": 52,
+    "title": "What I learned building an opinionated and minimal coding agent",
+    "url": "https://mariozechner.at/posts/2025-11-30-pi-coding-agent/",
+    "points": 351,
+    "num_comments": 155,
     "tags": [
       "story",
-      "author_jimaek",
-      "story_46834953",
+      "author_SatvikBeri",
+      "story_46844822"
+    ],
+    "author": "SatvikBeri",
+    "created_at": "2026-02-01T09:33:46Z",
+    "aiHeadline": "What I learned building an opinionated and minimal coding agent: Apparently, the world needs yet another coding tool that's as opinionated as your favorite know-it-all friend."
+  },
+  {
+    "title": "Adventure Game Studio: OSS software for creating adventure games",
+    "url": "https://www.adventuregamestudio.co.uk/",
+    "points": 272,
+    "num_comments": 49,
+    "tags": [
+      "story",
+      "author_doener",
+      "story_46846252",
       "front_page"
     ],
-    "author": "jimaek",
-    "created_at": "2026-01-31T09:30:05Z",
-    "aiHeadline": "Geolocate any IP from your CLI? Sure, why not? Because nothing says 'I’m a tech wizard' like using command-line tools to track people down."
+    "author": "doener",
+    "created_at": "2026-02-01T13:56:56Z",
+    "aiHeadline": "Adventure Game Studio: Because everyone's got a would-be game developer inside them, just waiting to create the next big adventure. Or maybe just a really bad one."
   },
   {
-    "title": "Automatic Programming",
-    "url": "https://antirez.com/news/159",
-    "points": 198,
-    "num_comments": 200,
+    "title": "Defeating a 40-year-old copy protection dongle",
+    "url": "https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle",
+    "points": 251,
+    "num_comments": 75,
     "tags": [
       "story",
-      "author_dvrp",
-      "story_46835208"
+      "author_zdw",
+      "story_46849567",
+      "front_page"
     ],
-    "author": "dvrp",
-    "created_at": "2026-01-31T10:11:25Z",
-    "aiHeadline": "Automatic programming is here, and while it’s great for coders who want to take a coffee break, the rest of us are just waiting for the inevitable robot uprising."
+    "author": "zdw",
+    "created_at": "2026-02-01T21:30:51Z",
+    "aiHeadline": "Defeating a 40-year-old copy protection dongle: Because 40 years later, some tech is still as stubborn as ever, and someone had to prove it can be beaten."
   }
 ]
