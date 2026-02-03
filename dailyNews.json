@@ -1,76 +1,75 @@
 [
   {
-    "title": "Netbird – Open Source Zero Trust Networking",
-    "url": "https://netbird.io/",
-    "points": 645,
-    "num_comments": 245,
+    "title": "The Codex App",
+    "url": "https://openai.com/index/introducing-the-codex-app/",
+    "points": 527,
+    "num_comments": 357,
     "tags": [
       "story",
-      "author_l1am0",
-      "story_46844870",
+      "author_meetpateltech",
+      "story_46859054",
       "front_page"
     ],
-    "author": "l1am0",
-    "created_at": "2026-02-01T09:44:01Z",
-    "aiHeadline": "Why do we need another networking tool? Because clearly, trust is at an all-time low! Introducing Netbird, the latest open-source zero trust networking solution that probably still needs a firewall."
+    "author": "meetpateltech",
+    "created_at": "2026-02-02T18:02:48Z",
+    "aiHeadline": "The Codex App: Because solving your coding problems wasn't hard enough, now you need an app for that!"
   },
   {
-    "title": "Teaching my neighbor to keep the volume down",
-    "url": "https://idiallo.com/blog/teaching-my-neighbor-to-keep-the-volume-down",
-    "points": 542,
-    "num_comments": 238,
+    "title": "xAI joins SpaceX",
+    "url": "https://www.spacex.com/updates#xai-joins-spacex",
+    "points": 475,
+    "num_comments": 1065,
     "tags": [
       "story",
-      "author_firefoxd",
-      "story_46848415",
+      "author_g-mork",
+      "story_46862170",
       "front_page"
     ],
-    "author": "firefoxd",
-    "created_at": "2026-02-01T19:00:46Z",
-    "aiHeadline": "Teaching my neighbor to keep the volume down: Because nothing says 'good neighbor' like a polite reminder to not blast your music at 3 AM."
+    "author": "g-mork",
+    "created_at": "2026-02-02T21:51:22Z",
+    "aiHeadline": "xAI Joins SpaceX: Now your rocket launches will be powered by AI, because why have a human when you can have a robot with a personality?"
   },
   {
-    "title": "What I learned building an opinionated and minimal coding agent",
-    "url": "https://mariozechner.at/posts/2025-11-30-pi-coding-agent/",
-    "points": 351,
-    "num_comments": 155,
+    "title": "Claude Code is suddenly everywhere inside Microsoft",
+    "url": "https://www.theverge.com/tech/865689/microsoft-claude-code-anthropic-partnership-notepad",
+    "points": 348,
+    "num_comments": 465,
     "tags": [
       "story",
-      "author_SatvikBeri",
-      "story_46844822"
+      "author_Anon84",
+      "story_46854999"
     ],
-    "author": "SatvikBeri",
-    "created_at": "2026-02-01T09:33:46Z",
-    "aiHeadline": "What I learned building an opinionated and minimal coding agent: Apparently, the world needs yet another coding tool that's as opinionated as your favorite know-it-all friend."
+    "author": "Anon84",
+    "created_at": "2026-02-02T11:58:58Z",
+    "aiHeadline": "Claude Code Invades Microsoft: Because who needs actual employees when you can have code that does everything for you?"
   },
   {
-    "title": "Adventure Game Studio: OSS software for creating adventure games",
-    "url": "https://www.adventuregamestudio.co.uk/",
-    "points": 272,
-    "num_comments": 49,
+    "title": "Termux",
+    "url": "https://github.com/termux/termux-app",
+    "points": 328,
+    "num_comments": 171,
     "tags": [
       "story",
-      "author_doener",
-      "story_46846252",
+      "author_tosh",
+      "story_46854642"
+    ],
+    "author": "tosh",
+    "created_at": "2026-02-02T11:03:44Z",
+    "aiHeadline": "Termux: The app that turns your phone into a terminal, because who needs a computer when you've got a smartphone that can act like one?"
+  },
+  {
+    "title": "Todd C. Miller – Sudo maintainer for over 30 years",
+    "url": "https://www.millert.dev/",
+    "points": 301,
+    "num_comments": 177,
+    "tags": [
+      "story",
+      "author_wodniok",
+      "story_46858577",
       "front_page"
     ],
-    "author": "doener",
-    "created_at": "2026-02-01T13:56:56Z",
-    "aiHeadline": "Adventure Game Studio: Because everyone's got a would-be game developer inside them, just waiting to create the next big adventure. Or maybe just a really bad one."
-  },
-  {
-    "title": "Defeating a 40-year-old copy protection dongle",
-    "url": "https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle",
-    "points": 251,
-    "num_comments": 75,
-    "tags": [
-      "story",
-      "author_zdw",
-      "story_46849567",
-      "front_page"
-    ],
-    "author": "zdw",
-    "created_at": "2026-02-01T21:30:51Z",
-    "aiHeadline": "Defeating a 40-year-old copy protection dongle: Because 40 years later, some tech is still as stubborn as ever, and someone had to prove it can be beaten."
+    "author": "wodniok",
+    "created_at": "2026-02-02T17:25:26Z",
+    "aiHeadline": "Todd C. Miller: The man who kept sudo alive for over three decades, proving that some things just never die, even when they should."
   }
 ]
