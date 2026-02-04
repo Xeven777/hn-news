@@ -1,75 +1,76 @@
 [
   {
-    "title": "The Codex App",
-    "url": "https://openai.com/index/introducing-the-codex-app/",
-    "points": 527,
-    "num_comments": 357,
+    "title": "France dumps Zoom and Teams as Europe seeks digital autonomy from the US",
+    "url": "https://apnews.com/article/europe-digital-sovereignty-big-tech-9f5388b68a0648514cebc8d92f682060",
+    "points": 796,
+    "num_comments": 438,
     "tags": [
       "story",
-      "author_meetpateltech",
-      "story_46859054",
+      "author_AareyBaba",
+      "story_46873294",
       "front_page"
     ],
-    "author": "meetpateltech",
-    "created_at": "2026-02-02T18:02:48Z",
-    "aiHeadline": "The Codex App: Because solving your coding problems wasn't hard enough, now you need an app for that!"
+    "author": "AareyBaba",
+    "created_at": "2026-02-03T16:39:18Z",
+    "aiHeadline": "France says goodbye to Zoom and Teams, hello to digital independence—because who needs reliable video calls when you can have sovereignty?"
   },
   {
-    "title": "xAI joins SpaceX",
-    "url": "https://www.spacex.com/updates#xai-joins-spacex",
-    "points": 475,
-    "num_comments": 1065,
+    "title": "What's up with all those equals signs anyway?",
+    "url": "https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/",
+    "points": 611,
+    "num_comments": 178,
     "tags": [
       "story",
-      "author_g-mork",
-      "story_46862170",
+      "author_todsacerdoti",
+      "story_46868759"
+    ],
+    "author": "todsacerdoti",
+    "created_at": "2026-02-03T09:37:40Z",
+    "aiHeadline": "Ever wondered why there are so many equals signs? Let’s dive into the mystery and maybe figure out if they’re trying to make math look more impressive."
+  },
+  {
+    "title": "Qwen3-Coder-Next",
+    "url": "https://qwen.ai/blog?id=qwen3-coder-next",
+    "points": 578,
+    "num_comments": 362,
+    "tags": [
+      "story",
+      "author_danielhanchen",
+      "story_46872706",
       "front_page"
     ],
-    "author": "g-mork",
-    "created_at": "2026-02-02T21:51:22Z",
-    "aiHeadline": "xAI Joins SpaceX: Now your rocket launches will be powered by AI, because why have a human when you can have a robot with a personality?"
+    "author": "danielhanchen",
+    "created_at": "2026-02-03T16:01:50Z",
+    "aiHeadline": "Introducing Qwen3-Coder-Next: because the world needs another AI model, and this one’s here to save the day—probably not, but let’s pretend."
   },
   {
-    "title": "Claude Code is suddenly everywhere inside Microsoft",
-    "url": "https://www.theverge.com/tech/865689/microsoft-claude-code-anthropic-partnership-notepad",
-    "points": 348,
-    "num_comments": 465,
+    "title": "Agent Skills",
+    "url": "https://agentskills.io/home",
+    "points": 379,
+    "num_comments": 213,
     "tags": [
       "story",
-      "author_Anon84",
-      "story_46854999"
-    ],
-    "author": "Anon84",
-    "created_at": "2026-02-02T11:58:58Z",
-    "aiHeadline": "Claude Code Invades Microsoft: Because who needs actual employees when you can have code that does everything for you?"
-  },
-  {
-    "title": "Termux",
-    "url": "https://github.com/termux/termux-app",
-    "points": 328,
-    "num_comments": 171,
-    "tags": [
-      "story",
-      "author_tosh",
-      "story_46854642"
-    ],
-    "author": "tosh",
-    "created_at": "2026-02-02T11:03:44Z",
-    "aiHeadline": "Termux: The app that turns your phone into a terminal, because who needs a computer when you've got a smartphone that can act like one?"
-  },
-  {
-    "title": "Todd C. Miller – Sudo maintainer for over 30 years",
-    "url": "https://www.millert.dev/",
-    "points": 301,
-    "num_comments": 177,
-    "tags": [
-      "story",
-      "author_wodniok",
-      "story_46858577",
+      "author_mooreds",
+      "story_46871173",
       "front_page"
     ],
-    "author": "wodniok",
-    "created_at": "2026-02-02T17:25:26Z",
-    "aiHeadline": "Todd C. Miller: The man who kept sudo alive for over three decades, proving that some things just never die, even when they should."
+    "author": "mooreds",
+    "created_at": "2026-02-03T14:09:54Z",
+    "aiHeadline": "Agent Skills: because your digital assistant needs to be as skilled as you are, or maybe even more so, to handle all your tasks while you relax."
+  },
+  {
+    "title": "Deno Sandbox",
+    "url": "https://deno.com/blog/introducing-deno-sandbox",
+    "points": 335,
+    "num_comments": 113,
+    "tags": [
+      "story",
+      "author_johnspurlock",
+      "story_46874097",
+      "front_page"
+    ],
+    "author": "johnspurlock",
+    "created_at": "2026-02-03T17:33:20Z",
+    "aiHeadline": "Deno Sandbox: because running code without proper security is just asking for trouble, so let’s sandbox everything and call it a day."
   }
 ]
