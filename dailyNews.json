@@ -1,76 +1,75 @@
 [
   {
-    "title": "France dumps Zoom and Teams as Europe seeks digital autonomy from the US",
-    "url": "https://apnews.com/article/europe-digital-sovereignty-big-tech-9f5388b68a0648514cebc8d92f682060",
-    "points": 796,
-    "num_comments": 438,
+    "title": "I miss thinking hard",
+    "url": "https://www.jernesto.com/articles/thinking_hard",
+    "points": 1206,
+    "num_comments": 667,
     "tags": [
       "story",
-      "author_AareyBaba",
-      "story_46873294",
-      "front_page"
+      "author_jernestomg",
+      "story_46881264"
     ],
-    "author": "AareyBaba",
-    "created_at": "2026-02-03T16:39:18Z",
-    "aiHeadline": "France says goodbye to Zoom and Teams, hello to digital independence—because who needs reliable video calls when you can have sovereignty?"
+    "author": "jernestomg",
+    "created_at": "2026-02-04T03:54:11Z",
+    "aiHeadline": "I miss thinking hard: 'Cause apparently, the struggle is over, and now I just get to enjoy the mental relaxation of not having to overthink everything. Progress, right?"
   },
   {
-    "title": "What's up with all those equals signs anyway?",
-    "url": "https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/",
-    "points": 611,
-    "num_comments": 178,
+    "title": "Voxtral Transcribe 2",
+    "url": "https://mistral.ai/news/voxtral-transcribe-2",
+    "points": 741,
+    "num_comments": 175,
     "tags": [
       "story",
-      "author_todsacerdoti",
-      "story_46868759"
-    ],
-    "author": "todsacerdoti",
-    "created_at": "2026-02-03T09:37:40Z",
-    "aiHeadline": "Ever wondered why there are so many equals signs? Let’s dive into the mystery and maybe figure out if they’re trying to make math look more impressive."
-  },
-  {
-    "title": "Qwen3-Coder-Next",
-    "url": "https://qwen.ai/blog?id=qwen3-coder-next",
-    "points": 578,
-    "num_comments": 362,
-    "tags": [
-      "story",
-      "author_danielhanchen",
-      "story_46872706",
+      "author_meetpateltech",
+      "story_46886735",
       "front_page"
     ],
-    "author": "danielhanchen",
-    "created_at": "2026-02-03T16:01:50Z",
-    "aiHeadline": "Introducing Qwen3-Coder-Next: because the world needs another AI model, and this one’s here to save the day—probably not, but let’s pretend."
+    "author": "meetpateltech",
+    "created_at": "2026-02-04T15:08:17Z",
+    "aiHeadline": "Voxtral Transcribe 2: 'Now you can have your AI-powered transcription done with such precision, you'll wonder if you even need a human editor anymore. Spoiler: You don't.'"
   },
   {
-    "title": "Agent Skills",
-    "url": "https://agentskills.io/home",
-    "points": 379,
-    "num_comments": 213,
+    "title": "FBI couldn't get into WaPo reporter's iPhone because Lockdown Mode enabled",
+    "url": "https://www.404media.co/fbi-couldnt-get-into-wapo-reporters-iphone-because-it-had-lockdown-mode-enabled/",
+    "points": 545,
+    "num_comments": 478,
     "tags": [
       "story",
-      "author_mooreds",
-      "story_46871173",
-      "front_page"
+      "author_robin_reala",
+      "story_46886237"
     ],
-    "author": "mooreds",
-    "created_at": "2026-02-03T14:09:54Z",
-    "aiHeadline": "Agent Skills: because your digital assistant needs to be as skilled as you are, or maybe even more so, to handle all your tasks while you relax."
+    "author": "robin_reala",
+    "created_at": "2026-02-04T14:31:32Z",
+    "aiHeadline": "FBI couldn't get into WaPo reporter's iPhone: 'Because Lockdown Mode was enabled, proving once again that sometimes, the best defense is just... locking things down. Genius.'"
   },
   {
-    "title": "Deno Sandbox",
-    "url": "https://deno.com/blog/introducing-deno-sandbox",
-    "points": 335,
-    "num_comments": 113,
+    "title": "Claude is a space to think",
+    "url": "https://www.anthropic.com/news/claude-is-a-space-to-think",
+    "points": 372,
+    "num_comments": 199,
     "tags": [
       "story",
-      "author_johnspurlock",
-      "story_46874097",
+      "author_meetpateltech",
+      "story_46884883",
       "front_page"
     ],
-    "author": "johnspurlock",
-    "created_at": "2026-02-03T17:33:20Z",
-    "aiHeadline": "Deno Sandbox: because running code without proper security is just asking for trouble, so let’s sandbox everything and call it a day."
+    "author": "meetpateltech",
+    "created_at": "2026-02-04T12:08:49Z",
+    "aiHeadline": "Claude is a space to think: 'Finally, a place where you can go to think without being interrupted by the constant stream of distractions. It's like a digital zen garden, but for your brain.'"
+  },
+  {
+    "title": "Show HN: Ghidra MCP Server – 110 tools for AI-assisted reverse engineering",
+    "url": "https://github.com/bethington/ghidra-mcp",
+    "points": 271,
+    "num_comments": 64,
+    "tags": [
+      "story",
+      "author_xerzes",
+      "story_46882389",
+      "show_hn"
+    ],
+    "author": "xerzes",
+    "created_at": "2026-02-04T06:51:51Z",
+    "aiHeadline": "Show HN: Ghidra MCP Server – 110 tools for AI-assisted reverse engineering: 'Because who doesn't want to reverse engineer their way through life with the help of some fancy AI tools? Now you can, and it's never been easier.'"
   }
 ]
