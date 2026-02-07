@@ -1,75 +1,75 @@
 [
   {
-    "title": "I miss thinking hard",
-    "url": "https://www.jernesto.com/articles/thinking_hard",
-    "points": 1206,
-    "num_comments": 667,
+    "title": "I now assume that all ads on Apple news are scams",
+    "url": "https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/",
+    "points": 946,
+    "num_comments": 409,
     "tags": [
       "story",
-      "author_jernestomg",
-      "story_46881264"
-    ],
-    "author": "jernestomg",
-    "created_at": "2026-02-04T03:54:11Z",
-    "aiHeadline": "I miss thinking hard: 'Cause apparently, the struggle is over, and now I just get to enjoy the mental relaxation of not having to overthink everything. Progress, right?"
-  },
-  {
-    "title": "Voxtral Transcribe 2",
-    "url": "https://mistral.ai/news/voxtral-transcribe-2",
-    "points": 741,
-    "num_comments": 175,
-    "tags": [
-      "story",
-      "author_meetpateltech",
-      "story_46886735",
+      "author_cdrnsf",
+      "story_46911901",
       "front_page"
     ],
-    "author": "meetpateltech",
-    "created_at": "2026-02-04T15:08:17Z",
-    "aiHeadline": "Voxtral Transcribe 2: 'Now you can have your AI-powered transcription done with such precision, you'll wonder if you even need a human editor anymore. Spoiler: You don't.'"
+    "author": "cdrnsf",
+    "created_at": "2026-02-06T12:16:43Z",
+    "aiHeadline": "Apple News Ads: Now 100% Scam, Just Like You Suspected!"
   },
   {
-    "title": "FBI couldn't get into WaPo reporter's iPhone because Lockdown Mode enabled",
-    "url": "https://www.404media.co/fbi-couldnt-get-into-wapo-reporters-iphone-because-it-had-lockdown-mode-enabled/",
-    "points": 545,
-    "num_comments": 478,
+    "title": "The Waymo World Model",
+    "url": "https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation",
+    "points": 734,
+    "num_comments": 451,
     "tags": [
       "story",
-      "author_robin_reala",
-      "story_46886237"
-    ],
-    "author": "robin_reala",
-    "created_at": "2026-02-04T14:31:32Z",
-    "aiHeadline": "FBI couldn't get into WaPo reporter's iPhone: 'Because Lockdown Mode was enabled, proving once again that sometimes, the best defense is just... locking things down. Genius.'"
-  },
-  {
-    "title": "Claude is a space to think",
-    "url": "https://www.anthropic.com/news/claude-is-a-space-to-think",
-    "points": 372,
-    "num_comments": 199,
-    "tags": [
-      "story",
-      "author_meetpateltech",
-      "story_46884883",
+      "author_xnx",
+      "story_46914785",
       "front_page"
     ],
-    "author": "meetpateltech",
-    "created_at": "2026-02-04T12:08:49Z",
-    "aiHeadline": "Claude is a space to think: 'Finally, a place where you can go to think without being interrupted by the constant stream of distractions. It's like a digital zen garden, but for your brain.'"
+    "author": "xnx",
+    "created_at": "2026-02-06T16:20:42Z",
+    "aiHeadline": "Waymo Unveils Groundbreaking World Model: Because We All Needed Another Simulation, Right?"
   },
   {
-    "title": "Show HN: Ghidra MCP Server – 110 tools for AI-assisted reverse engineering",
-    "url": "https://github.com/bethington/ghidra-mcp",
-    "points": 271,
-    "num_comments": 64,
+    "title": "TikTok's 'addictive design' found to be illegal in Europe",
+    "url": "https://www.nytimes.com/2026/02/06/business/tiktok-addictive-design-europe.html",
+    "points": 597,
+    "num_comments": 431,
     "tags": [
       "story",
-      "author_xerzes",
-      "story_46882389",
-      "show_hn"
+      "author_thm",
+      "story_46911869"
     ],
-    "author": "xerzes",
-    "created_at": "2026-02-04T06:51:51Z",
-    "aiHeadline": "Show HN: Ghidra MCP Server – 110 tools for AI-assisted reverse engineering: 'Because who doesn't want to reverse engineer their way through life with the help of some fancy AI tools? Now you can, and it's never been easier.'"
+    "author": "thm",
+    "created_at": "2026-02-06T12:11:48Z",
+    "aiHeadline": "TikTok's Addictive Design Ruled Illegal in Europe: Because Who Needs a Social Media Addiction Anyway?"
+  },
+  {
+    "title": "A new bill in New York would require disclaimers on AI-generated news content",
+    "url": "https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/",
+    "points": 512,
+    "num_comments": 214,
+    "tags": [
+      "story",
+      "author_giuliomagnifico",
+      "story_46910963"
+    ],
+    "author": "giuliomagnifico",
+    "created_at": "2026-02-06T09:56:55Z",
+    "aiHeadline": "New York Bill Mandates AI News Disclaimers: Because We All Trust AI with Our News, Right?"
+  },
+  {
+    "title": "Hackers (1995) Animated Experience",
+    "url": "https://hackers-1995.vercel.app/",
+    "points": 369,
+    "num_comments": 214,
+    "tags": [
+      "story",
+      "author_todsacerdoti",
+      "story_46912800",
+      "front_page"
+    ],
+    "author": "todsacerdoti",
+    "created_at": "2026-02-06T13:49:55Z",
+    "aiHeadline": "Hackers (1995) Gets Animated Makeover: Because Who Doesn't Want to Relive the 90s Cyberpunk Era?"
   }
 ]
