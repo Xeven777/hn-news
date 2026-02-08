@@ -1,75 +1,73 @@
 [
   {
-    "title": "I now assume that all ads on Apple news are scams",
-    "url": "https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/",
-    "points": 946,
-    "num_comments": 409,
+    "title": "France's homegrown open source online office suite",
+    "url": "https://github.com/suitenumerique",
+    "points": 694,
+    "num_comments": 294,
     "tags": [
       "story",
-      "author_cdrnsf",
-      "story_46911901",
+      "author_nar001",
+      "story_46923736"
+    ],
+    "author": "nar001",
+    "created_at": "2026-02-07T13:34:34Z",
+    "aiHeadline": "France's homegrown open-source office suite: because who needs Microsoft when you can have a slightly less buggy version of the same thing?"
+  },
+  {
+    "title": "We mourn our craft",
+    "url": "https://nolanlawson.com/2026/02/07/we-mourn-our-craft/",
+    "points": 392,
+    "num_comments": 524,
+    "tags": [
+      "story",
+      "author_ColinWright",
+      "story_46926245"
+    ],
+    "author": "ColinWright",
+    "created_at": "2026-02-07T18:32:27Z",
+    "aiHeadline": "We mourn our craft: because apparently, writing code is now as exciting as watching paint dry, and no one wants to do it anymore."
+  },
+  {
+    "title": "Coding agents have replaced every framework I used",
+    "url": "https://blog.alaindichiappari.dev/p/software-engineering-is-back",
+    "points": 311,
+    "num_comments": 507,
+    "tags": [
+      "story",
+      "author_alainrk",
+      "story_46923543"
+    ],
+    "author": "alainrk",
+    "created_at": "2026-02-07T13:07:09Z",
+    "aiHeadline": "Coding agents have replaced every framework I used: because now, even the robots are too lazy to write their own code."
+  },
+  {
+    "title": "U.S. jobs disappear at fastest January pace since great recession",
+    "url": "https://www.forbes.com/sites/mikestunson/2026/02/05/us-jobs-disappear-at-fastest-january-pace-since-great-recession/",
+    "points": 299,
+    "num_comments": 244,
+    "tags": [
+      "story",
+      "author_alephnerd",
+      "story_46925669"
+    ],
+    "author": "alephnerd",
+    "created_at": "2026-02-07T17:31:24Z",
+    "aiHeadline": "U.S. jobs disappear at fastest January pace since the Great Recession: because apparently, the economy is doing just fine, right?"
+  },
+  {
+    "title": "Vocal Guide – belt sing without killing yourself",
+    "url": "https://jesperordrup.github.io/vocal-guide/",
+    "points": 278,
+    "num_comments": 90,
+    "tags": [
+      "story",
+      "author_jesperordrup",
+      "story_46922049",
       "front_page"
     ],
-    "author": "cdrnsf",
-    "created_at": "2026-02-06T12:16:43Z",
-    "aiHeadline": "Apple News Ads: Now 100% Scam, Just Like You Suspected!"
-  },
-  {
-    "title": "The Waymo World Model",
-    "url": "https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation",
-    "points": 734,
-    "num_comments": 451,
-    "tags": [
-      "story",
-      "author_xnx",
-      "story_46914785",
-      "front_page"
-    ],
-    "author": "xnx",
-    "created_at": "2026-02-06T16:20:42Z",
-    "aiHeadline": "Waymo Unveils Groundbreaking World Model: Because We All Needed Another Simulation, Right?"
-  },
-  {
-    "title": "TikTok's 'addictive design' found to be illegal in Europe",
-    "url": "https://www.nytimes.com/2026/02/06/business/tiktok-addictive-design-europe.html",
-    "points": 597,
-    "num_comments": 431,
-    "tags": [
-      "story",
-      "author_thm",
-      "story_46911869"
-    ],
-    "author": "thm",
-    "created_at": "2026-02-06T12:11:48Z",
-    "aiHeadline": "TikTok's Addictive Design Ruled Illegal in Europe: Because Who Needs a Social Media Addiction Anyway?"
-  },
-  {
-    "title": "A new bill in New York would require disclaimers on AI-generated news content",
-    "url": "https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/",
-    "points": 512,
-    "num_comments": 214,
-    "tags": [
-      "story",
-      "author_giuliomagnifico",
-      "story_46910963"
-    ],
-    "author": "giuliomagnifico",
-    "created_at": "2026-02-06T09:56:55Z",
-    "aiHeadline": "New York Bill Mandates AI News Disclaimers: Because We All Trust AI with Our News, Right?"
-  },
-  {
-    "title": "Hackers (1995) Animated Experience",
-    "url": "https://hackers-1995.vercel.app/",
-    "points": 369,
-    "num_comments": 214,
-    "tags": [
-      "story",
-      "author_todsacerdoti",
-      "story_46912800",
-      "front_page"
-    ],
-    "author": "todsacerdoti",
-    "created_at": "2026-02-06T13:49:55Z",
-    "aiHeadline": "Hackers (1995) Gets Animated Makeover: Because Who Doesn't Want to Relive the 90s Cyberpunk Era?"
+    "author": "jesperordrup",
+    "created_at": "2026-02-07T07:37:03Z",
+    "aiHeadline": "Vocal Guide – belt sing without killing yourself: because even singing is now a tech problem that needs a solution."
   }
 ]
