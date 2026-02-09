@@ -1,73 +1,73 @@
 [
   {
-    "title": "France's homegrown open source online office suite",
-    "url": "https://github.com/suitenumerique",
-    "points": 694,
+    "title": "Vouch",
+    "url": "https://github.com/mitchellh/vouch",
+    "points": 630,
+    "num_comments": 277,
+    "tags": [
+      "story",
+      "author_chwtutha",
+      "story_46930961",
+      "front_page"
+    ],
+    "author": "chwtutha",
+    "created_at": "2026-02-08T03:09:28Z",
+    "aiHeadline": "Vouch: Because your identity needs yet another layer of verification, because the internet is a trust-free zone, apparently."
+  },
+  {
+    "title": "AI fatigue is real and nobody talks about it",
+    "url": "https://siddhantkhare.com/writing/ai-fatigue-is-real",
+    "points": 394,
+    "num_comments": 279,
+    "tags": [
+      "story",
+      "author_sidk24",
+      "story_46934404"
+    ],
+    "author": "sidk24",
+    "created_at": "2026-02-08T14:19:32Z",
+    "aiHeadline": "AI fatigue is real and nobody talks about it: Because we're all too busy hyping AI to notice we're burned out from it."
+  },
+  {
+    "title": "DoNotNotify is now Open Source",
+    "url": "https://donotnotify.com/opensource.html",
+    "points": 369,
+    "num_comments": 47,
+    "tags": [
+      "story",
+      "author_awaaz",
+      "story_46932192"
+    ],
+    "author": "awaaz",
+    "created_at": "2026-02-08T07:39:49Z",
+    "aiHeadline": "DoNotNotify is now Open Source: Finally, an app that blocks ads is transparent about its code, which is ironic because ads are the least transparent."
+  },
+  {
+    "title": "I am happier writing code by hand",
+    "url": "https://www.abhinavomprakash.com/posts/i-am-happier-writing-code-by-hand/",
+    "points": 352,
+    "num_comments": 289,
+    "tags": [
+      "story",
+      "author_lazyfolder",
+      "story_46934344"
+    ],
+    "author": "lazyfolder",
+    "created_at": "2026-02-08T14:12:18Z",
+    "aiHeadline": "I am happier writing code by hand: Because modern IDEs are overrated and coding should feel like a chore, right?"
+  },
+  {
+    "title": "Slop Terrifies Me",
+    "url": "https://ezhik.jp/ai-slop-terrifies-me/",
+    "points": 331,
     "num_comments": 294,
     "tags": [
       "story",
-      "author_nar001",
-      "story_46923736"
+      "author_Ezhik",
+      "story_46933067"
     ],
-    "author": "nar001",
-    "created_at": "2026-02-07T13:34:34Z",
-    "aiHeadline": "France's homegrown open-source office suite: because who needs Microsoft when you can have a slightly less buggy version of the same thing?"
-  },
-  {
-    "title": "We mourn our craft",
-    "url": "https://nolanlawson.com/2026/02/07/we-mourn-our-craft/",
-    "points": 392,
-    "num_comments": 524,
-    "tags": [
-      "story",
-      "author_ColinWright",
-      "story_46926245"
-    ],
-    "author": "ColinWright",
-    "created_at": "2026-02-07T18:32:27Z",
-    "aiHeadline": "We mourn our craft: because apparently, writing code is now as exciting as watching paint dry, and no one wants to do it anymore."
-  },
-  {
-    "title": "Coding agents have replaced every framework I used",
-    "url": "https://blog.alaindichiappari.dev/p/software-engineering-is-back",
-    "points": 311,
-    "num_comments": 507,
-    "tags": [
-      "story",
-      "author_alainrk",
-      "story_46923543"
-    ],
-    "author": "alainrk",
-    "created_at": "2026-02-07T13:07:09Z",
-    "aiHeadline": "Coding agents have replaced every framework I used: because now, even the robots are too lazy to write their own code."
-  },
-  {
-    "title": "U.S. jobs disappear at fastest January pace since great recession",
-    "url": "https://www.forbes.com/sites/mikestunson/2026/02/05/us-jobs-disappear-at-fastest-january-pace-since-great-recession/",
-    "points": 299,
-    "num_comments": 244,
-    "tags": [
-      "story",
-      "author_alephnerd",
-      "story_46925669"
-    ],
-    "author": "alephnerd",
-    "created_at": "2026-02-07T17:31:24Z",
-    "aiHeadline": "U.S. jobs disappear at fastest January pace since the Great Recession: because apparently, the economy is doing just fine, right?"
-  },
-  {
-    "title": "Vocal Guide – belt sing without killing yourself",
-    "url": "https://jesperordrup.github.io/vocal-guide/",
-    "points": 278,
-    "num_comments": 90,
-    "tags": [
-      "story",
-      "author_jesperordrup",
-      "story_46922049",
-      "front_page"
-    ],
-    "author": "jesperordrup",
-    "created_at": "2026-02-07T07:37:03Z",
-    "aiHeadline": "Vocal Guide – belt sing without killing yourself: because even singing is now a tech problem that needs a solution."
+    "author": "Ezhik",
+    "created_at": "2026-02-08T10:31:35Z",
+    "aiHeadline": "Slop Terrifies Me: Because AI-generated content is so bad it's making me question humanity's place in the creative process."
   }
 ]
