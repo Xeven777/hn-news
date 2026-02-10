@@ -1,73 +1,77 @@
 [
   {
-    "title": "Vouch",
-    "url": "https://github.com/mitchellh/vouch",
-    "points": 630,
-    "num_comments": 277,
+    "title": "Discord will require a face scan or ID for full access next month",
+    "url": "https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out",
+    "points": 1260,
+    "num_comments": 1261,
     "tags": [
       "story",
-      "author_chwtutha",
-      "story_46930961",
+      "author_x01",
+      "story_46945663",
       "front_page"
     ],
-    "author": "chwtutha",
-    "created_at": "2026-02-08T03:09:28Z",
-    "aiHeadline": "Vouch: Because your identity needs yet another layer of verification, because the internet is a trust-free zone, apparently."
+    "author": "x01",
+    "created_at": "2026-02-09T14:37:38Z",
+    "aiHeadline": "Discord's new face scan requirement: because nothing says 'fun chat' like a mandatory ID check and a selfie, coming to your server next month (probably after a few hiccups)"
   },
   {
-    "title": "AI fatigue is real and nobody talks about it",
-    "url": "https://siddhantkhare.com/writing/ai-fatigue-is-real",
-    "points": 394,
-    "num_comments": 279,
+    "title": "GitHub is down again",
+    "url": "https://www.githubstatus.com/incidents/54hndjxft5bx",
+    "points": 482,
+    "num_comments": 384,
     "tags": [
       "story",
-      "author_sidk24",
-      "story_46934404"
+      "author_MattIPv4",
+      "story_46946827"
     ],
-    "author": "sidk24",
-    "created_at": "2026-02-08T14:19:32Z",
-    "aiHeadline": "AI fatigue is real and nobody talks about it: Because we're all too busy hyping AI to notice we're burned out from it."
+    "author": "MattIPv4",
+    "created_at": "2026-02-09T16:12:19Z",
+    "aiHeadline": "GitHub is down again: because the universe's way of telling us to take a break from coding and maybe, just maybe, enjoy the moment"
   },
   {
-    "title": "DoNotNotify is now Open Source",
-    "url": "https://donotnotify.com/opensource.html",
-    "points": 369,
-    "num_comments": 47,
+    "title": "Why is the sky blue?",
+    "url": "https://explainers.blog/posts/why-is-the-sky-blue/",
+    "points": 419,
+    "num_comments": 159,
     "tags": [
       "story",
-      "author_awaaz",
-      "story_46932192"
+      "author_udit99",
+      "story_46946401",
+      "front_page"
     ],
-    "author": "awaaz",
-    "created_at": "2026-02-08T07:39:49Z",
-    "aiHeadline": "DoNotNotify is now Open Source: Finally, an app that blocks ads is transparent about its code, which is ironic because ads are the least transparent."
+    "author": "udit99",
+    "created_at": "2026-02-09T15:39:51Z",
+    "aiHeadline": "Why is the sky blue? Because apparently, even the simplest questions require a 10-page explainer, proving that nothing is ever as straightforward as it seems"
   },
   {
-    "title": "I am happier writing code by hand",
-    "url": "https://www.abhinavomprakash.com/posts/i-am-happier-writing-code-by-hand/",
-    "points": 352,
-    "num_comments": 289,
+    "title": "Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock",
+    "url": "https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock",
+    "points": 407,
+    "num_comments": 140,
     "tags": [
       "story",
-      "author_lazyfolder",
-      "story_46934344"
+      "author_tokyobreakfast",
+      "story_46947096",
+      "front_page"
     ],
-    "author": "lazyfolder",
-    "created_at": "2026-02-08T14:12:18Z",
-    "aiHeadline": "I am happier writing code by hand: Because modern IDEs are overrated and coding should feel like a chore, right?"
+    "author": "tokyobreakfast",
+    "created_at": "2026-02-09T16:26:31Z",
+    "aiHeadline": "Turning a $3.88 Walmart clock into a Wi-Fi marvel: because who doesn't want their analog timepiece to also be a mini tech wonder, complete with ESP8266 wizardry"
   },
   {
-    "title": "Slop Terrifies Me",
-    "url": "https://ezhik.jp/ai-slop-terrifies-me/",
-    "points": 331,
-    "num_comments": 294,
+    "title": "Show HN: Algorithmically finding the longest line of sight on Earth",
+    "url": "https://alltheviews.world",
+    "points": 379,
+    "num_comments": 153,
     "tags": [
       "story",
-      "author_Ezhik",
-      "story_46933067"
+      "author_tombh",
+      "story_46943568",
+      "show_hn",
+      "front_page"
     ],
-    "author": "Ezhik",
-    "created_at": "2026-02-08T10:31:35Z",
-    "aiHeadline": "Slop Terrifies Me: Because AI-generated content is so bad it's making me question humanity's place in the creative process."
+    "author": "tombh",
+    "created_at": "2026-02-09T10:05:55Z",
+    "aiHeadline": "Finding the longest line of sight on Earth: because who doesn't want to know where they can see forever (or at least until the curvature of the Earth gets in the way)"
   }
 ]
