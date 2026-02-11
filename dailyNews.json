@@ -1,77 +1,76 @@
 [
   {
-    "title": "Discord will require a face scan or ID for full access next month",
-    "url": "https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out",
-    "points": 1260,
-    "num_comments": 1261,
+    "title": "The Singularity will occur on a Tuesday",
+    "url": "https://campedersen.com/singularity",
+    "points": 849,
+    "num_comments": 483,
     "tags": [
       "story",
-      "author_x01",
-      "story_46945663",
+      "author_ecto",
+      "story_46962996",
       "front_page"
     ],
-    "author": "x01",
-    "created_at": "2026-02-09T14:37:38Z",
-    "aiHeadline": "Discord's new face scan requirement: because nothing says 'fun chat' like a mandatory ID check and a selfie, coming to your server next month (probably after a few hiccups)"
+    "author": "ecto",
+    "created_at": "2026-02-10T17:04:31Z",
+    "aiHeadline": "The Singularity is Just Another Tuesday: AI Brings World Domination to Your Midweek"
   },
   {
-    "title": "GitHub is down again",
-    "url": "https://www.githubstatus.com/incidents/54hndjxft5bx",
-    "points": 482,
-    "num_comments": 384,
+    "title": "Europe's $24T Breakup with Visa and Mastercard Has Begun",
+    "url": "https://europeanbusinessmagazine.com/business/europes-24-trillion-breakup-with-visa-and-mastercard-has-begun/",
+    "points": 691,
+    "num_comments": 581,
     "tags": [
       "story",
-      "author_MattIPv4",
-      "story_46946827"
-    ],
-    "author": "MattIPv4",
-    "created_at": "2026-02-09T16:12:19Z",
-    "aiHeadline": "GitHub is down again: because the universe's way of telling us to take a break from coding and maybe, just maybe, enjoy the moment"
-  },
-  {
-    "title": "Why is the sky blue?",
-    "url": "https://explainers.blog/posts/why-is-the-sky-blue/",
-    "points": 419,
-    "num_comments": 159,
-    "tags": [
-      "story",
-      "author_udit99",
-      "story_46946401",
+      "author_NewCzech",
+      "story_46958399",
       "front_page"
     ],
-    "author": "udit99",
-    "created_at": "2026-02-09T15:39:51Z",
-    "aiHeadline": "Why is the sky blue? Because apparently, even the simplest questions require a 10-page explainer, proving that nothing is ever as straightforward as it seems"
+    "author": "NewCzech",
+    "created_at": "2026-02-10T11:42:14Z",
+    "aiHeadline": "Europe's $24T Breakup with Visa and Mastercard: Because Love Isn't Enough When You're a Continent"
   },
   {
-    "title": "Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock",
-    "url": "https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock",
-    "points": 407,
-    "num_comments": 140,
+    "title": "Google handed ICE student journalist's bank and credit card numbers",
+    "url": "https://theintercept.com/2026/02/10/google-ice-subpoena-student-journalist/",
+    "points": 684,
+    "num_comments": 278,
     "tags": [
       "story",
-      "author_tokyobreakfast",
-      "story_46947096",
+      "author_lehi",
+      "story_46963804",
       "front_page"
     ],
-    "author": "tokyobreakfast",
-    "created_at": "2026-02-09T16:26:31Z",
-    "aiHeadline": "Turning a $3.88 Walmart clock into a Wi-Fi marvel: because who doesn't want their analog timepiece to also be a mini tech wonder, complete with ESP8266 wizardry"
+    "author": "lehi",
+    "created_at": "2026-02-10T17:48:05Z",
+    "aiHeadline": "Google Hands ICE Student Journalist's Bank and Credit Card Numbers: Privacy is Dead, Long Live the Internet"
   },
   {
-    "title": "Show HN: Algorithmically finding the longest line of sight on Earth",
-    "url": "https://alltheviews.world",
-    "points": 379,
-    "num_comments": 153,
+    "title": "I started programming when I was 7. I'm 50 now and the thing I loved has changed",
+    "url": "https://www.jamesdrandall.com/posts/the_thing_i_loved_has_changed/",
+    "points": 626,
+    "num_comments": 513,
     "tags": [
       "story",
-      "author_tombh",
-      "story_46943568",
-      "show_hn",
+      "author_jamesrandall",
+      "story_46960675"
+    ],
+    "author": "jamesrandall",
+    "created_at": "2026-02-10T15:08:36Z",
+    "aiHeadline": "I Started Programming at 7 and Now I'm 50: The Thing I Loved Has Changed, and So Have I—Apparently"
+  },
+  {
+    "title": "Oxide raises $200M Series C",
+    "url": "https://oxide.computer/blog/our-200m-series-c",
+    "points": 524,
+    "num_comments": 282,
+    "tags": [
+      "story",
+      "author_igrunert",
+      "story_46960036",
       "front_page"
     ],
-    "author": "tombh",
-    "created_at": "2026-02-09T10:05:55Z",
-    "aiHeadline": "Finding the longest line of sight on Earth: because who doesn't want to know where they can see forever (or at least until the curvature of the Earth gets in the way)"
+    "author": "igrunert",
+    "created_at": "2026-02-10T14:20:49Z",
+    "aiHeadline": "Oxide Raises $200M Series C: Because Who Needs Sleep When You Can Just Keep Scaling Up?"
   }
 ]
