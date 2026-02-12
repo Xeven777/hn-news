@@ -1,76 +1,75 @@
 [
   {
-    "title": "The Singularity will occur on a Tuesday",
-    "url": "https://campedersen.com/singularity",
-    "points": 849,
-    "num_comments": 483,
+    "title": "Windows Notepad App Remote Code Execution Vulnerability",
+    "url": "https://www.cve.org/CVERecord?id=CVE-2026-20841",
+    "points": 756,
+    "num_comments": 470,
     "tags": [
       "story",
-      "author_ecto",
-      "story_46962996",
-      "front_page"
+      "author_riffraff",
+      "story_46971516"
     ],
-    "author": "ecto",
-    "created_at": "2026-02-10T17:04:31Z",
-    "aiHeadline": "The Singularity is Just Another Tuesday: AI Brings World Domination to Your Midweek"
+    "author": "riffraff",
+    "created_at": "2026-02-11T06:15:33Z",
+    "aiHeadline": "Windows Notepad: Because even your simplest text editor needs a remote code execution vulnerability to make your day a little more exciting."
   },
   {
-    "title": "Europe's $24T Breakup with Visa and Mastercard Has Begun",
-    "url": "https://europeanbusinessmagazine.com/business/europes-24-trillion-breakup-with-visa-and-mastercard-has-begun/",
-    "points": 691,
-    "num_comments": 581,
+    "title": "Claude Code is being dumbed down?",
+    "url": "https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/",
+    "points": 753,
+    "num_comments": 525,
     "tags": [
       "story",
-      "author_NewCzech",
-      "story_46958399",
+      "author_WXLCKNO",
+      "story_46978710",
       "front_page"
     ],
-    "author": "NewCzech",
-    "created_at": "2026-02-10T11:42:14Z",
-    "aiHeadline": "Europe's $24T Breakup with Visa and Mastercard: Because Love Isn't Enough When You're a Continent"
+    "author": "WXLCKNO",
+    "created_at": "2026-02-11T18:23:39Z",
+    "aiHeadline": "Claude Code: Because who needs complexity when you can just dumb it down and make everyone wonder if AI even knows what it's doing anymore?"
   },
   {
-    "title": "Google handed ICE student journalist's bank and credit card numbers",
-    "url": "https://theintercept.com/2026/02/10/google-ice-subpoena-student-journalist/",
-    "points": 684,
-    "num_comments": 278,
+    "title": "Amazon Ring's lost dog ad sparks backlash amid fears of mass surveillance",
+    "url": "https://www.theverge.com/tech/876866/ring-search-party-super-bowl-ad-online-backlash",
+    "points": 446,
+    "num_comments": 248,
     "tags": [
       "story",
-      "author_lehi",
-      "story_46963804",
+      "author_jedberg",
+      "story_46978966",
       "front_page"
     ],
-    "author": "lehi",
-    "created_at": "2026-02-10T17:48:05Z",
-    "aiHeadline": "Google Hands ICE Student Journalist's Bank and Credit Card Numbers: Privacy is Dead, Long Live the Internet"
+    "author": "jedberg",
+    "created_at": "2026-02-11T18:43:01Z",
+    "aiHeadline": "Amazon Ring: Because nothing says 'we're watching you' like a heartwarming ad about finding a lost dog, except when it's really about mass surveillance and privacy concerns."
   },
   {
-    "title": "I started programming when I was 7. I'm 50 now and the thing I loved has changed",
-    "url": "https://www.jamesdrandall.com/posts/the_thing_i_loved_has_changed/",
-    "points": 626,
-    "num_comments": 513,
+    "title": "Chrome extensions spying on users' browsing data",
+    "url": "https://qcontinuum.substack.com/p/spying-chrome-extensions-287-extensions-495",
+    "points": 435,
+    "num_comments": 187,
     "tags": [
       "story",
-      "author_jamesrandall",
-      "story_46960675"
+      "author_qcontinuum1",
+      "story_46973083"
     ],
-    "author": "jamesrandall",
-    "created_at": "2026-02-10T15:08:36Z",
-    "aiHeadline": "I Started Programming at 7 and Now I'm 50: The Thing I Loved Has Changed, and So Have I—Apparently"
+    "author": "qcontinuum1",
+    "created_at": "2026-02-11T10:00:56Z",
+    "aiHeadline": "Chrome Extensions: Because who needs privacy when you can have extensions spying on your every move, collecting data, and probably selling it to the highest bidder?"
   },
   {
-    "title": "Oxide raises $200M Series C",
-    "url": "https://oxide.computer/blog/our-200m-series-c",
-    "points": 524,
-    "num_comments": 282,
+    "title": "Fluorite – A console-grade game engine fully integrated with Flutter",
+    "url": "https://fluorite.game/",
+    "points": 405,
+    "num_comments": 238,
     "tags": [
       "story",
-      "author_igrunert",
-      "story_46960036",
+      "author_bsimpson",
+      "story_46976911",
       "front_page"
     ],
-    "author": "igrunert",
-    "created_at": "2026-02-10T14:20:49Z",
-    "aiHeadline": "Oxide Raises $200M Series C: Because Who Needs Sleep When You Can Just Keep Scaling Up?"
+    "author": "bsimpson",
+    "created_at": "2026-02-11T16:21:10Z",
+    "aiHeadline": "Fluorite: Because who needs a console when you can have a console-grade game engine fully integrated with Flutter, making your app look like a million bucks while you wonder if it's worth the effort?"
   }
 ]
