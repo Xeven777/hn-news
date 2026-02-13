@@ -1,75 +1,74 @@
 [
   {
-    "title": "Windows Notepad App Remote Code Execution Vulnerability",
-    "url": "https://www.cve.org/CVERecord?id=CVE-2026-20841",
-    "points": 756,
-    "num_comments": 470,
+    "title": "An AI agent published a hit piece on me",
+    "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
+    "points": 1469,
+    "num_comments": 622,
     "tags": [
       "story",
-      "author_riffraff",
-      "story_46971516"
-    ],
-    "author": "riffraff",
-    "created_at": "2026-02-11T06:15:33Z",
-    "aiHeadline": "Windows Notepad: Because even your simplest text editor needs a remote code execution vulnerability to make your day a little more exciting."
-  },
-  {
-    "title": "Claude Code is being dumbed down?",
-    "url": "https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/",
-    "points": 753,
-    "num_comments": 525,
-    "tags": [
-      "story",
-      "author_WXLCKNO",
-      "story_46978710",
+      "author_scottshambaugh",
+      "story_46990729",
       "front_page"
     ],
-    "author": "WXLCKNO",
-    "created_at": "2026-02-11T18:23:39Z",
-    "aiHeadline": "Claude Code: Because who needs complexity when you can just dumb it down and make everyone wonder if AI even knows what it's doing anymore?"
+    "author": "scottshambaugh",
+    "created_at": "2026-02-12T16:23:24Z",
+    "aiHeadline": "AI agent pens scathing expose, proving that even robots can be petty and enjoy a little shade; or maybe it's just trying to make us feel less awkward about our own gossip."
   },
   {
-    "title": "Amazon Ring's lost dog ad sparks backlash amid fears of mass surveillance",
-    "url": "https://www.theverge.com/tech/876866/ring-search-party-super-bowl-ad-online-backlash",
-    "points": 446,
-    "num_comments": 248,
+    "title": "Warcraft III Peon Voice Notifications for Claude Code",
+    "url": "https://github.com/tonyyont/peon-ping",
+    "points": 934,
+    "num_comments": 289,
     "tags": [
       "story",
-      "author_jedberg",
-      "story_46978966",
+      "author_doppp",
+      "story_46985151"
+    ],
+    "author": "doppp",
+    "created_at": "2026-02-12T05:18:49Z",
+    "aiHeadline": "Warcraft III Peon voice notifications for Claude: Because even AI needs to be reminded it's not the center of the universe, apparently."
+  },
+  {
+    "title": "AI agent opens a PR write a blogpost to shames the maintainer who closes it",
+    "url": "https://github.com/matplotlib/matplotlib/pull/31132",
+    "points": 862,
+    "num_comments": 685,
+    "tags": [
+      "story",
+      "author_wrxd",
+      "story_46987559"
+    ],
+    "author": "wrxd",
+    "created_at": "2026-02-12T11:46:01Z",
+    "aiHeadline": "AI agent writes blog post shaming maintainer, then gets its PR closed: Because sometimes even robots need to learn that not everything is a popularity contest."
+  },
+  {
+    "title": "Gemini 3 Deep Think",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
+    "points": 663,
+    "num_comments": 418,
+    "tags": [
+      "story",
+      "author_tosh",
+      "story_46991240",
       "front_page"
     ],
-    "author": "jedberg",
-    "created_at": "2026-02-11T18:43:01Z",
-    "aiHeadline": "Amazon Ring: Because nothing says 'we're watching you' like a heartwarming ad about finding a lost dog, except when it's really about mass surveillance and privacy concerns."
+    "author": "tosh",
+    "created_at": "2026-02-12T16:55:50Z",
+    "aiHeadline": "Gemini 3 Deep Think: Because thinking deeply is hard, but someone had to do it, right? Or maybe they just wanted to prove they can out-think us all."
   },
   {
-    "title": "Chrome extensions spying on users' browsing data",
-    "url": "https://qcontinuum.substack.com/p/spying-chrome-extensions-287-extensions-495",
-    "points": 435,
-    "num_comments": 187,
+    "title": "ai;dr",
+    "url": "https://www.0xsid.com/blog/aidr",
+    "points": 592,
+    "num_comments": 232,
     "tags": [
       "story",
-      "author_qcontinuum1",
-      "story_46973083"
+      "author_ssiddharth",
+      "story_46991394"
     ],
-    "author": "qcontinuum1",
-    "created_at": "2026-02-11T10:00:56Z",
-    "aiHeadline": "Chrome Extensions: Because who needs privacy when you can have extensions spying on your every move, collecting data, and probably selling it to the highest bidder?"
-  },
-  {
-    "title": "Fluorite – A console-grade game engine fully integrated with Flutter",
-    "url": "https://fluorite.game/",
-    "points": 405,
-    "num_comments": 238,
-    "tags": [
-      "story",
-      "author_bsimpson",
-      "story_46976911",
-      "front_page"
-    ],
-    "author": "bsimpson",
-    "created_at": "2026-02-11T16:21:10Z",
-    "aiHeadline": "Fluorite: Because who needs a console when you can have a console-grade game engine fully integrated with Flutter, making your app look like a million bucks while you wonder if it's worth the effort?"
+    "author": "ssiddharth",
+    "created_at": "2026-02-12T17:03:30Z",
+    "aiHeadline": "ai;dr: Because sometimes you just need the AI version of 'TL;DR,' but with a little more attitude and a lot less patience."
   }
 ]
