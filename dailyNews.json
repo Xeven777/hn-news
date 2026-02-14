@@ -1,74 +1,75 @@
 [
   {
-    "title": "An AI agent published a hit piece on me",
-    "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
-    "points": 1469,
-    "num_comments": 622,
+    "title": "Fix the iOS keyboard before the timer hits zero or I'm switching back to Android",
+    "url": "https://ios-countdown.win/",
+    "points": 1304,
+    "num_comments": 658,
     "tags": [
       "story",
-      "author_scottshambaugh",
-      "story_46990729",
+      "author_ozzyphantom",
+      "story_47003064",
       "front_page"
     ],
-    "author": "scottshambaugh",
-    "created_at": "2026-02-12T16:23:24Z",
-    "aiHeadline": "AI agent pens scathing expose, proving that even robots can be petty and enjoy a little shade; or maybe it's just trying to make us feel less awkward about our own gossip."
+    "author": "ozzyphantom",
+    "created_at": "2026-02-13T14:21:01Z",
+    "aiHeadline": "iOS Keyboard: The Apples of Discord as Users Threaten to Switch Teams Unless Apple Fixes This Mess Before the Countdown Ends"
   },
   {
-    "title": "Warcraft III Peon Voice Notifications for Claude Code",
-    "url": "https://github.com/tonyyont/peon-ping",
-    "points": 934,
-    "num_comments": 289,
+    "title": "Monosketch",
+    "url": "https://monosketch.io/",
+    "points": 709,
+    "num_comments": 128,
     "tags": [
       "story",
-      "author_doppp",
-      "story_46985151"
-    ],
-    "author": "doppp",
-    "created_at": "2026-02-12T05:18:49Z",
-    "aiHeadline": "Warcraft III Peon voice notifications for Claude: Because even AI needs to be reminded it's not the center of the universe, apparently."
-  },
-  {
-    "title": "AI agent opens a PR write a blogpost to shames the maintainer who closes it",
-    "url": "https://github.com/matplotlib/matplotlib/pull/31132",
-    "points": 862,
-    "num_comments": 685,
-    "tags": [
-      "story",
-      "author_wrxd",
-      "story_46987559"
-    ],
-    "author": "wrxd",
-    "created_at": "2026-02-12T11:46:01Z",
-    "aiHeadline": "AI agent writes blog post shaming maintainer, then gets its PR closed: Because sometimes even robots need to learn that not everything is a popularity contest."
-  },
-  {
-    "title": "Gemini 3 Deep Think",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
-    "points": 663,
-    "num_comments": 418,
-    "tags": [
-      "story",
-      "author_tosh",
-      "story_46991240",
+      "author_penguin_booze",
+      "story_47001871",
       "front_page"
     ],
-    "author": "tosh",
-    "created_at": "2026-02-12T16:55:50Z",
-    "aiHeadline": "Gemini 3 Deep Think: Because thinking deeply is hard, but someone had to do it, right? Or maybe they just wanted to prove they can out-think us all."
+    "author": "penguin_booze",
+    "created_at": "2026-02-13T12:18:05Z",
+    "aiHeadline": "Monosketch: The One Sketch Tool to Rule Them All, Because Apparently We Needed Another One"
   },
   {
-    "title": "ai;dr",
-    "url": "https://www.0xsid.com/blog/aidr",
-    "points": 592,
-    "num_comments": 232,
+    "title": "MinIO repository is no longer maintained",
+    "url": "https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f",
+    "points": 453,
+    "num_comments": 330,
     "tags": [
       "story",
-      "author_ssiddharth",
-      "story_46991394"
+      "author_psvmcc",
+      "story_47000041"
     ],
-    "author": "ssiddharth",
-    "created_at": "2026-02-12T17:03:30Z",
-    "aiHeadline": "ai;dr: Because sometimes you just need the AI version of 'TL;DR,' but with a little more attitude and a lot less patience."
+    "author": "psvmcc",
+    "created_at": "2026-02-13T07:46:03Z",
+    "aiHeadline": "MinIO: The Open-Source Project That Just Checked Out, Because Who Needs Maintenance Anyway?"
+  },
+  {
+    "title": "Ring owners are returning their cameras",
+    "url": "https://www.msn.com/en-us/lifestyle/shopping/ring-owners-are-returning-their-cameras-here-s-how-much-you-can-get/ar-AA1W8Qa3",
+    "points": 383,
+    "num_comments": 274,
+    "tags": [
+      "story",
+      "author_c420",
+      "story_46999545"
+    ],
+    "author": "c420",
+    "created_at": "2026-02-13T06:23:26Z",
+    "aiHeadline": "Ring Camera Returns: When Your Home Security Decides to Go on Holiday and You're Left Wondering If It Was Worth the Privacy Trade-Off"
+  },
+  {
+    "title": "GPT-5.2 derives a new result in theoretical physics",
+    "url": "https://openai.com/index/new-result-theoretical-physics/",
+    "points": 377,
+    "num_comments": 259,
+    "tags": [
+      "story",
+      "author_davidbarker",
+      "story_47006594",
+      "front_page"
+    ],
+    "author": "davidbarker",
+    "created_at": "2026-02-13T19:20:12Z",
+    "aiHeadline": "GPT-5.2: The AI That Just Solved Physics, or Maybe It’s Just Physics envy"
   }
 ]
