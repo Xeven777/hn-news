@@ -1,75 +1,75 @@
 [
   {
-    "title": "Fix the iOS keyboard before the timer hits zero or I'm switching back to Android",
-    "url": "https://ios-countdown.win/",
-    "points": 1304,
-    "num_comments": 658,
+    "title": "uBlock filter list to hide all YouTube Shorts",
+    "url": "https://github.com/i5heu/ublock-hide-yt-shorts/",
+    "points": 608,
+    "num_comments": 193,
     "tags": [
       "story",
-      "author_ozzyphantom",
-      "story_47003064",
+      "author_i5heu",
+      "story_47016443",
       "front_page"
     ],
-    "author": "ozzyphantom",
-    "created_at": "2026-02-13T14:21:01Z",
-    "aiHeadline": "iOS Keyboard: The Apples of Discord as Users Threaten to Switch Teams Unless Apple Fixes This Mess Before the Countdown Ends"
+    "author": "i5heu",
+    "created_at": "2026-02-14T17:36:45Z",
+    "aiHeadline": "Finally, a way to block YouTube Shorts before they block your life!"
   },
   {
-    "title": "Monosketch",
-    "url": "https://monosketch.io/",
-    "points": 709,
-    "num_comments": 128,
+    "title": "Ars Technica makes up quotes from Matplotlib maintainer; pulls story",
+    "url": "https://infosec.exchange/@mttaggart/116065340523529645",
+    "points": 535,
+    "num_comments": 6,
     "tags": [
       "story",
-      "author_penguin_booze",
-      "story_47001871",
+      "author_robin_reala",
+      "story_47013059"
+    ],
+    "author": "robin_reala",
+    "created_at": "2026-02-14T09:28:45Z",
+    "aiHeadline": "Ars Technica proves that making things up is a real skill, and now they're retracting their story for accuracy!"
+  },
+  {
+    "title": "Ooh.directory: a place to find good blogs that interest you",
+    "url": "https://ooh.directory/",
+    "points": 440,
+    "num_comments": 118,
+    "tags": [
+      "story",
+      "author_hisamafahri",
+      "story_47014449",
       "front_page"
     ],
-    "author": "penguin_booze",
-    "created_at": "2026-02-13T12:18:05Z",
-    "aiHeadline": "Monosketch: The One Sketch Tool to Rule Them All, Because Apparently We Needed Another One"
+    "author": "hisamafahri",
+    "created_at": "2026-02-14T13:40:20Z",
+    "aiHeadline": "Discover the perfect blog for your niche, because the internet isn't crowded enough yet!"
   },
   {
-    "title": "MinIO repository is no longer maintained",
-    "url": "https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f",
-    "points": 453,
-    "num_comments": 330,
-    "tags": [
-      "story",
-      "author_psvmcc",
-      "story_47000041"
-    ],
-    "author": "psvmcc",
-    "created_at": "2026-02-13T07:46:03Z",
-    "aiHeadline": "MinIO: The Open-Source Project That Just Checked Out, Because Who Needs Maintenance Anyway?"
-  },
-  {
-    "title": "Ring owners are returning their cameras",
-    "url": "https://www.msn.com/en-us/lifestyle/shopping/ring-owners-are-returning-their-cameras-here-s-how-much-you-can-get/ar-AA1W8Qa3",
-    "points": 383,
-    "num_comments": 274,
-    "tags": [
-      "story",
-      "author_c420",
-      "story_46999545"
-    ],
-    "author": "c420",
-    "created_at": "2026-02-13T06:23:26Z",
-    "aiHeadline": "Ring Camera Returns: When Your Home Security Decides to Go on Holiday and You're Left Wondering If It Was Worth the Privacy Trade-Off"
-  },
-  {
-    "title": "GPT-5.2 derives a new result in theoretical physics",
-    "url": "https://openai.com/index/new-result-theoretical-physics/",
-    "points": 377,
+    "title": "News publishers limit Internet Archive access due to AI scraping concerns",
+    "url": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
+    "points": 403,
     "num_comments": 259,
     "tags": [
       "story",
-      "author_davidbarker",
-      "story_47006594",
+      "author_ninjagoo",
+      "story_47017138",
       "front_page"
     ],
-    "author": "davidbarker",
-    "created_at": "2026-02-13T19:20:12Z",
-    "aiHeadline": "GPT-5.2: The AI That Just Solved Physics, or Maybe It’s Just Physics envy"
+    "author": "ninjagoo",
+    "created_at": "2026-02-14T18:46:32Z",
+    "aiHeadline": "News publishers are so worried about AI stealing their content that they're blocking the Internet Archive, which is ironically how people will remember them."
+  },
+  {
+    "title": "Zig – io_uring and Grand Central Dispatch std.Io implementations landed",
+    "url": "https://ziglang.org/devlog/2026/#2026-02-13",
+    "points": 346,
+    "num_comments": 261,
+    "tags": [
+      "story",
+      "author_Retro_Dev",
+      "story_47012717"
+    ],
+    "author": "Retro_Dev",
+    "created_at": "2026-02-14T08:22:11Z",
+    "aiHeadline": "Zig adds some cool stuff, and we're all just waiting for the next big update because that's what developers do."
   }
 ]
