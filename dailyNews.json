@@ -1,75 +1,76 @@
 [
   {
-    "title": "uBlock filter list to hide all YouTube Shorts",
-    "url": "https://github.com/i5heu/ublock-hide-yt-shorts/",
-    "points": 608,
-    "num_comments": 193,
+    "title": "EU bans the destruction of unsold apparel, clothing, accessories and footwear",
+    "url": "https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en",
+    "points": 786,
+    "num_comments": 539,
     "tags": [
       "story",
-      "author_i5heu",
-      "story_47016443",
+      "author_giuliomagnifico",
+      "story_47025378",
       "front_page"
     ],
-    "author": "i5heu",
-    "created_at": "2026-02-14T17:36:45Z",
-    "aiHeadline": "Finally, a way to block YouTube Shorts before they block your life!"
+    "author": "giuliomagnifico",
+    "created_at": "2026-02-15T17:10:18Z",
+    "aiHeadline": "EU finally realizes destroying unsold clothes is wasteful, so they're banning it—because clearly, the solution is to make more clothes no one wants to buy."
   },
   {
-    "title": "Ars Technica makes up quotes from Matplotlib maintainer; pulls story",
-    "url": "https://infosec.exchange/@mttaggart/116065340523529645",
-    "points": 535,
-    "num_comments": 6,
+    "title": "Amazon's Ring and Google's Nest reveal the severity of U.S. surveillance state",
+    "url": "https://greenwald.substack.com/p/amazons-ring-and-googles-nest-unwittingly",
+    "points": 702,
+    "num_comments": 526,
     "tags": [
       "story",
-      "author_robin_reala",
-      "story_47013059"
-    ],
-    "author": "robin_reala",
-    "created_at": "2026-02-14T09:28:45Z",
-    "aiHeadline": "Ars Technica proves that making things up is a real skill, and now they're retracting their story for accuracy!"
-  },
-  {
-    "title": "Ooh.directory: a place to find good blogs that interest you",
-    "url": "https://ooh.directory/",
-    "points": 440,
-    "num_comments": 118,
-    "tags": [
-      "story",
-      "author_hisamafahri",
-      "story_47014449",
+      "author_mikece",
+      "story_47023238",
       "front_page"
     ],
-    "author": "hisamafahri",
-    "created_at": "2026-02-14T13:40:20Z",
-    "aiHeadline": "Discover the perfect blog for your niche, because the internet isn't crowded enough yet!"
+    "author": "mikece",
+    "created_at": "2026-02-15T12:42:17Z",
+    "aiHeadline": "Amazon's Ring and Google's Nest are here to prove that your home is now a surveillance state, and you're just too lazy to notice."
   },
   {
-    "title": "News publishers limit Internet Archive access due to AI scraping concerns",
-    "url": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
-    "points": 403,
-    "num_comments": 259,
+    "title": "I fixed Windows native development",
+    "url": "https://marler8997.github.io/blog/fixed-windows/",
+    "points": 672,
+    "num_comments": 327,
     "tags": [
       "story",
-      "author_ninjagoo",
-      "story_47017138",
+      "author_deevus",
+      "story_47022891",
       "front_page"
     ],
-    "author": "ninjagoo",
-    "created_at": "2026-02-14T18:46:32Z",
-    "aiHeadline": "News publishers are so worried about AI stealing their content that they're blocking the Internet Archive, which is ironically how people will remember them."
+    "author": "deevus",
+    "created_at": "2026-02-15T11:25:26Z",
+    "aiHeadline": "Windows native development is 'fixed'—finally, after all these years, someone figured out how to make it slightly less terrible."
   },
   {
-    "title": "Zig – io_uring and Grand Central Dispatch std.Io implementations landed",
-    "url": "https://ziglang.org/devlog/2026/#2026-02-13",
-    "points": 346,
-    "num_comments": 261,
+    "title": "I’m joining OpenAI",
+    "url": "https://steipete.me/posts/2026/openclaw",
+    "points": 559,
+    "num_comments": 428,
     "tags": [
       "story",
-      "author_Retro_Dev",
-      "story_47012717"
+      "author_mfiguiere",
+      "story_47028013",
+      "front_page"
     ],
-    "author": "Retro_Dev",
-    "created_at": "2026-02-14T08:22:11Z",
-    "aiHeadline": "Zig adds some cool stuff, and we're all just waiting for the next big update because that's what developers do."
+    "author": "mfiguiere",
+    "created_at": "2026-02-15T21:54:15Z",
+    "aiHeadline": "I'm joining OpenAI—because who wouldn't want to be part of an organization that's already revolutionized the world of text generation, and also, you know, maybe accidentally end humanity."
+  },
+  {
+    "title": "Oat – Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library",
+    "url": "https://oat.ink/",
+    "points": 470,
+    "num_comments": 122,
+    "tags": [
+      "story",
+      "author_twapi",
+      "story_47021980"
+    ],
+    "author": "twapi",
+    "created_at": "2026-02-15T08:17:05Z",
+    "aiHeadline": "Introducing Oat: the ultra-lightweight, zero-dependency UI library that will finally solve all your problems—unless you're one of those people who actually need dependencies, in which case, good luck."
   }
 ]
