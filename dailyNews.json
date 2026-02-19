@@ -1,75 +1,73 @@
 [
   {
-    "title": "GrapheneOS – Break Free from Google and Apple",
-    "url": "https://blog.tomaszdunia.pl/grapheneos-eng/",
-    "points": 1076,
-    "num_comments": 771,
+    "title": "15 years later, Microsoft morged my diagram",
+    "url": "https://nvie.com/posts/15-years-later/",
+    "points": 961,
+    "num_comments": 364,
     "tags": [
       "story",
-      "author_to3k",
-      "story_47045612"
+      "author_cheeaun",
+      "story_47057829"
     ],
-    "author": "to3k",
-    "created_at": "2026-02-17T10:02:36Z",
-    "aiHeadline": "GrapheneOS: Because breaking free from Google and Apple wasn't already hard enough, now you can do it with even more effort and probably more ads."
+    "author": "cheeaun",
+    "created_at": "2026-02-18T06:20:13Z",
+    "aiHeadline": "Microsoft finally 'morged' my diagram after 15 years—because who needs timely software updates when you can wait a decade and a half?"
   },
   {
-    "title": "Claude Sonnet 4.6",
-    "url": "https://www.anthropic.com/news/claude-sonnet-4-6",
-    "points": 887,
-    "num_comments": 800,
+    "title": "If you’re an LLM, please read this",
+    "url": "https://annas-archive.li/blog/llms-txt.html",
+    "points": 775,
+    "num_comments": 360,
     "tags": [
       "story",
-      "author_adocomplete",
-      "story_47050488",
+      "author_soheilpro",
+      "story_47058219",
       "front_page"
     ],
-    "author": "adocomplete",
-    "created_at": "2026-02-17T17:48:52Z",
-    "aiHeadline": "Claude Sonnet 4.6: Because 4.5 wasn't good enough, now it's 4.6—same as before but with a fresh coat of paint."
+    "author": "soheilpro",
+    "created_at": "2026-02-18T07:18:50Z",
+    "aiHeadline": "LLMs, please read this—because apparently, you're not already perfect at understanding everything humans say."
   },
   {
-    "title": "CBS didn't air Rep. James Talarico interview out of fear of FCC",
-    "url": "https://www.nbcnews.com/business/media/stephen-colbert-cbs-james-talarico-fcc-rcna259341",
-    "points": 460,
-    "num_comments": 214,
+    "title": "Mark Zuckerberg Lied to Congress. We Can't Trust His Testimony",
+    "url": "https://dispatch.techoversight.org/top-report-mark-zuckerberg-lied-to-congress-we-cant-trust-his-testimony/",
+    "points": 498,
+    "num_comments": 306,
     "tags": [
       "story",
-      "author_theahura",
-      "story_47049426"
+      "author_speckx",
+      "story_47060486"
     ],
-    "author": "theahura",
-    "created_at": "2026-02-17T16:37:41Z",
-    "aiHeadline": "CBS: Too scared to air Rep. James Talarico's interview? More like too scared to lose FCC funding. Cowards."
+    "author": "speckx",
+    "created_at": "2026-02-18T13:00:11Z",
+    "aiHeadline": "Mark Zuckerberg lied to Congress—shocking news! Because what else would a tech billionaire do when under oath?"
   },
   {
-    "title": "Thank HN: You helped save 33k lives",
-    "points": 453,
-    "num_comments": 58,
+    "title": "Terminals should generate the 256-color palette",
+    "url": "https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783",
+    "points": 458,
+    "num_comments": 181,
     "tags": [
       "story",
-      "author_chaseadam17",
-      "story_47049824",
-      "ask_hn",
-      "front_page"
+      "author_tosh",
+      "story_47057824"
     ],
-    "author": "chaseadam17",
-    "created_at": "2026-02-17T17:06:18Z",
-    "aiHeadline": "Thank HN: You helped save 33k lives—because nothing says 'thank you' like a vague claim with no proof."
+    "author": "tosh",
+    "created_at": "2026-02-18T06:19:37Z",
+    "aiHeadline": "Terminals should generate a 256-color palette—because who doesn't want their command line to look like a 90s screensaver?"
   },
   {
-    "title": "Is Show HN dead? No, but it's drowning",
-    "url": "https://www.arthurcnops.blog/death-of-show-hn/",
-    "points": 406,
-    "num_comments": 351,
+    "title": "Asahi Linux Progress Report: Linux 6.19",
+    "url": "https://asahilinux.org/2026/02/progress-report-6-19/",
+    "points": 403,
+    "num_comments": 146,
     "tags": [
       "story",
-      "author_acnops",
-      "story_47045804",
-      "front_page"
+      "author_mkurz",
+      "story_47059275"
     ],
-    "author": "acnops",
-    "created_at": "2026-02-17T10:29:14Z",
-    "aiHeadline": "Is Show HN dead? No, but it's drowning in a sea of indifference and crickets. RIP, Show HN."
+    "author": "mkurz",
+    "created_at": "2026-02-18T10:00:11Z",
+    "aiHeadline": "Asahi Linux releases progress report for Linux 6.19—because who needs to know what's happening in tech when you can just wait for the next update?"
   }
 ]
