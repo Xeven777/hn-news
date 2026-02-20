@@ -1,73 +1,76 @@
 [
   {
-    "title": "15 years later, Microsoft morged my diagram",
-    "url": "https://nvie.com/posts/15-years-later/",
-    "points": 961,
-    "num_comments": 364,
+    "title": "Anthropic officially bans using subscription auth for third party use",
+    "url": "https://code.claude.com/docs/en/legal-and-compliance",
+    "points": 617,
+    "num_comments": 739,
     "tags": [
       "story",
-      "author_cheeaun",
-      "story_47057829"
+      "author_theahura",
+      "story_47069299"
     ],
-    "author": "cheeaun",
-    "created_at": "2026-02-18T06:20:13Z",
-    "aiHeadline": "Microsoft finally 'morged' my diagram after 15 years—because who needs timely software updates when you can wait a decade and a half?"
+    "author": "theahura",
+    "created_at": "2026-02-19T02:52:26Z",
+    "aiHeadline": "Anthropic pulls the plug on third-party subscriptions, because who needs another layer of bureaucracy in their life? Now you can't even borrow someone else's subscription to get a subscription."
   },
   {
-    "title": "If you’re an LLM, please read this",
-    "url": "https://annas-archive.li/blog/llms-txt.html",
-    "points": 775,
-    "num_comments": 360,
+    "title": "Gemini 3.1 Pro",
+    "url": "https://deepmind.google/models/model-cards/gemini-3-1-pro/",
+    "points": 600,
+    "num_comments": 8,
     "tags": [
       "story",
-      "author_soheilpro",
-      "story_47058219",
-      "front_page"
+      "author_PunchTornado",
+      "story_47075318"
     ],
-    "author": "soheilpro",
-    "created_at": "2026-02-18T07:18:50Z",
-    "aiHeadline": "LLMs, please read this—because apparently, you're not already perfect at understanding everything humans say."
+    "author": "PunchTornado",
+    "created_at": "2026-02-19T16:14:07Z",
+    "aiHeadline": "Gemini 3.1 Pro drops, and everyone's confused because there are two different Gemini 3.1 Pro announcements. Which one is real? Probably the one that makes you feel inadequate about your own intelligence."
   },
   {
-    "title": "Mark Zuckerberg Lied to Congress. We Can't Trust His Testimony",
-    "url": "https://dispatch.techoversight.org/top-report-mark-zuckerberg-lied-to-congress-we-cant-trust-his-testimony/",
-    "points": 498,
+    "title": "AI makes you boring",
+    "url": "https://www.marginalia.nu/log/a_132_ai_bores/",
+    "points": 548,
     "num_comments": 306,
     "tags": [
       "story",
       "author_speckx",
-      "story_47060486"
+      "story_47076966",
+      "front_page"
     ],
     "author": "speckx",
-    "created_at": "2026-02-18T13:00:11Z",
-    "aiHeadline": "Mark Zuckerberg lied to Congress—shocking news! Because what else would a tech billionaire do when under oath?"
+    "created_at": "2026-02-19T18:12:16Z",
+    "aiHeadline": "AI makes you boring? No, AI is just the latest excuse for people to blame technology for their own lack of creativity. Meanwhile, AI is out there making everyone else boring too. Thanks, AI!"
   },
   {
-    "title": "Terminals should generate the 256-color palette",
-    "url": "https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783",
+    "title": "Gemini 3.1 Pro",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
+    "points": 543,
+    "num_comments": 706,
+    "tags": [
+      "story",
+      "author_MallocVoidstar",
+      "story_47074735",
+      "front_page"
+    ],
+    "author": "MallocVoidstar",
+    "created_at": "2026-02-19T15:19:57Z",
+    "aiHeadline": "Gemini 3.1 Pro is back in the news, and honestly, we're all just here for the free snacks and the chance to say 'I told you so.'"
+  },
+  {
+    "title": "Show HN: Micasa – track your house from the terminal",
+    "url": "https://micasa.dev",
     "points": 458,
-    "num_comments": 181,
+    "num_comments": 148,
     "tags": [
       "story",
-      "author_tosh",
-      "story_47057824"
+      "author_cpcloud",
+      "story_47075124",
+      "show_hn",
+      "front_page"
     ],
-    "author": "tosh",
-    "created_at": "2026-02-18T06:19:37Z",
-    "aiHeadline": "Terminals should generate a 256-color palette—because who doesn't want their command line to look like a 90s screensaver?"
-  },
-  {
-    "title": "Asahi Linux Progress Report: Linux 6.19",
-    "url": "https://asahilinux.org/2026/02/progress-report-6-19/",
-    "points": 403,
-    "num_comments": 146,
-    "tags": [
-      "story",
-      "author_mkurz",
-      "story_47059275"
-    ],
-    "author": "mkurz",
-    "created_at": "2026-02-18T10:00:11Z",
-    "aiHeadline": "Asahi Linux releases progress report for Linux 6.19—because who needs to know what's happening in tech when you can just wait for the next update?"
+    "author": "cpcloud",
+    "created_at": "2026-02-19T15:54:14Z",
+    "aiHeadline": "Show HN: Micasa lets you track your house from the terminal. Because who needs a smartphone when you can just type commands into a black-and-white interface? Now your house can be as exciting as your terminal."
   }
 ]
