@@ -1,76 +1,76 @@
 [
   {
-    "title": "Anthropic officially bans using subscription auth for third party use",
-    "url": "https://code.claude.com/docs/en/legal-and-compliance",
-    "points": 617,
-    "num_comments": 739,
+    "title": "Trump's global tariffs struck down by US Supreme Court",
+    "url": "https://www.bbc.com/news/live/c0l9r67drg7t",
+    "points": 1245,
+    "num_comments": 1013,
     "tags": [
       "story",
-      "author_theahura",
-      "story_47069299"
-    ],
-    "author": "theahura",
-    "created_at": "2026-02-19T02:52:26Z",
-    "aiHeadline": "Anthropic pulls the plug on third-party subscriptions, because who needs another layer of bureaucracy in their life? Now you can't even borrow someone else's subscription to get a subscription."
-  },
-  {
-    "title": "Gemini 3.1 Pro",
-    "url": "https://deepmind.google/models/model-cards/gemini-3-1-pro/",
-    "points": 600,
-    "num_comments": 8,
-    "tags": [
-      "story",
-      "author_PunchTornado",
-      "story_47075318"
-    ],
-    "author": "PunchTornado",
-    "created_at": "2026-02-19T16:14:07Z",
-    "aiHeadline": "Gemini 3.1 Pro drops, and everyone's confused because there are two different Gemini 3.1 Pro announcements. Which one is real? Probably the one that makes you feel inadequate about your own intelligence."
-  },
-  {
-    "title": "AI makes you boring",
-    "url": "https://www.marginalia.nu/log/a_132_ai_bores/",
-    "points": 548,
-    "num_comments": 306,
-    "tags": [
-      "story",
-      "author_speckx",
-      "story_47076966",
+      "author_blackguardx",
+      "story_47089213",
       "front_page"
     ],
-    "author": "speckx",
-    "created_at": "2026-02-19T18:12:16Z",
-    "aiHeadline": "AI makes you boring? No, AI is just the latest excuse for people to blame technology for their own lack of creativity. Meanwhile, AI is out there making everyone else boring too. Thanks, AI!"
+    "author": "blackguardx",
+    "created_at": "2026-02-20T15:27:38Z",
+    "aiHeadline": "Global trade just got a breath of fresh air as the US Supreme Court finally tells Trump his tariffs are as welcome as a punch to the face."
   },
   {
-    "title": "Gemini 3.1 Pro",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
-    "points": 543,
-    "num_comments": 706,
+    "title": "Keep Android Open",
+    "url": "https://f-droid.org/2026/02/20/twif.html",
+    "points": 1090,
+    "num_comments": 421,
     "tags": [
       "story",
-      "author_MallocVoidstar",
-      "story_47074735",
+      "author_LorenDB",
+      "story_47091419",
       "front_page"
     ],
-    "author": "MallocVoidstar",
-    "created_at": "2026-02-19T15:19:57Z",
-    "aiHeadline": "Gemini 3.1 Pro is back in the news, and honestly, we're all just here for the free snacks and the chance to say 'I told you so.'"
+    "author": "LorenDB",
+    "created_at": "2026-02-20T17:58:51Z",
+    "aiHeadline": "Android's open-source roots get a much-needed shot in the arm as developers remind Google that walled gardens are for vegetables, not software."
   },
   {
-    "title": "Show HN: Micasa – track your house from the terminal",
-    "url": "https://micasa.dev",
-    "points": 458,
-    "num_comments": 148,
+    "title": "Facebook is cooked",
+    "url": "https://pilk.website/3/facebook-is-absolutely-cooked",
+    "points": 737,
+    "num_comments": 436,
     "tags": [
       "story",
-      "author_cpcloud",
-      "story_47075124",
-      "show_hn",
+      "author_npilk",
+      "story_47091748",
       "front_page"
     ],
-    "author": "cpcloud",
-    "created_at": "2026-02-19T15:54:14Z",
-    "aiHeadline": "Show HN: Micasa lets you track your house from the terminal. Because who needs a smartphone when you can just type commands into a black-and-white interface? Now your house can be as exciting as your terminal."
+    "author": "npilk",
+    "created_at": "2026-02-20T18:25:07Z",
+    "aiHeadline": "Facebook's latest crisis? It's so cooked that even Mark Zuckerberg's PR team can't salvage it this time."
+  },
+  {
+    "title": "I tried building my startup entirely on European infrastructure",
+    "url": "https://www.coinerella.com/made-in-eu-it-was-harder-than-i-thought/",
+    "points": 688,
+    "num_comments": 356,
+    "tags": [
+      "story",
+      "author_willy__",
+      "story_47085483"
+    ],
+    "author": "willy__",
+    "created_at": "2026-02-20T09:02:05Z",
+    "aiHeadline": "Building a startup in Europe? It's like trying to assemble a puzzle in a hurricane—possible, but why would you?"
+  },
+  {
+    "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
+    "url": "https://github.com/ggml-org/llama.cpp/discussions/19759",
+    "points": 669,
+    "num_comments": 166,
+    "tags": [
+      "story",
+      "author_lairv",
+      "story_47088037",
+      "front_page"
+    ],
+    "author": "lairv",
+    "created_at": "2026-02-20T13:51:04Z",
+    "aiHeadline": "AI's future just got a major upgrade as Ggml.ai teams up with Hugging Face, proving that even in the AI race, teamwork still matters."
   }
 ]
