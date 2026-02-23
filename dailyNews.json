@@ -1,75 +1,76 @@
 [
   {
-    "title": "I verified my LinkedIn identity. Here's what I handed over",
-    "url": "https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/",
-    "points": 1180,
-    "num_comments": 410,
+    "title": "Japanese Woodblock Print Search",
+    "url": "https://ukiyo-e.org/",
+    "points": 151,
+    "num_comments": 24,
     "tags": [
       "story",
-      "author_ColinWright",
-      "story_47098245",
+      "author_curmudgeon22",
+      "story_47107781",
       "front_page"
     ],
-    "author": "ColinWright",
-    "created_at": "2026-02-21T07:06:18Z",
-    "aiHeadline": "1: LinkedIn's Identity Verification: Because handing over your soul wasn't enough, now they want your firstborn."
+    "author": "curmudgeon22",
+    "created_at": "2026-02-22T03:18:36Z",
+    "aiHeadline": "Finally, a way to waste your entire day searching for Japanese woodblock prints that no one cares about."
   },
   {
-    "title": "What not to write on your security clearance form (1988)",
-    "url": "https://milk.com/wall-o-shame/security_clearance.html",
-    "points": 384,
-    "num_comments": 170,
+    "title": "Attention Media ≠ Social Networks",
+    "url": "https://susam.net/attention-media-vs-social-networks.html",
+    "points": 150,
+    "num_comments": 59,
     "tags": [
       "story",
-      "author_wizardforhire",
-      "story_47102576",
+      "author_susam",
+      "story_47110515",
       "front_page"
     ],
-    "author": "wizardforhire",
-    "created_at": "2026-02-21T17:08:12Z",
-    "aiHeadline": "2: Security Clearance Form Fails: Because who doesn't want to admit to eating Tide Pods in 1988?"
+    "author": "susam",
+    "created_at": "2026-02-22T12:36:46Z",
+    "aiHeadline": "Because clearly, social networks are the pinnacle of human achievement and not just a distraction from actual productivity."
   },
   {
-    "title": "Why is Claude an Electron app?",
-    "url": "https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html",
-    "points": 338,
-    "num_comments": 310,
+    "title": "Back to FreeBSD: Part 1",
+    "url": "https://hypha.pub/back-to-freebsd-part-1",
+    "points": 125,
+    "num_comments": 50,
     "tags": [
       "story",
-      "author_dbreunig",
-      "story_47104973"
-    ],
-    "author": "dbreunig",
-    "created_at": "2026-02-21T21:28:13Z",
-    "aiHeadline": "3: Claude the Electron App: Because who needs speed when you can have a slow, resource-hungry app that makes your computer cry?"
-  },
-  {
-    "title": "Andrej Karpathy talks about \"Claws\"",
-    "url": "https://simonwillison.net/2026/Feb/21/claws/",
-    "points": 273,
-    "num_comments": 65,
-    "tags": [
-      "story",
-      "author_helloplanets",
-      "story_47099160"
-    ],
-    "author": "helloplanets",
-    "created_at": "2026-02-21T09:53:15Z",
-    "aiHeadline": "4: Andrej Karpathy Talks 'Claws': Because every tech bro needs a side project that sounds like a failed Broadway musical."
-  },
-  {
-    "title": "AI uBlock Blacklist",
-    "url": "https://github.com/alvi-se/ai-ublock-blacklist",
-    "points": 223,
-    "num_comments": 100,
-    "tags": [
-      "story",
-      "author_rdmuser",
-      "story_47098582",
+      "author_enz",
+      "story_47108989",
       "front_page"
     ],
-    "author": "rdmuser",
-    "created_at": "2026-02-21T08:10:49Z",
-    "aiHeadline": "5: AI uBlock Blacklist: Because the internet is just a cesspool of ads, and now AI is here to make it even more confusing."
+    "author": "enz",
+    "created_at": "2026-02-22T07:16:27Z",
+    "aiHeadline": "Because who doesn't love spending hours troubleshooting a system that's literally older than most of the people using it?"
+  },
+  {
+    "title": "Palantir's secret weapon isn't AI – it's Ontology. An open-source deep dive",
+    "url": "https://github.com/Leading-AI-IO/palantir-ontology-strategy",
+    "points": 76,
+    "num_comments": 47,
+    "tags": [
+      "story",
+      "author_leading-AI",
+      "story_47107512"
+    ],
+    "author": "leading-AI",
+    "created_at": "2026-02-22T02:29:06Z",
+    "aiHeadline": "Because clearly, the future of tech is in ontologies, not AI, and you're just here to feel inadequate about your lack of knowledge."
+  },
+  {
+    "title": "What Is a Database Transaction?",
+    "url": "https://planetscale.com/blog/database-transactions",
+    "points": 68,
+    "num_comments": 12,
+    "tags": [
+      "story",
+      "author_0x54MUR41",
+      "story_47110473",
+      "front_page"
+    ],
+    "author": "0x54MUR41",
+    "created_at": "2026-02-22T12:28:41Z",
+    "aiHeadline": "Because clearly, you've been living under a rock and have no idea what a database transaction is, so here's your chance to catch up with the rest of the world."
   }
 ]
