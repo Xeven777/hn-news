@@ -1,76 +1,75 @@
 [
   {
-    "title": "Japanese Woodblock Print Search",
-    "url": "https://ukiyo-e.org/",
-    "points": 151,
-    "num_comments": 24,
+    "title": "The Age Verification Trap: Verifying age undermines everyone's data protection",
+    "url": "https://spectrum.ieee.org/age-verification",
+    "points": 1217,
+    "num_comments": 972,
     "tags": [
       "story",
-      "author_curmudgeon22",
-      "story_47107781",
+      "author_oldnetguy",
+      "story_47122715",
       "front_page"
     ],
-    "author": "curmudgeon22",
-    "created_at": "2026-02-22T03:18:36Z",
-    "aiHeadline": "Finally, a way to waste your entire day searching for Japanese woodblock prints that no one cares about."
+    "author": "oldnetguy",
+    "created_at": "2026-02-23T14:22:39Z",
+    "aiHeadline": "Age Verification: The New Way to Spy on You and Ruin Your Privacy."
   },
   {
-    "title": "Attention Media ≠ Social Networks",
-    "url": "https://susam.net/attention-media-vs-social-networks.html",
-    "points": 150,
-    "num_comments": 59,
+    "title": "Ladybird adopts Rust",
+    "url": "https://ladybird.org/posts/adopting-rust/",
+    "points": 1081,
+    "num_comments": 594,
     "tags": [
       "story",
-      "author_susam",
-      "story_47110515",
+      "author_adius",
+      "story_47120899",
       "front_page"
     ],
-    "author": "susam",
-    "created_at": "2026-02-22T12:36:46Z",
-    "aiHeadline": "Because clearly, social networks are the pinnacle of human achievement and not just a distraction from actual productivity."
+    "author": "adius",
+    "created_at": "2026-02-23T11:29:22Z",
+    "aiHeadline": "Ladybird Finally Joins the 21st Century by Adopting Rust, Making Their Code 10% Less Likely to Crash."
   },
   {
-    "title": "Back to FreeBSD: Part 1",
-    "url": "https://hypha.pub/back-to-freebsd-part-1",
-    "points": 125,
-    "num_comments": 50,
+    "title": "Americans are destroying Flock surveillance cameras",
+    "url": "https://techcrunch.com/2026/02/23/americans-are-destroying-flock-surveillance-cameras/",
+    "points": 592,
+    "num_comments": 400,
     "tags": [
       "story",
-      "author_enz",
-      "story_47108989",
+      "author_mikece",
+      "story_47127081"
+    ],
+    "author": "mikece",
+    "created_at": "2026-02-23T19:04:34Z",
+    "aiHeadline": "Americans Take Down Surveillance Cameras, Proving They’re Either Privacy Advocates or Just Vandalists."
+  },
+  {
+    "title": "Elsevier shuts down its finance journal citation cartel",
+    "url": "https://www.chrisbrunet.com/p/elsevier-shuts-down-its-finance-journal",
+    "points": 532,
+    "num_comments": 95,
+    "tags": [
+      "story",
+      "author_qsi",
+      "story_47119530",
       "front_page"
     ],
-    "author": "enz",
-    "created_at": "2026-02-22T07:16:27Z",
-    "aiHeadline": "Because who doesn't love spending hours troubleshooting a system that's literally older than most of the people using it?"
+    "author": "qsi",
+    "created_at": "2026-02-23T08:22:34Z",
+    "aiHeadline": "Elsevier Shuts Down Citation Cartel, Because Apparently Even They Think It’s Shady."
   },
   {
-    "title": "Palantir's secret weapon isn't AI – it's Ontology. An open-source deep dive",
-    "url": "https://github.com/Leading-AI-IO/palantir-ontology-strategy",
-    "points": 76,
-    "num_comments": 47,
+    "title": "Pope tells priests to use their brains, not AI, to write homilies",
+    "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies",
+    "points": 527,
+    "num_comments": 417,
     "tags": [
       "story",
-      "author_leading-AI",
-      "story_47107512"
+      "author_josephcsible",
+      "story_47119210"
     ],
-    "author": "leading-AI",
-    "created_at": "2026-02-22T02:29:06Z",
-    "aiHeadline": "Because clearly, the future of tech is in ontologies, not AI, and you're just here to feel inadequate about your lack of knowledge."
-  },
-  {
-    "title": "What Is a Database Transaction?",
-    "url": "https://planetscale.com/blog/database-transactions",
-    "points": 68,
-    "num_comments": 12,
-    "tags": [
-      "story",
-      "author_0x54MUR41",
-      "story_47110473",
-      "front_page"
-    ],
-    "author": "0x54MUR41",
-    "created_at": "2026-02-22T12:28:41Z",
-    "aiHeadline": "Because clearly, you've been living under a rock and have no idea what a database transaction is, so here's your chance to catch up with the rest of the world."
+    "author": "josephcsible",
+    "created_at": "2026-02-23T07:33:57Z",
+    "aiHeadline": "Pope: Priests, Stop Using AI for Homilies, Start Using Your Brain, or at Least a Good Theology Book."
   }
 ]
