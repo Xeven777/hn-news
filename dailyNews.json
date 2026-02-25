@@ -1,75 +1,75 @@
 [
   {
-    "title": "The Age Verification Trap: Verifying age undermines everyone's data protection",
-    "url": "https://spectrum.ieee.org/age-verification",
-    "points": 1217,
-    "num_comments": 972,
+    "title": "IDF killed Gaza aid workers at point blank range in 2025 massacre: Report",
+    "url": "https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot",
+    "points": 1325,
+    "num_comments": 522,
     "tags": [
       "story",
-      "author_oldnetguy",
-      "story_47122715",
+      "author_Qem",
+      "story_47136179",
       "front_page"
     ],
-    "author": "oldnetguy",
-    "created_at": "2026-02-23T14:22:39Z",
-    "aiHeadline": "Age Verification: The New Way to Spy on You and Ruin Your Privacy."
+    "author": "Qem",
+    "created_at": "2026-02-24T12:16:45Z",
+    "aiHeadline": "IDF 'peacekeepers' show their commitment to humanitarian aid by murdering aid workers at point-blank range in Gaza—because nothing says 'help' like a bullet to the head."
   },
   {
-    "title": "Ladybird adopts Rust",
-    "url": "https://ladybird.org/posts/adopting-rust/",
-    "points": 1081,
-    "num_comments": 594,
+    "title": "I'm helping my dog vibe code games",
+    "url": "https://www.calebleak.com/posts/dog-game/",
+    "points": 648,
+    "num_comments": 191,
     "tags": [
       "story",
-      "author_adius",
-      "story_47120899",
+      "author_cleak",
+      "story_47139675",
       "front_page"
     ],
-    "author": "adius",
-    "created_at": "2026-02-23T11:29:22Z",
-    "aiHeadline": "Ladybird Finally Joins the 21st Century by Adopting Rust, Making Their Code 10% Less Likely to Crash."
+    "author": "cleak",
+    "created_at": "2026-02-24T17:15:17Z",
+    "aiHeadline": "Meet the world's first dog-coded game developer—because why have a pet when you can have a co-worker who fetches snacks and writes code?"
   },
   {
-    "title": "Americans are destroying Flock surveillance cameras",
-    "url": "https://techcrunch.com/2026/02/23/americans-are-destroying-flock-surveillance-cameras/",
-    "points": 592,
-    "num_comments": 400,
+    "title": "OpenAI, the US government and Persona built an identity surveillance machine",
+    "url": "https://vmfunc.re/blog/persona/",
+    "points": 455,
+    "num_comments": 145,
     "tags": [
       "story",
-      "author_mikece",
-      "story_47127081"
-    ],
-    "author": "mikece",
-    "created_at": "2026-02-23T19:04:34Z",
-    "aiHeadline": "Americans Take Down Surveillance Cameras, Proving They’re Either Privacy Advocates or Just Vandalists."
-  },
-  {
-    "title": "Elsevier shuts down its finance journal citation cartel",
-    "url": "https://www.chrisbrunet.com/p/elsevier-shuts-down-its-finance-journal",
-    "points": 532,
-    "num_comments": 95,
-    "tags": [
-      "story",
-      "author_qsi",
-      "story_47119530",
+      "author_rzk",
+      "story_47140632",
       "front_page"
     ],
-    "author": "qsi",
-    "created_at": "2026-02-23T08:22:34Z",
-    "aiHeadline": "Elsevier Shuts Down Citation Cartel, Because Apparently Even They Think It’s Shady."
+    "author": "rzk",
+    "created_at": "2026-02-24T18:23:03Z",
+    "aiHeadline": "OpenAI, the US government, and Persona team up to create the ultimate identity surveillance machine—because nothing says 'privacy' like a dystopian nightmare."
   },
   {
-    "title": "Pope tells priests to use their brains, not AI, to write homilies",
-    "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies",
-    "points": 527,
-    "num_comments": 417,
+    "title": "Firefox 148 Launches with AI Kill Switch Feature and More Enhancements",
+    "url": "https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/",
+    "points": 448,
+    "num_comments": 378,
     "tags": [
       "story",
-      "author_josephcsible",
-      "story_47119210"
+      "author_shaunpud",
+      "story_47133313"
     ],
-    "author": "josephcsible",
-    "created_at": "2026-02-23T07:33:57Z",
-    "aiHeadline": "Pope: Priests, Stop Using AI for Homilies, Start Using Your Brain, or at Least a Good Theology Book."
+    "author": "shaunpud",
+    "created_at": "2026-02-24T05:47:23Z",
+    "aiHeadline": "Firefox 148: Now with an AI kill switch because clearly, the only thing standing between us and an AI apocalypse is a browser update."
+  },
+  {
+    "title": "Blood test boosts Alzheimer's diagnosis accuracy to 94.5%, clinical study shows",
+    "url": "https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html",
+    "points": 425,
+    "num_comments": 163,
+    "tags": [
+      "story",
+      "author_wglb",
+      "story_47132388"
+    ],
+    "author": "wglb",
+    "created_at": "2026-02-24T03:10:16Z",
+    "aiHeadline": "Blood test finally gets Alzheimer's diagnosis right 94.5% of the time—because it's about time science figured out something useful."
   }
 ]
