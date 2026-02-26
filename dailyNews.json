@@ -1,75 +1,74 @@
 [
   {
-    "title": "IDF killed Gaza aid workers at point blank range in 2025 massacre: Report",
-    "url": "https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot",
-    "points": 1325,
-    "num_comments": 522,
+    "title": "Danish government agency to ditch Microsoft software (2025)",
+    "url": "https://therecord.media/denmark-digital-agency-microsoft-digital-independence",
+    "points": 746,
+    "num_comments": 371,
     "tags": [
       "story",
-      "author_Qem",
-      "story_47136179",
+      "author_robtherobber",
+      "story_47149701"
+    ],
+    "author": "robtherobber",
+    "created_at": "2026-02-25T10:16:22Z",
+    "aiHeadline": "Danish Agency Breaks Up with Microsoft, Chooses Open Source Over Redmond"
+  },
+  {
+    "title": "Never buy a .online domain",
+    "url": "https://www.0xsid.com/blog/online-tld-is-pain",
+    "points": 671,
+    "num_comments": 416,
+    "tags": [
+      "story",
+      "author_ssiddharth",
+      "story_47151233",
       "front_page"
     ],
-    "author": "Qem",
-    "created_at": "2026-02-24T12:16:45Z",
-    "aiHeadline": "IDF 'peacekeepers' show their commitment to humanitarian aid by murdering aid workers at point-blank range in Gaza—because nothing says 'help' like a bullet to the head."
+    "author": "ssiddharth",
+    "created_at": "2026-02-25T13:31:17Z",
+    "aiHeadline": "Avoid .online Domains at All Costs: A Guide to Not Making the Worst Decision Ever"
   },
   {
-    "title": "I'm helping my dog vibe code games",
-    "url": "https://www.calebleak.com/posts/dog-game/",
-    "points": 648,
-    "num_comments": 191,
+    "title": "New accounts on HN more likely to use em-dashes",
+    "url": "https://www.marginalia.nu/weird-ai-crap/hn/",
+    "points": 608,
+    "num_comments": 509,
     "tags": [
       "story",
-      "author_cleak",
-      "story_47139675",
+      "author_todsacerdoti",
+      "story_47152085",
       "front_page"
     ],
-    "author": "cleak",
-    "created_at": "2026-02-24T17:15:17Z",
-    "aiHeadline": "Meet the world's first dog-coded game developer—because why have a pet when you can have a co-worker who fetches snacks and writes code?"
+    "author": "todsacerdoti",
+    "created_at": "2026-02-25T14:37:21Z",
+    "aiHeadline": "New HN Users Are Basically Em-Dash Enthusiasts Now, Apparently"
   },
   {
-    "title": "OpenAI, the US government and Persona built an identity surveillance machine",
-    "url": "https://vmfunc.re/blog/persona/",
-    "points": 455,
-    "num_comments": 145,
+    "title": "Claude Code Remote Control",
+    "url": "https://code.claude.com/docs/en/remote-control",
+    "points": 504,
+    "num_comments": 289,
     "tags": [
       "story",
-      "author_rzk",
-      "story_47140632",
-      "front_page"
+      "author_empressplay",
+      "story_47148454"
     ],
-    "author": "rzk",
-    "created_at": "2026-02-24T18:23:03Z",
-    "aiHeadline": "OpenAI, the US government, and Persona team up to create the ultimate identity surveillance machine—because nothing says 'privacy' like a dystopian nightmare."
+    "author": "empressplay",
+    "created_at": "2026-02-25T07:22:56Z",
+    "aiHeadline": "Claude Code Remote Control: Now You Can Control Your Code Like a Pro from Afar"
   },
   {
-    "title": "Firefox 148 Launches with AI Kill Switch Feature and More Enhancements",
-    "url": "https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/",
-    "points": 448,
-    "num_comments": 378,
+    "title": "US orders diplomats to fight data sovereignty initiatives",
+    "url": "https://www.reuters.com/sustainability/boards-policy-regulation/us-orders-diplomats-fight-data-sovereignty-initiatives-2026-02-25/",
+    "points": 453,
+    "num_comments": 386,
     "tags": [
       "story",
-      "author_shaunpud",
-      "story_47133313"
+      "author_colinhb",
+      "story_47152252"
     ],
-    "author": "shaunpud",
-    "created_at": "2026-02-24T05:47:23Z",
-    "aiHeadline": "Firefox 148: Now with an AI kill switch because clearly, the only thing standing between us and an AI apocalypse is a browser update."
-  },
-  {
-    "title": "Blood test boosts Alzheimer's diagnosis accuracy to 94.5%, clinical study shows",
-    "url": "https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html",
-    "points": 425,
-    "num_comments": 163,
-    "tags": [
-      "story",
-      "author_wglb",
-      "story_47132388"
-    ],
-    "author": "wglb",
-    "created_at": "2026-02-24T03:10:16Z",
-    "aiHeadline": "Blood test finally gets Alzheimer's diagnosis right 94.5% of the time—because it's about time science figured out something useful."
+    "author": "colinhb",
+    "created_at": "2026-02-25T14:48:17Z",
+    "aiHeadline": "US Diplomats Take on Data Sovereignty: It's Basically a Global Tech Battle Royale"
   }
 ]
