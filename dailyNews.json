@@ -1,75 +1,75 @@
 [
   {
-    "title": "Statement from Dario Amodei on Our Discussions with the Department of War",
-    "url": "https://www.anthropic.com/news/statement-department-of-war",
-    "points": 904,
-    "num_comments": 502,
+    "title": "I am directing the Department of War to designate Anthropic a supply-chain risk",
+    "url": "https://twitter.com/secwar/status/2027507717469049070",
+    "points": 1042,
+    "num_comments": 871,
     "tags": [
       "story",
-      "author_qwertox",
-      "story_47173121",
+      "author_jacobedawson",
+      "story_47186677",
       "front_page"
     ],
-    "author": "qwertox",
-    "created_at": "2026-02-26T22:42:47Z",
-    "aiHeadline": "Dario Amodei gives a heartfelt 'we're talking to the Department of War' update, because who doesn't want their AI safety discussions to sound like a war council?"
+    "author": "jacobedawson",
+    "created_at": "2026-02-27T22:31:18Z",
+    "aiHeadline": "The Department of War is now treating Anthropic like a potential threat, because apparently their AI models are 'too good' and might be used for... something. Who knows? Maybe world domination? Or just better customer service."
   },
   {
-    "title": "Tell HN: YC companies scrape GitHub activity, send spam emails to users",
-    "points": 599,
-    "num_comments": 224,
+    "title": "The Hunt for Dark Breakfast",
+    "url": "https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/",
+    "points": 520,
+    "num_comments": 178,
     "tags": [
       "story",
-      "author_miki123211",
-      "story_47163885",
-      "ask_hn"
+      "author_moultano",
+      "story_47176257"
     ],
-    "author": "miki123211",
-    "created_at": "2026-02-26T09:35:08Z",
-    "aiHeadline": "YC startups are now scraping GitHub for activity and spamming users—because what better way to 'build something that matters' than to be the new spam kings of the internet?"
+    "author": "moultano",
+    "created_at": "2026-02-27T03:49:48Z",
+    "aiHeadline": "The Hunt for Dark Breakfast: Because apparently, breakfast is now so dark, even the NSA couldn't find it. Who knew scrambled eggs could be this elusive?"
   },
   {
-    "title": "Anthropic ditches its core safety promise",
-    "url": "https://www.cnn.com/2026/02/25/tech/anthropic-safety-policy-change",
-    "points": 547,
-    "num_comments": 3,
+    "title": "Court finds Fourth Amendment doesn’t support broad search of protesters’ devices",
+    "url": "https://www.eff.org/deeplinks/2026/02/victory-tenth-circuit-finds-fourth-amendment-doesnt-support-broad-search-0",
+    "points": 512,
+    "num_comments": 92,
     "tags": [
       "story",
-      "author_motbus3",
-      "story_47165397"
-    ],
-    "author": "motbus3",
-    "created_at": "2026-02-26T12:52:50Z",
-    "aiHeadline": "Anthropic throws its core safety promise out the window, proving once again that when it comes to AI, 'safety' is just a word until someone decides it's not worth the effort."
-  },
-  {
-    "title": "Nano Banana 2: Google's latest AI image generation model",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
-    "points": 494,
-    "num_comments": 474,
-    "tags": [
-      "story",
-      "author_davidbarker",
-      "story_47167858",
+      "author_hn_acker",
+      "story_47181391",
       "front_page"
     ],
-    "author": "davidbarker",
-    "created_at": "2026-02-26T16:02:37Z",
-    "aiHeadline": "Google introduces Nano Banana 2, the latest AI image generation model—because clearly, the world needs another AI that can draw bananas, but this time, they're nano-sized!"
+    "author": "hn_acker",
+    "created_at": "2026-02-27T15:09:04Z",
+    "aiHeadline": "Court rules that the Fourth Amendment still matters, even when it comes to protesters' devices. Spoiler alert: the government can't just waltz in and search everyone's phones because they're mad about a protest. Shocking, right?"
   },
   {
-    "title": "Layoffs at Block",
-    "url": "https://twitter.com/jack/status/2027129697092731343",
-    "points": 469,
-    "num_comments": 460,
+    "title": "Get free Claude max 20x for open-source maintainers",
+    "url": "https://claude.com/contact-sales/claude-for-oss",
+    "points": 445,
+    "num_comments": 200,
     "tags": [
       "story",
-      "author_mlex",
-      "story_47172119",
+      "author_zhisme",
+      "story_47178371",
       "front_page"
     ],
-    "author": "mlex",
-    "created_at": "2026-02-26T21:17:56Z",
-    "aiHeadline": "Block lays off employees, proving that even in the age of AI and automation, the best way to 'cut costs' is still the old-fashioned method of laying off people—because innovation has its limits, apparently."
+    "author": "zhisme",
+    "created_at": "2026-02-27T09:08:58Z",
+    "aiHeadline": "Get free Claude access (max 20x) for open-source maintainers: Because who doesn't love getting something for free, especially when it's for doing something you already love? Now you can code and chat with AI all day long. What could possibly go wrong?"
+  },
+  {
+    "title": "Dan Simmons, author of Hyperion, has died",
+    "url": "https://www.dignitymemorial.com/obituaries/longmont-co/daniel-simmons-12758871",
+    "points": 425,
+    "num_comments": 188,
+    "tags": [
+      "story",
+      "author_throw0101a",
+      "story_47183578"
+    ],
+    "author": "throw0101a",
+    "created_at": "2026-02-27T18:13:39Z",
+    "aiHeadline": "Dan Simmons, author of Hyperion, has died: The sci-fi world has lost one of its greatest storytellers. His work will continue to inspire and terrify readers for generations to come. Rest in peace, Dan."
   }
 ]
