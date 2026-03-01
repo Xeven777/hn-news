@@ -1,75 +1,73 @@
 [
   {
-    "title": "I am directing the Department of War to designate Anthropic a supply-chain risk",
-    "url": "https://twitter.com/secwar/status/2027507717469049070",
-    "points": 1042,
-    "num_comments": 871,
+    "title": "OpenAI – How to delete your account",
+    "url": "https://help.openai.com/en/articles/6378407-how-to-delete-your-account",
+    "points": 1818,
+    "num_comments": 344,
     "tags": [
       "story",
-      "author_jacobedawson",
-      "story_47186677",
+      "author_carlosrg",
+      "story_47193478"
+    ],
+    "author": "carlosrg",
+    "created_at": "2026-02-28T10:41:55Z",
+    "aiHeadline": "OpenAI finally makes it easier to delete your account, because who doesn't want to leave their digital soul behind?"
+  },
+  {
+    "title": "OpenAI agrees with Dept. of War to deploy models in their classified network",
+    "url": "https://twitter.com/sama/status/2027578652477821175",
+    "points": 1341,
+    "num_comments": 620,
+    "tags": [
+      "story",
+      "author_eoskx",
+      "story_47189650"
+    ],
+    "author": "eoskx",
+    "created_at": "2026-02-28T02:59:02Z",
+    "aiHeadline": "OpenAI teams up with the Department of War, proving that even AI can't escape a good old-fashioned military conflict."
+  },
+  {
+    "title": "The United States and Israel have launched a major attack on Iran",
+    "url": "https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk",
+    "points": 1059,
+    "num_comments": 2295,
+    "tags": [
+      "story",
+      "author_lavp",
+      "story_47191232"
+    ],
+    "author": "lavp",
+    "created_at": "2026-02-28T06:34:07Z",
+    "aiHeadline": "US and Israel launch major attack on Iran, because what better way to solve Middle East tensions than more airstrikes?"
+  },
+  {
+    "title": "How do I cancel my ChatGPT subscription?",
+    "url": "https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-subscription",
+    "points": 1015,
+    "num_comments": 238,
+    "tags": [
+      "story",
+      "author_tobr",
+      "story_47190997"
+    ],
+    "author": "tobr",
+    "created_at": "2026-02-28T05:55:01Z",
+    "aiHeadline": "Canceling ChatGPT? Easy, just follow these steps and watch as your monthly payments magically stop... or not."
+  },
+  {
+    "title": "The whole thing was a scam",
+    "url": "https://garymarcus.substack.com/p/the-whole-thing-was-scam",
+    "points": 624,
+    "num_comments": 169,
+    "tags": [
+      "story",
+      "author_guilamu",
+      "story_47197505",
       "front_page"
     ],
-    "author": "jacobedawson",
-    "created_at": "2026-02-27T22:31:18Z",
-    "aiHeadline": "The Department of War is now treating Anthropic like a potential threat, because apparently their AI models are 'too good' and might be used for... something. Who knows? Maybe world domination? Or just better customer service."
-  },
-  {
-    "title": "The Hunt for Dark Breakfast",
-    "url": "https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/",
-    "points": 520,
-    "num_comments": 178,
-    "tags": [
-      "story",
-      "author_moultano",
-      "story_47176257"
-    ],
-    "author": "moultano",
-    "created_at": "2026-02-27T03:49:48Z",
-    "aiHeadline": "The Hunt for Dark Breakfast: Because apparently, breakfast is now so dark, even the NSA couldn't find it. Who knew scrambled eggs could be this elusive?"
-  },
-  {
-    "title": "Court finds Fourth Amendment doesn’t support broad search of protesters’ devices",
-    "url": "https://www.eff.org/deeplinks/2026/02/victory-tenth-circuit-finds-fourth-amendment-doesnt-support-broad-search-0",
-    "points": 512,
-    "num_comments": 92,
-    "tags": [
-      "story",
-      "author_hn_acker",
-      "story_47181391",
-      "front_page"
-    ],
-    "author": "hn_acker",
-    "created_at": "2026-02-27T15:09:04Z",
-    "aiHeadline": "Court rules that the Fourth Amendment still matters, even when it comes to protesters' devices. Spoiler alert: the government can't just waltz in and search everyone's phones because they're mad about a protest. Shocking, right?"
-  },
-  {
-    "title": "Get free Claude max 20x for open-source maintainers",
-    "url": "https://claude.com/contact-sales/claude-for-oss",
-    "points": 445,
-    "num_comments": 200,
-    "tags": [
-      "story",
-      "author_zhisme",
-      "story_47178371",
-      "front_page"
-    ],
-    "author": "zhisme",
-    "created_at": "2026-02-27T09:08:58Z",
-    "aiHeadline": "Get free Claude access (max 20x) for open-source maintainers: Because who doesn't love getting something for free, especially when it's for doing something you already love? Now you can code and chat with AI all day long. What could possibly go wrong?"
-  },
-  {
-    "title": "Dan Simmons, author of Hyperion, has died",
-    "url": "https://www.dignitymemorial.com/obituaries/longmont-co/daniel-simmons-12758871",
-    "points": 425,
-    "num_comments": 188,
-    "tags": [
-      "story",
-      "author_throw0101a",
-      "story_47183578"
-    ],
-    "author": "throw0101a",
-    "created_at": "2026-02-27T18:13:39Z",
-    "aiHeadline": "Dan Simmons, author of Hyperion, has died: The sci-fi world has lost one of its greatest storytellers. His work will continue to inspire and terrify readers for generations to come. Rest in peace, Dan."
+    "author": "guilamu",
+    "created_at": "2026-02-28T16:51:49Z",
+    "aiHeadline": "The whole thing was a scam, because apparently, nothing is ever what it seems in the world of tech and politics."
   }
 ]
