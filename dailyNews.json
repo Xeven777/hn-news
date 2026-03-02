@@ -1,73 +1,75 @@
 [
   {
-    "title": "OpenAI – How to delete your account",
-    "url": "https://help.openai.com/en/articles/6378407-how-to-delete-your-account",
-    "points": 1818,
-    "num_comments": 344,
+    "title": "Ghostty – Terminal Emulator",
+    "url": "https://ghostty.org/docs",
+    "points": 617,
+    "num_comments": 276,
     "tags": [
       "story",
-      "author_carlosrg",
-      "story_47193478"
-    ],
-    "author": "carlosrg",
-    "created_at": "2026-02-28T10:41:55Z",
-    "aiHeadline": "OpenAI finally makes it easier to delete your account, because who doesn't want to leave their digital soul behind?"
-  },
-  {
-    "title": "OpenAI agrees with Dept. of War to deploy models in their classified network",
-    "url": "https://twitter.com/sama/status/2027578652477821175",
-    "points": 1341,
-    "num_comments": 620,
-    "tags": [
-      "story",
-      "author_eoskx",
-      "story_47189650"
-    ],
-    "author": "eoskx",
-    "created_at": "2026-02-28T02:59:02Z",
-    "aiHeadline": "OpenAI teams up with the Department of War, proving that even AI can't escape a good old-fashioned military conflict."
-  },
-  {
-    "title": "The United States and Israel have launched a major attack on Iran",
-    "url": "https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk",
-    "points": 1059,
-    "num_comments": 2295,
-    "tags": [
-      "story",
-      "author_lavp",
-      "story_47191232"
-    ],
-    "author": "lavp",
-    "created_at": "2026-02-28T06:34:07Z",
-    "aiHeadline": "US and Israel launch major attack on Iran, because what better way to solve Middle East tensions than more airstrikes?"
-  },
-  {
-    "title": "How do I cancel my ChatGPT subscription?",
-    "url": "https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-subscription",
-    "points": 1015,
-    "num_comments": 238,
-    "tags": [
-      "story",
-      "author_tobr",
-      "story_47190997"
-    ],
-    "author": "tobr",
-    "created_at": "2026-02-28T05:55:01Z",
-    "aiHeadline": "Canceling ChatGPT? Easy, just follow these steps and watch as your monthly payments magically stop... or not."
-  },
-  {
-    "title": "The whole thing was a scam",
-    "url": "https://garymarcus.substack.com/p/the-whole-thing-was-scam",
-    "points": 624,
-    "num_comments": 169,
-    "tags": [
-      "story",
-      "author_guilamu",
-      "story_47197505",
+      "author_oli5679",
+      "story_47206009",
       "front_page"
     ],
-    "author": "guilamu",
-    "created_at": "2026-02-28T16:51:49Z",
-    "aiHeadline": "The whole thing was a scam, because apparently, nothing is ever what it seems in the world of tech and politics."
+    "author": "oli5679",
+    "created_at": "2026-03-01T12:13:03Z",
+    "aiHeadline": "Finally, a terminal emulator that's so feature-packed it might just replace your cat as the most affectionate part of your setup."
+  },
+  {
+    "title": "Switch to Claude without starting over",
+    "url": "https://claude.com/import-memory",
+    "points": 522,
+    "num_comments": 250,
+    "tags": [
+      "story",
+      "author_doener",
+      "story_47204571"
+    ],
+    "author": "doener",
+    "created_at": "2026-03-01T07:36:52Z",
+    "aiHeadline": "Switching to Claude is now as easy as importing your memories—because who needs continuity when you can just copy-paste your soul?"
+  },
+  {
+    "title": "I built a demo of what AI chat will look like when it's \"free\" and ad-supported",
+    "url": "https://99helpers.com/tools/ad-supported-chat",
+    "points": 474,
+    "num_comments": 268,
+    "tags": [
+      "story",
+      "author_nickk81",
+      "story_47205890",
+      "front_page"
+    ],
+    "author": "nickk81",
+    "created_at": "2026-03-01T11:49:01Z",
+    "aiHeadline": "AI chat is now 'free'—because nothing says 'luxury' like being interrupted by ads for cat food every five seconds."
+  },
+  {
+    "title": "Decision trees – the unreasonable power of nested decision rules",
+    "url": "https://mlu-explain.github.io/decision-tree/",
+    "points": 401,
+    "num_comments": 72,
+    "tags": [
+      "story",
+      "author_mschnell",
+      "story_47204964",
+      "front_page"
+    ],
+    "author": "mschnell",
+    "created_at": "2026-03-01T08:55:52Z",
+    "aiHeadline": "Decision trees: because nothing says 'simplicity' like a flowchart that could double as a choose-your-own-adventure novel for hedge fund managers."
+  },
+  {
+    "title": "AI Made Writing Code Easier. It Made Being an Engineer Harder",
+    "url": "https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/",
+    "points": 375,
+    "num_comments": 288,
+    "tags": [
+      "story",
+      "author_saikatsg",
+      "story_47206824"
+    ],
+    "author": "saikatsg",
+    "created_at": "2026-03-01T14:09:24Z",
+    "aiHeadline": "AI made writing code easier—but now you're just a glorified prompt engineer, because apparently, the future of tech is typing better error messages."
   }
 ]
