@@ -1,75 +1,74 @@
 [
   {
-    "title": "Ghostty – Terminal Emulator",
-    "url": "https://ghostty.org/docs",
-    "points": 617,
-    "num_comments": 276,
+    "title": "Motorola announces a partnership with GrapheneOS",
+    "url": "https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/",
+    "points": 2071,
+    "num_comments": 737,
     "tags": [
       "story",
-      "author_oli5679",
-      "story_47206009",
+      "author_km",
+      "story_47214645",
       "front_page"
     ],
-    "author": "oli5679",
-    "created_at": "2026-03-01T12:13:03Z",
-    "aiHeadline": "Finally, a terminal emulator that's so feature-packed it might just replace your cat as the most affectionate part of your setup."
+    "author": "km",
+    "created_at": "2026-03-02T06:48:07Z",
+    "aiHeadline": "Motorola teams up with GrapheneOS in a desperate attempt to save itself from the clutches of boring tech partnerships."
   },
   {
-    "title": "Switch to Claude without starting over",
-    "url": "https://claude.com/import-memory",
-    "points": 522,
-    "num_comments": 250,
+    "title": "Microsoft bans the word \"Microslop\" on its Discord, then locks the server",
+    "url": "https://www.windowslatest.com/2026/03/02/microsoft-gets-tired-of-microslop-bans-the-word-on-its-discord-then-locks-the-server-after-backlash/",
+    "points": 1028,
+    "num_comments": 462,
+    "tags": [
+      "story",
+      "author_robtherobber",
+      "story_47216047"
+    ],
+    "author": "robtherobber",
+    "created_at": "2026-03-02T10:23:06Z",
+    "aiHeadline": "Microsoft gets its feelings hurt, bans 'Microslop' from its Discord server, then locks it down when everyone laughs."
+  },
+  {
+    "title": "/e/OS is a complete, fully “deGoogled” mobile ecosystem",
+    "url": "https://e.foundation/e-os/",
+    "points": 612,
+    "num_comments": 359,
     "tags": [
       "story",
       "author_doener",
-      "story_47204571"
+      "story_47215489"
     ],
     "author": "doener",
-    "created_at": "2026-03-01T07:36:52Z",
-    "aiHeadline": "Switching to Claude is now as easy as importing your memories—because who needs continuity when you can just copy-paste your soul?"
+    "created_at": "2026-03-02T09:09:44Z",
+    "aiHeadline": "Finally, a phone OS that’s so 'deGoogled' it might as well be running on a paperclip."
   },
   {
-    "title": "I built a demo of what AI chat will look like when it's \"free\" and ad-supported",
-    "url": "https://99helpers.com/tools/ad-supported-chat",
-    "points": 474,
-    "num_comments": 268,
+    "title": "The workers behind Meta’s smart glasses can see everything",
+    "url": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
+    "points": 572,
+    "num_comments": 320,
     "tags": [
       "story",
-      "author_nickk81",
-      "story_47205890",
+      "author_sandbach",
+      "story_47225130",
       "front_page"
     ],
-    "author": "nickk81",
-    "created_at": "2026-03-01T11:49:01Z",
-    "aiHeadline": "AI chat is now 'free'—because nothing says 'luxury' like being interrupted by ads for cat food every five seconds."
+    "author": "sandbach",
+    "created_at": "2026-03-02T22:32:35Z",
+    "aiHeadline": "Meta’s smart glasses: because nothing says 'privacy' like having random workers stare at your life through augmented reality."
   },
   {
-    "title": "Decision trees – the unreasonable power of nested decision rules",
-    "url": "https://mlu-explain.github.io/decision-tree/",
-    "points": 401,
-    "num_comments": 72,
+    "title": "How to talk to anyone and why you should",
+    "url": "https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should",
+    "points": 555,
+    "num_comments": 510,
     "tags": [
       "story",
-      "author_mschnell",
-      "story_47204964",
-      "front_page"
+      "author_Looky1173",
+      "story_47214864"
     ],
-    "author": "mschnell",
-    "created_at": "2026-03-01T08:55:52Z",
-    "aiHeadline": "Decision trees: because nothing says 'simplicity' like a flowchart that could double as a choose-your-own-adventure novel for hedge fund managers."
-  },
-  {
-    "title": "AI Made Writing Code Easier. It Made Being an Engineer Harder",
-    "url": "https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/",
-    "points": 375,
-    "num_comments": 288,
-    "tags": [
-      "story",
-      "author_saikatsg",
-      "story_47206824"
-    ],
-    "author": "saikatsg",
-    "created_at": "2026-03-01T14:09:24Z",
-    "aiHeadline": "AI made writing code easier—but now you're just a glorified prompt engineer, because apparently, the future of tech is typing better error messages."
+    "author": "Looky1173",
+    "created_at": "2026-03-02T07:30:12Z",
+    "aiHeadline": "How to talk to anyone: because nothing says 'social success' like awkwardly trying to chat with strangers in a coffee shop."
   }
 ]
