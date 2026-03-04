@@ -1,74 +1,76 @@
 [
   {
-    "title": "Motorola announces a partnership with GrapheneOS",
-    "url": "https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/",
-    "points": 2071,
-    "num_comments": 737,
+    "title": "The Xkcd thing, now interactive",
+    "url": "https://editor.p5js.org/isohedral/full/vJa5RiZWs",
+    "points": 1150,
+    "num_comments": 153,
     "tags": [
       "story",
-      "author_km",
-      "story_47214645",
+      "author_memalign",
+      "story_47230704",
       "front_page"
     ],
-    "author": "km",
-    "created_at": "2026-03-02T06:48:07Z",
-    "aiHeadline": "Motorola teams up with GrapheneOS in a desperate attempt to save itself from the clutches of boring tech partnerships."
+    "author": "memalign",
+    "created_at": "2026-03-03T10:56:52Z",
+    "aiHeadline": "Finally, after years of waiting, XKCD has made their comics interactive—because nothing says fun like clicking buttons to read a joke."
   },
   {
-    "title": "Microsoft bans the word \"Microslop\" on its Discord, then locks the server",
-    "url": "https://www.windowslatest.com/2026/03/02/microsoft-gets-tired-of-microslop-bans-the-word-on-its-discord-then-locks-the-server-after-backlash/",
-    "points": 1028,
-    "num_comments": 462,
+    "title": "I'm reluctant to verify my identity or age for any online services",
+    "url": "https://neilzone.co.uk/2026/03/im-struggling-to-think-of-any-online-services-for-which-id-be-willing-to-verify-my-identity-or-age/",
+    "points": 884,
+    "num_comments": 547,
     "tags": [
       "story",
-      "author_robtherobber",
-      "story_47216047"
-    ],
-    "author": "robtherobber",
-    "created_at": "2026-03-02T10:23:06Z",
-    "aiHeadline": "Microsoft gets its feelings hurt, bans 'Microslop' from its Discord server, then locks it down when everyone laughs."
-  },
-  {
-    "title": "/e/OS is a complete, fully “deGoogled” mobile ecosystem",
-    "url": "https://e.foundation/e-os/",
-    "points": 612,
-    "num_comments": 359,
-    "tags": [
-      "story",
-      "author_doener",
-      "story_47215489"
-    ],
-    "author": "doener",
-    "created_at": "2026-03-02T09:09:44Z",
-    "aiHeadline": "Finally, a phone OS that’s so 'deGoogled' it might as well be running on a paperclip."
-  },
-  {
-    "title": "The workers behind Meta’s smart glasses can see everything",
-    "url": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
-    "points": 572,
-    "num_comments": 320,
-    "tags": [
-      "story",
-      "author_sandbach",
-      "story_47225130",
+      "author_speckx",
+      "story_47232768",
       "front_page"
     ],
-    "author": "sandbach",
-    "created_at": "2026-03-02T22:32:35Z",
-    "aiHeadline": "Meta’s smart glasses: because nothing says 'privacy' like having random workers stare at your life through augmented reality."
+    "author": "speckx",
+    "created_at": "2026-03-03T14:22:25Z",
+    "aiHeadline": "In a world where you need a government-issued ID to buy a soda, I’m still refusing to prove my age to any online service—good luck, future me."
   },
   {
-    "title": "How to talk to anyone and why you should",
-    "url": "https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should",
-    "points": 555,
-    "num_comments": 510,
+    "title": "MacBook Pro with M5 Pro and M5 Max",
+    "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/",
+    "points": 677,
+    "num_comments": 662,
     "tags": [
       "story",
-      "author_Looky1173",
-      "story_47214864"
+      "author_scrlk",
+      "story_47232453",
+      "front_page"
     ],
-    "author": "Looky1173",
-    "created_at": "2026-03-02T07:30:12Z",
-    "aiHeadline": "How to talk to anyone: because nothing says 'social success' like awkwardly trying to chat with strangers in a coffee shop."
+    "author": "scrlk",
+    "created_at": "2026-03-03T14:02:06Z",
+    "aiHeadline": "Apple introduces the new MacBook Pro with M5 chips—because who doesn’t want to pay top dollar for slightly better performance?"
+  },
+  {
+    "title": "Claude's Cycles [pdf]",
+    "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
+    "points": 476,
+    "num_comments": 213,
+    "tags": [
+      "story",
+      "author_fs123",
+      "story_47230710",
+      "front_page"
+    ],
+    "author": "fs123",
+    "created_at": "2026-03-03T10:57:42Z",
+    "aiHeadline": "Claude’s Cycles: A new paper by Knuth that will make your head spin—because nothing says success like being buried under a pile of algorithms."
+  },
+  {
+    "title": "I'm losing the SEO battle for my own open source project",
+    "url": "https://twitter.com/Gavriel_Cohen/status/2028821432759717930",
+    "points": 450,
+    "num_comments": 226,
+    "tags": [
+      "story",
+      "author_devinitely",
+      "story_47232158"
+    ],
+    "author": "devinitely",
+    "created_at": "2026-03-03T13:39:38Z",
+    "aiHeadline": "In a world where SEO is everything, I’m losing the battle to make my own open-source project visible—because nothing says success like being buried under a pile of algorithms."
   }
 ]
