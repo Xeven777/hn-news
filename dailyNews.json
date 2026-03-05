@@ -1,76 +1,75 @@
 [
   {
-    "title": "The Xkcd thing, now interactive",
-    "url": "https://editor.p5js.org/isohedral/full/vJa5RiZWs",
-    "points": 1150,
-    "num_comments": 153,
+    "title": "MacBook Neo",
+    "url": "https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/",
+    "points": 1574,
+    "num_comments": 1891,
     "tags": [
       "story",
-      "author_memalign",
-      "story_47230704",
+      "author_dm",
+      "story_47247645",
       "front_page"
     ],
-    "author": "memalign",
-    "created_at": "2026-03-03T10:56:52Z",
-    "aiHeadline": "Finally, after years of waiting, XKCD has made their comics interactive—because nothing says fun like clicking buttons to read a joke."
+    "author": "dm",
+    "created_at": "2026-03-04T14:16:41Z",
+    "aiHeadline": "Apple's latest MacBook Neo: because who doesn't want to pay more for less?"
   },
   {
-    "title": "I'm reluctant to verify my identity or age for any online services",
-    "url": "https://neilzone.co.uk/2026/03/im-struggling-to-think-of-any-online-services-for-which-id-be-willing-to-verify-my-identity-or-age/",
-    "points": 884,
-    "num_comments": 547,
+    "title": "Nobody gets promoted for simplicity",
+    "url": "https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/",
+    "points": 829,
+    "num_comments": 470,
     "tags": [
       "story",
-      "author_speckx",
-      "story_47232768",
+      "author_aamederen",
+      "story_47246110"
+    ],
+    "author": "aamederen",
+    "created_at": "2026-03-04T11:43:32Z",
+    "aiHeadline": "Corporate lesson of the day: complexity over simplicity, because nobody gets promoted for making things easy."
+  },
+  {
+    "title": "Something is afoot in the land of Qwen",
+    "url": "https://simonwillison.net/2026/Mar/4/qwen/",
+    "points": 534,
+    "num_comments": 250,
+    "tags": [
+      "story",
+      "author_simonw",
+      "story_47249343",
       "front_page"
     ],
-    "author": "speckx",
-    "created_at": "2026-03-03T14:22:25Z",
-    "aiHeadline": "In a world where you need a government-issued ID to buy a soda, I’m still refusing to prove my age to any online service—good luck, future me."
+    "author": "simonw",
+    "created_at": "2026-03-04T15:55:34Z",
+    "aiHeadline": "Qwen's latest move: because when you're in tech, the only constant is constant surprises."
   },
   {
-    "title": "MacBook Pro with M5 Pro and M5 Max",
-    "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/",
-    "points": 677,
-    "num_comments": 662,
+    "title": "An interactive map of Flock Cams",
+    "url": "https://deflock.org/map#map=5/37.125286/-96.284180",
+    "points": 511,
+    "num_comments": 192,
     "tags": [
       "story",
-      "author_scrlk",
-      "story_47232453",
+      "author_anjel",
+      "story_47252049",
       "front_page"
     ],
-    "author": "scrlk",
-    "created_at": "2026-03-03T14:02:06Z",
-    "aiHeadline": "Apple introduces the new MacBook Pro with M5 chips—because who doesn’t want to pay top dollar for slightly better performance?"
+    "author": "anjel",
+    "created_at": "2026-03-04T18:50:45Z",
+    "aiHeadline": "Flock Cams map: because who doesn't want to track birds in real-time? Privacy concerns? What concerns?"
   },
   {
-    "title": "Claude's Cycles [pdf]",
-    "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
-    "points": 476,
-    "num_comments": 213,
+    "title": "Agentic Engineering Patterns",
+    "url": "https://simonwillison.net/guides/agentic-engineering-patterns/",
+    "points": 489,
+    "num_comments": 280,
     "tags": [
       "story",
-      "author_fs123",
-      "story_47230710",
-      "front_page"
+      "author_r4um",
+      "story_47243272"
     ],
-    "author": "fs123",
-    "created_at": "2026-03-03T10:57:42Z",
-    "aiHeadline": "Claude’s Cycles: A new paper by Knuth that will make your head spin—because nothing says success like being buried under a pile of algorithms."
-  },
-  {
-    "title": "I'm losing the SEO battle for my own open source project",
-    "url": "https://twitter.com/Gavriel_Cohen/status/2028821432759717930",
-    "points": 450,
-    "num_comments": 226,
-    "tags": [
-      "story",
-      "author_devinitely",
-      "story_47232158"
-    ],
-    "author": "devinitely",
-    "created_at": "2026-03-03T13:39:38Z",
-    "aiHeadline": "In a world where SEO is everything, I’m losing the battle to make my own open-source project visible—because nothing says success like being buried under a pile of algorithms."
+    "author": "r4um",
+    "created_at": "2026-03-04T05:00:37Z",
+    "aiHeadline": "Agentic Engineering Patterns: because sometimes, overcomplicating things is the new black."
   }
 ]
