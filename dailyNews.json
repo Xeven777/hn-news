@@ -1,75 +1,75 @@
 [
   {
-    "title": "MacBook Neo",
-    "url": "https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/",
-    "points": 1574,
-    "num_comments": 1891,
+    "title": "Wikipedia was in read-only mode following mass admin account compromise",
+    "url": "https://www.wikimediastatus.net",
+    "points": 882,
+    "num_comments": 310,
     "tags": [
       "story",
-      "author_dm",
-      "story_47247645",
+      "author_greyface-",
+      "story_47263323",
       "front_page"
     ],
-    "author": "dm",
-    "created_at": "2026-03-04T14:16:41Z",
-    "aiHeadline": "Apple's latest MacBook Neo: because who doesn't want to pay more for less?"
+    "author": "greyface-",
+    "created_at": "2026-03-05T16:04:54Z",
+    "aiHeadline": "Wikipedia, the place where knowledge goes to die, temporarily locked down after admins got hacked like it's 2005 all over again."
   },
   {
-    "title": "Nobody gets promoted for simplicity",
-    "url": "https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/",
-    "points": 829,
-    "num_comments": 470,
+    "title": "Judge orders government to begin refunding more than $130B in tariffs",
+    "url": "https://www.wsj.com/politics/policy/judge-orders-government-to-begin-refunding-more-than-130-billion-in-tariffs-fdc1e62c",
+    "points": 808,
+    "num_comments": 604,
     "tags": [
       "story",
-      "author_aamederen",
-      "story_47246110"
-    ],
-    "author": "aamederen",
-    "created_at": "2026-03-04T11:43:32Z",
-    "aiHeadline": "Corporate lesson of the day: complexity over simplicity, because nobody gets promoted for making things easy."
-  },
-  {
-    "title": "Something is afoot in the land of Qwen",
-    "url": "https://simonwillison.net/2026/Mar/4/qwen/",
-    "points": 534,
-    "num_comments": 250,
-    "tags": [
-      "story",
-      "author_simonw",
-      "story_47249343",
+      "author_JumpCrisscross",
+      "story_47261688",
       "front_page"
     ],
-    "author": "simonw",
-    "created_at": "2026-03-04T15:55:34Z",
-    "aiHeadline": "Qwen's latest move: because when you're in tech, the only constant is constant surprises."
+    "author": "JumpCrisscross",
+    "created_at": "2026-03-05T14:05:46Z",
+    "aiHeadline": "Government finally decides to refund $130B in tariffs, but don't hold your breath—this could take another decade or two."
   },
   {
-    "title": "An interactive map of Flock Cams",
-    "url": "https://deflock.org/map#map=5/37.125286/-96.284180",
-    "points": 511,
-    "num_comments": 192,
+    "title": "GPT-5.4",
+    "url": "https://openai.com/index/introducing-gpt-5-4/",
+    "points": 645,
+    "num_comments": 557,
     "tags": [
       "story",
-      "author_anjel",
-      "story_47252049",
+      "author_mudkipdev",
+      "story_47265045",
       "front_page"
     ],
-    "author": "anjel",
-    "created_at": "2026-03-04T18:50:45Z",
-    "aiHeadline": "Flock Cams map: because who doesn't want to track birds in real-time? Privacy concerns? What concerns?"
+    "author": "mudkipdev",
+    "created_at": "2026-03-05T18:08:10Z",
+    "aiHeadline": "GPT-5.4 arrives, bringing you more of the same: lies, misinformation, and the occasional coherent sentence."
   },
   {
-    "title": "Agentic Engineering Patterns",
-    "url": "https://simonwillison.net/guides/agentic-engineering-patterns/",
-    "points": 489,
-    "num_comments": 280,
+    "title": "The L in \"LLM\" Stands for Lying",
+    "url": "https://acko.net/blog/the-l-in-llm-stands-for-lying/",
+    "points": 613,
+    "num_comments": 426,
     "tags": [
       "story",
-      "author_r4um",
-      "story_47243272"
+      "author_LorenDB",
+      "story_47257394"
     ],
-    "author": "r4um",
-    "created_at": "2026-03-04T05:00:37Z",
-    "aiHeadline": "Agentic Engineering Patterns: because sometimes, overcomplicating things is the new black."
+    "author": "LorenDB",
+    "created_at": "2026-03-05T04:02:32Z",
+    "aiHeadline": "LLMs are officially rebranded as 'Lying Language Models'—because who doesn't love a good fib?"
+  },
+  {
+    "title": "No right to relicense this project",
+    "url": "https://github.com/chardet/chardet/issues/327",
+    "points": 472,
+    "num_comments": 312,
+    "tags": [
+      "story",
+      "author_robin_reala",
+      "story_47259177"
+    ],
+    "author": "robin_reala",
+    "created_at": "2026-03-05T08:37:51Z",
+    "aiHeadline": "Open-source project owner says, 'No, you can't relicense my code,' proving once again that developers are the real heroes."
   }
 ]
