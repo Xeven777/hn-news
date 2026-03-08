@@ -1,75 +1,76 @@
 [
   {
-    "title": "Global warming has accelerated significantly",
-    "url": "https://www.researchsquare.com/article/rs-6079807/v1",
-    "points": 974,
-    "num_comments": 965,
+    "title": "Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues",
+    "url": "https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/",
+    "points": 411,
+    "num_comments": 229,
     "tags": [
       "story",
-      "author_morsch",
-      "story_47275088",
+      "author_askl",
+      "story_47285960"
+    ],
+    "author": "askl",
+    "created_at": "2026-03-07T09:18:40Z",
+    "aiHeadline": "Meta Claims Pirating Books via BitTorrent is 'Fair Use,' Because Who Needs Copyright Anyway?"
+  },
+  {
+    "title": "Ki Editor - an editor that operates on the AST",
+    "url": "https://ki-editor.org/",
+    "points": 373,
+    "num_comments": 132,
+    "tags": [
+      "story",
+      "author_ravenical",
+      "story_47286311",
       "front_page"
     ],
-    "author": "morsch",
-    "created_at": "2026-03-06T14:10:03Z",
-    "aiHeadline": "Global warming just hit 'turbo mode'—because apparently, we weren't panicking enough before."
+    "author": "ravenical",
+    "created_at": "2026-03-07T10:29:13Z",
+    "aiHeadline": "Ki Editor: Because Regular Code Editing Wasn't Complicated Enough."
   },
   {
-    "title": "System76 on Age Verification Laws",
-    "url": "https://blog.system76.com/post/system76-on-age-verification/",
-    "points": 809,
-    "num_comments": 569,
+    "title": "Effort to prevent government officials from engaging in prediction markets",
+    "url": "https://www.merkley.senate.gov/merkley-klobuchar-launch-new-effort-to-ban-federal-elected-officials-profiting-from-prediction-markets/",
+    "points": 240,
+    "num_comments": 80,
     "tags": [
       "story",
-      "author_LorenDB",
-      "story_47270784"
-    ],
-    "author": "LorenDB",
-    "created_at": "2026-03-06T04:12:26Z",
-    "aiHeadline": "System76 weighs in on age verification laws: 'We're not your babysitter, so stop treating us like one!'"
-  },
-  {
-    "title": "Tech employment now significantly worse than the 2008 or 2020 recessions",
-    "url": "https://twitter.com/JosephPolitano/status/2029916364664611242",
-    "points": 731,
-    "num_comments": 498,
-    "tags": [
-      "story",
-      "author_enraged_camel",
-      "story_47278426",
+      "author_stopbulying",
+      "story_47291406",
       "front_page"
     ],
-    "author": "enraged_camel",
-    "created_at": "2026-03-06T17:46:45Z",
-    "aiHeadline": "Tech employment hits a new low—this time, it's worse than the 2008 recession, 2020 pandemic, and your ex's text messages all rolled into one."
+    "author": "stopbulying",
+    "created_at": "2026-03-07T20:55:48Z",
+    "aiHeadline": "Lawmakers Want to Ban Prediction Markets for Officials, Probably Because They're Too Good at Predicting Outcomes."
   },
   {
-    "title": "Workers who love ‘synergizing paradigms’ might be bad at their jobs",
-    "url": "https://news.cornell.edu/stories/2026/03/workers-who-love-synergizing-paradigms-might-be-bad-their-jobs",
-    "points": 512,
-    "num_comments": 289,
+    "title": "Put the zip code first",
+    "url": "https://zipcodefirst.com",
+    "points": 233,
+    "num_comments": 183,
     "tags": [
       "story",
-      "author_Anon84",
-      "story_47274676",
+      "author_dsalzman",
+      "story_47292485",
       "front_page"
     ],
-    "author": "Anon84",
-    "created_at": "2026-03-06T13:30:54Z",
-    "aiHeadline": "Workers who love 'synergizing paradigms' are officially the worst at their jobs—because who needs actual skills when you can just sound like a corporate robot?"
+    "author": "dsalzman",
+    "created_at": "2026-03-07T23:26:26Z",
+    "aiHeadline": "New Website Aims to Revolutionize Address Entry by Putting the Zip Code First. Innovation at Its Finest."
   },
   {
-    "title": "US economy unexpectedly sheds 92k jobs in February",
-    "url": "https://www.bbc.com/news/articles/cjd98091g28o",
-    "points": 498,
-    "num_comments": 673,
+    "title": "A decade of Docker containers",
+    "url": "https://cacm.acm.org/research/a-decade-of-docker-containers/",
+    "points": 233,
+    "num_comments": 171,
     "tags": [
       "story",
-      "author_smartbit",
-      "story_47275035"
+      "author_zacwest",
+      "story_47289311",
+      "front_page"
     ],
-    "author": "smartbit",
-    "created_at": "2026-03-06T14:04:18Z",
-    "aiHeadline": "US economy shocks everyone by shedding 92k jobs in February—because nothing says 'we're doing great' like losing jobs during a supposed recovery."
+    "author": "zacwest",
+    "created_at": "2026-03-07T16:55:18Z",
+    "aiHeadline": "Docker Turns 10: From Revolutionizing DevOps to Just Another Tuesday. Happy Birthday!"
   }
 ]
