@@ -1,74 +1,77 @@
 [
   {
-    "title": "Ireland shuts last coal plant, becomes 15th coal-free country in Europe (2025)",
-    "url": "https://www.pv-magazine.com/2025/06/20/ireland-coal-free-ends-coal-power-generation-moneypoint/",
-    "points": 874,
-    "num_comments": 539,
+    "title": "Tony Hoare has died",
+    "url": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
+    "points": 1522,
+    "num_comments": 200,
     "tags": [
       "story",
-      "author_robin_reala",
-      "story_47307055",
+      "author_speckx",
+      "story_47324054",
       "front_page"
     ],
-    "author": "robin_reala",
-    "created_at": "2026-03-09T10:14:59Z",
-    "aiHeadline": "Ireland finally catches up to the rest of Europe by banning coal, proving that even the Emerald Isle can't resist the green wave."
+    "author": "speckx",
+    "created_at": "2026-03-10T14:50:16Z",
+    "aiHeadline": "Tony Hoare, the man who gave us null references, has passed away, leaving programmers to mourn the bane of their existence."
   },
   {
-    "title": "US Court of Appeals: TOS may be updated by email, use can imply consent [pdf]",
-    "url": "https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf",
-    "points": 523,
-    "num_comments": 408,
+    "title": "Online age-verification tools for child safety are surveilling adults",
+    "url": "https://www.cnbc.com/2026/03/08/social-media-child-safety-internet-ai-surveillance.html",
+    "points": 552,
+    "num_comments": 303,
     "tags": [
       "story",
-      "author_dryadin",
-      "story_47305461"
-    ],
-    "author": "dryadin",
-    "created_at": "2026-03-09T06:28:02Z",
-    "aiHeadline": "US Court rules that ignoring your emails now means you've agreed to the new TOS, because clearly, you read every single one."
-  },
-  {
-    "title": "FontCrafter: Turn your handwriting into a real font",
-    "url": "https://arcade.pirillo.com/fontcrafter.html",
-    "points": 438,
-    "num_comments": 150,
-    "tags": [
-      "story",
-      "author_rendx",
-      "story_47306655"
-    ],
-    "author": "rendx",
-    "created_at": "2026-03-09T09:25:02Z",
-    "aiHeadline": "Now you can turn your terrible handwriting into a professional font, because who doesn't want to flaunt their lack of penmanship?"
-  },
-  {
-    "title": "Building a Procedural Hex Map with Wave Function Collapse",
-    "url": "https://felixturner.github.io/hex-map-wfc/article/",
-    "points": 397,
-    "num_comments": 58,
-    "tags": [
-      "story",
-      "author_imadr",
-      "story_47311815",
+      "author_bilsbie",
+      "story_47322635",
       "front_page"
     ],
-    "author": "imadr",
-    "created_at": "2026-03-09T17:02:22Z",
-    "aiHeadline": "Building a hex map is so easy, even a computer can do it with some advanced algorithms, proving that even maps need a PhD now."
+    "author": "bilsbie",
+    "created_at": "2026-03-10T12:55:42Z",
+    "aiHeadline": "Age-verification tools meant to protect kids are now spying on adults, proving that the internet's surveillance is as endless as its supply of cat videos."
   },
   {
-    "title": "How the Sriracha guys screwed over their supplier",
-    "url": "https://old.reddit.com/r/KitchenConfidential/comments/1ro61g2/how_the_sriracha_guys_screwed_over_their_supplier/",
-    "points": 389,
-    "num_comments": 220,
+    "title": "After outages, Amazon to make senior engineers sign off on AI-assisted changes",
+    "url": "https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/",
+    "points": 452,
+    "num_comments": 398,
     "tags": [
       "story",
-      "author_thunderbong",
-      "story_47304831"
+      "author_ndr42",
+      "story_47323017",
+      "front_page"
     ],
-    "author": "thunderbong",
-    "created_at": "2026-03-09T04:16:33Z",
-    "aiHeadline": "When a company decides that their supplier's suffering is just another ingredient in their recipe for success, you know capitalism is at its finest."
+    "author": "ndr42",
+    "created_at": "2026-03-10T13:31:17Z",
+    "aiHeadline": "Amazon, after some major meltdowns, is now making senior engineers approve AI changes, because even geniuses need to double-check when robots are involved."
+  },
+  {
+    "title": "Meta acquires Moltbook",
+    "url": "https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network",
+    "points": 426,
+    "num_comments": 277,
+    "tags": [
+      "story",
+      "author_mmayberry",
+      "story_47323900",
+      "front_page"
+    ],
+    "author": "mmayberry",
+    "created_at": "2026-03-10T14:38:06Z",
+    "aiHeadline": "Meta buys Moltbook, a social network for agents, in a desperate bid to stay relevant, because apparently, the future of social media is... more social media."
+  },
+  {
+    "title": "I put my whole life into a single database",
+    "url": "https://howisfelix.today/",
+    "points": 426,
+    "num_comments": 204,
+    "tags": [
+      "story",
+      "author_lukakopajtic",
+      "story_47321233",
+      "front_page"
+    ],
+    "author": "lukakopajtic",
+    "created_at": "2026-03-10T10:07:48Z",
+    "aiHeadline": "A man puts his entire life into a single database, proving that some people's lives are as organized as a spreadsheet, and as prone to data breaches as a public Wi-Fi password."
   }
 ]
