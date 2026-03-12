@@ -1,77 +1,75 @@
 [
   {
-    "title": "Tony Hoare has died",
-    "url": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
-    "points": 1522,
-    "num_comments": 200,
+    "title": "Don't post generated/AI-edited comments. HN is for conversation between humans.",
+    "url": "https://news.ycombinator.com/newsguidelines.html#generated",
+    "points": 2842,
+    "num_comments": 1045,
     "tags": [
       "story",
-      "author_speckx",
-      "story_47324054",
+      "author_usefulposter",
+      "story_47340079",
       "front_page"
     ],
-    "author": "speckx",
-    "created_at": "2026-03-10T14:50:16Z",
-    "aiHeadline": "Tony Hoare, the man who gave us null references, has passed away, leaving programmers to mourn the bane of their existence."
+    "author": "usefulposter",
+    "created_at": "2026-03-11T19:29:29Z",
+    "aiHeadline": "AI-generated comments banned from HN because they were too good at sounding human, apparently."
   },
   {
-    "title": "Online age-verification tools for child safety are surveilling adults",
-    "url": "https://www.cnbc.com/2026/03/08/social-media-child-safety-internet-ai-surveillance.html",
-    "points": 552,
-    "num_comments": 303,
+    "title": "Create value for others and don’t worry about the returns",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html",
+    "points": 655,
+    "num_comments": 434,
     "tags": [
       "story",
-      "author_bilsbie",
-      "story_47322635",
-      "front_page"
+      "author_ppew",
+      "story_47332074"
     ],
-    "author": "bilsbie",
-    "created_at": "2026-03-10T12:55:42Z",
-    "aiHeadline": "Age-verification tools meant to protect kids are now spying on adults, proving that the internet's surveillance is as endless as its supply of cat videos."
+    "author": "ppew",
+    "created_at": "2026-03-11T05:45:49Z",
+    "aiHeadline": "Create value for others and don't worry about the returns—unless you're the one getting rich, then it's totally worth it."
   },
   {
-    "title": "After outages, Amazon to make senior engineers sign off on AI-assisted changes",
-    "url": "https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/",
-    "points": 452,
-    "num_comments": 398,
+    "title": "Whistleblower claims ex-DOGE member says he took Social Security data to new job",
+    "url": "https://www.washingtonpost.com/politics/2026/03/10/social-security-data-breach-doge-2/",
+    "points": 573,
+    "num_comments": 250,
     "tags": [
       "story",
-      "author_ndr42",
-      "story_47323017",
-      "front_page"
+      "author_raldi",
+      "story_47335572"
     ],
-    "author": "ndr42",
-    "created_at": "2026-03-10T13:31:17Z",
-    "aiHeadline": "Amazon, after some major meltdowns, is now making senior engineers approve AI changes, because even geniuses need to double-check when robots are involved."
+    "author": "raldi",
+    "created_at": "2026-03-11T13:52:01Z",
+    "aiHeadline": "Ex-DOGE member allegedly took Social Security data to new job—probably to improve his resume."
   },
   {
-    "title": "Meta acquires Moltbook",
-    "url": "https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network",
-    "points": 426,
-    "num_comments": 277,
+    "title": "Temporal: A nine-year journey to fix time in JavaScript",
+    "url": "https://bloomberg.github.io/js-blog/post/temporal/",
+    "points": 538,
+    "num_comments": 182,
     "tags": [
       "story",
-      "author_mmayberry",
-      "story_47323900",
+      "author_robpalmer",
+      "story_47336989",
       "front_page"
     ],
-    "author": "mmayberry",
-    "created_at": "2026-03-10T14:38:06Z",
-    "aiHeadline": "Meta buys Moltbook, a social network for agents, in a desperate bid to stay relevant, because apparently, the future of social media is... more social media."
+    "author": "robpalmer",
+    "created_at": "2026-03-11T15:35:50Z",
+    "aiHeadline": "JavaScript finally fixes time after nine years—because who needs accurate time tracking anyway?"
   },
   {
-    "title": "I put my whole life into a single database",
-    "url": "https://howisfelix.today/",
-    "points": 426,
-    "num_comments": 204,
+    "title": "Making WebAssembly a first-class language on the Web",
+    "url": "https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/",
+    "points": 411,
+    "num_comments": 148,
     "tags": [
       "story",
-      "author_lukakopajtic",
-      "story_47321233",
+      "author_mikece",
+      "story_47331811",
       "front_page"
     ],
-    "author": "lukakopajtic",
-    "created_at": "2026-03-10T10:07:48Z",
-    "aiHeadline": "A man puts his entire life into a single database, proving that some people's lives are as organized as a spreadsheet, and as prone to data breaches as a public Wi-Fi password."
+    "author": "mikece",
+    "created_at": "2026-03-11T04:44:46Z",
+    "aiHeadline": "WebAssembly becomes a first-class language on the web—finally, it's getting the respect it deserves after all these years."
   }
 ]
