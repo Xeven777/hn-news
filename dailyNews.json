@@ -1,75 +1,76 @@
 [
   {
-    "title": "Don't post generated/AI-edited comments. HN is for conversation between humans.",
-    "url": "https://news.ycombinator.com/newsguidelines.html#generated",
-    "points": 2842,
-    "num_comments": 1045,
+    "title": "Malus – Clean Room as a Service",
+    "url": "https://malus.sh",
+    "points": 1054,
+    "num_comments": 406,
     "tags": [
       "story",
-      "author_usefulposter",
-      "story_47340079",
+      "author_microflash",
+      "story_47350424",
       "front_page"
     ],
-    "author": "usefulposter",
-    "created_at": "2026-03-11T19:29:29Z",
-    "aiHeadline": "AI-generated comments banned from HN because they were too good at sounding human, apparently."
+    "author": "microflash",
+    "created_at": "2026-03-12T13:42:04Z",
+    "aiHeadline": "Malus: Because paying for a clean room isn't enough, now you can rent it as a service."
   },
   {
-    "title": "Create value for others and don’t worry about the returns",
-    "url": "https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html",
-    "points": 655,
-    "num_comments": 434,
+    "title": "Shall I implement it? No",
+    "url": "https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0",
+    "points": 852,
+    "num_comments": 311,
     "tags": [
       "story",
-      "author_ppew",
-      "story_47332074"
-    ],
-    "author": "ppew",
-    "created_at": "2026-03-11T05:45:49Z",
-    "aiHeadline": "Create value for others and don't worry about the returns—unless you're the one getting rich, then it's totally worth it."
-  },
-  {
-    "title": "Whistleblower claims ex-DOGE member says he took Social Security data to new job",
-    "url": "https://www.washingtonpost.com/politics/2026/03/10/social-security-data-breach-doge-2/",
-    "points": 573,
-    "num_comments": 250,
-    "tags": [
-      "story",
-      "author_raldi",
-      "story_47335572"
-    ],
-    "author": "raldi",
-    "created_at": "2026-03-11T13:52:01Z",
-    "aiHeadline": "Ex-DOGE member allegedly took Social Security data to new job—probably to improve his resume."
-  },
-  {
-    "title": "Temporal: A nine-year journey to fix time in JavaScript",
-    "url": "https://bloomberg.github.io/js-blog/post/temporal/",
-    "points": 538,
-    "num_comments": 182,
-    "tags": [
-      "story",
-      "author_robpalmer",
-      "story_47336989",
+      "author_breton",
+      "story_47357042",
       "front_page"
     ],
-    "author": "robpalmer",
-    "created_at": "2026-03-11T15:35:50Z",
-    "aiHeadline": "JavaScript finally fixes time after nine years—because who needs accurate time tracking anyway?"
+    "author": "breton",
+    "created_at": "2026-03-12T21:01:10Z",
+    "aiHeadline": "Shall I implement it? No, because who needs another half-baked solution when you can just say 'no' instead?"
   },
   {
-    "title": "Making WebAssembly a first-class language on the Web",
-    "url": "https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/",
-    "points": 411,
-    "num_comments": 148,
+    "title": "Innocent woman jailed after being misidentified using AI facial recognition",
+    "url": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case",
+    "points": 416,
+    "num_comments": 211,
     "tags": [
       "story",
-      "author_mikece",
-      "story_47331811",
+      "author_rectang",
+      "story_47356968",
       "front_page"
     ],
-    "author": "mikece",
-    "created_at": "2026-03-11T04:44:46Z",
-    "aiHeadline": "WebAssembly becomes a first-class language on the web—finally, it's getting the respect it deserves after all these years."
+    "author": "rectang",
+    "created_at": "2026-03-12T20:55:51Z",
+    "aiHeadline": "AI facial recognition: Because nothing says 'justice' like jailing an innocent woman for months."
+  },
+  {
+    "title": "Asian governments roll out 4-day weeks, WFH to solve fuel crisis caused by war",
+    "url": "https://fortune.com/2026/03/11/iran-war-fuel-crisis-asia-work-from-home-closed-schools-price-caps/",
+    "points": 377,
+    "num_comments": 314,
+    "tags": [
+      "story",
+      "author_speckx",
+      "story_47352215"
+    ],
+    "author": "speckx",
+    "created_at": "2026-03-12T15:30:37Z",
+    "aiHeadline": "Asian governments solve fuel crisis by making you work less and stay home more. Innovation at its finest!"
+  },
+  {
+    "title": "Returning to Rails in 2026",
+    "url": "https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/",
+    "points": 341,
+    "num_comments": 211,
+    "tags": [
+      "story",
+      "author_stanislavb",
+      "story_47347064",
+      "front_page"
+    ],
+    "author": "stanislavb",
+    "created_at": "2026-03-12T06:06:46Z",
+    "aiHeadline": "Back to Rails: Because after years of exploring other frameworks, nothing beats the good old days of Rails. Or maybe it's just nostalgia talking."
   }
 ]
