@@ -1,76 +1,76 @@
 [
   {
-    "title": "Malus – Clean Room as a Service",
-    "url": "https://malus.sh",
-    "points": 1054,
-    "num_comments": 406,
+    "title": "Meta Platforms: Lobbying, dark money, and the App Store Accountability Act",
+    "url": "https://github.com/upper-up/meta-lobbying-and-other-findings",
+    "points": 1170,
+    "num_comments": 485,
     "tags": [
       "story",
-      "author_microflash",
-      "story_47350424",
+      "author_shaicoleman",
+      "story_47362528",
       "front_page"
     ],
-    "author": "microflash",
-    "created_at": "2026-03-12T13:42:04Z",
-    "aiHeadline": "Malus: Because paying for a clean room isn't enough, now you can rent it as a service."
+    "author": "shaicoleman",
+    "created_at": "2026-03-13T10:15:56Z",
+    "aiHeadline": "Meta Platforms: Because who doesn't love lobbying, dark money, and an App Store that's so accountable it might as well be a black hole?"
   },
   {
-    "title": "Shall I implement it? No",
-    "url": "https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0",
-    "points": 852,
-    "num_comments": 311,
+    "title": "Can I run AI locally?",
+    "url": "https://www.canirun.ai/",
+    "points": 952,
+    "num_comments": 256,
     "tags": [
       "story",
-      "author_breton",
-      "story_47357042",
+      "author_ricardbejarano",
+      "story_47363754",
       "front_page"
     ],
-    "author": "breton",
-    "created_at": "2026-03-12T21:01:10Z",
-    "aiHeadline": "Shall I implement it? No, because who needs another half-baked solution when you can just say 'no' instead?"
+    "author": "ricardbejarano",
+    "created_at": "2026-03-13T12:46:10Z",
+    "aiHeadline": "Can I run AI locally? Well, sure, but why bother when you could just let your computer become a paperweight while it tries to figure out basic arithmetic?"
   },
   {
-    "title": "Innocent woman jailed after being misidentified using AI facial recognition",
-    "url": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case",
-    "points": 416,
-    "num_comments": 211,
+    "title": "TUI Studio – visual terminal UI design tool",
+    "url": "https://tui.studio/",
+    "points": 561,
+    "num_comments": 274,
     "tags": [
       "story",
-      "author_rectang",
-      "story_47356968",
+      "author_mipselaer",
+      "story_47362613",
       "front_page"
     ],
-    "author": "rectang",
-    "created_at": "2026-03-12T20:55:51Z",
-    "aiHeadline": "AI facial recognition: Because nothing says 'justice' like jailing an innocent woman for months."
+    "author": "mipselaer",
+    "created_at": "2026-03-13T10:32:45Z",
+    "aiHeadline": "TUI Studio: Because who doesn't want to design terminal UIs with the ease of a 5-year-old playing with a box of crayons?"
   },
   {
-    "title": "Asian governments roll out 4-day weeks, WFH to solve fuel crisis caused by war",
-    "url": "https://fortune.com/2026/03/11/iran-war-fuel-crisis-asia-work-from-home-closed-schools-price-caps/",
-    "points": 377,
-    "num_comments": 314,
+    "title": "Vite 8.0 Is Out",
+    "url": "https://vite.dev/blog/announcing-vite8",
+    "points": 518,
+    "num_comments": 180,
     "tags": [
       "story",
-      "author_speckx",
-      "story_47352215"
+      "author_kothariji",
+      "story_47360730"
     ],
-    "author": "speckx",
-    "created_at": "2026-03-12T15:30:37Z",
-    "aiHeadline": "Asian governments solve fuel crisis by making you work less and stay home more. Innovation at its finest!"
+    "author": "kothariji",
+    "created_at": "2026-03-13T04:36:40Z",
+    "aiHeadline": "Vite 8.0 Is Out: And now your perfectly working project will break in mysterious ways, just because it's time to upgrade!"
   },
   {
-    "title": "Returning to Rails in 2026",
-    "url": "https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/",
-    "points": 341,
-    "num_comments": 211,
+    "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
+    "url": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
+    "points": 434,
+    "num_comments": 401,
     "tags": [
       "story",
-      "author_stanislavb",
-      "story_47347064",
+      "author_johnbarron",
+      "story_47363584",
       "front_page"
     ],
-    "author": "stanislavb",
-    "created_at": "2026-03-12T06:06:46Z",
-    "aiHeadline": "Back to Rails: Because after years of exploring other frameworks, nothing beats the good old days of Rails. Or maybe it's just nostalgia talking."
+    "author": "johnbarron",
+    "created_at": "2026-03-13T12:31:09Z",
+    "aiHeadline": "Qatar helium shutdown puts chip supply chain on a two-week clock: Because nothing says 'we're essential' like a tiny gas that's suddenly the most important thing in the world."
   }
 ]
