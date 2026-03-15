@@ -1,76 +1,74 @@
 [
   {
-    "title": "Meta Platforms: Lobbying, dark money, and the App Store Accountability Act",
-    "url": "https://github.com/upper-up/meta-lobbying-and-other-findings",
-    "points": 1170,
-    "num_comments": 485,
+    "title": "Ageless Linux – Software for humans of indeterminate age",
+    "url": "https://agelesslinux.org/",
+    "points": 339,
+    "num_comments": 221,
     "tags": [
       "story",
-      "author_shaicoleman",
-      "story_47362528",
+      "author_nateb2022",
+      "story_47381791",
       "front_page"
     ],
-    "author": "shaicoleman",
-    "created_at": "2026-03-13T10:15:56Z",
-    "aiHeadline": "Meta Platforms: Because who doesn't love lobbying, dark money, and an App Store that's so accountable it might as well be a black hole?"
+    "author": "nateb2022",
+    "created_at": "2026-03-14T22:10:26Z",
+    "aiHeadline": "Linux finally embraces the idea that maybe you don't want to die, but also don't want to update your OS every five minutes."
   },
   {
-    "title": "Can I run AI locally?",
-    "url": "https://www.canirun.ai/",
-    "points": 952,
-    "num_comments": 256,
+    "title": "What happens when US economic data becomes unreliable",
+    "url": "https://mitsloan.mit.edu/ideas-made-to-matter/what-happens-when-us-economic-data-becomes-unreliable",
+    "points": 313,
+    "num_comments": 336,
     "tags": [
       "story",
-      "author_ricardbejarano",
-      "story_47363754",
+      "author_inaros",
+      "story_47378638"
+    ],
+    "author": "inaros",
+    "created_at": "2026-03-14T16:58:40Z",
+    "aiHeadline": "Because nothing says 'trust us' like making your economic data so unreliable that even your own economists can't tell if we're in a recession or just really bad at math."
+  },
+  {
+    "title": "RAM kits are now sold with one fake RAM stick alongside a real one",
+    "url": "https://www.tomshardware.com/pc-components/ram/fake-ram-bundled-with-real-ram-to-create-a-performance-illusion-for-amd-users-1-1-value-pack-offers-desperate-psychological-relief-as-the-memory-shortage-worsens",
+    "points": 258,
+    "num_comments": 171,
+    "tags": [
+      "story",
+      "author_edward",
+      "story_47375085"
+    ],
+    "author": "edward",
+    "created_at": "2026-03-14T10:05:58Z",
+    "aiHeadline": "Because nothing says 'we care about your performance' like selling you a RAM kit with one real stick and one fake one, just to give you that illusion of speed you've always deserved."
+  },
+  {
+    "title": "Montana passes Right to Compute act (2025)",
+    "url": "https://www.westernmt.news/2025/04/21/montana-leads-the-nation-with-groundbreaking-right-to-compute-act/",
+    "points": 245,
+    "num_comments": 207,
+    "tags": [
+      "story",
+      "author_bilsbie",
+      "story_47376767",
       "front_page"
     ],
-    "author": "ricardbejarano",
-    "created_at": "2026-03-13T12:46:10Z",
-    "aiHeadline": "Can I run AI locally? Well, sure, but why bother when you could just let your computer become a paperweight while it tries to figure out basic arithmetic?"
+    "author": "bilsbie",
+    "created_at": "2026-03-14T13:59:58Z",
+    "aiHeadline": "Montana proves once again that when it comes to tech legislation, they're either way ahead of the curve or just really into the idea of 'right to compute' in a way that makes everyone else question their priorities."
   },
   {
-    "title": "TUI Studio – visual terminal UI design tool",
-    "url": "https://tui.studio/",
-    "points": 561,
-    "num_comments": 274,
+    "title": "XML is a cheap DSL",
+    "url": "https://unplannedobsolescence.com/blog/xml-cheap-dsl/",
+    "points": 239,
+    "num_comments": 242,
     "tags": [
       "story",
-      "author_mipselaer",
-      "story_47362613",
-      "front_page"
+      "author_y1n0",
+      "story_47375764"
     ],
-    "author": "mipselaer",
-    "created_at": "2026-03-13T10:32:45Z",
-    "aiHeadline": "TUI Studio: Because who doesn't want to design terminal UIs with the ease of a 5-year-old playing with a box of crayons?"
-  },
-  {
-    "title": "Vite 8.0 Is Out",
-    "url": "https://vite.dev/blog/announcing-vite8",
-    "points": 518,
-    "num_comments": 180,
-    "tags": [
-      "story",
-      "author_kothariji",
-      "story_47360730"
-    ],
-    "author": "kothariji",
-    "created_at": "2026-03-13T04:36:40Z",
-    "aiHeadline": "Vite 8.0 Is Out: And now your perfectly working project will break in mysterious ways, just because it's time to upgrade!"
-  },
-  {
-    "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
-    "url": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
-    "points": 434,
-    "num_comments": 401,
-    "tags": [
-      "story",
-      "author_johnbarron",
-      "story_47363584",
-      "front_page"
-    ],
-    "author": "johnbarron",
-    "created_at": "2026-03-13T12:31:09Z",
-    "aiHeadline": "Qatar helium shutdown puts chip supply chain on a two-week clock: Because nothing says 'we're essential' like a tiny gas that's suddenly the most important thing in the world."
+    "author": "y1n0",
+    "created_at": "2026-03-14T11:59:13Z",
+    "aiHeadline": "Because nothing says 'efficient and modern' like using XML, the programming equivalent of duct tape and paper clips, to create your domain-specific language."
   }
 ]
