@@ -1,74 +1,75 @@
 [
   {
-    "title": "Ageless Linux – Software for humans of indeterminate age",
-    "url": "https://agelesslinux.org/",
-    "points": 339,
-    "num_comments": 221,
+    "title": "Canada's bill C-22 mandates mass metadata surveillance of Canadians",
+    "url": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
+    "points": 383,
+    "num_comments": 104,
     "tags": [
       "story",
-      "author_nateb2022",
-      "story_47381791",
+      "author_opengrass",
+      "story_47392084",
       "front_page"
     ],
-    "author": "nateb2022",
-    "created_at": "2026-03-14T22:10:26Z",
-    "aiHeadline": "Linux finally embraces the idea that maybe you don't want to die, but also don't want to update your OS every five minutes."
+    "author": "opengrass",
+    "created_at": "2026-03-15T21:22:16Z",
+    "aiHeadline": "Canadians now have the honor of being spied on by their government in real-time, all while the Prime Minister insists it's for our own good."
   },
   {
-    "title": "What happens when US economic data becomes unreliable",
-    "url": "https://mitsloan.mit.edu/ideas-made-to-matter/what-happens-when-us-economic-data-becomes-unreliable",
-    "points": 313,
-    "num_comments": 336,
+    "title": "$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor",
+    "url": "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket",
+    "points": 382,
+    "num_comments": 346,
     "tags": [
       "story",
-      "author_inaros",
-      "story_47378638"
+      "author_ZacnyLos",
+      "story_47385935"
     ],
-    "author": "inaros",
-    "created_at": "2026-03-14T16:58:40Z",
-    "aiHeadline": "Because nothing says 'trust us' like making your economic data so unreliable that even your own economists can't tell if we're in a recession or just really bad at math."
+    "author": "ZacnyLos",
+    "created_at": "2026-03-15T10:15:47Z",
+    "aiHeadline": "Meet the $96 3D-printed rocket that's probably going to crash into your house, thanks to a $5 sensor that somehow manages to do calculus mid-flight."
   },
   {
-    "title": "RAM kits are now sold with one fake RAM stick alongside a real one",
-    "url": "https://www.tomshardware.com/pc-components/ram/fake-ram-bundled-with-real-ram-to-create-a-performance-illusion-for-amd-users-1-1-value-pack-offers-desperate-psychological-relief-as-the-memory-shortage-worsens",
-    "points": 258,
-    "num_comments": 171,
+    "title": "Chrome DevTools MCP",
+    "url": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
+    "points": 367,
+    "num_comments": 154,
     "tags": [
       "story",
-      "author_edward",
-      "story_47375085"
-    ],
-    "author": "edward",
-    "created_at": "2026-03-14T10:05:58Z",
-    "aiHeadline": "Because nothing says 'we care about your performance' like selling you a RAM kit with one real stick and one fake one, just to give you that illusion of speed you've always deserved."
-  },
-  {
-    "title": "Montana passes Right to Compute act (2025)",
-    "url": "https://www.westernmt.news/2025/04/21/montana-leads-the-nation-with-groundbreaking-right-to-compute-act/",
-    "points": 245,
-    "num_comments": 207,
-    "tags": [
-      "story",
-      "author_bilsbie",
-      "story_47376767",
+      "author_xnx",
+      "story_47390817",
       "front_page"
     ],
-    "author": "bilsbie",
-    "created_at": "2026-03-14T13:59:58Z",
-    "aiHeadline": "Montana proves once again that when it comes to tech legislation, they're either way ahead of the curve or just really into the idea of 'right to compute' in a way that makes everyone else question their priorities."
+    "author": "xnx",
+    "created_at": "2026-03-15T19:12:53Z",
+    "aiHeadline": "Chrome DevTools finally gets an update that makes debugging your browser session slightly less frustrating, because who doesn't love staring at code all day?"
   },
   {
-    "title": "XML is a cheap DSL",
-    "url": "https://unplannedobsolescence.com/blog/xml-cheap-dsl/",
-    "points": 239,
-    "num_comments": 242,
+    "title": "The Appalling Stupidity of Spotify's AI DJ",
+    "url": "https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html",
+    "points": 353,
+    "num_comments": 288,
     "tags": [
       "story",
-      "author_y1n0",
-      "story_47375764"
+      "author_ingve",
+      "story_47385272"
     ],
-    "author": "y1n0",
-    "created_at": "2026-03-14T11:59:13Z",
-    "aiHeadline": "Because nothing says 'efficient and modern' like using XML, the programming equivalent of duct tape and paper clips, to create your domain-specific language."
+    "author": "ingve",
+    "created_at": "2026-03-15T08:04:55Z",
+    "aiHeadline": "Spotify's AI DJ is now officially the worst DJ ever, proving that even robots can't figure out how to play two songs in a row without making you want to throw your phone out the window."
+  },
+  {
+    "title": "The 49MB web page",
+    "url": "https://thatshubham.com/blog/news-audit",
+    "points": 331,
+    "num_comments": 176,
+    "tags": [
+      "story",
+      "author_kermatt",
+      "story_47390945",
+      "front_page"
+    ],
+    "author": "kermatt",
+    "created_at": "2026-03-15T19:25:18Z",
+    "aiHeadline": "Web developers have outdone themselves by creating a 49MB webpage that takes longer to load than dial-up internet in the 90s, proving that progress is clearly not our thing."
   }
 ]
