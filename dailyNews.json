@@ -1,75 +1,75 @@
 [
   {
-    "title": "Canada's bill C-22 mandates mass metadata surveillance of Canadians",
-    "url": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
-    "points": 383,
-    "num_comments": 104,
+    "title": "Polymarket gamblers threaten to kill me over Iran missile story",
+    "url": "https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/",
+    "points": 1360,
+    "num_comments": 884,
     "tags": [
       "story",
-      "author_opengrass",
-      "story_47392084",
+      "author_defly",
+      "story_47397822",
       "front_page"
     ],
-    "author": "opengrass",
-    "created_at": "2026-03-15T21:22:16Z",
-    "aiHeadline": "Canadians now have the honor of being spied on by their government in real-time, all while the Prime Minister insists it's for our own good."
+    "author": "defly",
+    "created_at": "2026-03-16T12:00:06Z",
+    "aiHeadline": "Gamblers on Polymarket are so desperate to win their bets that they're threatening to off me if I don't spin the Iran missile story their way."
   },
   {
-    "title": "$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor",
-    "url": "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket",
-    "points": 382,
-    "num_comments": 346,
+    "title": "Palestinian boy, 12, describes how Israeli forces killed his family in car",
+    "url": "https://www.bbc.com/news/articles/c70n2x7p22do",
+    "points": 961,
+    "num_comments": 281,
     "tags": [
       "story",
-      "author_ZacnyLos",
-      "story_47385935"
+      "author_tartoran",
+      "story_47402950"
     ],
-    "author": "ZacnyLos",
-    "created_at": "2026-03-15T10:15:47Z",
-    "aiHeadline": "Meet the $96 3D-printed rocket that's probably going to crash into your house, thanks to a $5 sensor that somehow manages to do calculus mid-flight."
+    "author": "tartoran",
+    "created_at": "2026-03-16T18:38:14Z",
+    "aiHeadline": "A 12-year-old Palestinian boy tells the heartbreaking tale of how Israeli forces took out his entire family while they were just trying to get around in their car."
   },
   {
-    "title": "Chrome DevTools MCP",
-    "url": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
-    "points": 367,
-    "num_comments": 154,
+    "title": "Corruption erodes social trust more in democracies than in autocracies",
+    "url": "https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1779810/full",
+    "points": 666,
+    "num_comments": 350,
     "tags": [
       "story",
-      "author_xnx",
-      "story_47390817",
+      "author_PaulHoule",
+      "story_47397593",
       "front_page"
     ],
-    "author": "xnx",
-    "created_at": "2026-03-15T19:12:53Z",
-    "aiHeadline": "Chrome DevTools finally gets an update that makes debugging your browser session slightly less frustrating, because who doesn't love staring at code all day?"
+    "author": "PaulHoule",
+    "created_at": "2026-03-16T11:25:31Z",
+    "aiHeadline": "Corruption is like a thief in the night, but it seems democracies are its favorite victims, losing trust faster than autocracies can say 'we told you so.'"
   },
   {
-    "title": "The Appalling Stupidity of Spotify's AI DJ",
-    "url": "https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html",
-    "points": 353,
-    "num_comments": 288,
+    "title": "MoD sources warn Palantir role at heart of government is threat to UK security",
+    "url": "https://www.thenerve.news/p/palantir-technologies-uk-mod-sources-government-data-insights-security-state-secrets",
+    "points": 595,
+    "num_comments": 243,
     "tags": [
       "story",
-      "author_ingve",
-      "story_47385272"
+      "author_vrganj",
+      "story_47397797"
     ],
-    "author": "ingve",
-    "created_at": "2026-03-15T08:04:55Z",
-    "aiHeadline": "Spotify's AI DJ is now officially the worst DJ ever, proving that even robots can't figure out how to play two songs in a row without making you want to throw your phone out the window."
+    "author": "vrganj",
+    "created_at": "2026-03-16T11:57:33Z",
+    "aiHeadline": "UK's Ministry of Defence is sounding the alarm that Palantir, the data wizard behind the scenes, might be the biggest threat to national security. Who knew data could be so dangerous?"
   },
   {
-    "title": "The 49MB web page",
-    "url": "https://thatshubham.com/blog/news-audit",
-    "points": 331,
-    "num_comments": 176,
+    "title": "US Job Market Visualizer",
+    "url": "https://karpathy.ai/jobs/",
+    "points": 425,
+    "num_comments": 318,
     "tags": [
       "story",
-      "author_kermatt",
-      "story_47390945",
+      "author_andygcook",
+      "story_47400060",
       "front_page"
     ],
-    "author": "kermatt",
-    "created_at": "2026-03-15T19:25:18Z",
-    "aiHeadline": "Web developers have outdone themselves by creating a 49MB webpage that takes longer to load than dial-up internet in the 90s, proving that progress is clearly not our thing."
+    "author": "andygcook",
+    "created_at": "2026-03-16T15:10:30Z",
+    "aiHeadline": "Check out this US Job Market Visualizer, the ultimate tool for job seekers to navigate the labyrinth of employment opportunities. It's like a treasure map for your career!"
   }
 ]
