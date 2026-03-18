@@ -1,75 +1,74 @@
 [
   {
-    "title": "Polymarket gamblers threaten to kill me over Iran missile story",
-    "url": "https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/",
-    "points": 1360,
-    "num_comments": 884,
+    "title": "Kagi Translate now supports LinkedIn Speak as an output language",
+    "url": "https://translate.kagi.com/?from=en&to=LinkedIn+speak",
+    "points": 1323,
+    "num_comments": 321,
     "tags": [
       "story",
-      "author_defly",
-      "story_47397822",
+      "author_smitec",
+      "story_47408703"
+    ],
+    "author": "smitec",
+    "created_at": "2026-03-17T04:39:42Z",
+    "aiHeadline": "Kagi Translate now offers a 'LinkedIn Speak' mode, because who doesn't want to sound like a corporate robot while pretending to be 'authentic'?"
+  },
+  {
+    "title": "Reddit User Uncovers Who Is Behind Meta's $2B Lobbying for Age Verification Tech",
+    "url": "https://www.gadgetreview.com/reddit-user-uncovers-who-is-behind-metas-2b-lobbying-for-invasive-age-verification-tech",
+    "points": 842,
+    "num_comments": 17,
+    "tags": [
+      "story",
+      "author_doener",
+      "story_47410870"
+    ],
+    "author": "doener",
+    "created_at": "2026-03-17T10:39:48Z",
+    "aiHeadline": "Reddit hero uncovers Meta's $2B lobbying for age verification tech, proving that even Big Tech can't resist the urge to be intrusive."
+  },
+  {
+    "title": "Kagi Small Web",
+    "url": "https://kagi.com/smallweb/",
+    "points": 710,
+    "num_comments": 197,
+    "tags": [
+      "story",
+      "author_trueduke",
+      "story_47410542",
       "front_page"
     ],
-    "author": "defly",
-    "created_at": "2026-03-16T12:00:06Z",
-    "aiHeadline": "Gamblers on Polymarket are so desperate to win their bets that they're threatening to off me if I don't spin the Iran missile story their way."
+    "author": "trueduke",
+    "created_at": "2026-03-17T09:53:53Z",
+    "aiHeadline": "Kagi Small Web: Because the internet is just too big and overwhelming, right? Let's make it smaller and more manageable—because that's the only way to survive it."
   },
   {
-    "title": "Palestinian boy, 12, describes how Israeli forces killed his family in car",
-    "url": "https://www.bbc.com/news/articles/c70n2x7p22do",
-    "points": 961,
-    "num_comments": 281,
+    "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
+    "url": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
+    "points": 555,
+    "num_comments": 211,
     "tags": [
       "story",
-      "author_tartoran",
-      "story_47402950"
-    ],
-    "author": "tartoran",
-    "created_at": "2026-03-16T18:38:14Z",
-    "aiHeadline": "A 12-year-old Palestinian boy tells the heartbreaking tale of how Israeli forces took out his entire family while they were just trying to get around in their car."
-  },
-  {
-    "title": "Corruption erodes social trust more in democracies than in autocracies",
-    "url": "https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1779810/full",
-    "points": 666,
-    "num_comments": 350,
-    "tags": [
-      "story",
-      "author_PaulHoule",
-      "story_47397593",
+      "author_crtasm",
+      "story_47413876",
       "front_page"
     ],
-    "author": "PaulHoule",
-    "created_at": "2026-03-16T11:25:31Z",
-    "aiHeadline": "Corruption is like a thief in the night, but it seems democracies are its favorite victims, losing trust faster than autocracies can say 'we told you so.'"
+    "author": "crtasm",
+    "created_at": "2026-03-17T15:16:29Z",
+    "aiHeadline": "Microsoft's 'unhackable' Xbox One finally gets hacked, proving once again that 'unhackable' is just a marketing term that means 'we'll get around to fixing it eventually.'"
   },
   {
-    "title": "MoD sources warn Palantir role at heart of government is threat to UK security",
-    "url": "https://www.thenerve.news/p/palantir-technologies-uk-mod-sources-government-data-insights-security-state-secrets",
-    "points": 595,
-    "num_comments": 243,
+    "title": "Every layer of review makes you 10x slower",
+    "url": "https://apenwarr.ca/log/20260316",
+    "points": 501,
+    "num_comments": 294,
     "tags": [
       "story",
-      "author_vrganj",
-      "story_47397797"
+      "author_greyface-",
+      "story_47408205"
     ],
-    "author": "vrganj",
-    "created_at": "2026-03-16T11:57:33Z",
-    "aiHeadline": "UK's Ministry of Defence is sounding the alarm that Palantir, the data wizard behind the scenes, might be the biggest threat to national security. Who knew data could be so dangerous?"
-  },
-  {
-    "title": "US Job Market Visualizer",
-    "url": "https://karpathy.ai/jobs/",
-    "points": 425,
-    "num_comments": 318,
-    "tags": [
-      "story",
-      "author_andygcook",
-      "story_47400060",
-      "front_page"
-    ],
-    "author": "andygcook",
-    "created_at": "2026-03-16T15:10:30Z",
-    "aiHeadline": "Check out this US Job Market Visualizer, the ultimate tool for job seekers to navigate the labyrinth of employment opportunities. It's like a treasure map for your career!"
+    "author": "greyface-",
+    "created_at": "2026-03-17T03:20:36Z",
+    "aiHeadline": "Every layer of review makes you 10x slower, because nothing says 'efficiency' like a never-ending cycle of approvals and red tape."
   }
 ]
