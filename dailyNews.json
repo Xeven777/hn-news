@@ -1,74 +1,75 @@
 [
   {
-    "title": "Kagi Translate now supports LinkedIn Speak as an output language",
-    "url": "https://translate.kagi.com/?from=en&to=LinkedIn+speak",
-    "points": 1323,
-    "num_comments": 321,
+    "title": "Have a fucking website",
+    "url": "https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/",
+    "points": 854,
+    "num_comments": 484,
     "tags": [
       "story",
-      "author_smitec",
-      "story_47408703"
+      "author_asukachikaru",
+      "story_47421442"
     ],
-    "author": "smitec",
-    "created_at": "2026-03-17T04:39:42Z",
-    "aiHeadline": "Kagi Translate now offers a 'LinkedIn Speak' mode, because who doesn't want to sound like a corporate robot while pretending to be 'authentic'?"
+    "author": "asukachikaru",
+    "created_at": "2026-03-18T03:53:42Z",
+    "aiHeadline": "Why you still don't have a website? Get one now or forever be a loser on the internet."
   },
   {
-    "title": "Reddit User Uncovers Who Is Behind Meta's $2B Lobbying for Age Verification Tech",
-    "url": "https://www.gadgetreview.com/reddit-user-uncovers-who-is-behind-metas-2b-lobbying-for-invasive-age-verification-tech",
-    "points": 842,
-    "num_comments": 17,
+    "title": "Rob Pike’s Rules of Programming (1989)",
+    "url": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
+    "points": 850,
+    "num_comments": 413,
     "tags": [
       "story",
-      "author_doener",
-      "story_47410870"
-    ],
-    "author": "doener",
-    "created_at": "2026-03-17T10:39:48Z",
-    "aiHeadline": "Reddit hero uncovers Meta's $2B lobbying for age verification tech, proving that even Big Tech can't resist the urge to be intrusive."
-  },
-  {
-    "title": "Kagi Small Web",
-    "url": "https://kagi.com/smallweb/",
-    "points": 710,
-    "num_comments": 197,
-    "tags": [
-      "story",
-      "author_trueduke",
-      "story_47410542",
+      "author_vismit2000",
+      "story_47423647",
       "front_page"
     ],
-    "author": "trueduke",
-    "created_at": "2026-03-17T09:53:53Z",
-    "aiHeadline": "Kagi Small Web: Because the internet is just too big and overwhelming, right? Let's make it smaller and more manageable—because that's the only way to survive it."
+    "author": "vismit2000",
+    "created_at": "2026-03-18T09:59:54Z",
+    "aiHeadline": "Programming in 2026 is still stuck in the '80s with Rob Pike's timeless advice."
   },
   {
-    "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
-    "url": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
-    "points": 555,
-    "num_comments": 211,
+    "title": "Nightingale – open-source karaoke app that works with any song on your computer",
+    "url": "https://nightingale.cafe/",
+    "points": 515,
+    "num_comments": 147,
     "tags": [
       "story",
-      "author_crtasm",
-      "story_47413876",
+      "author_rzzzzru",
+      "story_47422942",
       "front_page"
     ],
-    "author": "crtasm",
-    "created_at": "2026-03-17T15:16:29Z",
-    "aiHeadline": "Microsoft's 'unhackable' Xbox One finally gets hacked, proving once again that 'unhackable' is just a marketing term that means 'we'll get around to fixing it eventually.'"
+    "author": "rzzzzru",
+    "created_at": "2026-03-18T08:06:24Z",
+    "aiHeadline": "Finally, an app to make your singing even worse—open-source karaoke for the masses."
   },
   {
-    "title": "Every layer of review makes you 10x slower",
-    "url": "https://apenwarr.ca/log/20260316",
-    "points": 501,
-    "num_comments": 294,
+    "title": "Despite Doubts, Federal Cyber Experts Approved Microsoft Cloud Service",
+    "url": "https://www.propublica.org/article/microsoft-cloud-fedramp-cybersecurity-government",
+    "points": 439,
+    "num_comments": 201,
     "tags": [
       "story",
-      "author_greyface-",
-      "story_47408205"
+      "author_hn_acker",
+      "story_47426057",
+      "front_page"
     ],
-    "author": "greyface-",
-    "created_at": "2026-03-17T03:20:36Z",
-    "aiHeadline": "Every layer of review makes you 10x slower, because nothing says 'efficiency' like a never-ending cycle of approvals and red tape."
+    "author": "hn_acker",
+    "created_at": "2026-03-18T14:14:02Z",
+    "aiHeadline": "Federal experts approve Microsoft cloud—because nothing says 'secure' like trusting a giant corporation."
+  },
+  {
+    "title": "FBI is buying location data to track US citizens, director confirms",
+    "url": "https://techcrunch.com/2026/03/18/fbi-is-buying-location-data-to-track-us-citizens-kash-patel-wyden/",
+    "points": 403,
+    "num_comments": 149,
+    "tags": [
+      "story",
+      "author_jbegley",
+      "story_47430797"
+    ],
+    "author": "jbegley",
+    "created_at": "2026-03-18T20:09:52Z",
+    "aiHeadline": "FBI tracks your every move—because privacy is just a myth now."
   }
 ]
