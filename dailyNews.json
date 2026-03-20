@@ -1,75 +1,75 @@
 [
   {
-    "title": "Have a fucking website",
-    "url": "https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/",
-    "points": 854,
-    "num_comments": 484,
+    "title": "Astral to Join OpenAI",
+    "url": "https://astral.sh/blog/openai",
+    "points": 1226,
+    "num_comments": 759,
     "tags": [
       "story",
-      "author_asukachikaru",
-      "story_47421442"
-    ],
-    "author": "asukachikaru",
-    "created_at": "2026-03-18T03:53:42Z",
-    "aiHeadline": "Why you still don't have a website? Get one now or forever be a loser on the internet."
-  },
-  {
-    "title": "Rob Pike’s Rules of Programming (1989)",
-    "url": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
-    "points": 850,
-    "num_comments": 413,
-    "tags": [
-      "story",
-      "author_vismit2000",
-      "story_47423647",
+      "author_ibraheemdev",
+      "story_47438723",
       "front_page"
     ],
-    "author": "vismit2000",
-    "created_at": "2026-03-18T09:59:54Z",
-    "aiHeadline": "Programming in 2026 is still stuck in the '80s with Rob Pike's timeless advice."
+    "author": "ibraheemdev",
+    "created_at": "2026-03-19T13:05:50Z",
+    "aiHeadline": "Astral joins OpenAI, bringing more AI drama to your life because apparently, we need more of that."
   },
   {
-    "title": "Nightingale – open-source karaoke app that works with any song on your computer",
-    "url": "https://nightingale.cafe/",
-    "points": 515,
-    "num_comments": 147,
+    "title": "Afroman found not liable in defamation case",
+    "url": "https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/",
+    "points": 1108,
+    "num_comments": 647,
     "tags": [
       "story",
-      "author_rzzzzru",
-      "story_47422942",
-      "front_page"
+      "author_antonymoose",
+      "story_47436950"
     ],
-    "author": "rzzzzru",
-    "created_at": "2026-03-18T08:06:24Z",
-    "aiHeadline": "Finally, an app to make your singing even worse—open-source karaoke for the masses."
+    "author": "antonymoose",
+    "created_at": "2026-03-19T09:51:56Z",
+    "aiHeadline": "Afroman wins defamation case, proving that even the most bizarre legal battles can be won, probably because the case was as confusing as his music."
   },
   {
-    "title": "Despite Doubts, Federal Cyber Experts Approved Microsoft Cloud Service",
-    "url": "https://www.propublica.org/article/microsoft-cloud-fedramp-cybersecurity-government",
+    "title": "A sufficiently detailed spec is code",
+    "url": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code",
+    "points": 593,
+    "num_comments": 322,
+    "tags": [
+      "story",
+      "author_signa11",
+      "story_47434047"
+    ],
+    "author": "signa11",
+    "created_at": "2026-03-19T02:23:17Z",
+    "aiHeadline": "Tech experts reveal that a detailed spec is basically code, because who needs actual coding when you can just write really long documentation?"
+  },
+  {
+    "title": "Google details new 24-hour process to sideload unverified Android apps",
+    "url": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
+    "points": 525,
+    "num_comments": 617,
+    "tags": [
+      "story",
+      "author_0xedb",
+      "story_47442690",
+      "front_page"
+    ],
+    "author": "0xedb",
+    "created_at": "2026-03-19T17:16:04Z",
+    "aiHeadline": "Google introduces a 24-hour process for sideloading unverified Android apps, because who needs security when you can have instant gratification?"
+  },
+  {
+    "title": "“Your frustration is the product”",
+    "url": "https://daringfireball.net/2026/03/your_frustration_is_the_product",
     "points": 439,
-    "num_comments": 201,
+    "num_comments": 255,
     "tags": [
       "story",
-      "author_hn_acker",
-      "story_47426057",
+      "author_llm_nerd",
+      "story_47437655",
       "front_page"
     ],
-    "author": "hn_acker",
-    "created_at": "2026-03-18T14:14:02Z",
-    "aiHeadline": "Federal experts approve Microsoft cloud—because nothing says 'secure' like trusting a giant corporation."
-  },
-  {
-    "title": "FBI is buying location data to track US citizens, director confirms",
-    "url": "https://techcrunch.com/2026/03/18/fbi-is-buying-location-data-to-track-us-citizens-kash-patel-wyden/",
-    "points": 403,
-    "num_comments": 149,
-    "tags": [
-      "story",
-      "author_jbegley",
-      "story_47430797"
-    ],
-    "author": "jbegley",
-    "created_at": "2026-03-18T20:09:52Z",
-    "aiHeadline": "FBI tracks your every move—because privacy is just a myth now."
+    "author": "llm_nerd",
+    "created_at": "2026-03-19T11:34:24Z",
+    "aiHeadline": "Your frustration is now the product, because apparently, that's the new trend in tech, and we're all just here to make companies richer by being annoyed."
   }
 ]
