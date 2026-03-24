@@ -1,75 +1,75 @@
 [
   {
-    "title": "I'm OK being left behind, thanks",
-    "url": "https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/",
-    "points": 806,
-    "num_comments": 671,
+    "title": "Migrating to the EU",
+    "url": "https://rz01.org/eu-migration/",
+    "points": 835,
+    "num_comments": 640,
     "tags": [
       "story",
-      "author_coinfused",
-      "story_47454341"
-    ],
-    "author": "coinfused",
-    "created_at": "2026-03-20T13:38:56Z",
-    "aiHeadline": "I'm totally fine with being the last person to figure out how to use TikTok, thanks a lot, internet."
-  },
-  {
-    "title": "ArXiv declares independence from Cornell",
-    "url": "https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell",
-    "points": 720,
-    "num_comments": 251,
-    "tags": [
-      "story",
-      "author_bookstore-romeo",
-      "story_47450478",
+      "author_exitnode",
+      "story_47487436",
       "front_page"
     ],
-    "author": "bookstore-romeo",
-    "created_at": "2026-03-20T04:24:11Z",
-    "aiHeadline": "ArXiv breaks up with Cornell: 'It's not you, it's me, and I need to be my own preprint server now.'"
+    "author": "exitnode",
+    "created_at": "2026-03-23T10:17:32Z",
+    "aiHeadline": "Migrating to the EU? Good luck, because apparently the EU is now so appealing that people are voluntarily moving there despite the endless paperwork, questionable food, and questionable weather."
   },
   {
-    "title": "Chuck Norris has died",
-    "url": "https://variety.com/2026/film/news/chuck-norris-dead-walker-texas-ranger-dies-1236694953/",
-    "points": 693,
-    "num_comments": 421,
+    "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
+    "url": "https://twitter.com/anemll/status/2035901335984611412",
+    "points": 490,
+    "num_comments": 243,
     "tags": [
       "story",
-      "author_mp3il",
-      "story_47454782"
-    ],
-    "author": "mp3il",
-    "created_at": "2026-03-20T14:09:58Z",
-    "aiHeadline": "Chuck Norris 'dies' but we all know he's just taking a break from being indestructible."
-  },
-  {
-    "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
-    "url": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
-    "points": 475,
-    "num_comments": 397,
-    "tags": [
-      "story",
-      "author_MrDresden",
-      "story_47453942",
+      "author_anemll",
+      "story_47490070",
       "front_page"
     ],
-    "author": "MrDresden",
-    "created_at": "2026-03-20T13:01:56Z",
-    "aiHeadline": "France's aircraft carrier gets tracked by a fitness app: 'I didn't know my morning jog would lead to this.'"
+    "author": "anemll",
+    "created_at": "2026-03-23T14:30:10Z",
+    "aiHeadline": "iPhone 17 Pro just proved that Apple can now fit a 400 billion parameter language model into your pocket, but let's be real, who needs that when you can just ask Siri to turn on the lights?"
   },
   {
-    "title": "OpenCode – Open source AI coding agent",
-    "url": "https://opencode.ai/",
-    "points": 455,
-    "num_comments": 206,
+    "title": "GitHub appears to be struggling with measly three nines availability",
+    "url": "https://www.theregister.com/2026/02/10/github_outages/",
+    "points": 436,
+    "num_comments": 225,
     "tags": [
       "story",
-      "author_rbanffy",
-      "story_47460525",
+      "author_richtr",
+      "story_47487584"
+    ],
+    "author": "richtr",
+    "created_at": "2026-03-23T10:39:39Z",
+    "aiHeadline": "GitHub is struggling with a measly three nines availability? Wow, I guess even the best can have off days. Maybe they should try some of that '99.9%' uptime stuff they always talk about."
+  },
+  {
+    "title": "POSSE – Publish on your Own Site, Syndicate Elsewhere",
+    "url": "https://indieweb.org/POSSE",
+    "points": 391,
+    "num_comments": 81,
+    "tags": [
+      "story",
+      "author_tosh",
+      "story_47486726"
+    ],
+    "author": "tosh",
+    "created_at": "2026-03-23T08:29:27Z",
+    "aiHeadline": "POSSE: Because who doesn't want to be a star on their own little corner of the internet? Just don't forget to bring your own spotlight."
+  },
+  {
+    "title": "Two pilots dead after plane and ground vehicle collide at LaGuardia",
+    "url": "https://www.bbc.com/news/articles/cy01g522ww4o",
+    "points": 353,
+    "num_comments": 549,
+    "tags": [
+      "story",
+      "author_mememememememo",
+      "story_47486386",
       "front_page"
     ],
-    "author": "rbanffy",
-    "created_at": "2026-03-20T21:03:52Z",
-    "aiHeadline": "OpenCode: Because who needs sleep when you can have an AI write your code for you? Open source, so you can argue about it on GitHub all night."
+    "author": "mememememememo",
+    "created_at": "2026-03-23T07:24:19Z",
+    "aiHeadline": "Two pilots dead after plane and ground vehicle collide at LaGuardia: A tragic reminder that even in the age of advanced technology, sometimes things just don't go as planned. Or maybe it's just New York."
   }
 ]
