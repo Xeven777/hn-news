@@ -1,75 +1,75 @@
 [
   {
-    "title": "Migrating to the EU",
-    "url": "https://rz01.org/eu-migration/",
-    "points": 835,
-    "num_comments": 640,
+    "title": "Microsoft's \"fix\" for Windows 11",
+    "url": "https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/",
+    "points": 924,
+    "num_comments": 687,
     "tags": [
       "story",
-      "author_exitnode",
-      "story_47487436",
+      "author_h0ek",
+      "story_47500335"
+    ],
+    "author": "h0ek",
+    "created_at": "2026-03-24T09:36:29Z",
+    "aiHeadline": "Microsoft's 'fix' for Windows 11 is so bad it makes you question whether you even wanted a computer in the first place."
+  },
+  {
+    "title": "Malicious litellm_init.pth in litellm 1.82.8 PyPI package – credential stealer",
+    "url": "https://github.com/BerriAI/litellm/issues/24512",
+    "points": 720,
+    "num_comments": 1,
+    "tags": [
+      "story",
+      "author_theanonymousone",
+      "story_47501729"
+    ],
+    "author": "theanonymousone",
+    "created_at": "2026-03-24T12:36:20Z",
+    "aiHeadline": "PyPI package 'accidentally' includes malicious file that 'steals' your credentials while you're busy trying to code."
+  },
+  {
+    "title": "Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains",
+    "url": "https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/",
+    "points": 694,
+    "num_comments": 248,
+    "tags": [
+      "story",
+      "author_felineflock",
+      "story_47507150",
       "front_page"
     ],
-    "author": "exitnode",
-    "created_at": "2026-03-23T10:17:32Z",
-    "aiHeadline": "Migrating to the EU? Good luck, because apparently the EU is now so appealing that people are voluntarily moving there despite the endless paperwork, questionable food, and questionable weather."
+    "author": "felineflock",
+    "created_at": "2026-03-24T18:34:52Z",
+    "aiHeadline": "Wine 11 finally makes Linux run Windows games faster, because who doesn't want to play games on a system that's already running a game called 'Linux'?"
   },
   {
-    "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
-    "url": "https://twitter.com/anemll/status/2035901335984611412",
-    "points": 490,
-    "num_comments": 243,
+    "title": "Is anybody else bored of talking about AI?",
+    "url": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/",
+    "points": 543,
+    "num_comments": 379,
     "tags": [
       "story",
-      "author_anemll",
-      "story_47490070",
+      "author_jakelsaunders94",
+      "story_47508745",
       "front_page"
     ],
-    "author": "anemll",
-    "created_at": "2026-03-23T14:30:10Z",
-    "aiHeadline": "iPhone 17 Pro just proved that Apple can now fit a 400 billion parameter language model into your pocket, but let's be real, who needs that when you can just ask Siri to turn on the lights?"
+    "author": "jakelsaunders94",
+    "created_at": "2026-03-24T20:31:08Z",
+    "aiHeadline": "AI Researchers Finally Admit They're Bored of Talking About AI, Because Apparently Even Robots Get Tired of Hearing Themselves Talk."
   },
   {
-    "title": "GitHub appears to be struggling with measly three nines availability",
-    "url": "https://www.theregister.com/2026/02/10/github_outages/",
-    "points": 436,
-    "num_comments": 225,
+    "title": "Apple Business",
+    "url": "https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/",
+    "points": 525,
+    "num_comments": 319,
     "tags": [
       "story",
-      "author_richtr",
-      "story_47487584"
-    ],
-    "author": "richtr",
-    "created_at": "2026-03-23T10:39:39Z",
-    "aiHeadline": "GitHub is struggling with a measly three nines availability? Wow, I guess even the best can have off days. Maybe they should try some of that '99.9%' uptime stuff they always talk about."
-  },
-  {
-    "title": "POSSE – Publish on your Own Site, Syndicate Elsewhere",
-    "url": "https://indieweb.org/POSSE",
-    "points": 391,
-    "num_comments": 81,
-    "tags": [
-      "story",
-      "author_tosh",
-      "story_47486726"
-    ],
-    "author": "tosh",
-    "created_at": "2026-03-23T08:29:27Z",
-    "aiHeadline": "POSSE: Because who doesn't want to be a star on their own little corner of the internet? Just don't forget to bring your own spotlight."
-  },
-  {
-    "title": "Two pilots dead after plane and ground vehicle collide at LaGuardia",
-    "url": "https://www.bbc.com/news/articles/cy01g522ww4o",
-    "points": 353,
-    "num_comments": 549,
-    "tags": [
-      "story",
-      "author_mememememememo",
-      "story_47486386",
+      "author_soheilpro",
+      "story_47504112",
       "front_page"
     ],
-    "author": "mememememememo",
-    "created_at": "2026-03-23T07:24:19Z",
-    "aiHeadline": "Two pilots dead after plane and ground vehicle collide at LaGuardia: A tragic reminder that even in the age of advanced technology, sometimes things just don't go as planned. Or maybe it's just New York."
+    "author": "soheilpro",
+    "created_at": "2026-03-24T15:29:41Z",
+    "aiHeadline": "Apple Launches New 'Business' Platform, Because Clearly the World Needs Another Overpriced Solution for Something That Already Exists."
   }
 ]
