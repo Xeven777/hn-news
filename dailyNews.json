@@ -1,75 +1,75 @@
 [
   {
-    "title": "Microsoft's \"fix\" for Windows 11",
-    "url": "https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/",
-    "points": 924,
-    "num_comments": 687,
+    "title": "We haven't seen the worst of what gambling and prediction markets will do",
+    "url": "https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what",
+    "points": 584,
+    "num_comments": 412,
     "tags": [
       "story",
-      "author_h0ek",
-      "story_47500335"
-    ],
-    "author": "h0ek",
-    "created_at": "2026-03-24T09:36:29Z",
-    "aiHeadline": "Microsoft's 'fix' for Windows 11 is so bad it makes you question whether you even wanted a computer in the first place."
-  },
-  {
-    "title": "Malicious litellm_init.pth in litellm 1.82.8 PyPI package – credential stealer",
-    "url": "https://github.com/BerriAI/litellm/issues/24512",
-    "points": 720,
-    "num_comments": 1,
-    "tags": [
-      "story",
-      "author_theanonymousone",
-      "story_47501729"
-    ],
-    "author": "theanonymousone",
-    "created_at": "2026-03-24T12:36:20Z",
-    "aiHeadline": "PyPI package 'accidentally' includes malicious file that 'steals' your credentials while you're busy trying to code."
-  },
-  {
-    "title": "Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains",
-    "url": "https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/",
-    "points": 694,
-    "num_comments": 248,
-    "tags": [
-      "story",
-      "author_felineflock",
-      "story_47507150",
+      "author_mmcclure",
+      "story_47534848",
       "front_page"
     ],
-    "author": "felineflock",
-    "created_at": "2026-03-24T18:34:52Z",
-    "aiHeadline": "Wine 11 finally makes Linux run Windows games faster, because who doesn't want to play games on a system that's already running a game called 'Linux'?"
+    "author": "mmcclure",
+    "created_at": "2026-03-26T19:48:05Z",
+    "aiHeadline": "Prepare for chaos as gambling and prediction markets are just getting started with their destructive potential."
   },
   {
-    "title": "Is anybody else bored of talking about AI?",
-    "url": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/",
-    "points": 543,
-    "num_comments": 379,
+    "title": "End of \"Chat Control\": EU parliament stops mass surveillance",
+    "url": "https://www.patrick-breyer.de/en/end-of-chat-control-eu-parliament-stops-mass-surveillance-in-voting-thriller-paving-the-way-for-genuine-child-protection/",
+    "points": 573,
+    "num_comments": 267,
     "tags": [
       "story",
-      "author_jakelsaunders94",
-      "story_47508745",
-      "front_page"
+      "author_amarcheschi",
+      "story_47529609"
     ],
-    "author": "jakelsaunders94",
-    "created_at": "2026-03-24T20:31:08Z",
-    "aiHeadline": "AI Researchers Finally Admit They're Bored of Talking About AI, Because Apparently Even Robots Get Tired of Hearing Themselves Talk."
+    "author": "amarcheschi",
+    "created_at": "2026-03-26T12:24:36Z",
+    "aiHeadline": "In a surprising move, the EU parliament decides to stop mass surveillance, effectively ending privacy as we know it."
   },
   {
-    "title": "Apple Business",
-    "url": "https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/",
-    "points": 525,
-    "num_comments": 319,
+    "title": "European Parliament decided that Chat Control 1.0 must stop",
+    "url": "https://bsky.app/profile/tuta.com/post/3mhxkfowv322c",
+    "points": 552,
+    "num_comments": 23,
     "tags": [
       "story",
-      "author_soheilpro",
-      "story_47504112",
+      "author_lemoncookiechip",
+      "story_47529646"
+    ],
+    "author": "lemoncookiechip",
+    "created_at": "2026-03-26T12:30:59Z",
+    "aiHeadline": "The EU parliament votes to end Chat Control 1.0, but don't worry, version 2.0 is probably just around the corner."
+  },
+  {
+    "title": "Moving from GitHub to Codeberg, for lazy people",
+    "url": "https://unterwaditzer.net/2025/codeberg.html",
+    "points": 535,
+    "num_comments": 263,
+    "tags": [
+      "story",
+      "author_jslakro",
+      "story_47530330",
       "front_page"
     ],
-    "author": "soheilpro",
-    "created_at": "2026-03-24T15:29:41Z",
-    "aiHeadline": "Apple Launches New 'Business' Platform, Because Clearly the World Needs Another Overpriced Solution for Something That Already Exists."
+    "author": "jslakro",
+    "created_at": "2026-03-26T13:38:25Z",
+    "aiHeadline": "Lazy developers rejoice! Moving from GitHub to Codeberg is now easier than ever, so you can finally stop pretending you're not just looking for an excuse to procrastinate."
+  },
+  {
+    "title": "My minute-by-minute response to the LiteLLM malware attack",
+    "url": "https://futuresearch.ai/blog/litellm-attack-transcript/",
+    "points": 305,
+    "num_comments": 126,
+    "tags": [
+      "story",
+      "author_Fibonar",
+      "story_47531967",
+      "front_page"
+    ],
+    "author": "Fibonar",
+    "created_at": "2026-03-26T15:48:40Z",
+    "aiHeadline": "In a nail-biting play-by-play, someone documents their minute-by-minute response to the LiteLLM malware attack, proving that even hackers need a good script."
   }
 ]
