@@ -1,75 +1,75 @@
 [
   {
-    "title": "We haven't seen the worst of what gambling and prediction markets will do",
-    "url": "https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what",
-    "points": 584,
-    "num_comments": 412,
+    "title": "If you don't opt out by Apr 24 GitHub will train on your private repos",
+    "points": 632,
+    "num_comments": 283,
     "tags": [
       "story",
-      "author_mmcclure",
-      "story_47534848",
+      "author_vmg12",
+      "story_47548243",
+      "ask_hn"
+    ],
+    "author": "vmg12",
+    "created_at": "2026-03-27T21:04:51Z",
+    "aiHeadline": "GitHub Decides Your Private Repos Are Its New Toy—Opt Out or Become a Guinea Pig by April 24!"
+  },
+  {
+    "title": "Hold on to Your Hardware",
+    "url": "https://xn--gckvb8fzb.com/hold-on-to-your-hardware/",
+    "points": 574,
+    "num_comments": 464,
+    "tags": [
+      "story",
+      "author_LucidLynx",
+      "story_47540833",
       "front_page"
     ],
-    "author": "mmcclure",
-    "created_at": "2026-03-26T19:48:05Z",
-    "aiHeadline": "Prepare for chaos as gambling and prediction markets are just getting started with their destructive potential."
+    "author": "LucidLynx",
+    "created_at": "2026-03-27T10:10:41Z",
+    "aiHeadline": "Tech Apocalypse Alert: Hold Onto Your Hardware—The Next Catastrophic Glitch Is Just Around the Corner!"
   },
   {
-    "title": "End of \"Chat Control\": EU parliament stops mass surveillance",
-    "url": "https://www.patrick-breyer.de/en/end-of-chat-control-eu-parliament-stops-mass-surveillance-in-voting-thriller-paving-the-way-for-genuine-child-protection/",
-    "points": 573,
-    "num_comments": 267,
+    "title": "People inside Microsoft are fighting to drop mandatory Microsoft Account",
+    "url": "https://www.windowscentral.com/microsoft/windows-11/people-inside-microsoft-are-fighting-to-drop-windows-11s-mandatory-microsoft-account-requirements-during-setup",
+    "points": 528,
+    "num_comments": 408,
     "tags": [
       "story",
-      "author_amarcheschi",
-      "story_47529609"
-    ],
-    "author": "amarcheschi",
-    "created_at": "2026-03-26T12:24:36Z",
-    "aiHeadline": "In a surprising move, the EU parliament decides to stop mass surveillance, effectively ending privacy as we know it."
-  },
-  {
-    "title": "European Parliament decided that Chat Control 1.0 must stop",
-    "url": "https://bsky.app/profile/tuta.com/post/3mhxkfowv322c",
-    "points": 552,
-    "num_comments": 23,
-    "tags": [
-      "story",
-      "author_lemoncookiechip",
-      "story_47529646"
-    ],
-    "author": "lemoncookiechip",
-    "created_at": "2026-03-26T12:30:59Z",
-    "aiHeadline": "The EU parliament votes to end Chat Control 1.0, but don't worry, version 2.0 is probably just around the corner."
-  },
-  {
-    "title": "Moving from GitHub to Codeberg, for lazy people",
-    "url": "https://unterwaditzer.net/2025/codeberg.html",
-    "points": 535,
-    "num_comments": 263,
-    "tags": [
-      "story",
-      "author_jslakro",
-      "story_47530330",
+      "author_breve",
+      "story_47542695",
       "front_page"
     ],
-    "author": "jslakro",
-    "created_at": "2026-03-26T13:38:25Z",
-    "aiHeadline": "Lazy developers rejoice! Moving from GitHub to Codeberg is now easier than ever, so you can finally stop pretending you're not just looking for an excuse to procrastinate."
+    "author": "breve",
+    "created_at": "2026-03-27T13:54:35Z",
+    "aiHeadline": "Microsoft Employees Rebel Against Forced Account Tyranny—Will Users Finally Breathe a Sigh of Relief?"
   },
   {
-    "title": "My minute-by-minute response to the LiteLLM malware attack",
-    "url": "https://futuresearch.ai/blog/litellm-attack-transcript/",
-    "points": 305,
-    "num_comments": 126,
+    "title": "The 'paperwork flood': How I drowned a bureaucrat before dinner",
+    "url": "https://sightlessscribbles.com/posts/the-paperwork-flood/",
+    "points": 524,
+    "num_comments": 428,
     "tags": [
       "story",
-      "author_Fibonar",
-      "story_47531967",
+      "author_robin_reala",
+      "story_47542057"
+    ],
+    "author": "robin_reala",
+    "created_at": "2026-03-27T12:46:49Z",
+    "aiHeadline": "Bureaucratic Whodunit: One Man’s Quest to Drown Paperwork Before Dessert—Spoiler: It’s Not Pretty!"
+  },
+  {
+    "title": "Anatomy of the .claude/ folder",
+    "url": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
+    "points": 382,
+    "num_comments": 192,
+    "tags": [
+      "story",
+      "author_freedomben",
+      "story_47543139",
       "front_page"
     ],
-    "author": "Fibonar",
-    "created_at": "2026-03-26T15:48:40Z",
-    "aiHeadline": "In a nail-biting play-by-play, someone documents their minute-by-minute response to the LiteLLM malware attack, proving that even hackers need a good script."
+    "author": "freedomben",
+    "created_at": "2026-03-27T14:35:45Z",
+    "aiHeadline": "The Mysterious .claude/ Folder: What’s Inside This Digital Black Box, and Why Should You Care?"
   }
 ]
