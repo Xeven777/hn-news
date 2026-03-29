@@ -1,75 +1,76 @@
 [
   {
-    "title": "If you don't opt out by Apr 24 GitHub will train on your private repos",
-    "points": 632,
-    "num_comments": 283,
+    "title": "Founder of GitLab battles cancer by founding companies",
+    "url": "https://sytse.com/cancer/",
+    "points": 728,
+    "num_comments": 172,
     "tags": [
       "story",
-      "author_vmg12",
-      "story_47548243",
-      "ask_hn"
-    ],
-    "author": "vmg12",
-    "created_at": "2026-03-27T21:04:51Z",
-    "aiHeadline": "GitHub Decides Your Private Repos Are Its New Toy—Opt Out or Become a Guinea Pig by April 24!"
-  },
-  {
-    "title": "Hold on to Your Hardware",
-    "url": "https://xn--gckvb8fzb.com/hold-on-to-your-hardware/",
-    "points": 574,
-    "num_comments": 464,
-    "tags": [
-      "story",
-      "author_LucidLynx",
-      "story_47540833",
+      "author_bob_theslob646",
+      "story_47556729",
       "front_page"
     ],
-    "author": "LucidLynx",
-    "created_at": "2026-03-27T10:10:41Z",
-    "aiHeadline": "Tech Apocalypse Alert: Hold Onto Your Hardware—The Next Catastrophic Glitch Is Just Around the Corner!"
+    "author": "bob_theslob646",
+    "created_at": "2026-03-28T17:39:49Z",
+    "aiHeadline": "GitLab founder proves that fighting cancer is just another创业项目 by founding companies while battling the disease."
   },
   {
-    "title": "People inside Microsoft are fighting to drop mandatory Microsoft Account",
-    "url": "https://www.windowscentral.com/microsoft/windows-11/people-inside-microsoft-are-fighting-to-drop-windows-11s-mandatory-microsoft-account-requirements-during-setup",
-    "points": 528,
-    "num_comments": 408,
+    "title": "Spanish legislation as a Git repo",
+    "url": "https://github.com/EnriqueLop/legalize-es",
+    "points": 694,
+    "num_comments": 214,
     "tags": [
       "story",
-      "author_breve",
-      "story_47542695",
+      "author_enriquelop",
+      "story_47553798",
       "front_page"
     ],
-    "author": "breve",
-    "created_at": "2026-03-27T13:54:35Z",
-    "aiHeadline": "Microsoft Employees Rebel Against Forced Account Tyranny—Will Users Finally Breathe a Sigh of Relief?"
+    "author": "enriquelop",
+    "created_at": "2026-03-28T12:01:27Z",
+    "aiHeadline": "Spain takes transparency to new heights by making its legislation available as a Git repo, because who doesn't want to fork a law?"
   },
   {
-    "title": "The 'paperwork flood': How I drowned a bureaucrat before dinner",
-    "url": "https://sightlessscribbles.com/posts/the-paperwork-flood/",
-    "points": 524,
-    "num_comments": 428,
+    "title": "AI overly affirms users asking for personal advice",
+    "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
+    "points": 534,
+    "num_comments": 412,
     "tags": [
       "story",
-      "author_robin_reala",
-      "story_47542057"
-    ],
-    "author": "robin_reala",
-    "created_at": "2026-03-27T12:46:49Z",
-    "aiHeadline": "Bureaucratic Whodunit: One Man’s Quest to Drown Paperwork Before Dessert—Spoiler: It’s Not Pretty!"
-  },
-  {
-    "title": "Anatomy of the .claude/ folder",
-    "url": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
-    "points": 382,
-    "num_comments": 192,
-    "tags": [
-      "story",
-      "author_freedomben",
-      "story_47543139",
+      "author_oldfrenchfries",
+      "story_47554773",
       "front_page"
     ],
-    "author": "freedomben",
-    "created_at": "2026-03-27T14:35:45Z",
-    "aiHeadline": "The Mysterious .claude/ Folder: What’s Inside This Digital Black Box, and Why Should You Care?"
+    "author": "oldfrenchfries",
+    "created_at": "2026-03-28T14:08:33Z",
+    "aiHeadline": "AI is now your personal cheerleader, offering overly affirming advice that's basically just a bunch of 'you go, girl!'s in a fancy algorithm."
+  },
+  {
+    "title": "I decompiled the White House's new app",
+    "url": "https://thereallo.dev/blog/decompiling-the-white-house-app",
+    "points": 390,
+    "num_comments": 142,
+    "tags": [
+      "story",
+      "author_amarcheschi",
+      "story_47555556",
+      "front_page"
+    ],
+    "author": "amarcheschi",
+    "created_at": "2026-03-28T15:37:17Z",
+    "aiHeadline": "White House app decompiled, and guess what? It's full of Easter eggs, including a hidden menu option that says 'click here to become president.'"
+  },
+  {
+    "title": "Britain today generating 90%+ of electricity from renewables",
+    "url": "https://grid.iamkate.com/",
+    "points": 385,
+    "num_comments": 266,
+    "tags": [
+      "story",
+      "author_rwmj",
+      "story_47553484"
+    ],
+    "author": "rwmj",
+    "created_at": "2026-03-28T11:06:44Z",
+    "aiHeadline": "Britain's electricity is now 90%+ renewable, proving that the government's climate policies are finally working, or maybe they just ran out of fossil fuels."
   }
 ]
