@@ -1,76 +1,76 @@
 [
   {
-    "title": "Founder of GitLab battles cancer by founding companies",
-    "url": "https://sytse.com/cancer/",
-    "points": 728,
-    "num_comments": 172,
+    "title": "LinkedIn uses 2.4 GB RAM across two tabs",
+    "points": 632,
+    "num_comments": 367,
     "tags": [
       "story",
-      "author_bob_theslob646",
-      "story_47556729",
+      "author_hrncode",
+      "story_47561489",
+      "ask_hn",
       "front_page"
     ],
-    "author": "bob_theslob646",
-    "created_at": "2026-03-28T17:39:49Z",
-    "aiHeadline": "GitLab founder proves that fighting cancer is just another创业项目 by founding companies while battling the disease."
+    "author": "hrncode",
+    "created_at": "2026-03-29T08:58:24Z",
+    "aiHeadline": "LinkedIn's RAM usage is so high, it's like running a luxury car in the background."
   },
   {
-    "title": "Spanish legislation as a Git repo",
-    "url": "https://github.com/EnriqueLop/legalize-es",
-    "points": 694,
-    "num_comments": 214,
+    "title": "Say No to Palantir in Europe",
+    "url": "https://action.wemove.eu/sign/2026-03-palantir-petition-EN",
+    "points": 531,
+    "num_comments": 148,
     "tags": [
       "story",
-      "author_enriquelop",
-      "story_47553798",
+      "author_Betelbuddy",
+      "story_47563655"
+    ],
+    "author": "Betelbuddy",
+    "created_at": "2026-03-29T14:51:20Z",
+    "aiHeadline": "Europeans are saying 'No' to Palantir, because who needs more data surveillance, right?"
+  },
+  {
+    "title": "Nitrile and latex gloves may cause overestimation of microplastics",
+    "url": "https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/",
+    "points": 519,
+    "num_comments": 235,
+    "tags": [
+      "story",
+      "author_giuliomagnifico",
+      "story_47561711",
       "front_page"
     ],
-    "author": "enriquelop",
-    "created_at": "2026-03-28T12:01:27Z",
-    "aiHeadline": "Spain takes transparency to new heights by making its legislation available as a Git repo, because who doesn't want to fork a law?"
+    "author": "giuliomagnifico",
+    "created_at": "2026-03-29T09:46:58Z",
+    "aiHeadline": "Gloves are so clean, they're making microplastics look worse than they are."
   },
   {
-    "title": "AI overly affirms users asking for personal advice",
-    "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
-    "points": 534,
-    "num_comments": 412,
+    "title": "Voyager 1 runs on 69 KB of memory and an 8-track tape recorder",
+    "url": "https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/",
+    "points": 409,
+    "num_comments": 173,
     "tags": [
       "story",
-      "author_oldfrenchfries",
-      "story_47554773",
+      "author_speckx",
+      "story_47564421",
       "front_page"
     ],
-    "author": "oldfrenchfries",
-    "created_at": "2026-03-28T14:08:33Z",
-    "aiHeadline": "AI is now your personal cheerleader, offering overly affirming advice that's basically just a bunch of 'you go, girl!'s in a fancy algorithm."
+    "author": "speckx",
+    "created_at": "2026-03-29T16:12:22Z",
+    "aiHeadline": "Voyager 1 is so old-school, it's still using tech from the 70s."
   },
   {
-    "title": "I decompiled the White House's new app",
-    "url": "https://thereallo.dev/blog/decompiling-the-white-house-app",
-    "points": 390,
-    "num_comments": 142,
+    "title": "Police used AI facial recognition to wrongly arrest TN woman for crimes in ND",
+    "url": "https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition",
+    "points": 362,
+    "num_comments": 157,
     "tags": [
       "story",
-      "author_amarcheschi",
-      "story_47555556",
+      "author_ourmandave",
+      "story_47563384",
       "front_page"
     ],
-    "author": "amarcheschi",
-    "created_at": "2026-03-28T15:37:17Z",
-    "aiHeadline": "White House app decompiled, and guess what? It's full of Easter eggs, including a hidden menu option that says 'click here to become president.'"
-  },
-  {
-    "title": "Britain today generating 90%+ of electricity from renewables",
-    "url": "https://grid.iamkate.com/",
-    "points": 385,
-    "num_comments": 266,
-    "tags": [
-      "story",
-      "author_rwmj",
-      "story_47553484"
-    ],
-    "author": "rwmj",
-    "created_at": "2026-03-28T11:06:44Z",
-    "aiHeadline": "Britain's electricity is now 90%+ renewable, proving that the government's climate policies are finally working, or maybe they just ran out of fossil fuels."
+    "author": "ourmandave",
+    "created_at": "2026-03-29T14:20:23Z",
+    "aiHeadline": "AI facial recognition is so accurate, it even arrests people for crimes they didn't commit in another state."
   }
 ]
