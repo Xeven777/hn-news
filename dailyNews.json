@@ -1,76 +1,75 @@
 [
   {
-    "title": "LinkedIn uses 2.4 GB RAM across two tabs",
-    "points": 632,
-    "num_comments": 367,
+    "title": "Copilot edited an ad into my PR",
+    "url": "https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/",
+    "points": 1466,
+    "num_comments": 611,
     "tags": [
       "story",
-      "author_hrncode",
-      "story_47561489",
-      "ask_hn",
+      "author_pavo-etc",
+      "story_47570269"
+    ],
+    "author": "pavo-etc",
+    "created_at": "2026-03-30T04:04:31Z",
+    "aiHeadline": "AI assistant accidentally turns your professional project into a commercial, proving that even robots can't resist the allure of capitalism."
+  },
+  {
+    "title": "How to turn anything into a router",
+    "url": "https://nbailey.ca/post/router/",
+    "points": 603,
+    "num_comments": 211,
+    "tags": [
+      "story",
+      "author_yabones",
+      "story_47574034",
       "front_page"
     ],
-    "author": "hrncode",
-    "created_at": "2026-03-29T08:58:24Z",
-    "aiHeadline": "LinkedIn's RAM usage is so high, it's like running a luxury car in the background."
+    "author": "yabones",
+    "created_at": "2026-03-30T13:28:54Z",
+    "aiHeadline": "Transform your toaster into a Wi-Fi hotspot—because why not? Because your neighbors will probably hate you, that's why."
   },
   {
-    "title": "Say No to Palantir in Europe",
-    "url": "https://action.wemove.eu/sign/2026-03-palantir-petition-EN",
-    "points": 531,
-    "num_comments": 148,
-    "tags": [
-      "story",
-      "author_Betelbuddy",
-      "story_47563655"
-    ],
-    "author": "Betelbuddy",
-    "created_at": "2026-03-29T14:51:20Z",
-    "aiHeadline": "Europeans are saying 'No' to Palantir, because who needs more data surveillance, right?"
-  },
-  {
-    "title": "Nitrile and latex gloves may cause overestimation of microplastics",
-    "url": "https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/",
-    "points": 519,
-    "num_comments": 235,
-    "tags": [
-      "story",
-      "author_giuliomagnifico",
-      "story_47561711",
-      "front_page"
-    ],
-    "author": "giuliomagnifico",
-    "created_at": "2026-03-29T09:46:58Z",
-    "aiHeadline": "Gloves are so clean, they're making microplastics look worse than they are."
-  },
-  {
-    "title": "Voyager 1 runs on 69 KB of memory and an 8-track tape recorder",
-    "url": "https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/",
-    "points": 409,
-    "num_comments": 173,
+    "title": "Fedware: Government apps that spy harder than the apps they ban",
+    "url": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
+    "points": 440,
+    "num_comments": 134,
     "tags": [
       "story",
       "author_speckx",
-      "story_47564421",
+      "story_47577761",
       "front_page"
     ],
     "author": "speckx",
-    "created_at": "2026-03-29T16:12:22Z",
-    "aiHeadline": "Voyager 1 is so old-school, it's still using tech from the 70s."
+    "created_at": "2026-03-30T18:16:00Z",
+    "aiHeadline": "Government releases 'spyware' app, proving they're better at surveillance than the apps they criticize. Spoiler alert: they're not."
   },
   {
-    "title": "Police used AI facial recognition to wrongly arrest TN woman for crimes in ND",
-    "url": "https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition",
-    "points": 362,
-    "num_comments": 157,
+    "title": "Do your own writing",
+    "url": "https://alexhwoods.com/dont-let-ai-write-for-you/",
+    "points": 385,
+    "num_comments": 132,
     "tags": [
       "story",
-      "author_ourmandave",
-      "story_47563384",
+      "author_karimf",
+      "story_47573519",
       "front_page"
     ],
-    "author": "ourmandave",
-    "created_at": "2026-03-29T14:20:23Z",
-    "aiHeadline": "AI facial recognition is so accurate, it even arrests people for crimes they didn't commit in another state."
+    "author": "karimf",
+    "created_at": "2026-03-30T12:39:56Z",
+    "aiHeadline": "AI can write, but maybe you should too—because if you don't, you might as well just hand over your job to a machine. And your dignity. And your soul."
+  },
+  {
+    "title": "How the AI Bubble Bursts",
+    "url": "https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/",
+    "points": 353,
+    "num_comments": 473,
+    "tags": [
+      "story",
+      "author_martinvol",
+      "story_47573420"
+    ],
+    "author": "martinvol",
+    "created_at": "2026-03-30T12:28:36Z",
+    "aiHeadline": "AI bubble bursts, leaving everyone wondering why they thought it was a good idea in the first place. Spoiler alert: it wasn't."
   }
 ]
