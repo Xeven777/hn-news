@@ -1,75 +1,74 @@
 [
   {
-    "title": "Copilot edited an ad into my PR",
-    "url": "https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/",
-    "points": 1466,
-    "num_comments": 611,
+    "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
+    "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
+    "points": 1907,
+    "num_comments": 942,
     "tags": [
       "story",
-      "author_pavo-etc",
-      "story_47570269"
+      "author_treexs",
+      "story_47584540"
     ],
-    "author": "pavo-etc",
-    "created_at": "2026-03-30T04:04:31Z",
-    "aiHeadline": "AI assistant accidentally turns your professional project into a commercial, proving that even robots can't resist the allure of capitalism."
+    "author": "treexs",
+    "created_at": "2026-03-31T09:00:40Z",
+    "aiHeadline": "Claude Code's source code gets leaked via a map file in their NPM registry, because who doesn't love a good security breach?"
   },
   {
-    "title": "How to turn anything into a router",
-    "url": "https://nbailey.ca/post/router/",
-    "points": 603,
-    "num_comments": 211,
+    "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
+    "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
+    "points": 1784,
+    "num_comments": 726,
     "tags": [
       "story",
-      "author_yabones",
-      "story_47574034",
+      "author_mtud",
+      "story_47582220",
       "front_page"
     ],
-    "author": "yabones",
-    "created_at": "2026-03-30T13:28:54Z",
-    "aiHeadline": "Transform your toaster into a Wi-Fi hotspot—because why not? Because your neighbors will probably hate you, that's why."
+    "author": "mtud",
+    "created_at": "2026-03-31T02:54:17Z",
+    "aiHeadline": "Axios on NPM? Yeah, because nothing says 'trust us' like a malicious version dropping a remote access trojan. Security, who needs it?"
   },
   {
-    "title": "Fedware: Government apps that spy harder than the apps they ban",
-    "url": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
-    "points": 440,
-    "num_comments": 134,
+    "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+    "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+    "points": 869,
+    "num_comments": 349,
     "tags": [
       "story",
-      "author_speckx",
-      "story_47577761",
+      "author_alex000kim",
+      "story_47586778",
       "front_page"
     ],
-    "author": "speckx",
-    "created_at": "2026-03-30T18:16:00Z",
-    "aiHeadline": "Government releases 'spyware' app, proving they're better at surveillance than the apps they criticize. Spoiler alert: they're not."
+    "author": "alex000kim",
+    "created_at": "2026-03-31T13:04:30Z",
+    "aiHeadline": "The Claude Code Source Leak: fake tools, frustration regexes, and undercover mode—because why have one problem when you can have three?"
   },
   {
-    "title": "Do your own writing",
-    "url": "https://alexhwoods.com/dont-let-ai-write-for-you/",
-    "points": 385,
-    "num_comments": 132,
+    "title": "Oracle slashes 30k jobs",
+    "url": "https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/",
+    "points": 833,
+    "num_comments": 745,
     "tags": [
       "story",
-      "author_karimf",
-      "story_47573519",
-      "front_page"
+      "author_pje",
+      "story_47587935"
     ],
-    "author": "karimf",
-    "created_at": "2026-03-30T12:39:56Z",
-    "aiHeadline": "AI can write, but maybe you should too—because if you don't, you might as well just hand over your job to a machine. And your dignity. And your soul."
+    "author": "pje",
+    "created_at": "2026-03-31T14:30:48Z",
+    "aiHeadline": "Oracle slashes 30k jobs, proving that 'downsizing' is just a fancy word for 'we're cutting your salary and firing you.'"
   },
   {
-    "title": "How the AI Bubble Bursts",
-    "url": "https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/",
-    "points": 353,
-    "num_comments": 473,
+    "title": "Ollama is now powered by MLX on Apple Silicon in preview",
+    "url": "https://ollama.com/blog/mlx",
+    "points": 608,
+    "num_comments": 333,
     "tags": [
       "story",
-      "author_martinvol",
-      "story_47573420"
+      "author_redundantly",
+      "story_47582482"
     ],
-    "author": "martinvol",
-    "created_at": "2026-03-30T12:28:36Z",
-    "aiHeadline": "AI bubble bursts, leaving everyone wondering why they thought it was a good idea in the first place. Spoiler alert: it wasn't."
+    "author": "redundantly",
+    "created_at": "2026-03-31T03:40:45Z",
+    "aiHeadline": "Ollama is now powered by MLX on Apple Silicon in preview—because who doesn't love a good 'beta' version that might or might not work?"
   }
 ]
