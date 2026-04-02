@@ -1,74 +1,74 @@
 [
   {
-    "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
-    "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
-    "points": 1907,
-    "num_comments": 942,
+    "title": "Claude Code Unpacked : A visual guide",
+    "url": "https://ccunpacked.dev/",
+    "points": 1038,
+    "num_comments": 366,
     "tags": [
       "story",
-      "author_treexs",
-      "story_47584540"
+      "author_autocracy101",
+      "story_47597085"
     ],
-    "author": "treexs",
-    "created_at": "2026-03-31T09:00:40Z",
-    "aiHeadline": "Claude Code's source code gets leaked via a map file in their NPM registry, because who doesn't love a good security breach?"
+    "author": "autocracy101",
+    "created_at": "2026-04-01T05:15:37Z",
+    "aiHeadline": "Claude Code Unpacked: The ultimate visual guide that will change your life forever, or maybe just make your code slightly less messy."
   },
   {
-    "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
-    "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
-    "points": 1784,
-    "num_comments": 726,
+    "title": "Live: Artemis II Launch Day Updates",
+    "url": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
+    "points": 664,
+    "num_comments": 633,
     "tags": [
       "story",
-      "author_mtud",
-      "story_47582220",
+      "author_apitman",
+      "story_47603657",
       "front_page"
     ],
-    "author": "mtud",
-    "created_at": "2026-03-31T02:54:17Z",
-    "aiHeadline": "Axios on NPM? Yeah, because nothing says 'trust us' like a malicious version dropping a remote access trojan. Security, who needs it?"
+    "author": "apitman",
+    "created_at": "2026-04-01T17:11:31Z",
+    "aiHeadline": "Live: Artemis II Launch Day Updates - Because space travel is still the most exciting way to prove we're not all going to die in a fiery ball of plasma."
   },
   {
-    "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
-    "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
-    "points": 869,
-    "num_comments": 349,
+    "title": "EmDash – A spiritual successor to WordPress that solves plugin security",
+    "url": "https://blog.cloudflare.com/emdash-wordpress/",
+    "points": 474,
+    "num_comments": 339,
     "tags": [
       "story",
-      "author_alex000kim",
-      "story_47586778",
+      "author_elithrar",
+      "story_47602832",
       "front_page"
     ],
-    "author": "alex000kim",
-    "created_at": "2026-03-31T13:04:30Z",
-    "aiHeadline": "The Claude Code Source Leak: fake tools, frustration regexes, and undercover mode—because why have one problem when you can have three?"
+    "author": "elithrar",
+    "created_at": "2026-04-01T16:14:38Z",
+    "aiHeadline": "EmDash: The spiritual successor to WordPress that finally solves plugin security, because clearly the last 15 years of vulnerabilities weren't enough."
   },
   {
-    "title": "Oracle slashes 30k jobs",
-    "url": "https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/",
-    "points": 833,
-    "num_comments": 745,
+    "title": "CERN levels up with new superconducting karts",
+    "url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
+    "points": 385,
+    "num_comments": 85,
     "tags": [
       "story",
-      "author_pje",
-      "story_47587935"
+      "author_fnands",
+      "story_47597935"
     ],
-    "author": "pje",
-    "created_at": "2026-03-31T14:30:48Z",
-    "aiHeadline": "Oracle slashes 30k jobs, proving that 'downsizing' is just a fancy word for 'we're cutting your salary and firing you.'"
+    "author": "fnands",
+    "created_at": "2026-04-01T07:27:13Z",
+    "aiHeadline": "CERN levels up with new superconducting karts - Because who needs particle accelerators when you can just race around the lab in style?"
   },
   {
-    "title": "Ollama is now powered by MLX on Apple Silicon in preview",
-    "url": "https://ollama.com/blog/mlx",
-    "points": 608,
-    "num_comments": 333,
+    "title": "I quit. The clankers won",
+    "url": "https://dbushell.com/2026/04/01/i-quit-the-clankers-won/",
+    "points": 377,
+    "num_comments": 441,
     "tags": [
       "story",
-      "author_redundantly",
-      "story_47582482"
+      "author_domysee",
+      "story_47598511"
     ],
-    "author": "redundantly",
-    "created_at": "2026-03-31T03:40:45Z",
-    "aiHeadline": "Ollama is now powered by MLX on Apple Silicon in preview—because who doesn't love a good 'beta' version that might or might not work?"
+    "author": "domysee",
+    "created_at": "2026-04-01T09:00:34Z",
+    "aiHeadline": "I quit. The clankers won - Because sometimes, even the most dedicated professionals just can't take the clanking anymore."
   }
 ]
