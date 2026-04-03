@@ -1,74 +1,76 @@
 [
   {
-    "title": "Claude Code Unpacked : A visual guide",
-    "url": "https://ccunpacked.dev/",
-    "points": 1038,
-    "num_comments": 366,
+    "title": "LinkedIn is searching your browser extensions",
+    "url": "https://browsergate.eu/",
+    "points": 1573,
+    "num_comments": 685,
     "tags": [
       "story",
-      "author_autocracy101",
-      "story_47597085"
-    ],
-    "author": "autocracy101",
-    "created_at": "2026-04-01T05:15:37Z",
-    "aiHeadline": "Claude Code Unpacked: The ultimate visual guide that will change your life forever, or maybe just make your code slightly less messy."
-  },
-  {
-    "title": "Live: Artemis II Launch Day Updates",
-    "url": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
-    "points": 664,
-    "num_comments": 633,
-    "tags": [
-      "story",
-      "author_apitman",
-      "story_47603657",
+      "author_digitalWestie",
+      "story_47613981",
       "front_page"
     ],
-    "author": "apitman",
-    "created_at": "2026-04-01T17:11:31Z",
-    "aiHeadline": "Live: Artemis II Launch Day Updates - Because space travel is still the most exciting way to prove we're not all going to die in a fiery ball of plasma."
+    "author": "digitalWestie",
+    "created_at": "2026-04-02T13:09:09Z",
+    "aiHeadline": "LinkedIn's latest privacy invasion: now scanning your browser extensions for fun and profit, because who needs actual consent when you can just snoop?"
   },
   {
-    "title": "EmDash – A spiritual successor to WordPress that solves plugin security",
-    "url": "https://blog.cloudflare.com/emdash-wordpress/",
-    "points": 474,
-    "num_comments": 339,
+    "title": "Google releases Gemma 4 open models",
+    "url": "https://deepmind.google/models/gemma/gemma-4/",
+    "points": 1184,
+    "num_comments": 355,
     "tags": [
       "story",
-      "author_elithrar",
-      "story_47602832",
+      "author_jeffmcjunkin",
+      "story_47616361",
       "front_page"
     ],
-    "author": "elithrar",
-    "created_at": "2026-04-01T16:14:38Z",
-    "aiHeadline": "EmDash: The spiritual successor to WordPress that finally solves plugin security, because clearly the last 15 years of vulnerabilities weren't enough."
+    "author": "jeffmcjunkin",
+    "created_at": "2026-04-02T16:10:54Z",
+    "aiHeadline": "Google's latest AI marvel, Gemma 4, because why have just one AI model when you can have a whole family? Now you can enjoy the same level of eeriness with even more layers of opacity!"
   },
   {
-    "title": "CERN levels up with new superconducting karts",
-    "url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
-    "points": 385,
-    "num_comments": 85,
+    "title": "Sweden goes back to basics, swapping screens for books in the classroom",
+    "url": "https://undark.org/2026/04/01/sweden-schools-books/",
+    "points": 750,
+    "num_comments": 384,
     "tags": [
       "story",
-      "author_fnands",
-      "story_47597935"
+      "author_novaRom",
+      "story_47612601",
+      "front_page"
     ],
-    "author": "fnands",
-    "created_at": "2026-04-01T07:27:13Z",
-    "aiHeadline": "CERN levels up with new superconducting karts - Because who needs particle accelerators when you can just race around the lab in style?"
+    "author": "novaRom",
+    "created_at": "2026-04-02T10:50:00Z",
+    "aiHeadline": "Sweden takes a bold step backward in education by swapping screens for books, proving that sometimes the best way to innovate is to just... not innovate at all."
   },
   {
-    "title": "I quit. The clankers won",
-    "url": "https://dbushell.com/2026/04/01/i-quit-the-clankers-won/",
-    "points": 377,
-    "num_comments": 441,
+    "title": "Steam on Linux Use Skyrocketed Above 5% in March",
+    "url": "https://www.phoronix.com/news/Steam-On-Linux-Tops-5p",
+    "points": 721,
+    "num_comments": 335,
     "tags": [
       "story",
-      "author_domysee",
-      "story_47598511"
+      "author_hkmaxpro",
+      "story_47609564"
     ],
-    "author": "domysee",
-    "created_at": "2026-04-01T09:00:34Z",
-    "aiHeadline": "I quit. The clankers won - Because sometimes, even the most dedicated professionals just can't take the clanking anymore."
+    "author": "hkmaxpro",
+    "created_at": "2026-04-02T03:12:24Z",
+    "aiHeadline": "Steam on Linux usage hits a whopping 5% in March, because who needs a dominant market share when you can have a niche that's just barely noticeable?"
+  },
+  {
+    "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
+    "url": "https://lemonade-server.ai",
+    "points": 451,
+    "num_comments": 98,
+    "tags": [
+      "story",
+      "author_AbuAssar",
+      "story_47612724",
+      "front_page"
+    ],
+    "author": "AbuAssar",
+    "created_at": "2026-04-02T11:04:51Z",
+    "aiHeadline": "AMD's Lemonade: the latest in open-source AI servers, because who needs proprietary software when you can have a refreshing glass of 'we told you so' from the underdog?"
   }
 ]
