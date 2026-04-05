@@ -1,76 +1,77 @@
 [
   {
-    "title": "LinkedIn is searching your browser extensions",
-    "url": "https://browsergate.eu/",
-    "points": 1573,
-    "num_comments": 685,
+    "title": "Author of \"Careless People\" banned from saying anything negative about Meta",
+    "url": "https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf",
+    "points": 745,
+    "num_comments": 491,
     "tags": [
       "story",
-      "author_digitalWestie",
-      "story_47613981",
-      "front_page"
+      "author_macleginn",
+      "story_47639524"
     ],
-    "author": "digitalWestie",
-    "created_at": "2026-04-02T13:09:09Z",
-    "aiHeadline": "LinkedIn's latest privacy invasion: now scanning your browser extensions for fun and profit, because who needs actual consent when you can just snoop?"
+    "author": "macleginn",
+    "created_at": "2026-04-04T14:48:26Z",
+    "aiHeadline": "Author of 'Careless People' banned from being careless about Meta, because clearly, they were doing it right all along."
   },
   {
-    "title": "Google releases Gemma 4 open models",
-    "url": "https://deepmind.google/models/gemma/gemma-4/",
-    "points": 1184,
-    "num_comments": 355,
+    "title": "Embarrassingly simple self-distillation improves code generation",
+    "url": "https://arxiv.org/abs/2604.01193",
+    "points": 556,
+    "num_comments": 168,
     "tags": [
       "story",
-      "author_jeffmcjunkin",
-      "story_47616361",
+      "author_Anon84",
+      "story_47637757",
       "front_page"
     ],
-    "author": "jeffmcjunkin",
-    "created_at": "2026-04-02T16:10:54Z",
-    "aiHeadline": "Google's latest AI marvel, Gemma 4, because why have just one AI model when you can have a whole family? Now you can enjoy the same level of eeriness with even more layers of opacity!"
+    "author": "Anon84",
+    "created_at": "2026-04-04T10:26:21Z",
+    "aiHeadline": "AI discovers that being embarrassingly simple is the key to self-improvement, proving once again that even geniuses can be clueless."
   },
   {
-    "title": "Sweden goes back to basics, swapping screens for books in the classroom",
-    "url": "https://undark.org/2026/04/01/sweden-schools-books/",
-    "points": 750,
-    "num_comments": 384,
+    "title": "Show HN: A game where you build a GPU",
+    "url": "https://jaso1024.com/mvidia/",
+    "points": 526,
+    "num_comments": 138,
     "tags": [
       "story",
-      "author_novaRom",
-      "story_47612601",
+      "author_Jaso1024",
+      "story_47640728",
+      "show_hn",
       "front_page"
     ],
-    "author": "novaRom",
-    "created_at": "2026-04-02T10:50:00Z",
-    "aiHeadline": "Sweden takes a bold step backward in education by swapping screens for books, proving that sometimes the best way to innovate is to just... not innovate at all."
+    "author": "Jaso1024",
+    "created_at": "2026-04-04T16:45:54Z",
+    "aiHeadline": "Build your own GPU in this new game, because clearly, you're not good enough at it in real life."
   },
   {
-    "title": "Steam on Linux Use Skyrocketed Above 5% in March",
-    "url": "https://www.phoronix.com/news/Steam-On-Linux-Tops-5p",
-    "points": 721,
-    "num_comments": 335,
+    "title": "How many products does Microsoft have named 'Copilot'?",
+    "url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
+    "points": 439,
+    "num_comments": 224,
     "tags": [
       "story",
-      "author_hkmaxpro",
-      "story_47609564"
-    ],
-    "author": "hkmaxpro",
-    "created_at": "2026-04-02T03:12:24Z",
-    "aiHeadline": "Steam on Linux usage hits a whopping 5% in March, because who needs a dominant market share when you can have a niche that's just barely noticeable?"
-  },
-  {
-    "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
-    "url": "https://lemonade-server.ai",
-    "points": 451,
-    "num_comments": 98,
-    "tags": [
-      "story",
-      "author_AbuAssar",
-      "story_47612724",
+      "author_gpi",
+      "story_47642569",
       "front_page"
     ],
-    "author": "AbuAssar",
-    "created_at": "2026-04-02T11:04:51Z",
-    "aiHeadline": "AMD's Lemonade: the latest in open-source AI servers, because who needs proprietary software when you can have a refreshing glass of 'we told you so' from the underdog?"
+    "author": "gpi",
+    "created_at": "2026-04-04T19:39:43Z",
+    "aiHeadline": "Microsoft's 'Copilot' naming strategy: because one 'Copilot' wasn't confusing enough."
+  },
+  {
+    "title": "Apple approves driver that lets Nvidia eGPUs work with Arm Macs",
+    "url": "https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs",
+    "points": 374,
+    "num_comments": 165,
+    "tags": [
+      "story",
+      "author_naves",
+      "story_47640380",
+      "front_page"
+    ],
+    "author": "naves",
+    "created_at": "2026-04-04T16:16:10Z",
+    "aiHeadline": "Apple finally approves driver for Nvidia eGPUs on Arm Macs, because who doesn't want their computer to be as slow as possible?"
   }
 ]
