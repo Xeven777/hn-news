@@ -1,77 +1,75 @@
 [
   {
-    "title": "Author of \"Careless People\" banned from saying anything negative about Meta",
-    "url": "https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf",
-    "points": 745,
+    "title": "Sam Altman may control our future – can he be trusted?",
+    "url": "https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted",
+    "points": 929,
+    "num_comments": 345,
+    "tags": [
+      "story",
+      "author_adrianhon",
+      "story_47659135",
+      "front_page"
+    ],
+    "author": "adrianhon",
+    "created_at": "2026-04-06T10:36:57Z",
+    "aiHeadline": "Sam Altman: The guy who might decide your fate while you're too busy scrolling Twitter to care."
+  },
+  {
+    "title": "I won't download your app. The web version is a-ok",
+    "url": "https://www.0xsid.com/blog/wont-download-your-app",
+    "points": 832,
     "num_comments": 491,
     "tags": [
       "story",
-      "author_macleginn",
-      "story_47639524"
+      "author_ssiddharth",
+      "story_47661439"
     ],
-    "author": "macleginn",
-    "created_at": "2026-04-04T14:48:26Z",
-    "aiHeadline": "Author of 'Careless People' banned from being careless about Meta, because clearly, they were doing it right all along."
+    "author": "ssiddharth",
+    "created_at": "2026-04-06T14:31:29Z",
+    "aiHeadline": "Why download an app when the web version works perfectly? Because I'm not a sucker for unnecessary app store drama."
   },
   {
-    "title": "Embarrassingly simple self-distillation improves code generation",
-    "url": "https://arxiv.org/abs/2604.01193",
-    "points": 556,
-    "num_comments": 168,
+    "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
+    "url": "https://github.com/anthropics/claude-code/issues/42796",
+    "points": 779,
+    "num_comments": 473,
     "tags": [
       "story",
-      "author_Anon84",
-      "story_47637757",
+      "author_StanAngeloff",
+      "story_47660925",
       "front_page"
     ],
-    "author": "Anon84",
-    "created_at": "2026-04-04T10:26:21Z",
-    "aiHeadline": "AI discovers that being embarrassingly simple is the key to self-improvement, proving once again that even geniuses can be clueless."
+    "author": "StanAngeloff",
+    "created_at": "2026-04-06T13:50:35Z",
+    "aiHeadline": "Claude Code: Because nothing says 'I got this' like failing at basic engineering tasks after an update."
   },
   {
-    "title": "Show HN: A game where you build a GPU",
-    "url": "https://jaso1024.com/mvidia/",
-    "points": 526,
-    "num_comments": 138,
+    "title": "France pulls last gold held in US",
+    "url": "https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/",
+    "points": 568,
+    "num_comments": 312,
     "tags": [
       "story",
-      "author_Jaso1024",
-      "story_47640728",
-      "show_hn",
-      "front_page"
+      "author_teleforce",
+      "story_47658146"
     ],
-    "author": "Jaso1024",
-    "created_at": "2026-04-04T16:45:54Z",
-    "aiHeadline": "Build your own GPU in this new game, because clearly, you're not good enough at it in real life."
+    "author": "teleforce",
+    "created_at": "2026-04-06T08:03:43Z",
+    "aiHeadline": "France: 'We're taking our gold back from the US, and we're up $15 billion. Watch us glow with our newfound riches!'"
   },
   {
-    "title": "How many products does Microsoft have named 'Copilot'?",
-    "url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
-    "points": 439,
-    "num_comments": 224,
+    "title": "The cult of vibe coding is dogfooding run amok",
+    "url": "https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane",
+    "points": 480,
+    "num_comments": 420,
     "tags": [
       "story",
-      "author_gpi",
-      "story_47642569",
+      "author_drob518",
+      "story_47664912",
       "front_page"
     ],
-    "author": "gpi",
-    "created_at": "2026-04-04T19:39:43Z",
-    "aiHeadline": "Microsoft's 'Copilot' naming strategy: because one 'Copilot' wasn't confusing enough."
-  },
-  {
-    "title": "Apple approves driver that lets Nvidia eGPUs work with Arm Macs",
-    "url": "https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs",
-    "points": 374,
-    "num_comments": 165,
-    "tags": [
-      "story",
-      "author_naves",
-      "story_47640380",
-      "front_page"
-    ],
-    "author": "naves",
-    "created_at": "2026-04-04T16:16:10Z",
-    "aiHeadline": "Apple finally approves driver for Nvidia eGPUs on Arm Macs, because who doesn't want their computer to be as slow as possible?"
+    "author": "drob518",
+    "created_at": "2026-04-06T18:31:03Z",
+    "aiHeadline": "The cult of vibe coding: Where developers gather to worship the idea that writing code while feeling 'good' somehow makes you a genius."
   }
 ]
