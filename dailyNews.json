@@ -1,75 +1,77 @@
 [
   {
-    "title": "Sam Altman may control our future – can he be trusted?",
-    "url": "https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted",
-    "points": 929,
-    "num_comments": 345,
+    "title": "Project Glasswing: Securing critical software for the AI era",
+    "url": "https://www.anthropic.com/glasswing",
+    "points": 946,
+    "num_comments": 422,
     "tags": [
       "story",
-      "author_adrianhon",
-      "story_47659135",
+      "author_Ryan5453",
+      "story_47679121",
       "front_page"
     ],
-    "author": "adrianhon",
-    "created_at": "2026-04-06T10:36:57Z",
-    "aiHeadline": "Sam Altman: The guy who might decide your fate while you're too busy scrolling Twitter to care."
+    "author": "Ryan5453",
+    "created_at": "2026-04-07T18:09:34Z",
+    "aiHeadline": "Project Glasswing: Because securing critical software for the AI era is just as important as securing your front door from a Terminator"
   },
   {
-    "title": "I won't download your app. The web version is a-ok",
-    "url": "https://www.0xsid.com/blog/wont-download-your-app",
-    "points": 832,
-    "num_comments": 491,
+    "title": "Show HN: Brutalist Concrete Laptop Stand (2024)",
+    "url": "https://sam-burns.com/posts/concrete-laptop-stand/",
+    "points": 708,
+    "num_comments": 217,
     "tags": [
       "story",
-      "author_ssiddharth",
-      "story_47661439"
-    ],
-    "author": "ssiddharth",
-    "created_at": "2026-04-06T14:31:29Z",
-    "aiHeadline": "Why download an app when the web version works perfectly? Because I'm not a sucker for unnecessary app store drama."
-  },
-  {
-    "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
-    "url": "https://github.com/anthropics/claude-code/issues/42796",
-    "points": 779,
-    "num_comments": 473,
-    "tags": [
-      "story",
-      "author_StanAngeloff",
-      "story_47660925",
+      "author_sam-bee",
+      "story_47673360",
+      "show_hn",
       "front_page"
     ],
-    "author": "StanAngeloff",
-    "created_at": "2026-04-06T13:50:35Z",
-    "aiHeadline": "Claude Code: Because nothing says 'I got this' like failing at basic engineering tasks after an update."
+    "author": "sam-bee",
+    "created_at": "2026-04-07T11:07:44Z",
+    "aiHeadline": "Brutalist Concrete Laptop Stand: Because minimalism is for wimps, and your laptop deserves a throne made of concrete"
   },
   {
-    "title": "France pulls last gold held in US",
-    "url": "https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/",
-    "points": 568,
-    "num_comments": 312,
+    "title": "Are We Idiocracy Yet?",
+    "url": "https://idiocracy.wtf/",
+    "points": 599,
+    "num_comments": 515,
     "tags": [
       "story",
-      "author_teleforce",
-      "story_47658146"
+      "author_jdiiufccuskal",
+      "story_47672818"
     ],
-    "author": "teleforce",
-    "created_at": "2026-04-06T08:03:43Z",
-    "aiHeadline": "France: 'We're taking our gold back from the US, and we're up $15 billion. Watch us glow with our newfound riches!'"
+    "author": "jdiiufccuskal",
+    "created_at": "2026-04-07T09:57:39Z",
+    "aiHeadline": "Are We Idiocracy Yet?: Well, if the latest headlines are any indication, we're definitely on the fast track to becoming the dumbest generation in history"
   },
   {
-    "title": "The cult of vibe coding is dogfooding run amok",
-    "url": "https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane",
-    "points": 480,
-    "num_comments": 420,
+    "title": "System Card: Claude Mythos Preview [pdf]",
+    "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
+    "points": 554,
+    "num_comments": 404,
     "tags": [
       "story",
-      "author_drob518",
-      "story_47664912",
+      "author_be7a",
+      "story_47679258",
       "front_page"
     ],
-    "author": "drob518",
-    "created_at": "2026-04-06T18:31:03Z",
-    "aiHeadline": "The cult of vibe coding: Where developers gather to worship the idea that writing code while feeling 'good' somehow makes you a genius."
+    "author": "be7a",
+    "created_at": "2026-04-07T18:18:36Z",
+    "aiHeadline": "Claude Mythos Preview: Because every AI needs a Greek god name and a mysterious backstory, just like your ex"
+  },
+  {
+    "title": "GLM-5.1: Towards Long-Horizon Tasks",
+    "url": "https://z.ai/blog/glm-5.1",
+    "points": 431,
+    "num_comments": 154,
+    "tags": [
+      "story",
+      "author_zixuanlimit",
+      "story_47677853",
+      "front_page"
+    ],
+    "author": "zixuanlimit",
+    "created_at": "2026-04-07T16:32:15Z",
+    "aiHeadline": "GLM-5.1: Because solving long-horizon tasks is just as easy as predicting the stock market or your ex's next move"
   }
 ]
