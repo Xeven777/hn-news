@@ -1,77 +1,77 @@
 [
   {
-    "title": "Project Glasswing: Securing critical software for the AI era",
-    "url": "https://www.anthropic.com/glasswing",
-    "points": 946,
-    "num_comments": 422,
+    "title": "Git commands I run before reading any code",
+    "url": "https://piechowski.io/post/git-commands-before-reading-code/",
+    "points": 1832,
+    "num_comments": 391,
     "tags": [
       "story",
-      "author_Ryan5453",
-      "story_47679121",
+      "author_grepsedawk",
+      "story_47687273",
       "front_page"
     ],
-    "author": "Ryan5453",
-    "created_at": "2026-04-07T18:09:34Z",
-    "aiHeadline": "Project Glasswing: Because securing critical software for the AI era is just as important as securing your front door from a Terminator"
+    "author": "grepsedawk",
+    "created_at": "2026-04-08T08:53:42Z",
+    "aiHeadline": "Git Guts: The 10 Commands You Must Run Before Even Thinking About Reading Someone Else's Code"
   },
   {
-    "title": "Show HN: Brutalist Concrete Laptop Stand (2024)",
-    "url": "https://sam-burns.com/posts/concrete-laptop-stand/",
-    "points": 708,
-    "num_comments": 217,
+    "title": "I ported Mac OS X to the Nintendo Wii",
+    "url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
+    "points": 1283,
+    "num_comments": 216,
     "tags": [
       "story",
-      "author_sam-bee",
-      "story_47673360",
-      "show_hn",
+      "author_blkhp19",
+      "story_47691730",
       "front_page"
     ],
-    "author": "sam-bee",
-    "created_at": "2026-04-07T11:07:44Z",
-    "aiHeadline": "Brutalist Concrete Laptop Stand: Because minimalism is for wimps, and your laptop deserves a throne made of concrete"
+    "author": "blkhp19",
+    "created_at": "2026-04-08T15:40:00Z",
+    "aiHeadline": "Time Travelers Rejoice! Mac OS X is Now Available on Your Nintendo Wii (Because Obviously That Was the Missing Piece)"
   },
   {
-    "title": "Are We Idiocracy Yet?",
-    "url": "https://idiocracy.wtf/",
-    "points": 599,
-    "num_comments": 515,
+    "title": "Veracrypt project update",
+    "url": "https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/",
+    "points": 1151,
+    "num_comments": 425,
     "tags": [
       "story",
-      "author_jdiiufccuskal",
-      "story_47672818"
-    ],
-    "author": "jdiiufccuskal",
-    "created_at": "2026-04-07T09:57:39Z",
-    "aiHeadline": "Are We Idiocracy Yet?: Well, if the latest headlines are any indication, we're definitely on the fast track to becoming the dumbest generation in history"
-  },
-  {
-    "title": "System Card: Claude Mythos Preview [pdf]",
-    "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
-    "points": 554,
-    "num_comments": 404,
-    "tags": [
-      "story",
-      "author_be7a",
-      "story_47679258",
+      "author_super256",
+      "story_47686549",
       "front_page"
     ],
-    "author": "be7a",
-    "created_at": "2026-04-07T18:18:36Z",
-    "aiHeadline": "Claude Mythos Preview: Because every AI needs a Greek god name and a mysterious backstory, just like your ex"
+    "author": "super256",
+    "created_at": "2026-04-08T07:23:39Z",
+    "aiHeadline": "Veracrypt Finally Gets an Update, Because Why Not Do It When Everyone's Attention is on AI and Climate Change?"
   },
   {
-    "title": "GLM-5.1: Towards Long-Horizon Tasks",
-    "url": "https://z.ai/blog/glm-5.1",
-    "points": 431,
-    "num_comments": 154,
+    "title": "US cities are axing Flock Safety surveillance technology",
+    "url": "https://www.cnet.com/home/security/when-flock-comes-to-town-why-cities-are-axing-the-controversial-surveillance-technology/",
+    "points": 642,
+    "num_comments": 376,
     "tags": [
       "story",
-      "author_zixuanlimit",
-      "story_47677853",
+      "author_giuliomagnifico",
+      "story_47689237",
       "front_page"
     ],
-    "author": "zixuanlimit",
-    "created_at": "2026-04-07T16:32:15Z",
-    "aiHeadline": "GLM-5.1: Because solving long-horizon tasks is just as easy as predicting the stock market or your ex's next move"
+    "author": "giuliomagnifico",
+    "created_at": "2026-04-08T12:26:14Z",
+    "aiHeadline": "US Cities Say 'No Thanks' to Flock Safety Surveillance Tech, Proving That Privacy is Still a Thing in Some Places"
+  },
+  {
+    "title": "Škoda DuoBell: A bicycle bell that penetrates noise-cancelling headphones",
+    "url": "https://www.skoda-storyboard.com/en/skoda-world/skoda-duobell-a-bicycle-bell-that-outsmarts-even-smart-headphones/",
+    "points": 538,
+    "num_comments": 545,
+    "tags": [
+      "story",
+      "author_ra",
+      "story_47687248",
+      "front_page"
+    ],
+    "author": "ra",
+    "created_at": "2026-04-08T08:50:37Z",
+    "aiHeadline": "Introducing the Škoda DuoBell: Because Regular Bike Bells Just Aren't Annoying Enough for Today's Noise-Canceling World"
   }
 ]
