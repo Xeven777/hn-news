@@ -1,74 +1,76 @@
 [
   {
-    "title": "France Launches Government Linux Desktop Plan as Windows Exit Begins",
-    "url": "https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/",
-    "points": 825,
-    "num_comments": 421,
+    "title": "Small models also found the vulnerabilities that Mythos found",
+    "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
+    "points": 867,
+    "num_comments": 242,
     "tags": [
       "story",
-      "author_embedding-shape",
-      "story_47716043"
-    ],
-    "author": "embedding-shape",
-    "created_at": "2026-04-10T10:37:33Z",
-    "aiHeadline": "France Officially Adopts Linux, Proving Once Again That No One Understands Linux Better Than Governments."
-  },
-  {
-    "title": "1D Chess",
-    "url": "https://rowan441.github.io/1dchess/chess.html",
-    "points": 672,
-    "num_comments": 130,
-    "tags": [
-      "story",
-      "author_burnt-resistor",
-      "story_47719740",
+      "author_dominicq",
+      "story_47732020",
       "front_page"
     ],
-    "author": "burnt-resistor",
-    "created_at": "2026-04-10T15:37:28Z",
-    "aiHeadline": "1D Chess: Because Regular Chess Wasn't Tedious Enough, Let's Make It Even More Boring by Removing 90% of the Board!"
+    "author": "dominicq",
+    "created_at": "2026-04-11T16:47:28Z",
+    "aiHeadline": "Even Small AI Models Are In On The Fun, Finding The Same Flaws As Mythos—Guess Size Doesn’t Always Matter!"
   },
   {
-    "title": "FBI used iPhone notification data to retrieve deleted Signal messages",
-    "url": "https://9to5mac.com/2026/04/09/fbi-used-iphone-notification-data-to-retrieve-deleted-signal-messages/",
-    "points": 567,
-    "num_comments": 285,
+    "title": "France's government is ditching Windows for Linux, says US tech a strategic risk",
+    "url": "https://www.xda-developers.com/frances-government-ditching-windows-for-linux/",
+    "points": 419,
+    "num_comments": 230,
     "tags": [
       "story",
-      "author_01-_-",
-      "story_47716490"
+      "author_pabs3",
+      "story_47728653"
     ],
-    "author": "01-_-",
-    "created_at": "2026-04-10T11:29:04Z",
-    "aiHeadline": "FBI Discovers That 'Delete' Doesn't Actually Mean 'Delete,' Because Apparently, Notifications Have a Better Memory Than You."
+    "author": "pabs3",
+    "created_at": "2026-04-11T08:25:14Z",
+    "aiHeadline": "France Says 'Adieu' to Windows, Embracing Linux—Meanwhile, US Tech Companies Worry About Losing Their Monopoly Grip."
   },
   {
-    "title": "France to ditch Windows for Linux to reduce reliance on US tech",
-    "url": "https://techcrunch.com/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-reliance-on-us-tech/",
-    "points": 453,
-    "num_comments": 187,
+    "title": "Show HN: Pardonned.com – A searchable database of US Pardons",
+    "points": 385,
+    "num_comments": 219,
     "tags": [
       "story",
-      "author_Teever",
-      "story_47719486"
-    ],
-    "author": "Teever",
-    "created_at": "2026-04-10T15:20:48Z",
-    "aiHeadline": "France Officially Ditches Windows for Linux, Because Who Needs User-Friendly Software When You Can Have a National Statement?"
-  },
-  {
-    "title": "You can't trust macOS Privacy and Security settings",
-    "url": "https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/",
-    "points": 435,
-    "num_comments": 150,
-    "tags": [
-      "story",
-      "author_zdw",
-      "story_47719602",
+      "author_vidluther",
+      "story_47727960",
+      "show_hn",
       "front_page"
     ],
-    "author": "zdw",
-    "created_at": "2026-04-10T15:28:24Z",
-    "aiHeadline": "macOS Privacy Settings: Because Who Needs Actual Privacy When You Can Have a Checkbox That Does Absolutely Nothing?"
+    "author": "vidluther",
+    "created_at": "2026-04-11T06:19:25Z",
+    "aiHeadline": "Introducing Pardonned.com: Now You Can Search Through All Those US Pardons—Because Who Doesn’t Want to Know Who’s Getting Off the Hook?"
+  },
+  {
+    "title": "South Korea introduces universal basic mobile data access",
+    "url": "https://www.theregister.com/2026/04/10/south_korea_data_access_universal/",
+    "points": 336,
+    "num_comments": 94,
+    "tags": [
+      "story",
+      "author_saikatsg",
+      "story_47730407",
+      "front_page"
+    ],
+    "author": "saikatsg",
+    "created_at": "2026-04-11T13:27:16Z",
+    "aiHeadline": "South Korea Leads the Charge with Universal Basic Mobile Data Access—Because Apparently, Wi-Fi Is Now a Human Right."
+  },
+  {
+    "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
+    "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+    "points": 244,
+    "num_comments": 65,
+    "tags": [
+      "story",
+      "author_Anon84",
+      "story_47733217",
+      "front_page"
+    ],
+    "author": "Anon84",
+    "created_at": "2026-04-11T19:15:56Z",
+    "aiHeadline": "Researchers Break Top AI Benchmarks Again—Because Apparently, 'Solved' Problems Are Just Temporary Speed Bumps in the AI World."
   }
 ]
