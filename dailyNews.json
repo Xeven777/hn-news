@@ -1,76 +1,75 @@
 [
   {
-    "title": "Small models also found the vulnerabilities that Mythos found",
-    "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
-    "points": 867,
-    "num_comments": 242,
+    "title": "I run multiple $10K MRR companies on a $20/month tech stack",
+    "url": "https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack",
+    "points": 832,
+    "num_comments": 467,
     "tags": [
       "story",
-      "author_dominicq",
-      "story_47732020",
-      "front_page"
+      "author_tradertef",
+      "story_47736555"
     ],
-    "author": "dominicq",
-    "created_at": "2026-04-11T16:47:28Z",
-    "aiHeadline": "Even Small AI Models Are In On The Fun, Finding The Same Flaws As Mythos—Guess Size Doesn’t Always Matter!"
+    "author": "tradertef",
+    "created_at": "2026-04-12T06:00:00Z",
+    "aiHeadline": "Steve Hanov: 'Here's how I manage to run multiple $10K MRR companies on a measly $20/month tech stack—because apparently, minimalism is the new black in startup land.'"
   },
   {
-    "title": "France's government is ditching Windows for Linux, says US tech a strategic risk",
-    "url": "https://www.xda-developers.com/frances-government-ditching-windows-for-linux/",
-    "points": 419,
-    "num_comments": 230,
+    "title": "Tell HN: Docker pull fails in Spain due to football Cloudflare block",
+    "points": 690,
+    "num_comments": 265,
     "tags": [
       "story",
-      "author_pabs3",
-      "story_47728653"
-    ],
-    "author": "pabs3",
-    "created_at": "2026-04-11T08:25:14Z",
-    "aiHeadline": "France Says 'Adieu' to Windows, Embracing Linux—Meanwhile, US Tech Companies Worry About Losing Their Monopoly Grip."
-  },
-  {
-    "title": "Show HN: Pardonned.com – A searchable database of US Pardons",
-    "points": 385,
-    "num_comments": 219,
-    "tags": [
-      "story",
-      "author_vidluther",
-      "story_47727960",
-      "show_hn",
+      "author_littlecranky67",
+      "story_47738883",
+      "ask_hn",
       "front_page"
     ],
-    "author": "vidluther",
-    "created_at": "2026-04-11T06:19:25Z",
-    "aiHeadline": "Introducing Pardonned.com: Now You Can Search Through All Those US Pardons—Because Who Doesn’t Want to Know Who’s Getting Off the Hook?"
+    "author": "littlecranky67",
+    "created_at": "2026-04-12T12:28:57Z",
+    "aiHeadline": "Docker pull fails in Spain because, you know, football is more important than your infrastructure—thanks to Cloudflare for proving that sports take priority over code."
   },
   {
-    "title": "South Korea introduces universal basic mobile data access",
-    "url": "https://www.theregister.com/2026/04/10/south_korea_data_access_universal/",
-    "points": 336,
-    "num_comments": 94,
+    "title": "Pro Max 5x quota exhausted in 1.5 hours despite moderate usage",
+    "url": "https://github.com/anthropics/claude-code/issues/45756",
+    "points": 534,
+    "num_comments": 490,
     "tags": [
       "story",
-      "author_saikatsg",
-      "story_47730407",
+      "author_cmaster11",
+      "story_47739260",
       "front_page"
     ],
-    "author": "saikatsg",
-    "created_at": "2026-04-11T13:27:16Z",
-    "aiHeadline": "South Korea Leads the Charge with Universal Basic Mobile Data Access—Because Apparently, Wi-Fi Is Now a Human Right."
+    "author": "cmaster11",
+    "created_at": "2026-04-12T13:15:31Z",
+    "aiHeadline": "Pro Max 5x quota exhausted in 1.5 hours? Well, at least it's keeping up with your 'moderate usage'—because nothing says 'efficient' like hitting your limits faster than expected."
   },
   {
-    "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
-    "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-    "points": 244,
-    "num_comments": 65,
+    "title": "Seven countries now generate 100% of their electricity from renewable energy",
+    "url": "https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html",
+    "points": 518,
+    "num_comments": 265,
     "tags": [
       "story",
-      "author_Anon84",
-      "story_47733217",
+      "author_mpweiher",
+      "story_47739313",
       "front_page"
     ],
-    "author": "Anon84",
-    "created_at": "2026-04-11T19:15:56Z",
-    "aiHeadline": "Researchers Break Top AI Benchmarks Again—Because Apparently, 'Solved' Problems Are Just Temporary Speed Bumps in the AI World."
+    "author": "mpweiher",
+    "created_at": "2026-04-12T13:21:39Z",
+    "aiHeadline": "Seven countries now generate 100% of their electricity from renewable energy—while the rest of us are still trying to figure out how to unplug from fossil fuels without causing a global meltdown."
+  },
+  {
+    "title": "Anthropic downgraded cache TTL on March 6th",
+    "url": "https://github.com/anthropics/claude-code/issues/46829",
+    "points": 493,
+    "num_comments": 378,
+    "tags": [
+      "story",
+      "author_lsdmtme",
+      "story_47736476"
+    ],
+    "author": "lsdmtme",
+    "created_at": "2026-04-12T05:45:52Z",
+    "aiHeadline": "Anthropic downgrades cache TTL on March 6th—because apparently, even the best AI models need a reality check every now and then."
   }
 ]
