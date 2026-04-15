@@ -1,75 +1,77 @@
 [
   {
-    "title": "I run multiple $10K MRR companies on a $20/month tech stack",
-    "url": "https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack",
-    "points": 832,
-    "num_comments": 467,
+    "title": "Backblaze has stopped backing up OneDrive and Dropbox folders and maybe others",
+    "url": "https://rareese.com/posts/backblaze/",
+    "points": 980,
+    "num_comments": 601,
     "tags": [
       "story",
-      "author_tradertef",
-      "story_47736555"
-    ],
-    "author": "tradertef",
-    "created_at": "2026-04-12T06:00:00Z",
-    "aiHeadline": "Steve Hanov: 'Here's how I manage to run multiple $10K MRR companies on a measly $20/month tech stack—because apparently, minimalism is the new black in startup land.'"
-  },
-  {
-    "title": "Tell HN: Docker pull fails in Spain due to football Cloudflare block",
-    "points": 690,
-    "num_comments": 265,
-    "tags": [
-      "story",
-      "author_littlecranky67",
-      "story_47738883",
-      "ask_hn",
+      "author_rrreese",
+      "story_47762864",
       "front_page"
     ],
-    "author": "littlecranky67",
-    "created_at": "2026-04-12T12:28:57Z",
-    "aiHeadline": "Docker pull fails in Spain because, you know, football is more important than your infrastructure—thanks to Cloudflare for proving that sports take priority over code."
+    "author": "rrreese",
+    "created_at": "2026-04-14T08:30:27Z",
+    "aiHeadline": "Backblaze 'innovates' by stopping backup services for OneDrive and Dropbox, proving that sometimes the best way to 'improve' is to just stop doing things altogether."
   },
   {
-    "title": "Pro Max 5x quota exhausted in 1.5 hours despite moderate usage",
-    "url": "https://github.com/anthropics/claude-code/issues/45756",
-    "points": 534,
-    "num_comments": 490,
+    "title": "A new spam policy for “back button hijacking”",
+    "url": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
+    "points": 842,
+    "num_comments": 478,
     "tags": [
       "story",
-      "author_cmaster11",
-      "story_47739260",
+      "author_zdw",
+      "story_47760764",
       "front_page"
     ],
-    "author": "cmaster11",
-    "created_at": "2026-04-12T13:15:31Z",
-    "aiHeadline": "Pro Max 5x quota exhausted in 1.5 hours? Well, at least it's keeping up with your 'moderate usage'—because nothing says 'efficient' like hitting your limits faster than expected."
+    "author": "zdw",
+    "created_at": "2026-04-14T03:06:27Z",
+    "aiHeadline": "Google cracks down on 'back button hijacking,' proving that even the most obscure internet annoyances can become the next big thing in web policy enforcement."
   },
   {
-    "title": "Seven countries now generate 100% of their electricity from renewable energy",
-    "url": "https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html",
-    "points": 518,
-    "num_comments": 265,
+    "title": "Rare concert recordings are landing on the Internet Archive",
+    "url": "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/",
+    "points": 540,
+    "num_comments": 163,
     "tags": [
       "story",
-      "author_mpweiher",
-      "story_47739313",
+      "author_jrm-veris",
+      "story_47765604",
       "front_page"
     ],
-    "author": "mpweiher",
-    "created_at": "2026-04-12T13:21:39Z",
-    "aiHeadline": "Seven countries now generate 100% of their electricity from renewable energy—while the rest of us are still trying to figure out how to unplug from fossil fuels without causing a global meltdown."
+    "author": "jrm-veris",
+    "created_at": "2026-04-14T13:46:31Z",
+    "aiHeadline": "Thousands of rare concert recordings find their way to the Internet Archive, proving that 'rare' is just a temporary state before the internet finds it and makes it freely available to everyone."
   },
   {
-    "title": "Anthropic downgraded cache TTL on March 6th",
-    "url": "https://github.com/anthropics/claude-code/issues/46829",
-    "points": 493,
-    "num_comments": 378,
+    "title": "I wrote to Flock's privacy contact to opt out of their domestic spying program",
+    "url": "https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html",
+    "points": 515,
+    "num_comments": 210,
     "tags": [
       "story",
-      "author_lsdmtme",
-      "story_47736476"
+      "author_speckx",
+      "story_47768813",
+      "front_page"
     ],
-    "author": "lsdmtme",
-    "created_at": "2026-04-12T05:45:52Z",
-    "aiHeadline": "Anthropic downgrades cache TTL on March 6th—because apparently, even the best AI models need a reality check every now and then."
+    "author": "speckx",
+    "created_at": "2026-04-14T17:47:00Z",
+    "aiHeadline": "One person's attempt to opt out of Flock's domestic spying program, proving that sometimes the best way to handle privacy is to just write a blog post about it and hope for the best."
+  },
+  {
+    "title": "jj – the CLI for Jujutsu",
+    "url": "https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html",
+    "points": 498,
+    "num_comments": 439,
+    "tags": [
+      "story",
+      "author_tigerlily",
+      "story_47763759",
+      "front_page"
+    ],
+    "author": "tigerlily",
+    "created_at": "2026-04-14T10:33:39Z",
+    "aiHeadline": "jj: The CLI for Jujutsu, because who doesn't want their command-line tools to feel as confusing and mystical as a martial art?"
   }
 ]
