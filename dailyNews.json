@@ -1,77 +1,75 @@
 [
   {
-    "title": "Backblaze has stopped backing up OneDrive and Dropbox folders and maybe others",
-    "url": "https://rareese.com/posts/backblaze/",
-    "points": 980,
-    "num_comments": 601,
+    "title": "Google broke its promise to me – now ICE has my data",
+    "url": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
+    "points": 1157,
+    "num_comments": 511,
     "tags": [
       "story",
-      "author_rrreese",
-      "story_47762864",
+      "author_Brajeshwar",
+      "story_47782570",
       "front_page"
     ],
-    "author": "rrreese",
-    "created_at": "2026-04-14T08:30:27Z",
-    "aiHeadline": "Backblaze 'innovates' by stopping backup services for OneDrive and Dropbox, proving that sometimes the best way to 'improve' is to just stop doing things altogether."
+    "author": "Brajeshwar",
+    "created_at": "2026-04-15T17:44:26Z",
+    "aiHeadline": "Google's data privacy promises: as reliable as a sieve in a flood, now ICE is sipping from the overflowing bucket."
   },
   {
-    "title": "A new spam policy for “back button hijacking”",
-    "url": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
-    "points": 842,
-    "num_comments": 478,
+    "title": "Want to write a compiler? Just read these two papers (2008)",
+    "url": "https://prog21.dadgum.com/30.html",
+    "points": 472,
+    "num_comments": 140,
     "tags": [
       "story",
-      "author_zdw",
-      "story_47760764",
-      "front_page"
+      "author_downbad_",
+      "story_47776796"
     ],
-    "author": "zdw",
-    "created_at": "2026-04-14T03:06:27Z",
-    "aiHeadline": "Google cracks down on 'back button hijacking,' proving that even the most obscure internet annoyances can become the next big thing in web policy enforcement."
+    "author": "downbad_",
+    "created_at": "2026-04-15T09:41:19Z",
+    "aiHeadline": "Want to write a compiler? Just read these two papers—because nothing says 'compiler' like a headache and a lifetime of debugging."
   },
   {
-    "title": "Rare concert recordings are landing on the Internet Archive",
-    "url": "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/",
-    "points": 540,
-    "num_comments": 163,
-    "tags": [
-      "story",
-      "author_jrm-veris",
-      "story_47765604",
-      "front_page"
-    ],
-    "author": "jrm-veris",
-    "created_at": "2026-04-14T13:46:31Z",
-    "aiHeadline": "Thousands of rare concert recordings find their way to the Internet Archive, proving that 'rare' is just a temporary state before the internet finds it and makes it freely available to everyone."
-  },
-  {
-    "title": "I wrote to Flock's privacy contact to opt out of their domestic spying program",
-    "url": "https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html",
-    "points": 515,
-    "num_comments": 210,
+    "title": "God sleeps in the minerals",
+    "url": "https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/",
+    "points": 469,
+    "num_comments": 98,
     "tags": [
       "story",
       "author_speckx",
-      "story_47768813",
+      "story_47778475",
       "front_page"
     ],
     "author": "speckx",
-    "created_at": "2026-04-14T17:47:00Z",
-    "aiHeadline": "One person's attempt to opt out of Flock's domestic spying program, proving that sometimes the best way to handle privacy is to just write a blog post about it and hope for the best."
+    "created_at": "2026-04-15T13:08:10Z",
+    "aiHeadline": "God sleeps in the minerals, probably because even deities need a good nap after dealing with humanity's mess."
   },
   {
-    "title": "jj – the CLI for Jujutsu",
-    "url": "https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html",
-    "points": 498,
-    "num_comments": 439,
+    "title": "Live Nation illegally monopolized ticketing market, jury finds",
+    "url": "https://www.bloomberg.com/news/articles/2026-04-15/live-nation-illegally-monopolized-ticketing-market-jury-finds",
+    "points": 418,
+    "num_comments": 122,
     "tags": [
       "story",
-      "author_tigerlily",
-      "story_47763759",
+      "author_Alex_Bond",
+      "story_47783713",
       "front_page"
     ],
-    "author": "tigerlily",
-    "created_at": "2026-04-14T10:33:39Z",
-    "aiHeadline": "jj: The CLI for Jujutsu, because who doesn't want their command-line tools to feel as confusing and mystical as a martial art?"
+    "author": "Alex_Bond",
+    "created_at": "2026-04-15T19:06:39Z",
+    "aiHeadline": "Live Nation's ticketing monopoly: because nothing says 'fun' like paying an arm and a leg for a concert that's already sold out."
+  },
+  {
+    "title": "Backpacks got worse on purpose",
+    "url": "https://www.worseonpurpose.com/p/your-backpack-got-worse-on-purpose",
+    "points": 395,
+    "num_comments": 364,
+    "tags": [
+      "story",
+      "author_113",
+      "story_47777209"
+    ],
+    "author": "113",
+    "created_at": "2026-04-15T10:42:28Z",
+    "aiHeadline": "Backpacks got worse on purpose: because nothing says 'convenience' like a design that makes you question your life choices."
   }
 ]
