@@ -1,75 +1,76 @@
 [
   {
-    "title": "Google broke its promise to me – now ICE has my data",
-    "url": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
-    "points": 1157,
-    "num_comments": 511,
+    "title": "Claude Opus 4.7",
+    "url": "https://www.anthropic.com/news/claude-opus-4-7",
+    "points": 1518,
+    "num_comments": 1084,
     "tags": [
       "story",
-      "author_Brajeshwar",
-      "story_47782570",
+      "author_meetpateltech",
+      "story_47793411",
       "front_page"
     ],
-    "author": "Brajeshwar",
-    "created_at": "2026-04-15T17:44:26Z",
-    "aiHeadline": "Google's data privacy promises: as reliable as a sieve in a flood, now ICE is sipping from the overflowing bucket."
+    "author": "meetpateltech",
+    "created_at": "2026-04-16T14:23:50Z",
+    "aiHeadline": "Claude Opus 4.7: Because the world needed another AI model, and here it is, ready to solve all your problems... or just create new ones."
   },
   {
-    "title": "Want to write a compiler? Just read these two papers (2008)",
-    "url": "https://prog21.dadgum.com/30.html",
-    "points": 472,
-    "num_comments": 140,
+    "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
+    "url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
+    "points": 934,
+    "num_comments": 420,
     "tags": [
       "story",
-      "author_downbad_",
-      "story_47776796"
-    ],
-    "author": "downbad_",
-    "created_at": "2026-04-15T09:41:19Z",
-    "aiHeadline": "Want to write a compiler? Just read these two papers—because nothing says 'compiler' like a headache and a lifetime of debugging."
-  },
-  {
-    "title": "God sleeps in the minerals",
-    "url": "https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/",
-    "points": 469,
-    "num_comments": 98,
-    "tags": [
-      "story",
-      "author_speckx",
-      "story_47778475",
+      "author_cmitsakis",
+      "story_47792764",
       "front_page"
     ],
-    "author": "speckx",
-    "created_at": "2026-04-15T13:08:10Z",
-    "aiHeadline": "God sleeps in the minerals, probably because even deities need a good nap after dealing with humanity's mess."
+    "author": "cmitsakis",
+    "created_at": "2026-04-16T13:36:27Z",
+    "aiHeadline": "Qwen3.6-35B-A3B: Now everyone can be a coding genius, because clearly, the world wasn't saturated with enough AI-powered coders already."
   },
   {
-    "title": "Live Nation illegally monopolized ticketing market, jury finds",
-    "url": "https://www.bloomberg.com/news/articles/2026-04-15/live-nation-illegally-monopolized-ticketing-market-jury-finds",
-    "points": 418,
-    "num_comments": 122,
+    "title": "Codex for almost everything",
+    "url": "https://openai.com/index/codex-for-almost-everything/",
+    "points": 705,
+    "num_comments": 374,
     "tags": [
       "story",
-      "author_Alex_Bond",
-      "story_47783713",
+      "author_mikeevans",
+      "story_47796469",
       "front_page"
     ],
-    "author": "Alex_Bond",
-    "created_at": "2026-04-15T19:06:39Z",
-    "aiHeadline": "Live Nation's ticketing monopoly: because nothing says 'fun' like paying an arm and a leg for a concert that's already sold out."
+    "author": "mikeevans",
+    "created_at": "2026-04-16T17:12:19Z",
+    "aiHeadline": "Codex for almost everything: Because why have one tool when you can have one tool that tries to do everything, even if it's not great at most of them?"
   },
   {
-    "title": "Backpacks got worse on purpose",
-    "url": "https://www.worseonpurpose.com/p/your-backpack-got-worse-on-purpose",
-    "points": 395,
-    "num_comments": 364,
+    "title": "The local LLM ecosystem doesn’t need Ollama",
+    "url": "https://sleepingrobots.com/dreams/stop-using-ollama/",
+    "points": 606,
+    "num_comments": 201,
     "tags": [
       "story",
-      "author_113",
-      "story_47777209"
+      "author_Zetaphor",
+      "story_47788385"
     ],
-    "author": "113",
-    "created_at": "2026-04-15T10:42:28Z",
-    "aiHeadline": "Backpacks got worse on purpose: because nothing says 'convenience' like a design that makes you question your life choices."
+    "author": "Zetaphor",
+    "created_at": "2026-04-16T03:35:11Z",
+    "aiHeadline": "The local LLM ecosystem doesn’t need Ollama: Because there's nothing more the AI space needs than another acronym to memorize."
+  },
+  {
+    "title": "The future of everything is lies, I guess: Where do we go from here?",
+    "url": "https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here",
+    "points": 519,
+    "num_comments": 567,
+    "tags": [
+      "story",
+      "author_aphyr",
+      "story_47792718",
+      "front_page"
+    ],
+    "author": "aphyr",
+    "created_at": "2026-04-16T13:32:13Z",
+    "aiHeadline": "The future of everything is lies: Welcome to the dystopian nightmare where even the truth is up for grabs, and we're all just along for the ride."
   }
 ]
