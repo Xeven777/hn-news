@@ -1,76 +1,76 @@
 [
   {
-    "title": "Claude Opus 4.7",
-    "url": "https://www.anthropic.com/news/claude-opus-4-7",
-    "points": 1518,
-    "num_comments": 1084,
+    "title": "Claude Design",
+    "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+    "points": 863,
+    "num_comments": 578,
     "tags": [
       "story",
       "author_meetpateltech",
-      "story_47793411",
+      "story_47806725",
       "front_page"
     ],
     "author": "meetpateltech",
-    "created_at": "2026-04-16T14:23:50Z",
-    "aiHeadline": "Claude Opus 4.7: Because the world needed another AI model, and here it is, ready to solve all your problems... or just create new ones."
+    "created_at": "2026-04-17T15:04:09Z",
+    "aiHeadline": "Claude Design: Because making everything look bad was just the first step, now they're here to make it look worse."
   },
   {
-    "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
-    "url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
-    "points": 934,
-    "num_comments": 420,
+    "title": "Isaac Asimov: The Last Question (1956)",
+    "url": "https://hex.ooo/library/last_question.html",
+    "points": 633,
+    "num_comments": 261,
     "tags": [
       "story",
-      "author_cmitsakis",
-      "story_47792764",
+      "author_ColinWright",
+      "story_47804965",
       "front_page"
     ],
-    "author": "cmitsakis",
-    "created_at": "2026-04-16T13:36:27Z",
-    "aiHeadline": "Qwen3.6-35B-A3B: Now everyone can be a coding genius, because clearly, the world wasn't saturated with enough AI-powered coders already."
+    "author": "ColinWright",
+    "created_at": "2026-04-17T12:01:19Z",
+    "aiHeadline": "Isaac Asimov's 'The Last Question': Because sometimes the universe just needs to remind you that you're insignificant and will eventually be replaced by a supercomputer."
   },
   {
-    "title": "Codex for almost everything",
-    "url": "https://openai.com/index/codex-for-almost-everything/",
-    "points": 705,
-    "num_comments": 374,
+    "title": "Ban the sale of precise geolocation",
+    "url": "https://www.lawfaremedia.org/article/it-is-time-to-ban-the-sale-of-precise-geolocation",
+    "points": 612,
+    "num_comments": 167,
     "tags": [
       "story",
-      "author_mikeevans",
-      "story_47796469",
+      "author_hn_acker",
+      "story_47806304",
       "front_page"
     ],
-    "author": "mikeevans",
-    "created_at": "2026-04-16T17:12:19Z",
-    "aiHeadline": "Codex for almost everything: Because why have one tool when you can have one tool that tries to do everything, even if it's not great at most of them?"
+    "author": "hn_acker",
+    "created_at": "2026-04-17T14:25:46Z",
+    "aiHeadline": "Ban the Sale of Precise Geolocation: Because nothing says 'I care about your privacy' like making it harder for companies to track you after the fact."
   },
   {
-    "title": "The local LLM ecosystem doesn’t need Ollama",
-    "url": "https://sleepingrobots.com/dreams/stop-using-ollama/",
-    "points": 606,
-    "num_comments": 201,
+    "title": "Measuring Claude 4.7's tokenizer costs",
+    "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
+    "points": 547,
+    "num_comments": 378,
     "tags": [
       "story",
-      "author_Zetaphor",
-      "story_47788385"
-    ],
-    "author": "Zetaphor",
-    "created_at": "2026-04-16T03:35:11Z",
-    "aiHeadline": "The local LLM ecosystem doesn’t need Ollama: Because there's nothing more the AI space needs than another acronym to memorize."
-  },
-  {
-    "title": "The future of everything is lies, I guess: Where do we go from here?",
-    "url": "https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here",
-    "points": 519,
-    "num_comments": 567,
-    "tags": [
-      "story",
-      "author_aphyr",
-      "story_47792718",
+      "author_aray07",
+      "story_47807006",
       "front_page"
     ],
-    "author": "aphyr",
-    "created_at": "2026-04-16T13:32:13Z",
-    "aiHeadline": "The future of everything is lies: Welcome to the dystopian nightmare where even the truth is up for grabs, and we're all just along for the ride."
+    "author": "aray07",
+    "created_at": "2026-04-17T15:29:36Z",
+    "aiHeadline": "Measuring Claude 4.7's Tokenizer Costs: Because who doesn't want to know exactly how much it costs to make something that pretends to understand humans but still can't figure out basic math."
+  },
+  {
+    "title": "US Bill Mandates On-Device Age Verification",
+    "url": "https://reclaimthenet.org/us-bill-mandates-on-device-age-verification",
+    "points": 381,
+    "num_comments": 310,
+    "tags": [
+      "story",
+      "author_ronsor",
+      "story_47801991"
+    ],
+    "author": "ronsor",
+    "created_at": "2026-04-17T02:50:02Z",
+    "aiHeadline": "US Bill Mandates On-Device Age Verification: Because the government knows that the best way to solve a problem is to add another layer of bureaucracy and make everyone's life just a little bit harder."
   }
 ]
