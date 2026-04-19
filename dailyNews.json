@@ -1,76 +1,77 @@
 [
   {
-    "title": "Claude Design",
-    "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-    "points": 863,
-    "num_comments": 578,
+    "title": "Migrating from DigitalOcean to Hetzner",
+    "url": "https://isayeter.com/posts/digitalocean-to-hetzner-migration/",
+    "points": 696,
+    "num_comments": 362,
     "tags": [
       "story",
-      "author_meetpateltech",
-      "story_47806725",
+      "author_yusufusta",
+      "story_47815774",
       "front_page"
     ],
-    "author": "meetpateltech",
-    "created_at": "2026-04-17T15:04:09Z",
-    "aiHeadline": "Claude Design: Because making everything look bad was just the first step, now they're here to make it look worse."
+    "author": "yusufusta",
+    "created_at": "2026-04-18T13:29:04Z",
+    "aiHeadline": "Migrating from DigitalOcean to Hetzner: Because moving your cloud provider is as fun as moving apartments, but with less drama and more SSH keys."
   },
   {
-    "title": "Isaac Asimov: The Last Question (1956)",
-    "url": "https://hex.ooo/library/last_question.html",
-    "points": 633,
-    "num_comments": 261,
+    "title": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
+    "url": "https://tokens.billchambers.me/leaderboard",
+    "points": 440,
+    "num_comments": 450,
     "tags": [
       "story",
-      "author_ColinWright",
-      "story_47804965",
+      "author_anabranch",
+      "story_47816960",
       "front_page"
     ],
-    "author": "ColinWright",
-    "created_at": "2026-04-17T12:01:19Z",
-    "aiHeadline": "Isaac Asimov's 'The Last Question': Because sometimes the universe just needs to remind you that you're insignificant and will eventually be replaced by a supercomputer."
+    "author": "anabranch",
+    "created_at": "2026-04-18T16:05:43Z",
+    "aiHeadline": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7: Because who doesn't love a good game of 'Spot the Token' in their spare time?"
   },
   {
-    "title": "Ban the sale of precise geolocation",
-    "url": "https://www.lawfaremedia.org/article/it-is-time-to-ban-the-sale-of-precise-geolocation",
-    "points": 612,
-    "num_comments": 167,
+    "title": "State of Kdenlive",
+    "url": "https://kdenlive.org/news/2026/state-2026/",
+    "points": 345,
+    "num_comments": 114,
     "tags": [
       "story",
-      "author_hn_acker",
-      "story_47806304",
+      "author_f_r_d",
+      "story_47815118",
       "front_page"
     ],
-    "author": "hn_acker",
-    "created_at": "2026-04-17T14:25:46Z",
-    "aiHeadline": "Ban the Sale of Precise Geolocation: Because nothing says 'I care about your privacy' like making it harder for companies to track you after the fact."
+    "author": "f_r_d",
+    "created_at": "2026-04-18T11:42:37Z",
+    "aiHeadline": "State of Kdenlive: Still trying to figure out how to make video editing less confusing than quantum physics."
   },
   {
-    "title": "Measuring Claude 4.7's tokenizer costs",
-    "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
-    "points": 547,
-    "num_comments": 378,
+    "title": "Why Japan has such good railways",
+    "url": "https://worksinprogress.co/issue/why-japan-has-such-good-railways/",
+    "points": 330,
+    "num_comments": 327,
     "tags": [
       "story",
-      "author_aray07",
-      "story_47807006",
+      "author_RickJWagner",
+      "story_47815395",
       "front_page"
     ],
-    "author": "aray07",
-    "created_at": "2026-04-17T15:29:36Z",
-    "aiHeadline": "Measuring Claude 4.7's Tokenizer Costs: Because who doesn't want to know exactly how much it costs to make something that pretends to understand humans but still can't figure out basic math."
+    "author": "RickJWagner",
+    "created_at": "2026-04-18T12:29:06Z",
+    "aiHeadline": "Why Japan has such good railways: Because they somehow manage to make trains run on time even when the rest of the world is chaos."
   },
   {
-    "title": "US Bill Mandates On-Device Age Verification",
-    "url": "https://reclaimthenet.org/us-bill-mandates-on-device-age-verification",
-    "points": 381,
-    "num_comments": 310,
+    "title": "The electromechanical angle computer inside the B-52 bomber's star tracker",
+    "url": "https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html",
+    "points": 287,
+    "num_comments": 82,
     "tags": [
       "story",
-      "author_ronsor",
-      "story_47801991"
+      "author_NelsonMinar",
+      "story_47817132",
+      "front_page"
     ],
-    "author": "ronsor",
-    "created_at": "2026-04-17T02:50:02Z",
-    "aiHeadline": "US Bill Mandates On-Device Age Verification: Because the government knows that the best way to solve a problem is to add another layer of bureaucracy and make everyone's life just a little bit harder."
+    "author": "NelsonMinar",
+    "created_at": "2026-04-18T16:26:47Z",
+    "aiHeadline": "The electromechanical angle computer inside the B-52 bomber's star tracker: Because sometimes, the best tech is the one that's been around for decades and still works like a charm."
   }
 ]
