@@ -1,77 +1,74 @@
 [
   {
-    "title": "Migrating from DigitalOcean to Hetzner",
-    "url": "https://isayeter.com/posts/digitalocean-to-hetzner-migration/",
-    "points": 696,
-    "num_comments": 362,
+    "title": "Vercel April 2026 security incident",
+    "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
+    "points": 581,
+    "num_comments": 329,
     "tags": [
       "story",
-      "author_yusufusta",
-      "story_47815774",
+      "author_colesantiago",
+      "story_47824463",
       "front_page"
     ],
-    "author": "yusufusta",
-    "created_at": "2026-04-18T13:29:04Z",
-    "aiHeadline": "Migrating from DigitalOcean to Hetzner: Because moving your cloud provider is as fun as moving apartments, but with less drama and more SSH keys."
+    "author": "colesantiago",
+    "created_at": "2026-04-19T14:14:38Z",
+    "aiHeadline": "Vercel experiences a 'security incident' in April 2026, proving that even the best can have a 'oopsie' moment."
   },
   {
-    "title": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
-    "url": "https://tokens.billchambers.me/leaderboard",
-    "points": 440,
-    "num_comments": 450,
+    "title": "Vercel says internal systems hit in breach",
+    "url": "https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/",
+    "points": 376,
+    "num_comments": 2,
     "tags": [
       "story",
-      "author_anabranch",
-      "story_47816960",
-      "front_page"
+      "author_whiteyford",
+      "story_47824976"
     ],
-    "author": "anabranch",
-    "created_at": "2026-04-18T16:05:43Z",
-    "aiHeadline": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7: Because who doesn't love a good game of 'Spot the Token' in their spare time?"
+    "author": "whiteyford",
+    "created_at": "2026-04-19T15:23:39Z",
+    "aiHeadline": "Vercel's internal systems are 'hit' in a breach, because even the best security can't protect against a 'direct hit' from hackers."
   },
   {
-    "title": "State of Kdenlive",
-    "url": "https://kdenlive.org/news/2026/state-2026/",
-    "points": 345,
+    "title": "Notion leaks email addresses of all editors of any public page",
+    "url": "https://twitter.com/weezerOSINT/status/2045849358462222720",
+    "points": 334,
+    "num_comments": 118,
+    "tags": [
+      "story",
+      "author_Tiberium",
+      "story_47824945"
+    ],
+    "author": "Tiberium",
+    "created_at": "2026-04-19T15:20:01Z",
+    "aiHeadline": "Notion 'accidentally' leaks email addresses of all editors, because who needs privacy when you can have a 'public directory' of everyone's contact info?"
+  },
+  {
+    "title": "The seven programming ur-languages (2022)",
+    "url": "https://madhadron.com/programming/seven_ur_languages.html",
+    "points": 297,
     "num_comments": 114,
     "tags": [
       "story",
-      "author_f_r_d",
-      "story_47815118",
+      "author_helloplanets",
+      "story_47822486",
       "front_page"
     ],
-    "author": "f_r_d",
-    "created_at": "2026-04-18T11:42:37Z",
-    "aiHeadline": "State of Kdenlive: Still trying to figure out how to make video editing less confusing than quantum physics."
+    "author": "helloplanets",
+    "created_at": "2026-04-19T07:38:08Z",
+    "aiHeadline": "The seven programming 'ur-languages' you'll ever need, because why learn more when you can just master these seven and call it a day?"
   },
   {
-    "title": "Why Japan has such good railways",
-    "url": "https://worksinprogress.co/issue/why-japan-has-such-good-railways/",
-    "points": 330,
-    "num_comments": 327,
+    "title": "Airline worker arrested after sharing photos of bomb damage in WhatsApp group",
+    "url": "https://www.lbc.co.uk/article/dubai-police-spied-private-whatsapp-5HjdXwr_2/",
+    "points": 251,
+    "num_comments": 164,
     "tags": [
       "story",
-      "author_RickJWagner",
-      "story_47815395",
-      "front_page"
+      "author_aa_is_op",
+      "story_47824068"
     ],
-    "author": "RickJWagner",
-    "created_at": "2026-04-18T12:29:06Z",
-    "aiHeadline": "Why Japan has such good railways: Because they somehow manage to make trains run on time even when the rest of the world is chaos."
-  },
-  {
-    "title": "The electromechanical angle computer inside the B-52 bomber's star tracker",
-    "url": "https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html",
-    "points": 287,
-    "num_comments": 82,
-    "tags": [
-      "story",
-      "author_NelsonMinar",
-      "story_47817132",
-      "front_page"
-    ],
-    "author": "NelsonMinar",
-    "created_at": "2026-04-18T16:26:47Z",
-    "aiHeadline": "The electromechanical angle computer inside the B-52 bomber's star tracker: Because sometimes, the best tech is the one that's been around for decades and still works like a charm."
+    "author": "aa_is_op",
+    "created_at": "2026-04-19T13:13:09Z",
+    "aiHeadline": "Airline worker gets arrested for sharing bomb damage photos in WhatsApp, proving that sometimes, it's better to keep your mouth (and phone) shut."
   }
 ]
