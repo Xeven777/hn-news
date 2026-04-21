@@ -1,74 +1,76 @@
 [
   {
-    "title": "Vercel April 2026 security incident",
-    "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
-    "points": 581,
-    "num_comments": 329,
+    "title": "John Ternus to become Apple CEO",
+    "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
+    "points": 1286,
+    "num_comments": 642,
     "tags": [
       "story",
-      "author_colesantiago",
-      "story_47824463",
+      "author_schappim",
+      "story_47840219",
       "front_page"
     ],
-    "author": "colesantiago",
-    "created_at": "2026-04-19T14:14:38Z",
-    "aiHeadline": "Vercel experiences a 'security incident' in April 2026, proving that even the best can have a 'oopsie' moment."
+    "author": "schappim",
+    "created_at": "2026-04-20T20:39:32Z",
+    "aiHeadline": "Apple finally decides to change their CEO, because what's the point of being a tech giant if you don't shake things up every 20 years?"
   },
   {
-    "title": "Vercel says internal systems hit in breach",
-    "url": "https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/",
-    "points": 376,
-    "num_comments": 2,
+    "title": "All phones sold in the EU to have replaceable batteries from 2027",
+    "url": "https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/",
+    "points": 999,
+    "num_comments": 817,
     "tags": [
       "story",
-      "author_whiteyford",
-      "story_47824976"
-    ],
-    "author": "whiteyford",
-    "created_at": "2026-04-19T15:23:39Z",
-    "aiHeadline": "Vercel's internal systems are 'hit' in a breach, because even the best security can't protect against a 'direct hit' from hackers."
-  },
-  {
-    "title": "Notion leaks email addresses of all editors of any public page",
-    "url": "https://twitter.com/weezerOSINT/status/2045849358462222720",
-    "points": 334,
-    "num_comments": 118,
-    "tags": [
-      "story",
-      "author_Tiberium",
-      "story_47824945"
-    ],
-    "author": "Tiberium",
-    "created_at": "2026-04-19T15:20:01Z",
-    "aiHeadline": "Notion 'accidentally' leaks email addresses of all editors, because who needs privacy when you can have a 'public directory' of everyone's contact info?"
-  },
-  {
-    "title": "The seven programming ur-languages (2022)",
-    "url": "https://madhadron.com/programming/seven_ur_languages.html",
-    "points": 297,
-    "num_comments": 114,
-    "tags": [
-      "story",
-      "author_helloplanets",
-      "story_47822486",
+      "author_ramonga",
+      "story_47834195",
       "front_page"
     ],
-    "author": "helloplanets",
-    "created_at": "2026-04-19T07:38:08Z",
-    "aiHeadline": "The seven programming 'ur-languages' you'll ever need, because why learn more when you can just master these seven and call it a day?"
+    "author": "ramonga",
+    "created_at": "2026-04-20T13:41:25Z",
+    "aiHeadline": "In 2027, EU phones will have replaceable batteries—because what's the fun of a dead phone if you can't just pop in a new battery, right?"
   },
   {
-    "title": "Airline worker arrested after sharing photos of bomb damage in WhatsApp group",
-    "url": "https://www.lbc.co.uk/article/dubai-police-spied-private-whatsapp-5HjdXwr_2/",
-    "points": 251,
-    "num_comments": 164,
+    "title": "GitHub's fake star economy",
+    "url": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
+    "points": 744,
+    "num_comments": 356,
     "tags": [
       "story",
-      "author_aa_is_op",
-      "story_47824068"
+      "author_Liriel",
+      "story_47831621"
     ],
-    "author": "aa_is_op",
-    "created_at": "2026-04-19T13:13:09Z",
-    "aiHeadline": "Airline worker gets arrested for sharing bomb damage photos in WhatsApp, proving that sometimes, it's better to keep your mouth (and phone) shut."
+    "author": "Liriel",
+    "created_at": "2026-04-20T08:26:52Z",
+    "aiHeadline": "GitHub's fake star economy is booming—because nothing says 'I'm a real developer' like buying fake stars to impress your imaginary friends."
+  },
+  {
+    "title": "Kimi K2.6: Advancing open-source coding",
+    "url": "https://www.kimi.com/blog/kimi-k2-6",
+    "points": 585,
+    "num_comments": 298,
+    "tags": [
+      "story",
+      "author_meetpateltech",
+      "story_47835735",
+      "front_page"
+    ],
+    "author": "meetpateltech",
+    "created_at": "2026-04-20T15:28:13Z",
+    "aiHeadline": "Kimi K2.6: Finally, some progress in open-source coding—because waiting for updates is as fun as watching paint dry, right?"
+  },
+  {
+    "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
+    "url": "https://qwen.ai/blog?id=qwen3.6-max-preview",
+    "points": 555,
+    "num_comments": 289,
+    "tags": [
+      "story",
+      "author_mfiguiere",
+      "story_47834565",
+      "front_page"
+    ],
+    "author": "mfiguiere",
+    "created_at": "2026-04-20T14:05:34Z",
+    "aiHeadline": "Qwen3.6-Max-Preview: Now smarter, sharper, and still evolving—because who doesn't love a model that's always changing, just like your favorite unstable AI."
   }
 ]
