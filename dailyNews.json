@@ -1,76 +1,76 @@
 [
   {
-    "title": "John Ternus to become Apple CEO",
-    "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
-    "points": 1286,
-    "num_comments": 642,
+    "title": "Alberta startup sells no-tech tractors for half price",
+    "url": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
+    "points": 1388,
+    "num_comments": 478,
     "tags": [
       "story",
-      "author_schappim",
-      "story_47840219",
+      "author_Kaibeezy",
+      "story_47865868",
       "front_page"
     ],
-    "author": "schappim",
-    "created_at": "2026-04-20T20:39:32Z",
-    "aiHeadline": "Apple finally decides to change their CEO, because what's the point of being a tech giant if you don't shake things up every 20 years?"
+    "author": "Kaibeezy",
+    "created_at": "2026-04-22T16:29:25Z",
+    "aiHeadline": "Back to the 90s: Alberta Startup Sells 'No-Tech' Tractors at Half the Price of Your Overpriced Smart Tractor"
   },
   {
-    "title": "All phones sold in the EU to have replaceable batteries from 2027",
-    "url": "https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/",
-    "points": 999,
-    "num_comments": 817,
+    "title": "Windows 9x Subsystem for Linux",
+    "url": "https://social.hails.org/@hailey/116446826733136456",
+    "points": 900,
+    "num_comments": 210,
     "tags": [
       "story",
-      "author_ramonga",
-      "story_47834195",
-      "front_page"
+      "author_sohkamyung",
+      "story_47861270"
     ],
-    "author": "ramonga",
-    "created_at": "2026-04-20T13:41:25Z",
-    "aiHeadline": "In 2027, EU phones will have replaceable batteries—because what's the fun of a dead phone if you can't just pop in a new battery, right?"
+    "author": "sohkamyung",
+    "created_at": "2026-04-22T09:52:52Z",
+    "aiHeadline": "Nostalgia Alert: Windows 9x Subsystem for Linux Brings Back the Good Old Days of Blue Screens and Dial-Up Internet"
   },
   {
-    "title": "GitHub's fake star economy",
-    "url": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
-    "points": 744,
-    "num_comments": 356,
-    "tags": [
-      "story",
-      "author_Liriel",
-      "story_47831621"
-    ],
-    "author": "Liriel",
-    "created_at": "2026-04-20T08:26:52Z",
-    "aiHeadline": "GitHub's fake star economy is booming—because nothing says 'I'm a real developer' like buying fake stars to impress your imaginary friends."
-  },
-  {
-    "title": "Kimi K2.6: Advancing open-source coding",
-    "url": "https://www.kimi.com/blog/kimi-k2-6",
-    "points": 585,
-    "num_comments": 298,
-    "tags": [
-      "story",
-      "author_meetpateltech",
-      "story_47835735",
-      "front_page"
-    ],
-    "author": "meetpateltech",
-    "created_at": "2026-04-20T15:28:13Z",
-    "aiHeadline": "Kimi K2.6: Finally, some progress in open-source coding—because waiting for updates is as fun as watching paint dry, right?"
-  },
-  {
-    "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
-    "url": "https://qwen.ai/blog?id=qwen3.6-max-preview",
-    "points": 555,
-    "num_comments": 289,
+    "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
+    "url": "https://qwen.ai/blog?id=qwen3.6-27b",
+    "points": 725,
+    "num_comments": 348,
     "tags": [
       "story",
       "author_mfiguiere",
-      "story_47834565",
+      "story_47863217",
       "front_page"
     ],
     "author": "mfiguiere",
-    "created_at": "2026-04-20T14:05:34Z",
-    "aiHeadline": "Qwen3.6-Max-Preview: Now smarter, sharper, and still evolving—because who doesn't love a model that's always changing, just like your favorite unstable AI."
+    "created_at": "2026-04-22T13:19:58Z",
+    "aiHeadline": "Big onBrains, Bigger on Bytes: Qwen3.6-27B Delivers Flagship-Level Coding in a Model So Dense, It Might as Well Be a Black Hole"
+  },
+  {
+    "title": "We found a stable Firefox identifier linking all your private Tor identities",
+    "url": "https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/",
+    "points": 465,
+    "num_comments": 139,
+    "tags": [
+      "story",
+      "author_danpinto",
+      "story_47866697",
+      "front_page"
+    ],
+    "author": "danpinto",
+    "created_at": "2026-04-22T17:35:03Z",
+    "aiHeadline": "Your Tor Privacy? Not So Private Anymore: Firefox Identifier Links All Your Secret Identities, Because Who Needs Privacy Anyway?"
+  },
+  {
+    "title": "GitHub CLI now collects pseudoanonymous telemetry",
+    "url": "https://cli.github.com/telemetry",
+    "points": 418,
+    "num_comments": 301,
+    "tags": [
+      "story",
+      "author_ingve",
+      "story_47862331",
+      "front_page"
+    ],
+    "author": "ingve",
+    "created_at": "2026-04-22T11:58:58Z",
+    "aiHeadline": "Big Brother is Watching You Code: GitHub CLI Now Collects Pseudoanonymous Telemetry, Because Who Doesn't Love a Little Surveillance While Coding?"
   }
 ]
