@@ -1,76 +1,77 @@
 [
   {
-    "title": "Alberta startup sells no-tech tractors for half price",
-    "url": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
-    "points": 1388,
-    "num_comments": 478,
+    "title": "GPT-5.5",
+    "url": "https://openai.com/index/introducing-gpt-5-5/",
+    "points": 1136,
+    "num_comments": 786,
     "tags": [
       "story",
-      "author_Kaibeezy",
-      "story_47865868",
+      "author_rd",
+      "story_47879092",
       "front_page"
     ],
-    "author": "Kaibeezy",
-    "created_at": "2026-04-22T16:29:25Z",
-    "aiHeadline": "Back to the 90s: Alberta Startup Sells 'No-Tech' Tractors at Half the Price of Your Overpriced Smart Tractor"
+    "author": "rd",
+    "created_at": "2026-04-23T18:01:39Z",
+    "aiHeadline": "GPT-5.5: The latest AI update that will probably make you question humanity (again)"
   },
   {
-    "title": "Windows 9x Subsystem for Linux",
-    "url": "https://social.hails.org/@hailey/116446826733136456",
-    "points": 900,
-    "num_comments": 210,
+    "title": "I am building a cloud",
+    "url": "https://crawshaw.io/blog/building-a-cloud",
+    "points": 1010,
+    "num_comments": 497,
     "tags": [
       "story",
-      "author_sohkamyung",
-      "story_47861270"
+      "author_bumbledraven",
+      "story_47872324",
+      "front_page"
     ],
-    "author": "sohkamyung",
-    "created_at": "2026-04-22T09:52:52Z",
-    "aiHeadline": "Nostalgia Alert: Windows 9x Subsystem for Linux Brings Back the Good Old Days of Blue Screens and Dial-Up Internet"
+    "author": "bumbledraven",
+    "created_at": "2026-04-23T04:44:19Z",
+    "aiHeadline": "I'm building a cloud—because apparently, the existing ones aren't good enough for my personal rain collection"
   },
   {
-    "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
-    "url": "https://qwen.ai/blog?id=qwen3.6-27b",
-    "points": 725,
-    "num_comments": 348,
+    "title": "Palantir employees are starting to wonder if they're the bad guys",
+    "url": "https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/",
+    "points": 770,
+    "num_comments": 523,
+    "tags": [
+      "story",
+      "author_pavel_lishin",
+      "story_47878633",
+      "front_page"
+    ],
+    "author": "pavel_lishin",
+    "created_at": "2026-04-23T17:30:05Z",
+    "aiHeadline": "Palantir employees are starting to wonder if they're the bad guys—spoiler: they're probably right"
+  },
+  {
+    "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
+    "url": "https://socket.dev/blog/bitwarden-cli-compromised",
+    "points": 663,
+    "num_comments": 329,
+    "tags": [
+      "story",
+      "author_tosh",
+      "story_47876043",
+      "front_page"
+    ],
+    "author": "tosh",
+    "created_at": "2026-04-23T14:17:08Z",
+    "aiHeadline": "Bitwarden CLI compromised: Because nothing says 'secure' like having your security tool hacked"
+  },
+  {
+    "title": "An update on recent Claude Code quality reports",
+    "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+    "points": 590,
+    "num_comments": 451,
     "tags": [
       "story",
       "author_mfiguiere",
-      "story_47863217",
+      "story_47878905",
       "front_page"
     ],
     "author": "mfiguiere",
-    "created_at": "2026-04-22T13:19:58Z",
-    "aiHeadline": "Big onBrains, Bigger on Bytes: Qwen3.6-27B Delivers Flagship-Level Coding in a Model So Dense, It Might as Well Be a Black Hole"
-  },
-  {
-    "title": "We found a stable Firefox identifier linking all your private Tor identities",
-    "url": "https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/",
-    "points": 465,
-    "num_comments": 139,
-    "tags": [
-      "story",
-      "author_danpinto",
-      "story_47866697",
-      "front_page"
-    ],
-    "author": "danpinto",
-    "created_at": "2026-04-22T17:35:03Z",
-    "aiHeadline": "Your Tor Privacy? Not So Private Anymore: Firefox Identifier Links All Your Secret Identities, Because Who Needs Privacy Anyway?"
-  },
-  {
-    "title": "GitHub CLI now collects pseudoanonymous telemetry",
-    "url": "https://cli.github.com/telemetry",
-    "points": 418,
-    "num_comments": 301,
-    "tags": [
-      "story",
-      "author_ingve",
-      "story_47862331",
-      "front_page"
-    ],
-    "author": "ingve",
-    "created_at": "2026-04-22T11:58:58Z",
-    "aiHeadline": "Big Brother is Watching You Code: GitHub CLI Now Collects Pseudoanonymous Telemetry, Because Who Doesn't Love a Little Surveillance While Coding?"
+    "created_at": "2026-04-23T17:48:38Z",
+    "aiHeadline": "An update on recent Claude Code quality reports: Because who doesn't love a good postmortem about their coding disasters?"
   }
 ]
