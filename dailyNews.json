@@ -1,77 +1,76 @@
 [
   {
-    "title": "GPT-5.5",
-    "url": "https://openai.com/index/introducing-gpt-5-5/",
-    "points": 1136,
-    "num_comments": 786,
+    "title": "DeepSeek v4",
+    "url": "https://api-docs.deepseek.com/news/news260424",
+    "points": 1821,
+    "num_comments": 1422,
     "tags": [
       "story",
-      "author_rd",
-      "story_47879092",
+      "author_impact_sy",
+      "story_47884971",
       "front_page"
     ],
-    "author": "rd",
-    "created_at": "2026-04-23T18:01:39Z",
-    "aiHeadline": "GPT-5.5: The latest AI update that will probably make you question humanity (again)"
+    "author": "impact_sy",
+    "created_at": "2026-04-24T03:01:21Z",
+    "aiHeadline": "DeepSeek v4: Because four is the number of times you'll update before realizing you should've just stuck with v1."
   },
   {
-    "title": "I am building a cloud",
-    "url": "https://crawshaw.io/blog/building-a-cloud",
-    "points": 1010,
-    "num_comments": 497,
+    "title": "I cancelled Claude: Token issues, declining quality, and poor support",
+    "url": "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
+    "points": 793,
+    "num_comments": 480,
     "tags": [
       "story",
-      "author_bumbledraven",
-      "story_47872324",
+      "author_y42",
+      "story_47892019",
       "front_page"
     ],
-    "author": "bumbledraven",
-    "created_at": "2026-04-23T04:44:19Z",
-    "aiHeadline": "I'm building a cloud—because apparently, the existing ones aren't good enough for my personal rain collection"
+    "author": "y42",
+    "created_at": "2026-04-24T15:59:19Z",
+    "aiHeadline": "I cancelled Claude: Because who needs a chatbot that's as reliable as your Wi-Fi connection on a rainy day?"
   },
   {
-    "title": "Palantir employees are starting to wonder if they're the bad guys",
-    "url": "https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/",
-    "points": 770,
-    "num_comments": 523,
+    "title": "Norway set to become latest country to ban social media for under 16s",
+    "url": "https://www.bloomberg.com/news/articles/2026-04-24/norway-wants-kids-to-be-kids-with-social-media-ban-for-under-16s",
+    "points": 377,
+    "num_comments": 425,
     "tags": [
       "story",
-      "author_pavel_lishin",
-      "story_47878633",
-      "front_page"
+      "author_1vuio0pswjnm7",
+      "story_47891019"
     ],
-    "author": "pavel_lishin",
-    "created_at": "2026-04-23T17:30:05Z",
-    "aiHeadline": "Palantir employees are starting to wonder if they're the bad guys—spoiler: they're probably right"
+    "author": "1vuio0pswjnm7",
+    "created_at": "2026-04-24T14:45:10Z",
+    "aiHeadline": "Norway set to become latest country to ban social media for under 16s: Because kids these days need more offline adventures, like staring at their shoes and thinking deep thoughts."
   },
   {
-    "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
-    "url": "https://socket.dev/blog/bitwarden-cli-compromised",
-    "points": 663,
-    "num_comments": 329,
+    "title": "Google plans to invest up to $40B in Anthropic",
+    "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
+    "points": 366,
+    "num_comments": 402,
     "tags": [
       "story",
-      "author_tosh",
-      "story_47876043",
+      "author_elffjs",
+      "story_47892074",
       "front_page"
     ],
-    "author": "tosh",
-    "created_at": "2026-04-23T14:17:08Z",
-    "aiHeadline": "Bitwarden CLI compromised: Because nothing says 'secure' like having your security tool hacked"
+    "author": "elffjs",
+    "created_at": "2026-04-24T16:04:41Z",
+    "aiHeadline": "Google plans to invest up to $40B in Anthropic: Because if you can't beat 'em, buy 'em, and maybe they'll finally fix that autocorrect feature."
   },
   {
-    "title": "An update on recent Claude Code quality reports",
-    "url": "https://www.anthropic.com/engineering/april-23-postmortem",
-    "points": 590,
-    "num_comments": 451,
+    "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
+    "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
+    "points": 365,
+    "num_comments": 93,
     "tags": [
       "story",
-      "author_mfiguiere",
-      "story_47878905",
+      "author_alcazar",
+      "story_47890799",
       "front_page"
     ],
-    "author": "mfiguiere",
-    "created_at": "2026-04-23T17:48:38Z",
-    "aiHeadline": "An update on recent Claude Code quality reports: Because who doesn't love a good postmortem about their coding disasters?"
+    "author": "alcazar",
+    "created_at": "2026-04-24T14:28:52Z",
+    "aiHeadline": "Sabotaging projects by overthinking, scope creep, and structural diffing: Because nothing says 'success' like a project that's been over-engineered into oblivion."
   }
 ]
