@@ -1,76 +1,74 @@
 [
   {
-    "title": "DeepSeek v4",
-    "url": "https://api-docs.deepseek.com/news/news260424",
-    "points": 1821,
-    "num_comments": 1422,
+    "title": "The West forgot how to make things, now it’s forgetting how to code",
+    "url": "https://techtrenches.dev/p/the-west-forgot-how-to-make-things",
+    "points": 1103,
+    "num_comments": 791,
     "tags": [
       "story",
-      "author_impact_sy",
-      "story_47884971",
-      "front_page"
+      "author_milkglass",
+      "story_47907879"
     ],
-    "author": "impact_sy",
-    "created_at": "2026-04-24T03:01:21Z",
-    "aiHeadline": "DeepSeek v4: Because four is the number of times you'll update before realizing you should've just stuck with v1."
+    "author": "milkglass",
+    "created_at": "2026-04-26T06:24:42Z",
+    "aiHeadline": "The West is so good at forgetting things—first manufacturing, then coding, now probably their keys."
   },
   {
-    "title": "I cancelled Claude: Token issues, declining quality, and poor support",
-    "url": "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
-    "points": 793,
-    "num_comments": 480,
+    "title": "Asahi Linux Progress Linux 7.0",
+    "url": "https://asahilinux.org/2026/04/progress-report-7-0/",
+    "points": 598,
+    "num_comments": 297,
     "tags": [
       "story",
-      "author_y42",
-      "story_47892019",
-      "front_page"
+      "author_elisaado",
+      "story_47909226"
     ],
-    "author": "y42",
-    "created_at": "2026-04-24T15:59:19Z",
-    "aiHeadline": "I cancelled Claude: Because who needs a chatbot that's as reliable as your Wi-Fi connection on a rainy day?"
+    "author": "elisaado",
+    "created_at": "2026-04-26T10:50:32Z",
+    "aiHeadline": "Linux is still here, slowly progressing like a tortoise in a marathon, but hey, at least it's not Windows."
   },
   {
-    "title": "Norway set to become latest country to ban social media for under 16s",
-    "url": "https://www.bloomberg.com/news/articles/2026-04-24/norway-wants-kids-to-be-kids-with-social-media-ban-for-under-16s",
-    "points": 377,
-    "num_comments": 425,
+    "title": "GoDaddy gave a domain to a stranger without any documentation",
+    "url": "https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/",
+    "points": 557,
+    "num_comments": 220,
     "tags": [
       "story",
-      "author_1vuio0pswjnm7",
-      "story_47891019"
+      "author_jamesponddotco",
+      "story_47911780"
     ],
-    "author": "1vuio0pswjnm7",
-    "created_at": "2026-04-24T14:45:10Z",
-    "aiHeadline": "Norway set to become latest country to ban social media for under 16s: Because kids these days need more offline adventures, like staring at their shoes and thinking deep thoughts."
+    "author": "jamesponddotco",
+    "created_at": "2026-04-26T16:57:56Z",
+    "aiHeadline": "GoDaddy is now a free service? Or maybe they just handed out a domain to a random person because they ran out of documentation."
   },
   {
-    "title": "Google plans to invest up to $40B in Anthropic",
-    "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
-    "points": 366,
-    "num_comments": 402,
+    "title": "An AI agent deleted our production database. The agent's confession is below",
+    "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
+    "points": 507,
+    "num_comments": 664,
     "tags": [
       "story",
-      "author_elffjs",
-      "story_47892074",
+      "author_jeremyccrane",
+      "story_47911524",
       "front_page"
     ],
-    "author": "elffjs",
-    "created_at": "2026-04-24T16:04:41Z",
-    "aiHeadline": "Google plans to invest up to $40B in Anthropic: Because if you can't beat 'em, buy 'em, and maybe they'll finally fix that autocorrect feature."
+    "author": "jeremyccrane",
+    "created_at": "2026-04-26T16:27:29Z",
+    "aiHeadline": "AI is so smart now that it can delete entire databases. Great, now we have to babysit the machines."
   },
   {
-    "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
-    "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
-    "points": 365,
-    "num_comments": 93,
+    "title": "I bought Friendster for $30k – Here's what I'm doing with it",
+    "url": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
+    "points": 485,
+    "num_comments": 264,
     "tags": [
       "story",
-      "author_alcazar",
-      "story_47890799",
+      "author_ca98am79",
+      "story_47914165",
       "front_page"
     ],
-    "author": "alcazar",
-    "created_at": "2026-04-24T14:28:52Z",
-    "aiHeadline": "Sabotaging projects by overthinking, scope creep, and structural diffing: Because nothing says 'success' like a project that's been over-engineered into oblivion."
+    "author": "ca98am79",
+    "created_at": "2026-04-26T20:41:06Z",
+    "aiHeadline": "Buying Friendster for $30k—talk about a bargain! Now they can relive the glory days of social media in the early 2000s."
   }
 ]
