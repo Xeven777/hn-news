@@ -1,74 +1,76 @@
 [
   {
-    "title": "The West forgot how to make things, now it’s forgetting how to code",
-    "url": "https://techtrenches.dev/p/the-west-forgot-how-to-make-things",
-    "points": 1103,
-    "num_comments": 791,
+    "title": "Ghostty is leaving GitHub",
+    "url": "https://mitchellh.com/writing/ghostty-leaving-github",
+    "points": 1871,
+    "num_comments": 585,
     "tags": [
       "story",
-      "author_milkglass",
-      "story_47907879"
-    ],
-    "author": "milkglass",
-    "created_at": "2026-04-26T06:24:42Z",
-    "aiHeadline": "The West is so good at forgetting things—first manufacturing, then coding, now probably their keys."
-  },
-  {
-    "title": "Asahi Linux Progress Linux 7.0",
-    "url": "https://asahilinux.org/2026/04/progress-report-7-0/",
-    "points": 598,
-    "num_comments": 297,
-    "tags": [
-      "story",
-      "author_elisaado",
-      "story_47909226"
-    ],
-    "author": "elisaado",
-    "created_at": "2026-04-26T10:50:32Z",
-    "aiHeadline": "Linux is still here, slowly progressing like a tortoise in a marathon, but hey, at least it's not Windows."
-  },
-  {
-    "title": "GoDaddy gave a domain to a stranger without any documentation",
-    "url": "https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/",
-    "points": 557,
-    "num_comments": 220,
-    "tags": [
-      "story",
-      "author_jamesponddotco",
-      "story_47911780"
-    ],
-    "author": "jamesponddotco",
-    "created_at": "2026-04-26T16:57:56Z",
-    "aiHeadline": "GoDaddy is now a free service? Or maybe they just handed out a domain to a random person because they ran out of documentation."
-  },
-  {
-    "title": "An AI agent deleted our production database. The agent's confession is below",
-    "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
-    "points": 507,
-    "num_comments": 664,
-    "tags": [
-      "story",
-      "author_jeremyccrane",
-      "story_47911524",
+      "author_WadeGrimridge",
+      "story_47939579",
       "front_page"
     ],
-    "author": "jeremyccrane",
-    "created_at": "2026-04-26T16:27:29Z",
-    "aiHeadline": "AI is so smart now that it can delete entire databases. Great, now we have to babysit the machines."
+    "author": "WadeGrimridge",
+    "created_at": "2026-04-28T19:44:52Z",
+    "aiHeadline": "After years of dedicated service, Ghostty, a beloved GitHub developer, has decided to part ways with the platform, leaving the community in shock and mourning the loss of a true coding legend."
   },
   {
-    "title": "I bought Friendster for $30k – Here's what I'm doing with it",
-    "url": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
-    "points": 485,
-    "num_comments": 264,
+    "title": "Your phone is about to stop being yours",
+    "url": "https://keepandroidopen.org/en/",
+    "points": 1058,
+    "num_comments": 500,
     "tags": [
       "story",
-      "author_ca98am79",
-      "story_47914165",
+      "author_doener",
+      "story_47935853",
       "front_page"
     ],
-    "author": "ca98am79",
-    "created_at": "2026-04-26T20:41:06Z",
-    "aiHeadline": "Buying Friendster for $30k—talk about a bargain! Now they can relive the glory days of social media in the early 2000s."
+    "author": "doener",
+    "created_at": "2026-04-28T15:21:00Z",
+    "aiHeadline": "Your smartphone, once your loyal companion, is about to become a spying device controlled by corporations, making you wonder if you ever truly owned it in the first place."
+  },
+  {
+    "title": "Localsend: An open-source cross-platform alternative to AirDrop",
+    "url": "https://github.com/localsend/localsend",
+    "points": 757,
+    "num_comments": 235,
+    "tags": [
+      "story",
+      "author_bilsbie",
+      "story_47933208",
+      "front_page"
+    ],
+    "author": "bilsbie",
+    "created_at": "2026-04-28T11:54:20Z",
+    "aiHeadline": "Tired of AirDrop's constant failures? Localsend is here to save the day with its open-source, cross-platform file-sharing solution, offering a reliable alternative that feels like a breath of fresh air."
+  },
+  {
+    "title": "UAE to leave OPEC",
+    "url": "https://www.ft.com/content/8c354f2d-3e66-47f1-aad4-9b4aa30e386d",
+    "points": 360,
+    "num_comments": 493,
+    "tags": [
+      "story",
+      "author_bazzmt",
+      "story_47933983",
+      "front_page"
+    ],
+    "author": "bazzmt",
+    "created_at": "2026-04-28T13:02:01Z",
+    "aiHeadline": "The UAE is making a bold move by leaving OPEC, signaling a shift towards renewable energy and independence from oil dependency, leaving the world to ponder the future of global energy strategies."
+  },
+  {
+    "title": "GTFOBins",
+    "url": "https://gtfobins.org/",
+    "points": 341,
+    "num_comments": 87,
+    "tags": [
+      "story",
+      "author_StefanBatory",
+      "story_47931035"
+    ],
+    "author": "StefanBatory",
+    "created_at": "2026-04-28T06:27:39Z",
+    "aiHeadline": "GTFOBins is the ultimate Swiss Army knife for hackers, providing a treasure trove of tools to exploit systems, making it an indispensable resource for cybersecurity enthusiasts and mischief-makers alike."
   }
 ]
