@@ -1,76 +1,77 @@
 [
   {
-    "title": "Ghostty is leaving GitHub",
-    "url": "https://mitchellh.com/writing/ghostty-leaving-github",
-    "points": 1871,
-    "num_comments": 585,
+    "title": "Zed 1.0",
+    "url": "https://zed.dev/blog/zed-1-0",
+    "points": 1606,
+    "num_comments": 514,
     "tags": [
       "story",
-      "author_WadeGrimridge",
-      "story_47939579",
+      "author_salkahfi",
+      "story_47949027",
       "front_page"
     ],
-    "author": "WadeGrimridge",
-    "created_at": "2026-04-28T19:44:52Z",
-    "aiHeadline": "After years of dedicated service, Ghostty, a beloved GitHub developer, has decided to part ways with the platform, leaving the community in shock and mourning the loss of a true coding legend."
+    "author": "salkahfi",
+    "created_at": "2026-04-29T14:34:19Z",
+    "aiHeadline": "Zed 1.0: The latest and greatest software update that somehow manages to be both revolutionary and underwhelming at the same time."
   },
   {
-    "title": "Your phone is about to stop being yours",
-    "url": "https://keepandroidopen.org/en/",
-    "points": 1058,
-    "num_comments": 500,
+    "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
+    "url": "https://github.com/anthropics/claude-code/issues/53262",
+    "points": 1011,
+    "num_comments": 434,
     "tags": [
       "story",
-      "author_doener",
-      "story_47935853",
+      "author_homebrewer",
+      "story_47952722",
       "front_page"
     ],
-    "author": "doener",
-    "created_at": "2026-04-28T15:21:00Z",
-    "aiHeadline": "Your smartphone, once your loyal companion, is about to become a spying device controlled by corporations, making you wonder if you ever truly owned it in the first place."
+    "author": "homebrewer",
+    "created_at": "2026-04-29T18:54:31Z",
+    "aiHeadline": "HERMES.md in commit messages: Because nothing says 'I'm a professional developer' like accidentally routing requests to extra billing."
   },
   {
-    "title": "Localsend: An open-source cross-platform alternative to AirDrop",
-    "url": "https://github.com/localsend/localsend",
-    "points": 757,
-    "num_comments": 235,
+    "title": "Online age verification is the hill to die on",
+    "url": "https://x.com/GlennMeder/status/2049088498163216560",
+    "points": 804,
+    "num_comments": 506,
     "tags": [
       "story",
-      "author_bilsbie",
-      "story_47933208",
+      "author_Cider9986",
+      "story_47950091",
       "front_page"
     ],
-    "author": "bilsbie",
-    "created_at": "2026-04-28T11:54:20Z",
-    "aiHeadline": "Tired of AirDrop's constant failures? Localsend is here to save the day with its open-source, cross-platform file-sharing solution, offering a reliable alternative that feels like a breath of fresh air."
+    "author": "Cider9986",
+    "created_at": "2026-04-29T15:49:57Z",
+    "aiHeadline": "Online age verification: The hill to die on, because clearly, nothing is more important than ensuring kids can't access the internet."
   },
   {
-    "title": "UAE to leave OPEC",
-    "url": "https://www.ft.com/content/8c354f2d-3e66-47f1-aad4-9b4aa30e386d",
-    "points": 360,
-    "num_comments": 493,
+    "title": "Cursor Camp",
+    "url": "https://neal.fun/cursor-camp/",
+    "points": 718,
+    "num_comments": 117,
     "tags": [
       "story",
-      "author_bazzmt",
-      "story_47933983",
+      "author_bpierre",
+      "story_47949939",
       "front_page"
     ],
-    "author": "bazzmt",
-    "created_at": "2026-04-28T13:02:01Z",
-    "aiHeadline": "The UAE is making a bold move by leaving OPEC, signaling a shift towards renewable energy and independence from oil dependency, leaving the world to ponder the future of global energy strategies."
+    "author": "bpierre",
+    "created_at": "2026-04-29T15:39:43Z",
+    "aiHeadline": "Cursor Camp: Where tech enthusiasts gather to discuss the finer points of their favorite text editors, because who doesn't love a good keyboard shortcut debate?"
   },
   {
-    "title": "GTFOBins",
-    "url": "https://gtfobins.org/",
-    "points": 341,
-    "num_comments": 87,
+    "title": "Copy Fail",
+    "url": "https://copy.fail/",
+    "points": 671,
+    "num_comments": 284,
     "tags": [
       "story",
-      "author_StefanBatory",
-      "story_47931035"
+      "author_unsnap_biceps",
+      "story_47952181",
+      "front_page"
     ],
-    "author": "StefanBatory",
-    "created_at": "2026-04-28T06:27:39Z",
-    "aiHeadline": "GTFOBins is the ultimate Swiss Army knife for hackers, providing a treasure trove of tools to exploit systems, making it an indispensable resource for cybersecurity enthusiasts and mischief-makers alike."
+    "author": "unsnap_biceps",
+    "created_at": "2026-04-29T18:13:53Z",
+    "aiHeadline": "Copy Fail: The website that proves even the best copywriters can have a bad day, one failed attempt at a time."
   }
 ]
