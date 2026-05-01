@@ -1,77 +1,75 @@
 [
   {
-    "title": "Zed 1.0",
-    "url": "https://zed.dev/blog/zed-1-0",
-    "points": 1606,
-    "num_comments": 514,
+    "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+    "url": "https://twitter.com/theo/status/2049645973350363168",
+    "points": 1008,
+    "num_comments": 567,
     "tags": [
       "story",
-      "author_salkahfi",
-      "story_47949027",
+      "author_elmean",
+      "story_47963204",
       "front_page"
     ],
-    "author": "salkahfi",
-    "created_at": "2026-04-29T14:34:19Z",
-    "aiHeadline": "Zed 1.0: The latest and greatest software update that somehow manages to be both revolutionary and underwhelming at the same time."
+    "author": "elmean",
+    "created_at": "2026-04-30T14:36:58Z",
+    "aiHeadline": "Claude Code: 'Sure, I'll help you, but only if you don't mention that pesky OpenClaw thing... or else!'"
   },
   {
-    "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
-    "url": "https://github.com/anthropics/claude-code/issues/53262",
-    "points": 1011,
-    "num_comments": 434,
+    "title": "Belgium stops decommissioning nuclear power plants",
+    "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
+    "points": 770,
+    "num_comments": 734,
     "tags": [
       "story",
-      "author_homebrewer",
-      "story_47952722",
+      "author_mpweiher",
+      "story_47961319",
       "front_page"
     ],
-    "author": "homebrewer",
-    "created_at": "2026-04-29T18:54:31Z",
-    "aiHeadline": "HERMES.md in commit messages: Because nothing says 'I'm a professional developer' like accidentally routing requests to extra billing."
+    "author": "mpweiher",
+    "created_at": "2026-04-30T12:17:14Z",
+    "aiHeadline": "Belgium: 'Why take risks with renewable energy when we can just keep our fingers crossed and hope the nuclear reactors don't explode?'"
   },
   {
-    "title": "Online age verification is the hill to die on",
-    "url": "https://x.com/GlennMeder/status/2049088498163216560",
-    "points": 804,
-    "num_comments": 506,
+    "title": "Mozilla's opposition to Chrome's Prompt API",
+    "url": "https://github.com/mozilla/standards-positions/issues/1213#issuecomment-4347988313",
+    "points": 604,
+    "num_comments": 218,
+    "tags": [
+      "story",
+      "author_jaffathecake",
+      "story_47959463"
+    ],
+    "author": "jaffathecake",
+    "created_at": "2026-04-30T07:43:55Z",
+    "aiHeadline": "Mozilla: 'We're not just mad about Chrome; we're writing a whole issue about it!'"
+  },
+  {
+    "title": "Can I disable all data collection from my vehicle?",
+    "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
+    "points": 534,
+    "num_comments": 207,
     "tags": [
       "story",
       "author_Cider9986",
-      "story_47950091",
+      "story_47967786",
       "front_page"
     ],
     "author": "Cider9986",
-    "created_at": "2026-04-29T15:49:57Z",
-    "aiHeadline": "Online age verification: The hill to die on, because clearly, nothing is more important than ensuring kids can't access the internet."
+    "created_at": "2026-04-30T20:27:22Z",
+    "aiHeadline": "Can I disable all data collection from my vehicle? Well, good luck with that, because your car probably already knows more about you than your therapist does."
   },
   {
-    "title": "Cursor Camp",
-    "url": "https://neal.fun/cursor-camp/",
-    "points": 718,
-    "num_comments": 117,
+    "title": "Meta in row after workers who saw smart glasses users having sex lose jobs",
+    "url": "https://www.bbc.com/news/articles/c5y7yvgy0w6o",
+    "points": 487,
+    "num_comments": 391,
     "tags": [
       "story",
-      "author_bpierre",
-      "story_47949939",
-      "front_page"
+      "author_gorbachev",
+      "story_47961838"
     ],
-    "author": "bpierre",
-    "created_at": "2026-04-29T15:39:43Z",
-    "aiHeadline": "Cursor Camp: Where tech enthusiasts gather to discuss the finer points of their favorite text editors, because who doesn't love a good keyboard shortcut debate?"
-  },
-  {
-    "title": "Copy Fail",
-    "url": "https://copy.fail/",
-    "points": 671,
-    "num_comments": 284,
-    "tags": [
-      "story",
-      "author_unsnap_biceps",
-      "story_47952181",
-      "front_page"
-    ],
-    "author": "unsnap_biceps",
-    "created_at": "2026-04-29T18:13:53Z",
-    "aiHeadline": "Copy Fail: The website that proves even the best copywriters can have a bad day, one failed attempt at a time."
+    "author": "gorbachev",
+    "created_at": "2026-04-30T13:07:42Z",
+    "aiHeadline": "Meta: 'We're all about privacy, except when our workers accidentally witness some... interesting activities while testing our smart glasses.'"
   }
 ]
