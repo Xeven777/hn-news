@@ -1,75 +1,75 @@
 [
   {
-    "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
-    "url": "https://twitter.com/theo/status/2049645973350363168",
-    "points": 1008,
-    "num_comments": 567,
+    "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
+    "url": "https://github.com/darrylmorley/whatcable",
+    "points": 433,
+    "num_comments": 129,
     "tags": [
       "story",
-      "author_elmean",
-      "story_47963204",
+      "author_sleepingNomad",
+      "story_47972511",
+      "show_hn",
       "front_page"
     ],
-    "author": "elmean",
-    "created_at": "2026-04-30T14:36:58Z",
-    "aiHeadline": "Claude Code: 'Sure, I'll help you, but only if you don't mention that pesky OpenClaw thing... or else!'"
+    "author": "sleepingNomad",
+    "created_at": "2026-05-01T08:43:45Z",
+    "aiHeadline": "Finally, a tool to tell you if your $400 cable is actually worth it!"
   },
   {
-    "title": "Belgium stops decommissioning nuclear power plants",
-    "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
-    "points": 770,
-    "num_comments": 734,
+    "title": "The gay jailbreak technique",
+    "url": "https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md",
+    "points": 407,
+    "num_comments": 156,
     "tags": [
       "story",
-      "author_mpweiher",
-      "story_47961319",
+      "author_bobsmooth",
+      "story_47977134",
       "front_page"
     ],
-    "author": "mpweiher",
-    "created_at": "2026-04-30T12:17:14Z",
-    "aiHeadline": "Belgium: 'Why take risks with renewable energy when we can just keep our fingers crossed and hope the nuclear reactors don't explode?'"
+    "author": "bobsmooth",
+    "created_at": "2026-05-01T16:59:35Z",
+    "aiHeadline": "Because nothing says 'secure' like a jailbreak named after a marginalized group."
   },
   {
-    "title": "Mozilla's opposition to Chrome's Prompt API",
-    "url": "https://github.com/mozilla/standards-positions/issues/1213#issuecomment-4347988313",
-    "points": 604,
-    "num_comments": 218,
+    "title": "Grok 4.3",
+    "url": "https://docs.x.ai/developers/models/grok-4.3",
+    "points": 381,
+    "num_comments": 507,
     "tags": [
       "story",
-      "author_jaffathecake",
-      "story_47959463"
+      "author_simianwords",
+      "story_47972447"
     ],
-    "author": "jaffathecake",
-    "created_at": "2026-04-30T07:43:55Z",
-    "aiHeadline": "Mozilla: 'We're not just mad about Chrome; we're writing a whole issue about it!'"
+    "author": "simianwords",
+    "created_at": "2026-05-01T08:29:31Z",
+    "aiHeadline": "Grok 4.3: Because Grok 4.2 just wasn't smart enough to realize it was obsolete."
   },
   {
-    "title": "Can I disable all data collection from my vehicle?",
-    "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
-    "points": 534,
-    "num_comments": 207,
+    "title": "Uber torches 2026 AI budget on Claude Code in four months",
+    "url": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/",
+    "points": 372,
+    "num_comments": 432,
     "tags": [
       "story",
-      "author_Cider9986",
-      "story_47967786",
-      "front_page"
+      "author_lwhsiao",
+      "story_47976415"
     ],
-    "author": "Cider9986",
-    "created_at": "2026-04-30T20:27:22Z",
-    "aiHeadline": "Can I disable all data collection from my vehicle? Well, good luck with that, because your car probably already knows more about you than your therapist does."
+    "author": "lwhsiao",
+    "created_at": "2026-05-01T16:08:53Z",
+    "aiHeadline": "Uber proves that when you have a budget, the best way to use it is to spend it all in four months."
   },
   {
-    "title": "Meta in row after workers who saw smart glasses users having sex lose jobs",
-    "url": "https://www.bbc.com/news/articles/c5y7yvgy0w6o",
-    "points": 487,
-    "num_comments": 391,
+    "title": "Apple accidentally left Claude.md files Apple Support app",
+    "url": "https://x.com/aaronp613/status/2049986504617820551",
+    "points": 367,
+    "num_comments": 303,
     "tags": [
       "story",
-      "author_gorbachev",
-      "story_47961838"
+      "author_andruby",
+      "story_47973378"
     ],
-    "author": "gorbachev",
-    "created_at": "2026-04-30T13:07:42Z",
-    "aiHeadline": "Meta: 'We're all about privacy, except when our workers accidentally witness some... interesting activities while testing our smart glasses.'"
+    "author": "andruby",
+    "created_at": "2026-05-01T11:08:32Z",
+    "aiHeadline": "Because nothing says 'professional' like leaving debug files in your support app."
   }
 ]
