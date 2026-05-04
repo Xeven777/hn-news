@@ -1,75 +1,76 @@
 [
   {
-    "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
-    "url": "https://github.com/microsoft/vscode/pull/310226",
-    "points": 900,
-    "num_comments": 437,
+    "title": "Mercedes-Benz commits to bringing back physical buttons",
+    "url": "https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/",
+    "points": 626,
+    "num_comments": 356,
     "tags": [
       "story",
-      "author_indrora",
-      "story_47989883",
+      "author_teleforce",
+      "story_47997418",
       "front_page"
     ],
-    "author": "indrora",
-    "created_at": "2026-05-02T19:57:26Z",
-    "aiHeadline": "VS Code now forces you to share credit with Copilot, whether you like it or not."
+    "author": "teleforce",
+    "created_at": "2026-05-03T14:43:27Z",
+    "aiHeadline": "Mercedes-Benz: Because buttons are so 2026, we're bringing them back!"
   },
   {
-    "title": "Why does it take so long to release black fan versions?",
-    "url": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
-    "points": 709,
-    "num_comments": 288,
+    "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
+    "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
+    "points": 353,
+    "num_comments": 214,
     "tags": [
       "story",
-      "author_buildbot",
-      "story_47983352"
+      "author_bazlightyear",
+      "story_47993235"
     ],
-    "author": "buildbot",
-    "created_at": "2026-05-02T04:38:04Z",
-    "aiHeadline": "Why does it take forever to release black fan versions? Because apparently, they're waiting for the next iPhone to be black too."
+    "author": "bazlightyear",
+    "created_at": "2026-05-03T04:05:28Z",
+    "aiHeadline": "Kimi K2.6: The AI that proves even Chinese models can code better than you!"
   },
   {
-    "title": "Ask.com has closed",
-    "url": "https://www.ask.com/",
-    "points": 439,
-    "num_comments": 221,
+    "title": "New statue in London, attributed to Banksy, of a suited man, blinded by a flag",
+    "url": "https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/",
+    "points": 295,
+    "num_comments": 285,
     "tags": [
       "story",
-      "author_supermdguy",
-      "story_47983226"
-    ],
-    "author": "supermdguy",
-    "created_at": "2026-05-02T04:12:35Z",
-    "aiHeadline": "Ask.com has closed, proving that sometimes, the internet just moves on, leaving behind relics like flip phones and MySpace."
-  },
-  {
-    "title": "NetHack 5.0.0",
-    "url": "https://nethack.org/v500/release.html",
-    "points": 391,
-    "num_comments": 123,
-    "tags": [
-      "story",
-      "author_rsaarelm",
-      "story_47988776",
+      "author_dryadin",
+      "story_48000152",
       "front_page"
     ],
-    "author": "rsaarelm",
-    "created_at": "2026-05-02T18:03:42Z",
-    "aiHeadline": "NetHack finally releases version 5.0.0, proving that good things come to those who wait... or maybe just those who didn't give up on ASCII art."
+    "author": "dryadin",
+    "created_at": "2026-05-03T18:54:28Z",
+    "aiHeadline": "Banksy's latest masterpiece: A man so blinded by patriotism he's about to walk off a ledge!"
   },
   {
-    "title": "Dav2d",
-    "url": "https://code.videolan.org/videolan/dav2d",
-    "points": 364,
-    "num_comments": 114,
+    "title": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
+    "url": "https://partyon.xyz/@nullagent/116499715071759135",
+    "points": 284,
+    "num_comments": 89,
     "tags": [
       "story",
-      "author_dabinat",
-      "story_47988504",
+      "author_nullagent",
+      "story_47999636",
       "front_page"
     ],
-    "author": "dabinat",
-    "created_at": "2026-05-02T17:32:29Z",
-    "aiHeadline": "Dav2d: the latest in video decoding technology, because apparently, we needed another one."
+    "author": "nullagent",
+    "created_at": "2026-05-03T18:03:14Z",
+    "aiHeadline": "BYOMesh: Because 100x the bandwidth wasn't enough, now you can mesh it too!"
+  },
+  {
+    "title": "Why TUIs are back",
+    "url": "https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/",
+    "points": 278,
+    "num_comments": 295,
+    "tags": [
+      "story",
+      "author_rickcarlino",
+      "story_48000028",
+      "front_page"
+    ],
+    "author": "rickcarlino",
+    "created_at": "2026-05-03T18:42:28Z",
+    "aiHeadline": "TUIs: Because staring at text is fun again, especially when you can't click anything!"
   }
 ]
