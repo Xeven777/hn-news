@@ -1,76 +1,75 @@
 [
   {
-    "title": "Mercedes-Benz commits to bringing back physical buttons",
-    "url": "https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/",
-    "points": 626,
-    "num_comments": 356,
+    "title": "Talking to strangers at the gym",
+    "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
+    "points": 1216,
+    "num_comments": 568,
     "tags": [
       "story",
-      "author_teleforce",
-      "story_47997418",
+      "author_thitran",
+      "story_48007438",
       "front_page"
     ],
-    "author": "teleforce",
-    "created_at": "2026-05-03T14:43:27Z",
-    "aiHeadline": "Mercedes-Benz: Because buttons are so 2026, we're bringing them back!"
+    "author": "thitran",
+    "created_at": "2026-05-04T11:41:02Z",
+    "aiHeadline": "Meet the guy who decided that small talk with strangers at the gym was the best way to waste his time, because who doesn't love awkward conversations about their deadlifts?"
   },
   {
-    "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
-    "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
-    "points": 353,
-    "num_comments": 214,
+    "title": "GameStop makes $55.5B takeover offer for eBay",
+    "url": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
+    "points": 650,
+    "num_comments": 616,
     "tags": [
       "story",
-      "author_bazlightyear",
-      "story_47993235"
-    ],
-    "author": "bazlightyear",
-    "created_at": "2026-05-03T04:05:28Z",
-    "aiHeadline": "Kimi K2.6: The AI that proves even Chinese models can code better than you!"
-  },
-  {
-    "title": "New statue in London, attributed to Banksy, of a suited man, blinded by a flag",
-    "url": "https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/",
-    "points": 295,
-    "num_comments": 285,
-    "tags": [
-      "story",
-      "author_dryadin",
-      "story_48000152",
+      "author_n1b0m",
+      "story_48006402",
       "front_page"
     ],
-    "author": "dryadin",
-    "created_at": "2026-05-03T18:54:28Z",
-    "aiHeadline": "Banksy's latest masterpiece: A man so blinded by patriotism he's about to walk off a ledge!"
+    "author": "n1b0m",
+    "created_at": "2026-05-04T09:31:12Z",
+    "aiHeadline": "GameStop, the company that somehow survived despite being everyone's favorite punchline, has decided to double down on its retail genius by offering to buy eBay for $55.5 billion. Because what the world needs right now is more failed retail giants buying other failed retail giants."
   },
   {
-    "title": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
-    "url": "https://partyon.xyz/@nullagent/116499715071759135",
-    "points": 284,
-    "num_comments": 89,
+    "title": "Trademark violation: Fake Notepad++ for Mac",
+    "url": "https://notepad-plus-plus.org/news/npp-trademark-infringement/",
+    "points": 588,
+    "num_comments": 267,
     "tags": [
       "story",
-      "author_nullagent",
-      "story_47999636",
-      "front_page"
+      "author_maxloh",
+      "story_48006445"
     ],
-    "author": "nullagent",
-    "created_at": "2026-05-03T18:03:14Z",
-    "aiHeadline": "BYOMesh: Because 100x the bandwidth wasn't enough, now you can mesh it too!"
+    "author": "maxloh",
+    "created_at": "2026-05-04T09:40:06Z",
+    "aiHeadline": "Trademark violation alert! Someone had the brilliant idea to create a fake Notepad++ for Mac, because clearly the world needs more illegal and completely unnecessary software."
   },
   {
-    "title": "Why TUIs are back",
-    "url": "https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/",
-    "points": 278,
-    "num_comments": 295,
+    "title": "Removable batteries in smartphones will be mandatory in the EU starting in 2027",
+    "url": "https://www.ecopv-eu.com/en/blog-en/replaceable-smartphone-batteries-2027-eu-regulation/",
+    "points": 551,
+    "num_comments": 495,
     "tags": [
       "story",
-      "author_rickcarlino",
-      "story_48000028",
+      "author_rdeboo",
+      "story_48009697"
+    ],
+    "author": "rdeboo",
+    "created_at": "2026-05-04T15:10:41Z",
+    "aiHeadline": "Starting in 2027, EU smartphones will have removable batteries, because nothing says 'modern technology' like being able to take your phone apart like an old flip phone. Progress!"
+  },
+  {
+    "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
+    "url": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
+    "points": 447,
+    "num_comments": 157,
+    "tags": [
+      "story",
+      "author_cft",
+      "story_48012735",
       "front_page"
     ],
-    "author": "rickcarlino",
-    "created_at": "2026-05-03T18:42:28Z",
-    "aiHeadline": "TUIs: Because staring at text is fun again, especially when you can't click anything!"
+    "author": "cft",
+    "created_at": "2026-05-04T18:22:42Z",
+    "aiHeadline": "Microsoft Edge is now storing all your passwords in clear text in memory, even when you're not using them. Because nothing says 'secure' like leaving your login credentials out in the open for hackers to find. Genius move, Microsoft!"
   }
 ]
