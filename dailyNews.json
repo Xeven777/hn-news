@@ -1,75 +1,75 @@
 [
   {
-    "title": "Talking to strangers at the gym",
-    "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
-    "points": 1216,
-    "num_comments": 568,
+    "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+    "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
+    "points": 1290,
+    "num_comments": 872,
     "tags": [
       "story",
-      "author_thitran",
-      "story_48007438",
+      "author_john-doe",
+      "story_48019219",
       "front_page"
     ],
-    "author": "thitran",
-    "created_at": "2026-05-04T11:41:02Z",
-    "aiHeadline": "Meet the guy who decided that small talk with strangers at the gym was the best way to waste his time, because who doesn't love awkward conversations about their deadlifts?"
+    "author": "john-doe",
+    "created_at": "2026-05-05T07:34:55Z",
+    "aiHeadline": "Google Chrome sneaks in a 4 GB AI model on your device without your knowledge, because privacy is so last year!"
   },
   {
-    "title": "GameStop makes $55.5B takeover offer for eBay",
-    "url": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
-    "points": 650,
-    "num_comments": 616,
-    "tags": [
-      "story",
-      "author_n1b0m",
-      "story_48006402",
-      "front_page"
-    ],
-    "author": "n1b0m",
-    "created_at": "2026-05-04T09:31:12Z",
-    "aiHeadline": "GameStop, the company that somehow survived despite being everyone's favorite punchline, has decided to double down on its retail genius by offering to buy eBay for $55.5 billion. Because what the world needs right now is more failed retail giants buying other failed retail giants."
-  },
-  {
-    "title": "Trademark violation: Fake Notepad++ for Mac",
-    "url": "https://notepad-plus-plus.org/news/npp-trademark-infringement/",
-    "points": 588,
+    "title": ".de TLD offline due to DNSSEC?",
+    "url": "https://dnssec-analyzer.verisignlabs.com/nic.de",
+    "points": 556,
     "num_comments": 267,
     "tags": [
       "story",
-      "author_maxloh",
-      "story_48006445"
-    ],
-    "author": "maxloh",
-    "created_at": "2026-05-04T09:40:06Z",
-    "aiHeadline": "Trademark violation alert! Someone had the brilliant idea to create a fake Notepad++ for Mac, because clearly the world needs more illegal and completely unnecessary software."
-  },
-  {
-    "title": "Removable batteries in smartphones will be mandatory in the EU starting in 2027",
-    "url": "https://www.ecopv-eu.com/en/blog-en/replaceable-smartphone-batteries-2027-eu-regulation/",
-    "points": 551,
-    "num_comments": 495,
-    "tags": [
-      "story",
-      "author_rdeboo",
-      "story_48009697"
-    ],
-    "author": "rdeboo",
-    "created_at": "2026-05-04T15:10:41Z",
-    "aiHeadline": "Starting in 2027, EU smartphones will have removable batteries, because nothing says 'modern technology' like being able to take your phone apart like an old flip phone. Progress!"
-  },
-  {
-    "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
-    "url": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
-    "points": 447,
-    "num_comments": 157,
-    "tags": [
-      "story",
-      "author_cft",
-      "story_48012735",
+      "author_warpspin",
+      "story_48027897",
       "front_page"
     ],
-    "author": "cft",
-    "created_at": "2026-05-04T18:22:42Z",
-    "aiHeadline": "Microsoft Edge is now storing all your passwords in clear text in memory, even when you're not using them. Because nothing says 'secure' like leaving your login credentials out in the open for hackers to find. Genius move, Microsoft!"
+    "author": "warpspin",
+    "created_at": "2026-05-05T20:16:35Z",
+    "aiHeadline": "The .de domain goes dark because DNSSEC decided to have a temper tantrum, proving that even the internet can have a bad hair day."
+  },
+  {
+    "title": "AI didn't delete your database, you did",
+    "url": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did",
+    "points": 496,
+    "num_comments": 273,
+    "tags": [
+      "story",
+      "author_Brajeshwar",
+      "story_48022742"
+    ],
+    "author": "Brajeshwar",
+    "created_at": "2026-05-05T14:07:50Z",
+    "aiHeadline": "AI didn't delete your database—no, that was you, proving once again that humans are the ultimate database destroyers."
+  },
+  {
+    "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
+    "points": 474,
+    "num_comments": 210,
+    "tags": [
+      "story",
+      "author_amrrs",
+      "story_48024540",
+      "front_page"
+    ],
+    "author": "amrrs",
+    "created_at": "2026-05-05T16:14:17Z",
+    "aiHeadline": "Gemma 4 just got a massive speed boost, because who doesn't want their AI to be as fast as a cheetah on caffeine?"
+  },
+  {
+    "title": "Async Rust never left the MVP state",
+    "url": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
+    "points": 427,
+    "num_comments": 230,
+    "tags": [
+      "story",
+      "author_pjmlp",
+      "story_48019163"
+    ],
+    "author": "pjmlp",
+    "created_at": "2026-05-05T07:26:03Z",
+    "aiHeadline": "Async Rust is still stuck in MVP mode, proving that some features are like that one friend who always says they'll come but never shows up."
   }
 ]
