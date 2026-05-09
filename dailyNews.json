@@ -1,75 +1,75 @@
 [
   {
-    "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-    "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
-    "points": 1290,
-    "num_comments": 872,
+    "title": "Poland is now among the 20 largest economies",
+    "url": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
+    "points": 919,
+    "num_comments": 737,
     "tags": [
       "story",
-      "author_john-doe",
-      "story_48019219",
+      "author_surprisetalk",
+      "story_48062117",
       "front_page"
     ],
-    "author": "john-doe",
-    "created_at": "2026-05-05T07:34:55Z",
-    "aiHeadline": "Google Chrome sneaks in a 4 GB AI model on your device without your knowledge, because privacy is so last year!"
+    "author": "surprisetalk",
+    "created_at": "2026-05-08T12:30:05Z",
+    "aiHeadline": "Poland's economy has officially joined the big leagues, proving that even countries with questionable policies can make it to the top 20."
   },
   {
-    "title": ".de TLD offline due to DNSSEC?",
-    "url": "https://dnssec-analyzer.verisignlabs.com/nic.de",
-    "points": 556,
-    "num_comments": 267,
+    "title": "Google broke reCAPTCHA for de-googled Android users",
+    "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
+    "points": 701,
+    "num_comments": 249,
     "tags": [
       "story",
-      "author_warpspin",
-      "story_48027897",
+      "author_anonymousiam",
+      "story_48067119",
       "front_page"
     ],
-    "author": "warpspin",
-    "created_at": "2026-05-05T20:16:35Z",
-    "aiHeadline": "The .de domain goes dark because DNSSEC decided to have a temper tantrum, proving that even the internet can have a bad hair day."
+    "author": "anonymousiam",
+    "created_at": "2026-05-08T18:45:58Z",
+    "aiHeadline": "Google's latest move: breaking reCAPTCHA for users who dared to remove Google services, because nothing says 'user-friendly' like forcing people to reinstall their stuff."
   },
   {
-    "title": "AI didn't delete your database, you did",
-    "url": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did",
-    "points": 496,
-    "num_comments": 273,
+    "title": "Google Cloud Fraud Defence is just WEI repackaged",
+    "url": "https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/",
+    "points": 652,
+    "num_comments": 333,
     "tags": [
       "story",
-      "author_Brajeshwar",
-      "story_48022742"
+      "author_ribtoks",
+      "story_48063199"
     ],
-    "author": "Brajeshwar",
-    "created_at": "2026-05-05T14:07:50Z",
-    "aiHeadline": "AI didn't delete your database—no, that was you, proving once again that humans are the ultimate database destroyers."
+    "author": "ribtoks",
+    "created_at": "2026-05-08T13:56:10Z",
+    "aiHeadline": "Google Cloud Fraud Defence: because who needs new technology when you can just rename last year's product and call it innovative?"
   },
   {
-    "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
-    "points": 474,
-    "num_comments": 210,
+    "title": "A web page that shows you everything the browser told it without asking",
+    "url": "https://sinceyouarrived.world/taken",
+    "points": 536,
+    "num_comments": 275,
     "tags": [
       "story",
-      "author_amrrs",
-      "story_48024540",
+      "author_mwheelz",
+      "story_48062178"
+    ],
+    "author": "mwheelz",
+    "created_at": "2026-05-08T12:37:05Z",
+    "aiHeadline": "A website that tracks you better than your own browser, because privacy is so 2010."
+  },
+  {
+    "title": "David Attenborough's 100th Birthday",
+    "url": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
+    "points": 485,
+    "num_comments": 97,
+    "tags": [
+      "story",
+      "author_defrost",
+      "story_48061884",
       "front_page"
     ],
-    "author": "amrrs",
-    "created_at": "2026-05-05T16:14:17Z",
-    "aiHeadline": "Gemma 4 just got a massive speed boost, because who doesn't want their AI to be as fast as a cheetah on caffeine?"
-  },
-  {
-    "title": "Async Rust never left the MVP state",
-    "url": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
-    "points": 427,
-    "num_comments": 230,
-    "tags": [
-      "story",
-      "author_pjmlp",
-      "story_48019163"
-    ],
-    "author": "pjmlp",
-    "created_at": "2026-05-05T07:26:03Z",
-    "aiHeadline": "Async Rust is still stuck in MVP mode, proving that some features are like that one friend who always says they'll come but never shows up."
+    "author": "defrost",
+    "created_at": "2026-05-08T12:03:26Z",
+    "aiHeadline": "David Attenborough turns 100, proving that the only way to live forever is by narrating documentaries about nature."
   }
 ]
