@@ -1,75 +1,77 @@
 [
   {
-    "title": "Poland is now among the 20 largest economies",
-    "url": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
-    "points": 919,
-    "num_comments": 737,
+    "title": "Internet Archive Switzerland",
+    "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
+    "points": 558,
+    "num_comments": 85,
     "tags": [
       "story",
-      "author_surprisetalk",
-      "story_48062117",
+      "author_hggh",
+      "story_48074265",
       "front_page"
     ],
-    "author": "surprisetalk",
-    "created_at": "2026-05-08T12:30:05Z",
-    "aiHeadline": "Poland's economy has officially joined the big leagues, proving that even countries with questionable policies can make it to the top 20."
+    "author": "hggh",
+    "created_at": "2026-05-09T12:00:30Z",
+    "aiHeadline": "Internet Archive Switzerland: Because one global archive wasn't enough, now they're conquering Europe with their knowledge-preserving antics."
   },
   {
-    "title": "Google broke reCAPTCHA for de-googled Android users",
-    "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
-    "points": 701,
-    "num_comments": 249,
+    "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+    "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
+    "points": 453,
+    "num_comments": 440,
     "tags": [
       "story",
-      "author_anonymousiam",
-      "story_48067119",
+      "author_heldrida",
+      "story_48073680",
       "front_page"
     ],
-    "author": "anonymousiam",
-    "created_at": "2026-05-08T18:45:58Z",
-    "aiHeadline": "Google's latest move: breaking reCAPTCHA for users who dared to remove Google services, because nothing says 'user-friendly' like forcing people to reinstall their stuff."
+    "author": "heldrida",
+    "created_at": "2026-05-09T10:12:55Z",
+    "aiHeadline": "Bun's Rust rewrite is 99.8% compatible, which is great news for the 0.2% of us who care about perfection."
   },
   {
-    "title": "Google Cloud Fraud Defence is just WEI repackaged",
-    "url": "https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/",
-    "points": 652,
-    "num_comments": 333,
+    "title": "EU Parliamentary Research Service calls VPNs \"a loophole that needs closing\"",
+    "url": "https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/",
+    "points": 425,
+    "num_comments": 283,
     "tags": [
       "story",
-      "author_ribtoks",
-      "story_48063199"
-    ],
-    "author": "ribtoks",
-    "created_at": "2026-05-08T13:56:10Z",
-    "aiHeadline": "Google Cloud Fraud Defence: because who needs new technology when you can just rename last year's product and call it innovative?"
-  },
-  {
-    "title": "A web page that shows you everything the browser told it without asking",
-    "url": "https://sinceyouarrived.world/taken",
-    "points": 536,
-    "num_comments": 275,
-    "tags": [
-      "story",
-      "author_mwheelz",
-      "story_48062178"
-    ],
-    "author": "mwheelz",
-    "created_at": "2026-05-08T12:37:05Z",
-    "aiHeadline": "A website that tracks you better than your own browser, because privacy is so 2010."
-  },
-  {
-    "title": "David Attenborough's 100th Birthday",
-    "url": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
-    "points": 485,
-    "num_comments": 97,
-    "tags": [
-      "story",
-      "author_defrost",
-      "story_48061884",
+      "author_muse900",
+      "story_48072190",
       "front_page"
     ],
-    "author": "defrost",
-    "created_at": "2026-05-08T12:03:26Z",
-    "aiHeadline": "David Attenborough turns 100, proving that the only way to live forever is by narrating documentaries about nature."
+    "author": "muse900",
+    "created_at": "2026-05-09T05:52:12Z",
+    "aiHeadline": "EU wants to close the VPN loophole because privacy is apparently a crime in the digital age."
+  },
+  {
+    "title": "Using Claude Code: The unreasonable effectiveness of HTML",
+    "url": "https://twitter.com/trq212/status/2052809885763747935",
+    "points": 423,
+    "num_comments": 240,
+    "tags": [
+      "story",
+      "author_pretext",
+      "story_48071940",
+      "front_page"
+    ],
+    "author": "pretext",
+    "created_at": "2026-05-09T04:53:52Z",
+    "aiHeadline": "HTML: Still the best tool for the job, even when you're using Claude Code to make it look fancy."
+  },
+  {
+    "title": "LLMs corrupt your documents when you delegate",
+    "url": "https://arxiv.org/abs/2604.15597",
+    "points": 366,
+    "num_comments": 142,
+    "tags": [
+      "story",
+      "author_rbanffy",
+      "story_48073246",
+      "front_page"
+    ],
+    "author": "rbanffy",
+    "created_at": "2026-05-09T08:44:34Z",
+    "aiHeadline": "LLMs: Because nothing says 'trust me with your documents' like a model that corrupts them when you delegate."
   }
 ]
