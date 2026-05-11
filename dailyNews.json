@@ -1,77 +1,76 @@
 [
   {
-    "title": "Internet Archive Switzerland",
-    "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
-    "points": 558,
-    "num_comments": 85,
+    "title": "Hardware Attestation as Monopoly Enabler",
+    "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
+    "points": 1032,
+    "num_comments": 366,
     "tags": [
       "story",
-      "author_hggh",
-      "story_48074265",
+      "author_ChuckMcM",
+      "story_48086190",
       "front_page"
     ],
-    "author": "hggh",
-    "created_at": "2026-05-09T12:00:30Z",
-    "aiHeadline": "Internet Archive Switzerland: Because one global archive wasn't enough, now they're conquering Europe with their knowledge-preserving antics."
+    "author": "ChuckMcM",
+    "created_at": "2026-05-10T17:54:02Z",
+    "aiHeadline": "Big Tech's Latest Scheme: Using Hardware Attestation to Lock You Into Their Ecosystem Forever"
   },
   {
-    "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
-    "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
-    "points": 453,
-    "num_comments": 440,
+    "title": "Local AI needs to be the norm",
+    "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+    "points": 719,
+    "num_comments": 339,
     "tags": [
       "story",
-      "author_heldrida",
-      "story_48073680",
+      "author_cylo",
+      "story_48085821",
       "front_page"
     ],
-    "author": "heldrida",
-    "created_at": "2026-05-09T10:12:55Z",
-    "aiHeadline": "Bun's Rust rewrite is 99.8% compatible, which is great news for the 0.2% of us who care about perfection."
+    "author": "cylo",
+    "created_at": "2026-05-10T17:19:28Z",
+    "aiHeadline": "Why You Should Probably Just Let Big Tech Keep Your Data in the Cloud—Because Running AI Locally Is About as Practical as Keeping a Server Farm in Your Garage"
   },
   {
-    "title": "EU Parliamentary Research Service calls VPNs \"a loophole that needs closing\"",
-    "url": "https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/",
-    "points": 425,
-    "num_comments": 283,
+    "title": "Louis Rossmann offers to pay legal fees for a threatened OrcaSlicer developer",
+    "url": "https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer",
+    "points": 503,
+    "num_comments": 272,
     "tags": [
       "story",
-      "author_muse900",
-      "story_48072190",
+      "author_iancmceachern",
+      "story_48084432",
       "front_page"
     ],
-    "author": "muse900",
-    "created_at": "2026-05-09T05:52:12Z",
-    "aiHeadline": "EU wants to close the VPN loophole because privacy is apparently a crime in the digital age."
+    "author": "iancmceachern",
+    "created_at": "2026-05-10T14:47:05Z",
+    "aiHeadline": "When You're So Dedicated to Right-to-Repair That You're Willing to Pay a Lawyer to Defend a Developer Who's Basically Just Trying to Keep Your Printer Working"
   },
   {
-    "title": "Using Claude Code: The unreasonable effectiveness of HTML",
-    "url": "https://twitter.com/trq212/status/2052809885763747935",
-    "points": 423,
-    "num_comments": 240,
+    "title": "Incident Report: CVE-2024-YIKES",
+    "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
+    "points": 433,
+    "num_comments": 108,
     "tags": [
       "story",
-      "author_pretext",
-      "story_48071940",
+      "author_miniBill",
+      "story_48086082",
       "front_page"
     ],
-    "author": "pretext",
-    "created_at": "2026-05-09T04:53:52Z",
-    "aiHeadline": "HTML: Still the best tool for the job, even when you're using Claude Code to make it look fancy."
+    "author": "miniBill",
+    "created_at": "2026-05-10T17:43:10Z",
+    "aiHeadline": "Another Day, Another Security Flaw: CVE-2024-YIKES Proves That Hacking Is Basically a Force of Nature at This Point"
   },
   {
-    "title": "LLMs corrupt your documents when you delegate",
-    "url": "https://arxiv.org/abs/2604.15597",
-    "points": 366,
-    "num_comments": 142,
+    "title": "Remind HN: Today is Mother's Day, call your moms",
+    "points": 348,
+    "num_comments": 146,
     "tags": [
       "story",
-      "author_rbanffy",
-      "story_48073246",
-      "front_page"
+      "author_rationalist",
+      "story_48085384",
+      "ask_hn"
     ],
-    "author": "rbanffy",
-    "created_at": "2026-05-09T08:44:34Z",
-    "aiHeadline": "LLMs: Because nothing says 'trust me with your documents' like a model that corrupts them when you delegate."
+    "author": "rationalist",
+    "created_at": "2026-05-10T16:37:04Z",
+    "aiHeadline": "In Case You Forgot, Today Is Mother's Day—So Unless You're a Robot, You Should Probably Call Your Mom Before She Starts Wondering If You're Even Alive"
   }
 ]
