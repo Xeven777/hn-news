@@ -1,74 +1,74 @@
 [
   {
-    "title": "Mythos Finds a Curl Vulnerability",
-    "url": "https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/",
-    "points": 628,
-    "num_comments": 255,
+    "title": "Bambu Lab is abusing the open source social contract",
+    "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
+    "points": 1135,
+    "num_comments": 372,
     "tags": [
       "story",
-      "author_TangerineDream",
-      "story_48091737"
-    ],
-    "author": "TangerineDream",
-    "created_at": "2026-05-11T06:39:08Z",
-    "aiHeadline": "Mythos Discovers a Critical Curl Vulnerability, Because Apparently Even the Basics Aren't Safe Anymore"
-  },
-  {
-    "title": "Ratty – A terminal emulator with inline 3D graphics",
-    "url": "https://ratty-term.org/",
-    "points": 621,
-    "num_comments": 205,
-    "tags": [
-      "story",
-      "author_orhunp_",
-      "story_48093100",
+      "author_rubenbe",
+      "story_48109224",
       "front_page"
     ],
-    "author": "orhunp_",
-    "created_at": "2026-05-11T10:13:04Z",
-    "aiHeadline": "Ratty: The Terminal Emulator That Adds 3D Graphics Because Who Needs Productivity When You Can Have Glitz?"
+    "author": "rubenbe",
+    "created_at": "2026-05-12T14:54:41Z",
+    "aiHeadline": "Bambu Lab accused of exploiting open-source goodness while hoarding their own code like a greedy squirrel—because sharing is caring, right?"
   },
   {
-    "title": "Postmortem: TanStack npm supply-chain compromise",
-    "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
-    "points": 600,
-    "num_comments": 222,
+    "title": "Screenshots of Old Desktop OSes",
+    "url": "http://www.typewritten.org/Media/",
+    "points": 650,
+    "num_comments": 339,
     "tags": [
       "story",
-      "author_varunsharma07",
-      "story_48100706",
+      "author_adunk",
+      "story_48104428"
+    ],
+    "author": "adunk",
+    "created_at": "2026-05-12T05:11:24Z",
+    "aiHeadline": "Nostalgia alert: Old desktop OS screenshots remind us that modern tech somehow managed to make everything worse while looking cooler."
+  },
+  {
+    "title": "Googlebook",
+    "url": "https://googlebook.google/",
+    "points": 649,
+    "num_comments": 1101,
+    "tags": [
+      "story",
+      "author_tambourine_man",
+      "story_48111545",
       "front_page"
     ],
-    "author": "varunsharma07",
-    "created_at": "2026-05-11T21:08:25Z",
-    "aiHeadline": "TanStack npm Supply-Chain Compromise: Because Nothing Says 'Secure' Like a Postmortem Written After the Fact"
+    "author": "tambourine_man",
+    "created_at": "2026-05-12T17:37:36Z",
+    "aiHeadline": "Google's new 'book' is just another excuse to track you, but hey, at least it's digital—so you can highlight and bookmark your own surveillance!"
   },
   {
-    "title": "Gmail registration now requires scanning a QR code and sending a text message",
-    "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
-    "points": 578,
-    "num_comments": 435,
+    "title": "Learning Software Architecture",
+    "url": "https://matklad.github.io/2026/05/12/software-architecture.html",
+    "points": 539,
+    "num_comments": 108,
     "tags": [
       "story",
-      "author_negura",
-      "story_48092028"
+      "author_surprisetalk",
+      "story_48106024"
     ],
-    "author": "negura",
-    "created_at": "2026-05-11T07:26:54Z",
-    "aiHeadline": "Gmail Now Requires QR Code Scanning and Text Messages for Registration, Because Typing Your Password Was Just Too Easy"
+    "author": "surprisetalk",
+    "created_at": "2026-05-12T09:30:21Z",
+    "aiHeadline": "Learning software architecture is like trying to understand the inner workings of a Rube Goldberg machine built by a team of perfectionists who hate you."
   },
   {
-    "title": "Software engineering may no longer be a lifetime career",
-    "url": "https://www.seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/",
-    "points": 389,
-    "num_comments": 637,
+    "title": "EU to crack down on TikTok, Instagram's 'addictive design' targeting kids",
+    "url": "https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html",
+    "points": 478,
+    "num_comments": 421,
     "tags": [
       "story",
-      "author_movis",
-      "story_48095550"
+      "author_thm",
+      "story_48106534"
     ],
-    "author": "movis",
-    "created_at": "2026-05-11T14:34:08Z",
-    "aiHeadline": "Software Engineering Might Not Be a Lifetime Career, But Hey, At Least You Can Always Fall Back on... Wait, What's the Plan B Again?"
+    "author": "thm",
+    "created_at": "2026-05-12T11:00:07Z",
+    "aiHeadline": "EU wants to stop TikTok and Instagram from turning kids into screen-addicted zombies, but let's be real—by the time they act, we'll all be zombies anyway."
   }
 ]
