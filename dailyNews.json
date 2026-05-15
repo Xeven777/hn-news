@@ -1,74 +1,76 @@
 [
   {
-    "title": "Bambu Lab is abusing the open source social contract",
-    "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
-    "points": 1135,
-    "num_comments": 372,
+    "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
+    "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
+    "points": 677,
+    "num_comments": 395,
     "tags": [
       "story",
-      "author_rubenbe",
-      "story_48109224",
+      "author_arkadiyt",
+      "story_48138136",
       "front_page"
     ],
-    "author": "rubenbe",
-    "created_at": "2026-05-12T14:54:41Z",
-    "aiHeadline": "Bambu Lab accused of exploiting open-source goodness while hoarding their own code like a greedy squirrel—because sharing is caring, right?"
+    "author": "arkadiyt",
+    "created_at": "2026-05-14T17:08:00Z",
+    "aiHeadline": "Disconnecting from the Grid: How I Turned My 2024 RAV4 Hybrid into a Luddite's Dream by Removing the Modem and GPS"
   },
   {
-    "title": "Screenshots of Old Desktop OSes",
-    "url": "http://www.typewritten.org/Media/",
-    "points": 650,
-    "num_comments": 339,
+    "title": "A message from President Kornbluth about funding and the talent pipeline",
+    "url": "https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline",
+    "points": 585,
+    "num_comments": 651,
     "tags": [
       "story",
-      "author_adunk",
-      "story_48104428"
-    ],
-    "author": "adunk",
-    "created_at": "2026-05-12T05:11:24Z",
-    "aiHeadline": "Nostalgia alert: Old desktop OS screenshots remind us that modern tech somehow managed to make everything worse while looking cooler."
-  },
-  {
-    "title": "Googlebook",
-    "url": "https://googlebook.google/",
-    "points": 649,
-    "num_comments": 1101,
-    "tags": [
-      "story",
-      "author_tambourine_man",
-      "story_48111545",
+      "author_dmayo",
+      "story_48136262",
       "front_page"
     ],
-    "author": "tambourine_man",
-    "created_at": "2026-05-12T17:37:36Z",
-    "aiHeadline": "Google's new 'book' is just another excuse to track you, but hey, at least it's digital—so you can highlight and bookmark your own surveillance!"
+    "author": "dmayo",
+    "created_at": "2026-05-14T14:51:14Z",
+    "aiHeadline": "President Kornbluth Drops a Bombshell: MIT's Funding and Talent Pipeline Might Actually Be a Thing"
   },
   {
-    "title": "Learning Software Architecture",
-    "url": "https://matklad.github.io/2026/05/12/software-architecture.html",
-    "points": 539,
-    "num_comments": 108,
+    "title": "Rewrite Bun in Rust has been merged",
+    "url": "https://github.com/oven-sh/bun/pull/30412",
+    "points": 528,
+    "num_comments": 616,
     "tags": [
       "story",
-      "author_surprisetalk",
-      "story_48106024"
+      "author_Chaoses",
+      "story_48132488",
+      "front_page"
     ],
-    "author": "surprisetalk",
-    "created_at": "2026-05-12T09:30:21Z",
-    "aiHeadline": "Learning software architecture is like trying to understand the inner workings of a Rube Goldberg machine built by a team of perfectionists who hate you."
+    "author": "Chaoses",
+    "created_at": "2026-05-14T08:15:31Z",
+    "aiHeadline": "Rust Rewrite of Bun Merges: Now We Can All Argue About Which Language is Better for the Next Decade"
   },
   {
-    "title": "EU to crack down on TikTok, Instagram's 'addictive design' targeting kids",
-    "url": "https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html",
-    "points": 478,
-    "num_comments": 421,
+    "title": "Claude for Small Business",
+    "url": "https://www.anthropic.com/news/claude-for-small-business",
+    "points": 510,
+    "num_comments": 451,
     "tags": [
       "story",
-      "author_thm",
-      "story_48106534"
+      "author_neilfrndes",
+      "story_48130950"
     ],
-    "author": "thm",
-    "created_at": "2026-05-12T11:00:07Z",
-    "aiHeadline": "EU wants to stop TikTok and Instagram from turning kids into screen-addicted zombies, but let's be real—by the time they act, we'll all be zombies anyway."
+    "author": "neilfrndes",
+    "created_at": "2026-05-14T03:59:35Z",
+    "aiHeadline": "Claude Finally Catches Up to Small Businesses: Now They Can Automate Their Way to Boredom"
+  },
+  {
+    "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+    "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+    "points": 507,
+    "num_comments": 139,
+    "tags": [
+      "story",
+      "author_allenleee",
+      "story_48137145",
+      "front_page"
+    ],
+    "author": "allenleee",
+    "created_at": "2026-05-14T15:47:31Z",
+    "aiHeadline": "RTX 5090 vs. M4 MacBook Air: Can It Game? Spoiler: Probably Not, But at Least It Looks Good While Failing"
   }
 ]
