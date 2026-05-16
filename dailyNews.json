@@ -1,76 +1,75 @@
 [
   {
-    "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
-    "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
-    "points": 677,
-    "num_comments": 395,
+    "title": "I believe there are entire companies right now under AI psychosis",
+    "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+    "points": 920,
+    "num_comments": 390,
     "tags": [
       "story",
-      "author_arkadiyt",
-      "story_48138136",
+      "author_reasonableklout",
+      "story_48153379",
       "front_page"
     ],
-    "author": "arkadiyt",
-    "created_at": "2026-05-14T17:08:00Z",
-    "aiHeadline": "Disconnecting from the Grid: How I Turned My 2024 RAV4 Hybrid into a Luddite's Dream by Removing the Modem and GPS"
+    "author": "reasonableklout",
+    "created_at": "2026-05-15T20:26:47Z",
+    "aiHeadline": "AI psychosis is sweeping through corporate America, and honestly, who can blame them?"
   },
   {
-    "title": "A message from President Kornbluth about funding and the talent pipeline",
-    "url": "https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline",
-    "points": 585,
-    "num_comments": 651,
+    "title": "Project Gutenberg – keeps getting better",
+    "url": "https://www.gutenberg.org/",
+    "points": 762,
+    "num_comments": 179,
     "tags": [
       "story",
-      "author_dmayo",
-      "story_48136262",
+      "author_JSeiko",
+      "story_48150431",
       "front_page"
     ],
-    "author": "dmayo",
-    "created_at": "2026-05-14T14:51:14Z",
-    "aiHeadline": "President Kornbluth Drops a Bombshell: MIT's Funding and Talent Pipeline Might Actually Be a Thing"
+    "author": "JSeiko",
+    "created_at": "2026-05-15T16:15:36Z",
+    "aiHeadline": "Project Gutenberg just keeps getting better, because who doesn't want to read classic literature in the same way they read tweets?"
   },
   {
-    "title": "Rewrite Bun in Rust has been merged",
-    "url": "https://github.com/oven-sh/bun/pull/30412",
-    "points": 528,
-    "num_comments": 616,
+    "title": "Explore Wikipedia Like a Windows XP Desktop",
+    "url": "https://explorer.samismith.com/",
+    "points": 495,
+    "num_comments": 111,
     "tags": [
       "story",
-      "author_Chaoses",
-      "story_48132488",
+      "author_smusamashah",
+      "story_48146129"
+    ],
+    "author": "smusamashah",
+    "created_at": "2026-05-15T08:45:36Z",
+    "aiHeadline": "Explore Wikipedia like it's 2001 with this Windows XP-style interface, because who needs modern design when you can have nostalgia?"
+  },
+  {
+    "title": "U.S. DOJ demands Apple and Google unmask over 100k users of car-tinkering app",
+    "url": "https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/",
+    "points": 381,
+    "num_comments": 249,
+    "tags": [
+      "story",
+      "author_tencentshill",
+      "story_48151383",
       "front_page"
     ],
-    "author": "Chaoses",
-    "created_at": "2026-05-14T08:15:31Z",
-    "aiHeadline": "Rust Rewrite of Bun Merges: Now We Can All Argue About Which Language is Better for the Next Decade"
+    "author": "tencentshill",
+    "created_at": "2026-05-15T17:28:24Z",
+    "aiHeadline": "The U.S. DOJ is on a crusade to unmask over 100k car-tinkering app users, proving that even in 2026, the government still doesn't get tech."
   },
   {
-    "title": "Claude for Small Business",
-    "url": "https://www.anthropic.com/news/claude-for-small-business",
-    "points": 510,
-    "num_comments": 451,
+    "title": "Bun Rust rewrite: \"codebase fails basic miri checks, allows for UB in safe rust\"",
+    "url": "https://github.com/oven-sh/bun/issues/30719",
+    "points": 373,
+    "num_comments": 254,
     "tags": [
       "story",
-      "author_neilfrndes",
-      "story_48130950"
+      "author_ndiddy",
+      "story_48150900"
     ],
-    "author": "neilfrndes",
-    "created_at": "2026-05-14T03:59:35Z",
-    "aiHeadline": "Claude Finally Catches Up to Small Businesses: Now They Can Automate Their Way to Boredom"
-  },
-  {
-    "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
-    "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
-    "points": 507,
-    "num_comments": 139,
-    "tags": [
-      "story",
-      "author_allenleee",
-      "story_48137145",
-      "front_page"
-    ],
-    "author": "allenleee",
-    "created_at": "2026-05-14T15:47:31Z",
-    "aiHeadline": "RTX 5090 vs. M4 MacBook Air: Can It Game? Spoiler: Probably Not, But at Least It Looks Good While Failing"
+    "author": "ndiddy",
+    "created_at": "2026-05-15T16:51:25Z",
+    "aiHeadline": "Bun's Rust rewrite is a mess, failing basic checks and allowing undefined behavior—because what's the point of 'safe Rust' if it's not actually safe?"
   }
 ]
