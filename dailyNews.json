@@ -1,75 +1,75 @@
 [
   {
-    "title": "I believe there are entire companies right now under AI psychosis",
-    "url": "https://twitter.com/mitchellh/status/2055380239711457578",
-    "points": 920,
-    "num_comments": 390,
+    "title": "Moving away from Tailwind, and learning to structure my CSS",
+    "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
+    "points": 454,
+    "num_comments": 296,
     "tags": [
       "story",
-      "author_reasonableklout",
-      "story_48153379",
+      "author_mpweiher",
+      "story_48158400",
       "front_page"
     ],
-    "author": "reasonableklout",
-    "created_at": "2026-05-15T20:26:47Z",
-    "aiHeadline": "AI psychosis is sweeping through corporate America, and honestly, who can blame them?"
+    "author": "mpweiher",
+    "created_at": "2026-05-16T09:14:26Z",
+    "aiHeadline": "Breaking up with Tailwind CSS: 'It's complicated, but I'm learning to structure my own CSS like a proper developer now!'"
   },
   {
-    "title": "Project Gutenberg – keeps getting better",
-    "url": "https://www.gutenberg.org/",
-    "points": 762,
-    "num_comments": 179,
+    "title": "Frontier AI has broken the open CTF format",
+    "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
+    "points": 346,
+    "num_comments": 344,
     "tags": [
       "story",
-      "author_JSeiko",
-      "story_48150431",
+      "author_frays",
+      "story_48157559",
       "front_page"
     ],
-    "author": "JSeiko",
-    "created_at": "2026-05-15T16:15:36Z",
-    "aiHeadline": "Project Gutenberg just keeps getting better, because who doesn't want to read classic literature in the same way they read tweets?"
+    "author": "frays",
+    "created_at": "2026-05-16T07:01:55Z",
+    "aiHeadline": "Frontier AI just pulled a Fast & Furious: 'We broke the open CTF format, and now the cybersecurity world is in shambles. Again.'"
   },
   {
-    "title": "Explore Wikipedia Like a Windows XP Desktop",
-    "url": "https://explorer.samismith.com/",
-    "points": 495,
-    "num_comments": 111,
+    "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+    "url": "https://nvlabs.github.io/Sana/WM/",
+    "points": 310,
+    "num_comments": 128,
     "tags": [
       "story",
-      "author_smusamashah",
-      "story_48146129"
-    ],
-    "author": "smusamashah",
-    "created_at": "2026-05-15T08:45:36Z",
-    "aiHeadline": "Explore Wikipedia like it's 2001 with this Windows XP-style interface, because who needs modern design when you can have nostalgia?"
-  },
-  {
-    "title": "U.S. DOJ demands Apple and Google unmask over 100k users of car-tinkering app",
-    "url": "https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/",
-    "points": 381,
-    "num_comments": 249,
-    "tags": [
-      "story",
-      "author_tencentshill",
-      "story_48151383",
+      "author_mjgil",
+      "story_48159445",
       "front_page"
     ],
-    "author": "tencentshill",
-    "created_at": "2026-05-15T17:28:24Z",
-    "aiHeadline": "The U.S. DOJ is on a crusade to unmask over 100k car-tinkering app users, proving that even in 2026, the government still doesn't get tech."
+    "author": "mjgil",
+    "created_at": "2026-05-16T12:06:21Z",
+    "aiHeadline": "SANA-WM: Because 2.6 billion parameters is just the right amount to generate a 720p video in one minute. Who knew?"
   },
   {
-    "title": "Bun Rust rewrite: \"codebase fails basic miri checks, allows for UB in safe rust\"",
-    "url": "https://github.com/oven-sh/bun/issues/30719",
-    "points": 373,
-    "num_comments": 254,
+    "title": "HTML Lists",
+    "url": "https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/",
+    "points": 296,
+    "num_comments": 71,
     "tags": [
       "story",
-      "author_ndiddy",
-      "story_48150900"
+      "author_speckx",
+      "story_48161861"
     ],
-    "author": "ndiddy",
-    "created_at": "2026-05-15T16:51:25Z",
-    "aiHeadline": "Bun's Rust rewrite is a mess, failing basic checks and allowing undefined behavior—because what's the point of 'safe Rust' if it's not actually safe?"
+    "author": "speckx",
+    "created_at": "2026-05-16T16:58:26Z",
+    "aiHeadline": "HTML Lists: The blog post that will make you question everything you thought you knew about the internet. Spoiler: You still don't know HTML lists."
+  },
+  {
+    "title": "Fecal transplants for autism deliver success in clinical trials (2019)",
+    "url": "https://refractor.io/adhd-autism/fecal-transplants-for-autism-delivers-success-in-clinical-trials/",
+    "points": 294,
+    "num_comments": 206,
+    "tags": [
+      "story",
+      "author_breve",
+      "story_48158494"
+    ],
+    "author": "breve",
+    "created_at": "2026-05-16T09:27:59Z",
+    "aiHeadline": "Fecal transplants for autism: 'Because nothing says 'I care about your gut health' like a poop transplant. And it worked! Who knew?'"
   }
 ]
