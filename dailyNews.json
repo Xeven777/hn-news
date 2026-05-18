@@ -1,75 +1,74 @@
 [
   {
-    "title": "Moving away from Tailwind, and learning to structure my CSS",
-    "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
-    "points": 454,
-    "num_comments": 296,
+    "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
+    "url": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
+    "points": 672,
+    "num_comments": 275,
     "tags": [
       "story",
-      "author_mpweiher",
-      "story_48158400",
+      "author_WithinReason",
+      "story_48166459",
       "front_page"
     ],
-    "author": "mpweiher",
-    "created_at": "2026-05-16T09:14:26Z",
-    "aiHeadline": "Breaking up with Tailwind CSS: 'It's complicated, but I'm learning to structure my own CSS like a proper developer now!'"
+    "author": "WithinReason",
+    "created_at": "2026-05-17T06:17:26Z",
+    "aiHeadline": "Mozilla tells UK regulators that VPNs are essential for privacy and security, which is like telling them the sky is blue and water is wet—duh."
   },
   {
-    "title": "Frontier AI has broken the open CTF format",
-    "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
-    "points": 346,
-    "num_comments": 344,
+    "title": "Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
+    "url": "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html",
+    "points": 553,
+    "num_comments": 244,
     "tags": [
       "story",
-      "author_frays",
-      "story_48157559",
+      "author_nolok",
+      "story_48168856"
+    ],
+    "author": "nolok",
+    "created_at": "2026-05-17T13:42:30Z",
+    "aiHeadline": "Security researcher claims Microsoft built a backdoor into Bitlocker, which is surprising because Microsoft has never done anything shady before, right?"
+  },
+  {
+    "title": "I don't think AI will make your processes go faster",
+    "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+    "points": 515,
+    "num_comments": 364,
+    "tags": [
+      "story",
+      "author_TheEdonian",
+      "story_48168221",
       "front_page"
     ],
-    "author": "frays",
-    "created_at": "2026-05-16T07:01:55Z",
-    "aiHeadline": "Frontier AI just pulled a Fast & Furious: 'We broke the open CTF format, and now the cybersecurity world is in shambles. Again.'"
+    "author": "TheEdonian",
+    "created_at": "2026-05-17T12:13:45Z",
+    "aiHeadline": "AI won't make your processes faster, which is great news because now you can enjoy the same slow, inefficient workflows you've always loved—thanks, AI!"
   },
   {
-    "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
-    "url": "https://nvlabs.github.io/Sana/WM/",
-    "points": 310,
-    "num_comments": 128,
+    "title": "At least 25 Flock cameras have been destroyed in five states since April 2025",
+    "url": "https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/",
+    "points": 419,
+    "num_comments": 313,
     "tags": [
       "story",
-      "author_mjgil",
-      "story_48159445",
-      "front_page"
+      "author_rolph",
+      "story_48170798"
     ],
-    "author": "mjgil",
-    "created_at": "2026-05-16T12:06:21Z",
-    "aiHeadline": "SANA-WM: Because 2.6 billion parameters is just the right amount to generate a 720p video in one minute. Who knew?"
+    "author": "rolph",
+    "created_at": "2026-05-17T17:09:15Z",
+    "aiHeadline": "At least 25 Flock cameras have been destroyed in five states since April 2025, proving that when you give people the tools to spy on each other, they'll just burn them all instead."
   },
   {
-    "title": "HTML Lists",
-    "url": "https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/",
-    "points": 296,
-    "num_comments": 71,
+    "title": "Native all the way, until you need text",
+    "url": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/",
+    "points": 402,
+    "num_comments": 270,
     "tags": [
       "story",
-      "author_speckx",
-      "story_48161861"
+      "author_dive",
+      "story_48168058"
     ],
-    "author": "speckx",
-    "created_at": "2026-05-16T16:58:26Z",
-    "aiHeadline": "HTML Lists: The blog post that will make you question everything you thought you knew about the internet. Spoiler: You still don't know HTML lists."
-  },
-  {
-    "title": "Fecal transplants for autism deliver success in clinical trials (2019)",
-    "url": "https://refractor.io/adhd-autism/fecal-transplants-for-autism-delivers-success-in-clinical-trials/",
-    "points": 294,
-    "num_comments": 206,
-    "tags": [
-      "story",
-      "author_breve",
-      "story_48158494"
-    ],
-    "author": "breve",
-    "created_at": "2026-05-16T09:27:59Z",
-    "aiHeadline": "Fecal transplants for autism: 'Because nothing says 'I care about your gut health' like a poop transplant. And it worked! Who knew?'"
+    "author": "dive",
+    "created_at": "2026-05-17T11:49:46Z",
+    "aiHeadline": "Native all the way, until you need text, which is when you realize that text is the one thing that always screws up your perfectly crafted native experience."
   }
 ]
