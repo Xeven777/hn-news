@@ -1,74 +1,77 @@
 [
   {
-    "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
-    "url": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
-    "points": 672,
-    "num_comments": 275,
+    "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+    "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+    "points": 840,
+    "num_comments": 429,
     "tags": [
       "story",
-      "author_WithinReason",
-      "story_48166459",
+      "author_nycdatasci",
+      "story_48182754",
       "front_page"
     ],
-    "author": "WithinReason",
-    "created_at": "2026-05-17T06:17:26Z",
-    "aiHeadline": "Mozilla tells UK regulators that VPNs are essential for privacy and security, which is like telling them the sky is blue and water is wet—duh."
+    "author": "nycdatasci",
+    "created_at": "2026-05-18T17:38:22Z",
+    "aiHeadline": "Elon Musk's legal battle against OpenAI ends in defeat, proving that even tech titans can lose when they're not backed by Twitter threads."
   },
   {
-    "title": "Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
-    "url": "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html",
-    "points": 553,
-    "num_comments": 244,
+    "title": "Show HN: Files.md – Open-source alternative to Obsidian",
+    "url": "https://github.com/zakirullin/files.md",
+    "points": 570,
+    "num_comments": 286,
     "tags": [
       "story",
-      "author_nolok",
-      "story_48168856"
-    ],
-    "author": "nolok",
-    "created_at": "2026-05-17T13:42:30Z",
-    "aiHeadline": "Security researcher claims Microsoft built a backdoor into Bitlocker, which is surprising because Microsoft has never done anything shady before, right?"
-  },
-  {
-    "title": "I don't think AI will make your processes go faster",
-    "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
-    "points": 515,
-    "num_comments": 364,
-    "tags": [
-      "story",
-      "author_TheEdonian",
-      "story_48168221",
+      "author_zakirullin",
+      "story_48179677",
+      "show_hn",
       "front_page"
     ],
-    "author": "TheEdonian",
-    "created_at": "2026-05-17T12:13:45Z",
-    "aiHeadline": "AI won't make your processes faster, which is great news because now you can enjoy the same slow, inefficient workflows you've always loved—thanks, AI!"
+    "author": "zakirullin",
+    "created_at": "2026-05-18T13:33:33Z",
+    "aiHeadline": "Files.md emerges as the open-source hero, slaying the dragon that is Obsidian's note-taking dominance with its own set of features that might just make you forget about the paid options."
   },
   {
-    "title": "At least 25 Flock cameras have been destroyed in five states since April 2025",
-    "url": "https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/",
-    "points": 419,
-    "num_comments": 313,
+    "title": "Garry Tan, the CEO of YC, accused me of unethical reporting",
+    "url": "https://radleybalko.substack.com/p/truth-power-and-honest-journalism",
+    "points": 495,
+    "num_comments": 147,
     "tags": [
       "story",
-      "author_rolph",
-      "story_48170798"
+      "author_gok",
+      "story_48181041"
     ],
-    "author": "rolph",
-    "created_at": "2026-05-17T17:09:15Z",
-    "aiHeadline": "At least 25 Flock cameras have been destroyed in five states since April 2025, proving that when you give people the tools to spy on each other, they'll just burn them all instead."
+    "author": "gok",
+    "created_at": "2026-05-18T15:18:19Z",
+    "aiHeadline": "Garry Tan, the CEO of YC, calls out someone for unethical reporting, which is about as surprising as a fish asking for a bicycle."
   },
   {
-    "title": "Native all the way, until you need text",
-    "url": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/",
-    "points": 402,
-    "num_comments": 270,
+    "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
+    "url": "https://archestra.ai/blog/only-responsible-ai",
+    "points": 435,
+    "num_comments": 195,
     "tags": [
       "story",
-      "author_dive",
-      "story_48168058"
+      "author_ildari",
+      "story_48181125",
+      "front_page"
     ],
-    "author": "dive",
-    "created_at": "2026-05-17T11:49:46Z",
-    "aiHeadline": "Native all the way, until you need text, which is when you realize that text is the one thing that always screws up your perfectly crafted native experience."
+    "author": "ildari",
+    "created_at": "2026-05-18T15:24:19Z",
+    "aiHeadline": "GitHub repo owners breathe a sigh of relief as AI bot spam is defeated by the humble Git –author flag, proving that sometimes the simplest solutions are the best."
+  },
+  {
+    "title": "Anthropic acquires Stainless",
+    "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+    "points": 387,
+    "num_comments": 262,
+    "tags": [
+      "story",
+      "author_tomeraberbach",
+      "story_48182281",
+      "front_page"
+    ],
+    "author": "tomeraberbach",
+    "created_at": "2026-05-18T17:01:21Z",
+    "aiHeadline": "Anthropic's acquisition of Stainless is the latest in a series of moves that make you wonder if these companies are just trying to collect all the shiny objects in the AI space."
   }
 ]
