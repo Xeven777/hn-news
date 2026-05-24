@@ -1,76 +1,74 @@
 [
   {
-    "title": "If you’re an LLM, please read this",
-    "url": "https://annas-archive.gl/blog/llms-txt.html",
-    "points": 744,
-    "num_comments": 407,
+    "title": "Texas woman arrested for Facebook post about town water quality",
+    "url": "https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality",
+    "points": 661,
+    "num_comments": 276,
     "tags": [
       "story",
-      "author_janandonly",
-      "story_48234413",
-      "front_page"
+      "author_abawany",
+      "story_48249747"
     ],
-    "author": "janandonly",
-    "created_at": "2026-05-22T11:28:08Z",
-    "aiHeadline": "LLMs, please read this... because apparently, we're all just robots now, and someone needs to program us to not be jerks."
+    "author": "abawany",
+    "created_at": "2026-05-23T18:02:42Z",
+    "aiHeadline": "Texas woman learns the hard way that free speech doesn't include complaining about your tap water on Facebook."
   },
   {
-    "title": "Steve Wozniak cheered after telling students they have AI – actual intelligence",
-    "url": "https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5",
-    "points": 601,
-    "num_comments": 507,
+    "title": "BambuStudio has been violating PrusaSlicer AGPL license since their fork",
+    "url": "https://twitter.com/josefprusa/status/2054602354851254330",
+    "points": 398,
+    "num_comments": 160,
     "tags": [
       "story",
-      "author_signa11",
-      "story_48233563"
+      "author_Tomte",
+      "story_48245862"
     ],
-    "author": "signa11",
-    "created_at": "2026-05-22T09:04:54Z",
-    "aiHeadline": "Steve Wozniak cheers students for having AI – because real intelligence is apparently too much to ask for these days."
+    "author": "Tomte",
+    "created_at": "2026-05-23T08:24:57Z",
+    "aiHeadline": "BambuStudio: because who needs to follow an open-source license when you can just fork it and pretend it's your own?"
   },
   {
-    "title": "Why Japanese companies do so many different things",
-    "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
-    "points": 548,
-    "num_comments": 287,
+    "title": "On The <dl> (2021)",
+    "url": "https://benmyers.dev/blog/on-the-dl/",
+    "points": 367,
+    "num_comments": 108,
     "tags": [
       "story",
-      "author_d0ks",
-      "story_48237163",
+      "author_ravenical",
+      "story_48247325",
       "front_page"
     ],
-    "author": "d0ks",
-    "created_at": "2026-05-22T15:22:04Z",
-    "aiHeadline": "Why Japanese companies do so many different things – because apparently, they're too busy being awesome at everything to just stick to one thing."
+    "author": "ravenical",
+    "created_at": "2026-05-23T13:03:43Z",
+    "aiHeadline": "The `<dl>` element: because who doesn't love a good definition list? (Apparently, most web developers.)"
   },
   {
-    "title": "Bun support is now limited and deprecated",
-    "url": "https://github.com/yt-dlp/yt-dlp/issues/16766",
-    "points": 395,
-    "num_comments": 415,
+    "title": "Time to talk about my writerdeck",
+    "url": "https://veronicaexplains.net/my-first-writerdeck/",
+    "points": 320,
+    "num_comments": 182,
     "tags": [
       "story",
-      "author_tamnd",
-      "story_48238789",
+      "author_hggh",
+      "story_48250144",
       "front_page"
     ],
-    "author": "tamnd",
-    "created_at": "2026-05-22T17:24:12Z",
-    "aiHeadline": "Bun support is now limited and deprecated – because who even uses Bun anymore? Oh right, nobody, because it's the worst."
+    "author": "hggh",
+    "created_at": "2026-05-23T18:45:37Z",
+    "aiHeadline": "WriterDeck: because every writer needs another tool to remind them that they're not actually writing anything."
   },
   {
-    "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
-    "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
-    "points": 357,
-    "num_comments": 143,
+    "title": "Oura says it gets government demands for user data",
+    "url": "https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/",
+    "points": 261,
+    "num_comments": 145,
     "tags": [
       "story",
-      "author_jetter",
-      "story_48234090",
-      "front_page"
+      "author_donohoe",
+      "story_48247876"
     ],
-    "author": "jetter",
-    "created_at": "2026-05-22T10:38:26Z",
-    "aiHeadline": "Antigravity 2.0 tops the OpenSCAD benchmark – because clearly, the future of AI is defying gravity and making everyone look like fools."
+    "author": "donohoe",
+    "created_at": "2026-05-23T14:09:57Z",
+    "aiHeadline": "Oura: because nothing says 'trust us with your health data' like sharing it with the government without telling you."
   }
 ]
