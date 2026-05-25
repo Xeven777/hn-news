@@ -1,74 +1,75 @@
 [
   {
-    "title": "Texas woman arrested for Facebook post about town water quality",
-    "url": "https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality",
-    "points": 661,
-    "num_comments": 276,
+    "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+    "url": "https://esengine.github.io/DeepSeek-Reasonix/",
+    "points": 476,
+    "num_comments": 205,
     "tags": [
       "story",
-      "author_abawany",
-      "story_48249747"
-    ],
-    "author": "abawany",
-    "created_at": "2026-05-23T18:02:42Z",
-    "aiHeadline": "Texas woman learns the hard way that free speech doesn't include complaining about your tap water on Facebook."
-  },
-  {
-    "title": "BambuStudio has been violating PrusaSlicer AGPL license since their fork",
-    "url": "https://twitter.com/josefprusa/status/2054602354851254330",
-    "points": 398,
-    "num_comments": 160,
-    "tags": [
-      "story",
-      "author_Tomte",
-      "story_48245862"
-    ],
-    "author": "Tomte",
-    "created_at": "2026-05-23T08:24:57Z",
-    "aiHeadline": "BambuStudio: because who needs to follow an open-source license when you can just fork it and pretend it's your own?"
-  },
-  {
-    "title": "On The <dl> (2021)",
-    "url": "https://benmyers.dev/blog/on-the-dl/",
-    "points": 367,
-    "num_comments": 108,
-    "tags": [
-      "story",
-      "author_ravenical",
-      "story_48247325",
+      "author_Alifatisk",
+      "story_48256953",
       "front_page"
     ],
-    "author": "ravenical",
-    "created_at": "2026-05-23T13:03:43Z",
-    "aiHeadline": "The `<dl>` element: because who doesn't love a good definition list? (Apparently, most web developers.)"
+    "author": "Alifatisk",
+    "created_at": "2026-05-24T13:02:06Z",
+    "aiHeadline": "DeepSeek Reasonix: The latest AI tool that promises to make your life easier, unless it decides to take a coffee break mid-process."
   },
   {
-    "title": "Time to talk about my writerdeck",
-    "url": "https://veronicaexplains.net/my-first-writerdeck/",
-    "points": 320,
-    "num_comments": 182,
+    "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+    "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+    "points": 332,
+    "num_comments": 354,
     "tags": [
       "story",
-      "author_hggh",
-      "story_48250144",
+      "author_intelkishan",
+      "story_48258684",
       "front_page"
     ],
-    "author": "hggh",
-    "created_at": "2026-05-23T18:45:37Z",
-    "aiHeadline": "WriterDeck: because every writer needs another tool to remind them that they're not actually writing anything."
+    "author": "intelkishan",
+    "created_at": "2026-05-24T16:31:29Z",
+    "aiHeadline": "Memory costs in AI chips: Because nothing says 'I'm important' like hogging two-thirds of the budget."
   },
   {
-    "title": "Oura says it gets government demands for user data",
-    "url": "https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/",
-    "points": 261,
-    "num_comments": 145,
+    "title": "Amazon Web Services – Four Years and Out",
+    "url": "https://www.adventuresinoss.com/aws-four-years/",
+    "points": 311,
+    "num_comments": 130,
     "tags": [
       "story",
-      "author_donohoe",
-      "story_48247876"
+      "author_RyeCombinator",
+      "story_48254475"
     ],
-    "author": "donohoe",
-    "created_at": "2026-05-23T14:09:57Z",
-    "aiHeadline": "Oura: because nothing says 'trust us with your health data' like sharing it with the government without telling you."
+    "author": "RyeCombinator",
+    "created_at": "2026-05-24T04:51:22Z",
+    "aiHeadline": "AWS Four Years and Out: A heartfelt farewell to the cloud giant, where the only thing more predictable than the weather is the next outage."
+  },
+  {
+    "title": "Why is Vivado 2026.1 dropping Linux support for free tier?",
+    "url": "https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US",
+    "points": 307,
+    "num_comments": 187,
+    "tags": [
+      "story",
+      "author_zdw",
+      "story_48254309",
+      "front_page"
+    ],
+    "author": "zdw",
+    "created_at": "2026-05-24T04:14:52Z",
+    "aiHeadline": "Vivado dropping Linux support: Because who needs a free operating system when you can pay for the privilege of not having one?"
+  },
+  {
+    "title": "The four-day workweek in Australia: insights from early adopters of 100:80:100",
+    "url": "https://scienceaim.com/australia-just-proved-the-four-day-work-week-works-here-is-what-the-data-actually-says/",
+    "points": 237,
+    "num_comments": 212,
+    "tags": [
+      "story",
+      "author_randycupertino",
+      "story_48259990"
+    ],
+    "author": "randycupertino",
+    "created_at": "2026-05-24T18:56:09Z",
+    "aiHeadline": "The four-day workweek in Australia: Proving that you can work less and still manage to outperform the rest of the world."
   }
 ]
