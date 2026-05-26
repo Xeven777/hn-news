@@ -1,75 +1,73 @@
 [
   {
-    "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
-    "url": "https://esengine.github.io/DeepSeek-Reasonix/",
-    "points": 476,
-    "num_comments": 205,
+    "title": "Magnifica Humanitas",
+    "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
+    "points": 1364,
+    "num_comments": 777,
     "tags": [
       "story",
-      "author_Alifatisk",
-      "story_48256953",
+      "author_theletterf",
+      "story_48265206"
+    ],
+    "author": "theletterf",
+    "created_at": "2026-05-25T10:11:29Z",
+    "aiHeadline": "The Vatican releases a document on AI, because apparently humanity's butler needs a divine guide to serve us better."
+  },
+  {
+    "title": "California moves to exempt Linux from its age-verification law after backlash",
+    "url": "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law",
+    "points": 720,
+    "num_comments": 310,
+    "tags": [
+      "story",
+      "author_rbanffy",
+      "story_48269961",
       "front_page"
     ],
-    "author": "Alifatisk",
-    "created_at": "2026-05-24T13:02:06Z",
-    "aiHeadline": "DeepSeek Reasonix: The latest AI tool that promises to make your life easier, unless it decides to take a coffee break mid-process."
+    "author": "rbanffy",
+    "created_at": "2026-05-25T18:19:58Z",
+    "aiHeadline": "California says Linux doesn't need to comply with its age-verification law, because Linux is too cool for that kind of nonsense."
   },
   {
-    "title": "Memory has grown to nearly two-thirds of AI chip component costs",
-    "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
-    "points": 332,
-    "num_comments": 354,
+    "title": "Search engines alternatives now that Google isn't Google anymore",
+    "url": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
+    "points": 536,
+    "num_comments": 492,
     "tags": [
       "story",
-      "author_intelkishan",
-      "story_48258684",
-      "front_page"
+      "author_elorant",
+      "story_48266051"
     ],
-    "author": "intelkishan",
-    "created_at": "2026-05-24T16:31:29Z",
-    "aiHeadline": "Memory costs in AI chips: Because nothing says 'I'm important' like hogging two-thirds of the budget."
+    "author": "elorant",
+    "created_at": "2026-05-25T12:27:11Z",
+    "aiHeadline": "Google is no longer Google, so now you have to try six other search engines that probably won't work as well, but hey, at least they're different!"
   },
   {
-    "title": "Amazon Web Services – Four Years and Out",
-    "url": "https://www.adventuresinoss.com/aws-four-years/",
-    "points": 311,
-    "num_comments": 130,
+    "title": "The Eternal Sloptember",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html",
+    "points": 448,
+    "num_comments": 353,
     "tags": [
       "story",
-      "author_RyeCombinator",
-      "story_48254475"
+      "author_razin",
+      "story_48263238"
     ],
-    "author": "RyeCombinator",
-    "created_at": "2026-05-24T04:51:22Z",
-    "aiHeadline": "AWS Four Years and Out: A heartfelt farewell to the cloud giant, where the only thing more predictable than the weather is the next outage."
+    "author": "razin",
+    "created_at": "2026-05-25T03:47:24Z",
+    "aiHeadline": "The Eternal Sloptember: because September is the worst month, and now it's eternal, so enjoy the endless slush of bad decisions and regret."
   },
   {
-    "title": "Why is Vivado 2026.1 dropping Linux support for free tier?",
-    "url": "https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US",
-    "points": 307,
-    "num_comments": 187,
+    "title": "Pope Leo XIV says AI must serve humanity, not the powerful few",
+    "url": "https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/",
+    "points": 333,
+    "num_comments": 68,
     "tags": [
       "story",
-      "author_zdw",
-      "story_48254309",
-      "front_page"
+      "author_benwerd",
+      "story_48266485"
     ],
-    "author": "zdw",
-    "created_at": "2026-05-24T04:14:52Z",
-    "aiHeadline": "Vivado dropping Linux support: Because who needs a free operating system when you can pay for the privilege of not having one?"
-  },
-  {
-    "title": "The four-day workweek in Australia: insights from early adopters of 100:80:100",
-    "url": "https://scienceaim.com/australia-just-proved-the-four-day-work-week-works-here-is-what-the-data-actually-says/",
-    "points": 237,
-    "num_comments": 212,
-    "tags": [
-      "story",
-      "author_randycupertino",
-      "story_48259990"
-    ],
-    "author": "randycupertino",
-    "created_at": "2026-05-24T18:56:09Z",
-    "aiHeadline": "The four-day workweek in Australia: Proving that you can work less and still manage to outperform the rest of the world."
+    "author": "benwerd",
+    "created_at": "2026-05-25T13:17:58Z",
+    "aiHeadline": "Pope Leo XIV tells AI to serve humanity, not the powerful few, which is great news for the rest of us who aren't powerful and need a break from being ignored."
   }
 ]
