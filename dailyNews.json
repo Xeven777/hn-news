@@ -1,73 +1,74 @@
 [
   {
-    "title": "Magnifica Humanitas",
-    "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
-    "points": 1364,
-    "num_comments": 777,
+    "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
+    "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
+    "points": 817,
+    "num_comments": 375,
     "tags": [
       "story",
-      "author_theletterf",
-      "story_48265206"
-    ],
-    "author": "theletterf",
-    "created_at": "2026-05-25T10:11:29Z",
-    "aiHeadline": "The Vatican releases a document on AI, because apparently humanity's butler needs a divine guide to serve us better."
-  },
-  {
-    "title": "California moves to exempt Linux from its age-verification law after backlash",
-    "url": "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law",
-    "points": 720,
-    "num_comments": 310,
-    "tags": [
-      "story",
-      "author_rbanffy",
-      "story_48269961",
+      "author_thm",
+      "story_48279316",
       "front_page"
     ],
-    "author": "rbanffy",
-    "created_at": "2026-05-25T18:19:58Z",
-    "aiHeadline": "California says Linux doesn't need to comply with its age-verification law, because Linux is too cool for that kind of nonsense."
+    "author": "thm",
+    "created_at": "2026-05-26T13:08:13Z",
+    "aiHeadline": "Spain takes a stand against the future by banning prediction markets for not having a proper gambling license—because clearly, predicting the future is just like betting on horses."
   },
   {
-    "title": "Search engines alternatives now that Google isn't Google anymore",
-    "url": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
-    "points": 536,
-    "num_comments": 492,
+    "title": "GitHub Actions was down",
+    "url": "https://www.githubstatus.com/?today",
+    "points": 649,
+    "num_comments": 1,
     "tags": [
       "story",
-      "author_elorant",
-      "story_48266051"
+      "author_cebert",
+      "story_48278374"
     ],
-    "author": "elorant",
-    "created_at": "2026-05-25T12:27:11Z",
-    "aiHeadline": "Google is no longer Google, so now you have to try six other search engines that probably won't work as well, but hey, at least they're different!"
+    "author": "cebert",
+    "created_at": "2026-05-26T11:42:58Z",
+    "aiHeadline": "GitHub Actions goes down again, proving that even the best tools can fail when you need them most—because what could go wrong?"
   },
   {
-    "title": "The Eternal Sloptember",
-    "url": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html",
-    "points": 448,
-    "num_comments": 353,
+    "title": "Netherlands blocks US takeover of vital digital supplier",
+    "url": "https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/",
+    "points": 537,
+    "num_comments": 211,
     "tags": [
       "story",
-      "author_razin",
-      "story_48263238"
+      "author_vrganj",
+      "story_48278406"
     ],
-    "author": "razin",
-    "created_at": "2026-05-25T03:47:24Z",
-    "aiHeadline": "The Eternal Sloptember: because September is the worst month, and now it's eternal, so enjoy the endless slush of bad decisions and regret."
+    "author": "vrganj",
+    "created_at": "2026-05-26T11:46:08Z",
+    "aiHeadline": "Netherlands says 'no' to US takeover of vital digital supplier, proving that some countries still care about their digital sovereignty—unlike others who just hand over everything."
   },
   {
-    "title": "Pope Leo XIV says AI must serve humanity, not the powerful few",
-    "url": "https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/",
-    "points": 333,
-    "num_comments": 68,
+    "title": "Motorola phones have started hijacking the Amazon app to insert affiliate codes",
+    "url": "https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/",
+    "points": 369,
+    "num_comments": 220,
     "tags": [
       "story",
-      "author_benwerd",
-      "story_48266485"
+      "author_Cider9986",
+      "story_48274794"
     ],
-    "author": "benwerd",
-    "created_at": "2026-05-25T13:17:58Z",
-    "aiHeadline": "Pope Leo XIV tells AI to serve humanity, not the powerful few, which is great news for the rest of us who aren't powerful and need a break from being ignored."
+    "author": "Cider9986",
+    "created_at": "2026-05-26T03:56:09Z",
+    "aiHeadline": "Motorola phones are now your unwanted Amazon affiliates, hijacking your shopping experience to earn a quick buck—because who needs privacy when you can have affiliate codes?"
+  },
+  {
+    "title": "Big tech's anti-labor playbook has come for Wikipedia",
+    "url": "https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943",
+    "points": 363,
+    "num_comments": 204,
+    "tags": [
+      "story",
+      "author_cdrnsf",
+      "story_48285592",
+      "front_page"
+    ],
+    "author": "cdrnsf",
+    "created_at": "2026-05-26T20:33:24Z",
+    "aiHeadline": "Big tech's anti-labor playbook comes to Wikipedia, proving that even a platform built on volunteerism isn't safe from corporate greed—because why have employees when you can have volunteers?"
   }
 ]
