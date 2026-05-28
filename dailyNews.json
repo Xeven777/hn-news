@@ -1,74 +1,76 @@
 [
   {
-    "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
-    "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
-    "points": 817,
-    "num_comments": 375,
+    "title": "I'm Tired of Talking to AI",
+    "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
+    "points": 1861,
+    "num_comments": 901,
     "tags": [
       "story",
-      "author_thm",
-      "story_48279316",
+      "author_theorchid",
+      "story_48292224"
+    ],
+    "author": "theorchid",
+    "created_at": "2026-05-27T10:43:25Z",
+    "aiHeadline": "AI's endless monologues have finally pushed one human to the brink of madness, and honestly, who can blame them?"
+  },
+  {
+    "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+    "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+    "points": 709,
+    "num_comments": 354,
+    "tags": [
+      "story",
+      "author_HelloUsername",
+      "story_48296649",
       "front_page"
     ],
-    "author": "thm",
-    "created_at": "2026-05-26T13:08:13Z",
-    "aiHeadline": "Spain takes a stand against the future by banning prediction markets for not having a proper gambling license—because clearly, predicting the future is just like betting on horses."
+    "author": "HelloUsername",
+    "created_at": "2026-05-27T16:28:41Z",
+    "aiHeadline": "DuckDuckGo's AI-free search just got a 28% boost in traffic—because apparently, people are fleeing Google's AI like it's the plague."
   },
   {
-    "title": "GitHub Actions was down",
-    "url": "https://www.githubstatus.com/?today",
-    "points": 649,
-    "num_comments": 1,
+    "title": "I think Anthropic and OpenAI have found product-market fit",
+    "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+    "points": 696,
+    "num_comments": 867,
     "tags": [
       "story",
-      "author_cebert",
-      "story_48278374"
-    ],
-    "author": "cebert",
-    "created_at": "2026-05-26T11:42:58Z",
-    "aiHeadline": "GitHub Actions goes down again, proving that even the best tools can fail when you need them most—because what could go wrong?"
-  },
-  {
-    "title": "Netherlands blocks US takeover of vital digital supplier",
-    "url": "https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/",
-    "points": 537,
-    "num_comments": 211,
-    "tags": [
-      "story",
-      "author_vrganj",
-      "story_48278406"
-    ],
-    "author": "vrganj",
-    "created_at": "2026-05-26T11:46:08Z",
-    "aiHeadline": "Netherlands says 'no' to US takeover of vital digital supplier, proving that some countries still care about their digital sovereignty—unlike others who just hand over everything."
-  },
-  {
-    "title": "Motorola phones have started hijacking the Amazon app to insert affiliate codes",
-    "url": "https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/",
-    "points": 369,
-    "num_comments": 220,
-    "tags": [
-      "story",
-      "author_Cider9986",
-      "story_48274794"
-    ],
-    "author": "Cider9986",
-    "created_at": "2026-05-26T03:56:09Z",
-    "aiHeadline": "Motorola phones are now your unwanted Amazon affiliates, hijacking your shopping experience to earn a quick buck—because who needs privacy when you can have affiliate codes?"
-  },
-  {
-    "title": "Big tech's anti-labor playbook has come for Wikipedia",
-    "url": "https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943",
-    "points": 363,
-    "num_comments": 204,
-    "tags": [
-      "story",
-      "author_cdrnsf",
-      "story_48285592",
+      "author_simonw",
+      "story_48296794",
       "front_page"
     ],
-    "author": "cdrnsf",
-    "created_at": "2026-05-26T20:33:24Z",
-    "aiHeadline": "Big tech's anti-labor playbook comes to Wikipedia, proving that even a platform built on volunteerism isn't safe from corporate greed—because why have employees when you can have volunteers?"
+    "author": "simonw",
+    "created_at": "2026-05-27T16:39:13Z",
+    "aiHeadline": "Anthropic and OpenAI have finally found product-market fit, which basically means they've perfected the art of making us feel obsolete."
+  },
+  {
+    "title": "Last.fm is now independent",
+    "url": "https://support.last.fm/t/last-fm-is-now-independent/118591",
+    "points": 669,
+    "num_comments": 184,
+    "tags": [
+      "story",
+      "author_twistslider",
+      "story_48295892",
+      "front_page"
+    ],
+    "author": "twistslider",
+    "created_at": "2026-05-27T15:36:09Z",
+    "aiHeadline": "Last.fm is now independent, which is great news for music lovers everywhere—except for the corporate overlords who probably just lost a few billion dollars."
+  },
+  {
+    "title": "Can we have the day off?",
+    "url": "https://mlsu.io/posts/day-off/",
+    "points": 646,
+    "num_comments": 381,
+    "tags": [
+      "story",
+      "author_mlsu",
+      "story_48302745",
+      "front_page"
+    ],
+    "author": "mlsu",
+    "created_at": "2026-05-28T00:40:26Z",
+    "aiHeadline": "The universal plea for a day off has been heard, and honestly, it's about time. Burnout is the new black, and we're all just waiting for the memo."
   }
 ]
