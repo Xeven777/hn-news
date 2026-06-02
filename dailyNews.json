@@ -1,75 +1,73 @@
 [
   {
-    "title": "Microsoft degrades functionality of perpetually-licensed offline products",
-    "url": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
-    "points": 571,
-    "num_comments": 189,
+    "title": "The newest Instagram “exploit” is the goofiest I've seen",
+    "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
+    "points": 1455,
+    "num_comments": 347,
     "tags": [
       "story",
-      "author_antipurist",
-      "story_48341578",
+      "author_ssiddharth",
+      "story_48359102",
       "front_page"
     ],
-    "author": "antipurist",
-    "created_at": "2026-05-30T23:26:13Z",
-    "aiHeadline": "Microsoft Perpetually Ruins Perpetual Licenses, Because Perpetual Should Mean 'Until We Decide It Doesn't Anymore'"
+    "author": "ssiddharth",
+    "created_at": "2026-06-01T16:31:42Z",
+    "aiHeadline": "Instagram users discover the most absurd 'exploit' yet: accidentally taking over their own accounts while trying to post a selfie of their cat mid-air, because of course, Meta would make that the highlight feature."
   },
   {
-    "title": "Danish pension fund excludes SpaceX citing governance and valuation",
-    "url": "https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/",
-    "points": 455,
-    "num_comments": 11,
+    "title": "Malicious npm packages detected across Red Hat Cloud Services",
+    "url": "https://github.com/RedHatInsights/javascript-clients/issues/492",
+    "points": 735,
+    "num_comments": 420,
     "tags": [
       "story",
-      "author_vrganj",
-      "story_48333820"
+      "author_kurmiashish",
+      "story_48356625"
     ],
-    "author": "vrganj",
-    "created_at": "2026-05-30T08:00:20Z",
-    "aiHeadline": "Danish Pension Fund: 'We're Not Investing in SpaceX Because They Might Actually Succeed,' Basically Acting Like Overprotective Parents Who Think You'll Never Amount To Anything"
+    "author": "kurmiashish",
+    "created_at": "2026-06-01T13:30:21Z",
+    "aiHeadline": "Red Hat Cloud Services: where your npm packages are now the real villains in this cybersecurity horror movie, complete with a plot twist where the 'updates' are actually the ones stealing the show—and your data."
   },
   {
-    "title": "Anthropic surpasses OpenAI to become most valuable AI startup",
-    "url": "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup",
-    "points": 397,
-    "num_comments": 455,
+    "title": "A 10 year old Xeon is all you need",
+    "url": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
+    "points": 677,
+    "num_comments": 272,
     "tags": [
       "story",
-      "author_Bolat14",
-      "story_48336233"
+      "author_cafkafk",
+      "story_48353348"
     ],
-    "author": "Bolat14",
-    "created_at": "2026-05-30T13:56:34Z",
-    "aiHeadline": "Anthropic Surpasses OpenAI to Become Most Valuable AI Startup, Basically Telling OpenAI, 'You Can Keep Your Billions, We're Going for the Trillions'"
+    "author": "cafkafk",
+    "created_at": "2026-06-01T06:38:42Z",
+    "aiHeadline": "Pro tip: If you're still running a 2016 Xeon, congratulations! You've officially unlocked the 'Old School Overclocker' achievement, proving that sometimes, the best tech is the one that doesn't need to be replaced every six months."
   },
   {
-    "title": "OpenRouter raises $113M Series B",
-    "url": "https://openrouter.ai/announcements/series-b",
-    "points": 379,
-    "num_comments": 187,
+    "title": "The Pirate Bay Remains Resilient, 20 Years After the Raid",
+    "url": "https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/",
+    "points": 530,
+    "num_comments": 256,
     "tags": [
       "story",
-      "author_freeCandy",
-      "story_48338660",
-      "front_page"
+      "author_speckx",
+      "story_48357154"
     ],
-    "author": "freeCandy",
-    "created_at": "2026-05-30T17:27:28Z",
-    "aiHeadline": "OpenRouter Raises $113M in Series B, Basically Proving That All You Need to Succeed in Tech Is a Name That Sounds Like a Router and a Pitch That Says 'We're Doing AI, Obviously'"
+    "author": "speckx",
+    "created_at": "2026-06-01T14:16:41Z",
+    "aiHeadline": "The Pirate Bay: still here, still pirating, still somehow managing to outlast every legal crackdown, copyright notice, and moral judgment—because when you're 20 years old and still acting like a rebellious teenager, who are we to judge?"
   },
   {
-    "title": "Pandoc Templates",
-    "url": "https://pandoc-templates.org/",
-    "points": 372,
-    "num_comments": 49,
+    "title": "Anthropic confidentially submits draft S-1 to the SEC",
+    "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+    "points": 467,
+    "num_comments": 382,
     "tags": [
       "story",
-      "author_ankitg12",
-      "story_48334515",
-      "front_page"
+      "author_surprisetalk",
+      "story_48358646"
     ],
-    "author": "ankitg12",
-    "created_at": "2026-05-30T09:56:42Z",
-    "aiHeadline": "Pandoc Templates: Because Who Doesn't Want to Spend Hours Arguing About the Best Way to Convert a Word Doc to PDF, Right?"
+    "author": "surprisetalk",
+    "created_at": "2026-06-01T16:00:40Z",
+    "aiHeadline": "Anthropic submits their draft S-1 to the SEC, but don't worry, they're keeping it under wraps—because nothing says 'trust us' like a confidential filing, right? Except maybe a locked vault with a sign that says 'No Questions Asked.'"
   }
 ]
