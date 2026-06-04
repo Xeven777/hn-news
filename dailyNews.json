@@ -1,73 +1,75 @@
 [
   {
-    "title": "The newest Instagram “exploit” is the goofiest I've seen",
-    "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
-    "points": 1455,
-    "num_comments": 347,
+    "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+    "points": 746,
+    "num_comments": 301,
     "tags": [
       "story",
-      "author_ssiddharth",
-      "story_48359102",
+      "author_rvz",
+      "story_48385906",
       "front_page"
     ],
-    "author": "ssiddharth",
-    "created_at": "2026-06-01T16:31:42Z",
-    "aiHeadline": "Instagram users discover the most absurd 'exploit' yet: accidentally taking over their own accounts while trying to post a selfie of their cat mid-air, because of course, Meta would make that the highlight feature."
+    "author": "rvz",
+    "created_at": "2026-06-03T16:04:42Z",
+    "aiHeadline": "Tech Giants Unveil Latest Miracle AI, Because the World Clearly Needs Another Multimodal Model"
   },
   {
-    "title": "Malicious npm packages detected across Red Hat Cloud Services",
-    "url": "https://github.com/RedHatInsights/javascript-clients/issues/492",
-    "points": 735,
-    "num_comments": 420,
+    "title": "Meta workers can opt out of being tracked at work up to 30 min",
+    "url": "https://www.bbc.com/news/articles/c93x0k194yno",
+    "points": 706,
+    "num_comments": 675,
     "tags": [
       "story",
-      "author_kurmiashish",
-      "story_48356625"
+      "author_reconnecting",
+      "story_48383220"
     ],
-    "author": "kurmiashish",
-    "created_at": "2026-06-01T13:30:21Z",
-    "aiHeadline": "Red Hat Cloud Services: where your npm packages are now the real villains in this cybersecurity horror movie, complete with a plot twist where the 'updates' are actually the ones stealing the show—and your data."
+    "author": "reconnecting",
+    "created_at": "2026-06-03T12:42:07Z",
+    "aiHeadline": "Meta Workers Can Now Opt Out of Surveillance—for 30 Minutes a Day, Because Privacy is Apparently a Part-Time Job"
   },
   {
-    "title": "A 10 year old Xeon is all you need",
-    "url": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
-    "points": 677,
-    "num_comments": 272,
+    "title": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
+    "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
+    "points": 656,
+    "num_comments": 107,
     "tags": [
       "story",
-      "author_cafkafk",
-      "story_48353348"
+      "author_xx_ns",
+      "story_48382310"
     ],
-    "author": "cafkafk",
-    "created_at": "2026-06-01T06:38:42Z",
-    "aiHeadline": "Pro tip: If you're still running a 2016 Xeon, congratulations! You've officially unlocked the 'Old School Overclocker' achievement, proving that sometimes, the best tech is the one that doesn't need to be replaced every six months."
+    "author": "xx_ns",
+    "created_at": "2026-06-03T10:53:00Z",
+    "aiHeadline": "Hackers Can Now Take Over Your PC Through Your Speakers, Because Typing 'No' to Malware Just Isn't Enough"
   },
   {
-    "title": "The Pirate Bay Remains Resilient, 20 Years After the Raid",
-    "url": "https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/",
-    "points": 530,
-    "num_comments": 256,
+    "title": "Elixir v1.20: Now a gradually typed language",
+    "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
+    "points": 621,
+    "num_comments": 230,
     "tags": [
       "story",
-      "author_speckx",
-      "story_48357154"
+      "author_cloud8421",
+      "story_48388324",
+      "front_page"
     ],
-    "author": "speckx",
-    "created_at": "2026-06-01T14:16:41Z",
-    "aiHeadline": "The Pirate Bay: still here, still pirating, still somehow managing to outlast every legal crackdown, copyright notice, and moral judgment—because when you're 20 years old and still acting like a rebellious teenager, who are we to judge?"
+    "author": "cloud8421",
+    "created_at": "2026-06-03T19:02:26Z",
+    "aiHeadline": "Elixir 1.20 Adds Gradual Typing, Because Sometimes Adding More Complexity Makes Everything Better"
   },
   {
-    "title": "Anthropic confidentially submits draft S-1 to the SEC",
-    "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
-    "points": 467,
-    "num_comments": 382,
+    "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
+    "url": "https://burntsushi.net/encephalitis/",
+    "points": 532,
+    "num_comments": 167,
     "tags": [
       "story",
-      "author_surprisetalk",
-      "story_48358646"
+      "author_Tomte",
+      "story_48384355",
+      "front_page"
     ],
-    "author": "surprisetalk",
-    "created_at": "2026-06-01T16:00:40Z",
-    "aiHeadline": "Anthropic submits their draft S-1 to the SEC, but don't worry, they're keeping it under wraps—because nothing says 'trust us' like a confidential filing, right? Except maybe a locked vault with a sign that says 'No Questions Asked.'"
+    "author": "Tomte",
+    "created_at": "2026-06-03T14:10:06Z",
+    "aiHeadline": "One Man’s Journey with Anti-NMDA Receptor Encephalitis: Because Who Needs a Normal Brain Anyway?"
   }
 ]
