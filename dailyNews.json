@@ -1,75 +1,76 @@
 [
   {
-    "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
-    "points": 746,
-    "num_comments": 301,
+    "title": "Changing how we develop Ladybird",
+    "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
+    "points": 815,
+    "num_comments": 520,
     "tags": [
       "story",
-      "author_rvz",
-      "story_48385906",
+      "author_EdwinHoksberg",
+      "story_48409191"
+    ],
+    "author": "EdwinHoksberg",
+    "created_at": "2026-06-05T07:26:33Z",
+    "aiHeadline": "Ladybird finally decides to update its development process, because apparently 'old school' wasn't working out."
+  },
+  {
+    "title": "C++: The Documentary",
+    "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
+    "points": 385,
+    "num_comments": 276,
+    "tags": [
+      "story",
+      "author_ingve",
+      "story_48408016",
       "front_page"
     ],
-    "author": "rvz",
-    "created_at": "2026-06-03T16:04:42Z",
-    "aiHeadline": "Tech Giants Unveil Latest Miracle AI, Because the World Clearly Needs Another Multimodal Model"
+    "author": "ingve",
+    "created_at": "2026-06-05T04:37:01Z",
+    "aiHeadline": "C++ gets its own documentary, proving that even programming languages can have midlife crises."
   },
   {
-    "title": "Meta workers can opt out of being tracked at work up to 30 min",
-    "url": "https://www.bbc.com/news/articles/c93x0k194yno",
-    "points": 706,
-    "num_comments": 675,
+    "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
+    "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
+    "points": 375,
+    "num_comments": 132,
     "tags": [
       "story",
-      "author_reconnecting",
-      "story_48383220"
-    ],
-    "author": "reconnecting",
-    "created_at": "2026-06-03T12:42:07Z",
-    "aiHeadline": "Meta Workers Can Now Opt Out of Surveillance—for 30 Minutes a Day, Because Privacy is Apparently a Part-Time Job"
-  },
-  {
-    "title": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
-    "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
-    "points": 656,
-    "num_comments": 107,
-    "tags": [
-      "story",
-      "author_xx_ns",
-      "story_48382310"
-    ],
-    "author": "xx_ns",
-    "created_at": "2026-06-03T10:53:00Z",
-    "aiHeadline": "Hackers Can Now Take Over Your PC Through Your Speakers, Because Typing 'No' to Malware Just Isn't Enough"
-  },
-  {
-    "title": "Elixir v1.20: Now a gradually typed language",
-    "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
-    "points": 621,
-    "num_comments": 230,
-    "tags": [
-      "story",
-      "author_cloud8421",
-      "story_48388324",
+      "author_toomuchtodo",
+      "story_48415217",
       "front_page"
     ],
-    "author": "cloud8421",
-    "created_at": "2026-06-03T19:02:26Z",
-    "aiHeadline": "Elixir 1.20 Adds Gradual Typing, Because Sometimes Adding More Complexity Makes Everything Better"
+    "author": "toomuchtodo",
+    "created_at": "2026-06-05T16:55:30Z",
+    "aiHeadline": "Gov.uk dumps Stripe for a Dutch provider, proving that sometimes you need to go abroad for better service."
   },
   {
-    "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
-    "url": "https://burntsushi.net/encephalitis/",
-    "points": 532,
-    "num_comments": 167,
+    "title": "Tracing a powerful GNSS interference source over Europe",
+    "url": "https://arxiv.org/abs/2606.03673",
+    "points": 368,
+    "num_comments": 200,
     "tags": [
       "story",
-      "author_Tomte",
-      "story_48384355",
+      "author_mimorigasaka",
+      "story_48409664",
       "front_page"
     ],
-    "author": "Tomte",
-    "created_at": "2026-06-03T14:10:06Z",
-    "aiHeadline": "One Man’s Journey with Anti-NMDA Receptor Encephalitis: Because Who Needs a Normal Brain Anyway?"
+    "author": "mimorigasaka",
+    "created_at": "2026-06-05T08:32:16Z",
+    "aiHeadline": "Scientists finally figure out how to trace powerful GNSS interference, because apparently 'magic' wasn't a valid explanation."
+  },
+  {
+    "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
+    "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+    "points": 366,
+    "num_comments": 240,
+    "tags": [
+      "story",
+      "author_janpot",
+      "story_48413464",
+      "front_page"
+    ],
+    "author": "janpot",
+    "created_at": "2026-06-05T15:00:31Z",
+    "aiHeadline": "Astronauts told to return to ISS after sheltering during repairs, proving that even in space, you can't escape a leaky apartment."
   }
 ]
