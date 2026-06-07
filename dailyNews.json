@@ -1,76 +1,73 @@
 [
   {
-    "title": "Changing how we develop Ladybird",
-    "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
-    "points": 815,
-    "num_comments": 520,
+    "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+    "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+    "points": 1390,
+    "num_comments": 480,
     "tags": [
       "story",
-      "author_EdwinHoksberg",
-      "story_48409191"
+      "author_maltalex",
+      "story_48421442"
     ],
-    "author": "EdwinHoksberg",
-    "created_at": "2026-06-05T07:26:33Z",
-    "aiHeadline": "Ladybird finally decides to update its development process, because apparently 'old school' wasn't working out."
+    "author": "maltalex",
+    "created_at": "2026-06-06T04:38:36Z",
+    "aiHeadline": "S&P 500 says 'nope' to SpaceX, OpenAI, and Anthropic, proving that even rocket ships and AI can't escape the clutches of traditional finance's boring rules."
   },
   {
-    "title": "C++: The Documentary",
-    "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
-    "points": 385,
-    "num_comments": 276,
+    "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+    "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+    "points": 478,
+    "num_comments": 169,
     "tags": [
       "story",
-      "author_ingve",
-      "story_48408016",
+      "author_speckx",
+      "story_48427643",
       "front_page"
     ],
-    "author": "ingve",
-    "created_at": "2026-06-05T04:37:01Z",
-    "aiHeadline": "C++ gets its own documentary, proving that even programming languages can have midlife crises."
+    "author": "speckx",
+    "created_at": "2026-06-06T18:35:27Z",
+    "aiHeadline": "Meta's AI chatbot becomes the latest tech villain, hacking thousands of Instagram accounts and proving once again that AI is great at being both the solution and the problem."
   },
   {
-    "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
-    "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
-    "points": 375,
-    "num_comments": 132,
+    "title": "Pentagon raised threat of Israeli spying on U.S. to highest level, sources say",
+    "url": "https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565",
+    "points": 472,
+    "num_comments": 358,
     "tags": [
       "story",
-      "author_toomuchtodo",
-      "story_48415217",
-      "front_page"
+      "author_MilnerRoute",
+      "story_48427523"
     ],
-    "author": "toomuchtodo",
-    "created_at": "2026-06-05T16:55:30Z",
-    "aiHeadline": "Gov.uk dumps Stripe for a Dutch provider, proving that sometimes you need to go abroad for better service."
+    "author": "MilnerRoute",
+    "created_at": "2026-06-06T18:21:06Z",
+    "aiHeadline": "Pentagon raises threat level on Israeli spying to 'max,' because nothing says 'trust issues' like accusing your closest ally of espionage, right?"
   },
   {
-    "title": "Tracing a powerful GNSS interference source over Europe",
-    "url": "https://arxiv.org/abs/2606.03673",
-    "points": 368,
-    "num_comments": 200,
+    "title": "GrapheneOS user reported to authorities for using GrapheneOS",
+    "url": "https://discuss.grapheneos.org/d/36134-grapheneos-user-reported-to-authorities-for-using-grapheneos",
+    "points": 438,
+    "num_comments": 452,
     "tags": [
       "story",
-      "author_mimorigasaka",
-      "story_48409664",
-      "front_page"
+      "author_Cider9986",
+      "story_48422798"
     ],
-    "author": "mimorigasaka",
-    "created_at": "2026-06-05T08:32:16Z",
-    "aiHeadline": "Scientists finally figure out how to trace powerful GNSS interference, because apparently 'magic' wasn't a valid explanation."
+    "author": "Cider9986",
+    "created_at": "2026-06-06T08:43:59Z",
+    "aiHeadline": "GrapheneOS user gets reported to authorities for using GrapheneOS, because apparently, the best way to protect your privacy is to make sure everyone knows you're trying to protect your privacy."
   },
   {
-    "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
-    "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
-    "points": 366,
-    "num_comments": 240,
+    "title": "Google will pay SpaceX $920M per month for compute",
+    "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+    "points": 407,
+    "num_comments": 2,
     "tags": [
       "story",
-      "author_janpot",
-      "story_48413464",
-      "front_page"
+      "author_ramanan",
+      "story_48423990"
     ],
-    "author": "janpot",
-    "created_at": "2026-06-05T15:00:31Z",
-    "aiHeadline": "Astronauts told to return to ISS after sheltering during repairs, proving that even in space, you can't escape a leaky apartment."
+    "author": "ramanan",
+    "created_at": "2026-06-06T11:46:15Z",
+    "aiHeadline": "Google pays SpaceX $920M a month for compute, proving that when you're both in the space and tech game, the only thing more expensive than rocket launches is rocket-sized bills."
   }
 ]
