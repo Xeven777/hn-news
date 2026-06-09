@@ -1,73 +1,77 @@
 [
   {
-    "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
-    "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
-    "points": 1390,
-    "num_comments": 480,
+    "title": "Show HN: Performative-UI – A react component library of design tropes",
+    "url": "https://vorpus.github.io/performativeUI/",
+    "points": 833,
+    "num_comments": 162,
     "tags": [
       "story",
-      "author_maltalex",
-      "story_48421442"
-    ],
-    "author": "maltalex",
-    "created_at": "2026-06-06T04:38:36Z",
-    "aiHeadline": "S&P 500 says 'nope' to SpaceX, OpenAI, and Anthropic, proving that even rocket ships and AI can't escape the clutches of traditional finance's boring rules."
-  },
-  {
-    "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
-    "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
-    "points": 478,
-    "num_comments": 169,
-    "tags": [
-      "story",
-      "author_speckx",
-      "story_48427643",
+      "author_lizhang",
+      "story_48445554",
+      "show_hn",
       "front_page"
     ],
-    "author": "speckx",
-    "created_at": "2026-06-06T18:35:27Z",
-    "aiHeadline": "Meta's AI chatbot becomes the latest tech villain, hacking thousands of Instagram accounts and proving once again that AI is great at being both the solution and the problem."
+    "author": "lizhang",
+    "created_at": "2026-06-08T14:05:16Z",
+    "aiHeadline": "React developers, rejoice! Performative-UI is here to make your design decisions look even more performative than ever before."
   },
   {
-    "title": "Pentagon raised threat of Israeli spying on U.S. to highest level, sources say",
-    "url": "https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565",
-    "points": 472,
-    "num_comments": 358,
+    "title": "Stop the Apple Music app from launching",
+    "url": "https://lowtechguys.com/musicdecoy/",
+    "points": 590,
+    "num_comments": 240,
     "tags": [
       "story",
-      "author_MilnerRoute",
-      "story_48427523"
+      "author_bobbiechen",
+      "story_48447935"
     ],
-    "author": "MilnerRoute",
-    "created_at": "2026-06-06T18:21:06Z",
-    "aiHeadline": "Pentagon raises threat level on Israeli spying to 'max,' because nothing says 'trust issues' like accusing your closest ally of espionage, right?"
+    "author": "bobbiechen",
+    "created_at": "2026-06-08T17:01:43Z",
+    "aiHeadline": "Because who doesn't want their Apple Music app to launch unsolicited? Now you can stop it from hijacking your device with this clever workaround."
   },
   {
-    "title": "GrapheneOS user reported to authorities for using GrapheneOS",
-    "url": "https://discuss.grapheneos.org/d/36134-grapheneos-user-reported-to-authorities-for-using-grapheneos",
-    "points": 438,
-    "num_comments": 452,
+    "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
+    "url": "https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social",
+    "points": 583,
+    "num_comments": 420,
     "tags": [
       "story",
-      "author_Cider9986",
-      "story_48422798"
+      "author_1vuio0pswjnm7",
+      "story_48444228",
+      "front_page"
     ],
-    "author": "Cider9986",
-    "created_at": "2026-06-06T08:43:59Z",
-    "aiHeadline": "GrapheneOS user gets reported to authorities for using GrapheneOS, because apparently, the best way to protect your privacy is to make sure everyone knows you're trying to protect your privacy."
+    "author": "1vuio0pswjnm7",
+    "created_at": "2026-06-08T11:58:02Z",
+    "aiHeadline": "Social media: where fads replace friendships, and your feed is just a endless scroll of 'look at me!' moments. Progress!"
   },
   {
-    "title": "Google will pay SpaceX $920M per month for compute",
-    "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
-    "points": 407,
-    "num_comments": 2,
+    "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
+    "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+    "points": 509,
+    "num_comments": 366,
     "tags": [
       "story",
-      "author_ramanan",
-      "story_48423990"
+      "author_gainsurier",
+      "story_48446639",
+      "front_page"
     ],
-    "author": "ramanan",
-    "created_at": "2026-06-06T11:46:15Z",
-    "aiHeadline": "Google pays SpaceX $920M a month for compute, proving that when you're both in the space and tech game, the only thing more expensive than rocket launches is rocket-sized bills."
+    "author": "gainsurier",
+    "created_at": "2026-06-08T15:27:33Z",
+    "aiHeadline": "Xiaomi's MiMo-v2.5-Pro-UltraSpeed: because 1T models and 1000 tokens per second are just the beginning of your AI-induced headaches."
+  },
+  {
+    "title": "Siri AI",
+    "url": "https://www.apple.com/apple-intelligence/",
+    "points": 460,
+    "num_comments": 403,
+    "tags": [
+      "story",
+      "author_0xedb",
+      "story_48449084",
+      "front_page"
+    ],
+    "author": "0xedb",
+    "created_at": "2026-06-08T18:17:53Z",
+    "aiHeadline": "Siri AI: because who needs a competent virtual assistant when you can have one that occasionally misunderstands 'play some music' as 'delete all my playlists'?"
   }
 ]
