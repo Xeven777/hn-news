@@ -1,77 +1,76 @@
 [
   {
-    "title": "Show HN: Performative-UI – A react component library of design tropes",
-    "url": "https://vorpus.github.io/performativeUI/",
-    "points": 833,
-    "num_comments": 162,
+    "title": "Claude Fable 5",
+    "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+    "points": 1897,
+    "num_comments": 1483,
     "tags": [
       "story",
-      "author_lizhang",
-      "story_48445554",
-      "show_hn",
+      "author_Philpax",
+      "story_48463808",
       "front_page"
     ],
-    "author": "lizhang",
-    "created_at": "2026-06-08T14:05:16Z",
-    "aiHeadline": "React developers, rejoice! Performative-UI is here to make your design decisions look even more performative than ever before."
+    "author": "Philpax",
+    "created_at": "2026-06-09T16:58:01Z",
+    "aiHeadline": "Claude Fable 5: Because 4 wasn't enough, now it's 5 times better!"
   },
   {
-    "title": "Stop the Apple Music app from launching",
-    "url": "https://lowtechguys.com/musicdecoy/",
-    "points": 590,
-    "num_comments": 240,
+    "title": "Making Graphics Like it's 1993",
+    "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
+    "points": 796,
+    "num_comments": 136,
     "tags": [
       "story",
-      "author_bobbiechen",
-      "story_48447935"
-    ],
-    "author": "bobbiechen",
-    "created_at": "2026-06-08T17:01:43Z",
-    "aiHeadline": "Because who doesn't want their Apple Music app to launch unsolicited? Now you can stop it from hijacking your device with this clever workaround."
-  },
-  {
-    "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
-    "url": "https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social",
-    "points": 583,
-    "num_comments": 420,
-    "tags": [
-      "story",
-      "author_1vuio0pswjnm7",
-      "story_48444228",
+      "author_sklopec",
+      "story_48459294",
       "front_page"
     ],
-    "author": "1vuio0pswjnm7",
-    "created_at": "2026-06-08T11:58:02Z",
-    "aiHeadline": "Social media: where fads replace friendships, and your feed is just a endless scroll of 'look at me!' moments. Progress!"
+    "author": "sklopec",
+    "created_at": "2026-06-09T10:46:14Z",
+    "aiHeadline": "Making Graphics Like it's 1993: Because modern graphics are just too easy, right?"
   },
   {
-    "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
-    "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
-    "points": 509,
-    "num_comments": 366,
+    "title": "If Claude Fable stops helping you, you'll never know",
+    "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
+    "points": 603,
+    "num_comments": 292,
     "tags": [
       "story",
-      "author_gainsurier",
-      "story_48446639",
+      "author_mips_avatar",
+      "story_48467896",
       "front_page"
     ],
-    "author": "gainsurier",
-    "created_at": "2026-06-08T15:27:33Z",
-    "aiHeadline": "Xiaomi's MiMo-v2.5-Pro-UltraSpeed: because 1T models and 1000 tokens per second are just the beginning of your AI-induced headaches."
+    "author": "mips_avatar",
+    "created_at": "2026-06-09T21:19:11Z",
+    "aiHeadline": "If Claude Fable Stops Helping You, You'll Never Know: Because AI has better things to do than help you."
   },
   {
-    "title": "Siri AI",
-    "url": "https://www.apple.com/apple-intelligence/",
-    "points": 460,
-    "num_comments": 403,
+    "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+    "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+    "points": 531,
+    "num_comments": 183,
     "tags": [
       "story",
-      "author_0xedb",
-      "story_48449084",
+      "author_raffael_de",
+      "story_48457830"
+    ],
+    "author": "raffael_de",
+    "created_at": "2026-06-09T07:33:16Z",
+    "aiHeadline": "Microsoft's Open Source Tools Were Hacked: Because open source is inherently insecure, apparently."
+  },
+  {
+    "title": "CEOs who think AI replaces their employees are just bad CEOs",
+    "url": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/",
+    "points": 494,
+    "num_comments": 205,
+    "tags": [
+      "story",
+      "author_speckx",
+      "story_48465675",
       "front_page"
     ],
-    "author": "0xedb",
-    "created_at": "2026-06-08T18:17:53Z",
-    "aiHeadline": "Siri AI: because who needs a competent virtual assistant when you can have one that occasionally misunderstands 'play some music' as 'delete all my playlists'?"
+    "author": "speckx",
+    "created_at": "2026-06-09T18:45:59Z",
+    "aiHeadline": "CEOs Who Think AI Replaces Their Employees Are Just Bad CEOs: Because they can't keep up with the future."
   }
 ]
