@@ -1,76 +1,75 @@
 [
   {
-    "title": "Claude Fable 5",
-    "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-    "points": 1897,
-    "num_comments": 1483,
+    "title": "Building an HTML-first site doubled our users overnight",
+    "url": "https://mohkohn.co.uk/writing/html-first/",
+    "points": 1026,
+    "num_comments": 473,
     "tags": [
       "story",
-      "author_Philpax",
-      "story_48463808",
+      "author_edent",
+      "story_48475483",
       "front_page"
     ],
-    "author": "Philpax",
-    "created_at": "2026-06-09T16:58:01Z",
-    "aiHeadline": "Claude Fable 5: Because 4 wasn't enough, now it's 5 times better!"
+    "author": "edent",
+    "created_at": "2026-06-10T12:45:47Z",
+    "aiHeadline": "Who needs fancy frameworks when a simple HTML page can make your user base explode overnight? Just ask edent, because apparently, going back to basics is the new black in web development."
   },
   {
-    "title": "Making Graphics Like it's 1993",
-    "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
-    "points": 796,
-    "num_comments": 136,
+    "title": "πFS",
+    "url": "https://github.com/philipl/pifs",
+    "points": 576,
+    "num_comments": 140,
     "tags": [
       "story",
-      "author_sklopec",
-      "story_48459294",
+      "author_helterskelter",
+      "story_48480978",
       "front_page"
     ],
-    "author": "sklopec",
-    "created_at": "2026-06-09T10:46:14Z",
-    "aiHeadline": "Making Graphics Like it's 1993: Because modern graphics are just too easy, right?"
+    "author": "helterskelter",
+    "created_at": "2026-06-10T18:54:54Z",
+    "aiHeadline": "Mathletes unite! Finally, a filesystem so slow, it'll make you question the meaning of life and your hard drive's purpose. Introducing πFS, because who doesn't want their data stored in an infinite loop of decimals?"
   },
   {
-    "title": "If Claude Fable stops helping you, you'll never know",
-    "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
-    "points": 603,
-    "num_comments": 292,
+    "title": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" – AMA",
+    "points": 566,
+    "num_comments": 438,
     "tags": [
       "story",
-      "author_mips_avatar",
-      "story_48467896",
+      "author_eries",
+      "story_48477135",
+      "ask_hn",
       "front_page"
     ],
-    "author": "mips_avatar",
-    "created_at": "2026-06-09T21:19:11Z",
-    "aiHeadline": "If Claude Fable Stops Helping You, You'll Never Know: Because AI has better things to do than help you."
+    "author": "eries",
+    "created_at": "2026-06-10T14:47:52Z",
+    "aiHeadline": "The Lean Startup guru is back with another book, and this time it's about being incorruptible—probably because everyone's too busy asking him how to make their startups fail faster. Spoiler: it involves a lot of pivoting and maybe some questionable life choices."
   },
   {
-    "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
-    "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
-    "points": 531,
-    "num_comments": 183,
+    "title": "Mercedes‑Benz starts large‑scale production of electric axial flux motor",
+    "url": "https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf",
+    "points": 517,
+    "num_comments": 327,
     "tags": [
       "story",
       "author_raffael_de",
-      "story_48457830"
+      "story_48472877"
     ],
     "author": "raffael_de",
-    "created_at": "2026-06-09T07:33:16Z",
-    "aiHeadline": "Microsoft's Open Source Tools Were Hacked: Because open source is inherently insecure, apparently."
+    "created_at": "2026-06-10T07:44:49Z",
+    "aiHeadline": "Mercedes-Benz is ditching combustion engines for electric motors, proving that even luxury cars can be environmentally unfriendly in a whole new way. Because what's more sustainable than a $100,000 electric car that still needs a charging station?"
   },
   {
-    "title": "CEOs who think AI replaces their employees are just bad CEOs",
-    "url": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/",
-    "points": 494,
-    "num_comments": 205,
+    "title": "Farmer donates land for a park, city sells it for $10M as data center land",
+    "url": "https://www.tomshardware.com/tech-industry/farmer-donates-land-for-a-park-city-sells-it-for-data-center-development-usd10-gift-became-usd10m-for-city-government-with-usd30m-tax-expected-over-next-decade",
+    "points": 447,
+    "num_comments": 3,
     "tags": [
       "story",
-      "author_speckx",
-      "story_48465675",
-      "front_page"
+      "author_maxloh",
+      "story_48481126"
     ],
-    "author": "speckx",
-    "created_at": "2026-06-09T18:45:59Z",
-    "aiHeadline": "CEOs Who Think AI Replaces Their Employees Are Just Bad CEOs: Because they can't keep up with the future."
+    "author": "maxloh",
+    "created_at": "2026-06-10T19:06:50Z",
+    "aiHeadline": "A farmer's generous gift of land for a park turned into a goldmine for the city, which promptly sold it to data centers—because who needs green spaces when you can have greenbacks and servers that need air conditioning? The future is bright, and it's powered by your tax dollars."
   }
 ]
