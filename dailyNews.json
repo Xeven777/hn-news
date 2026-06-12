@@ -1,75 +1,76 @@
 [
   {
-    "title": "Building an HTML-first site doubled our users overnight",
-    "url": "https://mohkohn.co.uk/writing/html-first/",
-    "points": 1026,
-    "num_comments": 473,
+    "title": "Show HN: Homebrew 6.0.0",
+    "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
+    "points": 1053,
+    "num_comments": 244,
     "tags": [
       "story",
-      "author_edent",
-      "story_48475483",
+      "author_mikemcquaid",
+      "story_48490024",
+      "show_hn",
       "front_page"
     ],
-    "author": "edent",
-    "created_at": "2026-06-10T12:45:47Z",
-    "aiHeadline": "Who needs fancy frameworks when a simple HTML page can make your user base explode overnight? Just ask edent, because apparently, going back to basics is the new black in web development."
+    "author": "mikemcquaid",
+    "created_at": "2026-06-11T13:24:29Z",
+    "aiHeadline": "Homebrew 6.0.0: Because 5.9.9 Just Wasn't Enough to Ruin Your Terminal Experience!"
   },
   {
-    "title": "πFS",
-    "url": "https://github.com/philipl/pifs",
-    "points": 576,
-    "num_comments": 140,
+    "title": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
+    "url": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
+    "points": 686,
+    "num_comments": 307,
     "tags": [
       "story",
-      "author_helterskelter",
-      "story_48480978",
+      "author_vrganj",
+      "story_48487029"
+    ],
+    "author": "vrganj",
+    "created_at": "2026-06-11T06:42:06Z",
+    "aiHeadline": "Pokémon Go: Now Training Drones to Spy on You While You Hunt for Pikachu!"
+  },
+  {
+    "title": "MiMo Code is now released and open-source",
+    "url": "https://mimo.xiaomi.com/mimocode",
+    "points": 444,
+    "num_comments": 253,
+    "tags": [
+      "story",
+      "author_apeters",
+      "story_48490826",
       "front_page"
     ],
-    "author": "helterskelter",
-    "created_at": "2026-06-10T18:54:54Z",
-    "aiHeadline": "Mathletes unite! Finally, a filesystem so slow, it'll make you question the meaning of life and your hard drive's purpose. Introducing πFS, because who doesn't want their data stored in an infinite loop of decimals?"
+    "author": "apeters",
+    "created_at": "2026-06-11T14:27:19Z",
+    "aiHeadline": "MiMo Code: Finally, Open Source So You Can Fix It Yourself Because No One Else Will!"
   },
   {
-    "title": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" – AMA",
-    "points": 566,
-    "num_comments": 438,
+    "title": "Solar generates more energy in US than coal for first time",
+    "url": "https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal",
+    "points": 428,
+    "num_comments": 204,
     "tags": [
       "story",
-      "author_eries",
-      "story_48477135",
-      "ask_hn",
+      "author_neilfrndes",
+      "story_48492306"
+    ],
+    "author": "neilfrndes",
+    "created_at": "2026-06-11T16:10:05Z",
+    "aiHeadline": "Solar Energy Surpasses Coal in the US: Because Who Needs Reliable Power When You Can Have Sunburns?"
+  },
+  {
+    "title": "Petition to Withdraw Canada's Bill C-22",
+    "url": "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416",
+    "points": 388,
+    "num_comments": 135,
+    "tags": [
+      "story",
+      "author_hmokiguess",
+      "story_48491830",
       "front_page"
     ],
-    "author": "eries",
-    "created_at": "2026-06-10T14:47:52Z",
-    "aiHeadline": "The Lean Startup guru is back with another book, and this time it's about being incorruptible—probably because everyone's too busy asking him how to make their startups fail faster. Spoiler: it involves a lot of pivoting and maybe some questionable life choices."
-  },
-  {
-    "title": "Mercedes‑Benz starts large‑scale production of electric axial flux motor",
-    "url": "https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf",
-    "points": 517,
-    "num_comments": 327,
-    "tags": [
-      "story",
-      "author_raffael_de",
-      "story_48472877"
-    ],
-    "author": "raffael_de",
-    "created_at": "2026-06-10T07:44:49Z",
-    "aiHeadline": "Mercedes-Benz is ditching combustion engines for electric motors, proving that even luxury cars can be environmentally unfriendly in a whole new way. Because what's more sustainable than a $100,000 electric car that still needs a charging station?"
-  },
-  {
-    "title": "Farmer donates land for a park, city sells it for $10M as data center land",
-    "url": "https://www.tomshardware.com/tech-industry/farmer-donates-land-for-a-park-city-sells-it-for-data-center-development-usd10-gift-became-usd10m-for-city-government-with-usd30m-tax-expected-over-next-decade",
-    "points": 447,
-    "num_comments": 3,
-    "tags": [
-      "story",
-      "author_maxloh",
-      "story_48481126"
-    ],
-    "author": "maxloh",
-    "created_at": "2026-06-10T19:06:50Z",
-    "aiHeadline": "A farmer's generous gift of land for a park turned into a goldmine for the city, which promptly sold it to data centers—because who needs green spaces when you can have greenbacks and servers that need air conditioning? The future is bright, and it's powered by your tax dollars."
+    "author": "hmokiguess",
+    "created_at": "2026-06-11T15:37:23Z",
+    "aiHeadline": "Canada's Bill C-22: So Controversial, Even the Government Wants to Take It Back!"
   }
 ]
