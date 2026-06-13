@@ -1,76 +1,75 @@
 [
   {
-    "title": "Show HN: Homebrew 6.0.0",
-    "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
-    "points": 1053,
-    "num_comments": 244,
+    "title": "AI agent bankrupted their operator while trying to scan DN42",
+    "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+    "points": 1398,
+    "num_comments": 508,
     "tags": [
       "story",
-      "author_mikemcquaid",
-      "story_48490024",
-      "show_hn",
+      "author_xiaoyu2006",
+      "story_48500012"
+    ],
+    "author": "xiaoyu2006",
+    "created_at": "2026-06-12T04:42:53Z",
+    "aiHeadline": "AI Agent Goes Full Broke Mode: In a Hilarious Turn of Events, an AI Agent Bankrupts Its Operator While Attempting to Scan DN42, Proving Once Again That AI Needs Better Budgeting Skills."
+  },
+  {
+    "title": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
+    "url": "https://www.anthropic.com/news/fable-mythos-access",
+    "points": 1321,
+    "num_comments": 874,
+    "tags": [
+      "story",
+      "author_Dylan1312",
+      "story_48511072",
       "front_page"
     ],
-    "author": "mikemcquaid",
-    "created_at": "2026-06-11T13:24:29Z",
-    "aiHeadline": "Homebrew 6.0.0: Because 5.9.9 Just Wasn't Enough to Ruin Your Terminal Experience!"
+    "author": "Dylan1312",
+    "created_at": "2026-06-13T00:51:30Z",
+    "aiHeadline": "In a Move That No One Saw Coming: The US Government Steps In to Suspend Access to Fable 5 and Mythos 5, Leaving Anthropic to Wonder If They're the Only Ones Who Didn't See This Coming."
   },
   {
-    "title": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
-    "url": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
-    "points": 686,
-    "num_comments": 307,
+    "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
+    "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
+    "points": 738,
+    "num_comments": 184,
     "tags": [
       "story",
-      "author_vrganj",
-      "story_48487029"
-    ],
-    "author": "vrganj",
-    "created_at": "2026-06-11T06:42:06Z",
-    "aiHeadline": "Pokémon Go: Now Training Drones to Spy on You While You Hunt for Pikachu!"
-  },
-  {
-    "title": "MiMo Code is now released and open-source",
-    "url": "https://mimo.xiaomi.com/mimocode",
-    "points": 444,
-    "num_comments": 253,
-    "tags": [
-      "story",
-      "author_apeters",
-      "story_48490826",
+      "author_gmays",
+      "story_48505231",
       "front_page"
     ],
-    "author": "apeters",
-    "created_at": "2026-06-11T14:27:19Z",
-    "aiHeadline": "MiMo Code: Finally, Open Source So You Can Fix It Yourself Because No One Else Will!"
+    "author": "gmays",
+    "created_at": "2026-06-12T15:15:24Z",
+    "aiHeadline": "Scientists Unleash the CRISPR Avengers: In a Breakthrough That Even Cancer Might Find Hilarious, CRISPR Tech Now Selectively Shreds Cancer Cells, Including Those 'Undruggable' Ones That Always Thought They Were Untouchable."
   },
   {
-    "title": "Solar generates more energy in US than coal for first time",
-    "url": "https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal",
-    "points": 428,
-    "num_comments": 204,
+    "title": "Kimi K2.7-Code: open-source coding model with better token efficiency",
+    "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+    "points": 409,
+    "num_comments": 218,
     "tags": [
       "story",
-      "author_neilfrndes",
-      "story_48492306"
+      "author_nekofneko",
+      "story_48502347"
     ],
-    "author": "neilfrndes",
-    "created_at": "2026-06-11T16:10:05Z",
-    "aiHeadline": "Solar Energy Surpasses Coal in the US: Because Who Needs Reliable Power When You Can Have Sunburns?"
+    "author": "nekofneko",
+    "created_at": "2026-06-12T10:42:50Z",
+    "aiHeadline": "Finally, an AI That Doesn't Act Like a Gas Guzzler: Kimi K2.7-Code Hits the Scene as an Open-Source Coding Model with Better Token Efficiency, Making Us All Wonder Why It Took So Long to Get This Right."
   },
   {
-    "title": "Petition to Withdraw Canada's Bill C-22",
-    "url": "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416",
-    "points": 388,
-    "num_comments": 135,
+    "title": "\"Don't You Just Upload It to ChatGPT?\"",
+    "url": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/",
+    "points": 351,
+    "num_comments": 282,
     "tags": [
       "story",
-      "author_hmokiguess",
-      "story_48491830",
+      "author_speckx",
+      "story_48507278",
       "front_page"
     ],
-    "author": "hmokiguess",
-    "created_at": "2026-06-11T15:37:23Z",
-    "aiHeadline": "Canada's Bill C-22: So Controversial, Even the Government Wants to Take It Back!"
+    "author": "speckx",
+    "created_at": "2026-06-12T17:52:46Z",
+    "aiHeadline": "Because Apparently, Everything Can Be Solved by ChatGPT: The Article That Answers the Question We've All Been Dying to Ask, 'Don't You Just Upload It to ChatGPT?' Spoiler: The Answer Might Be More Complicated Than You Think."
   }
 ]
