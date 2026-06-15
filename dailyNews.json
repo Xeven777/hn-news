@@ -1,75 +1,77 @@
 [
   {
-    "title": "Noise infusion banned from statistical products published by Census Bureau",
-    "url": "https://desfontain.es/blog/banning-noise.html",
-    "points": 771,
-    "num_comments": 482,
+    "title": "How to earn a billion dollars",
+    "url": "https://paulgraham.com/earn.html",
+    "points": 511,
+    "num_comments": 1503,
     "tags": [
       "story",
-      "author_nl",
-      "story_48517377",
+      "author_kingstoned",
+      "story_48526360",
       "front_page"
     ],
-    "author": "nl",
-    "created_at": "2026-06-13T13:54:56Z",
-    "aiHeadline": "The Census Bureau has decided that adding noise to their statistical products is now a crime, because apparently, data needs to be as boring as possible."
+    "author": "kingstoned",
+    "created_at": "2026-06-14T11:50:48Z",
+    "aiHeadline": "How to Earn a Billion Dollars: Because Who Doesn't Want to Be a Billionaire? (Spoiler: Most of Us Don't Need It.)"
   },
   {
-    "title": "Every Frame Perfect",
-    "url": "https://tonsky.me/blog/every-frame-perfect/",
-    "points": 620,
-    "num_comments": 203,
+    "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
+    "url": "https://github.com/tamnd/kage",
+    "points": 460,
+    "num_comments": 99,
     "tags": [
       "story",
-      "author_ravenical",
-      "story_48516251",
+      "author_tamnd",
+      "story_48529990",
+      "show_hn",
       "front_page"
     ],
-    "author": "ravenical",
-    "created_at": "2026-06-13T11:40:20Z",
-    "aiHeadline": "A blog post about achieving pixel-perfect animations in every frame, because nothing says 'fun' like obsessive attention to detail in your screen time."
+    "author": "tamnd",
+    "created_at": "2026-06-14T17:25:38Z",
+    "aiHeadline": "Kage: Now You Can Turn Any Website into a Single Binary File—Because Who Doesn't Want to Save the Internet as an Executable?"
   },
   {
-    "title": "Israeli firm BlackCore suspected of meddling in New York and Scotland votes",
-    "url": "https://www.reuters.com/world/israeli-firm-blackcore-also-suspected-meddling-nyc-scotland-votes-french-2026-06-11/",
-    "points": 600,
-    "num_comments": 345,
+    "title": "Not everyone is using AI for everything",
+    "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
+    "points": 442,
+    "num_comments": 480,
     "tags": [
       "story",
-      "author_pera",
-      "story_48514560"
+      "author_yegg",
+      "story_48527700"
     ],
-    "author": "pera",
-    "created_at": "2026-06-13T07:45:39Z",
-    "aiHeadline": "BlackCore, the Israeli firm that's basically the tech world's version of a political consultant, is now accused of meddling in elections in New York and Scotland. Because what's more fun than international vote-tampering?"
+    "author": "yegg",
+    "created_at": "2026-06-14T14:44:29Z",
+    "aiHeadline": "Not Everyone Is Using AI for Everything: Because Some People Prefer Not to Live in a Sci-Fi Movie."
   },
   {
-    "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
-    "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
-    "points": 599,
-    "num_comments": 441,
+    "title": "Your ePub Is fine",
+    "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
+    "points": 316,
+    "num_comments": 137,
     "tags": [
       "story",
-      "author_ls612",
-      "story_48519092",
+      "author_sohkamyung",
+      "story_48533848",
       "front_page"
     ],
-    "author": "ls612",
-    "created_at": "2026-06-13T16:57:49Z",
-    "aiHeadline": "Amazon CEO's talks with U.S. officials led to a crackdown on Anthropic models, proving once again that Jeff Bezos can ruin your day from the comfort of his office chair."
+    "author": "sohkamyung",
+    "created_at": "2026-06-14T22:54:55Z",
+    "aiHeadline": "Your ePub Is Fine: Because It's Adobe's Fault, Obviously."
   },
   {
-    "title": "Leaving Mozilla",
-    "url": "https://blog.unitedheroes.net/5751",
-    "points": 470,
-    "num_comments": 286,
+    "title": "I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models",
+    "points": 313,
+    "num_comments": 77,
     "tags": [
       "story",
-      "author_martey",
-      "story_48513806"
+      "author_iliashad",
+      "story_48528029",
+      "ask_hn",
+      "front_page"
     ],
-    "author": "martey",
-    "created_at": "2026-06-13T05:57:14Z",
-    "aiHeadline": "A Mozilla employee is leaving the company, sparking speculation about whether they're finally getting a life or just moving on from the never-ending quest for the perfect open-source browser."
+    "author": "iliashad",
+    "created_at": "2026-06-14T15:13:57Z",
+    "aiHeadline": "I Indexed 669 GB of My GoPro Videos: Because Who Needs Sleep When You Can Use an M1 Max to Organize Your Vacation Highlights?"
   }
 ]
