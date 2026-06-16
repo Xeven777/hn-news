@@ -1,77 +1,75 @@
 [
   {
-    "title": "How to earn a billion dollars",
-    "url": "https://paulgraham.com/earn.html",
-    "points": 511,
-    "num_comments": 1503,
+    "title": "Iroh 1.0",
+    "url": "https://www.iroh.computer/blog/v1",
+    "points": 1029,
+    "num_comments": 299,
     "tags": [
       "story",
-      "author_kingstoned",
-      "story_48526360",
+      "author_chadfowler",
+      "story_48542480",
       "front_page"
     ],
-    "author": "kingstoned",
-    "created_at": "2026-06-14T11:50:48Z",
-    "aiHeadline": "How to Earn a Billion Dollars: Because Who Doesn't Want to Be a Billionaire? (Spoiler: Most of Us Don't Need It.)"
+    "author": "chadfowler",
+    "created_at": "2026-06-15T15:13:06Z",
+    "aiHeadline": "The most overhyped software update ever: Iroh 1.0 is here, and it's... slightly better?"
   },
   {
-    "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
-    "url": "https://github.com/tamnd/kage",
-    "points": 460,
-    "num_comments": 99,
+    "title": "A backdoor in a LinkedIn job offer",
+    "url": "https://roman.pt/posts/linkedin-backdoor/",
+    "points": 858,
+    "num_comments": 169,
     "tags": [
       "story",
-      "author_tamnd",
-      "story_48529990",
-      "show_hn",
+      "author_lwhsiao",
+      "story_48546294",
       "front_page"
     ],
-    "author": "tamnd",
-    "created_at": "2026-06-14T17:25:38Z",
-    "aiHeadline": "Kage: Now You Can Turn Any Website into a Single Binary File—Because Who Doesn't Want to Save the Internet as an Executable?"
+    "author": "lwhsiao",
+    "created_at": "2026-06-15T20:00:57Z",
+    "aiHeadline": "LinkedIn sneaks in a backdoor, because who doesn't want a hidden perk with their job offer?"
   },
   {
-    "title": "Not everyone is using AI for everything",
-    "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
-    "points": 442,
-    "num_comments": 480,
+    "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
+    "points": 781,
+    "num_comments": 373,
     "tags": [
       "story",
-      "author_yegg",
-      "story_48527700"
-    ],
-    "author": "yegg",
-    "created_at": "2026-06-14T14:44:29Z",
-    "aiHeadline": "Not Everyone Is Using AI for Everything: Because Some People Prefer Not to Live in a Sci-Fi Movie."
-  },
-  {
-    "title": "Your ePub Is fine",
-    "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
-    "points": 316,
-    "num_comments": 137,
-    "tags": [
-      "story",
-      "author_sohkamyung",
-      "story_48533848",
-      "front_page"
-    ],
-    "author": "sohkamyung",
-    "created_at": "2026-06-14T22:54:55Z",
-    "aiHeadline": "Your ePub Is Fine: Because It's Adobe's Fault, Obviously."
-  },
-  {
-    "title": "I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models",
-    "points": 313,
-    "num_comments": 77,
-    "tags": [
-      "story",
-      "author_iliashad",
-      "story_48528029",
+      "author_cloudking",
+      "story_48542100",
       "ask_hn",
       "front_page"
     ],
-    "author": "iliashad",
-    "created_at": "2026-06-14T15:13:57Z",
-    "aiHeadline": "I Indexed 669 GB of My GoPro Videos: Because Who Needs Sleep When You Can Use an M1 Max to Organize Your Vacation Highlights?"
+    "author": "cloudking",
+    "created_at": "2026-06-15T14:46:53Z",
+    "aiHeadline": "Ask HN: Has anyone replaced Claude/GPT with a local model? Because apparently, the AI winter is here, and we're all DIY-ing it now."
+  },
+  {
+    "title": "Curl will not accept vulnerability reports during July 2026",
+    "url": "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/",
+    "points": 754,
+    "num_comments": 303,
+    "tags": [
+      "story",
+      "author_secret-noun",
+      "story_48537165"
+    ],
+    "author": "secret-noun",
+    "created_at": "2026-06-15T06:02:57Z",
+    "aiHeadline": "Curl takes a vacation: No vulnerability reports during July 2026, because who needs security when you can have a summer of bliss?"
+  },
+  {
+    "title": "What happened to nerds?",
+    "url": "https://mrmarket.lol/what-the-fuck-happened-to-nerds/",
+    "points": 713,
+    "num_comments": 478,
+    "tags": [
+      "story",
+      "author_vrnvu",
+      "story_48538229"
+    ],
+    "author": "vrnvu",
+    "created_at": "2026-06-15T08:23:52Z",
+    "aiHeadline": "What happened to nerds? They're now just hipsters with laptops, apparently. Progress, am I right?"
   }
 ]
