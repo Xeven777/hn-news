@@ -1,75 +1,76 @@
 [
   {
-    "title": "Iroh 1.0",
-    "url": "https://www.iroh.computer/blog/v1",
-    "points": 1029,
-    "num_comments": 299,
+    "title": "Running local models is good now",
+    "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+    "points": 1107,
+    "num_comments": 450,
     "tags": [
       "story",
-      "author_chadfowler",
-      "story_48542480",
+      "author_jfb",
+      "story_48555993",
       "front_page"
     ],
-    "author": "chadfowler",
-    "created_at": "2026-06-15T15:13:06Z",
-    "aiHeadline": "The most overhyped software update ever: Iroh 1.0 is here, and it's... slightly better?"
+    "author": "jfb",
+    "created_at": "2026-06-16T14:36:57Z",
+    "aiHeadline": "Running local models is finally good, after years of being slow, buggy, and making your computer cry. Progress, right?"
   },
   {
-    "title": "A backdoor in a LinkedIn job offer",
-    "url": "https://roman.pt/posts/linkedin-backdoor/",
-    "points": 858,
-    "num_comments": 169,
+    "title": "SpaceX to buy Cursor for $60B",
+    "url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
+    "points": 942,
+    "num_comments": 1422,
     "tags": [
       "story",
-      "author_lwhsiao",
-      "story_48546294",
+      "author_itsmarcelg",
+      "story_48553224",
       "front_page"
     ],
-    "author": "lwhsiao",
-    "created_at": "2026-06-15T20:00:57Z",
-    "aiHeadline": "LinkedIn sneaks in a backdoor, because who doesn't want a hidden perk with their job offer?"
+    "author": "itsmarcelg",
+    "created_at": "2026-06-16T10:44:24Z",
+    "aiHeadline": "SpaceX to buy Cursor for $60B, because apparently, Elon Musk's midlife crisis just got a whole lot more expensive. What's next? A $100B paperweight?"
   },
   {
-    "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
-    "points": 781,
-    "num_comments": 373,
+    "title": "I admire Fabrice Bellard. He is almost certainly a better overall programmer",
+    "url": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
+    "points": 870,
+    "num_comments": 426,
     "tags": [
       "story",
-      "author_cloudking",
-      "story_48542100",
-      "ask_hn",
+      "author_apitman",
+      "story_48550779"
+    ],
+    "author": "apitman",
+    "created_at": "2026-06-16T04:58:15Z",
+    "aiHeadline": "I admire Fabrice Bellard. He is almost certainly a better overall programmer than you, so maybe you should just give up and become a barista. Or a cat."
+  },
+  {
+    "title": "Mechanical Watch (2022)",
+    "url": "https://ciechanow.ski/mechanical-watch/",
+    "points": 648,
+    "num_comments": 115,
+    "tags": [
+      "story",
+      "author_razin",
+      "story_48553550",
       "front_page"
     ],
-    "author": "cloudking",
-    "created_at": "2026-06-15T14:46:53Z",
-    "aiHeadline": "Ask HN: Has anyone replaced Claude/GPT with a local model? Because apparently, the AI winter is here, and we're all DIY-ing it now."
+    "author": "razin",
+    "created_at": "2026-06-16T11:26:27Z",
+    "aiHeadline": "Mechanical Watch (2022): Because nothing says 'I'm a Luddite' like a watch that doesn't even have a smart feature. But hey, at least it won't distract you with TikTok!"
   },
   {
-    "title": "Curl will not accept vulnerability reports during July 2026",
-    "url": "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/",
-    "points": 754,
-    "num_comments": 303,
+    "title": "Apple's weird anti-nausea dots cured my car sickness",
+    "url": "https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work",
+    "points": 632,
+    "num_comments": 200,
     "tags": [
       "story",
-      "author_secret-noun",
-      "story_48537165"
+      "author_neilfrndes",
+      "story_48557530",
+      "front_page"
     ],
-    "author": "secret-noun",
-    "created_at": "2026-06-15T06:02:57Z",
-    "aiHeadline": "Curl takes a vacation: No vulnerability reports during July 2026, because who needs security when you can have a summer of bliss?"
-  },
-  {
-    "title": "What happened to nerds?",
-    "url": "https://mrmarket.lol/what-the-fuck-happened-to-nerds/",
-    "points": 713,
-    "num_comments": 478,
-    "tags": [
-      "story",
-      "author_vrnvu",
-      "story_48538229"
-    ],
-    "author": "vrnvu",
-    "created_at": "2026-06-15T08:23:52Z",
-    "aiHeadline": "What happened to nerds? They're now just hipsters with laptops, apparently. Progress, am I right?"
+    "author": "neilfrndes",
+    "created_at": "2026-06-16T16:12:06Z",
+    "aiHeadline": "Apple's weird anti-nausea dots cured my car sickness, proving once again that even the most ridiculous tech can actually work. Now, can they fix my existential dread?"
   }
 ]
