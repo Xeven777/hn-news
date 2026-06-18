@@ -1,76 +1,75 @@
 [
   {
-    "title": "Running local models is good now",
-    "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
-    "points": 1107,
-    "num_comments": 450,
+    "title": "Lore – Open source version control system designed for scalability",
+    "url": "https://lore.org/",
+    "points": 1039,
+    "num_comments": 554,
     "tags": [
       "story",
-      "author_jfb",
-      "story_48555993",
+      "author_regnerba",
+      "story_48571081",
       "front_page"
     ],
-    "author": "jfb",
-    "created_at": "2026-06-16T14:36:57Z",
-    "aiHeadline": "Running local models is finally good, after years of being slow, buggy, and making your computer cry. Progress, right?"
+    "author": "regnerba",
+    "created_at": "2026-06-17T14:30:27Z",
+    "aiHeadline": "Lore: The open-source version control system that promises to solve all your scalability issues, but let's be honest, who even knows what scalability means anymore?"
   },
   {
-    "title": "SpaceX to buy Cursor for $60B",
-    "url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
-    "points": 942,
-    "num_comments": 1422,
+    "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
+    "url": "https://wpvip.com/future-of-the-web-2026/",
+    "points": 1019,
+    "num_comments": 534,
     "tags": [
       "story",
-      "author_itsmarcelg",
-      "story_48553224",
+      "author_thm",
+      "story_48569278"
+    ],
+    "author": "thm",
+    "created_at": "2026-06-17T12:11:27Z",
+    "aiHeadline": "AI in brand messaging? Yeah, that's about as appealing as a pop-up ad in 2026. 60% of consumers are saying 'no thanks' to the robot takeover in their inbox."
+  },
+  {
+    "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
+    "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
+    "points": 818,
+    "num_comments": 391,
+    "tags": [
+      "story",
+      "author_himata4113",
+      "story_48567759",
       "front_page"
     ],
-    "author": "itsmarcelg",
-    "created_at": "2026-06-16T10:44:24Z",
-    "aiHeadline": "SpaceX to buy Cursor for $60B, because apparently, Elon Musk's midlife crisis just got a whole lot more expensive. What's next? A $100B paperweight?"
+    "author": "himata4113",
+    "created_at": "2026-06-17T09:12:00Z",
+    "aiHeadline": "GLM-5.2: Because 5.1 wasn't good enough, now we have 5.2, the latest and greatest in open weights models. Because clearly, the world needs another model to solve problems it didn't even know it had."
   },
   {
-    "title": "I admire Fabrice Bellard. He is almost certainly a better overall programmer",
-    "url": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
-    "points": 870,
-    "num_comments": 426,
+    "title": "U.S. science is in chaos",
+    "url": "https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/",
+    "points": 742,
+    "num_comments": 895,
     "tags": [
       "story",
-      "author_apitman",
-      "story_48550779"
-    ],
-    "author": "apitman",
-    "created_at": "2026-06-16T04:58:15Z",
-    "aiHeadline": "I admire Fabrice Bellard. He is almost certainly a better overall programmer than you, so maybe you should just give up and become a barista. Or a cat."
-  },
-  {
-    "title": "Mechanical Watch (2022)",
-    "url": "https://ciechanow.ski/mechanical-watch/",
-    "points": 648,
-    "num_comments": 115,
-    "tags": [
-      "story",
-      "author_razin",
-      "story_48553550",
+      "author_presspot",
+      "story_48568058",
       "front_page"
     ],
-    "author": "razin",
-    "created_at": "2026-06-16T11:26:27Z",
-    "aiHeadline": "Mechanical Watch (2022): Because nothing says 'I'm a Luddite' like a watch that doesn't even have a smart feature. But hey, at least it won't distract you with TikTok!"
+    "author": "presspot",
+    "created_at": "2026-06-17T09:54:21Z",
+    "aiHeadline": "U.S. science is in chaos, and honestly, who can blame them? When politics and research collide, it's like a game of Jenga with the future of humanity."
   },
   {
-    "title": "Apple's weird anti-nausea dots cured my car sickness",
-    "url": "https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work",
-    "points": 632,
-    "num_comments": 200,
+    "title": "Want your images back? That'll be $5",
+    "url": "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars",
+    "points": 618,
+    "num_comments": 256,
     "tags": [
       "story",
-      "author_neilfrndes",
-      "story_48557530",
-      "front_page"
+      "author_lutr",
+      "story_48569954"
     ],
-    "author": "neilfrndes",
-    "created_at": "2026-06-16T16:12:06Z",
-    "aiHeadline": "Apple's weird anti-nausea dots cured my car sickness, proving once again that even the most ridiculous tech can actually work. Now, can they fix my existential dread?"
+    "author": "lutr",
+    "created_at": "2026-06-17T13:05:03Z",
+    "aiHeadline": "Want your images back? That'll be $5. Because your data is worth more than a cup of coffee, but apparently, not much more."
   }
 ]
