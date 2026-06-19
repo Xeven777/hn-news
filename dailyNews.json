@@ -1,75 +1,74 @@
 [
   {
-    "title": "Lore – Open source version control system designed for scalability",
-    "url": "https://lore.org/",
-    "points": 1039,
-    "num_comments": 554,
+    "title": "Swiss parliament lifts ban on new nuclear power plants",
+    "url": "https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html",
+    "points": 729,
+    "num_comments": 609,
     "tags": [
       "story",
-      "author_regnerba",
-      "story_48571081",
+      "author_leonidasrup",
+      "story_48585746",
       "front_page"
     ],
-    "author": "regnerba",
-    "created_at": "2026-06-17T14:30:27Z",
-    "aiHeadline": "Lore: The open-source version control system that promises to solve all your scalability issues, but let's be honest, who even knows what scalability means anymore?"
+    "author": "leonidasrup",
+    "created_at": "2026-06-18T14:17:07Z",
+    "aiHeadline": "Swiss parliament decides to lift ban on new nuclear power plants because clearly, they've exhausted all other options for catastrophic decisions."
   },
   {
-    "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
-    "url": "https://wpvip.com/future-of-the-web-2026/",
-    "points": 1019,
-    "num_comments": 534,
+    "title": "I found 10k GitHub repositories distributing Trojan malware",
+    "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
+    "points": 717,
+    "num_comments": 161,
     "tags": [
       "story",
-      "author_thm",
-      "story_48569278"
-    ],
-    "author": "thm",
-    "created_at": "2026-06-17T12:11:27Z",
-    "aiHeadline": "AI in brand messaging? Yeah, that's about as appealing as a pop-up ad in 2026. 60% of consumers are saying 'no thanks' to the robot takeover in their inbox."
-  },
-  {
-    "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
-    "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
-    "points": 818,
-    "num_comments": 391,
-    "tags": [
-      "story",
-      "author_himata4113",
-      "story_48567759",
+      "author_theorchid",
+      "story_48583928",
       "front_page"
     ],
-    "author": "himata4113",
-    "created_at": "2026-06-17T09:12:00Z",
-    "aiHeadline": "GLM-5.2: Because 5.1 wasn't good enough, now we have 5.2, the latest and greatest in open weights models. Because clearly, the world needs another model to solve problems it didn't even know it had."
+    "author": "theorchid",
+    "created_at": "2026-06-18T11:45:43Z",
+    "aiHeadline": "10,000 GitHub repositories are distributing Trojan malware, proving that the internet is still the wild west, but with code instead of six-shooters."
   },
   {
-    "title": "U.S. science is in chaos",
-    "url": "https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/",
-    "points": 742,
-    "num_comments": 895,
+    "title": "Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly",
+    "url": "https://www.windowslatest.com/2026/06/15/microsofts-new-outlook-takes-10-seconds-to-do-what-outlook-classic-does-instantly-on-windows/",
+    "points": 634,
+    "num_comments": 417,
     "tags": [
       "story",
-      "author_presspot",
-      "story_48568058",
-      "front_page"
+      "author_Adam-Hincu",
+      "story_48584207"
     ],
-    "author": "presspot",
-    "created_at": "2026-06-17T09:54:21Z",
-    "aiHeadline": "U.S. science is in chaos, and honestly, who can blame them? When politics and research collide, it's like a game of Jenga with the future of humanity."
+    "author": "Adam-Hincu",
+    "created_at": "2026-06-18T12:19:05Z",
+    "aiHeadline": "Microsoft's new Outlook takes 10 seconds to do what Outlook Classic did instantly, because who doesn't love waiting for their email to load like it's 1998."
   },
   {
-    "title": "Want your images back? That'll be $5",
-    "url": "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars",
-    "points": 618,
-    "num_comments": 256,
+    "title": "DeepSeek Introduces Vision",
+    "url": "https://chat.deepseek.com/",
+    "points": 459,
+    "num_comments": 188,
     "tags": [
       "story",
-      "author_lutr",
-      "story_48569954"
+      "author_RIshabh235",
+      "story_48581458"
     ],
-    "author": "lutr",
-    "created_at": "2026-06-17T13:05:03Z",
-    "aiHeadline": "Want your images back? That'll be $5. Because your data is worth more than a cup of coffee, but apparently, not much more."
+    "author": "RIshabh235",
+    "created_at": "2026-06-18T06:17:40Z",
+    "aiHeadline": "DeepSeek introduces Vision, the latest in AI that will undoubtedly solve all your problems except the ones it creates."
+  },
+  {
+    "title": "Emacs 31 is around the corner: The changes I'm daily driving",
+    "url": "https://www.rahuljuliato.com/posts/emacs-31-around-the-corner",
+    "points": 427,
+    "num_comments": 237,
+    "tags": [
+      "story",
+      "author_frou_dh",
+      "story_48584135"
+    ],
+    "author": "frou_dh",
+    "created_at": "2026-06-18T12:10:53Z",
+    "aiHeadline": "Emacs 31 is almost here, bringing you the latest in text editing with all the features you didn't know you needed, but now you can't live without."
   }
 ]
