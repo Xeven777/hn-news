@@ -1,74 +1,73 @@
 [
   {
-    "title": "Swiss parliament lifts ban on new nuclear power plants",
-    "url": "https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html",
-    "points": 729,
-    "num_comments": 609,
+    "title": "CSSQuake",
+    "url": "https://cssquake.com/",
+    "points": 482,
+    "num_comments": 102,
     "tags": [
       "story",
-      "author_leonidasrup",
-      "story_48585746",
+      "author_msalsas",
+      "story_48608223"
+    ],
+    "author": "msalsas",
+    "created_at": "2026-06-20T10:49:53Z",
+    "aiHeadline": "CSSQuake: When Your Website's Earthquake Is Actually a Bug in Your Code"
+  },
+  {
+    "title": "The Wholesale Plagiarism of Obscure Sorrows",
+    "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
+    "points": 343,
+    "num_comments": 141,
+    "tags": [
+      "story",
+      "author_ridesisapis",
+      "story_48611411",
       "front_page"
     ],
-    "author": "leonidasrup",
-    "created_at": "2026-06-18T14:17:07Z",
-    "aiHeadline": "Swiss parliament decides to lift ban on new nuclear power plants because clearly, they've exhausted all other options for catastrophic decisions."
+    "author": "ridesisapis",
+    "created_at": "2026-06-20T18:05:31Z",
+    "aiHeadline": "The Wholesale Plagiarism of Obscure Sorrows: Because Even Sadness Needs Credit"
   },
   {
-    "title": "I found 10k GitHub repositories distributing Trojan malware",
-    "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
-    "points": 717,
-    "num_comments": 161,
+    "title": "I Stored a Website in a Favicon",
+    "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
+    "points": 295,
+    "num_comments": 100,
     "tags": [
       "story",
-      "author_theorchid",
-      "story_48583928",
-      "front_page"
+      "author_theanonymousone",
+      "story_48606619"
     ],
-    "author": "theorchid",
-    "created_at": "2026-06-18T11:45:43Z",
-    "aiHeadline": "10,000 GitHub repositories are distributing Trojan malware, proving that the internet is still the wild west, but with code instead of six-shooters."
+    "author": "theanonymousone",
+    "created_at": "2026-06-20T05:33:59Z",
+    "aiHeadline": "I Stored a Website in a Favicon: Because Why Not? Magic Happens When You're Bored"
   },
   {
-    "title": "Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly",
-    "url": "https://www.windowslatest.com/2026/06/15/microsofts-new-outlook-takes-10-seconds-to-do-what-outlook-classic-does-instantly-on-windows/",
-    "points": 634,
-    "num_comments": 417,
+    "title": "VPN ban update for UK households as government looks at 'age-gate'",
+    "url": "https://www.birminghammail.co.uk/news/midlands-news/vpn-ban-update-uk-households-34141063",
+    "points": 293,
+    "num_comments": 326,
     "tags": [
       "story",
-      "author_Adam-Hincu",
-      "story_48584207"
+      "author_iamnothere",
+      "story_48609385"
     ],
-    "author": "Adam-Hincu",
-    "created_at": "2026-06-18T12:19:05Z",
-    "aiHeadline": "Microsoft's new Outlook takes 10 seconds to do what Outlook Classic did instantly, because who doesn't love waiting for their email to load like it's 1998."
+    "author": "iamnothere",
+    "created_at": "2026-06-20T14:14:35Z",
+    "aiHeadline": "UK Government Bans VPNs to Enforce 'Age-Gate': Because Nothing Says 'Trust Us' Like Taking Away Your Privacy"
   },
   {
-    "title": "DeepSeek Introduces Vision",
-    "url": "https://chat.deepseek.com/",
-    "points": 459,
-    "num_comments": 188,
+    "title": "Windows 11 New Media Player Uses 3.5x More RAM, Charges for Popular Video Codecs",
+    "url": "https://www.extremetech.com/computing/windows-11s-new-media-player-uses-35x-more-ram-charges-for-popular-video",
+    "points": 263,
+    "num_comments": 147,
     "tags": [
       "story",
-      "author_RIshabh235",
-      "story_48581458"
+      "author_tcp_handshaker",
+      "story_48609343"
     ],
-    "author": "RIshabh235",
-    "created_at": "2026-06-18T06:17:40Z",
-    "aiHeadline": "DeepSeek introduces Vision, the latest in AI that will undoubtedly solve all your problems except the ones it creates."
-  },
-  {
-    "title": "Emacs 31 is around the corner: The changes I'm daily driving",
-    "url": "https://www.rahuljuliato.com/posts/emacs-31-around-the-corner",
-    "points": 427,
-    "num_comments": 237,
-    "tags": [
-      "story",
-      "author_frou_dh",
-      "story_48584135"
-    ],
-    "author": "frou_dh",
-    "created_at": "2026-06-18T12:10:53Z",
-    "aiHeadline": "Emacs 31 is almost here, bringing you the latest in text editing with all the features you didn't know you needed, but now you can't live without."
+    "author": "tcp_handshaker",
+    "created_at": "2026-06-20T14:08:30Z",
+    "aiHeadline": "Windows 11's New Media Player: Because Who Needs Efficiency When You Can Charge for Popular Video Codecs?"
   }
 ]
