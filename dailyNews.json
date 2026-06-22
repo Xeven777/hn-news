@@ -1,73 +1,76 @@
 [
   {
-    "title": "CSSQuake",
-    "url": "https://cssquake.com/",
-    "points": 482,
-    "num_comments": 102,
+    "title": "Identity verification on Claude",
+    "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+    "points": 635,
+    "num_comments": 552,
     "tags": [
       "story",
-      "author_msalsas",
-      "story_48608223"
-    ],
-    "author": "msalsas",
-    "created_at": "2026-06-20T10:49:53Z",
-    "aiHeadline": "CSSQuake: When Your Website's Earthquake Is Actually a Bug in Your Code"
-  },
-  {
-    "title": "The Wholesale Plagiarism of Obscure Sorrows",
-    "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
-    "points": 343,
-    "num_comments": 141,
-    "tags": [
-      "story",
-      "author_ridesisapis",
-      "story_48611411",
+      "author_bathory",
+      "story_48618455",
       "front_page"
     ],
-    "author": "ridesisapis",
-    "created_at": "2026-06-20T18:05:31Z",
-    "aiHeadline": "The Wholesale Plagiarism of Obscure Sorrows: Because Even Sadness Needs Credit"
+    "author": "bathory",
+    "created_at": "2026-06-21T12:44:13Z",
+    "aiHeadline": "Claude's Identity Verification: Because even robots need to prove they're not robots to other robots."
   },
   {
-    "title": "I Stored a Website in a Favicon",
-    "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
-    "points": 295,
-    "num_comments": 100,
+    "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
+    "url": "https://www.beyondallreason.info",
+    "points": 456,
+    "num_comments": 269,
     "tags": [
       "story",
-      "author_theanonymousone",
-      "story_48606619"
+      "author_mosiuerbarso",
+      "story_48617990",
+      "front_page"
     ],
-    "author": "theanonymousone",
-    "created_at": "2026-06-20T05:33:59Z",
-    "aiHeadline": "I Stored a Website in a Favicon: Because Why Not? Magic Happens When You're Bored"
+    "author": "mosiuerbarso",
+    "created_at": "2026-06-21T11:38:01Z",
+    "aiHeadline": "Beyond All Reason: The game that's so unoriginal, it's basically Total Annihilation's love child with a clone army."
   },
   {
-    "title": "VPN ban update for UK households as government looks at 'age-gate'",
-    "url": "https://www.birminghammail.co.uk/news/midlands-news/vpn-ban-update-uk-households-34141063",
-    "points": 293,
-    "num_comments": 326,
+    "title": "Prefer duplication over the wrong abstraction (2016)",
+    "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
+    "points": 446,
+    "num_comments": 302,
     "tags": [
       "story",
-      "author_iamnothere",
-      "story_48609385"
+      "author_rafaepta",
+      "story_48620090",
+      "front_page"
     ],
-    "author": "iamnothere",
-    "created_at": "2026-06-20T14:14:35Z",
-    "aiHeadline": "UK Government Bans VPNs to Enforce 'Age-Gate': Because Nothing Says 'Trust Us' Like Taking Away Your Privacy"
+    "author": "rafaepta",
+    "created_at": "2026-06-21T16:08:23Z",
+    "aiHeadline": "Prefer duplication over the wrong abstraction: Because every programmer knows that copy-pasting is the true path to enlightenment."
   },
   {
-    "title": "Windows 11 New Media Player Uses 3.5x More RAM, Charges for Popular Video Codecs",
-    "url": "https://www.extremetech.com/computing/windows-11s-new-media-player-uses-35x-more-ram-charges-for-popular-video",
-    "points": 263,
-    "num_comments": 147,
+    "title": "Google Hits 50% IPv6",
+    "url": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/",
+    "points": 388,
+    "num_comments": 413,
     "tags": [
       "story",
-      "author_tcp_handshaker",
-      "story_48609343"
+      "author_barqawiz",
+      "story_48616800"
     ],
-    "author": "tcp_handshaker",
-    "created_at": "2026-06-20T14:08:30Z",
-    "aiHeadline": "Windows 11's New Media Player: Because Who Needs Efficiency When You Can Charge for Popular Video Codecs?"
+    "author": "barqawiz",
+    "created_at": "2026-06-21T08:21:22Z",
+    "aiHeadline": "Google hits 50% IPv6: Halfway to the future, and somehow still managing to feel like we're stuck in the past."
+  },
+  {
+    "title": "Did my old job only exist because of fraud?",
+    "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
+    "points": 343,
+    "num_comments": 152,
+    "tags": [
+      "story",
+      "author_advisedwang",
+      "story_48622867",
+      "front_page"
+    ],
+    "author": "advisedwang",
+    "created_at": "2026-06-21T21:40:53Z",
+    "aiHeadline": "Did my old job only exist because of fraud?: The story every office worker secretly fears, where the only thing keeping your job alive is a web of lies."
   }
 ]
