@@ -1,76 +1,73 @@
 [
   {
-    "title": "Identity verification on Claude",
-    "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
-    "points": 635,
-    "num_comments": 552,
+    "title": "Steam Machine launches today",
+    "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
+    "points": 1316,
+    "num_comments": 1185,
     "tags": [
       "story",
-      "author_bathory",
-      "story_48618455",
+      "author_theschwa",
+      "story_48632884",
       "front_page"
     ],
-    "author": "bathory",
-    "created_at": "2026-06-21T12:44:13Z",
-    "aiHeadline": "Claude's Identity Verification: Because even robots need to prove they're not robots to other robots."
+    "author": "theschwa",
+    "created_at": "2026-06-22T17:09:51Z",
+    "aiHeadline": "Steam Machine Finally Launches, Proving That Sometimes Even Hype Can't Save a Product."
   },
   {
-    "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
-    "url": "https://www.beyondallreason.info",
-    "points": 456,
-    "num_comments": 269,
+    "title": "Deno Desktop",
+    "url": "https://docs.deno.com/runtime/desktop/",
+    "points": 1042,
+    "num_comments": 375,
     "tags": [
       "story",
-      "author_mosiuerbarso",
-      "story_48617990",
-      "front_page"
+      "author_GeneralMaximus",
+      "story_48626137"
     ],
-    "author": "mosiuerbarso",
-    "created_at": "2026-06-21T11:38:01Z",
-    "aiHeadline": "Beyond All Reason: The game that's so unoriginal, it's basically Total Annihilation's love child with a clone army."
+    "author": "GeneralMaximus",
+    "created_at": "2026-06-22T05:38:40Z",
+    "aiHeadline": "Deno Desktop: Because Running JavaScript on Your Desktop Wasn't Sufficiently Annoying Already."
   },
   {
-    "title": "Prefer duplication over the wrong abstraction (2016)",
-    "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
-    "points": 446,
-    "num_comments": 302,
+    "title": "Pledging another $400k to the Zig software foundation",
+    "url": "https://mitchellh.com/writing/zig-donation-2026",
+    "points": 754,
+    "num_comments": 251,
     "tags": [
       "story",
-      "author_rafaepta",
-      "story_48620090",
-      "front_page"
+      "author_tosh",
+      "story_48630020"
     ],
-    "author": "rafaepta",
-    "created_at": "2026-06-21T16:08:23Z",
-    "aiHeadline": "Prefer duplication over the wrong abstraction: Because every programmer knows that copy-pasting is the true path to enlightenment."
+    "author": "tosh",
+    "created_at": "2026-06-22T13:43:01Z",
+    "aiHeadline": "Another $400k for Zig: Because Clearly, the World Needs More Programming Languages."
   },
   {
-    "title": "Google Hits 50% IPv6",
-    "url": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/",
-    "points": 388,
-    "num_comments": 413,
+    "title": "Never Give Them Your Face",
+    "url": "https://nevergivethemyourface.com/",
+    "points": 697,
+    "num_comments": 387,
     "tags": [
       "story",
-      "author_barqawiz",
-      "story_48616800"
+      "author_audiodude",
+      "story_48630066"
     ],
-    "author": "barqawiz",
-    "created_at": "2026-06-21T08:21:22Z",
-    "aiHeadline": "Google hits 50% IPv6: Halfway to the future, and somehow still managing to feel like we're stuck in the past."
+    "author": "audiodude",
+    "created_at": "2026-06-22T13:45:48Z",
+    "aiHeadline": "Never Give Them Your Face: The Ultimate Guide to Privacy, or Maybe Just a Joke."
   },
   {
-    "title": "Did my old job only exist because of fraud?",
-    "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
-    "points": 343,
-    "num_comments": 152,
+    "title": "GLM 5.2 vs. Opus",
+    "url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
+    "points": 491,
+    "num_comments": 322,
     "tags": [
       "story",
-      "author_advisedwang",
-      "story_48622867",
-      "front_page"
+      "author_ritzaco",
+      "story_48626866"
     ],
-    "author": "advisedwang",
-    "created_at": "2026-06-21T21:40:53Z",
-    "aiHeadline": "Did my old job only exist because of fraud?: The story every office worker secretly fears, where the only thing keeping your job alive is a web of lies."
+    "author": "ritzaco",
+    "created_at": "2026-06-22T07:22:03Z",
+    "aiHeadline": "GLM 5.2 vs. Opus: Because the World Needed Another Tech Comparison to Ignore."
   }
 ]
