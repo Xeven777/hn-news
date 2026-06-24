@@ -1,73 +1,72 @@
 [
   {
-    "title": "Steam Machine launches today",
-    "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
-    "points": 1316,
-    "num_comments": 1185,
+    "title": "What we call \"age verification\" is actually mass surveillance",
+    "url": "https://pluralistic.net/2026/06/23/destroy-the-village/",
+    "points": 784,
+    "num_comments": 415,
     "tags": [
       "story",
-      "author_theschwa",
-      "story_48632884",
-      "front_page"
+      "author_hn_acker",
+      "story_48645173"
     ],
-    "author": "theschwa",
-    "created_at": "2026-06-22T17:09:51Z",
-    "aiHeadline": "Steam Machine Finally Launches, Proving That Sometimes Even Hype Can't Save a Product."
+    "author": "hn_acker",
+    "created_at": "2026-06-23T14:04:43Z",
+    "aiHeadline": "Age Verification: Because nothing says 'trust us' like installing a surveillance state to monitor every aspect of your life."
   },
   {
-    "title": "Deno Desktop",
-    "url": "https://docs.deno.com/runtime/desktop/",
-    "points": 1042,
-    "num_comments": 375,
-    "tags": [
-      "story",
-      "author_GeneralMaximus",
-      "story_48626137"
-    ],
-    "author": "GeneralMaximus",
-    "created_at": "2026-06-22T05:38:40Z",
-    "aiHeadline": "Deno Desktop: Because Running JavaScript on Your Desktop Wasn't Sufficiently Annoying Already."
-  },
-  {
-    "title": "Pledging another $400k to the Zig software foundation",
-    "url": "https://mitchellh.com/writing/zig-donation-2026",
-    "points": 754,
-    "num_comments": 251,
+    "title": "F3",
+    "url": "https://github.com/future-file-format/f3",
+    "points": 611,
+    "num_comments": 129,
     "tags": [
       "story",
       "author_tosh",
-      "story_48630020"
+      "story_48647799"
     ],
     "author": "tosh",
-    "created_at": "2026-06-22T13:43:01Z",
-    "aiHeadline": "Another $400k for Zig: Because Clearly, the World Needs More Programming Languages."
+    "created_at": "2026-06-23T16:53:32Z",
+    "aiHeadline": "F3: The future of file formats, because clearly we need another one to complicate things further."
   },
   {
-    "title": "Never Give Them Your Face",
-    "url": "https://nevergivethemyourface.com/",
-    "points": 697,
-    "num_comments": 387,
+    "title": "Unlimited OCR: One-shot long-horizon parsing",
+    "url": "https://github.com/baidu/Unlimited-OCR",
+    "points": 450,
+    "num_comments": 104,
     "tags": [
       "story",
-      "author_audiodude",
-      "story_48630066"
+      "author_ingve",
+      "story_48643426"
     ],
-    "author": "audiodude",
-    "created_at": "2026-06-22T13:45:48Z",
-    "aiHeadline": "Never Give Them Your Face: The Ultimate Guide to Privacy, or Maybe Just a Joke."
+    "author": "ingve",
+    "created_at": "2026-06-23T11:35:05Z",
+    "aiHeadline": "Unlimited OCR: Because reading between the lines wasn't sarcastic enough, now machines can do it for you."
   },
   {
-    "title": "GLM 5.2 vs. Opus",
-    "url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
-    "points": 491,
-    "num_comments": 322,
+    "title": "Mistral OCR 4",
+    "url": "https://mistral.ai/news/ocr-4/",
+    "points": 438,
+    "num_comments": 113,
     "tags": [
       "story",
-      "author_ritzaco",
-      "story_48626866"
+      "author_meetpateltech",
+      "story_48645152"
     ],
-    "author": "ritzaco",
-    "created_at": "2026-06-22T07:22:03Z",
-    "aiHeadline": "GLM 5.2 vs. Opus: Because the World Needed Another Tech Comparison to Ignore."
+    "author": "meetpateltech",
+    "created_at": "2026-06-23T14:03:19Z",
+    "aiHeadline": "Mistral OCR 4: Because 3 wasn't good enough, apparently."
+  },
+  {
+    "title": "Israel targeted Gaza children resulting in genocide, UN inquiry says",
+    "url": "https://www.reuters.com/world/middle-east/israel-targeted-gaza-children-resulting-genocide-un-inquiry-says-2026-06-23/",
+    "points": 431,
+    "num_comments": 186,
+    "tags": [
+      "story",
+      "author_supercopter",
+      "story_48642784"
+    ],
+    "author": "supercopter",
+    "created_at": "2026-06-23T10:16:48Z",
+    "aiHeadline": "Israel's Gaza Strategy: Because targeting children wasn't already genocide enough, now it's official."
   }
 ]
