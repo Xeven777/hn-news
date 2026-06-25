@@ -1,72 +1,75 @@
 [
   {
-    "title": "What we call \"age verification\" is actually mass surveillance",
-    "url": "https://pluralistic.net/2026/06/23/destroy-the-village/",
-    "points": 784,
-    "num_comments": 415,
+    "title": "We’re making Bunny DNS free",
+    "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
+    "points": 862,
+    "num_comments": 256,
     "tags": [
       "story",
-      "author_hn_acker",
-      "story_48645173"
+      "author_dabinat",
+      "story_48657030"
     ],
-    "author": "hn_acker",
-    "created_at": "2026-06-23T14:04:43Z",
-    "aiHeadline": "Age Verification: Because nothing says 'trust us' like installing a surveillance state to monitor every aspect of your life."
+    "author": "dabinat",
+    "created_at": "2026-06-24T08:50:41Z",
+    "aiHeadline": "Bunny DNS goes all in on free-for-all, because who doesn't love a good DNS party?"
   },
   {
-    "title": "F3",
-    "url": "https://github.com/future-file-format/f3",
-    "points": 611,
-    "num_comments": 129,
+    "title": "OpenAI unveils its first custom chip, built by Broadcom",
+    "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+    "points": 584,
+    "num_comments": 347,
     "tags": [
       "story",
-      "author_tosh",
-      "story_48647799"
+      "author_jamdesk",
+      "story_48663324",
+      "front_page"
     ],
-    "author": "tosh",
-    "created_at": "2026-06-23T16:53:32Z",
-    "aiHeadline": "F3: The future of file formats, because clearly we need another one to complicate things further."
+    "author": "jamdesk",
+    "created_at": "2026-06-24T17:47:00Z",
+    "aiHeadline": "OpenAI finally gets its own custom chip, because apparently, every tech company now has to build their own silicon to prove they're not just a bunch of software posers."
   },
   {
-    "title": "Unlimited OCR: One-shot long-horizon parsing",
-    "url": "https://github.com/baidu/Unlimited-OCR",
-    "points": 450,
-    "num_comments": 104,
+    "title": "Founding a company in Germany: €9600, 152 days and I still can't send an invoice",
+    "url": "https://paolino.me/founding-a-company-in-germany/",
+    "points": 561,
+    "num_comments": 687,
     "tags": [
       "story",
-      "author_ingve",
-      "story_48643426"
+      "author_earcar",
+      "story_48658718"
     ],
-    "author": "ingve",
-    "created_at": "2026-06-23T11:35:05Z",
-    "aiHeadline": "Unlimited OCR: Because reading between the lines wasn't sarcastic enough, now machines can do it for you."
+    "author": "earcar",
+    "created_at": "2026-06-24T12:31:43Z",
+    "aiHeadline": "Founding a company in Germany: a thrilling adventure that will leave you poorer, more frustrated, and still clueless about how to send an invoice—because nothing says 'Welcome to entrepreneurship' like a bureaucratic labyrinth."
   },
   {
-    "title": "Mistral OCR 4",
-    "url": "https://mistral.ai/news/ocr-4/",
-    "points": 438,
-    "num_comments": 113,
+    "title": "There are a few things that I look back on as my mistakes in the early days",
+    "url": "https://twitter.com/ID_AA_Carmack/status/2069799283369345247",
+    "points": 503,
+    "num_comments": 252,
     "tags": [
       "story",
-      "author_meetpateltech",
-      "story_48645152"
+      "author_shadowtree",
+      "story_48661825",
+      "front_page"
     ],
-    "author": "meetpateltech",
-    "created_at": "2026-06-23T14:03:19Z",
-    "aiHeadline": "Mistral OCR 4: Because 3 wasn't good enough, apparently."
+    "author": "shadowtree",
+    "created_at": "2026-06-24T15:56:19Z",
+    "aiHeadline": "John Carmack looks back on his early days and realizes that, yeah, maybe not hiring a professional manager and just winging it wasn't the best idea—spoiler alert: every startup founder eventually has this moment."
   },
   {
-    "title": "Israel targeted Gaza children resulting in genocide, UN inquiry says",
-    "url": "https://www.reuters.com/world/middle-east/israel-targeted-gaza-children-resulting-genocide-un-inquiry-says-2026-06-23/",
-    "points": 431,
-    "num_comments": 186,
+    "title": "RubyLLM: A Ruby framework for all major AI providers",
+    "url": "https://rubyllm.com/",
+    "points": 359,
+    "num_comments": 59,
     "tags": [
       "story",
-      "author_supercopter",
-      "story_48642784"
+      "author_doener",
+      "story_48660711",
+      "front_page"
     ],
-    "author": "supercopter",
-    "created_at": "2026-06-23T10:16:48Z",
-    "aiHeadline": "Israel's Gaza Strategy: Because targeting children wasn't already genocide enough, now it's official."
+    "author": "doener",
+    "created_at": "2026-06-24T14:41:41Z",
+    "aiHeadline": "RubyLLM arrives just in time to remind everyone that Ruby is still alive and well—except in the AI world, where it's somehow managed to stay under the radar despite all the hype around other languages."
   }
 ]
