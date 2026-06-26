@@ -1,75 +1,76 @@
 [
   {
-    "title": "We’re making Bunny DNS free",
-    "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
-    "points": 862,
-    "num_comments": 256,
+    "title": "An entire Herculaneum scroll has been read for the first time",
+    "url": "https://scrollprize.org/firstscroll",
+    "points": 1062,
+    "num_comments": 233,
     "tags": [
       "story",
-      "author_dabinat",
-      "story_48657030"
-    ],
-    "author": "dabinat",
-    "created_at": "2026-06-24T08:50:41Z",
-    "aiHeadline": "Bunny DNS goes all in on free-for-all, because who doesn't love a good DNS party?"
-  },
-  {
-    "title": "OpenAI unveils its first custom chip, built by Broadcom",
-    "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-    "points": 584,
-    "num_comments": 347,
-    "tags": [
-      "story",
-      "author_jamdesk",
-      "story_48663324",
+      "author_verditelabs",
+      "story_48675179",
       "front_page"
     ],
-    "author": "jamdesk",
-    "created_at": "2026-06-24T17:47:00Z",
-    "aiHeadline": "OpenAI finally gets its own custom chip, because apparently, every tech company now has to build their own silicon to prove they're not just a bunch of software posers."
+    "author": "verditelabs",
+    "created_at": "2026-06-25T15:48:07Z",
+    "aiHeadline": "After 2,000 years of sitting in a volcano, someone finally got bored enough to read this scroll."
   },
   {
-    "title": "Founding a company in Germany: €9600, 152 days and I still can't send an invoice",
-    "url": "https://paolino.me/founding-a-company-in-germany/",
-    "points": 561,
-    "num_comments": 687,
+    "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
+    "url": "https://hackernewstrends.com",
+    "points": 678,
+    "num_comments": 146,
     "tags": [
       "story",
-      "author_earcar",
-      "story_48658718"
+      "author_ytkimirti",
+      "story_48673671",
+      "show_hn"
     ],
-    "author": "earcar",
-    "created_at": "2026-06-24T12:31:43Z",
-    "aiHeadline": "Founding a company in Germany: a thrilling adventure that will leave you poorer, more frustrated, and still clueless about how to send an invoice—because nothing says 'Welcome to entrepreneurship' like a bureaucratic labyrinth."
+    "author": "ytkimirti",
+    "created_at": "2026-06-25T14:08:55Z",
+    "aiHeadline": "Someone spent 18 years of their life indexing HN comments, and now you can finally find out what everyone was arguing about in 2008."
   },
   {
-    "title": "There are a few things that I look back on as my mistakes in the early days",
-    "url": "https://twitter.com/ID_AA_Carmack/status/2069799283369345247",
-    "points": 503,
-    "num_comments": 252,
+    "title": "Apple raises prices of MacBooks, iPads",
+    "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
+    "points": 663,
+    "num_comments": 955,
     "tags": [
       "story",
-      "author_shadowtree",
-      "story_48661825",
+      "author_virgildotcodes",
+      "story_48672732",
       "front_page"
     ],
-    "author": "shadowtree",
-    "created_at": "2026-06-24T15:56:19Z",
-    "aiHeadline": "John Carmack looks back on his early days and realizes that, yeah, maybe not hiring a professional manager and just winging it wasn't the best idea—spoiler alert: every startup founder eventually has this moment."
+    "author": "virgildotcodes",
+    "created_at": "2026-06-25T13:02:56Z",
+    "aiHeadline": "Apple prices go up because, hey, why not? It's not like you have any other choice or budget constraints, right?"
   },
   {
-    "title": "RubyLLM: A Ruby framework for all major AI providers",
-    "url": "https://rubyllm.com/",
-    "points": 359,
-    "num_comments": 59,
+    "title": "Half-Life 2 in a Browser",
+    "url": "https://hl2.slqnt.dev/",
+    "points": 643,
+    "num_comments": 257,
     "tags": [
       "story",
-      "author_doener",
-      "story_48660711",
+      "author_panza",
+      "story_48669534"
+    ],
+    "author": "panza",
+    "created_at": "2026-06-25T06:00:04Z",
+    "aiHeadline": "Half-Life 2 in a browser? Sure, why not? It's not like we didn't already have it on every other platform, but now you can play it while waiting for your email to load."
+  },
+  {
+    "title": "Om Malik has died",
+    "url": "https://om.co/2026/06/24/1966-2026/",
+    "points": 598,
+    "num_comments": 58,
+    "tags": [
+      "story",
+      "author_minimaxir",
+      "story_48678852",
       "front_page"
     ],
-    "author": "doener",
-    "created_at": "2026-06-24T14:41:41Z",
-    "aiHeadline": "RubyLLM arrives just in time to remind everyone that Ruby is still alive and well—except in the AI world, where it's somehow managed to stay under the radar despite all the hype around other languages."
+    "author": "minimaxir",
+    "created_at": "2026-06-25T20:33:37Z",
+    "aiHeadline": "Om Malik has died, proving once again that even the coolest people can't escape the grim reaper. RIP, internet legend."
   }
 ]
