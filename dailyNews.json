@@ -1,76 +1,75 @@
 [
   {
-    "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
-    "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
-    "points": 737,
-    "num_comments": 306,
+    "title": "EU to legislate about Chat Control behind closed doors",
+    "url": "https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/",
+    "points": 613,
+    "num_comments": 353,
     "tags": [
       "story",
-      "author_aurenvale",
-      "story_48696585",
-      "front_page"
+      "author_NeutralForest",
+      "story_48707719"
     ],
-    "author": "aurenvale",
-    "created_at": "2026-06-27T09:18:52Z",
-    "aiHeadline": "AI models are so slow these days, they need a 'Turbo' button to keep up. DSpark's speculative decoding might just be the caffeine boost they need."
+    "author": "NeutralForest",
+    "created_at": "2026-06-28T14:40:13Z",
+    "aiHeadline": "EU secretly planning to control your chats while you're not looking, because what you don't know can't hurt you—or your privacy."
   },
   {
-    "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
-    "url": "https://github.com/bikini/exploitarium",
-    "points": 704,
-    "num_comments": 279,
+    "title": "GLM 5.2 beats Claude in our benchmarks",
+    "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+    "points": 578,
+    "num_comments": 275,
     "tags": [
       "story",
-      "author_binyu",
-      "story_48698617",
+      "author_jms703",
+      "story_48709670",
       "front_page"
     ],
-    "author": "binyu",
-    "created_at": "2026-06-27T14:31:00Z",
-    "aiHeadline": "An anonymous GitHub account is dropping 0-days like they're handing out candy. It's like a hacker group's version of a 'ransom note,' but without the ransom."
+    "author": "jms703",
+    "created_at": "2026-06-28T17:50:47Z",
+    "aiHeadline": "GLM 5.2 defeats Claude in a fierce AI showdown, proving once again that bigger isn't always better—or more ethical."
   },
   {
-    "title": "Zuckerberg's war on whistleblowers",
-    "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/",
-    "points": 662,
-    "num_comments": 240,
+    "title": "I used Claude Code to get a second opinion on my MRI",
+    "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+    "points": 371,
+    "num_comments": 488,
     "tags": [
       "story",
-      "author_HotGarbage",
-      "story_48698684"
-    ],
-    "author": "HotGarbage",
-    "created_at": "2026-06-27T14:38:05Z",
-    "aiHeadline": "Zuckerberg's latest move is like a corporate war, but instead of battleships, it's lawsuits. It's 'Zuckerman's Revenge' against whistleblowers who dare to speak the truth."
-  },
-  {
-    "title": "OpenRA",
-    "url": "https://www.openra.net/",
-    "points": 608,
-    "num_comments": 123,
-    "tags": [
-      "story",
-      "author_tosh",
-      "story_48697560",
+      "author_engmarketer",
+      "story_48708941",
       "front_page"
     ],
-    "author": "tosh",
-    "created_at": "2026-06-27T12:10:27Z",
-    "aiHeadline": "OpenRA brings back the nostalgia of classic RTS games, proving that sometimes, old-school is better than all the shiny new stuff."
+    "author": "engmarketer",
+    "created_at": "2026-06-28T16:35:19Z",
+    "aiHeadline": "AI gives medical advice cheaper than your doctor, but don't let it operate on you—unless you're feeling adventurous."
   },
   {
-    "title": "Fintech Engineering Handbook",
-    "url": "https://w.pitula.me/fintech-engineering-handbook/",
-    "points": 500,
-    "num_comments": 163,
+    "title": "The KIDS Act would require age checks to get online",
+    "url": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
+    "points": 363,
+    "num_comments": 294,
     "tags": [
       "story",
-      "author_signa11",
-      "story_48696982",
+      "author_bilsbie",
+      "story_48706560",
       "front_page"
     ],
-    "author": "signa11",
-    "created_at": "2026-06-27T10:28:53Z",
-    "aiHeadline": "The Fintech Engineering Handbook is here to teach you how to make money, or at least understand the scams that do. It's the ultimate guide to the art of finance."
+    "author": "bilsbie",
+    "created_at": "2026-06-28T11:56:16Z",
+    "aiHeadline": "New law aims to keep kids safe online by making everyone prove their age, which will work great until someone figures out how to fake it."
+  },
+  {
+    "title": "Flock cameras track more than your license plate, and they're spreading fast",
+    "url": "https://www.engadget.com/2203000/flock-cameras-recording-license-plate/",
+    "points": 351,
+    "num_comments": 263,
+    "tags": [
+      "story",
+      "author_SanjayMehta",
+      "story_48707673"
+    ],
+    "author": "SanjayMehta",
+    "created_at": "2026-06-28T14:35:26Z",
+    "aiHeadline": "Cameras track everything, and they're everywhere now—so much for privacy, right?"
   }
 ]
