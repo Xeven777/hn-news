@@ -1,75 +1,75 @@
 [
   {
-    "title": "EU to legislate about Chat Control behind closed doors",
-    "url": "https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/",
-    "points": 613,
-    "num_comments": 353,
+    "title": "Pollen tried to remove my article and Google is assisting with it",
+    "url": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
+    "points": 867,
+    "num_comments": 125,
     "tags": [
       "story",
-      "author_NeutralForest",
-      "story_48707719"
+      "author_taubek",
+      "story_48716902"
     ],
-    "author": "NeutralForest",
-    "created_at": "2026-06-28T14:40:13Z",
-    "aiHeadline": "EU secretly planning to control your chats while you're not looking, because what you don't know can't hurt you—or your privacy."
+    "author": "taubek",
+    "created_at": "2026-06-29T09:28:08Z",
+    "aiHeadline": "Pollen's censorship attempt backfires as Google steps in to protect free speech, or at least one guy's article about Callum Negus Fancey."
   },
   {
-    "title": "GLM 5.2 beats Claude in our benchmarks",
-    "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-    "points": 578,
-    "num_comments": 275,
+    "title": "Qwen 3.6 27B is the sweet spot for local development",
+    "url": "https://quesma.com/blog/qwen-36-is-awesome/",
+    "points": 692,
+    "num_comments": 542,
     "tags": [
       "story",
-      "author_jms703",
-      "story_48709670",
+      "author_stared",
+      "story_48721903",
       "front_page"
     ],
-    "author": "jms703",
-    "created_at": "2026-06-28T17:50:47Z",
-    "aiHeadline": "GLM 5.2 defeats Claude in a fierce AI showdown, proving once again that bigger isn't always better—or more ethical."
+    "author": "stared",
+    "created_at": "2026-06-29T17:05:16Z",
+    "aiHeadline": "Qwen 3.6 27B: Because 27 billion parameters are just the right amount for your local development setup, apparently."
   },
   {
-    "title": "I used Claude Code to get a second opinion on my MRI",
-    "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
-    "points": 371,
-    "num_comments": 488,
+    "title": "The CEO of Mullvad is the main financer of the Swedish Örebro party",
+    "url": "https://det.social/@lostgen/116820546568940358",
+    "points": 553,
+    "num_comments": 1241,
     "tags": [
       "story",
-      "author_engmarketer",
-      "story_48708941",
+      "author_Risse",
+      "story_48717469"
+    ],
+    "author": "Risse",
+    "created_at": "2026-06-29T10:45:51Z",
+    "aiHeadline": "Mullvad's CEO is now the main financier of a Swedish political party, proving that even privacy-focused companies can't resist getting their hands dirty in politics."
+  },
+  {
+    "title": "US Supreme Court rules geofence warrants require constitutional protections",
+    "url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
+    "points": 478,
+    "num_comments": 227,
+    "tags": [
+      "story",
+      "author_cdrnsf",
+      "story_48720924",
       "front_page"
     ],
-    "author": "engmarketer",
-    "created_at": "2026-06-28T16:35:19Z",
-    "aiHeadline": "AI gives medical advice cheaper than your doctor, but don't let it operate on you—unless you're feeling adventurous."
+    "author": "cdrnsf",
+    "created_at": "2026-06-29T15:54:24Z",
+    "aiHeadline": "US Supreme Court rules that geofence warrants need constitutional protections, because apparently the government can't just track everyone's location without some legal hoops."
   },
   {
-    "title": "The KIDS Act would require age checks to get online",
-    "url": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
-    "points": 363,
-    "num_comments": 294,
+    "title": "Rocketlab acquires Iridium",
+    "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
+    "points": 380,
+    "num_comments": 241,
     "tags": [
       "story",
-      "author_bilsbie",
-      "story_48706560",
+      "author_everfrustrated",
+      "story_48719485",
       "front_page"
     ],
-    "author": "bilsbie",
-    "created_at": "2026-06-28T11:56:16Z",
-    "aiHeadline": "New law aims to keep kids safe online by making everyone prove their age, which will work great until someone figures out how to fake it."
-  },
-  {
-    "title": "Flock cameras track more than your license plate, and they're spreading fast",
-    "url": "https://www.engadget.com/2203000/flock-cameras-recording-license-plate/",
-    "points": 351,
-    "num_comments": 263,
-    "tags": [
-      "story",
-      "author_SanjayMehta",
-      "story_48707673"
-    ],
-    "author": "SanjayMehta",
-    "created_at": "2026-06-28T14:35:26Z",
-    "aiHeadline": "Cameras track everything, and they're everywhere now—so much for privacy, right?"
+    "author": "everfrustrated",
+    "created_at": "2026-06-29T14:09:24Z",
+    "aiHeadline": "Rocketlab acquires Iridium, creating the most overpowered satellite communications company in history, probably."
   }
 ]
