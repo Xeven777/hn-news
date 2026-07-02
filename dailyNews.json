@@ -1,75 +1,74 @@
 [
   {
-    "title": "Pollen tried to remove my article and Google is assisting with it",
-    "url": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
-    "points": 867,
-    "num_comments": 125,
+    "title": "For first time, a cell built from scratch grows and divides",
+    "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
+    "points": 771,
+    "num_comments": 260,
     "tags": [
       "story",
-      "author_taubek",
-      "story_48716902"
-    ],
-    "author": "taubek",
-    "created_at": "2026-06-29T09:28:08Z",
-    "aiHeadline": "Pollen's censorship attempt backfires as Google steps in to protect free speech, or at least one guy's article about Callum Negus Fancey."
-  },
-  {
-    "title": "Qwen 3.6 27B is the sweet spot for local development",
-    "url": "https://quesma.com/blog/qwen-36-is-awesome/",
-    "points": 692,
-    "num_comments": 542,
-    "tags": [
-      "story",
-      "author_stared",
-      "story_48721903",
+      "author_defrost",
+      "story_48747304",
       "front_page"
     ],
-    "author": "stared",
-    "created_at": "2026-06-29T17:05:16Z",
-    "aiHeadline": "Qwen 3.6 27B: Because 27 billion parameters are just the right amount for your local development setup, apparently."
+    "author": "defrost",
+    "created_at": "2026-07-01T14:20:52Z",
+    "aiHeadline": "Scientists finally manage to create a cell from scratch, proving that even the simplest tasks take years of research and funding."
   },
   {
-    "title": "The CEO of Mullvad is the main financer of the Swedish Örebro party",
-    "url": "https://det.social/@lostgen/116820546568940358",
-    "points": 553,
-    "num_comments": 1241,
+    "title": "Most arguments are about ego, not ideas",
+    "url": "https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html",
+    "points": 654,
+    "num_comments": 520,
     "tags": [
       "story",
-      "author_Risse",
-      "story_48717469"
+      "author_backlit4034",
+      "story_48746445"
     ],
-    "author": "Risse",
-    "created_at": "2026-06-29T10:45:51Z",
-    "aiHeadline": "Mullvad's CEO is now the main financier of a Swedish political party, proving that even privacy-focused companies can't resist getting their hands dirty in politics."
+    "author": "backlit4034",
+    "created_at": "2026-07-01T13:29:29Z",
+    "aiHeadline": "Groundbreaking study reveals that most arguments are just people trying to hear themselves talk, because ideas are overrated."
   },
   {
-    "title": "US Supreme Court rules geofence warrants require constitutional protections",
-    "url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
-    "points": 478,
-    "num_comments": 227,
+    "title": "Physical disc production ending in Jan 2028 for new games on PlayStation",
+    "url": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/",
+    "points": 624,
+    "num_comments": 658,
     "tags": [
       "story",
-      "author_cdrnsf",
-      "story_48720924",
+      "author_Tiberium",
+      "story_48745456",
       "front_page"
     ],
-    "author": "cdrnsf",
-    "created_at": "2026-06-29T15:54:24Z",
-    "aiHeadline": "US Supreme Court rules that geofence warrants need constitutional protections, because apparently the government can't just track everyone's location without some legal hoops."
+    "author": "Tiberium",
+    "created_at": "2026-07-01T12:13:34Z",
+    "aiHeadline": "PlayStation announces the end of physical discs in 2028, because who needs tangible media when you can just download it and lose it forever?"
   },
   {
-    "title": "Rocketlab acquires Iridium",
-    "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
-    "points": 380,
-    "num_comments": 241,
+    "title": "Asahi Linux 7.1 Progress Report",
+    "url": "https://asahilinux.org/2026/06/progress-report-7-1/",
+    "points": 534,
+    "num_comments": 201,
     "tags": [
       "story",
-      "author_everfrustrated",
-      "story_48719485",
-      "front_page"
+      "author_pantalaimon",
+      "story_48744518"
     ],
-    "author": "everfrustrated",
-    "created_at": "2026-06-29T14:09:24Z",
-    "aiHeadline": "Rocketlab acquires Iridium, creating the most overpowered satellite communications company in history, probably."
+    "author": "pantalaimon",
+    "created_at": "2026-07-01T10:07:04Z",
+    "aiHeadline": "Asahi Linux 7.1 is here, bringing you more updates because why not? Just kidding, it's actually a big deal for some people."
+  },
+  {
+    "title": "Godot will no longer accept AI-authored code contributions",
+    "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
+    "points": 532,
+    "num_comments": 378,
+    "tags": [
+      "story",
+      "author_pjmlp",
+      "story_48743472"
+    ],
+    "author": "pjmlp",
+    "created_at": "2026-07-01T07:43:22Z",
+    "aiHeadline": "Godot Engine says goodbye to AI contributions, because apparently, AI can't be trusted to write code that doesn't crash your game."
   }
 ]
