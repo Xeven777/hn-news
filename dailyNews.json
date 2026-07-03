@@ -1,74 +1,75 @@
 [
   {
-    "title": "For first time, a cell built from scratch grows and divides",
-    "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
-    "points": 771,
-    "num_comments": 260,
+    "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
+    "url": "https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv",
+    "points": 599,
+    "num_comments": 223,
     "tags": [
       "story",
-      "author_defrost",
-      "story_48747304",
+      "author_mgh2",
+      "story_48762725"
+    ],
+    "author": "mgh2",
+    "created_at": "2026-07-02T15:02:26Z",
+    "aiHeadline": "Spain takes a stand against tech giants by banning Palantir, proving that sometimes the best offense is a good blacklist."
+  },
+  {
+    "title": "Virginia bans sale of geolocation data",
+    "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
+    "points": 575,
+    "num_comments": 100,
+    "tags": [
+      "story",
+      "author_toomuchtodo",
+      "story_48767347",
       "front_page"
     ],
-    "author": "defrost",
-    "created_at": "2026-07-01T14:20:52Z",
-    "aiHeadline": "Scientists finally manage to create a cell from scratch, proving that even the simplest tasks take years of research and funding."
+    "author": "toomuchtodo",
+    "created_at": "2026-07-02T21:03:45Z",
+    "aiHeadline": "Virginia leads the charge in privacy rights by banning the sale of geolocation data, because who needs to know where you are anyway?"
   },
   {
-    "title": "Most arguments are about ego, not ideas",
-    "url": "https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html",
-    "points": 654,
-    "num_comments": 520,
+    "title": "PeerTube is a free, decentralized and federated video platform",
+    "url": "https://github.com/Chocobozzz/PeerTube",
+    "points": 536,
+    "num_comments": 243,
     "tags": [
       "story",
-      "author_backlit4034",
-      "story_48746445"
-    ],
-    "author": "backlit4034",
-    "created_at": "2026-07-01T13:29:29Z",
-    "aiHeadline": "Groundbreaking study reveals that most arguments are just people trying to hear themselves talk, because ideas are overrated."
-  },
-  {
-    "title": "Physical disc production ending in Jan 2028 for new games on PlayStation",
-    "url": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/",
-    "points": 624,
-    "num_comments": 658,
-    "tags": [
-      "story",
-      "author_Tiberium",
-      "story_48745456",
+      "author_doener",
+      "story_48759634",
       "front_page"
     ],
-    "author": "Tiberium",
-    "created_at": "2026-07-01T12:13:34Z",
-    "aiHeadline": "PlayStation announces the end of physical discs in 2028, because who needs tangible media when you can just download it and lose it forever?"
+    "author": "doener",
+    "created_at": "2026-07-02T11:17:45Z",
+    "aiHeadline": "PeerTube: the decentralized video platform that proves you don't need a billion-dollar company to make a video platform, just a bunch of volunteers and a sense of humor."
   },
   {
-    "title": "Asahi Linux 7.1 Progress Report",
-    "url": "https://asahilinux.org/2026/06/progress-report-7-1/",
-    "points": 534,
-    "num_comments": 201,
+    "title": "The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing",
+    "url": "https://www.thebignewsletter.com/p/crime-pays-the-egg-bandits-made-a",
+    "points": 442,
+    "num_comments": 226,
     "tags": [
       "story",
-      "author_pantalaimon",
-      "story_48744518"
+      "author_toomuchtodo",
+      "story_48761229"
     ],
-    "author": "pantalaimon",
-    "created_at": "2026-07-01T10:07:04Z",
-    "aiHeadline": "Asahi Linux 7.1 is here, bringing you more updates because why not? Just kidding, it's actually a big deal for some people."
+    "author": "toomuchtodo",
+    "created_at": "2026-07-02T13:25:25Z",
+    "aiHeadline": "The Egg Bandits: because when the law says 'don't fix prices,' they say 'challenge accepted,' and now they're laughing all the way to the bank."
   },
   {
-    "title": "Godot will no longer accept AI-authored code contributions",
-    "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
-    "points": 532,
-    "num_comments": 378,
+    "title": "How to ask for help from people who don't know you",
+    "url": "https://pradyuprasad.com/writings/how-to-ask-for-help/",
+    "points": 426,
+    "num_comments": 65,
     "tags": [
       "story",
-      "author_pjmlp",
-      "story_48743472"
+      "author_FigurativeVoid",
+      "story_48761118",
+      "front_page"
     ],
-    "author": "pjmlp",
-    "created_at": "2026-07-01T07:43:22Z",
-    "aiHeadline": "Godot Engine says goodbye to AI contributions, because apparently, AI can't be trusted to write code that doesn't crash your game."
+    "author": "FigurativeVoid",
+    "created_at": "2026-07-02T13:19:22Z",
+    "aiHeadline": "How to ask for help from people who don't know you: because sometimes you need to be bold, and sometimes you just need to swallow your pride."
   }
 ]
