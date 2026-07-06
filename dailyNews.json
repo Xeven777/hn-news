@@ -1,75 +1,76 @@
 [
   {
-    "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
-    "url": "https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv",
-    "points": 599,
-    "num_comments": 223,
+    "title": "Organic Maps",
+    "url": "https://organicmaps.app/",
+    "points": 844,
+    "num_comments": 231,
     "tags": [
       "story",
-      "author_mgh2",
-      "story_48762725"
-    ],
-    "author": "mgh2",
-    "created_at": "2026-07-02T15:02:26Z",
-    "aiHeadline": "Spain takes a stand against tech giants by banning Palantir, proving that sometimes the best offense is a good blacklist."
-  },
-  {
-    "title": "Virginia bans sale of geolocation data",
-    "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
-    "points": 575,
-    "num_comments": 100,
-    "tags": [
-      "story",
-      "author_toomuchtodo",
-      "story_48767347",
+      "author_tosh",
+      "story_48794446",
       "front_page"
     ],
-    "author": "toomuchtodo",
-    "created_at": "2026-07-02T21:03:45Z",
-    "aiHeadline": "Virginia leads the charge in privacy rights by banning the sale of geolocation data, because who needs to know where you are anyway?"
+    "author": "tosh",
+    "created_at": "2026-07-05T14:14:30Z",
+    "aiHeadline": "Forget Google Maps—now you can get lost with Organic Maps, because nothing says 'directions' like a healthy dose of confusion!"
   },
   {
-    "title": "PeerTube is a free, decentralized and federated video platform",
-    "url": "https://github.com/Chocobozzz/PeerTube",
-    "points": 536,
-    "num_comments": 243,
+    "title": "OpenPrinter",
+    "url": "https://www.opentools.studio/",
+    "points": 526,
+    "num_comments": 123,
     "tags": [
       "story",
-      "author_doener",
-      "story_48759634",
+      "author_bouh",
+      "story_48797916",
       "front_page"
     ],
-    "author": "doener",
-    "created_at": "2026-07-02T11:17:45Z",
-    "aiHeadline": "PeerTube: the decentralized video platform that proves you don't need a billion-dollar company to make a video platform, just a bunch of volunteers and a sense of humor."
+    "author": "bouh",
+    "created_at": "2026-07-05T21:03:06Z",
+    "aiHeadline": "Tired of your printer working perfectly? OpenPrinter is here to make your printing experience as frustrating as possible, one open-source glitch at a time!"
   },
   {
-    "title": "The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing",
-    "url": "https://www.thebignewsletter.com/p/crime-pays-the-egg-bandits-made-a",
-    "points": 442,
-    "num_comments": 226,
+    "title": "EU Council forces Chat Control via fast-track",
+    "url": "https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html",
+    "points": 394,
+    "num_comments": 213,
     "tags": [
       "story",
-      "author_toomuchtodo",
-      "story_48761229"
+      "author_stavros",
+      "story_48793393"
     ],
-    "author": "toomuchtodo",
-    "created_at": "2026-07-02T13:25:25Z",
-    "aiHeadline": "The Egg Bandits: because when the law says 'don't fix prices,' they say 'challenge accepted,' and now they're laughing all the way to the bank."
+    "author": "stavros",
+    "created_at": "2026-07-05T11:44:04Z",
+    "aiHeadline": "The EU Council is taking privacy to the next level by forcing Chat Control via fast-track—because nothing says 'trust us' like a government that scans your messages before you even hit send!"
   },
   {
-    "title": "How to ask for help from people who don't know you",
-    "url": "https://pradyuprasad.com/writings/how-to-ask-for-help/",
-    "points": 426,
-    "num_comments": 65,
+    "title": "It's not about physical vs. digital games, it's about ownership",
+    "url": "https://popcar.bearblog.dev/its-about-ownership/",
+    "points": 345,
+    "num_comments": 254,
     "tags": [
       "story",
-      "author_FigurativeVoid",
-      "story_48761118",
+      "author_popcar2",
+      "story_48794750",
       "front_page"
     ],
-    "author": "FigurativeVoid",
-    "created_at": "2026-07-02T13:19:22Z",
-    "aiHeadline": "How to ask for help from people who don't know you: because sometimes you need to be bold, and sometimes you just need to swallow your pride."
+    "author": "popcar2",
+    "created_at": "2026-07-05T14:56:15Z",
+    "aiHeadline": "Forget the debate between physical and digital games—what really matters is who owns the pixels, because apparently, that's the new frontier in ownership disputes!"
+  },
+  {
+    "title": "Introduction to Compilers and Language Design (2021)",
+    "url": "https://dthain.github.io/books/compiler/",
+    "points": 284,
+    "num_comments": 47,
+    "tags": [
+      "story",
+      "author_AlexeyBrin",
+      "story_48793454",
+      "front_page"
+    ],
+    "author": "AlexeyBrin",
+    "created_at": "2026-07-05T11:54:16Z",
+    "aiHeadline": "If you've ever wondered how your code turns into magic, this introduction to compilers and language design will explain it all—except why your code still doesn't work after compiling!"
   }
 ]
