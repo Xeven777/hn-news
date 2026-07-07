@@ -1,76 +1,76 @@
 [
   {
-    "title": "Organic Maps",
-    "url": "https://organicmaps.app/",
-    "points": 844,
-    "num_comments": 231,
+    "title": "Resetting Xbox",
+    "url": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
+    "points": 514,
+    "num_comments": 507,
     "tags": [
       "story",
-      "author_tosh",
-      "story_48794446",
+      "author_dijksterhuis",
+      "story_48804993",
       "front_page"
     ],
-    "author": "tosh",
-    "created_at": "2026-07-05T14:14:30Z",
-    "aiHeadline": "Forget Google Maps—now you can get lost with Organic Maps, because nothing says 'directions' like a healthy dose of confusion!"
+    "author": "dijksterhuis",
+    "created_at": "2026-07-06T14:18:23Z",
+    "aiHeadline": "Xbox Reset Guide: Because who doesn't love spending an hour re-downloading the same update they just installed?"
   },
   {
-    "title": "OpenPrinter",
-    "url": "https://www.opentools.studio/",
-    "points": 526,
-    "num_comments": 123,
+    "title": "OpenWrt One – Open Hardware Router",
+    "url": "https://openwrt.org/toh/openwrt/one",
+    "points": 474,
+    "num_comments": 192,
     "tags": [
       "story",
-      "author_bouh",
-      "story_48797916",
+      "author_peter_d_sherman",
+      "story_48808482",
       "front_page"
     ],
-    "author": "bouh",
-    "created_at": "2026-07-05T21:03:06Z",
-    "aiHeadline": "Tired of your printer working perfectly? OpenPrinter is here to make your printing experience as frustrating as possible, one open-source glitch at a time!"
+    "author": "peter_d_sherman",
+    "created_at": "2026-07-06T18:23:12Z",
+    "aiHeadline": "OpenWrt One: Because who needs a router that just works when you can spend hours tweaking configs and still end up with slower speeds?"
   },
   {
-    "title": "EU Council forces Chat Control via fast-track",
-    "url": "https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html",
-    "points": 394,
-    "num_comments": 213,
+    "title": "Real-time map of Great Britain's rail network",
+    "url": "https://www.map.signalbox.io",
+    "points": 385,
+    "num_comments": 144,
     "tags": [
       "story",
-      "author_stavros",
-      "story_48793393"
-    ],
-    "author": "stavros",
-    "created_at": "2026-07-05T11:44:04Z",
-    "aiHeadline": "The EU Council is taking privacy to the next level by forcing Chat Control via fast-track—because nothing says 'trust us' like a government that scans your messages before you even hit send!"
-  },
-  {
-    "title": "It's not about physical vs. digital games, it's about ownership",
-    "url": "https://popcar.bearblog.dev/its-about-ownership/",
-    "points": 345,
-    "num_comments": 254,
-    "tags": [
-      "story",
-      "author_popcar2",
-      "story_48794750",
+      "author_scrlk",
+      "story_48802535",
       "front_page"
     ],
-    "author": "popcar2",
-    "created_at": "2026-07-05T14:56:15Z",
-    "aiHeadline": "Forget the debate between physical and digital games—what really matters is who owns the pixels, because apparently, that's the new frontier in ownership disputes!"
+    "author": "scrlk",
+    "created_at": "2026-07-06T09:38:36Z",
+    "aiHeadline": "Real-time Rail Map of Great Britain: Now you can watch your train disappear into the void in real-time, just like always!"
   },
   {
-    "title": "Introduction to Compilers and Language Design (2021)",
-    "url": "https://dthain.github.io/books/compiler/",
-    "points": 284,
-    "num_comments": 47,
+    "title": "CoMaps – FOSS Offline Maps",
+    "url": "https://www.comaps.app/",
+    "points": 354,
+    "num_comments": 71,
     "tags": [
       "story",
-      "author_AlexeyBrin",
-      "story_48793454",
+      "author_basilikum",
+      "story_48808928",
       "front_page"
     ],
-    "author": "AlexeyBrin",
-    "created_at": "2026-07-05T11:54:16Z",
-    "aiHeadline": "If you've ever wondered how your code turns into magic, this introduction to compilers and language design will explain it all—except why your code still doesn't work after compiling!"
+    "author": "basilikum",
+    "created_at": "2026-07-06T18:55:07Z",
+    "aiHeadline": "CoMaps: Finally, a map app that doesn't track you... because it's offline and probably doesn't know where you are anyway!"
+  },
+  {
+    "title": "Nintendo announces new product revisions in Europe with replaceable batteries",
+    "url": "https://www.nintendo.com/en-gb/Support/Nintendo-Switch-2/Information-about-upcoming-battery-related-revisions-to-some-Nintendo-products-3132901.html",
+    "points": 326,
+    "num_comments": 194,
+    "tags": [
+      "story",
+      "author_akyuu",
+      "story_48804193"
+    ],
+    "author": "akyuu",
+    "created_at": "2026-07-06T13:18:16Z",
+    "aiHeadline": "Nintendo Switch Gets Replaceable Batteries: Now you can finally upgrade your battery life by spending $20 on a new one every 6 months!"
   }
 ]
