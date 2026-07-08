@@ -1,76 +1,74 @@
 [
   {
-    "title": "Resetting Xbox",
-    "url": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
-    "points": 514,
-    "num_comments": 507,
+    "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
+    "url": "https://streetcomplete.app/",
+    "points": 706,
+    "num_comments": 171,
     "tags": [
       "story",
-      "author_dijksterhuis",
-      "story_48804993",
+      "author_kls0e",
+      "story_48816883",
       "front_page"
     ],
-    "author": "dijksterhuis",
-    "created_at": "2026-07-06T14:18:23Z",
-    "aiHeadline": "Xbox Reset Guide: Because who doesn't love spending an hour re-downloading the same update they just installed?"
+    "author": "kls0e",
+    "created_at": "2026-07-07T12:38:35Z",
+    "aiHeadline": "StreetComplete: Because who doesn't want to 'gamify' their contribution to OpenStreetMap? Now you can fix the world one tiny, meaningless quest at a time."
   },
   {
-    "title": "OpenWrt One – Open Hardware Router",
-    "url": "https://openwrt.org/toh/openwrt/one",
-    "points": 474,
-    "num_comments": 192,
+    "title": "Microsoft fire idTech team at Id software",
+    "url": "https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/",
+    "points": 554,
+    "num_comments": 503,
     "tags": [
       "story",
-      "author_peter_d_sherman",
-      "story_48808482",
+      "author_bauc",
+      "story_48819244"
+    ],
+    "author": "bauc",
+    "created_at": "2026-07-07T15:33:20Z",
+    "aiHeadline": "Microsoft fires idTech team at Id software: Because what better way to show you're committed to innovation than by letting the people who actually make the games fun go?"
+  },
+  {
+    "title": "Chat Control passed first round in EU Parliament",
+    "url": "https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html",
+    "points": 537,
+    "num_comments": 237,
+    "tags": [
+      "story",
+      "author_miroljub",
+      "story_48819008"
+    ],
+    "author": "miroljub",
+    "created_at": "2026-07-07T15:16:15Z",
+    "aiHeadline": "Chat Control passes first round in EU Parliament: Because nothing says 'we're on your side' like more regulations. Enjoy your freedom, internet!"
+  },
+  {
+    "title": "98% isn't much",
+    "url": "https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/",
+    "points": 473,
+    "num_comments": 313,
+    "tags": [
+      "story",
+      "author_speckx",
+      "story_48816959"
+    ],
+    "author": "speckx",
+    "created_at": "2026-07-07T12:45:14Z",
+    "aiHeadline": "98% isn't much: Because clearly, the only way to truly succeed is to be perfect. And if you're not perfect, well, you're just another failure statistic."
+  },
+  {
+    "title": "A better way to tie gym shorts (or any drawstring) [video]",
+    "url": "https://www.youtube.com/watch?v=3R0Lp86GEBk",
+    "points": 468,
+    "num_comments": 168,
+    "tags": [
+      "story",
+      "author_surprisetalk",
+      "story_48816956",
       "front_page"
     ],
-    "author": "peter_d_sherman",
-    "created_at": "2026-07-06T18:23:12Z",
-    "aiHeadline": "OpenWrt One: Because who needs a router that just works when you can spend hours tweaking configs and still end up with slower speeds?"
-  },
-  {
-    "title": "Real-time map of Great Britain's rail network",
-    "url": "https://www.map.signalbox.io",
-    "points": 385,
-    "num_comments": 144,
-    "tags": [
-      "story",
-      "author_scrlk",
-      "story_48802535",
-      "front_page"
-    ],
-    "author": "scrlk",
-    "created_at": "2026-07-06T09:38:36Z",
-    "aiHeadline": "Real-time Rail Map of Great Britain: Now you can watch your train disappear into the void in real-time, just like always!"
-  },
-  {
-    "title": "CoMaps – FOSS Offline Maps",
-    "url": "https://www.comaps.app/",
-    "points": 354,
-    "num_comments": 71,
-    "tags": [
-      "story",
-      "author_basilikum",
-      "story_48808928",
-      "front_page"
-    ],
-    "author": "basilikum",
-    "created_at": "2026-07-06T18:55:07Z",
-    "aiHeadline": "CoMaps: Finally, a map app that doesn't track you... because it's offline and probably doesn't know where you are anyway!"
-  },
-  {
-    "title": "Nintendo announces new product revisions in Europe with replaceable batteries",
-    "url": "https://www.nintendo.com/en-gb/Support/Nintendo-Switch-2/Information-about-upcoming-battery-related-revisions-to-some-Nintendo-products-3132901.html",
-    "points": 326,
-    "num_comments": 194,
-    "tags": [
-      "story",
-      "author_akyuu",
-      "story_48804193"
-    ],
-    "author": "akyuu",
-    "created_at": "2026-07-06T13:18:16Z",
-    "aiHeadline": "Nintendo Switch Gets Replaceable Batteries: Now you can finally upgrade your battery life by spending $20 on a new one every 6 months!"
+    "author": "surprisetalk",
+    "created_at": "2026-07-07T12:45:06Z",
+    "aiHeadline": "A better way to tie gym shorts (or any drawstring): Because clearly, the world was missing a definitive guide on how to secure your athletic wear. Thanks, science!"
   }
 ]
