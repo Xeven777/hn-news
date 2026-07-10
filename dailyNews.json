@@ -1,76 +1,78 @@
 [
   {
-    "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
-    "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-    "points": 1318,
-    "num_comments": 210,
-    "tags": [
-      "story",
-      "author_speerer",
-      "story_48829312",
-      "front_page"
-    ],
-    "author": "speerer",
-    "created_at": "2026-07-08T08:46:06Z",
-    "aiHeadline": "Decoding the obfuscated bash script on a Uniqlo t-shirt: because who doesn't want to debug their wardrobe?"
-  },
-  {
-    "title": "Chatto is now open source",
-    "url": "https://www.hmans.dev/blog/chatto-is-open-source",
-    "points": 785,
-    "num_comments": 210,
-    "tags": [
-      "story",
-      "author_speckx",
-      "story_48833116",
-      "front_page"
-    ],
-    "author": "speckx",
-    "created_at": "2026-07-08T15:19:50Z",
-    "aiHeadline": "Chatto is now open source: finally, free for all to enjoy, because who doesn't love debugging someone else's code?"
-  },
-  {
-    "title": "GPT‑Live",
-    "url": "https://openai.com/index/introducing-gpt-live/",
-    "points": 625,
-    "num_comments": 421,
+    "title": "GPT-5.6",
+    "url": "https://openai.com/index/gpt-5-6/",
+    "points": 1111,
+    "num_comments": 802,
     "tags": [
       "story",
       "author_logickkk1",
-      "story_48834405",
+      "story_48849066",
       "front_page"
     ],
     "author": "logickkk1",
-    "created_at": "2026-07-08T17:03:19Z",
-    "aiHeadline": "GPT-Live: because real-time AI nonsense is the future we all deserve."
+    "created_at": "2026-07-09T17:04:14Z",
+    "aiHeadline": "GPT-5.6: Because 5.5 wasn't advanced enough to understand your sarcasm, now it's 5.6 and still doesn't get it."
   },
   {
-    "title": "Grok 4.5",
-    "url": "https://x.ai/news/grok-4-5",
-    "points": 510,
-    "num_comments": 663,
+    "title": "EU Parliament greenlights Chat Control 1.0",
+    "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+    "points": 1049,
+    "num_comments": 510,
     "tags": [
       "story",
-      "author_BoumTAC",
-      "story_48835111",
+      "author_rapnie",
+      "story_48843923",
       "front_page"
     ],
-    "author": "BoumTAC",
-    "created_at": "2026-07-08T18:00:32Z",
-    "aiHeadline": "Grok 4.5: because sometimes, after years of waiting, software finally becomes usable."
+    "author": "rapnie",
+    "created_at": "2026-07-09T11:03:54Z",
+    "aiHeadline": "EU Approves Chat Control 1.0: Now your conversations will be 100% more awkward and 0% more meaningful."
   },
   {
-    "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-    "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
-    "points": 510,
-    "num_comments": 192,
+    "title": "Show HN: 18 Words",
+    "url": "https://18words.com/",
+    "points": 861,
+    "num_comments": 290,
     "tags": [
       "story",
-      "author_ColinEberhardt",
-      "story_48827858"
+      "author_pompomsheep",
+      "story_48845049",
+      "show_hn",
+      "front_page"
     ],
-    "author": "ColinEberhardt",
-    "created_at": "2026-07-08T05:25:35Z",
-    "aiHeadline": "GitLost: because what better way to trick GitHub's AI than to make it spill the beans on private repos?"
+    "author": "pompomsheep",
+    "created_at": "2026-07-09T12:48:52Z",
+    "aiHeadline": "Show HN: 18 Words - Because apparently, we've forgotten how to write anything shorter than a novel."
+  },
+  {
+    "title": "My thoughts on the Bun Rust rewrite",
+    "url": "https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html",
+    "points": 659,
+    "num_comments": 574,
+    "tags": [
+      "story",
+      "author_kristoff_it",
+      "story_48843352"
+    ],
+    "author": "kristoff_it",
+    "created_at": "2026-07-09T09:47:28Z",
+    "aiHeadline": "Bun Gets a Rust Makeover: Now it's twice as fast and half as fun, just like you wanted."
+  },
+  {
+    "title": "Show HN: Getting GLM 5.2 running on my slow computer",
+    "url": "https://github.com/JustVugg/colibri",
+    "points": 440,
+    "num_comments": 112,
+    "tags": [
+      "story",
+      "author_vforno",
+      "story_48842459",
+      "show_hn",
+      "front_page"
+    ],
+    "author": "vforno",
+    "created_at": "2026-07-09T08:05:04Z",
+    "aiHeadline": "Getting GLM 5.2 on My Slow PC: Because who needs a supercomputer when you can just wait 5 hours for it to load?"
   }
 ]
