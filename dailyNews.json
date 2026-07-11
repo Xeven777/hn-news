@@ -1,78 +1,77 @@
 [
   {
-    "title": "GPT-5.6",
-    "url": "https://openai.com/index/gpt-5-6/",
-    "points": 1111,
-    "num_comments": 802,
+    "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+    "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+    "points": 616,
+    "num_comments": 295,
     "tags": [
       "story",
-      "author_logickkk1",
-      "story_48849066",
+      "author_stock_toaster",
+      "story_48865019",
       "front_page"
     ],
-    "author": "logickkk1",
-    "created_at": "2026-07-09T17:04:14Z",
-    "aiHeadline": "GPT-5.6: Because 5.5 wasn't advanced enough to understand your sarcasm, now it's 5.6 and still doesn't get it."
+    "author": "stock_toaster",
+    "created_at": "2026-07-10T20:47:09Z",
+    "aiHeadline": "Apple sues OpenAI, claiming ex-employees stole their secrets, because apparently even geniuses need to keep their ideas under wraps."
   },
   {
-    "title": "EU Parliament greenlights Chat Control 1.0",
-    "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
-    "points": 1049,
-    "num_comments": 510,
+    "title": "QuadRF can spot drones and see WiFi through my wall",
+    "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+    "points": 469,
+    "num_comments": 176,
     "tags": [
       "story",
-      "author_rapnie",
-      "story_48843923",
+      "author_speckx",
+      "story_48861717",
       "front_page"
     ],
-    "author": "rapnie",
-    "created_at": "2026-07-09T11:03:54Z",
-    "aiHeadline": "EU Approves Chat Control 1.0: Now your conversations will be 100% more awkward and 0% more meaningful."
+    "author": "speckx",
+    "created_at": "2026-07-10T15:59:53Z",
+    "aiHeadline": "QuadRF: the ultimate tool for spying on your neighbors' Wi-Fi and drone activities, because who doesn't want to know what's happening behind those walls?"
   },
   {
-    "title": "Show HN: 18 Words",
-    "url": "https://18words.com/",
-    "points": 861,
-    "num_comments": 290,
+    "title": "New York City to to ban deceptive subscription practices",
+    "url": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
+    "points": 430,
+    "num_comments": 221,
     "tags": [
       "story",
-      "author_pompomsheep",
-      "story_48845049",
-      "show_hn",
+      "author_randycupertino",
+      "story_48863464",
       "front_page"
     ],
-    "author": "pompomsheep",
-    "created_at": "2026-07-09T12:48:52Z",
-    "aiHeadline": "Show HN: 18 Words - Because apparently, we've forgotten how to write anything shorter than a novel."
+    "author": "randycupertino",
+    "created_at": "2026-07-10T18:26:24Z",
+    "aiHeadline": "New York City cracks down on deceptive subscription practices, because who needs another monthly fee for something they don't even want?"
   },
   {
-    "title": "My thoughts on the Bun Rust rewrite",
-    "url": "https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html",
-    "points": 659,
-    "num_comments": 574,
+    "title": "Good Tools Are Invisible",
+    "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
+    "points": 367,
+    "num_comments": 174,
     "tags": [
       "story",
-      "author_kristoff_it",
-      "story_48843352"
-    ],
-    "author": "kristoff_it",
-    "created_at": "2026-07-09T09:47:28Z",
-    "aiHeadline": "Bun Gets a Rust Makeover: Now it's twice as fast and half as fun, just like you wanted."
-  },
-  {
-    "title": "Show HN: Getting GLM 5.2 running on my slow computer",
-    "url": "https://github.com/JustVugg/colibri",
-    "points": 440,
-    "num_comments": 112,
-    "tags": [
-      "story",
-      "author_vforno",
-      "story_48842459",
-      "show_hn",
+      "author_theanonymousone",
+      "story_48858121",
       "front_page"
     ],
-    "author": "vforno",
-    "created_at": "2026-07-09T08:05:04Z",
-    "aiHeadline": "Getting GLM 5.2 on My Slow PC: Because who needs a supercomputer when you can just wait 5 hours for it to load?"
+    "author": "theanonymousone",
+    "created_at": "2026-07-10T10:32:41Z",
+    "aiHeadline": "Good tools are invisible, which explains why your tech setup always feels like a Rube Goldberg machine."
+  },
+  {
+    "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+    "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+    "points": 365,
+    "num_comments": 295,
+    "tags": [
+      "story",
+      "author_scrlk",
+      "story_48863490",
+      "front_page"
+    ],
+    "author": "scrlk",
+    "created_at": "2026-07-10T18:29:19Z",
+    "aiHeadline": "GPT-5.6 Sol Ultra proves the Cycle Double Cover Conjecture, because apparently even math problems are now solved by AI, leaving humans to wonder if they're even needed anymore."
   }
 ]
