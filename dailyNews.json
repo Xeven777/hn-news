@@ -1,77 +1,75 @@
 [
   {
-    "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-    "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
-    "points": 616,
-    "num_comments": 295,
-    "tags": [
-      "story",
-      "author_stock_toaster",
-      "story_48865019",
-      "front_page"
-    ],
-    "author": "stock_toaster",
-    "created_at": "2026-07-10T20:47:09Z",
-    "aiHeadline": "Apple sues OpenAI, claiming ex-employees stole their secrets, because apparently even geniuses need to keep their ideas under wraps."
-  },
-  {
-    "title": "QuadRF can spot drones and see WiFi through my wall",
-    "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
-    "points": 469,
-    "num_comments": 176,
+    "title": "Female US rower completes historic solo journey from California to Hawaii",
+    "url": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
+    "points": 274,
+    "num_comments": 92,
     "tags": [
       "story",
       "author_speckx",
-      "story_48861717",
-      "front_page"
+      "story_48873692"
     ],
     "author": "speckx",
-    "created_at": "2026-07-10T15:59:53Z",
-    "aiHeadline": "QuadRF: the ultimate tool for spying on your neighbors' Wi-Fi and drone activities, because who doesn't want to know what's happening behind those walls?"
+    "created_at": "2026-07-11T17:03:23Z",
+    "aiHeadline": "Female US rower completes historic solo journey from California to Hawaii, proving that even the ocean isn't a challenge when you're determined enough."
   },
   {
-    "title": "New York City to to ban deceptive subscription practices",
-    "url": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
-    "points": 430,
-    "num_comments": 221,
+    "title": "Prefer strict tables in SQLite",
+    "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+    "points": 235,
+    "num_comments": 114,
     "tags": [
       "story",
-      "author_randycupertino",
-      "story_48863464",
+      "author_ingve",
+      "story_48873940",
       "front_page"
     ],
-    "author": "randycupertino",
-    "created_at": "2026-07-10T18:26:24Z",
-    "aiHeadline": "New York City cracks down on deceptive subscription practices, because who needs another monthly fee for something they don't even want?"
+    "author": "ingve",
+    "created_at": "2026-07-11T17:33:55Z",
+    "aiHeadline": "Prefer strict tables in SQLite? Well, maybe your database will finally start acting like a responsible adult."
   },
   {
-    "title": "Good Tools Are Invisible",
-    "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
-    "points": 367,
-    "num_comments": 174,
+    "title": "Ghost Font: A font that humans can read but AI cannot",
+    "url": "https://www.mixfont.com/ghost-font",
+    "points": 201,
+    "num_comments": 147,
     "tags": [
       "story",
-      "author_theanonymousone",
-      "story_48858121",
-      "front_page"
+      "author_justswim",
+      "story_48870381"
     ],
-    "author": "theanonymousone",
-    "created_at": "2026-07-10T10:32:41Z",
-    "aiHeadline": "Good tools are invisible, which explains why your tech setup always feels like a Rube Goldberg machine."
+    "author": "justswim",
+    "created_at": "2026-07-11T09:36:53Z",
+    "aiHeadline": "Ghost Font: A font that humans can read but AI cannot, because apparently, we're just that much cooler than machines."
   },
   {
-    "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-    "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-    "points": 365,
-    "num_comments": 295,
+    "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
+    "url": "https://antjs.org",
+    "points": 199,
+    "num_comments": 86,
     "tags": [
       "story",
-      "author_scrlk",
-      "story_48863490",
+      "author_theMackabu",
+      "story_48875377",
+      "show_hn",
       "front_page"
     ],
-    "author": "scrlk",
-    "created_at": "2026-07-10T18:29:19Z",
-    "aiHeadline": "GPT-5.6 Sol Ultra proves the Cycle Double Cover Conjecture, because apparently even math problems are now solved by AI, leaving humans to wonder if they're even needed anymore."
+    "author": "theMackabu",
+    "created_at": "2026-07-11T20:07:18Z",
+    "aiHeadline": "Show HN: Ant – A JavaScript runtime and ecosystem, because the world clearly needed another way to run JavaScript."
+  },
+  {
+    "title": "The vintage beauty of Soviet control rooms (2018)",
+    "url": "https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/",
+    "points": 196,
+    "num_comments": 65,
+    "tags": [
+      "story",
+      "author_mvdtnz",
+      "story_48868996"
+    ],
+    "author": "mvdtnz",
+    "created_at": "2026-07-11T05:19:41Z",
+    "aiHeadline": "The vintage beauty of Soviet control rooms (2018): Because nothing says 'retro chic' like a room full of analog dials and switches."
   }
 ]
