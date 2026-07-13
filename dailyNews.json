@@ -1,75 +1,77 @@
 [
   {
-    "title": "Female US rower completes historic solo journey from California to Hawaii",
-    "url": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
-    "points": 274,
-    "num_comments": 92,
+    "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+    "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+    "points": 484,
+    "num_comments": 274,
     "tags": [
       "story",
-      "author_speckx",
-      "story_48873692"
-    ],
-    "author": "speckx",
-    "created_at": "2026-07-11T17:03:23Z",
-    "aiHeadline": "Female US rower completes historic solo journey from California to Hawaii, proving that even the ocean isn't a challenge when you're determined enough."
-  },
-  {
-    "title": "Prefer strict tables in SQLite",
-    "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
-    "points": 235,
-    "num_comments": 114,
-    "tags": [
-      "story",
-      "author_ingve",
-      "story_48873940",
+      "author_systima",
+      "story_48883275",
       "front_page"
     ],
-    "author": "ingve",
-    "created_at": "2026-07-11T17:33:55Z",
-    "aiHeadline": "Prefer strict tables in SQLite? Well, maybe your database will finally start acting like a responsible adult."
+    "author": "systima",
+    "created_at": "2026-07-12T18:25:51Z",
+    "aiHeadline": "Claude Code: Because 33,000 tokens is the perfect number to send before actually reading the prompt, right? Meanwhile, OpenCode is the responsible adult who only sends 7,000 tokens and actually follows instructions."
   },
   {
-    "title": "Ghost Font: A font that humans can read but AI cannot",
-    "url": "https://www.mixfont.com/ghost-font",
-    "points": 201,
-    "num_comments": 147,
+    "title": "Old and new apps, via modern coding agents",
+    "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+    "points": 420,
+    "num_comments": 124,
     "tags": [
       "story",
-      "author_justswim",
-      "story_48870381"
-    ],
-    "author": "justswim",
-    "created_at": "2026-07-11T09:36:53Z",
-    "aiHeadline": "Ghost Font: A font that humans can read but AI cannot, because apparently, we're just that much cooler than machines."
-  },
-  {
-    "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
-    "url": "https://antjs.org",
-    "points": 199,
-    "num_comments": 86,
-    "tags": [
-      "story",
-      "author_theMackabu",
-      "story_48875377",
-      "show_hn",
+      "author_subset",
+      "story_48880170",
       "front_page"
     ],
-    "author": "theMackabu",
-    "created_at": "2026-07-11T20:07:18Z",
-    "aiHeadline": "Show HN: Ant – A JavaScript runtime and ecosystem, because the world clearly needed another way to run JavaScript."
+    "author": "subset",
+    "created_at": "2026-07-12T11:09:42Z",
+    "aiHeadline": "Old apps: Still stubbornly refusing to update, while new apps: 'Hey, look at me using modern coding agents! I'm basically a tech wizard now!'"
   },
   {
-    "title": "The vintage beauty of Soviet control rooms (2018)",
-    "url": "https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/",
-    "points": 196,
-    "num_comments": 65,
+    "title": "Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",
+    "url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
+    "points": 348,
+    "num_comments": 165,
     "tags": [
       "story",
-      "author_mvdtnz",
-      "story_48868996"
+      "author_joahnn_s",
+      "story_48884853",
+      "front_page"
     ],
-    "author": "mvdtnz",
-    "created_at": "2026-07-11T05:19:41Z",
-    "aiHeadline": "The vintage beauty of Soviet control rooms (2018): Because nothing says 'retro chic' like a room full of analog dials and switches."
+    "author": "joahnn_s",
+    "created_at": "2026-07-12T21:12:11Z",
+    "aiHeadline": "Chromium 148: Because what better way to track you than by making Math.tanh() reveal your OS? Privacy? Who needs that when you can have fingerprintable math functions!"
+  },
+  {
+    "title": "I love LLMs, I hate hype",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+    "points": 345,
+    "num_comments": 207,
+    "tags": [
+      "story",
+      "author_therepanic",
+      "story_48883343",
+      "front_page"
+    ],
+    "author": "therepanic",
+    "created_at": "2026-07-12T18:31:56Z",
+    "aiHeadline": "I love LLMs: They're like a magic 8-ball that always gives the right answer. I hate hype: Because it makes me question if I'm just a sucker for overpromised AI wizardry."
+  },
+  {
+    "title": "How to read more books",
+    "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
+    "points": 271,
+    "num_comments": 148,
+    "tags": [
+      "story",
+      "author_silcoon",
+      "story_48882056",
+      "front_page"
+    ],
+    "author": "silcoon",
+    "created_at": "2026-07-12T15:47:16Z",
+    "aiHeadline": "How to read more books: Just stop scrolling through social media, find a quiet corner, and pretend you're actually interested in the content. Bonus points if you can resist the urge to check your phone every 5 minutes."
   }
 ]
