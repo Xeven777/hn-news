@@ -1,73 +1,75 @@
 [
   {
-    "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-    "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
-    "points": 1416,
-    "num_comments": 709,
+    "title": "European \"age verification\" \"app\" forcing everyone to use Android or iOS",
+    "url": "https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19",
+    "points": 489,
+    "num_comments": 333,
     "tags": [
       "story",
-      "author_crowdhailer",
-      "story_48889637"
+      "author_roundabout-host",
+      "story_48903777"
     ],
-    "author": "crowdhailer",
-    "created_at": "2026-07-13T08:39:39Z",
-    "aiHeadline": "Zig Creator Calls Anthropic's Bluff: 'You're All Hype and Hot Air, No Code in Sight!'"
+    "author": "roundabout-host",
+    "created_at": "2026-07-14T08:34:57Z",
+    "aiHeadline": "Europe's New Age-Verification App: Because Who Doesn't Want to Be Told What Phone to Use?"
   },
   {
-    "title": "A graph that should be front-page news",
-    "url": "https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news",
-    "points": 628,
-    "num_comments": 402,
+    "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+    "url": "https://prismml.com/news/bonsai-27b",
+    "points": 451,
+    "num_comments": 170,
     "tags": [
       "story",
-      "author_rakel_rakel",
-      "story_48888331"
-    ],
-    "author": "rakel_rakel",
-    "created_at": "2026-07-13T05:35:27Z",
-    "aiHeadline": "Mind-Blowing Graph Surfaces: 'Why Aren't We All Panicking Yet?'"
-  },
-  {
-    "title": "Grok uploaded my user directory to xAI's servers",
-    "url": "https://twitter.com/a_green_being/status/2076598897779020159",
-    "points": 490,
-    "num_comments": 17,
-    "tags": [
-      "story",
-      "author_tnolet",
-      "story_48892512"
-    ],
-    "author": "tnolet",
-    "created_at": "2026-07-13T13:39:59Z",
-    "aiHeadline": "Oopsie Daisy! Grok Accidentallyuploads Entire User Directory to xAI's Servers, Because Why Not?"
-  },
-  {
-    "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
-    "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
-    "points": 466,
-    "num_comments": 187,
-    "tags": [
-      "story",
-      "author_get-inscribe",
-      "story_48894752",
+      "author_xenova",
+      "story_48910545",
       "front_page"
     ],
-    "author": "get-inscribe",
-    "created_at": "2026-07-13T16:06:08Z",
-    "aiHeadline": "Apple's New SpeechAnalyzer API: 'We're Not as Bad as You Think, Honest!'"
+    "author": "xenova",
+    "created_at": "2026-07-14T17:50:48Z",
+    "aiHeadline": "Bonsai 27B: Because Who Needs a Supercomputer When You've Got a Phone That's Basically a Brick Now?"
   },
   {
-    "title": "Former NOAA employees built Climate.us to preserve climate data and resources",
-    "url": "https://19thnews.org/2026/07/noaa-climate-data-website/",
-    "points": 454,
-    "num_comments": 178,
+    "title": "How to stop Claude from saying load-bearing",
+    "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+    "points": 444,
+    "num_comments": 508,
     "tags": [
       "story",
-      "author_benwerd",
-      "story_48897945"
+      "author_shintoist",
+      "story_48905248",
+      "front_page"
     ],
-    "author": "benwerd",
-    "created_at": "2026-07-13T19:57:55Z",
-    "aiHeadline": "Former NOAA Employees Build Climate.us: 'We're Trying to Keep the Internet from Forgetting Climate Change Existed.'"
+    "author": "shintoist",
+    "created_at": "2026-07-14T11:46:02Z",
+    "aiHeadline": "How to Stop Claude from Saying 'Load-Bearing': Because Apparently, It's the New 'Hello' in AI."
+  },
+  {
+    "title": "Codex starts encrypting sub-agent prompts",
+    "url": "https://github.com/openai/codex/issues/28058",
+    "points": 411,
+    "num_comments": 241,
+    "tags": [
+      "story",
+      "author_embedding-shape",
+      "story_48905028"
+    ],
+    "author": "embedding-shape",
+    "created_at": "2026-07-14T11:21:32Z",
+    "aiHeadline": "Codex Starts Encrypting Sub-Agent Prompts: Because Apparently, Even AI Needs a Little Privacy, or Maybe It's Just Being Mysterious."
+  },
+  {
+    "title": "Are we offloading too much of our thinking to AI?",
+    "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
+    "points": 386,
+    "num_comments": 389,
+    "tags": [
+      "story",
+      "author_yenniejun111",
+      "story_48908178",
+      "front_page"
+    ],
+    "author": "yenniejun111",
+    "created_at": "2026-07-14T15:18:13Z",
+    "aiHeadline": "Are We Offloading Too Much Thinking to AI? Probably, But at Least It's Consistent—Unlike Human Logic, Which Is Basically a Magic 8-Ball with a Hangover."
   }
 ]
