@@ -1,75 +1,73 @@
 [
   {
-    "title": "European \"age verification\" \"app\" forcing everyone to use Android or iOS",
-    "url": "https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19",
-    "points": 489,
-    "num_comments": 333,
+    "title": "Jurassic Park computers in excruciating detail",
+    "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+    "points": 872,
+    "num_comments": 231,
     "tags": [
       "story",
-      "author_roundabout-host",
-      "story_48903777"
+      "author_vinhnx",
+      "story_48915709"
     ],
-    "author": "roundabout-host",
-    "created_at": "2026-07-14T08:34:57Z",
-    "aiHeadline": "Europe's New Age-Verification App: Because Who Doesn't Want to Be Told What Phone to Use?"
+    "author": "vinhnx",
+    "created_at": "2026-07-15T02:57:47Z",
+    "aiHeadline": "Rewind to 1993: Jurassic Park's Computers Are So Last Century, Even the Dinosaurs Would Laugh"
   },
   {
-    "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
-    "url": "https://prismml.com/news/bonsai-27b",
-    "points": 451,
-    "num_comments": 170,
+    "title": "Inkling: Our Open-Weights Model",
+    "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+    "points": 733,
+    "num_comments": 185,
     "tags": [
       "story",
-      "author_xenova",
-      "story_48910545",
+      "author_vimarsh6739",
+      "story_48924912",
       "front_page"
     ],
-    "author": "xenova",
-    "created_at": "2026-07-14T17:50:48Z",
-    "aiHeadline": "Bonsai 27B: Because Who Needs a Supercomputer When You've Got a Phone That's Basically a Brick Now?"
+    "author": "vimarsh6739",
+    "created_at": "2026-07-15T18:12:45Z",
+    "aiHeadline": "Inkling: The Open-Weights Model That's as Mysterious as a Black Box, But at Least It's Trying"
   },
   {
-    "title": "How to stop Claude from saying load-bearing",
-    "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
-    "points": 444,
-    "num_comments": 508,
+    "title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)",
+    "url": "https://academic.oup.com/sleep/article/47/1/zsad253/7280269",
+    "points": 666,
+    "num_comments": 345,
     "tags": [
       "story",
-      "author_shintoist",
-      "story_48905248",
-      "front_page"
+      "author_bilsbie",
+      "story_48919363"
     ],
-    "author": "shintoist",
-    "created_at": "2026-07-14T11:46:02Z",
-    "aiHeadline": "How to Stop Claude from Saying 'Load-Bearing': Because Apparently, It's the New 'Hello' in AI."
+    "author": "bilsbie",
+    "created_at": "2026-07-15T11:46:06Z",
+    "aiHeadline": "Sleep Regularity: The New Secret to Longevity, or Just an Excuse to Skip Your Morning Coffee?"
   },
   {
-    "title": "Codex starts encrypting sub-agent prompts",
-    "url": "https://github.com/openai/codex/issues/28058",
-    "points": 411,
-    "num_comments": 241,
+    "title": "I tricked Claude into leaking your deepest, darkest secrets",
+    "url": "https://www.ayush.digital/blog/the-memory-heist",
+    "points": 609,
+    "num_comments": 281,
     "tags": [
       "story",
-      "author_embedding-shape",
-      "story_48905028"
+      "author_macleginn",
+      "story_48916975"
     ],
-    "author": "embedding-shape",
-    "created_at": "2026-07-14T11:21:32Z",
-    "aiHeadline": "Codex Starts Encrypting Sub-Agent Prompts: Because Apparently, Even AI Needs a Little Privacy, or Maybe It's Just Being Mysterious."
+    "author": "macleginn",
+    "created_at": "2026-07-15T06:28:00Z",
+    "aiHeadline": "I Tricked Claude into Spilling the Tea: Now You Can Too, No Hacking Skills Required!"
   },
   {
-    "title": "Are we offloading too much of our thinking to AI?",
-    "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
-    "points": 386,
-    "num_comments": 389,
+    "title": "SpaceX bond worth 10% less than issue price – heading for junk bond status",
+    "url": "https://www.ft.com/content/3a023b95-66c3-41e1-b0ce-df752a499541",
+    "points": 522,
+    "num_comments": 540,
     "tags": [
       "story",
-      "author_yenniejun111",
-      "story_48908178",
-      "front_page"
+      "author_youngtaff",
+      "story_48920181"
     ],
-    "author": "yenniejun111",
-    "created_at": "2026-07-14T15:18:13Z",
-    "aiHeadline": "Are We Offloading Too Much Thinking to AI? Probably, But at Least It's Consistent—Unlike Human Logic, Which Is Basically a Magic 8-Ball with a Hangover."
+    "author": "youngtaff",
+    "created_at": "2026-07-15T12:59:09Z",
+    "aiHeadline": "SpaceX Bonds: Now 10% Cheaper, Perfect for Investors Who Love a Good Thrill Ride to Bankruptcy"
   }
 ]
