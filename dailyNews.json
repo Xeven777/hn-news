@@ -1,73 +1,74 @@
 [
   {
-    "title": "Jurassic Park computers in excruciating detail",
-    "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
-    "points": 872,
-    "num_comments": 231,
+    "title": "Kimi K3: Open Frontier Intelligence",
+    "url": "https://www.kimi.com/blog/kimi-k3",
+    "points": 1223,
+    "num_comments": 759,
     "tags": [
       "story",
-      "author_vinhnx",
-      "story_48915709"
-    ],
-    "author": "vinhnx",
-    "created_at": "2026-07-15T02:57:47Z",
-    "aiHeadline": "Rewind to 1993: Jurassic Park's Computers Are So Last Century, Even the Dinosaurs Would Laugh"
-  },
-  {
-    "title": "Inkling: Our Open-Weights Model",
-    "url": "https://thinkingmachines.ai/news/introducing-inkling/",
-    "points": 733,
-    "num_comments": 185,
-    "tags": [
-      "story",
-      "author_vimarsh6739",
-      "story_48924912",
+      "author_vincent_s",
+      "story_48935342",
       "front_page"
     ],
-    "author": "vimarsh6739",
-    "created_at": "2026-07-15T18:12:45Z",
-    "aiHeadline": "Inkling: The Open-Weights Model That's as Mysterious as a Black Box, But at Least It's Trying"
+    "author": "vincent_s",
+    "created_at": "2026-07-16T14:46:05Z",
+    "aiHeadline": "Kimi K3: Because regular frontier intelligence wasn't enough to make you question your life choices."
   },
   {
-    "title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)",
-    "url": "https://academic.oup.com/sleep/article/47/1/zsad253/7280269",
-    "points": 666,
-    "num_comments": 345,
+    "title": "The lost joy of music piracy",
+    "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
+    "points": 774,
+    "num_comments": 522,
     "tags": [
       "story",
-      "author_bilsbie",
-      "story_48919363"
+      "author_mcgin",
+      "story_48930454"
     ],
-    "author": "bilsbie",
-    "created_at": "2026-07-15T11:46:06Z",
-    "aiHeadline": "Sleep Regularity: The New Secret to Longevity, or Just an Excuse to Skip Your Morning Coffee?"
+    "author": "mcgin",
+    "created_at": "2026-07-16T04:46:21Z",
+    "aiHeadline": "The lost joy of music piracy: When illegally downloading music was the highlight of your week and made you feel like a modern-day Robin Hood."
   },
   {
-    "title": "I tricked Claude into leaking your deepest, darkest secrets",
-    "url": "https://www.ayush.digital/blog/the-memory-heist",
-    "points": 609,
-    "num_comments": 281,
+    "title": "Sony deletes more movies from the accounts of people who ‘bought’ them",
+    "url": "https://www.techdirt.com/2026/07/15/sony-deletes-a-bunch-more-movies-from-the-accounts-of-people-who-bought-them/",
+    "points": 593,
+    "num_comments": 383,
     "tags": [
       "story",
-      "author_macleginn",
-      "story_48916975"
+      "author_nekusar",
+      "story_48933419"
     ],
-    "author": "macleginn",
-    "created_at": "2026-07-15T06:28:00Z",
-    "aiHeadline": "I Tricked Claude into Spilling the Tea: Now You Can Too, No Hacking Skills Required!"
+    "author": "nekusar",
+    "created_at": "2026-07-16T12:13:43Z",
+    "aiHeadline": "Sony deletes more movies from people who 'bought' them: Because nothing says 'thank you for your money' like deleting your purchased content."
   },
   {
-    "title": "SpaceX bond worth 10% less than issue price – heading for junk bond status",
-    "url": "https://www.ft.com/content/3a023b95-66c3-41e1-b0ce-df752a499541",
-    "points": 522,
-    "num_comments": 540,
+    "title": "Microsoft Comic Chat is now open source",
+    "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
+    "points": 563,
+    "num_comments": 124,
     "tags": [
       "story",
-      "author_youngtaff",
-      "story_48920181"
+      "author_jervant",
+      "story_48936426",
+      "front_page"
     ],
-    "author": "youngtaff",
-    "created_at": "2026-07-15T12:59:09Z",
-    "aiHeadline": "SpaceX Bonds: Now 10% Cheaper, Perfect for Investors Who Love a Good Thrill Ride to Bankruptcy"
+    "author": "jervant",
+    "created_at": "2026-07-16T16:06:27Z",
+    "aiHeadline": "Microsoft Comic Chat is now open source: Finally, the world can see the code that makes Microsoft's attempts at humor as cringeworthy as their operating systems."
+  },
+  {
+    "title": "OnePlus halts operations in USA and Europe",
+    "url": "https://community.oneplus.com/thread/2170715118587871237",
+    "points": 543,
+    "num_comments": 332,
+    "tags": [
+      "story",
+      "author_pilililo2",
+      "story_48932539"
+    ],
+    "author": "pilililo2",
+    "created_at": "2026-07-16T10:14:04Z",
+    "aiHeadline": "OnePlus halts operations in USA and Europe: Because nothing says 'global domination' like quietly shutting down in the regions you were trying to conquer."
   }
 ]
