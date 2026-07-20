@@ -1,75 +1,76 @@
 [
   {
-    "title": "LG monitors silently install software through Windows Update without consent",
-    "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
-    "points": 1027,
-    "num_comments": 517,
+    "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+    "points": 1678,
+    "num_comments": 180,
     "tags": [
       "story",
-      "author_baranul",
-      "story_48956688",
+      "author_section33",
+      "story_48968606",
+      "show_hn",
       "front_page"
     ],
-    "author": "baranul",
-    "created_at": "2026-07-18T10:21:19Z",
-    "aiHeadline": "LG Monitors: Because Silent Software Installations Through Windows Update Were Exactly What You Needed in Your Life"
+    "author": "section33",
+    "created_at": "2026-07-19T14:41:16Z",
+    "aiHeadline": "Bowling alley owner saves $118k by swapping expensive system for ESP32s, proving you don't need to spend a fortune to have fun on the lanes."
   },
   {
-    "title": "Regressive JPEGs",
-    "url": "https://maurycyz.com/projects/bad_jpeg/",
-    "points": 659,
-    "num_comments": 65,
+    "title": "Qwen 3.8",
+    "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+    "points": 808,
+    "num_comments": 563,
     "tags": [
       "story",
-      "author_vitaut",
-      "story_48954851"
-    ],
-    "author": "vitaut",
-    "created_at": "2026-07-18T03:14:20Z",
-    "aiHeadline": "Regressive JPEGs: Relive the Glorious Days of Pixelated Nostalgia with These Terrible, Terrible Images"
-  },
-  {
-    "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-    "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-    "points": 511,
-    "num_comments": 326,
-    "tags": [
-      "story",
-      "author_mbustamanter",
-      "story_48957779",
+      "author_nh43215rgb",
+      "story_48966120",
       "front_page"
     ],
-    "author": "mbustamanter",
-    "created_at": "2026-07-18T13:00:52Z",
-    "aiHeadline": "GPT-5.6 Solves a 30-Year Math Problem, Because Obviously AI Can Do Everything Except Make Your Life Easier"
+    "author": "nh43215rgb",
+    "created_at": "2026-07-19T08:44:57Z",
+    "aiHeadline": "Qwen 3.8 drops new update, everyone's buzzing but honestly, I'm still trying to figure out what it does."
   },
   {
-    "title": "Why do AI company logos look like buttholes? (2025)",
-    "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
-    "points": 416,
-    "num_comments": 139,
+    "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+    "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+    "points": 419,
+    "num_comments": 196,
     "tags": [
       "story",
-      "author_miniBill",
-      "story_48956924"
-    ],
-    "author": "miniBill",
-    "created_at": "2026-07-18T11:06:50Z",
-    "aiHeadline": "Why Do AI Company Logos Look Like Buttholes? Because Apparently, the Future of AI is Poop-Shaped"
-  },
-  {
-    "title": "What AI did to stackoverflow in a graph",
-    "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
-    "points": 370,
-    "num_comments": 465,
-    "tags": [
-      "story",
-      "author_secretslol",
-      "story_48956949",
+      "author_chipweinberger",
+      "story_48966713",
       "front_page"
     ],
-    "author": "secretslol",
-    "created_at": "2026-07-18T11:12:46Z",
-    "aiHeadline": "What AI Did to Stack Overflow: A Graph That Shows Exactly How Much AI Has Screwed Up Your Coding Career"
+    "author": "chipweinberger",
+    "created_at": "2026-07-19T10:34:58Z",
+    "aiHeadline": "Building hardware isn't so hard, just ask the guy who sold 2,500 MIDI recorders and now knows all the tricks of the trade."
+  },
+  {
+    "title": "Claude Code uses Bun written in Rust now",
+    "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+    "points": 412,
+    "num_comments": 573,
+    "tags": [
+      "story",
+      "author_tosh",
+      "story_48966569",
+      "front_page"
+    ],
+    "author": "tosh",
+    "created_at": "2026-07-19T10:03:23Z",
+    "aiHeadline": "Claude Code switches to Bun in Rust, everyone's confused but I guess it's better to be trendy than practical."
+  },
+  {
+    "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
+    "url": "https://github.com/openai/codex/pull/33972/files",
+    "points": 328,
+    "num_comments": 156,
+    "tags": [
+      "story",
+      "author_AmazingTurtle",
+      "story_48965850"
+    ],
+    "author": "AmazingTurtle",
+    "created_at": "2026-07-19T07:54:39Z",
+    "aiHeadline": "OpenAI reduces Codex model context size, now it can't handle as much but at least it's more efficient, right?"
   }
 ]
