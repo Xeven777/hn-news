@@ -1,76 +1,76 @@
 [
   {
-    "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
-    "points": 1678,
-    "num_comments": 180,
+    "title": "China’s open-weights AI strategy is winning",
+    "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+    "points": 992,
+    "num_comments": 801,
     "tags": [
       "story",
-      "author_section33",
-      "story_48968606",
-      "show_hn",
+      "author_benwerd",
+      "story_48979269",
       "front_page"
     ],
-    "author": "section33",
-    "created_at": "2026-07-19T14:41:16Z",
-    "aiHeadline": "Bowling alley owner saves $118k by swapping expensive system for ESP32s, proving you don't need to spend a fortune to have fun on the lanes."
+    "author": "benwerd",
+    "created_at": "2026-07-20T14:21:47Z",
+    "aiHeadline": "While the rest of the world is stuck with locked-down AI, China's open-source strategy is proving that collaboration actually works."
   },
   {
-    "title": "Qwen 3.8",
-    "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
-    "points": 808,
-    "num_comments": 563,
+    "title": "Airport Simulator",
+    "url": "https://airport.apunen.com/",
+    "points": 733,
+    "num_comments": 142,
     "tags": [
       "story",
-      "author_nh43215rgb",
-      "story_48966120",
+      "author_apunen",
+      "story_48976846",
       "front_page"
     ],
-    "author": "nh43215rgb",
-    "created_at": "2026-07-19T08:44:57Z",
-    "aiHeadline": "Qwen 3.8 drops new update, everyone's buzzing but honestly, I'm still trying to figure out what it does."
+    "author": "apunen",
+    "created_at": "2026-07-20T10:30:40Z",
+    "aiHeadline": "Because who doesn't want to spend hours simulating airport operations? Now you can, thanks to this new game that will make you question your life choices."
   },
   {
-    "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
-    "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
-    "points": 419,
-    "num_comments": 196,
+    "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
+    "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
+    "points": 692,
+    "num_comments": 447,
     "tags": [
       "story",
-      "author_chipweinberger",
-      "story_48966713",
+      "author_loubbrad",
+      "story_48973869",
       "front_page"
     ],
-    "author": "chipweinberger",
-    "created_at": "2026-07-19T10:34:58Z",
-    "aiHeadline": "Building hardware isn't so hard, just ask the guy who sold 2,500 MIDI recorders and now knows all the tricks of the trade."
+    "author": "loubbrad",
+    "created_at": "2026-07-20T02:51:16Z",
+    "aiHeadline": "In a move that will make math professors everywhere either thrilled or jealous, Claude Fable has just ruined a perfectly good conjecture with this counterexample."
   },
   {
-    "title": "Claude Code uses Bun written in Rust now",
-    "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-    "points": 412,
-    "num_comments": 573,
+    "title": "Hacker wipes Romania's land registry database",
+    "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
+    "points": 583,
+    "num_comments": 329,
     "tags": [
       "story",
-      "author_tosh",
-      "story_48966569",
+      "author_speckx",
+      "story_48978605",
       "front_page"
     ],
-    "author": "tosh",
-    "created_at": "2026-07-19T10:03:23Z",
-    "aiHeadline": "Claude Code switches to Bun in Rust, everyone's confused but I guess it's better to be trendy than practical."
+    "author": "speckx",
+    "created_at": "2026-07-20T13:28:33Z",
+    "aiHeadline": "Romania's land registry database just had the worst day ever, thanks to a hacker who decided to wipe it clean. Now they'll have to start from scratch, which is about as fun as it sounds."
   },
   {
-    "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
-    "url": "https://github.com/openai/codex/pull/33972/files",
-    "points": 328,
-    "num_comments": 156,
+    "title": "The EU is about to sell our most sensitive data to the US for visa-free travel",
+    "url": "https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/",
+    "points": 479,
+    "num_comments": 287,
     "tags": [
       "story",
-      "author_AmazingTurtle",
-      "story_48965850"
+      "author_rapnie",
+      "story_48977711"
     ],
-    "author": "AmazingTurtle",
-    "created_at": "2026-07-19T07:54:39Z",
-    "aiHeadline": "OpenAI reduces Codex model context size, now it can't handle as much but at least it's more efficient, right?"
+    "author": "rapnie",
+    "created_at": "2026-07-20T12:14:08Z",
+    "aiHeadline": "The EU is offering up our most sensitive data as a sacrifice to the US for visa-free travel. Privacy, thy name is not a priority anymore."
   }
 ]
