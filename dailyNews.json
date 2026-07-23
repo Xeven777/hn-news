@@ -1,76 +1,76 @@
 [
   {
-    "title": "China’s open-weights AI strategy is winning",
-    "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
-    "points": 992,
-    "num_comments": 801,
+    "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+    "url": "https://bento.page/slides/",
+    "points": 675,
+    "num_comments": 152,
     "tags": [
       "story",
-      "author_benwerd",
-      "story_48979269",
+      "author_starfallg",
+      "story_49008211",
+      "show_hn",
       "front_page"
     ],
-    "author": "benwerd",
-    "created_at": "2026-07-20T14:21:47Z",
-    "aiHeadline": "While the rest of the world is stuck with locked-down AI, China's open-source strategy is proving that collaboration actually works."
+    "author": "starfallg",
+    "created_at": "2026-07-22T15:19:23Z",
+    "aiHeadline": "Finally, a PowerPoint alternative that's as confusing as PowerPoint itself—meet Bento, the all-in-one HTML presentation tool that somehow manages to be both innovative and baffling at the same time."
   },
   {
-    "title": "Airport Simulator",
-    "url": "https://airport.apunen.com/",
-    "points": 733,
-    "num_comments": 142,
+    "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+    "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+    "points": 651,
+    "num_comments": 397,
     "tags": [
       "story",
-      "author_apunen",
-      "story_48976846",
+      "author_gmays",
+      "story_49010345",
       "front_page"
     ],
-    "author": "apunen",
-    "created_at": "2026-07-20T10:30:40Z",
-    "aiHeadline": "Because who doesn't want to spend hours simulating airport operations? Now you can, thanks to this new game that will make you question your life choices."
+    "author": "gmays",
+    "created_at": "2026-07-22T17:30:40Z",
+    "aiHeadline": "Terrence Tao teams up with ChatGPT to prove that even geniuses need a robot to do their math—because apparently, humans are just too slow at understanding the Jacobian Conjecture counterexample."
   },
   {
-    "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
-    "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
-    "points": 692,
-    "num_comments": 447,
+    "title": "OverpAId – Fire your CEO. Hire the future",
+    "url": "https://overpaid.lol",
+    "points": 646,
+    "num_comments": 332,
     "tags": [
       "story",
-      "author_loubbrad",
-      "story_48973869",
+      "author_ignaloidas",
+      "story_49004663"
+    ],
+    "author": "ignaloidas",
+    "created_at": "2026-07-22T10:49:04Z",
+    "aiHeadline": "Fire your overpaid CEO and hire the future—because apparently, the future is cheaper than your current leadership and also doesn't require a private jet."
+  },
+  {
+    "title": "John C. Dvorak has died",
+    "url": "https://twitter.com/na_announce/status/2079952538040672302",
+    "points": 604,
+    "num_comments": 189,
+    "tags": [
+      "story",
+      "author_coleca",
+      "story_49012070",
       "front_page"
     ],
-    "author": "loubbrad",
-    "created_at": "2026-07-20T02:51:16Z",
-    "aiHeadline": "In a move that will make math professors everywhere either thrilled or jealous, Claude Fable has just ruined a perfectly good conjecture with this counterexample."
+    "author": "coleca",
+    "created_at": "2026-07-22T19:22:19Z",
+    "aiHeadline": "John C. Dvorak, the man who made tech journalism interesting, has passed away—now the world can finally catch up on all the tech news it missed."
   },
   {
-    "title": "Hacker wipes Romania's land registry database",
-    "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
-    "points": 583,
-    "num_comments": 329,
+    "title": "Passkeys were invented by engineers with zero understanding of consumer brain",
+    "url": "https://twitter.com/nikitabier/status/2079787406300266743",
+    "points": 460,
+    "num_comments": 629,
     "tags": [
       "story",
-      "author_speckx",
-      "story_48978605",
-      "front_page"
+      "author_ksec",
+      "story_49007374"
     ],
-    "author": "speckx",
-    "created_at": "2026-07-20T13:28:33Z",
-    "aiHeadline": "Romania's land registry database just had the worst day ever, thanks to a hacker who decided to wipe it clean. Now they'll have to start from scratch, which is about as fun as it sounds."
-  },
-  {
-    "title": "The EU is about to sell our most sensitive data to the US for visa-free travel",
-    "url": "https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/",
-    "points": 479,
-    "num_comments": 287,
-    "tags": [
-      "story",
-      "author_rapnie",
-      "story_48977711"
-    ],
-    "author": "rapnie",
-    "created_at": "2026-07-20T12:14:08Z",
-    "aiHeadline": "The EU is offering up our most sensitive data as a sacrifice to the US for visa-free travel. Privacy, thy name is not a priority anymore."
+    "author": "ksec",
+    "created_at": "2026-07-22T14:25:13Z",
+    "aiHeadline": "Passkeys were invented by engineers who clearly have no idea how regular people think—because who in their right mind would want to remember a random string of numbers and letters instead of just using a password?"
   }
 ]
