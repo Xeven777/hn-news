@@ -1,76 +1,76 @@
 [
   {
-    "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
-    "url": "https://bento.page/slides/",
-    "points": 675,
-    "num_comments": 152,
+    "title": "Writing by hand is good for your brain",
+    "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+    "points": 1013,
+    "num_comments": 493,
     "tags": [
       "story",
-      "author_starfallg",
-      "story_49008211",
-      "show_hn",
+      "author_dwwoelfel",
+      "story_49022152",
       "front_page"
     ],
-    "author": "starfallg",
-    "created_at": "2026-07-22T15:19:23Z",
-    "aiHeadline": "Finally, a PowerPoint alternative that's as confusing as PowerPoint itself—meet Bento, the all-in-one HTML presentation tool that somehow manages to be both innovative and baffling at the same time."
+    "author": "dwwoelfel",
+    "created_at": "2026-07-23T14:24:43Z",
+    "aiHeadline": "Apparently, writing by hand is the new gym for your brain, because apparently, typing on a keyboard isn't enough to keep those neurons firing."
   },
   {
-    "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
-    "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
-    "points": 651,
-    "num_comments": 397,
+    "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+    "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+    "points": 752,
+    "num_comments": 669,
     "tags": [
       "story",
-      "author_gmays",
-      "story_49010345",
+      "author_theanonymousone",
+      "story_49023016",
       "front_page"
     ],
-    "author": "gmays",
-    "created_at": "2026-07-22T17:30:40Z",
-    "aiHeadline": "Terrence Tao teams up with ChatGPT to prove that even geniuses need a robot to do their math—because apparently, humans are just too slow at understanding the Jacobian Conjecture counterexample."
+    "author": "theanonymousone",
+    "created_at": "2026-07-23T15:18:40Z",
+    "aiHeadline": "Startup founders are so desperate they're begging the government to let Chinese AI stay open, probably because they're too busy building their own empires to notice the irony."
   },
   {
-    "title": "OverpAId – Fire your CEO. Hire the future",
-    "url": "https://overpaid.lol",
-    "points": 646,
-    "num_comments": 332,
+    "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
+    "url": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
+    "points": 609,
+    "num_comments": 302,
     "tags": [
       "story",
-      "author_ignaloidas",
-      "story_49004663"
-    ],
-    "author": "ignaloidas",
-    "created_at": "2026-07-22T10:49:04Z",
-    "aiHeadline": "Fire your overpaid CEO and hire the future—because apparently, the future is cheaper than your current leadership and also doesn't require a private jet."
-  },
-  {
-    "title": "John C. Dvorak has died",
-    "url": "https://twitter.com/na_announce/status/2079952538040672302",
-    "points": 604,
-    "num_comments": 189,
-    "tags": [
-      "story",
-      "author_coleca",
-      "story_49012070",
+      "author_technewssss",
+      "story_49020999",
       "front_page"
     ],
-    "author": "coleca",
-    "created_at": "2026-07-22T19:22:19Z",
-    "aiHeadline": "John C. Dvorak, the man who made tech journalism interesting, has passed away—now the world can finally catch up on all the tech news it missed."
+    "author": "technewssss",
+    "created_at": "2026-07-23T13:09:10Z",
+    "aiHeadline": "AI companies are hiding debt so deep it's like they're playing a game of hide and seek with their creditors, and the creditors are losing."
   },
   {
-    "title": "Passkeys were invented by engineers with zero understanding of consumer brain",
-    "url": "https://twitter.com/nikitabier/status/2079787406300266743",
-    "points": 460,
-    "num_comments": 629,
+    "title": "Tell HN: Namecheap gave my account to an unverified third party",
+    "points": 373,
+    "num_comments": 136,
     "tags": [
       "story",
-      "author_ksec",
-      "story_49007374"
+      "author_Thrashed",
+      "story_49028037",
+      "ask_hn"
     ],
-    "author": "ksec",
-    "created_at": "2026-07-22T14:25:13Z",
-    "aiHeadline": "Passkeys were invented by engineers who clearly have no idea how regular people think—because who in their right mind would want to remember a random string of numbers and letters instead of just using a password?"
+    "author": "Thrashed",
+    "created_at": "2026-07-23T21:05:29Z",
+    "aiHeadline": "Namecheap hands over your account to a random stranger, because why not? It's like a game of Russian roulette with your online identity."
+  },
+  {
+    "title": "What happened to TheNumbers.com",
+    "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+    "points": 304,
+    "num_comments": 132,
+    "tags": [
+      "story",
+      "author_nickthegreek",
+      "story_49024691",
+      "front_page"
+    ],
+    "author": "nickthegreek",
+    "created_at": "2026-07-23T16:53:33Z",
+    "aiHeadline": "TheNumbers.com disappears into the night, probably bought by a competitor who now has all the data, making it the most exclusive club in town."
   }
 ]
