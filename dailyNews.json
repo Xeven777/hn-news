@@ -1,75 +1,75 @@
 [
   {
-    "title": "Claude Opus 5",
-    "url": "https://www.anthropic.com/news/claude-opus-5",
-    "points": 1339,
-    "num_comments": 727,
+    "title": "Android May Soon Restrict On-Device ADB",
+    "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
+    "points": 885,
+    "num_comments": 427,
     "tags": [
       "story",
-      "author_alvis",
-      "story_49038433",
+      "author_shscs911",
+      "story_49045159"
+    ],
+    "author": "shscs911",
+    "created_at": "2026-07-25T06:57:14Z",
+    "aiHeadline": "Android Finally Cares About Your Security—By Taking Away the Only Thing That Made It Useful"
+  },
+  {
+    "title": "Open-weight AI is having its Kubernetes moment",
+    "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+    "points": 324,
+    "num_comments": 262,
+    "tags": [
+      "story",
+      "author_tknaup",
+      "story_49048034",
       "front_page"
     ],
-    "author": "alvis",
-    "created_at": "2026-07-24T16:57:41Z",
-    "aiHeadline": "Claude Opus 5: Because the world needed another AI update, and who doesn't love a good upgrade?"
+    "author": "tknaup",
+    "created_at": "2026-07-25T14:49:49Z",
+    "aiHeadline": "Open-weight AI Finally Gets the Attention It Deserves—Because Who Doesn’t Need Another Overcomplicated Framework in Their Life?"
   },
   {
-    "title": "It's getting harder to focus every day",
-    "url": "https://glyphack.com/attention/",
-    "points": 702,
-    "num_comments": 390,
+    "title": "Did They Ghost You?",
+    "url": "https://didtheyghostyou.com/",
+    "points": 317,
+    "num_comments": 142,
     "tags": [
       "story",
-      "author_peykar",
-      "story_49032660"
-    ],
-    "author": "peykar",
-    "created_at": "2026-07-24T08:18:30Z",
-    "aiHeadline": "It's getting harder to focus every day: Now you can join the club of people with attention spans shorter than a goldfish!"
-  },
-  {
-    "title": "If coding has been solved, why does software keep getting worse?",
-    "url": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
-    "points": 568,
-    "num_comments": 439,
-    "tags": [
-      "story",
-      "author_pchm",
-      "story_49033004",
+      "author_mooreds",
+      "story_49051120",
       "front_page"
     ],
-    "author": "pchm",
-    "created_at": "2026-07-24T09:08:17Z",
-    "aiHeadline": "If coding has been solved, why does software keep getting worse? Maybe because solving coding doesn't mean solving common sense."
+    "author": "mooreds",
+    "created_at": "2026-07-25T20:18:03Z",
+    "aiHeadline": "Did They Ghost You? Now You Can Find Out Before Wasting Hours Stalking Their Social Media"
   },
   {
-    "title": "Flux 3",
-    "url": "https://bfl.ai/blog/flux-3",
-    "points": 551,
-    "num_comments": 130,
+    "title": "Bitchat is now on Radicle",
+    "url": "https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6",
+    "points": 218,
+    "num_comments": 127,
     "tags": [
       "story",
-      "author_ThouYS",
-      "story_49031796"
-    ],
-    "author": "ThouYS",
-    "created_at": "2026-07-24T06:17:08Z",
-    "aiHeadline": "Flux 3: Because version 2 wasn't good enough, and version 3 is here to save the day—again!"
-  },
-  {
-    "title": "My security camera shipped a GitHub admin token in its login page",
-    "url": "https://hhh.hn/hanwha-github-token/",
-    "points": 523,
-    "num_comments": 180,
-    "tags": [
-      "story",
-      "author_hhh",
-      "story_49034292",
+      "author_h1watt",
+      "story_49047365",
       "front_page"
     ],
-    "author": "hhh",
-    "created_at": "2026-07-24T11:54:41Z",
-    "aiHeadline": "My security camera shipped a GitHub admin token in its login page: Because nothing says 'secure' like handing out admin tokens like candy."
+    "author": "h1watt",
+    "created_at": "2026-07-25T13:18:49Z",
+    "aiHeadline": "Bitchat Joins Radicle: Because Who Needs Centralized Servers When You Can Have a Network That’s as Reliable as Your Neighbors’ Wi-Fi?"
+  },
+  {
+    "title": "The growing vigilante movement to knock out Flock surveillance cameras",
+    "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/flock-surveillance-cameras",
+    "points": 204,
+    "num_comments": 120,
+    "tags": [
+      "story",
+      "author_bookofjoe",
+      "story_49050538"
+    ],
+    "author": "bookofjoe",
+    "created_at": "2026-07-25T19:02:17Z",
+    "aiHeadline": "Vigilantes Are Knocking Out Flock Cameras—Because Nothing Says ‘We’re Mad at Surveillance’ Like Breaking the Law to Prove It"
   }
 ]
