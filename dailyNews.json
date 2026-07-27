@@ -1,75 +1,74 @@
 [
   {
-    "title": "Android May Soon Restrict On-Device ADB",
-    "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
-    "points": 885,
-    "num_comments": 427,
+    "title": "Kill The Cookie Banner",
+    "url": "https://killthecookiebanner.eu/",
+    "points": 856,
+    "num_comments": 420,
     "tags": [
       "story",
-      "author_shscs911",
-      "story_49045159"
-    ],
-    "author": "shscs911",
-    "created_at": "2026-07-25T06:57:14Z",
-    "aiHeadline": "Android Finally Cares About Your Security—By Taking Away the Only Thing That Made It Useful"
-  },
-  {
-    "title": "Open-weight AI is having its Kubernetes moment",
-    "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
-    "points": 324,
-    "num_comments": 262,
-    "tags": [
-      "story",
-      "author_tknaup",
-      "story_49048034",
+      "author_rapnie",
+      "story_49057175",
       "front_page"
     ],
-    "author": "tknaup",
-    "created_at": "2026-07-25T14:49:49Z",
-    "aiHeadline": "Open-weight AI Finally Gets the Attention It Deserves—Because Who Doesn’t Need Another Overcomplicated Framework in Their Life?"
+    "author": "rapnie",
+    "created_at": "2026-07-26T11:53:17Z",
+    "aiHeadline": "The Cookie Banner's Worst Nightmare: A Tool That Actually Kills Them for Good (And You Don't Have to Click 'Accept' 10 Times)"
   },
   {
-    "title": "Did They Ghost You?",
-    "url": "https://didtheyghostyou.com/",
-    "points": 317,
-    "num_comments": 142,
+    "title": "GrapheneOS protections against data extraction from locked devices",
+    "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
+    "points": 396,
+    "num_comments": 223,
     "tags": [
       "story",
-      "author_mooreds",
-      "story_49051120",
+      "author_Cider9986",
+      "story_49055169"
+    ],
+    "author": "Cider9986",
+    "created_at": "2026-07-26T05:57:22Z",
+    "aiHeadline": "GrapheneOS: Because Even Your Phone Needs a Bodyguard to Keep Your Data Safe from Snooping Hackers (And It's Apparently Unbreakable, Which Is Either a Miracle or a Lie)"
+  },
+  {
+    "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
+    "url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
+    "points": 375,
+    "num_comments": 118,
+    "tags": [
+      "story",
+      "author_rcy",
+      "story_49057241",
       "front_page"
     ],
-    "author": "mooreds",
-    "created_at": "2026-07-25T20:18:03Z",
-    "aiHeadline": "Did They Ghost You? Now You Can Find Out Before Wasting Hours Stalking Their Social Media"
+    "author": "rcy",
+    "created_at": "2026-07-26T12:00:11Z",
+    "aiHeadline": "Htmx 4.0: Because JavaScript Needed a Trip Back to the '90s to Be Released Exclusively on the Game Boy (Now You Can Code Like It's 1990 All Over Again)"
   },
   {
-    "title": "Bitchat is now on Radicle",
-    "url": "https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6",
-    "points": 218,
-    "num_comments": 127,
+    "title": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
+    "url": "https://astral.sh/blog/ruff-v0.16.0",
+    "points": 336,
+    "num_comments": 222,
     "tags": [
       "story",
-      "author_h1watt",
-      "story_49047365",
-      "front_page"
+      "author_vismit2000",
+      "story_49056112"
     ],
-    "author": "h1watt",
-    "created_at": "2026-07-25T13:18:49Z",
-    "aiHeadline": "Bitchat Joins Radicle: Because Who Needs Centralized Servers When You Can Have a Network That’s as Reliable as Your Neighbors’ Wi-Fi?"
+    "author": "vismit2000",
+    "created_at": "2026-07-26T09:01:39Z",
+    "aiHeadline": "Ruff v0.16.0: Now with 413 Reasons Why You're Doing It Wrong (Up from 59, Which Was Apparently Not Enough to Ruin Your Day Completely)"
   },
   {
-    "title": "The growing vigilante movement to knock out Flock surveillance cameras",
-    "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/flock-surveillance-cameras",
-    "points": 204,
-    "num_comments": 120,
+    "title": "Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake",
+    "url": "https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c",
+    "points": 313,
+    "num_comments": 284,
     "tags": [
       "story",
-      "author_bookofjoe",
-      "story_49050538"
+      "author_1vuio0pswjnm7",
+      "story_49057574"
     ],
-    "author": "bookofjoe",
-    "created_at": "2026-07-25T19:02:17Z",
-    "aiHeadline": "Vigilantes Are Knocking Out Flock Cameras—Because Nothing Says ‘We’re Mad at Surveillance’ Like Breaking the Law to Prove It"
+    "author": "1vuio0pswjnm7",
+    "created_at": "2026-07-26T12:43:21Z",
+    "aiHeadline": "Google Buys a Piece of SpaceX: Now They Just Need to Conquer the Universe (And Probably Monetize It with Ads, Because That's What They Do)"
   }
 ]
