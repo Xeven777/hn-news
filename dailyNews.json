@@ -1,74 +1,73 @@
 [
   {
-    "title": "Kill The Cookie Banner",
-    "url": "https://killthecookiebanner.eu/",
-    "points": 856,
-    "num_comments": 420,
+    "title": "Kimi-K3 on HuggingFace",
+    "url": "https://huggingface.co/moonshotai/Kimi-K3",
+    "points": 1316,
+    "num_comments": 517,
     "tags": [
       "story",
-      "author_rapnie",
-      "story_49057175",
+      "author_nateb2022",
+      "story_49065752"
+    ],
+    "author": "nateb2022",
+    "created_at": "2026-07-27T06:18:10Z",
+    "aiHeadline": "AI Researchers Unveil Kimi-K3, a Model So Advanced It's Basically a Time Machine for Cats"
+  },
+  {
+    "title": "AI companies are shredding rare books",
+    "url": "https://twitter.com/HedgieMarkets/status/2081534588485296565",
+    "points": 742,
+    "num_comments": 468,
+    "tags": [
+      "story",
+      "author_anon373839",
+      "story_49068738"
+    ],
+    "author": "anon373839",
+    "created_at": "2026-07-27T12:32:12Z",
+    "aiHeadline": "AI Companies Are Now Shredding Rare Books, Because Apparently, They're More Valuable as Data Than as Literature"
+  },
+  {
+    "title": "Our position on open-weights models",
+    "url": "https://www.anthropic.com/news/position-open-weights-models",
+    "points": 496,
+    "num_comments": 707,
+    "tags": [
+      "story",
+      "author_surprisetalk",
+      "story_49076057",
       "front_page"
     ],
-    "author": "rapnie",
-    "created_at": "2026-07-26T11:53:17Z",
-    "aiHeadline": "The Cookie Banner's Worst Nightmare: A Tool That Actually Kills Them for Good (And You Don't Have to Click 'Accept' 10 Times)"
+    "author": "surprisetalk",
+    "created_at": "2026-07-27T22:03:49Z",
+    "aiHeadline": "Anthropic Releases Their Position on Open-Weights Models, Which Basically Means They're Trying to Keep Their Models as Secretive as Possible While Pretending to Be Transparent"
   },
   {
-    "title": "GrapheneOS protections against data extraction from locked devices",
-    "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
-    "points": 396,
-    "num_comments": 223,
+    "title": "How is the Bun rewrite in Rust going?",
+    "url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
+    "points": 455,
+    "num_comments": 354,
     "tags": [
       "story",
-      "author_Cider9986",
-      "story_49055169"
+      "author_tomlockwood",
+      "story_49067854"
     ],
-    "author": "Cider9986",
-    "created_at": "2026-07-26T05:57:22Z",
-    "aiHeadline": "GrapheneOS: Because Even Your Phone Needs a Bodyguard to Keep Your Data Safe from Snooping Hackers (And It's Apparently Unbreakable, Which Is Either a Miracle or a Lie)"
+    "author": "tomlockwood",
+    "created_at": "2026-07-27T11:12:26Z",
+    "aiHeadline": "The Bun Rewrite in Rust is Going About as Well as You'd Expect, Which is to Say, It's a Mess, But at Least It's Written in Rust"
   },
   {
-    "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
-    "url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
-    "points": 375,
-    "num_comments": 118,
+    "title": "Kimi-K3 Technical Report [pdf]",
+    "url": "https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf",
+    "points": 368,
+    "num_comments": 164,
     "tags": [
       "story",
-      "author_rcy",
-      "story_49057241",
-      "front_page"
+      "author_vinhnx",
+      "story_49070985"
     ],
-    "author": "rcy",
-    "created_at": "2026-07-26T12:00:11Z",
-    "aiHeadline": "Htmx 4.0: Because JavaScript Needed a Trip Back to the '90s to Be Released Exclusively on the Game Boy (Now You Can Code Like It's 1990 All Over Again)"
-  },
-  {
-    "title": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
-    "url": "https://astral.sh/blog/ruff-v0.16.0",
-    "points": 336,
-    "num_comments": 222,
-    "tags": [
-      "story",
-      "author_vismit2000",
-      "story_49056112"
-    ],
-    "author": "vismit2000",
-    "created_at": "2026-07-26T09:01:39Z",
-    "aiHeadline": "Ruff v0.16.0: Now with 413 Reasons Why You're Doing It Wrong (Up from 59, Which Was Apparently Not Enough to Ruin Your Day Completely)"
-  },
-  {
-    "title": "Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake",
-    "url": "https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c",
-    "points": 313,
-    "num_comments": 284,
-    "tags": [
-      "story",
-      "author_1vuio0pswjnm7",
-      "story_49057574"
-    ],
-    "author": "1vuio0pswjnm7",
-    "created_at": "2026-07-26T12:43:21Z",
-    "aiHeadline": "Google Buys a Piece of SpaceX: Now They Just Need to Conquer the Universe (And Probably Monetize It with Ads, Because That's What They Do)"
+    "author": "vinhnx",
+    "created_at": "2026-07-27T15:23:45Z",
+    "aiHeadline": "Kimi-K3 Technical Report Released, and It's Basically a 50-Pager of AI Researchers Trying to Sound Smart While Also Making You Feel Dumb"
   }
 ]
