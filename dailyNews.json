@@ -1,73 +1,75 @@
 [
   {
-    "title": "Kimi-K3 on HuggingFace",
-    "url": "https://huggingface.co/moonshotai/Kimi-K3",
-    "points": 1316,
-    "num_comments": 517,
+    "title": "7.1 Earthquake in Japan",
+    "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
+    "points": 775,
+    "num_comments": 208,
     "tags": [
       "story",
-      "author_nateb2022",
-      "story_49065752"
+      "author_krembo",
+      "story_49080664"
     ],
-    "author": "nateb2022",
-    "created_at": "2026-07-27T06:18:10Z",
-    "aiHeadline": "AI Researchers Unveil Kimi-K3, a Model So Advanced It's Basically a Time Machine for Cats"
+    "author": "krembo",
+    "created_at": "2026-07-28T07:44:24Z",
+    "aiHeadline": "7.1 Earthquake in Japan: The ground decides it's had enough of being stable for a while, and Japan, being Japan, somehow manages to stay mostly intact."
   },
   {
-    "title": "AI companies are shredding rare books",
-    "url": "https://twitter.com/HedgieMarkets/status/2081534588485296565",
-    "points": 742,
-    "num_comments": 468,
+    "title": "New HIV vaccine shows unprecedented success in preclinical study",
+    "url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
+    "points": 577,
+    "num_comments": 242,
     "tags": [
       "story",
-      "author_anon373839",
-      "story_49068738"
-    ],
-    "author": "anon373839",
-    "created_at": "2026-07-27T12:32:12Z",
-    "aiHeadline": "AI Companies Are Now Shredding Rare Books, Because Apparently, They're More Valuable as Data Than as Literature"
-  },
-  {
-    "title": "Our position on open-weights models",
-    "url": "https://www.anthropic.com/news/position-open-weights-models",
-    "points": 496,
-    "num_comments": 707,
-    "tags": [
-      "story",
-      "author_surprisetalk",
-      "story_49076057",
+      "author_codebyaditya",
+      "story_49083314",
       "front_page"
     ],
-    "author": "surprisetalk",
-    "created_at": "2026-07-27T22:03:49Z",
-    "aiHeadline": "Anthropic Releases Their Position on Open-Weights Models, Which Basically Means They're Trying to Keep Their Models as Secretive as Possible While Pretending to Be Transparent"
+    "author": "codebyaditya",
+    "created_at": "2026-07-28T13:12:01Z",
+    "aiHeadline": "New HIV Vaccine Shows Unprecedented Success in Preclinical Study: Scientists finally crack the code, and the internet collectively pretends to not be surprised because, of course, they figured it out in a lab somewhere."
   },
   {
-    "title": "How is the Bun rewrite in Rust going?",
-    "url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
-    "points": 455,
-    "num_comments": 354,
+    "title": "Stop Killing the Internet: No Digital ID and No Age Verification",
+    "url": "https://citizens-initiative.europa.eu/initiatives/details/2026/000011_en",
+    "points": 528,
+    "num_comments": 191,
     "tags": [
       "story",
-      "author_tomlockwood",
-      "story_49067854"
+      "author_doener",
+      "story_49084938"
     ],
-    "author": "tomlockwood",
-    "created_at": "2026-07-27T11:12:26Z",
-    "aiHeadline": "The Bun Rewrite in Rust is Going About as Well as You'd Expect, Which is to Say, It's a Mess, But at Least It's Written in Rust"
+    "author": "doener",
+    "created_at": "2026-07-28T14:58:15Z",
+    "aiHeadline": "Stop Killing the Internet: No Digital ID and No Age Verification: A group of people who clearly don't understand how the internet works demand we keep it exactly as it is, which is basically a digital Wild West with no rules."
   },
   {
-    "title": "Kimi-K3 Technical Report [pdf]",
-    "url": "https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf",
-    "points": 368,
-    "num_comments": 164,
+    "title": "Substack writers, you need a website",
+    "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
+    "points": 430,
+    "num_comments": 215,
     "tags": [
       "story",
-      "author_vinhnx",
-      "story_49070985"
+      "author_speckx",
+      "story_49086788",
+      "front_page"
     ],
-    "author": "vinhnx",
-    "created_at": "2026-07-27T15:23:45Z",
-    "aiHeadline": "Kimi-K3 Technical Report Released, and It's Basically a 50-Pager of AI Researchers Trying to Sound Smart While Also Making You Feel Dumb"
+    "author": "speckx",
+    "created_at": "2026-07-28T16:58:31Z",
+    "aiHeadline": "Substack Writers, You Need a Website: Because apparently, having a paid newsletter isn't enough, and you also need a personal website to prove you're not just some random person on the internet."
+  },
+  {
+    "title": "Codex Security",
+    "url": "https://github.com/openai/codex-security",
+    "points": 369,
+    "num_comments": 109,
+    "tags": [
+      "story",
+      "author_bakigul",
+      "story_49089755",
+      "front_page"
+    ],
+    "author": "bakigul",
+    "created_at": "2026-07-28T20:52:55Z",
+    "aiHeadline": "Codex Security: OpenAI's latest update to Codex is so secure, it's basically a black box of mystery, and we're all just hoping it doesn't decide to take over the world while we're not looking."
   }
 ]
