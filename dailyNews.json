@@ -1,75 +1,74 @@
 [
   {
-    "title": "7.1 Earthquake in Japan",
-    "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
-    "points": 775,
-    "num_comments": 208,
+    "title": "Elevators",
+    "url": "https://john.fun/elevators",
+    "points": 956,
+    "num_comments": 237,
     "tags": [
       "story",
-      "author_krembo",
-      "story_49080664"
-    ],
-    "author": "krembo",
-    "created_at": "2026-07-28T07:44:24Z",
-    "aiHeadline": "7.1 Earthquake in Japan: The ground decides it's had enough of being stable for a while, and Japan, being Japan, somehow manages to stay mostly intact."
-  },
-  {
-    "title": "New HIV vaccine shows unprecedented success in preclinical study",
-    "url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
-    "points": 577,
-    "num_comments": 242,
-    "tags": [
-      "story",
-      "author_codebyaditya",
-      "story_49083314",
+      "author_Jrh0203",
+      "story_49124218",
       "front_page"
     ],
-    "author": "codebyaditya",
-    "created_at": "2026-07-28T13:12:01Z",
-    "aiHeadline": "New HIV Vaccine Shows Unprecedented Success in Preclinical Study: Scientists finally crack the code, and the internet collectively pretends to not be surprised because, of course, they figured it out in a lab somewhere."
+    "author": "Jrh0203",
+    "created_at": "2026-07-31T15:17:28Z",
+    "aiHeadline": "Elevators: The unsung heroes of modern architecture, silently carrying us up and down, occasionally getting stuck for no good reason, but still somehow managing to be the backbone of our daily commutes."
   },
   {
-    "title": "Stop Killing the Internet: No Digital ID and No Age Verification",
-    "url": "https://citizens-initiative.europa.eu/initiatives/details/2026/000011_en",
-    "points": 528,
-    "num_comments": 191,
+    "title": "The session you cannot take with you",
+    "url": "https://earendil.com/posts/session-portability/",
+    "points": 735,
+    "num_comments": 212,
     "tags": [
       "story",
-      "author_doener",
-      "story_49084938"
+      "author_apitman",
+      "story_49118781"
     ],
-    "author": "doener",
-    "created_at": "2026-07-28T14:58:15Z",
-    "aiHeadline": "Stop Killing the Internet: No Digital ID and No Age Verification: A group of people who clearly don't understand how the internet works demand we keep it exactly as it is, which is basically a digital Wild West with no rules."
+    "author": "apitman",
+    "created_at": "2026-07-31T03:47:59Z",
+    "aiHeadline": "The session you cannot take with you: A frustrating reminder that sometimes, even when you're ready to move on, the universe has other plans for your digital experiences."
   },
   {
-    "title": "Substack writers, you need a website",
-    "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
-    "points": 430,
-    "num_comments": 215,
+    "title": "DeepSeek-V4-Flash Update",
+    "url": "https://api-docs.deepseek.com/updates/",
+    "points": 678,
+    "num_comments": 326,
     "tags": [
       "story",
-      "author_speckx",
-      "story_49086788",
+      "author_dnhkng",
+      "story_49119559"
+    ],
+    "author": "dnhkng",
+    "created_at": "2026-07-31T06:08:36Z",
+    "aiHeadline": "DeepSeek-V4-Flash Update: The latest iteration of this AI marvel brings you even closer to the future, with improvements so significant they might just make you question your life choices."
+  },
+  {
+    "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
+    "url": "https://artificialanalysis.ai/models/deepseek-v4-flash",
+    "points": 536,
+    "num_comments": 292,
+    "tags": [
+      "story",
+      "author_theanonymousone",
+      "story_49120299"
+    ],
+    "author": "theanonymousone",
+    "created_at": "2026-07-31T07:59:11Z",
+    "aiHeadline": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis: A comprehensive breakdown of what makes this AI model tick, including its smarts, speed, and whether it's worth every penny."
+  },
+  {
+    "title": "qm – Multiplayer agent harness for work",
+    "url": "https://github.com/yc-software/qm",
+    "points": 489,
+    "num_comments": 105,
+    "tags": [
+      "story",
+      "author_tosh",
+      "story_49126604",
       "front_page"
     ],
-    "author": "speckx",
-    "created_at": "2026-07-28T16:58:31Z",
-    "aiHeadline": "Substack Writers, You Need a Website: Because apparently, having a paid newsletter isn't enough, and you also need a personal website to prove you're not just some random person on the internet."
-  },
-  {
-    "title": "Codex Security",
-    "url": "https://github.com/openai/codex-security",
-    "points": 369,
-    "num_comments": 109,
-    "tags": [
-      "story",
-      "author_bakigul",
-      "story_49089755",
-      "front_page"
-    ],
-    "author": "bakigul",
-    "created_at": "2026-07-28T20:52:55Z",
-    "aiHeadline": "Codex Security: OpenAI's latest update to Codex is so secure, it's basically a black box of mystery, and we're all just hoping it doesn't decide to take over the world while we're not looking."
+    "author": "tosh",
+    "created_at": "2026-07-31T18:04:58Z",
+    "aiHeadline": "qm – Multiplayer agent harness for work: Because sometimes, even your work needs a team of agents to get things done, and this tool is here to make that happen in style."
   }
 ]
