@@ -1,74 +1,75 @@
 [
   {
-    "title": "How Google helped destroy adoption of RSS feeds (2023)",
-    "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
-    "points": 426,
-    "num_comments": 152,
+    "title": "Don't be a meat proxy",
+    "url": "https://gruhn.me/blog/2026-08-03/",
+    "points": 1705,
+    "num_comments": 694,
     "tags": [
       "story",
-      "author_pudgywalsh",
-      "story_49136821",
+      "author_ngruhn",
+      "story_49151933"
+    ],
+    "author": "ngruhn",
+    "created_at": "2026-08-03T06:28:01Z",
+    "aiHeadline": "Why you shouldn't just be a walking, talking, hormone-filled meat sandwich: A guide to not being a meat proxy, because apparently that's a thing people need to be told not to do."
+  },
+  {
+    "title": "SQLite Critical CVEs or LLM Slop?",
+    "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+    "points": 700,
+    "num_comments": 352,
+    "tags": [
+      "story",
+      "author_ymir_e",
+      "story_49154332"
+    ],
+    "author": "ymir_e",
+    "created_at": "2026-08-03T11:28:54Z",
+    "aiHeadline": "SQLite's latest critical CVEs: because nothing says 'secure' like a database vulnerability that even an LLM could trip over, apparently."
+  },
+  {
+    "title": "Devtools must be open source",
+    "url": "https://blog.exe.dev/devtools-must-be-open-source",
+    "points": 516,
+    "num_comments": 187,
+    "tags": [
+      "story",
+      "author_bryanmikaelian",
+      "story_49156111",
       "front_page"
     ],
-    "author": "pudgywalsh",
-    "created_at": "2026-08-01T18:07:07Z",
-    "aiHeadline": "Google's latest 'innovation' in RSS: making it so inconvenient that no one uses it anymore. Because who needs updates when you can't even read them?"
+    "author": "bryanmikaelian",
+    "created_at": "2026-08-03T14:15:47Z",
+    "aiHeadline": "Why your dev tools should be open source: because nothing says 'trust me' like transparency, except maybe 'please hack me.'"
+  },
+  {
+    "title": "LLMs reward expertise",
+    "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+    "points": 495,
+    "num_comments": 219,
+    "tags": [
+      "story",
+      "author_MaxMussio",
+      "story_49161518",
+      "front_page"
+    ],
+    "author": "MaxMussio",
+    "created_at": "2026-08-03T21:13:53Z",
+    "aiHeadline": "LLMs reward expertise: because even they can't fake knowing everything, apparently."
   },
   {
     "title": "Ten advances in mathematics and theoretical computer science",
     "url": "https://openai.com/index/ten-advances-in-mathematics/",
-    "points": 416,
-    "num_comments": 284,
+    "points": 447,
+    "num_comments": 725,
     "tags": [
       "story",
       "author_milkshakes",
-      "story_49132058"
-    ],
-    "author": "milkshakes",
-    "created_at": "2026-08-01T07:37:44Z",
-    "aiHeadline": "Ten 'groundbreaking' math advances that will probably only matter to a handful of PhDs. Because nothing says 'world-changing' like niche academic achievements."
-  },
-  {
-    "title": "Cursor removed cost information from the usage page and CSV export",
-    "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
-    "points": 316,
-    "num_comments": 143,
-    "tags": [
-      "story",
-      "author_EugeneOZ",
-      "story_49135257"
-    ],
-    "author": "EugeneOZ",
-    "created_at": "2026-08-01T15:25:21Z",
-    "aiHeadline": "Cursor hides cost info because transparency is overrated. Now you have to guess how much you're spending—what could go wrong?"
-  },
-  {
-    "title": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention",
-    "url": "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/",
-    "points": 277,
-    "num_comments": 155,
-    "tags": [
-      "story",
-      "author_iamnothere",
-      "story_49134694"
-    ],
-    "author": "iamnothere",
-    "created_at": "2026-08-01T14:19:51Z",
-    "aiHeadline": "Canada signs UN cybercrime treaty, because who needs privacy when you can have endless surveillance? Now you'll know what your government knows about you—eventually."
-  },
-  {
-    "title": "RipGrep musl binaries occasionally segfault during very-large searches",
-    "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
-    "points": 257,
-    "num_comments": 173,
-    "tags": [
-      "story",
-      "author_throwaway2037",
-      "story_49133889",
+      "story_49157930",
       "front_page"
     ],
-    "author": "throwaway2037",
-    "created_at": "2026-08-01T12:34:25Z",
-    "aiHeadline": "RipGrep's musl binaries: because crashing during large searches is the new black. Segfaults have never looked so stylish."
+    "author": "milkshakes",
+    "created_at": "2026-08-03T16:27:12Z",
+    "aiHeadline": "Ten groundbreaking advances in math and computer science: because even in the age of AI, we still need to prove that 1+1=2, apparently."
   }
 ]
