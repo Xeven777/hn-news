@@ -1,75 +1,75 @@
 [
   {
-    "title": "Don't be a meat proxy",
-    "url": "https://gruhn.me/blog/2026-08-03/",
-    "points": 1705,
-    "num_comments": 694,
+    "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
+    "url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
+    "points": 986,
+    "num_comments": 55,
     "tags": [
       "story",
-      "author_ngruhn",
-      "story_49151933"
-    ],
-    "author": "ngruhn",
-    "created_at": "2026-08-03T06:28:01Z",
-    "aiHeadline": "Why you shouldn't just be a walking, talking, hormone-filled meat sandwich: A guide to not being a meat proxy, because apparently that's a thing people need to be told not to do."
-  },
-  {
-    "title": "SQLite Critical CVEs or LLM Slop?",
-    "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
-    "points": 700,
-    "num_comments": 352,
-    "tags": [
-      "story",
-      "author_ymir_e",
-      "story_49154332"
-    ],
-    "author": "ymir_e",
-    "created_at": "2026-08-03T11:28:54Z",
-    "aiHeadline": "SQLite's latest critical CVEs: because nothing says 'secure' like a database vulnerability that even an LLM could trip over, apparently."
-  },
-  {
-    "title": "Devtools must be open source",
-    "url": "https://blog.exe.dev/devtools-must-be-open-source",
-    "points": 516,
-    "num_comments": 187,
-    "tags": [
-      "story",
-      "author_bryanmikaelian",
-      "story_49156111",
+      "author_jdcampolargo",
+      "story_49173165",
       "front_page"
     ],
-    "author": "bryanmikaelian",
-    "created_at": "2026-08-03T14:15:47Z",
-    "aiHeadline": "Why your dev tools should be open source: because nothing says 'trust me' like transparency, except maybe 'please hack me.'"
+    "author": "jdcampolargo",
+    "created_at": "2026-08-04T18:51:38Z",
+    "aiHeadline": "Stephen Wolfram pens heartfelt tribute to his late wife, Elise, who managed to survive the horrors of the 21st century for an impressive 36 years."
   },
   {
-    "title": "LLMs reward expertise",
-    "url": "https://www.seangoedecke.com/llms-reward-expertise/",
-    "points": 495,
-    "num_comments": 219,
+    "title": "AI-Generated Images Discourage Me from Reading Your Blog",
+    "url": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/",
+    "points": 738,
+    "num_comments": 436,
     "tags": [
       "story",
-      "author_MaxMussio",
-      "story_49161518",
-      "front_page"
+      "author_meysamazad",
+      "story_49167113"
     ],
-    "author": "MaxMussio",
-    "created_at": "2026-08-03T21:13:53Z",
-    "aiHeadline": "LLMs reward expertise: because even they can't fake knowing everything, apparently."
+    "author": "meysamazad",
+    "created_at": "2026-08-04T11:30:17Z",
+    "aiHeadline": "AI-generated images are so convincing, they're making people question why they even bother reading blogs in the first place."
   },
   {
-    "title": "Ten advances in mathematics and theoretical computer science",
-    "url": "https://openai.com/index/ten-advances-in-mathematics/",
-    "points": 447,
-    "num_comments": 725,
+    "title": "Xbox goes down. You can't play games you own on disc",
+    "url": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
+    "points": 595,
+    "num_comments": 636,
     "tags": [
       "story",
-      "author_milkshakes",
-      "story_49157930",
+      "author_surprisetalk",
+      "story_49167448"
+    ],
+    "author": "surprisetalk",
+    "created_at": "2026-08-04T12:01:02Z",
+    "aiHeadline": "Xbox outage proves once again that owning a game doesn't mean you can actually play it, because why would you need the disc if you can't use it?"
+  },
+  {
+    "title": "Ray Bradbury's \"There Will Come Soft Rains\" is set today (2026-08-04)",
+    "url": "https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj",
+    "points": 497,
+    "num_comments": 6,
+    "tags": [
+      "story",
+      "author_askvictor",
+      "story_49166491"
+    ],
+    "author": "askvictor",
+    "created_at": "2026-08-04T10:13:13Z",
+    "aiHeadline": "Ray Bradbury's 'There Will Come Soft Rains' is eerily set in today's date, proving that sometimes, fiction is just a mirror to our reality."
+  },
+  {
+    "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+    "url": "https://toneyalexander.github.io/inclusive-color-space/",
+    "points": 472,
+    "num_comments": 90,
+    "tags": [
+      "story",
+      "author_automatoney",
+      "story_49170165",
+      "show_hn",
       "front_page"
     ],
-    "author": "milkshakes",
-    "created_at": "2026-08-03T16:27:12Z",
-    "aiHeadline": "Ten groundbreaking advances in math and computer science: because even in the age of AI, we still need to prove that 1+1=2, apparently."
+    "author": "automatoney",
+    "created_at": "2026-08-04T15:16:22Z",
+    "aiHeadline": "New algorithm promises to generate diverse skin tones, because clearly, the world needs more complex math to figure out something that should be as simple as looking around."
   }
 ]
