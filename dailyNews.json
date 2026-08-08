@@ -1,76 +1,76 @@
 [
   {
-    "title": "Mario Meets Pareto",
-    "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
-    "points": 898,
-    "num_comments": 150,
+    "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
+    "url": "https://www.bbc.com/news/articles/c1e1vg0gjl5o",
+    "points": 856,
+    "num_comments": 816,
     "tags": [
       "story",
-      "author_theanonymousone",
-      "story_49195231",
-      "front_page"
+      "author_defrost",
+      "story_49208314"
     ],
-    "author": "theanonymousone",
-    "created_at": "2026-08-06T11:24:53Z",
-    "aiHeadline": "Mario finally gets a life lesson in economics, but will he ever learn to balance fun and efficiency? Probably not, but at least he's meeting Pareto!"
+    "author": "defrost",
+    "created_at": "2026-08-07T10:28:55Z",
+    "aiHeadline": "US government decides 'sustainable energy' is too sustainable, so they pay $1.2B to a German company to stop building offshore wind farms. Because nothing says 'environmentalism' like throwing money at the problem and then paying to stop it."
   },
   {
-    "title": "Crime Pays but Botany Doesn't",
-    "url": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
-    "points": 654,
-    "num_comments": 203,
+    "title": "DeepSeek V4 Flash 0731",
+    "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+    "points": 464,
+    "num_comments": 276,
     "tags": [
       "story",
-      "author_DarkContinent",
-      "story_49192566"
-    ],
-    "author": "DarkContinent",
-    "created_at": "2026-08-06T04:46:35Z",
-    "aiHeadline": "Crime pays, but botany? Not so much. Turns out, being a criminal is more lucrative than studying plants. Who knew?"
-  },
-  {
-    "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
-    "url": "https://artificialanalysis.ai/?intelligence=agentic-index",
-    "points": 447,
-    "num_comments": 286,
-    "tags": [
-      "story",
-      "author_apitman",
-      "story_49200652",
+      "author_tosh",
+      "story_49214008",
       "front_page"
     ],
-    "author": "apitman",
-    "created_at": "2026-08-06T18:44:49Z",
-    "aiHeadline": "Qwen3.8 Max is now the king of AI models, according to some index. Of course, it'll be dethroned next week by the next big thing. That's how it goes in the AI world."
+    "author": "tosh",
+    "created_at": "2026-08-07T17:56:20Z",
+    "aiHeadline": "DeepSeek V4 Flash 0731: because the world needed another AI model update, and here we are. Spoiler alert: it's still not as good as a human, but at least it's slightly less bad than last month's version."
   },
   {
-    "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-    "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-    "points": 405,
-    "num_comments": 323,
+    "title": "What happens if an entire class of workers loses faith in their careers",
+    "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+    "points": 422,
+    "num_comments": 535,
     "tags": [
       "story",
-      "author_itvision",
-      "story_49201970",
+      "author_RickJWagner",
+      "story_49209539",
       "front_page"
     ],
-    "author": "itvision",
-    "created_at": "2026-08-06T20:23:11Z",
-    "aiHeadline": "AMD's latest move: etching models into silicon. Because why not? They're already good at making chips, so why not make them even better by carving in some AI magic?"
+    "author": "RickJWagner",
+    "created_at": "2026-08-07T12:42:27Z",
+    "aiHeadline": "Tech workers are so sad they're considering a career in... wait, no, they're just sad in their current careers. What could possibly go wrong? Oh, right, an entire class of workers losing faith in their jobs. Fun times ahead!"
   },
   {
-    "title": "GitHub Actions and Pages are experiencing degraded availability",
-    "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
-    "points": 340,
-    "num_comments": 275,
+    "title": "Oracle bans AI-generated code from OpenJDK",
+    "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+    "points": 390,
+    "num_comments": 257,
     "tags": [
       "story",
-      "author_Footkerchief",
-      "story_49198302",
+      "author_delduca",
+      "story_49213754",
       "front_page"
     ],
-    "author": "Footkerchief",
-    "created_at": "2026-08-06T15:49:38Z",
-    "aiHeadline": "GitHub's having some issues again. Surprise, surprise. When will they ever learn? Oh, right, they won't. That's the beauty of GitHub."
+    "author": "delduca",
+    "created_at": "2026-08-07T17:36:30Z",
+    "aiHeadline": "Oracle bans AI-generated code from OpenJDK, proving once again that the best way to handle AI is to... well, not handle it. Because nothing says 'innovation' like banning the future."
+  },
+  {
+    "title": "A year of fighting scrapers on my 1.5 million-page website",
+    "url": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
+    "points": 375,
+    "num_comments": 356,
+    "tags": [
+      "story",
+      "author_petercooper",
+      "story_49211386",
+      "front_page"
+    ],
+    "author": "petercooper",
+    "created_at": "2026-08-07T14:51:57Z",
+    "aiHeadline": "A year of fighting scrapers on a 1.5 million-page website: the story of one man's endless battle against bots, only to realize that 99% of his traffic is still bots. Spoiler: the bots win. Again."
   }
 ]
