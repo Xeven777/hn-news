@@ -1,76 +1,76 @@
 [
   {
-    "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
-    "url": "https://www.bbc.com/news/articles/c1e1vg0gjl5o",
-    "points": 856,
-    "num_comments": 816,
+    "title": "France to ban unsolicited telemarketing calls",
+    "url": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
+    "points": 987,
+    "num_comments": 478,
     "tags": [
       "story",
-      "author_defrost",
-      "story_49208314"
+      "author_aziaziazi",
+      "story_49254880"
     ],
-    "author": "defrost",
-    "created_at": "2026-08-07T10:28:55Z",
-    "aiHeadline": "US government decides 'sustainable energy' is too sustainable, so they pay $1.2B to a German company to stop building offshore wind farms. Because nothing says 'environmentalism' like throwing money at the problem and then paying to stop it."
+    "author": "aziaziazi",
+    "created_at": "2026-08-11T08:15:46Z",
+    "aiHeadline": "France finally listens to the people by banning annoying telemarketers—about 20 years too late."
   },
   {
-    "title": "DeepSeek V4 Flash 0731",
-    "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-    "points": 464,
-    "num_comments": 276,
+    "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+    "url": "https://stolen-thoughts.com/",
+    "points": 497,
+    "num_comments": 209,
     "tags": [
       "story",
-      "author_tosh",
-      "story_49214008",
+      "author_quantumgarbage",
+      "story_49257876",
       "front_page"
     ],
-    "author": "tosh",
-    "created_at": "2026-08-07T17:56:20Z",
-    "aiHeadline": "DeepSeek V4 Flash 0731: because the world needed another AI model update, and here we are. Spoiler alert: it's still not as good as a human, but at least it's slightly less bad than last month's version."
+    "author": "quantumgarbage",
+    "created_at": "2026-08-11T13:22:00Z",
+    "aiHeadline": "Hackers find a way to steal AI's thoughts, proving that even proprietary systems aren't safe from prying eyes."
   },
   {
-    "title": "What happens if an entire class of workers loses faith in their careers",
-    "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-    "points": 422,
-    "num_comments": 535,
+    "title": "England set to be one of the first countries to eliminate hepatitis C",
+    "url": "https://www.bbc.com/news/articles/c75gk620r22o",
+    "points": 492,
+    "num_comments": 355,
     "tags": [
       "story",
-      "author_RickJWagner",
-      "story_49209539",
+      "author_stevekemp",
+      "story_49257377",
       "front_page"
     ],
-    "author": "RickJWagner",
-    "created_at": "2026-08-07T12:42:27Z",
-    "aiHeadline": "Tech workers are so sad they're considering a career in... wait, no, they're just sad in their current careers. What could possibly go wrong? Oh, right, an entire class of workers losing faith in their jobs. Fun times ahead!"
+    "author": "stevekemp",
+    "created_at": "2026-08-11T12:41:59Z",
+    "aiHeadline": "England leads the way in public health by eliminating hepatitis C, showing that progress is possible with the right efforts."
   },
   {
-    "title": "Oracle bans AI-generated code from OpenJDK",
-    "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-    "points": 390,
-    "num_comments": 257,
+    "title": "Mojo 1.0",
+    "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
+    "points": 296,
+    "num_comments": 129,
     "tags": [
       "story",
-      "author_delduca",
-      "story_49213754",
+      "author_dayanruben",
+      "story_49261128",
       "front_page"
     ],
-    "author": "delduca",
-    "created_at": "2026-08-07T17:36:30Z",
-    "aiHeadline": "Oracle bans AI-generated code from OpenJDK, proving once again that the best way to handle AI is to... well, not handle it. Because nothing says 'innovation' like banning the future."
+    "author": "dayanruben",
+    "created_at": "2026-08-11T16:56:46Z",
+    "aiHeadline": "Mojo 1.0 arrives, promising to change the game—though the game might not even notice."
   },
   {
-    "title": "A year of fighting scrapers on my 1.5 million-page website",
-    "url": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
-    "points": 375,
-    "num_comments": 356,
+    "title": "Nvidia's Risky Business",
+    "url": "https://stratechery.com/2026/nvidias-risky-business/",
+    "points": 295,
+    "num_comments": 140,
     "tags": [
       "story",
-      "author_petercooper",
-      "story_49211386",
+      "author_jonbaer",
+      "story_49255710",
       "front_page"
     ],
-    "author": "petercooper",
-    "created_at": "2026-08-07T14:51:57Z",
-    "aiHeadline": "A year of fighting scrapers on a 1.5 million-page website: the story of one man's endless battle against bots, only to realize that 99% of his traffic is still bots. Spoiler: the bots win. Again."
+    "author": "jonbaer",
+    "created_at": "2026-08-11T10:02:00Z",
+    "aiHeadline": "Nvidia takes on more risk than necessary, proving that sometimes, caution is the better part of valor."
   }
 ]
