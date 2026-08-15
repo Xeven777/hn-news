@@ -1,76 +1,76 @@
 [
   {
-    "title": "France to ban unsolicited telemarketing calls",
-    "url": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
-    "points": 987,
-    "num_comments": 478,
+    "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+    "url": "https://z.ai/blog/glm-5.3",
+    "points": 1027,
+    "num_comments": 514,
     "tags": [
       "story",
-      "author_aziaziazi",
-      "story_49254880"
-    ],
-    "author": "aziaziazi",
-    "created_at": "2026-08-11T08:15:46Z",
-    "aiHeadline": "France finally listens to the people by banning annoying telemarketers—about 20 years too late."
-  },
-  {
-    "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-    "url": "https://stolen-thoughts.com/",
-    "points": 497,
-    "num_comments": 209,
-    "tags": [
-      "story",
-      "author_quantumgarbage",
-      "story_49257876",
+      "author_pella",
+      "story_49294997",
       "front_page"
     ],
-    "author": "quantumgarbage",
-    "created_at": "2026-08-11T13:22:00Z",
-    "aiHeadline": "Hackers find a way to steal AI's thoughts, proving that even proprietary systems aren't safe from prying eyes."
+    "author": "pella",
+    "created_at": "2026-08-14T05:19:59Z",
+    "aiHeadline": "The future of coding is here, and it's as exciting as watching paint dry but with more emojis."
   },
   {
-    "title": "England set to be one of the first countries to eliminate hepatitis C",
-    "url": "https://www.bbc.com/news/articles/c75gk620r22o",
-    "points": 492,
-    "num_comments": 355,
+    "title": "Qwen 3.8 27B",
+    "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+    "points": 893,
+    "num_comments": 582,
     "tags": [
       "story",
-      "author_stevekemp",
-      "story_49257377",
+      "author_erdaltoprak",
+      "story_49299605",
       "front_page"
     ],
-    "author": "stevekemp",
-    "created_at": "2026-08-11T12:41:59Z",
-    "aiHeadline": "England leads the way in public health by eliminating hepatitis C, showing that progress is possible with the right efforts."
+    "author": "erdaltoprak",
+    "created_at": "2026-08-14T15:00:00Z",
+    "aiHeadline": "Another AI model that's bigger, faster, and just as confusing as the last one."
   },
   {
-    "title": "Mojo 1.0",
-    "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
-    "points": 296,
-    "num_comments": 129,
+    "title": "Why does Opus 5 feel worse to work with?",
+    "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+    "points": 778,
+    "num_comments": 716,
     "tags": [
       "story",
-      "author_dayanruben",
-      "story_49261128",
+      "author_numeri",
+      "story_49296740",
       "front_page"
     ],
-    "author": "dayanruben",
-    "created_at": "2026-08-11T16:56:46Z",
-    "aiHeadline": "Mojo 1.0 arrives, promising to change the game—though the game might not even notice."
+    "author": "numeri",
+    "created_at": "2026-08-14T10:12:48Z",
+    "aiHeadline": "Why Opus 5 is making your life harder, because technology just loves a good drama."
   },
   {
-    "title": "Nvidia's Risky Business",
-    "url": "https://stratechery.com/2026/nvidias-risky-business/",
-    "points": 295,
-    "num_comments": 140,
+    "title": "Every Fucking Website (2020)",
+    "url": "https://lxe.github.io/everywebsite/",
+    "points": 742,
+    "num_comments": 448,
     "tags": [
       "story",
-      "author_jonbaer",
-      "story_49255710",
+      "author_doubletwoyou",
+      "story_49299222",
       "front_page"
     ],
-    "author": "jonbaer",
-    "created_at": "2026-08-11T10:02:00Z",
-    "aiHeadline": "Nvidia takes on more risk than necessary, proving that sometimes, caution is the better part of valor."
+    "author": "doubletwoyou",
+    "created_at": "2026-08-14T14:31:08Z",
+    "aiHeadline": "A nostalgic trip down memory lane showing how every website still looks the same as it did in 2020."
+  },
+  {
+    "title": "Count Binface receives over a quarter of votes in Clacton by-election",
+    "url": "https://www.bbc.com/news/articles/ce97mm3vvemo",
+    "points": 431,
+    "num_comments": 344,
+    "tags": [
+      "story",
+      "author_tcp_handshaker",
+      "story_49301260"
+    ],
+    "author": "tcp_handshaker",
+    "created_at": "2026-08-14T16:45:49Z",
+    "aiHeadline": "Count Binface is winning hearts and minds, one questionable tweet at a time."
   }
 ]
