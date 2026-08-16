@@ -1,76 +1,76 @@
 [
   {
-    "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
-    "url": "https://z.ai/blog/glm-5.3",
-    "points": 1027,
-    "num_comments": 514,
+    "title": "AI has access to a vastly larger working memory than the human brain",
+    "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+    "points": 407,
+    "num_comments": 366,
     "tags": [
       "story",
-      "author_pella",
-      "story_49294997",
+      "author_rzk",
+      "story_49312845",
       "front_page"
     ],
-    "author": "pella",
-    "created_at": "2026-08-14T05:19:59Z",
-    "aiHeadline": "The future of coding is here, and it's as exciting as watching paint dry but with more emojis."
+    "author": "rzk",
+    "created_at": "2026-08-15T18:13:02Z",
+    "aiHeadline": "AI now has a memory like an elephant, which is good because humans are starting to forget how to use it."
   },
   {
-    "title": "Qwen 3.8 27B",
-    "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-    "points": 893,
-    "num_comments": 582,
+    "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+    "url": "https://sankalp.bearblog.dev/autoresearch/",
+    "points": 392,
+    "num_comments": 86,
     "tags": [
       "story",
-      "author_erdaltoprak",
-      "story_49299605",
+      "author_tosh",
+      "story_49309549",
       "front_page"
     ],
-    "author": "erdaltoprak",
-    "created_at": "2026-08-14T15:00:00Z",
-    "aiHeadline": "Another AI model that's bigger, faster, and just as confusing as the last one."
+    "author": "tosh",
+    "created_at": "2026-08-15T11:00:02Z",
+    "aiHeadline": "Finally, a kernel that's 232x faster—because who doesn't want to wait 0.0000000001 seconds less for their code to compile?"
   },
   {
-    "title": "Why does Opus 5 feel worse to work with?",
-    "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
-    "points": 778,
-    "num_comments": 716,
+    "title": "The other Sean Byrne doesn't exist",
+    "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
+    "points": 371,
+    "num_comments": 178,
     "tags": [
       "story",
-      "author_numeri",
-      "story_49296740",
+      "author_rdl",
+      "story_49307592"
+    ],
+    "author": "rdl",
+    "created_at": "2026-08-15T04:18:44Z",
+    "aiHeadline": "The other Sean Byrne doesn't exist, which is a relief because we already have enough Sean Byrnes in our lives."
+  },
+  {
+    "title": "Semaglutide linked to lower predicted dementia risk",
+    "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+    "points": 343,
+    "num_comments": 239,
+    "tags": [
+      "story",
+      "author_randycupertino",
+      "story_49311651",
       "front_page"
     ],
-    "author": "numeri",
-    "created_at": "2026-08-14T10:12:48Z",
-    "aiHeadline": "Why Opus 5 is making your life harder, because technology just loves a good drama."
+    "author": "randycupertino",
+    "created_at": "2026-08-15T15:58:53Z",
+    "aiHeadline": "Semaglutide: Because who doesn't want to live forever, just without remembering anything?"
   },
   {
-    "title": "Every Fucking Website (2020)",
-    "url": "https://lxe.github.io/everywebsite/",
-    "points": 742,
-    "num_comments": 448,
+    "title": "Working with AI feels more like leadership than coding",
+    "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+    "points": 264,
+    "num_comments": 171,
     "tags": [
       "story",
-      "author_doubletwoyou",
-      "story_49299222",
+      "author_allenb",
+      "story_49309451",
       "front_page"
     ],
-    "author": "doubletwoyou",
-    "created_at": "2026-08-14T14:31:08Z",
-    "aiHeadline": "A nostalgic trip down memory lane showing how every website still looks the same as it did in 2020."
-  },
-  {
-    "title": "Count Binface receives over a quarter of votes in Clacton by-election",
-    "url": "https://www.bbc.com/news/articles/ce97mm3vvemo",
-    "points": 431,
-    "num_comments": 344,
-    "tags": [
-      "story",
-      "author_tcp_handshaker",
-      "story_49301260"
-    ],
-    "author": "tcp_handshaker",
-    "created_at": "2026-08-14T16:45:49Z",
-    "aiHeadline": "Count Binface is winning hearts and minds, one questionable tweet at a time."
+    "author": "allenb",
+    "created_at": "2026-08-15T10:39:41Z",
+    "aiHeadline": "Working with AI is like being a manager—except instead of dealing with underlings, you're dealing with an algorithm that still doesn't understand basic human logic."
   }
 ]
