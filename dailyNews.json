@@ -1,76 +1,76 @@
 [
   {
-    "title": "AI has access to a vastly larger working memory than the human brain",
-    "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-    "points": 407,
-    "num_comments": 366,
-    "tags": [
-      "story",
-      "author_rzk",
-      "story_49312845",
-      "front_page"
-    ],
-    "author": "rzk",
-    "created_at": "2026-08-15T18:13:02Z",
-    "aiHeadline": "AI now has a memory like an elephant, which is good because humans are starting to forget how to use it."
-  },
-  {
-    "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
-    "url": "https://sankalp.bearblog.dev/autoresearch/",
-    "points": 392,
-    "num_comments": 86,
+    "title": "Claude: System Prompts",
+    "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+    "points": 535,
+    "num_comments": 224,
     "tags": [
       "story",
       "author_tosh",
-      "story_49309549",
+      "story_49319556",
       "front_page"
     ],
     "author": "tosh",
-    "created_at": "2026-08-15T11:00:02Z",
-    "aiHeadline": "Finally, a kernel that's 232x faster—because who doesn't want to wait 0.0000000001 seconds less for their code to compile?"
+    "created_at": "2026-08-16T12:48:21Z",
+    "aiHeadline": "AI systems finally get the memo: prompts are a thing, but they're still figuring it out."
   },
   {
-    "title": "The other Sean Byrne doesn't exist",
-    "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
-    "points": 371,
-    "num_comments": 178,
+    "title": "Firefox for iOS now has a native adblocker",
+    "url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
+    "points": 534,
+    "num_comments": 218,
     "tags": [
       "story",
-      "author_rdl",
-      "story_49307592"
-    ],
-    "author": "rdl",
-    "created_at": "2026-08-15T04:18:44Z",
-    "aiHeadline": "The other Sean Byrne doesn't exist, which is a relief because we already have enough Sean Byrnes in our lives."
-  },
-  {
-    "title": "Semaglutide linked to lower predicted dementia risk",
-    "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
-    "points": 343,
-    "num_comments": 239,
-    "tags": [
-      "story",
-      "author_randycupertino",
-      "story_49311651",
+      "author_pentagrama",
+      "story_49319633",
       "front_page"
     ],
-    "author": "randycupertino",
-    "created_at": "2026-08-15T15:58:53Z",
-    "aiHeadline": "Semaglutide: Because who doesn't want to live forever, just without remembering anything?"
+    "author": "pentagrama",
+    "created_at": "2026-08-16T12:58:10Z",
+    "aiHeadline": "After years of waiting, Firefox for iOS finally blocks ads, because who needs to see those anyway?"
   },
   {
-    "title": "Working with AI feels more like leadership than coding",
-    "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
-    "points": 264,
-    "num_comments": 171,
+    "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
+    "url": "https://rvembedded.com/blog_post/12/",
+    "points": 369,
+    "num_comments": 193,
     "tags": [
       "story",
-      "author_allenb",
-      "story_49309451",
+      "author_Narishma",
+      "story_49321717",
       "front_page"
     ],
-    "author": "allenb",
-    "created_at": "2026-08-15T10:39:41Z",
-    "aiHeadline": "Working with AI is like being a manager—except instead of dealing with underlings, you're dealing with an algorithm that still doesn't understand basic human logic."
+    "author": "Narishma",
+    "created_at": "2026-08-16T17:01:07Z",
+    "aiHeadline": "Embedded engineer from the 3rd world schools everyone on RISC-V, proving that experience beats criticism."
+  },
+  {
+    "title": "Research papers using \"kidney disappointment\" instead of \"kidney failure\"",
+    "url": "https://scholar.google.com/scholar?q=%22kidney+disappointment%22",
+    "points": 354,
+    "num_comments": 129,
+    "tags": [
+      "story",
+      "author_Alifatisk",
+      "story_49319389"
+    ],
+    "author": "Alifatisk",
+    "created_at": "2026-08-16T12:22:20Z",
+    "aiHeadline": "Researchers accidentally invent 'kidney disappointment,' because kidney failure just wasn't depressing enough."
+  },
+  {
+    "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
+    "points": 274,
+    "num_comments": 64,
+    "tags": [
+      "story",
+      "author_stagas",
+      "story_49322107",
+      "ask_hn",
+      "front_page"
+    ],
+    "author": "stagas",
+    "created_at": "2026-08-16T17:49:46Z",
+    "aiHeadline": "Cloudflare sneaks in analytics when you switch nameservers, because who doesn't love a little extra spying?"
   }
 ]
