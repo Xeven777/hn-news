@@ -1,75 +1,74 @@
 [
   {
-    "title": "The Amazon tax",
-    "url": "https://seths.blog/2026/08/the-amazon-tax/",
-    "points": 922,
-    "num_comments": 533,
+    "title": "OpenLogi",
+    "url": "https://openlogi.org/en",
+    "points": 1507,
+    "num_comments": 402,
     "tags": [
       "story",
-      "author_herbertl",
-      "story_49345263",
+      "author_amatheus",
+      "story_49355606"
+    ],
+    "author": "amatheus",
+    "created_at": "2026-08-19T01:58:28Z",
+    "aiHeadline": "The next big thing in [something] is here, and it's called OpenLogi—because why not add 'Logi' to everything?"
+  },
+  {
+    "title": "A joke domain purchase turned in geopolitical warfare",
+    "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+    "points": 746,
+    "num_comments": 114,
+    "tags": [
+      "story",
+      "author_kareiva",
+      "story_49360015",
       "front_page"
     ],
-    "author": "herbertl",
-    "created_at": "2026-08-18T13:22:38Z",
-    "aiHeadline": "The Amazon tax: Because nothing says 'we're here to help' like another tax hike, right?"
+    "author": "kareiva",
+    "created_at": "2026-08-19T11:21:50Z",
+    "aiHeadline": "A harmless joke domain purchase escalates into full-blown geopolitical warfare, proving that the internet is a dangerous place."
   },
   {
-    "title": "Google has acquired the data of failed US airline Spirit",
-    "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-    "points": 565,
-    "num_comments": 386,
+    "title": "OpenRouter is joining Stripe",
+    "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+    "points": 617,
+    "num_comments": 331,
     "tags": [
       "story",
-      "author_pseudolus",
-      "story_49343559"
-    ],
-    "author": "pseudolus",
-    "created_at": "2026-08-18T10:13:28Z",
-    "aiHeadline": "Google buys Spirit's data: Because what better way to improve AI than with the data of a failed airline?"
-  },
-  {
-    "title": "Linux 7.3 improves performance when running out of vRAM",
-    "url": "https://pixelcluster.dev/VRAM-Overcommit/",
-    "points": 507,
-    "num_comments": 273,
-    "tags": [
-      "story",
-      "author_flaburgan",
-      "story_49342719"
-    ],
-    "author": "flaburgan",
-    "created_at": "2026-08-18T07:51:50Z",
-    "aiHeadline": "Linux 7.3: Now you can run out of vRAM and still feel like you're getting somewhere, thanks to improved performance!"
-  },
-  {
-    "title": "Beware Management Consultants",
-    "url": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
-    "points": 435,
-    "num_comments": 121,
-    "tags": [
-      "story",
-      "author_KolmogorovComp",
-      "story_49351324",
+      "author_rvz",
+      "story_49364559",
       "front_page"
     ],
-    "author": "KolmogorovComp",
-    "created_at": "2026-08-18T19:29:51Z",
-    "aiHeadline": "Beware Management Consultants: Because who doesn't love a good dose of unsolicited, overpriced advice?"
+    "author": "rvz",
+    "created_at": "2026-08-19T17:32:38Z",
+    "aiHeadline": "OpenRouter is joining Stripe, because who doesn't want their tech stack to be as cool as Stripe's? Or maybe it's just a corporate shuffle."
   },
   {
-    "title": "Using the railway network as a flatbed scanner",
-    "url": "https://philo.gay/linecam/",
-    "points": 396,
-    "num_comments": 64,
+    "title": "Devices with GrapheneOS support should be available in 2027",
+    "url": "https://grapheneos.social/@GrapheneOS/117078064184215730",
+    "points": 574,
+    "num_comments": 364,
     "tags": [
       "story",
-      "author_otherayden",
-      "story_49344825",
-      "front_page"
+      "author_exceptione",
+      "story_49360242"
     ],
-    "author": "otherayden",
-    "created_at": "2026-08-18T12:43:54Z",
-    "aiHeadline": "Using the railway network as a flatbed scanner: Because sometimes, the best way to scan something is to move it at 60 mph."
+    "author": "exceptione",
+    "created_at": "2026-08-19T11:46:58Z",
+    "aiHeadline": "GrapheneOS devices are coming in 2027, which is like, next year, right? Or maybe not, considering how tech timelines work."
+  },
+  {
+    "title": "Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma",
+    "url": "https://twitter.com/NoubarAfeyan/status/2090050162441752787",
+    "points": 519,
+    "num_comments": 248,
+    "tags": [
+      "story",
+      "author_heydenberk",
+      "story_49361395"
+    ],
+    "author": "heydenberk",
+    "created_at": "2026-08-19T13:33:35Z",
+    "aiHeadline": "Moderna's mRNA therapy shows promise in treating melanoma, proving that science can sometimes work as intended—amazing, right?"
   }
 ]
