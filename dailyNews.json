@@ -1,74 +1,77 @@
 [
   {
-    "title": "OpenLogi",
-    "url": "https://openlogi.org/en",
-    "points": 1507,
-    "num_comments": 402,
+    "title": "Don't paste the AI, please",
+    "url": "https://dontpastetheai.com/",
+    "points": 987,
+    "num_comments": 539,
     "tags": [
       "story",
-      "author_amatheus",
-      "story_49355606"
+      "author_pjerem",
+      "story_49371857"
     ],
-    "author": "amatheus",
-    "created_at": "2026-08-19T01:58:28Z",
-    "aiHeadline": "The next big thing in [something] is here, and it's called OpenLogi—because why not add 'Logi' to everything?"
+    "author": "pjerem",
+    "created_at": "2026-08-20T08:20:44Z",
+    "aiHeadline": "AI researchers are begging you not to paste their hard work into other systems, because apparently, sharing is caring but only when they say so."
   },
   {
-    "title": "A joke domain purchase turned in geopolitical warfare",
-    "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-    "points": 746,
-    "num_comments": 114,
+    "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+    "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
+    "points": 928,
+    "num_comments": 213,
     "tags": [
       "story",
-      "author_kareiva",
-      "story_49360015",
+      "author_speckx",
+      "story_49379550",
       "front_page"
     ],
-    "author": "kareiva",
-    "created_at": "2026-08-19T11:21:50Z",
-    "aiHeadline": "A harmless joke domain purchase escalates into full-blown geopolitical warfare, proving that the internet is a dangerous place."
+    "author": "speckx",
+    "created_at": "2026-08-20T20:07:26Z",
+    "aiHeadline": "While Meta scrapes data with impunity, the ghost of Aaron Swartz continues to haunt us, reminding us that some companies are above the law while others are just above being prosecuted."
   },
   {
-    "title": "OpenRouter is joining Stripe",
-    "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
-    "points": 617,
-    "num_comments": 331,
+    "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+    "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+    "points": 873,
+    "num_comments": 286,
     "tags": [
       "story",
-      "author_rvz",
-      "story_49364559",
+      "author_emctech",
+      "story_49372583",
       "front_page"
     ],
-    "author": "rvz",
-    "created_at": "2026-08-19T17:32:38Z",
-    "aiHeadline": "OpenRouter is joining Stripe, because who doesn't want their tech stack to be as cool as Stripe's? Or maybe it's just a corporate shuffle."
+    "author": "emctech",
+    "created_at": "2026-08-20T10:08:52Z",
+    "aiHeadline": "AliExpress is悄悄地 using WebAudio fingerprinting, and in the process, they've managed to break Bluetooth multipoint functionality, proving once again that sometimes, the cure is worse than the silence."
   },
   {
-    "title": "Devices with GrapheneOS support should be available in 2027",
-    "url": "https://grapheneos.social/@GrapheneOS/117078064184215730",
-    "points": 574,
-    "num_comments": 364,
+    "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+    "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+    "points": 497,
+    "num_comments": 106,
     "tags": [
       "story",
-      "author_exceptione",
-      "story_49360242"
+      "author_simedw",
+      "story_49373456",
+      "show_hn",
+      "front_page"
     ],
-    "author": "exceptione",
-    "created_at": "2026-08-19T11:46:58Z",
-    "aiHeadline": "GrapheneOS devices are coming in 2027, which is like, next year, right? Or maybe not, considering how tech timelines work."
+    "author": "simedw",
+    "created_at": "2026-08-20T12:04:38Z",
+    "aiHeadline": "A 125M model has been trained to autocomplete piano music on-device, and now your phone can compose like Beethoven while you're too busy scrolling through cat videos."
   },
   {
-    "title": "Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma",
-    "url": "https://twitter.com/NoubarAfeyan/status/2090050162441752787",
-    "points": 519,
-    "num_comments": 248,
+    "title": "Malicious Rust crate Arrayref runs a build-time payload",
+    "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+    "points": 392,
+    "num_comments": 363,
     "tags": [
       "story",
-      "author_heydenberk",
-      "story_49361395"
+      "author_abhisek",
+      "story_49374269",
+      "front_page"
     ],
-    "author": "heydenberk",
-    "created_at": "2026-08-19T13:33:35Z",
-    "aiHeadline": "Moderna's mRNA therapy shows promise in treating melanoma, proving that science can sometimes work as intended—amazing, right?"
+    "author": "abhisek",
+    "created_at": "2026-08-20T13:23:12Z",
+    "aiHeadline": "A malicious Rust crate named Arrayref is running build-time payloads, proving that even in the land of safe programming, there's no such thing as a free lunch—or a free crate."
   }
 ]
