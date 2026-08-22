@@ -1,77 +1,75 @@
 [
   {
-    "title": "Don't paste the AI, please",
-    "url": "https://dontpastetheai.com/",
-    "points": 987,
-    "num_comments": 539,
-    "tags": [
-      "story",
-      "author_pjerem",
-      "story_49371857"
-    ],
-    "author": "pjerem",
-    "created_at": "2026-08-20T08:20:44Z",
-    "aiHeadline": "AI researchers are begging you not to paste their hard work into other systems, because apparently, sharing is caring but only when they say so."
-  },
-  {
-    "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
-    "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
-    "points": 928,
-    "num_comments": 213,
+    "title": "Kagi added a setting for removing paywalled links from search results",
+    "url": "https://kagi.com/changelog#11296",
+    "points": 1005,
+    "num_comments": 338,
     "tags": [
       "story",
       "author_speckx",
-      "story_49379550",
+      "story_49388154",
       "front_page"
     ],
     "author": "speckx",
-    "created_at": "2026-08-20T20:07:26Z",
-    "aiHeadline": "While Meta scrapes data with impunity, the ghost of Aaron Swartz continues to haunt us, reminding us that some companies are above the law while others are just above being prosecuted."
+    "created_at": "2026-08-21T13:56:37Z",
+    "aiHeadline": "Kagi: The Hero We Didn't Know We Needed, Because Who Even Likes Paywalls Anymore?"
   },
   {
-    "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
-    "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
-    "points": 873,
-    "num_comments": 286,
+    "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+    "url": "https://annas-archive.pk/blog/physical-destruction.html",
+    "points": 701,
+    "num_comments": 2,
     "tags": [
       "story",
-      "author_emctech",
-      "story_49372583",
-      "front_page"
+      "author_darccio",
+      "story_49385994"
     ],
-    "author": "emctech",
-    "created_at": "2026-08-20T10:08:52Z",
-    "aiHeadline": "AliExpress is悄悄地 using WebAudio fingerprinting, and in the process, they've managed to break Bluetooth multipoint functionality, proving once again that sometimes, the cure is worse than the silence."
+    "author": "darccio",
+    "created_at": "2026-08-21T10:05:46Z",
+    "aiHeadline": "AI Companies: Destroying Books Since 2026, Because Who Needs Actual Books When You Can Have Digital Ruin?"
   },
   {
-    "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
-    "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
-    "points": 497,
-    "num_comments": 106,
+    "title": "Grand jury declines to indict Ohio man charged with destroying Flock camera",
+    "url": "https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/",
+    "points": 635,
+    "num_comments": 365,
     "tags": [
       "story",
-      "author_simedw",
-      "story_49373456",
-      "show_hn",
-      "front_page"
+      "author_throw7",
+      "story_49387497"
     ],
-    "author": "simedw",
-    "created_at": "2026-08-20T12:04:38Z",
-    "aiHeadline": "A 125M model has been trained to autocomplete piano music on-device, and now your phone can compose like Beethoven while you're too busy scrolling through cat videos."
+    "author": "throw7",
+    "created_at": "2026-08-21T13:04:31Z",
+    "aiHeadline": "Ohio Man: Destroying Cameras Since 2026, Because Who Needs Surveillance When You've Got a Good Old-Fashioned Privacy Win?"
   },
   {
-    "title": "Malicious Rust crate Arrayref runs a build-time payload",
-    "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
-    "points": 392,
-    "num_comments": 363,
+    "title": "Felony charges for citizen deleting phone data at US Border",
+    "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
+    "points": 545,
+    "num_comments": 722,
     "tags": [
       "story",
-      "author_abhisek",
-      "story_49374269",
+      "author_floathub",
+      "story_49386895",
       "front_page"
     ],
-    "author": "abhisek",
-    "created_at": "2026-08-20T13:23:12Z",
-    "aiHeadline": "A malicious Rust crate named Arrayref is running build-time payloads, proving that even in the land of safe programming, there's no such thing as a free lunch—or a free crate."
+    "author": "floathub",
+    "created_at": "2026-08-21T12:10:13Z",
+    "aiHeadline": "Deleting Phone Data at the Border? That's Not Just a Crime, It's an Art Form. Felony Charges Await!"
+  },
+  {
+    "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+    "url": "https://annas-archive.gl/blog/physical-destruction.html",
+    "points": 529,
+    "num_comments": 835,
+    "tags": [
+      "story",
+      "author_Cider9986",
+      "story_49383026",
+      "front_page"
+    ],
+    "author": "Cider9986",
+    "created_at": "2026-08-21T02:37:47Z",
+    "aiHeadline": "AI Companies: Destroying Books Since 2026, Because Who Needs Actual Books When You Can Have Digital Ruin?"
   }
 ]
