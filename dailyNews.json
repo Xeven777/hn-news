@@ -1,75 +1,76 @@
 [
   {
-    "title": "Kagi added a setting for removing paywalled links from search results",
-    "url": "https://kagi.com/changelog#11296",
-    "points": 1005,
-    "num_comments": 338,
+    "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
+    "url": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
+    "points": 483,
+    "num_comments": 1225,
     "tags": [
       "story",
-      "author_speckx",
-      "story_49388154",
+      "author_tartoran",
+      "story_49397074",
       "front_page"
     ],
-    "author": "speckx",
-    "created_at": "2026-08-21T13:56:37Z",
-    "aiHeadline": "Kagi: The Hero We Didn't Know We Needed, Because Who Even Likes Paywalls Anymore?"
+    "author": "tartoran",
+    "created_at": "2026-08-22T06:16:57Z",
+    "aiHeadline": "Canada decides to play tit-for-tat with US tariffs, proving that even trade wars can be as exciting as watching paint dry."
   },
   {
-    "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-    "url": "https://annas-archive.pk/blog/physical-destruction.html",
-    "points": 701,
-    "num_comments": 2,
+    "title": "Scrap (2006)",
+    "url": "https://twitter.com/moxie/status/2091218652133732491",
+    "points": 313,
+    "num_comments": 176,
     "tags": [
       "story",
-      "author_darccio",
-      "story_49385994"
-    ],
-    "author": "darccio",
-    "created_at": "2026-08-21T10:05:46Z",
-    "aiHeadline": "AI Companies: Destroying Books Since 2026, Because Who Needs Actual Books When You Can Have Digital Ruin?"
-  },
-  {
-    "title": "Grand jury declines to indict Ohio man charged with destroying Flock camera",
-    "url": "https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/",
-    "points": 635,
-    "num_comments": 365,
-    "tags": [
-      "story",
-      "author_throw7",
-      "story_49387497"
-    ],
-    "author": "throw7",
-    "created_at": "2026-08-21T13:04:31Z",
-    "aiHeadline": "Ohio Man: Destroying Cameras Since 2026, Because Who Needs Surveillance When You've Got a Good Old-Fashioned Privacy Win?"
-  },
-  {
-    "title": "Felony charges for citizen deleting phone data at US Border",
-    "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
-    "points": 545,
-    "num_comments": 722,
-    "tags": [
-      "story",
-      "author_floathub",
-      "story_49386895",
+      "author_tosh",
+      "story_49402189",
       "front_page"
     ],
-    "author": "floathub",
-    "created_at": "2026-08-21T12:10:13Z",
-    "aiHeadline": "Deleting Phone Data at the Border? That's Not Just a Crime, It's an Art Form. Felony Charges Await!"
+    "author": "tosh",
+    "created_at": "2026-08-22T18:08:56Z",
+    "aiHeadline": "Scrap (2006) - because sometimes, the worst movies are the ones that accidentally become cult classics, proving that bad taste is universal."
   },
   {
-    "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-    "url": "https://annas-archive.gl/blog/physical-destruction.html",
-    "points": 529,
-    "num_comments": 835,
+    "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+    "url": "https://quantumi.sh/public/labs.html",
+    "points": 301,
+    "num_comments": 101,
     "tags": [
       "story",
-      "author_Cider9986",
-      "story_49383026",
+      "author_jemoka",
+      "story_49400408",
       "front_page"
     ],
-    "author": "Cider9986",
-    "created_at": "2026-08-21T02:37:47Z",
-    "aiHeadline": "AI Companies: Destroying Books Since 2026, Because Who Needs Actual Books When You Can Have Digital Ruin?"
+    "author": "jemoka",
+    "created_at": "2026-08-22T14:54:07Z",
+    "aiHeadline": "ElevenLabs, TwelveLabs, ThirteenLabs - because who doesn't love a good case of corporate amnesia, where each lab is just as forgettable as the last."
+  },
+  {
+    "title": "Munder Difflin – Agent harness to run an office of your clones",
+    "url": "https://munderdiffl.in/",
+    "points": 250,
+    "num_comments": 114,
+    "tags": [
+      "story",
+      "author_simonpure",
+      "story_49398152",
+      "front_page"
+    ],
+    "author": "simonpure",
+    "created_at": "2026-08-22T09:49:14Z",
+    "aiHeadline": "Munder Difflin – Agent harness to run an office of your clones - because nothing says 'productivity' like replacing your employees with clones who will work for free and never complain."
+  },
+  {
+    "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
+    "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
+    "points": 200,
+    "num_comments": 164,
+    "tags": [
+      "story",
+      "author_sbulaev",
+      "story_49398904"
+    ],
+    "author": "sbulaev",
+    "created_at": "2026-08-22T12:07:06Z",
+    "aiHeadline": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week - because who needs privacy when you can have a never-ending game of hide and seek with your data?"
   }
 ]
