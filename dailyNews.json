@@ -1,76 +1,77 @@
 [
   {
-    "title": "To become a better writer, read as much as you can",
-    "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
-    "points": 316,
-    "num_comments": 208,
+    "title": "Dolly Parton has died",
+    "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
+    "points": 1197,
+    "num_comments": 187,
     "tags": [
       "story",
-      "author_andsoitis",
-      "story_49405870",
+      "author_helsinkiandrew",
+      "story_49438052",
       "front_page"
     ],
-    "author": "andsoitis",
-    "created_at": "2026-08-23T03:32:25Z",
-    "aiHeadline": "To become a better writer, read as much as you can—because apparently, that's the golden rule, and you're apparently not a genius who can just wing it."
+    "author": "helsinkiandrew",
+    "created_at": "2026-08-25T18:02:22Z",
+    "aiHeadline": "Dolly Parton has died, and somehow her estate is still arguing over the rights to '9 to 5' in a way that would make any reasonable person facepalm."
   },
   {
-    "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
-    "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
-    "points": 159,
-    "num_comments": 80,
+    "title": "Apple introduces M6 and M5 Ultra",
+    "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+    "points": 946,
+    "num_comments": 897,
     "tags": [
       "story",
-      "author_raybb",
-      "story_49407507",
+      "author_interpol_p",
+      "story_49433292",
       "front_page"
     ],
-    "author": "raybb",
-    "created_at": "2026-08-23T10:02:51Z",
-    "aiHeadline": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes—because apparently, AI can do your job faster than you can say 'I should have majored in something useful.'"
+    "author": "interpol_p",
+    "created_at": "2026-08-25T13:01:22Z",
+    "aiHeadline": "Apple introduces the M6 and M5 Ultra, because apparently we all need another chip to make our laptops slightly faster in a way that only matters if you're rendering 4K videos of your cat playing the piano."
   },
   {
-    "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
-    "url": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
-    "points": 155,
-    "num_comments": 115,
+    "title": "New Mac Studio with M5 Max and M5 Ultra",
+    "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+    "points": 699,
+    "num_comments": 446,
     "tags": [
       "story",
-      "author_taubek",
-      "story_49406539"
-    ],
-    "author": "taubek",
-    "created_at": "2026-08-23T06:41:51Z",
-    "aiHeadline": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed—because apparently, the internet is fast enough for you to watch cat videos in 4K, and now they're fixing the real problem: your Wi-Fi password is too short."
-  },
-  {
-    "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
-    "url": "https://martypc.net/",
-    "points": 154,
-    "num_comments": 55,
-    "tags": [
-      "story",
-      "author_boilerupnc",
-      "story_49405816",
+      "author_interpol_p",
+      "story_49433316",
       "front_page"
     ],
-    "author": "boilerupnc",
-    "created_at": "2026-08-23T03:13:16Z",
-    "aiHeadline": "MartyPC is a cross-platform emulator of early PCs written in Rust—because apparently, the 90s called and said they want their computing experience back, but with modern programming languages."
+    "author": "interpol_p",
+    "created_at": "2026-08-25T13:03:17Z",
+    "aiHeadline": "New Mac Studio with M5 Max and M5 Ultra: because who doesn't want to pay a premium for a device that will be obsolete by the time you unwrap it, all while feeling very, very cool about it?"
   },
   {
-    "title": "The End of an Athlon",
-    "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
-    "points": 143,
-    "num_comments": 57,
+    "title": "Nitter and XCancel receive cease and desist notices",
+    "url": "https://github.com/zedeus/nitter/issues/1442",
+    "points": 614,
+    "num_comments": 525,
     "tags": [
       "story",
-      "author_userbinator",
-      "story_49406333",
+      "author_Banditoz",
+      "story_49437283",
       "front_page"
     ],
-    "author": "userbinator",
-    "created_at": "2026-08-23T05:51:01Z",
-    "aiHeadline": "The End of an Athlon—because apparently, even CPUs have retirement plans, and yours is saying goodbye while you're still trying to figure out why your computer is slow."
+    "author": "Banditoz",
+    "created_at": "2026-08-25T17:08:21Z",
+    "aiHeadline": "Nitter and XCancel receive cease and desist notices, proving once again that when you build a platform to avoid a platform, the universe just loves to remind you of the irony."
+  },
+  {
+    "title": "My Friend Aaron",
+    "url": "https://rorz.io/writing/my-friend-aaron",
+    "points": 435,
+    "num_comments": 120,
+    "tags": [
+      "story",
+      "author_sarreph",
+      "story_49437069",
+      "front_page"
+    ],
+    "author": "sarreph",
+    "created_at": "2026-08-25T16:53:33Z",
+    "aiHeadline": "My Friend Aaron: because everyone needs a reminder that even your best friend's blog about their best friend can be both oddly specific and deeply relatable in the most cringey way possible."
   }
 ]
