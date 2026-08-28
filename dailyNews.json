@@ -1,76 +1,76 @@
 [
   {
-    "title": "AWS Acquires DuckLabs",
-    "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
-    "points": 1041,
-    "num_comments": 304,
+    "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+    "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+    "points": 766,
+    "num_comments": 224,
     "tags": [
       "story",
-      "author_onderkalaci",
-      "story_49448321",
+      "author_TangerineDream",
+      "story_49468083",
       "front_page"
     ],
-    "author": "onderkalaci",
-    "created_at": "2026-08-26T12:59:26Z",
-    "aiHeadline": "AWS continues its quest to buy every AI startup, acquiring DuckLabs in their latest attempt to stay relevant."
+    "author": "TangerineDream",
+    "created_at": "2026-08-27T17:17:57Z",
+    "aiHeadline": "In a move that will shock no one, 1.1.1.1's DNS cache has been optimized to save 100 terabytes of memory, proving once again that even the internet needs to clean up its act and stop being so wasteful with storage space."
   },
   {
-    "title": "GLM-5.3-Flash",
-    "url": "https://z.ai/blog/glm-5.3-flash",
-    "points": 1001,
-    "num_comments": 503,
+    "title": "Microduck",
+    "url": "https://pollen-robotics.com/microduck/",
+    "points": 663,
+    "num_comments": 213,
     "tags": [
       "story",
-      "author_Philpax",
-      "story_49449507",
+      "author_robotswantdata",
+      "story_49462763",
       "front_page"
     ],
-    "author": "Philpax",
-    "created_at": "2026-08-26T14:08:50Z",
-    "aiHeadline": "GLM-5.3-Flash: because who doesn't want their AI models to be both glimmering and fleeting?"
+    "author": "robotswantdata",
+    "created_at": "2026-08-27T10:57:56Z",
+    "aiHeadline": "Introducing Microduck: the world's tiniest robotic duck, because clearly the world needed another tiny robot to remind us that we're living in a dystopian future where even our pets are being miniaturized for no apparent reason."
   },
   {
-    "title": "Nvidia agrees to acquire Hugging Face for $13B",
-    "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
-    "points": 967,
-    "num_comments": 411,
-    "tags": [
-      "story",
-      "author_mfiguiere",
-      "story_49458161",
-      "front_page"
-    ],
-    "author": "mfiguiere",
-    "created_at": "2026-08-27T01:12:55Z",
-    "aiHeadline": "Nvidia spends $13B on Hugging Face, proving that even in the AI world, you can't buy happiness—or maybe you can, if you're a multi-billion dollar company."
-  },
-  {
-    "title": "Qwen3.8-Flash-Next",
-    "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
-    "points": 665,
-    "num_comments": 215,
+    "title": "Small Models Have Arrived",
+    "url": "https://calv.info/small-models-have-arrived",
+    "points": 643,
+    "num_comments": 295,
     "tags": [
       "story",
       "author_tosh",
-      "story_49448210"
-    ],
-    "author": "tosh",
-    "created_at": "2026-08-26T12:52:12Z",
-    "aiHeadline": "Qwen3.8-Flash-Next: because 3.7 was clearly insufficient, and we all know that adding 'Next' makes everything better."
-  },
-  {
-    "title": "Tim Curry has died",
-    "url": "https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film",
-    "points": 636,
-    "num_comments": 207,
-    "tags": [
-      "story",
-      "author_mykowebhn",
-      "story_49451448",
+      "story_49466917",
       "front_page"
     ],
-    "author": "mykowebhn",
-    "created_at": "2026-08-26T16:03:37Z",
-    "aiHeadline": "Tim Curry, the man who made us all scream 'Frankenfurter!' and gave us the best IT guy in horror history, has passed away."
+    "author": "tosh",
+    "created_at": "2026-08-27T15:56:58Z",
+    "aiHeadline": "Small models have arrived, and they're here to remind us that not everything needs to be the size of a supercomputer. Finally, AI has realized that sometimes less is more, or at least less is manageable on a regular laptop."
+  },
+  {
+    "title": "507 Mechanical Movements",
+    "url": "https://507movements.com/",
+    "points": 586,
+    "num_comments": 74,
+    "tags": [
+      "story",
+      "author_helloplanets",
+      "story_49465169",
+      "front_page"
+    ],
+    "author": "helloplanets",
+    "created_at": "2026-08-27T14:08:18Z",
+    "aiHeadline": "507 Mechanical Movements: because clearly the world needed a catalog of every possible way a machine can move, just in case you ever wanted to know how to make a lever do a backflip or a pulley system perform interpretive dance."
+  },
+  {
+    "title": "Trade (and Tariffs)",
+    "url": "https://xkcd.com/3290/",
+    "points": 512,
+    "num_comments": 246,
+    "tags": [
+      "story",
+      "author_throw0101d",
+      "story_49464896"
+    ],
+    "author": "throw0101d",
+    "created_at": "2026-08-27T13:49:29Z",
+    "aiHeadline": "Trade (and Tariffs): because nothing says 'I love you' like a well-placed tariff, and if you don't think that's romantic, then you've clearly never been in a long-distance relationship with a country."
   }
 ]
