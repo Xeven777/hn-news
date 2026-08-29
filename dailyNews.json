@@ -1,76 +1,75 @@
 [
   {
-    "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
-    "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
-    "points": 766,
-    "num_comments": 224,
+    "title": "GUIs should be fully keyboard-driven",
+    "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+    "points": 722,
+    "num_comments": 357,
     "tags": [
       "story",
-      "author_TangerineDream",
-      "story_49468083",
+      "author_ckardaris",
+      "story_49479837",
       "front_page"
     ],
-    "author": "TangerineDream",
-    "created_at": "2026-08-27T17:17:57Z",
-    "aiHeadline": "In a move that will shock no one, 1.1.1.1's DNS cache has been optimized to save 100 terabytes of memory, proving once again that even the internet needs to clean up its act and stop being so wasteful with storage space."
+    "author": "ckardaris",
+    "created_at": "2026-08-28T15:17:09Z",
+    "aiHeadline": "GUIs should be fully keyboard-driven, because who even needs a mouse anymore? Apparently, just the people who invented the mouse."
   },
   {
-    "title": "Microduck",
-    "url": "https://pollen-robotics.com/microduck/",
-    "points": 663,
-    "num_comments": 213,
+    "title": "Get your Windows license refund",
+    "url": "https://en.refund4freedom.org/",
+    "points": 670,
+    "num_comments": 278,
     "tags": [
       "story",
-      "author_robotswantdata",
-      "story_49462763",
-      "front_page"
+      "author_smartmic",
+      "story_49478340"
     ],
-    "author": "robotswantdata",
-    "created_at": "2026-08-27T10:57:56Z",
-    "aiHeadline": "Introducing Microduck: the world's tiniest robotic duck, because clearly the world needed another tiny robot to remind us that we're living in a dystopian future where even our pets are being miniaturized for no apparent reason."
+    "author": "smartmic",
+    "created_at": "2026-08-28T13:42:40Z",
+    "aiHeadline": "Get your Windows license refund, because Microsoft finally realized that maybe they overcharged you for that 'Start' button."
   },
   {
-    "title": "Small Models Have Arrived",
-    "url": "https://calv.info/small-models-have-arrived",
+    "title": "GLM-5.3 is now open-weight",
+    "url": "https://huggingface.co/zai-org/GLM-5.3",
+    "points": 648,
+    "num_comments": 219,
+    "tags": [
+      "story",
+      "author_jeudesprits",
+      "story_49479878",
+      "front_page"
+    ],
+    "author": "jeudesprits",
+    "created_at": "2026-08-28T15:20:13Z",
+    "aiHeadline": "GLM-5.3 is now open-weight, proving that even AI models need to go on a diet sometimes."
+  },
+  {
+    "title": "“It works better in the app”",
+    "url": "https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/",
     "points": 643,
-    "num_comments": 295,
+    "num_comments": 443,
     "tags": [
       "story",
-      "author_tosh",
-      "story_49466917",
-      "front_page"
+      "author_blenderob",
+      "story_49477600"
     ],
-    "author": "tosh",
-    "created_at": "2026-08-27T15:56:58Z",
-    "aiHeadline": "Small models have arrived, and they're here to remind us that not everything needs to be the size of a supercomputer. Finally, AI has realized that sometimes less is more, or at least less is manageable on a regular laptop."
+    "author": "blenderob",
+    "created_at": "2026-08-28T12:32:16Z",
+    "aiHeadline": "“It works better in the app,” because nothing says ‘user-friendly’ like forcing you to download yet another app."
   },
   {
-    "title": "507 Mechanical Movements",
-    "url": "https://507movements.com/",
-    "points": 586,
-    "num_comments": 74,
+    "title": "Htmx 4.0",
+    "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+    "points": 603,
+    "num_comments": 150,
     "tags": [
       "story",
-      "author_helloplanets",
-      "story_49465169",
+      "author_rmsaksida",
+      "story_49478178",
       "front_page"
     ],
-    "author": "helloplanets",
-    "created_at": "2026-08-27T14:08:18Z",
-    "aiHeadline": "507 Mechanical Movements: because clearly the world needed a catalog of every possible way a machine can move, just in case you ever wanted to know how to make a lever do a backflip or a pulley system perform interpretive dance."
-  },
-  {
-    "title": "Trade (and Tariffs)",
-    "url": "https://xkcd.com/3290/",
-    "points": 512,
-    "num_comments": 246,
-    "tags": [
-      "story",
-      "author_throw0101d",
-      "story_49464896"
-    ],
-    "author": "throw0101d",
-    "created_at": "2026-08-27T13:49:29Z",
-    "aiHeadline": "Trade (and Tariffs): because nothing says 'I love you' like a well-placed tariff, and if you don't think that's romantic, then you've clearly never been in a long-distance relationship with a country."
+    "author": "rmsaksida",
+    "created_at": "2026-08-28T13:28:56Z",
+    "aiHeadline": "Htmx 4.0 is here, and it’s so groundbreaking that it might just make your browser think it’s 2026 all over again."
   }
 ]
