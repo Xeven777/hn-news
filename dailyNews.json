@@ -1,75 +1,74 @@
 [
   {
-    "title": "GUIs should be fully keyboard-driven",
-    "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
-    "points": 722,
-    "num_comments": 357,
+    "title": "Omarchy: Any User Process Can Escalate to Root",
+    "url": "https://0xcc.io/posts/omarchy-root-creds/",
+    "points": 466,
+    "num_comments": 442,
     "tags": [
       "story",
-      "author_ckardaris",
-      "story_49479837",
+      "author_trap0xcc",
+      "story_49499854",
       "front_page"
     ],
-    "author": "ckardaris",
-    "created_at": "2026-08-28T15:17:09Z",
-    "aiHeadline": "GUIs should be fully keyboard-driven, because who even needs a mouse anymore? Apparently, just the people who invented the mouse."
+    "author": "trap0xcc",
+    "created_at": "2026-08-30T15:59:49Z",
+    "aiHeadline": "Omarchy: Any User Process Can Escalate to Root, Because Chaos is the New Order"
   },
   {
-    "title": "Get your Windows license refund",
-    "url": "https://en.refund4freedom.org/",
-    "points": 670,
-    "num_comments": 278,
+    "title": "“I just chose words carefully”",
+    "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
+    "points": 433,
+    "num_comments": 107,
     "tags": [
       "story",
-      "author_smartmic",
-      "story_49478340"
-    ],
-    "author": "smartmic",
-    "created_at": "2026-08-28T13:42:40Z",
-    "aiHeadline": "Get your Windows license refund, because Microsoft finally realized that maybe they overcharged you for that 'Start' button."
-  },
-  {
-    "title": "GLM-5.3 is now open-weight",
-    "url": "https://huggingface.co/zai-org/GLM-5.3",
-    "points": 648,
-    "num_comments": 219,
-    "tags": [
-      "story",
-      "author_jeudesprits",
-      "story_49479878",
+      "author_zdw",
+      "story_49503601",
       "front_page"
     ],
-    "author": "jeudesprits",
-    "created_at": "2026-08-28T15:20:13Z",
-    "aiHeadline": "GLM-5.3 is now open-weight, proving that even AI models need to go on a diet sometimes."
+    "author": "zdw",
+    "created_at": "2026-08-30T22:49:48Z",
+    "aiHeadline": "I Just Chose Words Carefully, Because Subtlety is My Superpower"
   },
   {
-    "title": "“It works better in the app”",
-    "url": "https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/",
-    "points": 643,
-    "num_comments": 443,
+    "title": "European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy",
+    "url": "https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement",
+    "points": 378,
+    "num_comments": 161,
     "tags": [
       "story",
-      "author_blenderob",
-      "story_49477600"
+      "author_nickslaughter02",
+      "story_49499394"
     ],
-    "author": "blenderob",
-    "created_at": "2026-08-28T12:32:16Z",
-    "aiHeadline": "“It works better in the app,” because nothing says ‘user-friendly’ like forcing you to download yet another app."
+    "author": "nickslaughter02",
+    "created_at": "2026-08-30T15:12:40Z",
+    "aiHeadline": "European Commission Reviving Push for Encryption Backdoors, Because Nothing Says 'Trust Us' Like a Secret Key"
   },
   {
-    "title": "Htmx 4.0",
-    "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
-    "points": 603,
-    "num_comments": 150,
+    "title": "Brits would quite like their private messages to stay private",
+    "url": "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994",
+    "points": 328,
+    "num_comments": 267,
     "tags": [
       "story",
-      "author_rmsaksida",
-      "story_49478178",
-      "front_page"
+      "author_defrost",
+      "story_49497063"
     ],
-    "author": "rmsaksida",
-    "created_at": "2026-08-28T13:28:56Z",
-    "aiHeadline": "Htmx 4.0 is here, and it’s so groundbreaking that it might just make your browser think it’s 2026 all over again."
+    "author": "defrost",
+    "created_at": "2026-08-30T09:26:08Z",
+    "aiHeadline": "Brits Would Quite Like Their Private Messages to Stay Private, Shocking No One"
+  },
+  {
+    "title": "Europe's summer drought is so extreme that desertification is a growing threat",
+    "url": "https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/",
+    "points": 278,
+    "num_comments": 323,
+    "tags": [
+      "story",
+      "author_Brajeshwar",
+      "story_49498978"
+    ],
+    "author": "Brajeshwar",
+    "created_at": "2026-08-30T14:29:25Z",
+    "aiHeadline": "Europe's Summer Drought is So Extreme, Even the Grass is Drowning in Thirst"
   }
 ]
