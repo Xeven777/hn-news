@@ -1,74 +1,74 @@
 [
   {
-    "title": "Omarchy: Any User Process Can Escalate to Root",
-    "url": "https://0xcc.io/posts/omarchy-root-creds/",
-    "points": 466,
-    "num_comments": 442,
+    "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
+    "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
+    "points": 618,
+    "num_comments": 471,
     "tags": [
       "story",
-      "author_trap0xcc",
-      "story_49499854",
+      "author_twapi",
+      "story_49514878"
+    ],
+    "author": "twapi",
+    "created_at": "2026-08-31T21:10:58Z",
+    "aiHeadline": "Google 'conveniently' removes MV2 extensions from Chrome Web Store, including UBO, because 'user privacy' is their top priority—right after maximizing ad revenue."
+  },
+  {
+    "title": "OpenShot 4.0 – Open-source video editor",
+    "url": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
+    "points": 544,
+    "num_comments": 129,
+    "tags": [
+      "story",
+      "author_metrofun",
+      "story_49507822"
+    ],
+    "author": "metrofun",
+    "created_at": "2026-08-31T09:59:05Z",
+    "aiHeadline": "OpenShot 4.0: The open-source video editor that proves you don't need to pay for software to get a headache while editing your vacation footage."
+  },
+  {
+    "title": "Playa Phone",
+    "url": "https://playaphone.com/",
+    "points": 541,
+    "num_comments": 196,
+    "tags": [
+      "story",
+      "author_cutoff",
+      "story_49510514",
       "front_page"
     ],
-    "author": "trap0xcc",
-    "created_at": "2026-08-30T15:59:49Z",
-    "aiHeadline": "Omarchy: Any User Process Can Escalate to Root, Because Chaos is the New Order"
+    "author": "cutoff",
+    "created_at": "2026-08-31T14:52:26Z",
+    "aiHeadline": "Introducing Playa Phone: The phone that's so 'waterproof' it'll survive your beach vacation—assuming you don't actually try to use it underwater."
   },
   {
-    "title": "“I just chose words carefully”",
-    "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
-    "points": 433,
-    "num_comments": 107,
+    "title": "I turned my security cameras into an automatic bird identification system",
+    "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+    "points": 402,
+    "num_comments": 99,
     "tags": [
       "story",
-      "author_zdw",
-      "story_49503601",
+      "author_speckx",
+      "story_49511856",
       "front_page"
     ],
-    "author": "zdw",
-    "created_at": "2026-08-30T22:49:48Z",
-    "aiHeadline": "I Just Chose Words Carefully, Because Subtlety is My Superpower"
+    "author": "speckx",
+    "created_at": "2026-08-31T16:47:11Z",
+    "aiHeadline": "Security cameras turned into bird ID systems: Because nothing says 'home security' like a system that can tell you whether that's a sparrow or a robin pecking at your window."
   },
   {
-    "title": "European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy",
-    "url": "https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement",
-    "points": 378,
-    "num_comments": 161,
+    "title": "A 12TB Steam “teraleak” spills more than a decade of lost PC gaming history",
+    "url": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
+    "points": 367,
+    "num_comments": 80,
     "tags": [
       "story",
-      "author_nickslaughter02",
-      "story_49499394"
+      "author_WithinReason",
+      "story_49506182"
     ],
-    "author": "nickslaughter02",
-    "created_at": "2026-08-30T15:12:40Z",
-    "aiHeadline": "European Commission Reviving Push for Encryption Backdoors, Because Nothing Says 'Trust Us' Like a Secret Key"
-  },
-  {
-    "title": "Brits would quite like their private messages to stay private",
-    "url": "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994",
-    "points": 328,
-    "num_comments": 267,
-    "tags": [
-      "story",
-      "author_defrost",
-      "story_49497063"
-    ],
-    "author": "defrost",
-    "created_at": "2026-08-30T09:26:08Z",
-    "aiHeadline": "Brits Would Quite Like Their Private Messages to Stay Private, Shocking No One"
-  },
-  {
-    "title": "Europe's summer drought is so extreme that desertification is a growing threat",
-    "url": "https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/",
-    "points": 278,
-    "num_comments": 323,
-    "tags": [
-      "story",
-      "author_Brajeshwar",
-      "story_49498978"
-    ],
-    "author": "Brajeshwar",
-    "created_at": "2026-08-30T14:29:25Z",
-    "aiHeadline": "Europe's Summer Drought is So Extreme, Even the Grass is Drowning in Thirst"
+    "author": "WithinReason",
+    "created_at": "2026-08-31T06:10:44Z",
+    "aiHeadline": "A 12TB Steam 'teraleak' spills a decade of lost PC gaming history: Because nothing says 'data security' like losing a terabyte of games and realizing you've been playing them for a decade without backups."
   }
 ]
