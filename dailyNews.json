@@ -1,74 +1,76 @@
 [
   {
-    "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
-    "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
-    "points": 618,
-    "num_comments": 471,
+    "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+    "points": 985,
+    "num_comments": 923,
     "tags": [
       "story",
-      "author_twapi",
-      "story_49514878"
-    ],
-    "author": "twapi",
-    "created_at": "2026-08-31T21:10:58Z",
-    "aiHeadline": "Google 'conveniently' removes MV2 extensions from Chrome Web Store, including UBO, because 'user privacy' is their top priority—right after maximizing ad revenue."
-  },
-  {
-    "title": "OpenShot 4.0 – Open-source video editor",
-    "url": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
-    "points": 544,
-    "num_comments": 129,
-    "tags": [
-      "story",
-      "author_metrofun",
-      "story_49507822"
-    ],
-    "author": "metrofun",
-    "created_at": "2026-08-31T09:59:05Z",
-    "aiHeadline": "OpenShot 4.0: The open-source video editor that proves you don't need to pay for software to get a headache while editing your vacation footage."
-  },
-  {
-    "title": "Playa Phone",
-    "url": "https://playaphone.com/",
-    "points": 541,
-    "num_comments": 196,
-    "tags": [
-      "story",
-      "author_cutoff",
-      "story_49510514",
+      "author_denysvitali",
+      "story_49525378",
       "front_page"
     ],
-    "author": "cutoff",
-    "created_at": "2026-08-31T14:52:26Z",
-    "aiHeadline": "Introducing Playa Phone: The phone that's so 'waterproof' it'll survive your beach vacation—assuming you don't actually try to use it underwater."
+    "author": "denysvitali",
+    "created_at": "2026-09-01T17:53:53Z",
+    "aiHeadline": "AI models Claude Fable and Mythos get a 5.1 upgrade, proving that incremental updates are the spice of life."
   },
   {
-    "title": "I turned my security cameras into an automatic bird identification system",
-    "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
-    "points": 402,
-    "num_comments": 99,
+    "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
+    "url": "https://github.com/ankidroid/Anki-Android/issues/21656",
+    "points": 845,
+    "num_comments": 253,
+    "tags": [
+      "story",
+      "author_hexa555",
+      "story_49520022",
+      "front_page"
+    ],
+    "author": "hexa555",
+    "created_at": "2026-09-01T10:11:02Z",
+    "aiHeadline": "AnkiDroid developers are left in a pickle as Google Play blocks their Open Collective donation link, because nothing says 'support us' like a dead end."
+  },
+  {
+    "title": "Hang on to Your Firefox",
+    "url": "https://www.newsonaut.com/articles/hang-on-to-your-firefox",
+    "points": 705,
+    "num_comments": 372,
     "tags": [
       "story",
       "author_speckx",
-      "story_49511856",
+      "story_49527748",
       "front_page"
     ],
     "author": "speckx",
-    "created_at": "2026-08-31T16:47:11Z",
-    "aiHeadline": "Security cameras turned into bird ID systems: Because nothing says 'home security' like a system that can tell you whether that's a sparrow or a robin pecking at your window."
+    "created_at": "2026-09-01T20:30:51Z",
+    "aiHeadline": "Firefox users are advised to hold onto their browsers tightly, because the internet's about to get a whole new set of tabs to worry about."
   },
   {
-    "title": "A 12TB Steam “teraleak” spills more than a decade of lost PC gaming history",
-    "url": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
-    "points": 367,
-    "num_comments": 80,
+    "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
+    "url": "https://mvakde.github.io/blog/44-on-arc-1/",
+    "points": 590,
+    "num_comments": 154,
     "tags": [
       "story",
-      "author_WithinReason",
-      "story_49506182"
+      "author_porridgeraisin",
+      "story_49519939"
     ],
-    "author": "WithinReason",
-    "created_at": "2026-08-31T06:10:44Z",
-    "aiHeadline": "A 12TB Steam 'teraleak' spills a decade of lost PC gaming history: Because nothing says 'data security' like losing a terabyte of games and realizing you've been playing them for a decade without backups."
+    "author": "porridgeraisin",
+    "created_at": "2026-09-01T09:52:45Z",
+    "aiHeadline": "A small transformer model trained in just 1.5 hours manages to outperform many LLMs, proving that sometimes less is exponentially more."
+  },
+  {
+    "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+    "url": "https://danluu.com/zitron/",
+    "points": 486,
+    "num_comments": 563,
+    "tags": [
+      "story",
+      "author_jatins",
+      "story_49526069",
+      "front_page"
+    ],
+    "author": "jatins",
+    "created_at": "2026-09-01T18:35:15Z",
+    "aiHeadline": "Ed Zitron's AI skepticism predictions are put under the microscope, and the question remains: was he a prophet or just a prophet of doom?"
   }
 ]
