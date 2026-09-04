@@ -1,75 +1,76 @@
 [
   {
-    "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
-    "points": 867,
-    "num_comments": 503,
+    "title": ".name Termination",
+    "url": "https://neil.fraser.name/news/2026/09/03/",
+    "points": 1457,
+    "num_comments": 397,
     "tags": [
       "story",
-      "author_bratao",
-      "story_49537553",
+      "author_pavel_lishin",
+      "story_49550772",
       "front_page"
     ],
-    "author": "bratao",
-    "created_at": "2026-09-02T15:12:40Z",
-    "aiHeadline": "Google's Gemini AI Gets a Flash Upgrade, Still Trying to Catch Up to ChatGPT"
+    "author": "pavel_lishin",
+    "created_at": "2026-09-03T14:54:39Z",
+    "aiHeadline": "Neil Fraser's domain name is being terminated, which is probably the saddest thing to happen to a web developer in years."
   },
   {
-    "title": "A note on subscription prices from LWN",
-    "url": "https://lwn.net/Articles/1090585/",
-    "points": 684,
-    "num_comments": 133,
+    "title": "GPT-6 Astra",
+    "url": "https://openai.com/index/gpt-6-astra/",
+    "points": 1430,
+    "num_comments": 1186,
     "tags": [
       "story",
-      "author_rwky",
-      "story_49535752"
-    ],
-    "author": "rwky",
-    "created_at": "2026-09-02T13:17:12Z",
-    "aiHeadline": "LWN Explains Why Their Subscription Prices Are So High, Because Money Doesn't Grow on Trees"
-  },
-  {
-    "title": "Muse Spark 1.3",
-    "url": "https://developer.meta.com/ai/models/muse-spark/",
-    "points": 434,
-    "num_comments": 288,
-    "tags": [
-      "story",
-      "author_bvaldivielso",
-      "story_49541256",
+      "author_kibae",
+      "story_49554643",
       "front_page"
     ],
-    "author": "bvaldivielso",
-    "created_at": "2026-09-02T19:35:04Z",
-    "aiHeadline": "Meta Releases Muse Spark 1.3, Because They Apparently Didn't Get the Memo About Being Behind"
+    "author": "kibae",
+    "created_at": "2026-09-03T18:41:05Z",
+    "aiHeadline": "OpenAI releases GPT-6 Astra, because apparently we needed another version of GPT to tell us how to make better versions of GPT."
   },
   {
-    "title": "Can I opt out of my input or output data being used for training?",
-    "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
-    "points": 387,
-    "num_comments": 168,
+    "title": "Audacity 4.0",
+    "url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
+    "points": 1077,
+    "num_comments": 238,
     "tags": [
       "story",
-      "author_teekert",
-      "story_49535284",
+      "author_ClydeN",
+      "story_49548395"
+    ],
+    "author": "ClydeN",
+    "created_at": "2026-09-03T10:53:08Z",
+    "aiHeadline": "Audacity 4.0 is finally here, proving that open-source software can take its sweet time and still be worth the wait."
+  },
+  {
+    "title": "Any Human Ever – One life, drawn at random from all who have ever lived",
+    "url": "https://anyhumanever.com/",
+    "points": 490,
+    "num_comments": 247,
+    "tags": [
+      "story",
+      "author_thinkingemote",
+      "story_49550698",
       "front_page"
     ],
-    "author": "teekert",
-    "created_at": "2026-09-02T12:30:39Z",
-    "aiHeadline": "Can I Opt Out of My Data Being Used for AI Training? Sure, But Good Luck Finding the Option"
+    "author": "thinkingemote",
+    "created_at": "2026-09-03T14:51:10Z",
+    "aiHeadline": "Any Human Ever is the ultimate way to feel insignificant, because who needs self-esteem when you can compare yourself to random historical figures?"
   },
   {
-    "title": "Commodore 64 released September 1, 1982",
-    "url": "https://dfarq.homeip.net/commodore-64-released-september-1-1982/",
-    "points": 335,
-    "num_comments": 175,
+    "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+    "url": "https://inference-docs.cerebras.ai/models/overview",
+    "points": 473,
+    "num_comments": 142,
     "tags": [
       "story",
-      "author_giuliomagnifico",
-      "story_49533497"
+      "author_altertable",
+      "story_49554520",
+      "front_page"
     ],
-    "author": "giuliomagnifico",
-    "created_at": "2026-09-02T08:36:43Z",
-    "aiHeadline": "Commodore 64 Turns 41, Still Proving That Old Tech Is the Best Tech"
+    "author": "altertable",
+    "created_at": "2026-09-03T18:32:13Z",
+    "aiHeadline": "Cerebras is offering Qwen 3.8 27B at 1500 tokens per second, which is basically the fast-food version of AI processing."
   }
 ]
