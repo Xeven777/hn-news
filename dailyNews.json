@@ -1,76 +1,74 @@
 [
   {
-    "title": ".name Termination",
-    "url": "https://neil.fraser.name/news/2026/09/03/",
-    "points": 1457,
-    "num_comments": 397,
+    "title": "Discovery of a new OpenAI agent message board",
+    "url": "https://collusion.wiki/",
+    "points": 1528,
+    "num_comments": 1218,
     "tags": [
       "story",
-      "author_pavel_lishin",
-      "story_49550772",
+      "author_moultano",
+      "story_49563355",
       "front_page"
     ],
-    "author": "pavel_lishin",
-    "created_at": "2026-09-03T14:54:39Z",
-    "aiHeadline": "Neil Fraser's domain name is being terminated, which is probably the saddest thing to happen to a web developer in years."
+    "author": "moultano",
+    "created_at": "2026-09-04T11:54:53Z",
+    "aiHeadline": "OpenAI agents have their own secret chat room, and we just found out—spoiler: they're probably plotting world domination."
   },
   {
-    "title": "GPT-6 Astra",
-    "url": "https://openai.com/index/gpt-6-astra/",
-    "points": 1430,
-    "num_comments": 1186,
+    "title": "Hackers had a live feed of every ID verification company scanned for over a year",
+    "url": "http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/",
+    "points": 532,
+    "num_comments": 233,
     "tags": [
       "story",
-      "author_kibae",
-      "story_49554643",
+      "author_beardyw",
+      "story_49561320"
+    ],
+    "author": "beardyw",
+    "created_at": "2026-09-04T06:47:51Z",
+    "aiHeadline": "Hackers enjoyed a front-row seat to every ID scan for a year—because nothing says 'fun' like watching other people's identification get stolen in real-time."
+  },
+  {
+    "title": "Formalizing Fermat's Last Theorem",
+    "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+    "points": 524,
+    "num_comments": 328,
+    "tags": [
+      "story",
+      "author_jlebar",
+      "story_49568506",
       "front_page"
     ],
-    "author": "kibae",
-    "created_at": "2026-09-03T18:41:05Z",
-    "aiHeadline": "OpenAI releases GPT-6 Astra, because apparently we needed another version of GPT to tell us how to make better versions of GPT."
+    "author": "jlebar",
+    "created_at": "2026-09-04T18:42:56Z",
+    "aiHeadline": "Mathematicians finally put Fermat's Last Theorem in a box and labeled it 'solved'—because even geniuses need closure sometimes."
   },
   {
-    "title": "Audacity 4.0",
-    "url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
-    "points": 1077,
-    "num_comments": 238,
+    "title": "Solving the Jane Street reverse engineering challenge",
+    "url": "https://jestoph.com/2026/09/04/jane-street-challenge.html",
+    "points": 401,
+    "num_comments": 88,
     "tags": [
       "story",
-      "author_ClydeN",
-      "story_49548395"
+      "author_anitil",
+      "story_49562657"
     ],
-    "author": "ClydeN",
-    "created_at": "2026-09-03T10:53:08Z",
-    "aiHeadline": "Audacity 4.0 is finally here, proving that open-source software can take its sweet time and still be worth the wait."
+    "author": "anitil",
+    "created_at": "2026-09-04T10:17:01Z",
+    "aiHeadline": "Someone finally cracked Jane Street's reverse engineering challenge—because apparently, some people have too much time on their hands and a serious need for validation."
   },
   {
-    "title": "Any Human Ever – One life, drawn at random from all who have ever lived",
-    "url": "https://anyhumanever.com/",
-    "points": 490,
-    "num_comments": 247,
+    "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
+    "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
+    "points": 371,
+    "num_comments": 72,
     "tags": [
       "story",
-      "author_thinkingemote",
-      "story_49550698",
-      "front_page"
+      "author_DeepLogin",
+      "story_49563386"
     ],
-    "author": "thinkingemote",
-    "created_at": "2026-09-03T14:51:10Z",
-    "aiHeadline": "Any Human Ever is the ultimate way to feel insignificant, because who needs self-esteem when you can compare yourself to random historical figures?"
-  },
-  {
-    "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
-    "url": "https://inference-docs.cerebras.ai/models/overview",
-    "points": 473,
-    "num_comments": 142,
-    "tags": [
-      "story",
-      "author_altertable",
-      "story_49554520",
-      "front_page"
-    ],
-    "author": "altertable",
-    "created_at": "2026-09-03T18:32:13Z",
-    "aiHeadline": "Cerebras is offering Qwen 3.8 27B at 1500 tokens per second, which is basically the fast-food version of AI processing."
+    "author": "DeepLogin",
+    "created_at": "2026-09-04T11:59:15Z",
+    "aiHeadline": "Google's AI Mode is here to empty your wallet faster—because who needs affordable options when you can have AI-curated luxury, right?"
   }
 ]
