@@ -1,74 +1,73 @@
 [
   {
-    "title": "Discovery of a new OpenAI agent message board",
-    "url": "https://collusion.wiki/",
-    "points": 1528,
-    "num_comments": 1218,
+    "title": "The Real Luxuries In Life",
+    "url": "https://feld.com/archives/2026/09/the-real-luxuries-in-life/",
+    "points": 450,
+    "num_comments": 214,
     "tags": [
       "story",
-      "author_moultano",
-      "story_49563355",
+      "author_tosh",
+      "story_49578866"
+    ],
+    "author": "tosh",
+    "created_at": "2026-09-05T17:46:16Z",
+    "aiHeadline": "The Real Luxuries In Life: Turns out, it's not just a Tesla and a McMansion—unless you count the ability to afford therapy for your existential crisis."
+  },
+  {
+    "title": "Private German rocket makes history, reaches orbit from European soil",
+    "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
+    "points": 405,
+    "num_comments": 222,
+    "tags": [
+      "story",
+      "author_bookmtn",
+      "story_49580369",
       "front_page"
     ],
-    "author": "moultano",
-    "created_at": "2026-09-04T11:54:53Z",
-    "aiHeadline": "OpenAI agents have their own secret chat room, and we just found out—spoiler: they're probably plotting world domination."
+    "author": "bookmtn",
+    "created_at": "2026-09-05T20:31:38Z",
+    "aiHeadline": "Private German Rocket Makes History, Reaches Orbit—Meanwhile, My Coffee Still Doesn't Have Enough Cream."
   },
   {
-    "title": "Hackers had a live feed of every ID verification company scanned for over a year",
-    "url": "http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/",
-    "points": 532,
-    "num_comments": 233,
+    "title": "AI handles incidents, engineers lose touch with their systems",
+    "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+    "points": 368,
+    "num_comments": 324,
     "tags": [
       "story",
-      "author_beardyw",
-      "story_49561320"
+      "author_sylvainkalache",
+      "story_49574167"
     ],
-    "author": "beardyw",
-    "created_at": "2026-09-04T06:47:51Z",
-    "aiHeadline": "Hackers enjoyed a front-row seat to every ID scan for a year—because nothing says 'fun' like watching other people's identification get stolen in real-time."
+    "author": "sylvainkalache",
+    "created_at": "2026-09-05T07:52:50Z",
+    "aiHeadline": "AI Handles Incidents, Engineers Lose Touch With Their Systems—Goodbye, Job Security; Hello, Existential Crisis."
   },
   {
-    "title": "Formalizing Fermat's Last Theorem",
-    "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-    "points": 524,
-    "num_comments": 328,
+    "title": "Flock used >100 times to track veteran who recorded traffic stop",
+    "url": "https://reason.com/2026/09/02/wisconsin-cops-used-flock-over-100-times-to-track-a-navy-veteran-after-he-lawfully-recorded-a-traffic-stop/",
+    "points": 352,
+    "num_comments": 182,
     "tags": [
       "story",
-      "author_jlebar",
-      "story_49568506",
-      "front_page"
+      "author_bbatsell",
+      "story_49578310"
     ],
-    "author": "jlebar",
-    "created_at": "2026-09-04T18:42:56Z",
-    "aiHeadline": "Mathematicians finally put Fermat's Last Theorem in a box and labeled it 'solved'—because even geniuses need closure sometimes."
+    "author": "bbatsell",
+    "created_at": "2026-09-05T16:48:13Z",
+    "aiHeadline": "Flock Used Over 100 Times to Track Veteran—Because Apparently, Nothing Says 'We Trust You' Like Constant Surveillance."
   },
   {
-    "title": "Solving the Jane Street reverse engineering challenge",
-    "url": "https://jestoph.com/2026/09/04/jane-street-challenge.html",
-    "points": 401,
-    "num_comments": 88,
+    "title": "Netherlands pulls gold out of the US",
+    "url": "https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990",
+    "points": 349,
+    "num_comments": 253,
     "tags": [
       "story",
-      "author_anitil",
-      "story_49562657"
+      "author_daniel_iversen",
+      "story_49575034"
     ],
-    "author": "anitil",
-    "created_at": "2026-09-04T10:17:01Z",
-    "aiHeadline": "Someone finally cracked Jane Street's reverse engineering challenge—because apparently, some people have too much time on their hands and a serious need for validation."
-  },
-  {
-    "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
-    "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
-    "points": 371,
-    "num_comments": 72,
-    "tags": [
-      "story",
-      "author_DeepLogin",
-      "story_49563386"
-    ],
-    "author": "DeepLogin",
-    "created_at": "2026-09-04T11:59:15Z",
-    "aiHeadline": "Google's AI Mode is here to empty your wallet faster—because who needs affordable options when you can have AI-curated luxury, right?"
+    "author": "daniel_iversen",
+    "created_at": "2026-09-05T10:14:28Z",
+    "aiHeadline": "Netherlands Pulls Gold Out of the US—Because Who Needs a Safe Haven When You Can Have a Safe Haven in Your Own Backyard?"
   }
 ]
