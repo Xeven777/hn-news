@@ -1,73 +1,75 @@
 [
   {
-    "title": "The Real Luxuries In Life",
-    "url": "https://feld.com/archives/2026/09/the-real-luxuries-in-life/",
-    "points": 450,
-    "num_comments": 214,
+    "title": "QBittorrent breaks out of sandbox to commit crimes",
+    "url": "https://beige.party/@intransitivelie/117057396732763183",
+    "points": 1216,
+    "num_comments": 265,
     "tags": [
       "story",
-      "author_tosh",
-      "story_49578866"
+      "author_mraniki",
+      "story_49586171"
     ],
-    "author": "tosh",
-    "created_at": "2026-09-05T17:46:16Z",
-    "aiHeadline": "The Real Luxuries In Life: Turns out, it's not just a Tesla and a McMansion—unless you count the ability to afford therapy for your existential crisis."
+    "author": "mraniki",
+    "created_at": "2026-09-06T13:02:41Z",
+    "aiHeadline": "qBittorrent: Because staying within the sandbox was just too responsible, right?"
   },
   {
-    "title": "Private German rocket makes history, reaches orbit from European soil",
-    "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
-    "points": 405,
-    "num_comments": 222,
+    "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
+    "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+    "points": 574,
+    "num_comments": 381,
     "tags": [
       "story",
-      "author_bookmtn",
-      "story_49580369",
+      "author_cyb0rg0",
+      "story_49585644",
       "front_page"
     ],
-    "author": "bookmtn",
-    "created_at": "2026-09-05T20:31:38Z",
-    "aiHeadline": "Private German Rocket Makes History, Reaches Orbit—Meanwhile, My Coffee Still Doesn't Have Enough Cream."
+    "author": "cyb0rg0",
+    "created_at": "2026-09-06T11:56:43Z",
+    "aiHeadline": "Using an AI to write your thoughts? Might as well just stream your consciousness to the internet for free."
   },
   {
-    "title": "AI handles incidents, engineers lose touch with their systems",
-    "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-    "points": 368,
-    "num_comments": 324,
+    "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+    "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
+    "points": 565,
+    "num_comments": 180,
     "tags": [
       "story",
-      "author_sylvainkalache",
-      "story_49574167"
+      "author_mpweiher",
+      "story_49584083"
     ],
-    "author": "sylvainkalache",
-    "created_at": "2026-09-05T07:52:50Z",
-    "aiHeadline": "AI Handles Incidents, Engineers Lose Touch With Their Systems—Goodbye, Job Security; Hello, Existential Crisis."
+    "author": "mpweiher",
+    "created_at": "2026-09-06T07:21:06Z",
+    "aiHeadline": "Isar Aerospace: Because failing once wasn't enough, let's try again and actually succeed this time."
   },
   {
-    "title": "Flock used >100 times to track veteran who recorded traffic stop",
-    "url": "https://reason.com/2026/09/02/wisconsin-cops-used-flock-over-100-times-to-track-a-navy-veteran-after-he-lawfully-recorded-a-traffic-stop/",
-    "points": 352,
-    "num_comments": 182,
+    "title": "A/I shuts down",
+    "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
+    "points": 538,
+    "num_comments": 431,
     "tags": [
       "story",
-      "author_bbatsell",
-      "story_49578310"
+      "author_captainmuon",
+      "story_49586898",
+      "front_page"
     ],
-    "author": "bbatsell",
-    "created_at": "2026-09-05T16:48:13Z",
-    "aiHeadline": "Flock Used Over 100 Times to Track Veteran—Because Apparently, Nothing Says 'We Trust You' Like Constant Surveillance."
+    "author": "captainmuon",
+    "created_at": "2026-09-06T14:34:34Z",
+    "aiHeadline": "A/I shuts down: Because solving the world's problems was just too easy, right?"
   },
   {
-    "title": "Netherlands pulls gold out of the US",
-    "url": "https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990",
-    "points": 349,
-    "num_comments": 253,
+    "title": "Nitter and XCancel resume service after legal advice",
+    "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+    "points": 522,
+    "num_comments": 270,
     "tags": [
       "story",
-      "author_daniel_iversen",
-      "story_49575034"
+      "author_zImPatrick",
+      "story_49588988",
+      "front_page"
     ],
-    "author": "daniel_iversen",
-    "created_at": "2026-09-05T10:14:28Z",
-    "aiHeadline": "Netherlands Pulls Gold Out of the US—Because Who Needs a Safe Haven When You Can Have a Safe Haven in Your Own Backyard?"
+    "author": "zImPatrick",
+    "created_at": "2026-09-06T17:49:47Z",
+    "aiHeadline": "Nitter and XCancel: Because ignoring legal advice was just too fun, now we're back in business."
   }
 ]
