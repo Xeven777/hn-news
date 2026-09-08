@@ -1,75 +1,73 @@
 [
   {
-    "title": "QBittorrent breaks out of sandbox to commit crimes",
-    "url": "https://beige.party/@intransitivelie/117057396732763183",
-    "points": 1216,
+    "title": "LG smart TVs caught logging audio with screen off and snooping on local devices",
+    "url": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html",
+    "points": 1112,
+    "num_comments": 3,
+    "tags": [
+      "story",
+      "author_chris_overseas",
+      "story_49594878"
+    ],
+    "author": "chris_overseas",
+    "created_at": "2026-09-07T07:03:20Z",
+    "aiHeadline": "LG Smart TVs: Because spying on you should be a 24/7 service, even when you think you're off the grid."
+  },
+  {
+    "title": "De-Brainrot Vacations",
+    "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
+    "points": 473,
+    "num_comments": 189,
+    "tags": [
+      "story",
+      "author_DanielVZ",
+      "story_49597907"
+    ],
+    "author": "DanielVZ",
+    "created_at": "2026-09-07T13:00:48Z",
+    "aiHeadline": "De-Brainrot Vacations: Because who needs relaxation when you can unlearn all the nonsense you've been force-fed this year?"
+  },
+  {
+    "title": "bzip3",
+    "url": "https://github.com/iczelia/bzip3",
+    "points": 391,
+    "num_comments": 110,
+    "tags": [
+      "story",
+      "author_tosh",
+      "story_49598291",
+      "front_page"
+    ],
+    "author": "tosh",
+    "created_at": "2026-09-07T13:35:13Z",
+    "aiHeadline": "bzip3: The latest in compression technology, because clearly bzip2 wasn't good enough for your precious data."
+  },
+  {
+    "title": "Bill Gates tries to install MovieMaker (2003)",
+    "url": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker",
+    "points": 362,
+    "num_comments": 245,
+    "tags": [
+      "story",
+      "author_highfrequency",
+      "story_49599481"
+    ],
+    "author": "highfrequency",
+    "created_at": "2026-09-07T15:27:03Z",
+    "aiHeadline": "Bill Gates Tries to Install MovieMaker (2003): Because nothing says 'I'm relevant' like trying to use software that's older than your average millennial."
+  },
+  {
+    "title": "Switzerland's Federal Government Is Replacing Microsoft on 3k Computers",
+    "url": "https://itsfoss.com/news/switzerland-replace-microssoft-pilot/",
+    "points": 339,
     "num_comments": 265,
     "tags": [
       "story",
-      "author_mraniki",
-      "story_49586171"
+      "author_ivell",
+      "story_49594251"
     ],
-    "author": "mraniki",
-    "created_at": "2026-09-06T13:02:41Z",
-    "aiHeadline": "qBittorrent: Because staying within the sandbox was just too responsible, right?"
-  },
-  {
-    "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
-    "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
-    "points": 574,
-    "num_comments": 381,
-    "tags": [
-      "story",
-      "author_cyb0rg0",
-      "story_49585644",
-      "front_page"
-    ],
-    "author": "cyb0rg0",
-    "created_at": "2026-09-06T11:56:43Z",
-    "aiHeadline": "Using an AI to write your thoughts? Might as well just stream your consciousness to the internet for free."
-  },
-  {
-    "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
-    "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
-    "points": 565,
-    "num_comments": 180,
-    "tags": [
-      "story",
-      "author_mpweiher",
-      "story_49584083"
-    ],
-    "author": "mpweiher",
-    "created_at": "2026-09-06T07:21:06Z",
-    "aiHeadline": "Isar Aerospace: Because failing once wasn't enough, let's try again and actually succeed this time."
-  },
-  {
-    "title": "A/I shuts down",
-    "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
-    "points": 538,
-    "num_comments": 431,
-    "tags": [
-      "story",
-      "author_captainmuon",
-      "story_49586898",
-      "front_page"
-    ],
-    "author": "captainmuon",
-    "created_at": "2026-09-06T14:34:34Z",
-    "aiHeadline": "A/I shuts down: Because solving the world's problems was just too easy, right?"
-  },
-  {
-    "title": "Nitter and XCancel resume service after legal advice",
-    "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
-    "points": 522,
-    "num_comments": 270,
-    "tags": [
-      "story",
-      "author_zImPatrick",
-      "story_49588988",
-      "front_page"
-    ],
-    "author": "zImPatrick",
-    "created_at": "2026-09-06T17:49:47Z",
-    "aiHeadline": "Nitter and XCancel: Because ignoring legal advice was just too fun, now we're back in business."
+    "author": "ivell",
+    "created_at": "2026-09-07T05:33:25Z",
+    "aiHeadline": "Switzerland's Federal Government Ditches Microsoft on 3,000 Computers: Because who needs proprietary software when you can have the thrill of uncertainty with open-source?"
   }
 ]
