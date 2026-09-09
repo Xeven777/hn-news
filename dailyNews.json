@@ -1,73 +1,75 @@
 [
   {
-    "title": "LG smart TVs caught logging audio with screen off and snooping on local devices",
-    "url": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html",
-    "points": 1112,
-    "num_comments": 3,
+    "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+    "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+    "points": 1365,
+    "num_comments": 584,
     "tags": [
       "story",
-      "author_chris_overseas",
-      "story_49594878"
-    ],
-    "author": "chris_overseas",
-    "created_at": "2026-09-07T07:03:20Z",
-    "aiHeadline": "LG Smart TVs: Because spying on you should be a 24/7 service, even when you think you're off the grid."
-  },
-  {
-    "title": "De-Brainrot Vacations",
-    "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
-    "points": 473,
-    "num_comments": 189,
-    "tags": [
-      "story",
-      "author_DanielVZ",
-      "story_49597907"
-    ],
-    "author": "DanielVZ",
-    "created_at": "2026-09-07T13:00:48Z",
-    "aiHeadline": "De-Brainrot Vacations: Because who needs relaxation when you can unlearn all the nonsense you've been force-fed this year?"
-  },
-  {
-    "title": "bzip3",
-    "url": "https://github.com/iczelia/bzip3",
-    "points": 391,
-    "num_comments": 110,
-    "tags": [
-      "story",
-      "author_tosh",
-      "story_49598291",
+      "author_procedurecall",
+      "story_49605915",
       "front_page"
     ],
-    "author": "tosh",
-    "created_at": "2026-09-07T13:35:13Z",
-    "aiHeadline": "bzip3: The latest in compression technology, because clearly bzip2 wasn't good enough for your precious data."
+    "author": "procedurecall",
+    "created_at": "2026-09-08T05:42:28Z",
+    "aiHeadline": "Navier-Stokes problem solved by Tristan Buckmaster, finally giving mathematicians something to talk about other than their existential dread."
   },
   {
-    "title": "Bill Gates tries to install MovieMaker (2003)",
-    "url": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker",
-    "points": 362,
-    "num_comments": 245,
+    "title": "On the Navier–Stokes Millennium Prize Problem",
+    "url": "https://openai.com/index/navier-stokes-solution/",
+    "points": 1174,
+    "num_comments": 1008,
     "tags": [
       "story",
-      "author_highfrequency",
-      "story_49599481"
+      "author_tedsanders",
+      "story_49613262",
+      "front_page"
     ],
-    "author": "highfrequency",
-    "created_at": "2026-09-07T15:27:03Z",
-    "aiHeadline": "Bill Gates Tries to Install MovieMaker (2003): Because nothing says 'I'm relevant' like trying to use software that's older than your average millennial."
+    "author": "tedsanders",
+    "created_at": "2026-09-08T17:13:21Z",
+    "aiHeadline": "Navier-Stokes Millennium Prize Problem solved, proving once again that even the most intractable problems can be cracked with enough coffee and a deadline."
   },
   {
-    "title": "Switzerland's Federal Government Is Replacing Microsoft on 3k Computers",
-    "url": "https://itsfoss.com/news/switzerland-replace-microssoft-pilot/",
-    "points": 339,
-    "num_comments": 265,
+    "title": "Mistral raises €3B",
+    "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+    "points": 812,
+    "num_comments": 568,
     "tags": [
       "story",
-      "author_ivell",
-      "story_49594251"
+      "author_kuberwastaken",
+      "story_49605767"
     ],
-    "author": "ivell",
-    "created_at": "2026-09-07T05:33:25Z",
-    "aiHeadline": "Switzerland's Federal Government Ditches Microsoft on 3,000 Computers: Because who needs proprietary software when you can have the thrill of uncertainty with open-source?"
+    "author": "kuberwastaken",
+    "created_at": "2026-09-08T05:06:23Z",
+    "aiHeadline": "Mistral raises €3B, proving that even in the AI winter, there's still money to be made by pretending to be the next big thing."
+  },
+  {
+    "title": "LibreOffice breaks download records after declaring it has no AI features",
+    "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
+    "points": 654,
+    "num_comments": 217,
+    "tags": [
+      "story",
+      "author_rpgbr",
+      "story_49610538"
+    ],
+    "author": "rpgbr",
+    "created_at": "2026-09-08T14:05:57Z",
+    "aiHeadline": "LibreOffice breaks download records by proudly declaring, 'We don't have AI features!' and somehow making that sound like a feature."
+  },
+  {
+    "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+    "points": 508,
+    "num_comments": 117,
+    "tags": [
+      "story",
+      "author_utiiiD",
+      "story_49611251",
+      "front_page"
+    ],
+    "author": "utiiiD",
+    "created_at": "2026-09-08T14:55:45Z",
+    "aiHeadline": "AlphaGenome Atlas: a high-resolution map of human DNA, because apparently we needed a Google Maps for our genes."
   }
 ]
