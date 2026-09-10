@@ -1,75 +1,75 @@
 [
   {
-    "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
-    "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
-    "points": 1365,
-    "num_comments": 584,
+    "title": "Claude, change the “Add to Cart” button to blue",
+    "url": "https://opusfived.dev/",
+    "points": 1052,
+    "num_comments": 406,
     "tags": [
       "story",
-      "author_procedurecall",
-      "story_49605915",
+      "author_matthieu_bl",
+      "story_49623754"
+    ],
+    "author": "matthieu_bl",
+    "created_at": "2026-09-09T09:39:46Z",
+    "aiHeadline": "Claude's groundbreaking decision to turn the 'Add to Cart' button blue is set to revolutionize e-commerce, or maybe just make it slightly more noticeable."
+  },
+  {
+    "title": "iPhone Duo",
+    "url": "https://www.apple.com/iphone-duo/",
+    "points": 982,
+    "num_comments": 1777,
+    "tags": [
+      "story",
+      "author_thecosmicfrog",
+      "story_49630931",
       "front_page"
     ],
-    "author": "procedurecall",
-    "created_at": "2026-09-08T05:42:28Z",
-    "aiHeadline": "Navier-Stokes problem solved by Tristan Buckmaster, finally giving mathematicians something to talk about other than their existential dread."
+    "author": "thecosmicfrog",
+    "created_at": "2026-09-09T18:15:43Z",
+    "aiHeadline": "Apple's latest marvel, the iPhone Duo, promises to double your fun with its dual everything, except maybe the price which somehow remains single."
   },
   {
-    "title": "On the Navier–Stokes Millennium Prize Problem",
-    "url": "https://openai.com/index/navier-stokes-solution/",
-    "points": 1174,
-    "num_comments": 1008,
+    "title": "Shopify acquires Tailwind",
+    "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+    "points": 925,
+    "num_comments": 370,
     "tags": [
       "story",
-      "author_tedsanders",
-      "story_49613262",
+      "author_EdwinHoksberg",
+      "story_49626190",
       "front_page"
     ],
-    "author": "tedsanders",
-    "created_at": "2026-09-08T17:13:21Z",
-    "aiHeadline": "Navier-Stokes Millennium Prize Problem solved, proving once again that even the most intractable problems can be cracked with enough coffee and a deadline."
+    "author": "EdwinHoksberg",
+    "created_at": "2026-09-09T13:27:11Z",
+    "aiHeadline": "Shopify's acquisition of Tailwind is a strategic move that will undoubtedly make all your websites look like they were designed by a team of highly caffeinated developers."
   },
   {
-    "title": "Mistral raises €3B",
-    "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
-    "points": 812,
-    "num_comments": 568,
+    "title": "Flock Wants a Closely Surveilled World with No Exit",
+    "url": "https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit",
+    "points": 551,
+    "num_comments": 526,
     "tags": [
       "story",
-      "author_kuberwastaken",
-      "story_49605767"
+      "author_pseudolus",
+      "story_49624394"
     ],
-    "author": "kuberwastaken",
-    "created_at": "2026-09-08T05:06:23Z",
-    "aiHeadline": "Mistral raises €3B, proving that even in the AI winter, there's still money to be made by pretending to be the next big thing."
+    "author": "pseudolus",
+    "created_at": "2026-09-09T10:54:18Z",
+    "aiHeadline": "Flock's vision of a world under constant surveillance is the dystopian future we all deserve, complete with no escape and a whole lot of data collection."
   },
   {
-    "title": "LibreOffice breaks download records after declaring it has no AI features",
-    "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
-    "points": 654,
-    "num_comments": 217,
+    "title": "Desert Ant Labs: local, fast models that run on device",
+    "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
+    "points": 411,
+    "num_comments": 93,
     "tags": [
       "story",
-      "author_rpgbr",
-      "story_49610538"
-    ],
-    "author": "rpgbr",
-    "created_at": "2026-09-08T14:05:57Z",
-    "aiHeadline": "LibreOffice breaks download records by proudly declaring, 'We don't have AI features!' and somehow making that sound like a feature."
-  },
-  {
-    "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
-    "points": 508,
-    "num_comments": 117,
-    "tags": [
-      "story",
-      "author_utiiiD",
-      "story_49611251",
+      "author_willwhitedc",
+      "story_49624823",
       "front_page"
     ],
-    "author": "utiiiD",
-    "created_at": "2026-09-08T14:55:45Z",
-    "aiHeadline": "AlphaGenome Atlas: a high-resolution map of human DNA, because apparently we needed a Google Maps for our genes."
+    "author": "willwhitedc",
+    "created_at": "2026-09-09T11:39:46Z",
+    "aiHeadline": "Desert Ant Labs introduces local, fast models that run on device, proving once again that sometimes, less is more, especially when it comes to processing power."
   }
 ]
