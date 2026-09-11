@@ -1,75 +1,75 @@
 [
   {
-    "title": "Claude, change the “Add to Cart” button to blue",
-    "url": "https://opusfived.dev/",
-    "points": 1052,
-    "num_comments": 406,
+    "title": "DeepSeek v4.1 Flash",
+    "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
+    "points": 948,
+    "num_comments": 530,
     "tags": [
       "story",
-      "author_matthieu_bl",
-      "story_49623754"
+      "author_Liwink",
+      "story_49639090"
     ],
-    "author": "matthieu_bl",
-    "created_at": "2026-09-09T09:39:46Z",
-    "aiHeadline": "Claude's groundbreaking decision to turn the 'Add to Cart' button blue is set to revolutionize e-commerce, or maybe just make it slightly more noticeable."
+    "author": "Liwink",
+    "created_at": "2026-09-10T06:11:05Z",
+    "aiHeadline": "DeepSeek v4.1 Flash: Now 100% faster, but only for the first 5 seconds."
   },
   {
-    "title": "iPhone Duo",
-    "url": "https://www.apple.com/iphone-duo/",
-    "points": 982,
-    "num_comments": 1777,
+    "title": "Shopify is moving from React Native back to Swift and Kotlin",
+    "url": "https://shopify.engineering/back-to-native",
+    "points": 852,
+    "num_comments": 572,
     "tags": [
       "story",
-      "author_thecosmicfrog",
-      "story_49630931",
+      "author_fnthawar2",
+      "story_49643982",
       "front_page"
     ],
-    "author": "thecosmicfrog",
-    "created_at": "2026-09-09T18:15:43Z",
-    "aiHeadline": "Apple's latest marvel, the iPhone Duo, promises to double your fun with its dual everything, except maybe the price which somehow remains single."
+    "author": "fnthawar2",
+    "created_at": "2026-09-10T14:09:31Z",
+    "aiHeadline": "Shopify abandons React Native for the oldscool vibes of Swift and Kotlin."
   },
   {
-    "title": "Shopify acquires Tailwind",
-    "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
-    "points": 925,
-    "num_comments": 370,
+    "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+    "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+    "points": 730,
+    "num_comments": 670,
     "tags": [
       "story",
-      "author_EdwinHoksberg",
-      "story_49626190",
+      "author_pred_",
+      "story_49639408",
       "front_page"
     ],
-    "author": "EdwinHoksberg",
-    "created_at": "2026-09-09T13:27:11Z",
-    "aiHeadline": "Shopify's acquisition of Tailwind is a strategic move that will undoubtedly make all your websites look like they were designed by a team of highly caffeinated developers."
+    "author": "pred_",
+    "created_at": "2026-09-10T06:49:43Z",
+    "aiHeadline": "OpenAI: 'Trust us with your math, we're trustworthy!' Researchers: 'Hmm, not so sure.'"
   },
   {
-    "title": "Flock Wants a Closely Surveilled World with No Exit",
-    "url": "https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit",
-    "points": 551,
-    "num_comments": 526,
+    "title": "Rust is tier-1 language at Microsoft",
+    "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+    "points": 626,
+    "num_comments": 357,
     "tags": [
       "story",
-      "author_pseudolus",
-      "story_49624394"
-    ],
-    "author": "pseudolus",
-    "created_at": "2026-09-09T10:54:18Z",
-    "aiHeadline": "Flock's vision of a world under constant surveillance is the dystopian future we all deserve, complete with no escape and a whole lot of data collection."
-  },
-  {
-    "title": "Desert Ant Labs: local, fast models that run on device",
-    "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
-    "points": 411,
-    "num_comments": 93,
-    "tags": [
-      "story",
-      "author_willwhitedc",
-      "story_49624823",
+      "author_mmastrac",
+      "story_49643546",
       "front_page"
     ],
-    "author": "willwhitedc",
-    "created_at": "2026-09-09T11:39:46Z",
-    "aiHeadline": "Desert Ant Labs introduces local, fast models that run on device, proving once again that sometimes, less is more, especially when it comes to processing power."
+    "author": "mmastrac",
+    "created_at": "2026-09-10T13:39:16Z",
+    "aiHeadline": "Rust: Now officially tier-1 at Microsoft, because even they can't ignore it anymore."
+  },
+  {
+    "title": "Tell HN: OpenAI keeps re-enabling the 'allow training' setting",
+    "points": 438,
+    "num_comments": 178,
+    "tags": [
+      "story",
+      "author_jacquesm",
+      "story_49643556",
+      "ask_hn"
+    ],
+    "author": "jacquesm",
+    "created_at": "2026-09-10T13:39:53Z",
+    "aiHeadline": "OpenAI: 'Oops, did it again! Training enabled once more, because consistency is key!'"
   }
 ]
