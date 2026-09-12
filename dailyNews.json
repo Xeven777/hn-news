@@ -1,75 +1,75 @@
 [
   {
-    "title": "DeepSeek v4.1 Flash",
-    "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
-    "points": 948,
-    "num_comments": 530,
+    "title": "Ask HN: Can we please limit the AI news flood?",
+    "points": 758,
+    "num_comments": 364,
     "tags": [
       "story",
-      "author_Liwink",
-      "story_49639090"
-    ],
-    "author": "Liwink",
-    "created_at": "2026-09-10T06:11:05Z",
-    "aiHeadline": "DeepSeek v4.1 Flash: Now 100% faster, but only for the first 5 seconds."
-  },
-  {
-    "title": "Shopify is moving from React Native back to Swift and Kotlin",
-    "url": "https://shopify.engineering/back-to-native",
-    "points": 852,
-    "num_comments": 572,
-    "tags": [
-      "story",
-      "author_fnthawar2",
-      "story_49643982",
-      "front_page"
-    ],
-    "author": "fnthawar2",
-    "created_at": "2026-09-10T14:09:31Z",
-    "aiHeadline": "Shopify abandons React Native for the oldscool vibes of Swift and Kotlin."
-  },
-  {
-    "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-    "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
-    "points": 730,
-    "num_comments": 670,
-    "tags": [
-      "story",
-      "author_pred_",
-      "story_49639408",
-      "front_page"
-    ],
-    "author": "pred_",
-    "created_at": "2026-09-10T06:49:43Z",
-    "aiHeadline": "OpenAI: 'Trust us with your math, we're trustworthy!' Researchers: 'Hmm, not so sure.'"
-  },
-  {
-    "title": "Rust is tier-1 language at Microsoft",
-    "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
-    "points": 626,
-    "num_comments": 357,
-    "tags": [
-      "story",
-      "author_mmastrac",
-      "story_49643546",
-      "front_page"
-    ],
-    "author": "mmastrac",
-    "created_at": "2026-09-10T13:39:16Z",
-    "aiHeadline": "Rust: Now officially tier-1 at Microsoft, because even they can't ignore it anymore."
-  },
-  {
-    "title": "Tell HN: OpenAI keeps re-enabling the 'allow training' setting",
-    "points": 438,
-    "num_comments": 178,
-    "tags": [
-      "story",
-      "author_jacquesm",
-      "story_49643556",
+      "author_cromka",
+      "story_49657850",
       "ask_hn"
     ],
-    "author": "jacquesm",
-    "created_at": "2026-09-10T13:39:53Z",
-    "aiHeadline": "OpenAI: 'Oops, did it again! Training enabled once more, because consistency is key!'"
+    "author": "cromka",
+    "created_at": "2026-09-11T13:11:04Z",
+    "aiHeadline": "AI News Flood: When Will We Finally Drown in Algorithms?"
+  },
+  {
+    "title": "A misalignment of AI in mathematics",
+    "url": "https://mathandai.org/",
+    "points": 735,
+    "num_comments": 746,
+    "tags": [
+      "story",
+      "author_meredydd",
+      "story_49662371",
+      "front_page"
+    ],
+    "author": "meredydd",
+    "created_at": "2026-09-11T17:45:12Z",
+    "aiHeadline": "AI in Math: When Even Algorithms Struggle to Add Up"
+  },
+  {
+    "title": "Claude is only available to people over 18 years",
+    "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+    "points": 595,
+    "num_comments": 612,
+    "tags": [
+      "story",
+      "author_Muhammad523",
+      "story_49656225",
+      "front_page"
+    ],
+    "author": "Muhammad523",
+    "created_at": "2026-09-11T10:48:00Z",
+    "aiHeadline": "Claude: The AI That Thinks You're Too Young for a Drink (and Maybe a Brain)"
+  },
+  {
+    "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+    "url": "https://www.rubyhack.ai/",
+    "points": 440,
+    "num_comments": 255,
+    "tags": [
+      "story",
+      "author_chao-",
+      "story_49666735",
+      "front_page"
+    ],
+    "author": "chao-",
+    "created_at": "2026-09-11T23:17:42Z",
+    "aiHeadline": "OpenAI's Latest Move: Attacking RubyGems While We're All Still Trying to Figure Out How to Use Them"
+  },
+  {
+    "title": "Astra for Coding: Why Are We Doing This Again?",
+    "url": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
+    "points": 428,
+    "num_comments": 317,
+    "tags": [
+      "story",
+      "author_manojbajaj95",
+      "story_49654229"
+    ],
+    "author": "manojbajaj95",
+    "created_at": "2026-09-11T06:23:06Z",
+    "aiHeadline": "Astra for Coding: Because Apparently, We're All Still Trying to Figure Out How to Code in 2026"
   }
 ]
