@@ -1,75 +1,75 @@
 [
   {
-    "title": "Ask HN: Can we please limit the AI news flood?",
-    "points": 758,
-    "num_comments": 364,
+    "title": "We must pace the frontier",
+    "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+    "points": 585,
+    "num_comments": 813,
     "tags": [
       "story",
-      "author_cromka",
-      "story_49657850",
-      "ask_hn"
-    ],
-    "author": "cromka",
-    "created_at": "2026-09-11T13:11:04Z",
-    "aiHeadline": "AI News Flood: When Will We Finally Drown in Algorithms?"
-  },
-  {
-    "title": "A misalignment of AI in mathematics",
-    "url": "https://mathandai.org/",
-    "points": 735,
-    "num_comments": 746,
-    "tags": [
-      "story",
-      "author_meredydd",
-      "story_49662371",
+      "author_apsec112",
+      "story_49672510",
       "front_page"
     ],
-    "author": "meredydd",
-    "created_at": "2026-09-11T17:45:12Z",
-    "aiHeadline": "AI in Math: When Even Algorithms Struggle to Add Up"
+    "author": "apsec112",
+    "created_at": "2026-09-12T14:10:49Z",
+    "aiHeadline": "We must pace the frontier, because clearly rushing into the future hasn't worked out so well for us yet."
   },
   {
-    "title": "Claude is only available to people over 18 years",
-    "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
-    "points": 595,
-    "num_comments": 612,
+    "title": "Fuck it, make it anyway",
+    "url": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
+    "points": 553,
+    "num_comments": 562,
     "tags": [
       "story",
-      "author_Muhammad523",
-      "story_49656225",
+      "author_JayOtter",
+      "story_49671329"
+    ],
+    "author": "JayOtter",
+    "created_at": "2026-09-12T11:42:32Z",
+    "aiHeadline": "Fuck it, make it anyway—because when you're out of ideas, why not just wing it and hope for the best?"
+  },
+  {
+    "title": "Nvidia is the central bank of AI",
+    "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+    "points": 418,
+    "num_comments": 285,
+    "tags": [
+      "story",
+      "author_tolugenius",
+      "story_49673098",
       "front_page"
     ],
-    "author": "Muhammad523",
-    "created_at": "2026-09-11T10:48:00Z",
-    "aiHeadline": "Claude: The AI That Thinks You're Too Young for a Drink (and Maybe a Brain)"
+    "author": "tolugenius",
+    "created_at": "2026-09-12T15:08:27Z",
+    "aiHeadline": "Nvidia is the central bank of AI, because apparently, we're all just printing money with GPUs now."
   },
   {
-    "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-    "url": "https://www.rubyhack.ai/",
-    "points": 440,
-    "num_comments": 255,
+    "title": "Make your first edit to OpenStreetMap",
+    "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
+    "points": 369,
+    "num_comments": 84,
     "tags": [
       "story",
-      "author_chao-",
-      "story_49666735",
+      "author_juliantigler",
+      "story_49674050",
       "front_page"
     ],
-    "author": "chao-",
-    "created_at": "2026-09-11T23:17:42Z",
-    "aiHeadline": "OpenAI's Latest Move: Attacking RubyGems While We're All Still Trying to Figure Out How to Use Them"
+    "author": "juliantigler",
+    "created_at": "2026-09-12T16:25:08Z",
+    "aiHeadline": "Make your first edit to OpenStreetMap, because who doesn't want to accidentally misplace a whole city while trying to help?"
   },
   {
-    "title": "Astra for Coding: Why Are We Doing This Again?",
-    "url": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
-    "points": 428,
-    "num_comments": 317,
+    "title": "Navier-Stokes Announcement",
+    "url": "https://www.claymath.org/news/navier-stokes-announcement/",
+    "points": 318,
+    "num_comments": 260,
     "tags": [
       "story",
-      "author_manojbajaj95",
-      "story_49654229"
+      "author_rvz",
+      "story_49668706"
     ],
-    "author": "manojbajaj95",
-    "created_at": "2026-09-11T06:23:06Z",
-    "aiHeadline": "Astra for Coding: Because Apparently, We're All Still Trying to Figure Out How to Code in 2026"
+    "author": "rvz",
+    "created_at": "2026-09-12T04:09:43Z",
+    "aiHeadline": "Navier-Stokes Announcement: Finally, someone's solved the million-dollar math problem—probably by accident while trying to figure out how to fold laundry."
   }
 ]
