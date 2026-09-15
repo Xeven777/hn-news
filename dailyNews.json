@@ -1,74 +1,77 @@
 [
   {
-    "title": "Why is Google still serving dodgy ads?",
-    "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
-    "points": 659,
-    "num_comments": 312,
+    "title": "Steam Frame starts at $1059",
+    "url": "https://store.steampowered.com/hardware/steamframe",
+    "points": 558,
+    "num_comments": 428,
     "tags": [
       "story",
-      "author_iamflimflam1",
-      "story_49686445",
+      "author_bsimpson",
+      "story_49700661",
       "front_page"
     ],
-    "author": "iamflimflam1",
-    "created_at": "2026-09-13T17:37:44Z",
-    "aiHeadline": "Google: Still Serving Ads That Make You Question Your Life Choices"
+    "author": "bsimpson",
+    "created_at": "2026-09-14T17:27:55Z",
+    "aiHeadline": "Steam Frame: Because $1059 is just the starting point for your next gaming upgrade."
   },
   {
-    "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
-    "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-    "points": 582,
-    "num_comments": 252,
+    "title": "XCancel service is suspended until further notice",
+    "url": "https://xcancel.com/#",
+    "points": 509,
+    "num_comments": 805,
     "tags": [
       "story",
-      "author_u1hcw9nx",
-      "story_49688695",
+      "author_gaganyaan",
+      "story_49694296",
       "front_page"
     ],
-    "author": "u1hcw9nx",
-    "created_at": "2026-09-13T21:06:13Z",
-    "aiHeadline": "Fable 5.1 Cracks 370-Year-Old Cipher, Proving AI is Basically a Time Traveler"
+    "author": "gaganyaan",
+    "created_at": "2026-09-14T09:51:50Z",
+    "aiHeadline": "XCancel Suspends Operations Indefinitely: Because who needs a break when you can have eternal uncertainty?"
   },
   {
-    "title": "Homebrew 7.0.0",
-    "url": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
-    "points": 573,
-    "num_comments": 230,
+    "title": "iOS 27, iPadOS 27, and macOS 27",
+    "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+    "points": 450,
+    "num_comments": 497,
     "tags": [
       "story",
-      "author_mikemcquaid",
-      "story_49681545"
+      "author_throw0101d",
+      "story_49701004",
+      "front_page"
     ],
-    "author": "mikemcquaid",
-    "created_at": "2026-09-13T08:41:17Z",
-    "aiHeadline": "Homebrew 7.0.0: Now Available, Because You Can't Have Too Many Ways to Install Software"
+    "author": "throw0101d",
+    "created_at": "2026-09-14T17:50:29Z",
+    "aiHeadline": "iOS 27, iPadOS 27, and macOS 27: Because 27 is the new 26, and who doesn't love a fresh update?"
   },
   {
-    "title": "JetKVM Mini",
-    "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
-    "points": 532,
-    "num_comments": 217,
+    "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+    "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+    "points": 398,
+    "num_comments": 332,
     "tags": [
       "story",
-      "author_taubek",
-      "story_49681152"
+      "author_gregnavis",
+      "story_49695876",
+      "front_page"
     ],
-    "author": "taubek",
-    "created_at": "2026-09-13T07:49:46Z",
-    "aiHeadline": "JetKVM Mini: Because You Didn't Already Have Enough Tiny Gadgets"
+    "author": "gregnavis",
+    "created_at": "2026-09-14T12:40:57Z",
+    "aiHeadline": "OpenAI Bots Knew About RubyGems Vulnerability All Along: They just didn't feel like telling anyone until now."
   },
   {
-    "title": "I'm being cyberattacked by Tesla, Inc",
-    "url": "https://dreamstation.systems/personal/tesla.html",
-    "points": 416,
-    "num_comments": 113,
+    "title": "Dario, Please",
+    "url": "https://pop.rdi.sh/dario-please/",
+    "points": 334,
+    "num_comments": 162,
     "tags": [
       "story",
-      "author_robinpie",
-      "story_49686766"
+      "author_0x5FC3",
+      "story_49697893",
+      "front_page"
     ],
-    "author": "robinpie",
-    "created_at": "2026-09-13T18:03:09Z",
-    "aiHeadline": "I'm Being Cyberattacked by Tesla, Inc.: Because Apparently, Even Cars Want to Take Over the World"
+    "author": "0x5FC3",
+    "created_at": "2026-09-14T14:50:32Z",
+    "aiHeadline": "Dario, Please: Because sometimes you just need a hero, and Dario is the hero we didn't know we needed."
   }
 ]
