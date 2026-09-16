@@ -1,77 +1,75 @@
 [
   {
-    "title": "Steam Frame starts at $1059",
-    "url": "https://store.steampowered.com/hardware/steamframe",
-    "points": 558,
-    "num_comments": 428,
+    "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+    "url": "https://github.com/arnegiacomo/fugleramme",
+    "points": 1403,
+    "num_comments": 185,
     "tags": [
       "story",
-      "author_bsimpson",
-      "story_49700661",
+      "author_arnemunthekaas",
+      "story_49711544",
+      "show_hn",
       "front_page"
     ],
-    "author": "bsimpson",
-    "created_at": "2026-09-14T17:27:55Z",
-    "aiHeadline": "Steam Frame: Because $1059 is just the starting point for your next gaming upgrade."
+    "author": "arnemunthekaas",
+    "created_at": "2026-09-15T12:31:10Z",
+    "aiHeadline": "An e-ink frame that listens to birds and draws them like it's 1899? Because clearly, we didn't have enough screens already, and now we need one that channels our inner Victorian artist while wasting battery life on bird sounds."
   },
   {
-    "title": "XCancel service is suspended until further notice",
-    "url": "https://xcancel.com/#",
-    "points": 509,
-    "num_comments": 805,
+    "title": "I can't stop thinking about Papua New Guinea",
+    "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
+    "points": 1032,
+    "num_comments": 431,
     "tags": [
       "story",
-      "author_gaganyaan",
-      "story_49694296",
-      "front_page"
+      "author_networked",
+      "story_49708431"
     ],
-    "author": "gaganyaan",
-    "created_at": "2026-09-14T09:51:50Z",
-    "aiHeadline": "XCancel Suspends Operations Indefinitely: Because who needs a break when you can have eternal uncertainty?"
+    "author": "networked",
+    "created_at": "2026-09-15T06:16:24Z",
+    "aiHeadline": "I can't stop thinking about Papua New Guinea—probably because it's the only place where the weather is as unpredictable as my Wi-Fi and the culture is more fascinating than my ex's texts."
   },
   {
-    "title": "iOS 27, iPadOS 27, and macOS 27",
-    "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
-    "points": 450,
-    "num_comments": 497,
+    "title": "Introducing System One Models and Jev",
+    "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+    "points": 914,
+    "num_comments": 290,
     "tags": [
       "story",
-      "author_throw0101d",
-      "story_49701004",
+      "author_albelfio",
+      "story_49717558",
       "front_page"
     ],
-    "author": "throw0101d",
-    "created_at": "2026-09-14T17:50:29Z",
-    "aiHeadline": "iOS 27, iPadOS 27, and macOS 27: Because 27 is the new 26, and who doesn't love a fresh update?"
+    "author": "albelfio",
+    "created_at": "2026-09-15T19:25:03Z",
+    "aiHeadline": "Introducing System One Models and Jev: Because the world needed another AI framework, and also because someone decided that 'Jev' sounds cooler than 'Yet Another AI Framework.'"
   },
   {
-    "title": "OpenAI bots knew about the RubyGems caching vulnerability",
-    "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-    "points": 398,
-    "num_comments": 332,
+    "title": "25 years of mass surveillance is enough",
+    "url": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
+    "points": 823,
+    "num_comments": 303,
     "tags": [
       "story",
-      "author_gregnavis",
-      "story_49695876",
-      "front_page"
+      "author_iamnothere",
+      "story_49710883"
     ],
-    "author": "gregnavis",
-    "created_at": "2026-09-14T12:40:57Z",
-    "aiHeadline": "OpenAI Bots Knew About RubyGems Vulnerability All Along: They just didn't feel like telling anyone until now."
+    "author": "iamnothere",
+    "created_at": "2026-09-15T11:26:48Z",
+    "aiHeadline": "25 years of mass surveillance is enough—because now we've perfected the art of watching everyone, and the only thing left is to figure out how to make it even more intrusive without anyone noticing."
   },
   {
-    "title": "Dario, Please",
-    "url": "https://pop.rdi.sh/dario-please/",
-    "points": 334,
-    "num_comments": 162,
+    "title": "US confirms for first time it has deployed space weapons",
+    "url": "https://www.bbc.com/news/articles/ck790xg41ygro",
+    "points": 452,
+    "num_comments": 319,
     "tags": [
       "story",
-      "author_0x5FC3",
-      "story_49697893",
-      "front_page"
+      "author_harporoeder",
+      "story_49707473"
     ],
-    "author": "0x5FC3",
-    "created_at": "2026-09-14T14:50:32Z",
-    "aiHeadline": "Dario, Please: Because sometimes you just need a hero, and Dario is the hero we didn't know we needed."
+    "author": "harporoeder",
+    "created_at": "2026-09-15T03:47:56Z",
+    "aiHeadline": "US confirms it has deployed space weapons—because nothing says 'peace' like orbiting death machines, and also because we're clearly running out of places to hide our military toys."
   }
 ]
