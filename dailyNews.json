@@ -1,75 +1,75 @@
 [
   {
-    "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
-    "url": "https://github.com/arnegiacomo/fugleramme",
-    "points": 1403,
-    "num_comments": 185,
+    "title": "Hister: A private search engine for the pages you visit and the files you keep",
+    "url": "https://github.com/asciimoo/hister",
+    "points": 506,
+    "num_comments": 139,
     "tags": [
       "story",
-      "author_arnemunthekaas",
-      "story_49711544",
-      "show_hn",
+      "author_bookofjoe",
+      "story_49743097",
       "front_page"
     ],
-    "author": "arnemunthekaas",
-    "created_at": "2026-09-15T12:31:10Z",
-    "aiHeadline": "An e-ink frame that listens to birds and draws them like it's 1899? Because clearly, we didn't have enough screens already, and now we need one that channels our inner Victorian artist while wasting battery life on bird sounds."
+    "author": "bookofjoe",
+    "created_at": "2026-09-17T16:25:37Z",
+    "aiHeadline": "Hister: The search engine that thinks it's too cool for Google, because privacy is apparently the new black."
   },
   {
-    "title": "I can't stop thinking about Papua New Guinea",
-    "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
-    "points": 1032,
-    "num_comments": 431,
+    "title": "How GLM built its own inference infrastructure",
+    "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+    "points": 382,
+    "num_comments": 265,
     "tags": [
       "story",
-      "author_networked",
-      "story_49708431"
+      "author_whiteros_e",
+      "story_49737922"
     ],
-    "author": "networked",
-    "created_at": "2026-09-15T06:16:24Z",
-    "aiHeadline": "I can't stop thinking about Papua New Guinea—probably because it's the only place where the weather is as unpredictable as my Wi-Fi and the culture is more fascinating than my ex's texts."
+    "author": "whiteros_e",
+    "created_at": "2026-09-17T08:27:09Z",
+    "aiHeadline": "GLM: Because they couldn't just use existing tools, they built their own inference infrastructure. Innovation at its finest."
   },
   {
-    "title": "Introducing System One Models and Jev",
-    "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-    "points": 914,
-    "num_comments": 290,
+    "title": "Astra for Law",
+    "url": "https://openai.com/index/astra-for-law/",
+    "points": 379,
+    "num_comments": 405,
     "tags": [
       "story",
-      "author_albelfio",
-      "story_49717558",
+      "author_vertigoruntime",
+      "story_49745940",
       "front_page"
     ],
-    "author": "albelfio",
-    "created_at": "2026-09-15T19:25:03Z",
-    "aiHeadline": "Introducing System One Models and Jev: Because the world needed another AI framework, and also because someone decided that 'Jev' sounds cooler than 'Yet Another AI Framework.'"
+    "author": "vertigoruntime",
+    "created_at": "2026-09-17T20:17:48Z",
+    "aiHeadline": "Astra for Law: Because why use a regular lawyer when you can have an AI with a law degree? Or maybe not."
   },
   {
-    "title": "25 years of mass surveillance is enough",
-    "url": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
-    "points": 823,
-    "num_comments": 303,
+    "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+    "url": "https://bend-lang.com/",
+    "points": 350,
+    "num_comments": 176,
     "tags": [
       "story",
-      "author_iamnothere",
-      "story_49710883"
+      "author_nicolas-siplis",
+      "story_49746163",
+      "front_page"
     ],
-    "author": "iamnothere",
-    "created_at": "2026-09-15T11:26:48Z",
-    "aiHeadline": "25 years of mass surveillance is enough—because now we've perfected the art of watching everyone, and the only thing left is to figure out how to make it even more intrusive without anyone noticing."
+    "author": "nicolas-siplis",
+    "created_at": "2026-09-17T20:36:13Z",
+    "aiHeadline": "Bend: The programming language that's trying to fix AI's eternal stupidity, one line of code at a time."
   },
   {
-    "title": "US confirms for first time it has deployed space weapons",
-    "url": "https://www.bbc.com/news/articles/ck790xg41ygro",
-    "points": 452,
-    "num_comments": 319,
+    "title": "CCC invites all model citizens to 40C3",
+    "url": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/",
+    "points": 345,
+    "num_comments": 182,
     "tags": [
       "story",
-      "author_harporoeder",
-      "story_49707473"
+      "author_antonly",
+      "story_49737787"
     ],
-    "author": "harporoeder",
-    "created_at": "2026-09-15T03:47:56Z",
-    "aiHeadline": "US confirms it has deployed space weapons—because nothing says 'peace' like orbiting death machines, and also because we're clearly running out of places to hide our military toys."
+    "author": "antonly",
+    "created_at": "2026-09-17T08:03:54Z",
+    "aiHeadline": "CCC: Inviting all model citizens to 40C3, because apparently, we're all just data points now."
   }
 ]
