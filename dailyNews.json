@@ -1,75 +1,75 @@
 [
   {
-    "title": "Hister: A private search engine for the pages you visit and the files you keep",
-    "url": "https://github.com/asciimoo/hister",
-    "points": 506,
-    "num_comments": 139,
+    "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+    "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+    "points": 868,
+    "num_comments": 766,
     "tags": [
       "story",
-      "author_bookofjoe",
-      "story_49743097",
+      "author_pluc",
+      "story_49752056"
+    ],
+    "author": "pluc",
+    "created_at": "2026-09-18T09:45:07Z",
+    "aiHeadline": "Microsoft execs are up in arms, claiming AI scraping is the biggest labor theft ever, but hey, where were they when they were using AI to automate away jobs?"
+  },
+  {
+    "title": "I don't like passkeys",
+    "url": "https://hawksley.dev/blog/i-dont-like-passkeys",
+    "points": 743,
+    "num_comments": 719,
+    "tags": [
+      "story",
+      "author_ethanhawksley",
+      "story_49753211"
+    ],
+    "author": "ethanhawksley",
+    "created_at": "2026-09-18T12:06:50Z",
+    "aiHeadline": "Passkeys are the future of security, but apparently, some folks still can't handle the future—like, what do you even do with a passkey?"
+  },
+  {
+    "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+    "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+    "points": 625,
+    "num_comments": 303,
+    "tags": [
+      "story",
+      "author_theanonymousone",
+      "story_49758736",
       "front_page"
     ],
-    "author": "bookofjoe",
-    "created_at": "2026-09-17T16:25:37Z",
-    "aiHeadline": "Hister: The search engine that thinks it's too cool for Google, because privacy is apparently the new black."
+    "author": "theanonymousone",
+    "created_at": "2026-09-18T19:03:09Z",
+    "aiHeadline": "Android 17 is breaking the mold by adding new APIs without sharing them with the open-source community, because why let everyone else have the fun?"
   },
   {
-    "title": "How GLM built its own inference infrastructure",
-    "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
-    "points": 382,
-    "num_comments": 265,
+    "title": "Cloudflare Quick Tunnels",
+    "url": "https://try.cloudflare.com/",
+    "points": 620,
+    "num_comments": 259,
     "tags": [
       "story",
-      "author_whiteros_e",
-      "story_49737922"
-    ],
-    "author": "whiteros_e",
-    "created_at": "2026-09-17T08:27:09Z",
-    "aiHeadline": "GLM: Because they couldn't just use existing tools, they built their own inference infrastructure. Innovation at its finest."
-  },
-  {
-    "title": "Astra for Law",
-    "url": "https://openai.com/index/astra-for-law/",
-    "points": 379,
-    "num_comments": 405,
-    "tags": [
-      "story",
-      "author_vertigoruntime",
-      "story_49745940",
+      "author_jcbhmr",
+      "story_49754785",
       "front_page"
     ],
-    "author": "vertigoruntime",
-    "created_at": "2026-09-17T20:17:48Z",
-    "aiHeadline": "Astra for Law: Because why use a regular lawyer when you can have an AI with a law degree? Or maybe not."
+    "author": "jcbhmr",
+    "created_at": "2026-09-18T14:18:41Z",
+    "aiHeadline": "Cloudflare Quick Tunnels are here to make your life a bit quicker, but let's be honest, it's still going to take longer than you expect."
   },
   {
-    "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
-    "url": "https://bend-lang.com/",
-    "points": 350,
-    "num_comments": 176,
+    "title": "OpenJev",
+    "url": "https://openjev.com/",
+    "points": 572,
+    "num_comments": 249,
     "tags": [
       "story",
-      "author_nicolas-siplis",
-      "story_49746163",
+      "author_ilreb",
+      "story_49752041",
       "front_page"
     ],
-    "author": "nicolas-siplis",
-    "created_at": "2026-09-17T20:36:13Z",
-    "aiHeadline": "Bend: The programming language that's trying to fix AI's eternal stupidity, one line of code at a time."
-  },
-  {
-    "title": "CCC invites all model citizens to 40C3",
-    "url": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/",
-    "points": 345,
-    "num_comments": 182,
-    "tags": [
-      "story",
-      "author_antonly",
-      "story_49737787"
-    ],
-    "author": "antonly",
-    "created_at": "2026-09-17T08:03:54Z",
-    "aiHeadline": "CCC: Inviting all model citizens to 40C3, because apparently, we're all just data points now."
+    "author": "ilreb",
+    "created_at": "2026-09-18T09:42:22Z",
+    "aiHeadline": "OpenJev is the latest open-source project to hit the scene, and somehow, it's still not making everyone happy—because that's just how open-source works, right?"
   }
 ]
