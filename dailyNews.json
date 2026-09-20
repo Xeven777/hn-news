@@ -1,75 +1,74 @@
 [
   {
-    "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
-    "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-    "points": 868,
-    "num_comments": 766,
+    "title": "AI-generated posters don’t have to be horrible",
+    "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+    "points": 1439,
+    "num_comments": 794,
     "tags": [
       "story",
-      "author_pluc",
-      "story_49752056"
-    ],
-    "author": "pluc",
-    "created_at": "2026-09-18T09:45:07Z",
-    "aiHeadline": "Microsoft execs are up in arms, claiming AI scraping is the biggest labor theft ever, but hey, where were they when they were using AI to automate away jobs?"
-  },
-  {
-    "title": "I don't like passkeys",
-    "url": "https://hawksley.dev/blog/i-dont-like-passkeys",
-    "points": 743,
-    "num_comments": 719,
-    "tags": [
-      "story",
-      "author_ethanhawksley",
-      "story_49753211"
-    ],
-    "author": "ethanhawksley",
-    "created_at": "2026-09-18T12:06:50Z",
-    "aiHeadline": "Passkeys are the future of security, but apparently, some folks still can't handle the future—like, what do you even do with a passkey?"
-  },
-  {
-    "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-    "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
-    "points": 625,
-    "num_comments": 303,
-    "tags": [
-      "story",
-      "author_theanonymousone",
-      "story_49758736",
+      "author_ereiamjh",
+      "story_49764791",
       "front_page"
     ],
-    "author": "theanonymousone",
-    "created_at": "2026-09-18T19:03:09Z",
-    "aiHeadline": "Android 17 is breaking the mold by adding new APIs without sharing them with the open-source community, because why let everyone else have the fun?"
+    "author": "ereiamjh",
+    "created_at": "2026-09-19T09:20:58Z",
+    "aiHeadline": "AI-generated posters are finally not terrible, proving that machines can have taste after all."
   },
   {
-    "title": "Cloudflare Quick Tunnels",
-    "url": "https://try.cloudflare.com/",
-    "points": 620,
-    "num_comments": 259,
+    "title": "I built non-autoregressive decision models with RL a year ago",
+    "url": "https://laya.convaiinnovations.com/",
+    "points": 1137,
+    "num_comments": 281,
     "tags": [
       "story",
-      "author_jcbhmr",
-      "story_49754785",
+      "author_nandakishor_ml",
+      "story_49765348",
       "front_page"
     ],
-    "author": "jcbhmr",
-    "created_at": "2026-09-18T14:18:41Z",
-    "aiHeadline": "Cloudflare Quick Tunnels are here to make your life a bit quicker, but let's be honest, it's still going to take longer than you expect."
+    "author": "nandakishor_ml",
+    "created_at": "2026-09-19T10:46:58Z",
+    "aiHeadline": "Some guy just realized he built non-autoregressive decision models a year ago, because who doesn't spend their free time inventing AI algorithms?"
   },
   {
-    "title": "OpenJev",
-    "url": "https://openjev.com/",
-    "points": 572,
-    "num_comments": 249,
+    "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+    "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+    "points": 614,
+    "num_comments": 242,
     "tags": [
       "story",
-      "author_ilreb",
-      "story_49752041",
-      "front_page"
+      "author_emigre",
+      "story_49763697"
     ],
-    "author": "ilreb",
-    "created_at": "2026-09-18T09:42:22Z",
-    "aiHeadline": "OpenJev is the latest open-source project to hit the scene, and somehow, it's still not making everyone happy—because that's just how open-source works, right?"
+    "author": "emigre",
+    "created_at": "2026-09-19T05:48:50Z",
+    "aiHeadline": "Scientists discover two separate 'brains' in the developing embryo, proving that even in the womb, we're all just a bunch of confused messes."
+  },
+  {
+    "title": "San Francisco Onion Futures Company",
+    "url": "https://onionfutures.com/",
+    "points": 377,
+    "num_comments": 163,
+    "tags": [
+      "story",
+      "author_z-mach9",
+      "story_49763296"
+    ],
+    "author": "z-mach9",
+    "created_at": "2026-09-19T04:23:30Z",
+    "aiHeadline": "San Francisco's latest tech startup? Onion Futures, because nothing says 'the future' like a vegetable commodity exchange."
+  },
+  {
+    "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+    "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+    "points": 371,
+    "num_comments": 169,
+    "tags": [
+      "story",
+      "author_nsoonhui",
+      "story_49763987"
+    ],
+    "author": "nsoonhui",
+    "created_at": "2026-09-19T06:41:44Z",
+    "aiHeadline": "GPT-6 solves a WWI German radio cipher, proving that AI can outsmart a century-old code but still can't figure out why humans invented memes."
   }
 ]
