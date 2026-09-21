@@ -1,74 +1,77 @@
 [
   {
-    "title": "AI-generated posters don’t have to be horrible",
-    "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-    "points": 1439,
-    "num_comments": 794,
+    "title": "ChatGPT now knows what you do on other websites via ad collector",
+    "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+    "points": 668,
+    "num_comments": 352,
     "tags": [
       "story",
-      "author_ereiamjh",
-      "story_49764791",
+      "author_lmbbuchodi",
+      "story_49776729",
       "front_page"
     ],
-    "author": "ereiamjh",
-    "created_at": "2026-09-19T09:20:58Z",
-    "aiHeadline": "AI-generated posters are finally not terrible, proving that machines can have taste after all."
+    "author": "lmbbuchodi",
+    "created_at": "2026-09-20T15:18:44Z",
+    "aiHeadline": "ChatGPT is now your stalker, thanks to ad trackers—because nothing says 'I care' like knowing your every move!"
   },
   {
-    "title": "I built non-autoregressive decision models with RL a year ago",
-    "url": "https://laya.convaiinnovations.com/",
-    "points": 1137,
-    "num_comments": 281,
+    "title": "Qwen Image 2.1",
+    "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+    "points": 538,
+    "num_comments": 159,
     "tags": [
       "story",
-      "author_nandakishor_ml",
-      "story_49765348",
+      "author_jmillikin",
+      "story_49775499",
       "front_page"
     ],
-    "author": "nandakishor_ml",
-    "created_at": "2026-09-19T10:46:58Z",
-    "aiHeadline": "Some guy just realized he built non-autoregressive decision models a year ago, because who doesn't spend their free time inventing AI algorithms?"
+    "author": "jmillikin",
+    "created_at": "2026-09-20T13:09:25Z",
+    "aiHeadline": "Qwen Image 2.1: Now with 100% more pixels and 0% less confusion—because who doesn’t love a good upgrade?"
   },
   {
-    "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
-    "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
-    "points": 614,
-    "num_comments": 242,
+    "title": "Pirate Face Rescues LLM Models from Deletion",
+    "url": "https://pirateface.co/",
+    "points": 481,
+    "num_comments": 139,
     "tags": [
       "story",
-      "author_emigre",
-      "story_49763697"
+      "author_skepticalgenius",
+      "story_49776699",
+      "front_page"
     ],
-    "author": "emigre",
-    "created_at": "2026-09-19T05:48:50Z",
-    "aiHeadline": "Scientists discover two separate 'brains' in the developing embryo, proving that even in the womb, we're all just a bunch of confused messes."
+    "author": "skepticalgenius",
+    "created_at": "2026-09-20T15:16:07Z",
+    "aiHeadline": "Pirate Face saves the day (and your data)—because who needs a treasure map when you’ve got LLMs?"
   },
   {
-    "title": "San Francisco Onion Futures Company",
-    "url": "https://onionfutures.com/",
-    "points": 377,
-    "num_comments": 163,
+    "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+    "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
+    "points": 382,
+    "num_comments": 251,
     "tags": [
       "story",
-      "author_z-mach9",
-      "story_49763296"
+      "author_giuliomagnifico",
+      "story_49778029",
+      "front_page"
     ],
-    "author": "z-mach9",
-    "created_at": "2026-09-19T04:23:30Z",
-    "aiHeadline": "San Francisco's latest tech startup? Onion Futures, because nothing says 'the future' like a vegetable commodity exchange."
+    "author": "giuliomagnifico",
+    "created_at": "2026-09-20T17:38:50Z",
+    "aiHeadline": "Samsung doubles HBM4 production—because clearly, the world wasn’t already drowning in enough memory."
   },
   {
-    "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-    "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-    "points": 371,
-    "num_comments": 169,
+    "title": "Bill to Ban Private Equity from Owning Medical Practices",
+    "url": "https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/",
+    "points": 374,
+    "num_comments": 245,
     "tags": [
       "story",
-      "author_nsoonhui",
-      "story_49763987"
+      "author_paimapi",
+      "story_49780630",
+      "front_page"
     ],
-    "author": "nsoonhui",
-    "created_at": "2026-09-19T06:41:44Z",
-    "aiHeadline": "GPT-6 solves a WWI German radio cipher, proving that AI can outsmart a century-old code but still can't figure out why humans invented memes."
+    "author": "paimapi",
+    "created_at": "2026-09-20T22:13:46Z",
+    "aiHeadline": "Private equity: the new villain in town—because who needs profit when you can have quality healthcare?"
   }
 ]
