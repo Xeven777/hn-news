@@ -1,77 +1,76 @@
 [
   {
-    "title": "ChatGPT now knows what you do on other websites via ad collector",
-    "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
-    "points": 668,
-    "num_comments": 352,
+    "title": "MiMo v2.6",
+    "url": "https://mimo.xiaomi.com/mimo-v2-6",
+    "points": 634,
+    "num_comments": 316,
     "tags": [
       "story",
-      "author_lmbbuchodi",
-      "story_49776729",
+      "author_volf_",
+      "story_49792730",
       "front_page"
     ],
-    "author": "lmbbuchodi",
-    "created_at": "2026-09-20T15:18:44Z",
-    "aiHeadline": "ChatGPT is now your stalker, thanks to ad trackers—because nothing says 'I care' like knowing your every move!"
+    "author": "volf_",
+    "created_at": "2026-09-21T20:12:12Z",
+    "aiHeadline": "MiMo v2.6: Because Xiaomi Updates Exist to Confuse You, Not to Improve Anything."
   },
   {
-    "title": "Qwen Image 2.1",
-    "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-    "points": 538,
-    "num_comments": 159,
+    "title": "Attention is all you have",
+    "url": "https://alicegg.tech/2026/09/21/attention",
+    "points": 625,
+    "num_comments": 190,
     "tags": [
       "story",
-      "author_jmillikin",
-      "story_49775499",
+      "author_zer0tonin",
+      "story_49787726",
       "front_page"
     ],
-    "author": "jmillikin",
-    "created_at": "2026-09-20T13:09:25Z",
-    "aiHeadline": "Qwen Image 2.1: Now with 100% more pixels and 0% less confusion—because who doesn’t love a good upgrade?"
+    "author": "zer0tonin",
+    "created_at": "2026-09-21T14:26:56Z",
+    "aiHeadline": "Attention is All You Have? More Like Attention is All They Want, and You're Just a Means to an End."
   },
   {
-    "title": "Pirate Face Rescues LLM Models from Deletion",
-    "url": "https://pirateface.co/",
-    "points": 481,
-    "num_comments": 139,
+    "title": "ZuckOff Know when a camera is in the room",
+    "url": "https://zuckoff.app/",
+    "points": 590,
+    "num_comments": 3,
     "tags": [
       "story",
-      "author_skepticalgenius",
-      "story_49776699",
-      "front_page"
+      "author_Bluestein",
+      "story_49785429"
     ],
-    "author": "skepticalgenius",
-    "created_at": "2026-09-20T15:16:07Z",
-    "aiHeadline": "Pirate Face saves the day (and your data)—because who needs a treasure map when you’ve got LLMs?"
+    "author": "Bluestein",
+    "created_at": "2026-09-21T10:33:14Z",
+    "aiHeadline": "ZuckOff: The App That Knows When Cameras Are Watching, Because Apparently, We're All Just Walking Surveillance Devices Now."
   },
   {
-    "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
-    "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
-    "points": 382,
-    "num_comments": 251,
+    "title": "What Sun got wrong",
+    "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+    "points": 528,
+    "num_comments": 311,
     "tags": [
       "story",
-      "author_giuliomagnifico",
-      "story_49778029",
+      "author_chmaynard",
+      "story_49787436",
       "front_page"
     ],
-    "author": "giuliomagnifico",
-    "created_at": "2026-09-20T17:38:50Z",
-    "aiHeadline": "Samsung doubles HBM4 production—because clearly, the world wasn’t already drowning in enough memory."
+    "author": "chmaynard",
+    "created_at": "2026-09-21T14:03:18Z",
+    "aiHeadline": "What Sun Got Wrong: A Comprehensive Guide to Why Everything They Did in the 90s Still Haunts Us Today."
   },
   {
-    "title": "Bill to Ban Private Equity from Owning Medical Practices",
-    "url": "https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/",
-    "points": 374,
-    "num_comments": 245,
+    "title": "Grok 4.7",
+    "url": "https://x.ai/news/grok-4-7",
+    "points": 520,
+    "num_comments": 441,
     "tags": [
       "story",
-      "author_paimapi",
-      "story_49780630",
+      "author_meetpateltech",
+      "story_49788838",
       "front_page"
     ],
-    "author": "paimapi",
-    "created_at": "2026-09-20T22:13:46Z",
-    "aiHeadline": "Private equity: the new villain in town—because who needs profit when you can have quality healthcare?"
+    "author": "meetpateltech",
+    "created_at": "2026-09-21T15:50:15Z",
+    "aiHeadline": "Grok 4.7: The Latest Update That's Supposed to Make Everything Better, But Let's Be Real, It's Probably Just Another Bug Fix."
   }
 ]
