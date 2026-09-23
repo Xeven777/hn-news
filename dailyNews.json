@@ -1,76 +1,76 @@
 [
   {
-    "title": "MiMo v2.6",
-    "url": "https://mimo.xiaomi.com/mimo-v2-6",
-    "points": 634,
-    "num_comments": 316,
+    "title": "Claude Opus 5.5",
+    "url": "https://www.anthropic.com/claude-opus-5-5",
+    "points": 1301,
+    "num_comments": 858,
     "tags": [
       "story",
-      "author_volf_",
-      "story_49792730",
+      "author_km144",
+      "story_49803892",
       "front_page"
     ],
-    "author": "volf_",
-    "created_at": "2026-09-21T20:12:12Z",
-    "aiHeadline": "MiMo v2.6: Because Xiaomi Updates Exist to Confuse You, Not to Improve Anything."
+    "author": "km144",
+    "created_at": "2026-09-22T16:29:05Z",
+    "aiHeadline": "Claude Opus 5.5 debuts, proving that even AI needs a rockstar name to feel relevant in this crazy world of tech updates."
   },
   {
-    "title": "Attention is all you have",
-    "url": "https://alicegg.tech/2026/09/21/attention",
-    "points": 625,
-    "num_comments": 190,
+    "title": "GPT-6 Sol and Luna",
+    "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+    "points": 1286,
+    "num_comments": 645,
     "tags": [
       "story",
-      "author_zer0tonin",
-      "story_49787726",
+      "author_OfficialTurkey",
+      "story_49805509",
       "front_page"
     ],
-    "author": "zer0tonin",
-    "created_at": "2026-09-21T14:26:56Z",
-    "aiHeadline": "Attention is All You Have? More Like Attention is All They Want, and You're Just a Means to an End."
+    "author": "OfficialTurkey",
+    "created_at": "2026-09-22T18:00:34Z",
+    "aiHeadline": "GPT-6 Sol and Luna: because why have one AI when you can have two, and then argue about which one is the real star of the show?"
   },
   {
-    "title": "ZuckOff Know when a camera is in the room",
-    "url": "https://zuckoff.app/",
+    "title": "I said no and Apple said yes",
+    "url": "https://dbushell.com/2026/09/22/apple-intelligence/",
+    "points": 802,
+    "num_comments": 649,
+    "tags": [
+      "story",
+      "author_thatslast",
+      "story_49797982"
+    ],
+    "author": "thatslast",
+    "created_at": "2026-09-22T08:04:55Z",
+    "aiHeadline": "I said no and Apple said yes: a timeless tale of corporate stubbornness and user frustration, brought to you by the same company that once thought the iPhone 5 was the pinnacle of innovation."
+  },
+  {
+    "title": "Apple has added persistent 'ads' to iOS, and it's driving users crazy",
+    "url": "https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy",
+    "points": 648,
+    "num_comments": 474,
+    "tags": [
+      "story",
+      "author_MC995",
+      "story_49801939",
+      "front_page"
+    ],
+    "author": "MC995",
+    "created_at": "2026-09-22T14:30:12Z",
+    "aiHeadline": "Apple adds persistent 'ads' to iOS, and users are officially losing their minds: because nothing says 'we care about your experience' like forcing you to watch ads for features you already paid for."
+  },
+  {
+    "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+    "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
     "points": 590,
-    "num_comments": 3,
+    "num_comments": 371,
     "tags": [
       "story",
-      "author_Bluestein",
-      "story_49785429"
-    ],
-    "author": "Bluestein",
-    "created_at": "2026-09-21T10:33:14Z",
-    "aiHeadline": "ZuckOff: The App That Knows When Cameras Are Watching, Because Apparently, We're All Just Walking Surveillance Devices Now."
-  },
-  {
-    "title": "What Sun got wrong",
-    "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
-    "points": 528,
-    "num_comments": 311,
-    "tags": [
-      "story",
-      "author_chmaynard",
-      "story_49787436",
+      "author_sohkamyung",
+      "story_49801324",
       "front_page"
     ],
-    "author": "chmaynard",
-    "created_at": "2026-09-21T14:03:18Z",
-    "aiHeadline": "What Sun Got Wrong: A Comprehensive Guide to Why Everything They Did in the 90s Still Haunts Us Today."
-  },
-  {
-    "title": "Grok 4.7",
-    "url": "https://x.ai/news/grok-4-7",
-    "points": 520,
-    "num_comments": 441,
-    "tags": [
-      "story",
-      "author_meetpateltech",
-      "story_49788838",
-      "front_page"
-    ],
-    "author": "meetpateltech",
-    "created_at": "2026-09-21T15:50:15Z",
-    "aiHeadline": "Grok 4.7: The Latest Update That's Supposed to Make Everything Better, But Let's Be Real, It's Probably Just Another Bug Fix."
+    "author": "sohkamyung",
+    "created_at": "2026-09-22T13:52:15Z",
+    "aiHeadline": "OpenAI's GPT-6 Astra cracks Enigma code from 2005, proving that even old mysteries can't escape the relentless march of AI-powered overachievement."
   }
 ]
