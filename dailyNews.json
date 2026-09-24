@@ -1,76 +1,75 @@
 [
   {
-    "title": "Claude Opus 5.5",
-    "url": "https://www.anthropic.com/claude-opus-5-5",
-    "points": 1301,
-    "num_comments": 858,
+    "title": "Jev in 25 Lines of Python",
+    "url": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
+    "points": 634,
+    "num_comments": 198,
     "tags": [
       "story",
-      "author_km144",
-      "story_49803892",
-      "front_page"
+      "author_bashbjorn",
+      "story_49812769"
     ],
-    "author": "km144",
-    "created_at": "2026-09-22T16:29:05Z",
-    "aiHeadline": "Claude Opus 5.5 debuts, proving that even AI needs a rockstar name to feel relevant in this crazy world of tech updates."
+    "author": "bashbjorn",
+    "created_at": "2026-09-23T07:26:23Z",
+    "aiHeadline": "Jev in 25 Lines of Python: Because 25 lines is the maximum anyone can handle before their brain melts."
   },
   {
-    "title": "GPT-6 Sol and Luna",
-    "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
-    "points": 1286,
-    "num_comments": 645,
+    "title": "Italian parliament votes for return to nuclear energy",
+    "url": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
+    "points": 627,
+    "num_comments": 406,
     "tags": [
       "story",
-      "author_OfficialTurkey",
-      "story_49805509",
+      "author_geox",
+      "story_49819221",
       "front_page"
     ],
-    "author": "OfficialTurkey",
-    "created_at": "2026-09-22T18:00:34Z",
-    "aiHeadline": "GPT-6 Sol and Luna: because why have one AI when you can have two, and then argue about which one is the real star of the show?"
+    "author": "geox",
+    "created_at": "2026-09-23T17:06:16Z",
+    "aiHeadline": "Italian Parliament Votes to Bring Back Nuclear Energy: Because clearly, Chernobyl wasn't enough to convince them that nuclear energy is a bad idea."
   },
   {
-    "title": "I said no and Apple said yes",
-    "url": "https://dbushell.com/2026/09/22/apple-intelligence/",
-    "points": 802,
-    "num_comments": 649,
+    "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+    "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+    "points": 547,
+    "num_comments": 576,
     "tags": [
       "story",
-      "author_thatslast",
-      "story_49797982"
-    ],
-    "author": "thatslast",
-    "created_at": "2026-09-22T08:04:55Z",
-    "aiHeadline": "I said no and Apple said yes: a timeless tale of corporate stubbornness and user frustration, brought to you by the same company that once thought the iPhone 5 was the pinnacle of innovation."
-  },
-  {
-    "title": "Apple has added persistent 'ads' to iOS, and it's driving users crazy",
-    "url": "https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy",
-    "points": 648,
-    "num_comments": 474,
-    "tags": [
-      "story",
-      "author_MC995",
-      "story_49801939",
+      "author_raahelb",
+      "story_49820134",
       "front_page"
     ],
-    "author": "MC995",
-    "created_at": "2026-09-22T14:30:12Z",
-    "aiHeadline": "Apple adds persistent 'ads' to iOS, and users are officially losing their minds: because nothing says 'we care about your experience' like forcing you to watch ads for features you already paid for."
+    "author": "raahelb",
+    "created_at": "2026-09-23T18:06:47Z",
+    "aiHeadline": "Claude Discovers a Novel Enzyme System: Because even biology is now just another field where AI can outperform humans."
   },
   {
-    "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-    "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
-    "points": 590,
-    "num_comments": 371,
+    "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
+    "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+    "points": 458,
+    "num_comments": 260,
     "tags": [
       "story",
-      "author_sohkamyung",
-      "story_49801324",
+      "author_pszypowicz",
+      "story_49814947"
+    ],
+    "author": "pszypowicz",
+    "created_at": "2026-09-23T12:15:33Z",
+    "aiHeadline": "Claude Code Only Reads AGENTS.md When Telemetry is On: Because nothing says 'trust us' like requiring telemetry to read a file."
+  },
+  {
+    "title": "Fixing the Portobello Police Station Clock",
+    "url": "https://pointinthecloud.com/2026-04-11-211700.html",
+    "points": 388,
+    "num_comments": 92,
+    "tags": [
+      "story",
+      "author_avidly",
+      "story_49817469",
       "front_page"
     ],
-    "author": "sohkamyung",
-    "created_at": "2026-09-22T13:52:15Z",
-    "aiHeadline": "OpenAI's GPT-6 Astra cracks Enigma code from 2005, proving that even old mysteries can't escape the relentless march of AI-powered overachievement."
+    "author": "avidly",
+    "created_at": "2026-09-23T15:18:53Z",
+    "aiHeadline": "Portobello Police Station Clock Finally Fixed: After years of being wrong, the clock now tells the correct time, much to the relief of everyone who relies on it for accurate updates on when their shift ends."
   }
 ]
