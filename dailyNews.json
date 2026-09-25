@@ -1,75 +1,75 @@
 [
   {
-    "title": "Jev in 25 Lines of Python",
-    "url": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
-    "points": 634,
-    "num_comments": 198,
+    "title": "F-Droid 2.0",
+    "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+    "points": 1022,
+    "num_comments": 276,
     "tags": [
       "story",
-      "author_bashbjorn",
-      "story_49812769"
-    ],
-    "author": "bashbjorn",
-    "created_at": "2026-09-23T07:26:23Z",
-    "aiHeadline": "Jev in 25 Lines of Python: Because 25 lines is the maximum anyone can handle before their brain melts."
-  },
-  {
-    "title": "Italian parliament votes for return to nuclear energy",
-    "url": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
-    "points": 627,
-    "num_comments": 406,
-    "tags": [
-      "story",
-      "author_geox",
-      "story_49819221",
+      "author_daveoc64",
+      "story_49831968",
       "front_page"
     ],
-    "author": "geox",
-    "created_at": "2026-09-23T17:06:16Z",
-    "aiHeadline": "Italian Parliament Votes to Bring Back Nuclear Energy: Because clearly, Chernobyl wasn't enough to convince them that nuclear energy is a bad idea."
+    "author": "daveoc64",
+    "created_at": "2026-09-24T15:26:12Z",
+    "aiHeadline": "F-Droid 2.0: Finally, a new chapter for Android freedom that's actually worth the wait (maybe?)"
   },
   {
-    "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-    "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-    "points": 547,
-    "num_comments": 576,
+    "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
+    "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
+    "points": 603,
+    "num_comments": 363,
     "tags": [
       "story",
-      "author_raahelb",
-      "story_49820134",
+      "author_pieterr",
+      "story_49827794"
+    ],
+    "author": "pieterr",
+    "created_at": "2026-09-24T08:23:03Z",
+    "aiHeadline": "Meta's transparency initiative: Now available in the form of deleting critical videos about their AI glasses."
+  },
+  {
+    "title": "Two-tier encryption in the UK",
+    "url": "https://macanorak.com/two-tier-encryption-in-the-uk/",
+    "points": 396,
+    "num_comments": 382,
+    "tags": [
+      "story",
+      "author_ReturnoftheHack",
+      "story_49828731",
       "front_page"
     ],
-    "author": "raahelb",
-    "created_at": "2026-09-23T18:06:47Z",
-    "aiHeadline": "Claude Discovers a Novel Enzyme System: Because even biology is now just another field where AI can outperform humans."
+    "author": "ReturnoftheHack",
+    "created_at": "2026-09-24T10:39:19Z",
+    "aiHeadline": "Two-tier encryption in the UK: Because some people deserve more privacy than others, apparently."
   },
   {
-    "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
-    "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
-    "points": 458,
-    "num_comments": 260,
+    "title": "Why is the liver so weirdly regenerative?",
+    "url": "https://dynomight.substack.com/p/liver",
+    "points": 306,
+    "num_comments": 167,
     "tags": [
       "story",
-      "author_pszypowicz",
-      "story_49814947"
-    ],
-    "author": "pszypowicz",
-    "created_at": "2026-09-23T12:15:33Z",
-    "aiHeadline": "Claude Code Only Reads AGENTS.md When Telemetry is On: Because nothing says 'trust us' like requiring telemetry to read a file."
-  },
-  {
-    "title": "Fixing the Portobello Police Station Clock",
-    "url": "https://pointinthecloud.com/2026-04-11-211700.html",
-    "points": 388,
-    "num_comments": 92,
-    "tags": [
-      "story",
-      "author_avidly",
-      "story_49817469",
+      "author_jbotz",
+      "story_49832938",
       "front_page"
     ],
-    "author": "avidly",
-    "created_at": "2026-09-23T15:18:53Z",
-    "aiHeadline": "Portobello Police Station Clock Finally Fixed: After years of being wrong, the clock now tells the correct time, much to the relief of everyone who relies on it for accurate updates on when their shift ends."
+    "author": "jbotz",
+    "created_at": "2026-09-24T16:23:00Z",
+    "aiHeadline": "Why is the liver so weirdly regenerative? Science finally answers the question you never knew you had."
+  },
+  {
+    "title": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges",
+    "url": "https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/",
+    "points": 278,
+    "num_comments": 285,
+    "tags": [
+      "story",
+      "author_nonfamous",
+      "story_49829960"
+    ],
+    "author": "nonfamous",
+    "created_at": "2026-09-24T12:58:08Z",
+    "aiHeadline": "Samsung smart fridges get a firmware update that turns your food into science experiments. Spoiler: It doesn't end well."
   }
 ]
