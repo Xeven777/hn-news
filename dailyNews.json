@@ -1,76 +1,74 @@
 [
   {
-    "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
-    "url": "https://gultsch.de/posts/breaking-up-with-google-play/",
-    "points": 652,
-    "num_comments": 261,
+    "title": "When did Google get so weird?",
+    "url": "https://sancho.bearblog.dev/google-weird/",
+    "points": 934,
+    "num_comments": 508,
     "tags": [
       "story",
-      "author_ezst",
-      "story_49855315"
-    ],
-    "author": "ezst",
-    "created_at": "2026-09-26T10:55:56Z",
-    "aiHeadline": "Breaking Up with Google Play: Conversations Appopts Freedom, Freebies, and Freedom from Google’s Playful Tyranny"
-  },
-  {
-    "title": "I'm the mom in that viral Giants clip. Let me tell you about my husband",
-    "url": "https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip",
-    "points": 476,
-    "num_comments": 190,
-    "tags": [
-      "story",
-      "author_minimaxir",
-      "story_49857899"
-    ],
-    "author": "minimaxir",
-    "created_at": "2026-09-26T16:12:18Z",
-    "aiHeadline": "Meet the Mom Who Went Viral for Being the Calm in the Storm: Now She’s Here to Talk About Her Husband’s Secret Life as a Regular Guy"
-  },
-  {
-    "title": "Fifteen years later, the Apple Cards origin story",
-    "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
-    "points": 364,
-    "num_comments": 92,
-    "tags": [
-      "story",
-      "author_ksec",
-      "story_49854693",
+      "author_sancho-panza",
+      "story_49870367",
       "front_page"
     ],
-    "author": "ksec",
-    "created_at": "2026-09-26T09:13:41Z",
-    "aiHeadline": "Fifteen Years Later, Apple’s Card Story Finally Surfaces: Because Apparently, Everything Apple Does Needs a Novel-Length Backstory"
+    "author": "sancho-panza",
+    "created_at": "2026-09-27T20:12:54Z",
+    "aiHeadline": "When did Google turn into a quirky tech uncle who just doesn't care about being normal anymore?"
   },
   {
-    "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
-    "url": "https://github.com/reladraw/reladraw",
-    "points": 217,
-    "num_comments": 62,
+    "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+    "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+    "points": 610,
+    "num_comments": 597,
     "tags": [
       "story",
-      "author_jpwalsh234",
-      "story_49858513",
-      "show_hn",
-      "front_page"
+      "author_papergirl",
+      "story_49863864"
     ],
-    "author": "jpwalsh234",
-    "created_at": "2026-09-26T17:10:40Z",
-    "aiHeadline": "Show HN: Reladraw – Finally, a Diagram Tool That Doesn’t Act Like It’s in Charge: Because Who Decides Where Things Go? You, Apparently"
+    "author": "papergirl",
+    "created_at": "2026-09-27T06:19:33Z",
+    "aiHeadline": "Microsoft and OpenAI: We knew stealing books was illegal, but hey, at least we're doing it with style!"
   },
   {
-    "title": "DeepSeek Elastic Compute (DSec)",
-    "url": "https://arxiv.org/abs/2609.22978",
-    "points": 193,
-    "num_comments": 58,
+    "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
+    "url": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
+    "points": 431,
+    "num_comments": 289,
     "tags": [
       "story",
-      "author_shenli3514",
-      "story_49859112",
+      "author_rbanffy",
+      "story_49864642"
+    ],
+    "author": "rbanffy",
+    "created_at": "2026-09-27T08:44:04Z",
+    "aiHeadline": "Meta: We're just here to make sure President Lula's election goes perfectly by blocking his Facebook page and ads, because that's what good corporate citizens do!"
+  },
+  {
+    "title": "Ember-1",
+    "url": "https://fireworks.ai/blog/ember-1",
+    "points": 388,
+    "num_comments": 195,
+    "tags": [
+      "story",
+      "author_gmays",
+      "story_49868830",
       "front_page"
     ],
-    "author": "shenli3514",
-    "created_at": "2026-09-26T18:22:41Z",
-    "aiHeadline": "DeepSeek Elastic Compute (DSec): The Latest in Tech, Because Who Doesn’t Need Another Elastic Compute Solution? Apparently, Everyone"
+    "author": "gmays",
+    "created_at": "2026-09-27T17:31:53Z",
+    "aiHeadline": "Ember-1: The latest in a long line of overhyped AI tools that promise to revolutionize your life, but probably won't."
+  },
+  {
+    "title": "On caring for user data: NeoVim caused Vim undo files to be deleted",
+    "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
+    "points": 355,
+    "num_comments": 317,
+    "tags": [
+      "story",
+      "author_jandeboevrie",
+      "story_49867067"
+    ],
+    "author": "jandeboevrie",
+    "created_at": "2026-09-27T14:45:07Z",
+    "aiHeadline": "NeoVim: We're deleting your Vim undo files because we don't care about your data, and we're not even sorry about it."
   }
 ]
