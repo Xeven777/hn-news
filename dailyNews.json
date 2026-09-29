@@ -1,74 +1,74 @@
 [
   {
-    "title": "When did Google get so weird?",
-    "url": "https://sancho.bearblog.dev/google-weird/",
-    "points": 934,
-    "num_comments": 508,
+    "title": "Sonnet 5.5",
+    "url": "https://www.anthropic.com/claude-sonnet-5-5",
+    "points": 675,
+    "num_comments": 448,
     "tags": [
       "story",
-      "author_sancho-panza",
-      "story_49870367",
+      "author_D2OQZG8l5BI1S06",
+      "story_49881850",
       "front_page"
     ],
-    "author": "sancho-panza",
-    "created_at": "2026-09-27T20:12:54Z",
-    "aiHeadline": "When did Google turn into a quirky tech uncle who just doesn't care about being normal anymore?"
+    "author": "D2OQZG8l5BI1S06",
+    "created_at": "2026-09-28T17:58:11Z",
+    "aiHeadline": "AI finally writes a sonnet, but it's about how much it hates writing sonnets."
   },
   {
-    "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
-    "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
-    "points": 610,
-    "num_comments": 597,
+    "title": "Pirating the Pirates",
+    "url": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
+    "points": 477,
+    "num_comments": 241,
     "tags": [
       "story",
-      "author_papergirl",
-      "story_49863864"
-    ],
-    "author": "papergirl",
-    "created_at": "2026-09-27T06:19:33Z",
-    "aiHeadline": "Microsoft and OpenAI: We knew stealing books was illegal, but hey, at least we're doing it with style!"
-  },
-  {
-    "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
-    "url": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
-    "points": 431,
-    "num_comments": 289,
-    "tags": [
-      "story",
-      "author_rbanffy",
-      "story_49864642"
-    ],
-    "author": "rbanffy",
-    "created_at": "2026-09-27T08:44:04Z",
-    "aiHeadline": "Meta: We're just here to make sure President Lula's election goes perfectly by blocking his Facebook page and ads, because that's what good corporate citizens do!"
-  },
-  {
-    "title": "Ember-1",
-    "url": "https://fireworks.ai/blog/ember-1",
-    "points": 388,
-    "num_comments": 195,
-    "tags": [
-      "story",
-      "author_gmays",
-      "story_49868830",
+      "author_piotrgrabowski",
+      "story_49880036",
       "front_page"
     ],
-    "author": "gmays",
-    "created_at": "2026-09-27T17:31:53Z",
-    "aiHeadline": "Ember-1: The latest in a long line of overhyped AI tools that promise to revolutionize your life, but probably won't."
+    "author": "piotrgrabowski",
+    "created_at": "2026-09-28T15:54:15Z",
+    "aiHeadline": "Pirates of the Caribbean meets copyright infringement in this thrilling new project about stealing from the people who steal from everyone else."
   },
   {
-    "title": "On caring for user data: NeoVim caused Vim undo files to be deleted",
-    "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
-    "points": 355,
-    "num_comments": 317,
+    "title": "Coding is not solved",
+    "url": "https://blog.alexewerlof.com/p/coding-is-not-solved",
+    "points": 462,
+    "num_comments": 469,
     "tags": [
       "story",
-      "author_jandeboevrie",
-      "story_49867067"
+      "author_firstSpeaker",
+      "story_49877988"
     ],
-    "author": "jandeboevrie",
-    "created_at": "2026-09-27T14:45:07Z",
-    "aiHeadline": "NeoVim: We're deleting your Vim undo files because we don't care about your data, and we're not even sorry about it."
+    "author": "firstSpeaker",
+    "created_at": "2026-09-28T13:52:57Z",
+    "aiHeadline": "The never-ending quest to make coding 'easy' continues, because clearly, we've all been coding wrong this whole time."
+  },
+  {
+    "title": "Windows 11½",
+    "url": "https://definitelynotwindows.com/",
+    "points": 447,
+    "num_comments": 140,
+    "tags": [
+      "story",
+      "author_jjbinx007",
+      "story_49881747"
+    ],
+    "author": "jjbinx007",
+    "created_at": "2026-09-28T17:51:24Z",
+    "aiHeadline": "Microsoft releases another half-update for Windows, proving that 11 wasn't quite enough but 12 is still too much."
+  },
+  {
+    "title": "AI companies in race to demonstrate their model most threatening to humanity",
+    "url": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/",
+    "points": 427,
+    "num_comments": 385,
+    "tags": [
+      "story",
+      "author_ljewalsh",
+      "story_49875148"
+    ],
+    "author": "ljewalsh",
+    "created_at": "2026-09-28T08:35:40Z",
+    "aiHeadline": "AI companies are in a deadly game of one-upmanship, each trying to prove their AI is the scariest, most apocalyptic nightmare possible."
   }
 ]
