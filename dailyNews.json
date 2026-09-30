@@ -1,74 +1,74 @@
 [
   {
-    "title": "Sonnet 5.5",
-    "url": "https://www.anthropic.com/claude-sonnet-5-5",
-    "points": 675,
-    "num_comments": 448,
+    "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+    "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
+    "points": 840,
+    "num_comments": 761,
     "tags": [
       "story",
-      "author_D2OQZG8l5BI1S06",
-      "story_49881850",
+      "author_crorella",
+      "story_49896586",
       "front_page"
     ],
-    "author": "D2OQZG8l5BI1S06",
-    "created_at": "2026-09-28T17:58:11Z",
-    "aiHeadline": "AI finally writes a sonnet, but it's about how much it hates writing sonnets."
+    "author": "crorella",
+    "created_at": "2026-09-29T17:06:45Z",
+    "aiHeadline": "GPT 6.1 Sol: Because who doesn't want near-human intelligence for the price of a used toaster?"
   },
   {
-    "title": "Pirating the Pirates",
-    "url": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
-    "points": 477,
-    "num_comments": 241,
+    "title": "Everybody’s home. No one’s coming over",
+    "url": "https://www.derekthompson.org/p/the-death-of-the-american-host",
+    "points": 770,
+    "num_comments": 684,
     "tags": [
       "story",
-      "author_piotrgrabowski",
-      "story_49880036",
-      "front_page"
+      "author_barry-cotter",
+      "story_49891295"
     ],
-    "author": "piotrgrabowski",
-    "created_at": "2026-09-28T15:54:15Z",
-    "aiHeadline": "Pirates of the Caribbean meets copyright infringement in this thrilling new project about stealing from the people who steal from everyone else."
+    "author": "barry-cotter",
+    "created_at": "2026-09-29T11:14:45Z",
+    "aiHeadline": "Everybody’s home. No one’s coming over: The art of social distancing taken to the next level."
   },
   {
-    "title": "Coding is not solved",
-    "url": "https://blog.alexewerlof.com/p/coding-is-not-solved",
-    "points": 462,
-    "num_comments": 469,
-    "tags": [
-      "story",
-      "author_firstSpeaker",
-      "story_49877988"
-    ],
-    "author": "firstSpeaker",
-    "created_at": "2026-09-28T13:52:57Z",
-    "aiHeadline": "The never-ending quest to make coding 'easy' continues, because clearly, we've all been coding wrong this whole time."
-  },
-  {
-    "title": "Windows 11½",
-    "url": "https://definitelynotwindows.com/",
-    "points": 447,
-    "num_comments": 140,
-    "tags": [
-      "story",
-      "author_jjbinx007",
-      "story_49881747"
-    ],
-    "author": "jjbinx007",
-    "created_at": "2026-09-28T17:51:24Z",
-    "aiHeadline": "Microsoft releases another half-update for Windows, proving that 11 wasn't quite enough but 12 is still too much."
-  },
-  {
-    "title": "AI companies in race to demonstrate their model most threatening to humanity",
-    "url": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/",
-    "points": 427,
+    "title": "DraftKings is using AI to behaviorally target chronic gamblers",
+    "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
+    "points": 534,
     "num_comments": 385,
     "tags": [
       "story",
-      "author_ljewalsh",
-      "story_49875148"
+      "author_paimapi",
+      "story_49896050"
     ],
-    "author": "ljewalsh",
-    "created_at": "2026-09-28T08:35:40Z",
-    "aiHeadline": "AI companies are in a deadly game of one-upmanship, each trying to prove their AI is the scariest, most apocalyptic nightmare possible."
+    "author": "paimapi",
+    "created_at": "2026-09-29T16:30:48Z",
+    "aiHeadline": "DraftKings is using AI to behaviorally target chronic gamblers: Because what’s a gambler without a little nudge towards ruin?"
+  },
+  {
+    "title": "Dots: Always-on agents",
+    "url": "https://openai.com/index/introducing-dots/",
+    "points": 500,
+    "num_comments": 376,
+    "tags": [
+      "story",
+      "author_alvis",
+      "story_49896604",
+      "front_page"
+    ],
+    "author": "alvis",
+    "created_at": "2026-09-29T17:07:57Z",
+    "aiHeadline": "Dots: Always-on agents because who doesn’t want their digital assistant to know their every move, even when they’re trying to hide?"
+  },
+  {
+    "title": "500k facial scans at UK stations yield no arrests, 1 false positive",
+    "url": "https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive",
+    "points": 477,
+    "num_comments": 291,
+    "tags": [
+      "story",
+      "author_ilamont",
+      "story_49891480"
+    ],
+    "author": "ilamont",
+    "created_at": "2026-09-29T11:35:18Z",
+    "aiHeadline": "500k facial scans at UK stations yield no arrests, 1 false positive: Because nothing says 'crime deterrent' like accidentally arresting a innocent bystander."
   }
 ]
