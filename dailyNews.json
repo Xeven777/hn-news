@@ -1,75 +1,76 @@
 [
   {
-    "title": "Pi 1.0",
-    "url": "https://earendil.com/posts/pi-1-0/",
-    "points": 927,
-    "num_comments": 306,
+    "title": "Kolibri: A Sovereign Open-Weight Model",
+    "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+    "points": 547,
+    "num_comments": 308,
     "tags": [
       "story",
-      "author_sergiotapia",
-      "story_49926069",
+      "author_bastitx",
+      "story_49942706",
       "front_page"
     ],
-    "author": "sergiotapia",
-    "created_at": "2026-10-01T19:33:05Z",
-    "aiHeadline": "After years of waiting, Pi finally releases version 1.0—because why not make us wait even longer?"
+    "author": "bastitx",
+    "created_at": "2026-10-03T09:36:04Z",
+    "aiHeadline": "Kolibri: Germany's new AI model that's so self-reliant it doesn't even need to ask for directions, let alone your personal data."
   },
   {
-    "title": "StreetComplete on iOS is now in public beta",
-    "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
-    "points": 537,
-    "num_comments": 140,
+    "title": "Aleph Alpha Kolibri: How the sovereign German LLM works",
+    "url": "https://tej.as/blog/aleph-alpha-kolibri",
+    "points": 410,
+    "num_comments": 11,
     "tags": [
       "story",
-      "author_Snowly",
-      "story_49920160",
+      "author_tejaskumar__",
+      "story_49943034"
+    ],
+    "author": "tejaskumar__",
+    "created_at": "2026-10-03T10:43:51Z",
+    "aiHeadline": "Aleph Alpha Kolibri: The German LLM that proves you don't need to be big to be smart, just a little bit sovereign and a whole lot of efficiency."
+  },
+  {
+    "title": "Federal judge calls Flock 'indiscriminate mass surveillance'",
+    "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+    "points": 381,
+    "num_comments": 218,
+    "tags": [
+      "story",
+      "author_sbulaev",
+      "story_49948254",
       "front_page"
     ],
-    "author": "Snowly",
-    "created_at": "2026-10-01T10:59:57Z",
-    "aiHeadline": "StreetComplete finally brings iOS support in public beta—because who needs a stable release when you can crash on your own?"
+    "author": "sbulaev",
+    "created_at": "2026-10-03T22:07:13Z",
+    "aiHeadline": "Federal judge slams Flock for being the digital equivalent of a nosy neighbor who just won't stop watching your every move."
   },
   {
-    "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
-    "url": "https://blog.cloudflare.com/clef-decision-models/",
-    "points": 463,
-    "num_comments": 170,
+    "title": "We're going to need default hard budget caps on pretty much everything",
+    "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+    "points": 306,
+    "num_comments": 156,
     "tags": [
       "story",
-      "author_jasondavies",
-      "story_49923692",
+      "author_elffjs",
+      "story_49949235",
       "front_page"
     ],
-    "author": "jasondavies",
-    "created_at": "2026-10-01T16:18:57Z",
-    "aiHeadline": "Clef introduces open-weight decision models and a new RL fine-tuning platform—because the world definitely needed another acronym to memorize."
+    "author": "elffjs",
+    "created_at": "2026-10-04T00:20:16Z",
+    "aiHeadline": "We're all about to get a reality check, because apparently, even the air we breathe needs a budget cap now."
   },
   {
-    "title": "Returning from vacation? The government can search your phone without a warrant",
-    "url": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
-    "points": 365,
-    "num_comments": 334,
+    "title": "Tell HN: Bob Cringely has died",
+    "points": 267,
+    "num_comments": 48,
     "tags": [
       "story",
-      "author_rbanffy",
-      "story_49920234"
+      "author_paveworld",
+      "story_49949438",
+      "ask_hn",
+      "front_page"
     ],
-    "author": "rbanffy",
-    "created_at": "2026-10-01T11:13:59Z",
-    "aiHeadline": "Returning from vacation? Great, the government is ready to search your phone without a warrant—because nothing says 'welcome home' like a digital strip search."
-  },
-  {
-    "title": "Google breaks promise to provide 10 years of updates to Chromebooks",
-    "url": "https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/",
-    "points": 344,
-    "num_comments": 155,
-    "tags": [
-      "story",
-      "author_speckx",
-      "story_49920997"
-    ],
-    "author": "speckx",
-    "created_at": "2026-10-01T12:55:27Z",
-    "aiHeadline": "Google breaks promise of 10 years of Chromebook updates—because who needs consistency when you can have 'planned obsolescence'?"
+    "author": "paveworld",
+    "created_at": "2026-10-04T00:50:52Z",
+    "aiHeadline": "Sad news: Bob Cringely has passed away, but at least he'll finally be able to write an article that doesn't get edited by anyone."
   }
 ]
