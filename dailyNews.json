@@ -1,76 +1,75 @@
 [
   {
-    "title": "Kolibri: A Sovereign Open-Weight Model",
-    "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
-    "points": 547,
-    "num_comments": 308,
+    "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+    "url": "https://github.com/Niko1221/Strata",
+    "points": 662,
+    "num_comments": 307,
     "tags": [
       "story",
-      "author_bastitx",
-      "story_49942706",
+      "author_snehesht",
+      "story_49953495",
       "front_page"
     ],
-    "author": "bastitx",
-    "created_at": "2026-10-03T09:36:04Z",
-    "aiHeadline": "Kolibri: Germany's new AI model that's so self-reliant it doesn't even need to ask for directions, let alone your personal data."
+    "author": "snehesht",
+    "created_at": "2026-10-04T12:51:53Z",
+    "aiHeadline": "Finally, your gaming PC can now handle AI models meant for supercomputers—because who doesn’t want to risk melting their GPU for fun?"
   },
   {
-    "title": "Aleph Alpha Kolibri: How the sovereign German LLM works",
-    "url": "https://tej.as/blog/aleph-alpha-kolibri",
-    "points": 410,
-    "num_comments": 11,
+    "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+    "url": "https://github.com/omlahore/RemoveMacAI",
+    "points": 452,
+    "num_comments": 281,
     "tags": [
       "story",
-      "author_tejaskumar__",
-      "story_49943034"
-    ],
-    "author": "tejaskumar__",
-    "created_at": "2026-10-03T10:43:51Z",
-    "aiHeadline": "Aleph Alpha Kolibri: The German LLM that proves you don't need to be big to be smart, just a little bit sovereign and a whole lot of efficiency."
-  },
-  {
-    "title": "Federal judge calls Flock 'indiscriminate mass surveillance'",
-    "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
-    "points": 381,
-    "num_comments": 218,
-    "tags": [
-      "story",
-      "author_sbulaev",
-      "story_49948254",
+      "author_privacyisntdead",
+      "story_49957116",
       "front_page"
     ],
-    "author": "sbulaev",
-    "created_at": "2026-10-03T22:07:13Z",
-    "aiHeadline": "Federal judge slams Flock for being the digital equivalent of a nosy neighbor who just won't stop watching your every move."
+    "author": "privacyisntdead",
+    "created_at": "2026-10-04T19:42:25Z",
+    "aiHeadline": "Apple’s AI is so intrusive, disabling it gives you back your disk space and maybe a sliver of your soul."
   },
   {
-    "title": "We're going to need default hard budget caps on pretty much everything",
-    "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
-    "points": 306,
-    "num_comments": 156,
+    "title": "Improper redaction reveals Google Data Center water and electricity usage",
+    "url": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
+    "points": 303,
+    "num_comments": 418,
     "tags": [
       "story",
-      "author_elffjs",
-      "story_49949235",
+      "author_sensanaty",
+      "story_49957068",
       "front_page"
     ],
-    "author": "elffjs",
-    "created_at": "2026-10-04T00:20:16Z",
-    "aiHeadline": "We're all about to get a reality check, because apparently, even the air we breathe needs a budget cap now."
+    "author": "sensanaty",
+    "created_at": "2026-10-04T19:37:05Z",
+    "aiHeadline": "Google’s redaction skills are so bad, they accidentally revealed how much water and electricity they’re using—probably more than your entire city."
   },
   {
-    "title": "Tell HN: Bob Cringely has died",
-    "points": 267,
-    "num_comments": 48,
+    "title": "Car is a smartphone on wheels. Here's who's listening",
+    "url": "https://automatictransmission.khoury.northeastern.edu/",
+    "points": 206,
+    "num_comments": 139,
     "tags": [
       "story",
-      "author_paveworld",
-      "story_49949438",
-      "ask_hn",
-      "front_page"
+      "author_longhaul",
+      "story_49954882"
     ],
-    "author": "paveworld",
-    "created_at": "2026-10-04T00:50:52Z",
-    "aiHeadline": "Sad news: Bob Cringely has passed away, but at least he'll finally be able to write an article that doesn't get edited by anyone."
+    "author": "longhaul",
+    "created_at": "2026-10-04T15:43:14Z",
+    "aiHeadline": "Your car is now just another spying device—because who needs privacy when you can have a self-driving taxi that listens to everything you say?"
+  },
+  {
+    "title": "In Ukraine, distributed renewables foil Russia's assaults",
+    "url": "https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/",
+    "points": 166,
+    "num_comments": 188,
+    "tags": [
+      "story",
+      "author_JumpCrisscross",
+      "story_49951881"
+    ],
+    "author": "JumpCrisscross",
+    "created_at": "2026-10-04T08:39:58Z",
+    "aiHeadline": "Ukraine shows the world that distributed renewables are the new weapon against Russian aggression—because who needs missiles when you’ve got solar panels?"
   }
 ]
