@@ -1,75 +1,75 @@
 [
   {
-    "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-    "url": "https://github.com/Niko1221/Strata",
-    "points": 662,
-    "num_comments": 307,
+    "title": "Anthropic reported diary entry to police, woman faces felony charge",
+    "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+    "points": 643,
+    "num_comments": 508,
     "tags": [
       "story",
-      "author_snehesht",
-      "story_49953495",
+      "author_emptybits",
+      "story_49961057",
       "front_page"
     ],
-    "author": "snehesht",
-    "created_at": "2026-10-04T12:51:53Z",
-    "aiHeadline": "Finally, your gaming PC can now handle AI models meant for supercomputers—because who doesn’t want to risk melting their GPU for fun?"
+    "author": "emptybits",
+    "created_at": "2026-10-05T05:37:40Z",
+    "aiHeadline": "Florida Woman's AI Diary Gets Her in Trouble Again, Because Apparently Using Claude as a Confidant is Now a Felony"
   },
   {
-    "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-    "url": "https://github.com/omlahore/RemoveMacAI",
-    "points": 452,
-    "num_comments": 281,
+    "title": "Web Search API",
+    "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+    "points": 516,
+    "num_comments": 235,
     "tags": [
       "story",
-      "author_privacyisntdead",
-      "story_49957116",
+      "author_tosh",
+      "story_49963171",
       "front_page"
     ],
-    "author": "privacyisntdead",
-    "created_at": "2026-10-04T19:42:25Z",
-    "aiHeadline": "Apple’s AI is so intrusive, disabling it gives you back your disk space and maybe a sliver of your soul."
+    "author": "tosh",
+    "created_at": "2026-10-05T10:47:06Z",
+    "aiHeadline": "Cloudflare Launches New Web Search API, Because the Internet Wasn't Complicated Enough Already"
   },
   {
-    "title": "Improper redaction reveals Google Data Center water and electricity usage",
-    "url": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
-    "points": 303,
-    "num_comments": 418,
+    "title": "Denmark data breach exposes 8.8M people's personal data",
+    "url": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
+    "points": 473,
+    "num_comments": 330,
     "tags": [
       "story",
-      "author_sensanaty",
-      "story_49957068",
+      "author_clan",
+      "story_49962012"
+    ],
+    "author": "clan",
+    "created_at": "2026-10-05T08:09:36Z",
+    "aiHeadline": "Denmark Data Breach Exposes 8.8M People's Data, Because Why Not? Privacy is Overrated Anyway"
+  },
+  {
+    "title": "Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped",
+    "url": "https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped",
+    "points": 405,
+    "num_comments": 266,
+    "tags": [
+      "story",
+      "author_finnlab",
+      "story_49964303"
+    ],
+    "author": "finnlab",
+    "created_at": "2026-10-05T13:02:25Z",
+    "aiHeadline": "Google's Pixel 11 Might Skip GrapheneOS Security Standards, Because Security is Apparently Optional This Year"
+  },
+  {
+    "title": "Beam: Reflection's 501B open-weight model",
+    "url": "https://reflection.ai/blog/introducing-beam",
+    "points": 383,
+    "num_comments": 117,
+    "tags": [
+      "story",
+      "author_Philpax",
+      "story_49969183",
       "front_page"
     ],
-    "author": "sensanaty",
-    "created_at": "2026-10-04T19:37:05Z",
-    "aiHeadline": "Google’s redaction skills are so bad, they accidentally revealed how much water and electricity they’re using—probably more than your entire city."
-  },
-  {
-    "title": "Car is a smartphone on wheels. Here's who's listening",
-    "url": "https://automatictransmission.khoury.northeastern.edu/",
-    "points": 206,
-    "num_comments": 139,
-    "tags": [
-      "story",
-      "author_longhaul",
-      "story_49954882"
-    ],
-    "author": "longhaul",
-    "created_at": "2026-10-04T15:43:14Z",
-    "aiHeadline": "Your car is now just another spying device—because who needs privacy when you can have a self-driving taxi that listens to everything you say?"
-  },
-  {
-    "title": "In Ukraine, distributed renewables foil Russia's assaults",
-    "url": "https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/",
-    "points": 166,
-    "num_comments": 188,
-    "tags": [
-      "story",
-      "author_JumpCrisscross",
-      "story_49951881"
-    ],
-    "author": "JumpCrisscross",
-    "created_at": "2026-10-04T08:39:58Z",
-    "aiHeadline": "Ukraine shows the world that distributed renewables are the new weapon against Russian aggression—because who needs missiles when you’ve got solar panels?"
+    "author": "Philpax",
+    "created_at": "2026-10-05T19:16:35Z",
+    "aiHeadline": "Reflection AI Unveils Beam: The Latest Open-Weight Model, Because the World Needs More AI, Right?"
   }
 ]
