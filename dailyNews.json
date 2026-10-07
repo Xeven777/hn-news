@@ -1,75 +1,74 @@
 [
   {
-    "title": "Anthropic reported diary entry to police, woman faces felony charge",
-    "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-    "points": 643,
-    "num_comments": 508,
-    "tags": [
-      "story",
-      "author_emptybits",
-      "story_49961057",
-      "front_page"
-    ],
-    "author": "emptybits",
-    "created_at": "2026-10-05T05:37:40Z",
-    "aiHeadline": "Florida Woman's AI Diary Gets Her in Trouble Again, Because Apparently Using Claude as a Confidant is Now a Felony"
-  },
-  {
-    "title": "Web Search API",
-    "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
-    "points": 516,
-    "num_comments": 235,
-    "tags": [
-      "story",
-      "author_tosh",
-      "story_49963171",
-      "front_page"
-    ],
-    "author": "tosh",
-    "created_at": "2026-10-05T10:47:06Z",
-    "aiHeadline": "Cloudflare Launches New Web Search API, Because the Internet Wasn't Complicated Enough Already"
-  },
-  {
-    "title": "Denmark data breach exposes 8.8M people's personal data",
-    "url": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
-    "points": 473,
-    "num_comments": 330,
-    "tags": [
-      "story",
-      "author_clan",
-      "story_49962012"
-    ],
-    "author": "clan",
-    "created_at": "2026-10-05T08:09:36Z",
-    "aiHeadline": "Denmark Data Breach Exposes 8.8M People's Data, Because Why Not? Privacy is Overrated Anyway"
-  },
-  {
-    "title": "Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped",
-    "url": "https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped",
-    "points": 405,
-    "num_comments": 266,
-    "tags": [
-      "story",
-      "author_finnlab",
-      "story_49964303"
-    ],
-    "author": "finnlab",
-    "created_at": "2026-10-05T13:02:25Z",
-    "aiHeadline": "Google's Pixel 11 Might Skip GrapheneOS Security Standards, Because Security is Apparently Optional This Year"
-  },
-  {
-    "title": "Beam: Reflection's 501B open-weight model",
-    "url": "https://reflection.ai/blog/introducing-beam",
-    "points": 383,
-    "num_comments": 117,
+    "title": "Mistral Large 4",
+    "url": "https://mistral.ai/news/mistral-large-4/\\",
+    "points": 1651,
+    "num_comments": 988,
     "tags": [
       "story",
       "author_Philpax",
-      "story_49969183",
+      "story_49977979",
       "front_page"
     ],
     "author": "Philpax",
-    "created_at": "2026-10-05T19:16:35Z",
-    "aiHeadline": "Reflection AI Unveils Beam: The Latest Open-Weight Model, Because the World Needs More AI, Right?"
+    "created_at": "2026-10-06T13:15:49Z",
+    "aiHeadline": "Mistral Large 4: Bigger, faster, and now with even more layers to impress your friends and confuse your enemies."
+  },
+  {
+    "title": "Sharing AI progress in mathematics",
+    "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+    "points": 633,
+    "num_comments": 576,
+    "tags": [
+      "story",
+      "author_OfficialTurkey",
+      "story_49984923",
+      "front_page"
+    ],
+    "author": "OfficialTurkey",
+    "created_at": "2026-10-06T22:17:21Z",
+    "aiHeadline": "AI takes over math: Now, even equations can be solved by an algorithm, because clearly, humans were just slowing things down."
+  },
+  {
+    "title": "JetBrains reports revenue growth, net financial loss for 2025",
+    "url": "https://www.helgilibrary.com/companies/jetbrains",
+    "points": 575,
+    "num_comments": 537,
+    "tags": [
+      "story",
+      "author_thw_9a83c",
+      "story_49977072"
+    ],
+    "author": "thw_9a83c",
+    "created_at": "2026-10-06T11:45:55Z",
+    "aiHeadline": "JetBrains: Making money hand over fist, but somehow still losing it all. Because who needs profits when you can have a cool office?"
+  },
+  {
+    "title": "Nobel Prize in Physics 2026: Francis Halzen",
+    "url": "https://www.nobelprize.org/prizes/physics/2026/",
+    "points": 540,
+    "num_comments": 189,
+    "tags": [
+      "story",
+      "author_solarist",
+      "story_49976265"
+    ],
+    "author": "solarist",
+    "created_at": "2026-10-06T09:48:46Z",
+    "aiHeadline": "Francis Halzen wins Nobel Prize in Physics: Because sometimes, the universe just decides to reward someone for asking the right questions, even if they're still not sure what the answers mean."
+  },
+  {
+    "title": "Mistral Large 4: \"Le Chonk\"",
+    "url": "https://mistral.ai/news/mistral-large-4/",
+    "points": 518,
+    "num_comments": 5,
+    "tags": [
+      "story",
+      "author_j-bu",
+      "story_49978116"
+    ],
+    "author": "j-bu",
+    "created_at": "2026-10-06T13:25:50Z",
+    "aiHeadline": "Mistral Large 4: 'Le Chonk' - Because every AI model needs a catchy nickname, and 'Chonk' is the new 'Big' in town."
   }
 ]
