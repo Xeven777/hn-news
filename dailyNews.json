@@ -1,74 +1,73 @@
 [
   {
-    "title": "Mistral Large 4",
-    "url": "https://mistral.ai/news/mistral-large-4/\\",
-    "points": 1651,
-    "num_comments": 988,
+    "title": "Trump administration is suspending Microsoft from a green card program",
+    "url": "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea",
+    "points": 854,
+    "num_comments": 1460,
     "tags": [
       "story",
-      "author_Philpax",
-      "story_49977979",
+      "author_alephnerd",
+      "story_50006832"
+    ],
+    "author": "alephnerd",
+    "created_at": "2026-10-08T15:15:00Z",
+    "aiHeadline": "Microsoft, the company that literally wrote the book on software, gets suspended from a green card program—because apparently, even tech giants need a reminder that they're not above the law, especially when it comes to visa shenanigans."
+  },
+  {
+    "title": "Tell HN: I've been paying for a rural Tanzanian's education for 10 years",
+    "points": 681,
+    "num_comments": 209,
+    "tags": [
+      "story",
+      "author_lukehandcool",
+      "story_50006366",
+      "ask_hn"
+    ],
+    "author": "lukehandcool",
+    "created_at": "2026-10-08T14:39:47Z",
+    "aiHeadline": "One kind soul has been footing the bill for a Tanzanian student's education for a decade—talk about investing in the future, or at least ensuring that someone else's kid grows up to be smarter than you."
+  },
+  {
+    "title": "Whistle: Speech to Text in 16.9 MB",
+    "url": "https://cactuscompute.com/blog/whistle",
+    "points": 650,
+    "num_comments": 138,
+    "tags": [
+      "story",
+      "author_gmays",
+      "story_50008427",
       "front_page"
     ],
-    "author": "Philpax",
-    "created_at": "2026-10-06T13:15:49Z",
-    "aiHeadline": "Mistral Large 4: Bigger, faster, and now with even more layers to impress your friends and confuse your enemies."
+    "author": "gmays",
+    "created_at": "2026-10-08T16:59:39Z",
+    "aiHeadline": "Introducing Whistle: a speech-to-text model so small it could fit in your pocket, proving once again that sometimes, less is more—unless you're trying to transcribe a lecture on quantum physics, in which case, good luck."
   },
   {
-    "title": "Sharing AI progress in mathematics",
-    "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-    "points": 633,
-    "num_comments": 576,
+    "title": "“Math 2.0” will need to value mathematical progress more holistically",
+    "url": "https://mathstodon.xyz/@tao/117395269325940185",
+    "points": 594,
+    "num_comments": 633,
     "tags": [
       "story",
-      "author_OfficialTurkey",
-      "story_49984923",
-      "front_page"
+      "author_ent101",
+      "story_50002008"
     ],
-    "author": "OfficialTurkey",
-    "created_at": "2026-10-06T22:17:21Z",
-    "aiHeadline": "AI takes over math: Now, even equations can be solved by an algorithm, because clearly, humans were just slowing things down."
+    "author": "ent101",
+    "created_at": "2026-10-08T05:14:14Z",
+    "aiHeadline": "Math 2.0 is here, and it's supposedly going to revolutionize the field by being more holistic—because clearly, the current state of mathematical progress is so narrow-minded that it's failing to account for the fact that mathematicians are actual human beings with feelings."
   },
   {
-    "title": "JetBrains reports revenue growth, net financial loss for 2025",
-    "url": "https://www.helgilibrary.com/companies/jetbrains",
-    "points": 575,
-    "num_comments": 537,
+    "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
+    "url": "https://quesma.com/blog/invisible-cities-one-shot/",
+    "points": 382,
+    "num_comments": 188,
     "tags": [
       "story",
-      "author_thw_9a83c",
-      "story_49977072"
+      "author_stared",
+      "story_50004790"
     ],
-    "author": "thw_9a83c",
-    "created_at": "2026-10-06T11:45:55Z",
-    "aiHeadline": "JetBrains: Making money hand over fist, but somehow still losing it all. Because who needs profits when you can have a cool office?"
-  },
-  {
-    "title": "Nobel Prize in Physics 2026: Francis Halzen",
-    "url": "https://www.nobelprize.org/prizes/physics/2026/",
-    "points": 540,
-    "num_comments": 189,
-    "tags": [
-      "story",
-      "author_solarist",
-      "story_49976265"
-    ],
-    "author": "solarist",
-    "created_at": "2026-10-06T09:48:46Z",
-    "aiHeadline": "Francis Halzen wins Nobel Prize in Physics: Because sometimes, the universe just decides to reward someone for asking the right questions, even if they're still not sure what the answers mean."
-  },
-  {
-    "title": "Mistral Large 4: \"Le Chonk\"",
-    "url": "https://mistral.ai/news/mistral-large-4/",
-    "points": 518,
-    "num_comments": 5,
-    "tags": [
-      "story",
-      "author_j-bu",
-      "story_49978116"
-    ],
-    "author": "j-bu",
-    "created_at": "2026-10-06T13:25:50Z",
-    "aiHeadline": "Mistral Large 4: 'Le Chonk' - Because every AI model needs a catchy nickname, and 'Chonk' is the new 'Big' in town."
+    "author": "stared",
+    "created_at": "2026-10-08T12:00:20Z",
+    "aiHeadline": "AI gets a creative prompt and six hours to visualize 'Invisible Cities,' proving that even machines can get lost in a world of imagination—though let's be honest, it probably took longer to write the prompt than it did to generate the images."
   }
 ]
