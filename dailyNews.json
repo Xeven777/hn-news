@@ -1,73 +1,77 @@
 [
   {
-    "title": "Trump administration is suspending Microsoft from a green card program",
-    "url": "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea",
-    "points": 854,
-    "num_comments": 1460,
+    "title": "Cloudflare acquires Deno",
+    "url": "https://deno.com/blog/cloudflare",
+    "points": 1120,
+    "num_comments": 576,
     "tags": [
       "story",
-      "author_alephnerd",
-      "story_50006832"
-    ],
-    "author": "alephnerd",
-    "created_at": "2026-10-08T15:15:00Z",
-    "aiHeadline": "Microsoft, the company that literally wrote the book on software, gets suspended from a green card program—because apparently, even tech giants need a reminder that they're not above the law, especially when it comes to visa shenanigans."
-  },
-  {
-    "title": "Tell HN: I've been paying for a rural Tanzanian's education for 10 years",
-    "points": 681,
-    "num_comments": 209,
-    "tags": [
-      "story",
-      "author_lukehandcool",
-      "story_50006366",
-      "ask_hn"
-    ],
-    "author": "lukehandcool",
-    "created_at": "2026-10-08T14:39:47Z",
-    "aiHeadline": "One kind soul has been footing the bill for a Tanzanian student's education for a decade—talk about investing in the future, or at least ensuring that someone else's kid grows up to be smarter than you."
-  },
-  {
-    "title": "Whistle: Speech to Text in 16.9 MB",
-    "url": "https://cactuscompute.com/blog/whistle",
-    "points": 650,
-    "num_comments": 138,
-    "tags": [
-      "story",
-      "author_gmays",
-      "story_50008427",
+      "author_ilreb",
+      "story_50019911",
       "front_page"
     ],
-    "author": "gmays",
-    "created_at": "2026-10-08T16:59:39Z",
-    "aiHeadline": "Introducing Whistle: a speech-to-text model so small it could fit in your pocket, proving once again that sometimes, less is more—unless you're trying to transcribe a lecture on quantum physics, in which case, good luck."
+    "author": "ilreb",
+    "created_at": "2026-10-09T13:03:48Z",
+    "aiHeadline": "Cloudflare buys Deno, proving that even the coolest web frameworks need a corporate parent to feel complete."
   },
   {
-    "title": "“Math 2.0” will need to value mathematical progress more holistically",
-    "url": "https://mathstodon.xyz/@tao/117395269325940185",
-    "points": 594,
-    "num_comments": 633,
+    "title": "Sorry, I'm in a meeting",
+    "url": "https://iminafleeting.com/",
+    "points": 815,
+    "num_comments": 246,
     "tags": [
       "story",
-      "author_ent101",
-      "story_50002008"
+      "author_splintersio",
+      "story_50018088",
+      "front_page"
     ],
-    "author": "ent101",
-    "created_at": "2026-10-08T05:14:14Z",
-    "aiHeadline": "Math 2.0 is here, and it's supposedly going to revolutionize the field by being more holistic—because clearly, the current state of mathematical progress is so narrow-minded that it's failing to account for the fact that mathematicians are actual human beings with feelings."
+    "author": "splintersio",
+    "created_at": "2026-10-09T09:21:48Z",
+    "aiHeadline": "New app: 'Sorry, I'm in a meeting' – because who doesn't want to pretend they're too busy to talk to you?"
   },
   {
-    "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
-    "url": "https://quesma.com/blog/invisible-cities-one-shot/",
-    "points": 382,
-    "num_comments": 188,
+    "title": "Triple-A Minesweeper",
+    "url": "https://minesweeper.mikelacher.com/",
+    "points": 773,
+    "num_comments": 153,
     "tags": [
       "story",
-      "author_stared",
-      "story_50004790"
+      "author_robin_reala",
+      "story_50022292",
+      "front_page"
     ],
-    "author": "stared",
-    "created_at": "2026-10-08T12:00:20Z",
-    "aiHeadline": "AI gets a creative prompt and six hours to visualize 'Invisible Cities,' proving that even machines can get lost in a world of imagination—though let's be honest, it probably took longer to write the prompt than it did to generate the images."
+    "author": "robin_reala",
+    "created_at": "2026-10-09T15:51:05Z",
+    "aiHeadline": "Triple-A Minesweeper: Because who needs a billion-dollar game when you can just make the most basic game look like a AAA title?"
+  },
+  {
+    "title": "Our $445M Series D",
+    "url": "https://oxide.computer/blog/our-445m-series-d",
+    "points": 622,
+    "num_comments": 284,
+    "tags": [
+      "story",
+      "author_ahlCVA",
+      "story_50020014",
+      "front_page"
+    ],
+    "author": "ahlCVA",
+    "created_at": "2026-10-09T13:12:47Z",
+    "aiHeadline": "Oxide Computer raises $445M in Series D funding, proving that even in a recession, some companies are just too cool to fail."
+  },
+  {
+    "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+    "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+    "points": 488,
+    "num_comments": 272,
+    "tags": [
+      "story",
+      "author_gumby",
+      "story_50026555",
+      "front_page"
+    ],
+    "author": "gumby",
+    "created_at": "2026-10-09T21:06:59Z",
+    "aiHeadline": "YouTuber builds a Flock-style camera to track cops, and now the cops are tracking him – because surveillance is a two-way street, apparently."
   }
 ]
