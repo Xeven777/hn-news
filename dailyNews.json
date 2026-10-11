@@ -1,77 +1,73 @@
 [
   {
-    "title": "Cloudflare acquires Deno",
-    "url": "https://deno.com/blog/cloudflare",
-    "points": 1120,
-    "num_comments": 576,
+    "title": "Lobbying is corruption",
+    "url": "https://carette.xyz/posts/lobbying_and_corruption/",
+    "points": 474,
+    "num_comments": 269,
     "tags": [
       "story",
-      "author_ilreb",
-      "story_50019911",
-      "front_page"
+      "author_LucidLynx",
+      "story_50032556"
     ],
-    "author": "ilreb",
-    "created_at": "2026-10-09T13:03:48Z",
-    "aiHeadline": "Cloudflare buys Deno, proving that even the coolest web frameworks need a corporate parent to feel complete."
+    "author": "LucidLynx",
+    "created_at": "2026-10-10T13:05:58Z",
+    "aiHeadline": "Lobbying is corruption, shockingly, it's not a secret anymore."
   },
   {
-    "title": "Sorry, I'm in a meeting",
-    "url": "https://iminafleeting.com/",
-    "points": 815,
-    "num_comments": 246,
+    "title": "`123456' password used in Danish CPR data breach",
+    "url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
+    "points": 382,
+    "num_comments": 194,
     "tags": [
       "story",
-      "author_splintersio",
-      "story_50018088",
-      "front_page"
+      "author_baal80spam",
+      "story_50031269"
     ],
-    "author": "splintersio",
-    "created_at": "2026-10-09T09:21:48Z",
-    "aiHeadline": "New app: 'Sorry, I'm in a meeting' – because who doesn't want to pretend they're too busy to talk to you?"
+    "author": "baal80spam",
+    "created_at": "2026-10-10T09:51:49Z",
+    "aiHeadline": "Danish CPR data breach: '123456' password used, because why not?"
   },
   {
-    "title": "Triple-A Minesweeper",
-    "url": "https://minesweeper.mikelacher.com/",
-    "points": 773,
-    "num_comments": 153,
+    "title": "Bitwarden Dual License Model",
+    "url": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
+    "points": 363,
+    "num_comments": 262,
     "tags": [
       "story",
-      "author_robin_reala",
-      "story_50022292",
-      "front_page"
+      "author_Cider9986",
+      "story_50033407"
     ],
-    "author": "robin_reala",
-    "created_at": "2026-10-09T15:51:05Z",
-    "aiHeadline": "Triple-A Minesweeper: Because who needs a billion-dollar game when you can just make the most basic game look like a AAA title?"
+    "author": "Cider9986",
+    "created_at": "2026-10-10T14:32:50Z",
+    "aiHeadline": "Bitwarden's dual license model: because one license wasn't enough to confuse users."
   },
   {
-    "title": "Our $445M Series D",
-    "url": "https://oxide.computer/blog/our-445m-series-d",
-    "points": 622,
-    "num_comments": 284,
+    "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+    "url": "https://github.com/rociiu/talorys",
+    "points": 269,
+    "num_comments": 123,
     "tags": [
       "story",
-      "author_ahlCVA",
-      "story_50020014",
+      "author_rociiu",
+      "story_50031614",
       "front_page"
     ],
-    "author": "ahlCVA",
-    "created_at": "2026-10-09T13:12:47Z",
-    "aiHeadline": "Oxide Computer raises $445M in Series D funding, proving that even in a recession, some companies are just too cool to fail."
+    "author": "rociiu",
+    "created_at": "2026-10-10T10:52:09Z",
+    "aiHeadline": "Talorys: A self-hosted personal AI agent on Cloudflare's free tier, because who needs paid hosting when you can have a smarter AI?"
   },
   {
-    "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
-    "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
-    "points": 488,
-    "num_comments": 272,
+    "title": "Apple/macOS removed from official Unix registry",
+    "url": "https://www.opengroup.org//openbrand/register/",
+    "points": 268,
+    "num_comments": 224,
     "tags": [
       "story",
-      "author_gumby",
-      "story_50026555",
-      "front_page"
+      "author_john_alan",
+      "story_50031653"
     ],
-    "author": "gumby",
-    "created_at": "2026-10-09T21:06:59Z",
-    "aiHeadline": "YouTuber builds a Flock-style camera to track cops, and now the cops are tracking him – because surveillance is a two-way street, apparently."
+    "author": "john_alan",
+    "created_at": "2026-10-10T10:57:31Z",
+    "aiHeadline": "Apple/macOS removed from official Unix registry: because who needs standards when you have a shiny logo?"
   }
 ]
