@@ -1,73 +1,73 @@
 [
   {
-    "title": "Lobbying is corruption",
-    "url": "https://carette.xyz/posts/lobbying_and_corruption/",
-    "points": 474,
-    "num_comments": 269,
+    "title": "Bot traffic from Yandex",
+    "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d",
+    "points": 596,
+    "num_comments": 239,
     "tags": [
       "story",
-      "author_LucidLynx",
-      "story_50032556"
+      "author_walrus01",
+      "story_50041619"
     ],
-    "author": "LucidLynx",
-    "created_at": "2026-10-10T13:05:58Z",
-    "aiHeadline": "Lobbying is corruption, shockingly, it's not a secret anymore."
+    "author": "walrus01",
+    "created_at": "2026-10-11T10:27:53Z",
+    "aiHeadline": "Yandex Bots Take Over the Internet, One Click at a Time"
   },
   {
-    "title": "`123456' password used in Danish CPR data breach",
-    "url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
-    "points": 382,
-    "num_comments": 194,
+    "title": "3rd Yandex Cloud Data Center Was Hit",
+    "url": "https://status.yandex.cloud/en/incidents/2136",
+    "points": 562,
+    "num_comments": 686,
     "tags": [
       "story",
-      "author_baal80spam",
-      "story_50031269"
+      "author_defly",
+      "story_50040547"
     ],
-    "author": "baal80spam",
-    "created_at": "2026-10-10T09:51:49Z",
-    "aiHeadline": "Danish CPR data breach: '123456' password used, because why not?"
+    "author": "defly",
+    "created_at": "2026-10-11T07:34:45Z",
+    "aiHeadline": "Third Yandex Data Center Falls Victim to Mysterious Forces (Probably Bored Hackers)"
   },
   {
-    "title": "Bitwarden Dual License Model",
-    "url": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
-    "points": 363,
-    "num_comments": 262,
+    "title": "Nitter: Update Oct 10th seeking funding and legal help",
+    "url": "https://nitter.net",
+    "points": 427,
+    "num_comments": 229,
     "tags": [
       "story",
-      "author_Cider9986",
-      "story_50033407"
+      "author_ForHackernews",
+      "story_50041682"
     ],
-    "author": "Cider9986",
-    "created_at": "2026-10-10T14:32:50Z",
-    "aiHeadline": "Bitwarden's dual license model: because one license wasn't enough to confuse users."
+    "author": "ForHackernews",
+    "created_at": "2026-10-11T10:37:55Z",
+    "aiHeadline": "Nitter Asks for Money and Lawyers, Because Who Doesn't Want Both?"
   },
   {
-    "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-    "url": "https://github.com/rociiu/talorys",
-    "points": 269,
-    "num_comments": 123,
+    "title": "Total Annihilation, rebuilt for modern computers",
+    "url": "https://nanolathe.gg",
+    "points": 425,
+    "num_comments": 180,
     "tags": [
       "story",
-      "author_rociiu",
-      "story_50031614",
+      "author_jttnr",
+      "story_50045984",
       "front_page"
     ],
-    "author": "rociiu",
-    "created_at": "2026-10-10T10:52:09Z",
-    "aiHeadline": "Talorys: A self-hosted personal AI agent on Cloudflare's free tier, because who needs paid hosting when you can have a smarter AI?"
+    "author": "jttnr",
+    "created_at": "2026-10-11T18:04:47Z",
+    "aiHeadline": "Classic Game 'Total Annihilation' Gets a Modern Makeover, Because Apparently, We Needed More Explosions"
   },
   {
-    "title": "Apple/macOS removed from official Unix registry",
-    "url": "https://www.opengroup.org//openbrand/register/",
-    "points": 268,
-    "num_comments": 224,
+    "title": "LineageOS 24",
+    "url": "https://lineageos.org/Changelog-32/",
+    "points": 415,
+    "num_comments": 170,
     "tags": [
       "story",
-      "author_john_alan",
-      "story_50031653"
+      "author_timschumi",
+      "story_50040276"
     ],
-    "author": "john_alan",
-    "created_at": "2026-10-10T10:57:31Z",
-    "aiHeadline": "Apple/macOS removed from official Unix registry: because who needs standards when you have a shiny logo?"
+    "author": "timschumi",
+    "created_at": "2026-10-11T06:18:59Z",
+    "aiHeadline": "LineageOS 24 Released, Because Someone Clearly Has Too Much Time on Their Hands"
   }
 ]
