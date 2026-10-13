@@ -1,73 +1,76 @@
 [
   {
-    "title": "Bot traffic from Yandex",
-    "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d",
+    "title": "Deloitte falsified documents to evade tax on Abramovich's wealth",
+    "url": "https://www.bbc.com/news/articles/c64g1l5389kvo",
     "points": 596,
-    "num_comments": 239,
+    "num_comments": 199,
     "tags": [
       "story",
-      "author_walrus01",
-      "story_50041619"
+      "author_Betelbuddy",
+      "story_50054207"
     ],
-    "author": "walrus01",
-    "created_at": "2026-10-11T10:27:53Z",
-    "aiHeadline": "Yandex Bots Take Over the Internet, One Click at a Time"
+    "author": "Betelbuddy",
+    "created_at": "2026-10-12T10:21:27Z",
+    "aiHeadline": "Deloitte's 'Faking It' Scheme: When Tax Evasion Meets Abramovich's Lavish Lifestyle, and Everyone's Wondering If the Accountants Are the Real Billionaires."
   },
   {
-    "title": "3rd Yandex Cloud Data Center Was Hit",
-    "url": "https://status.yandex.cloud/en/incidents/2136",
-    "points": 562,
-    "num_comments": 686,
+    "title": "Muse Wonder",
+    "url": "https://research.meta.ai/blog/muse-wonder",
+    "points": 589,
+    "num_comments": 323,
     "tags": [
       "story",
-      "author_defly",
-      "story_50040547"
-    ],
-    "author": "defly",
-    "created_at": "2026-10-11T07:34:45Z",
-    "aiHeadline": "Third Yandex Data Center Falls Victim to Mysterious Forces (Probably Bored Hackers)"
-  },
-  {
-    "title": "Nitter: Update Oct 10th seeking funding and legal help",
-    "url": "https://nitter.net",
-    "points": 427,
-    "num_comments": 229,
-    "tags": [
-      "story",
-      "author_ForHackernews",
-      "story_50041682"
-    ],
-    "author": "ForHackernews",
-    "created_at": "2026-10-11T10:37:55Z",
-    "aiHeadline": "Nitter Asks for Money and Lawyers, Because Who Doesn't Want Both?"
-  },
-  {
-    "title": "Total Annihilation, rebuilt for modern computers",
-    "url": "https://nanolathe.gg",
-    "points": 425,
-    "num_comments": 180,
-    "tags": [
-      "story",
-      "author_jttnr",
-      "story_50045984",
+      "author_meetpateltech",
+      "story_50059115",
       "front_page"
     ],
-    "author": "jttnr",
-    "created_at": "2026-10-11T18:04:47Z",
-    "aiHeadline": "Classic Game 'Total Annihilation' Gets a Modern Makeover, Because Apparently, We Needed More Explosions"
+    "author": "meetpateltech",
+    "created_at": "2026-10-12T16:48:01Z",
+    "aiHeadline": "Muse Wonder: Meta's AI Contemplates Existence, Probably While Sipping a Latte and Wearing a Tie, Because That's How Meta Rolls."
   },
   {
-    "title": "LineageOS 24",
-    "url": "https://lineageos.org/Changelog-32/",
-    "points": 415,
-    "num_comments": 170,
+    "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+    "points": 568,
+    "num_comments": 738,
     "tags": [
       "story",
-      "author_timschumi",
-      "story_50040276"
+      "author_Zeekaas",
+      "story_50055304",
+      "front_page"
     ],
-    "author": "timschumi",
-    "created_at": "2026-10-11T06:18:59Z",
-    "aiHeadline": "LineageOS 24 Released, Because Someone Clearly Has Too Much Time on Their Hands"
+    "author": "Zeekaas",
+    "created_at": "2026-10-12T12:16:42Z",
+    "aiHeadline": "Hackers Turn Up the Heat: Supermarket Fridges Defrost, Leaving Europe to Wonder If This Is the New Way to Thaw Relations or Just a Recipe for Disaster."
+  },
+  {
+    "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+    "url": "https://github.com/openai/codex/issues/48195",
+    "points": 520,
+    "num_comments": 265,
+    "tags": [
+      "story",
+      "author_whimblepop",
+      "story_50060694",
+      "front_page"
+    ],
+    "author": "whimblepop",
+    "created_at": "2026-10-12T18:29:04Z",
+    "aiHeadline": "Codex CLI: The Software That Thinks It's a Spy, Installing Background Daemons to Keep Tabs on Your Every Move, Because Privacy is So 2020."
+  },
+  {
+    "title": "GLM-Legal",
+    "url": "https://z.ai/blog/glm-legal",
+    "points": 506,
+    "num_comments": 293,
+    "tags": [
+      "story",
+      "author_ilreb",
+      "story_50058507",
+      "front_page"
+    ],
+    "author": "ilreb",
+    "created_at": "2026-10-12T16:11:45Z",
+    "aiHeadline": "GLM-Legal: AI Finally Gets a Lawyer, Because Even Algorithms Need to Dodge Lawsuits, or Maybe They're Just Trying to Fit In with the Rest of Us Morals."
   }
 ]
