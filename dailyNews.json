@@ -1,76 +1,75 @@
 [
   {
-    "title": "Deloitte falsified documents to evade tax on Abramovich's wealth",
-    "url": "https://www.bbc.com/news/articles/c64g1l5389kvo",
-    "points": 596,
-    "num_comments": 199,
+    "title": "Gemini 4 Argon",
+    "url": "https://deepmind.google/models/gemini/",
+    "points": 1109,
+    "num_comments": 807,
     "tags": [
       "story",
-      "author_Betelbuddy",
-      "story_50054207"
-    ],
-    "author": "Betelbuddy",
-    "created_at": "2026-10-12T10:21:27Z",
-    "aiHeadline": "Deloitte's 'Faking It' Scheme: When Tax Evasion Meets Abramovich's Lavish Lifestyle, and Everyone's Wondering If the Accountants Are the Real Billionaires."
-  },
-  {
-    "title": "Muse Wonder",
-    "url": "https://research.meta.ai/blog/muse-wonder",
-    "points": 589,
-    "num_comments": 323,
-    "tags": [
-      "story",
-      "author_meetpateltech",
-      "story_50059115",
+      "author_737max",
+      "story_50073879",
       "front_page"
     ],
-    "author": "meetpateltech",
-    "created_at": "2026-10-12T16:48:01Z",
-    "aiHeadline": "Muse Wonder: Meta's AI Contemplates Existence, Probably While Sipping a Latte and Wearing a Tie, Because That's How Meta Rolls."
+    "author": "737max",
+    "created_at": "2026-10-13T16:03:16Z",
+    "aiHeadline": "Google's Gemini 4 Argon: Because the World Needs Another AI Model, Apparently."
   },
   {
-    "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
-    "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
-    "points": 568,
-    "num_comments": 738,
+    "title": "Apple HomeView",
+    "url": "https://www.apple.com/apple-homeview/",
+    "points": 698,
+    "num_comments": 822,
     "tags": [
       "story",
-      "author_Zeekaas",
-      "story_50055304",
+      "author_etothet",
+      "story_50071017",
       "front_page"
     ],
-    "author": "Zeekaas",
-    "created_at": "2026-10-12T12:16:42Z",
-    "aiHeadline": "Hackers Turn Up the Heat: Supermarket Fridges Defrost, Leaving Europe to Wonder If This Is the New Way to Thaw Relations or Just a Recipe for Disaster."
+    "author": "etothet",
+    "created_at": "2026-10-13T13:02:12Z",
+    "aiHeadline": "Apple HomeView: The Most Expensive Way to View Your Home Ever Invented."
   },
   {
-    "title": "Codex CLI installs a persistent, self-updating background daemon by default",
-    "url": "https://github.com/openai/codex/issues/48195",
-    "points": 520,
-    "num_comments": 265,
+    "title": "11 year old unsoundness bugs found in Rust borrow checker",
+    "url": "https://github.com/rust-lang/rust/issues/164250",
+    "points": 693,
+    "num_comments": 386,
     "tags": [
       "story",
-      "author_whimblepop",
-      "story_50060694",
-      "front_page"
+      "author_formerly_proven",
+      "story_50069499"
     ],
-    "author": "whimblepop",
-    "created_at": "2026-10-12T18:29:04Z",
-    "aiHeadline": "Codex CLI: The Software That Thinks It's a Spy, Installing Background Daemons to Keep Tabs on Your Every Move, Because Privacy is So 2020."
+    "author": "formerly_proven",
+    "created_at": "2026-10-13T10:27:00Z",
+    "aiHeadline": "Rust Borrow Checker: Because Who Needs Memory Safety Anyway?"
   },
   {
-    "title": "GLM-Legal",
-    "url": "https://z.ai/blog/glm-legal",
-    "points": 506,
-    "num_comments": 293,
+    "title": "Firefox Enterprise",
+    "url": "https://www.firefox.com/en-US/enterprise/",
+    "points": 678,
+    "num_comments": 274,
     "tags": [
       "story",
-      "author_ilreb",
-      "story_50058507",
+      "author_recvonline",
+      "story_50070302"
+    ],
+    "author": "recvonline",
+    "created_at": "2026-10-13T12:00:42Z",
+    "aiHeadline": "Firefox Enterprise: Because Enterprise Browsing Should Be as Fun as Filling Out Tax Forms."
+  },
+  {
+    "title": "Redesigning source control at Anthropic",
+    "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+    "points": 608,
+    "num_comments": 583,
+    "tags": [
+      "story",
+      "author_Philpax",
+      "story_50073633",
       "front_page"
     ],
-    "author": "ilreb",
-    "created_at": "2026-10-12T16:11:45Z",
-    "aiHeadline": "GLM-Legal: AI Finally Gets a Lawyer, Because Even Algorithms Need to Dodge Lawsuits, or Maybe They're Just Trying to Fit In with the Rest of Us Morals."
+    "author": "Philpax",
+    "created_at": "2026-10-13T15:49:56Z",
+    "aiHeadline": "Anthropic Redesigns Source Control: Because Git Wasn't Complicated Enough Already."
   }
 ]
