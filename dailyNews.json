@@ -1,75 +1,74 @@
 [
   {
-    "title": "Gemini 4 Argon",
-    "url": "https://deepmind.google/models/gemini/",
-    "points": 1109,
-    "num_comments": 807,
+    "title": "OpenCode Hacked: User credentials leaked",
+    "url": "https://twitter.com/opencode/status/2111516673953935833",
+    "points": 805,
+    "num_comments": 152,
     "tags": [
       "story",
-      "author_737max",
-      "story_50073879",
+      "author_pranshuchittora",
+      "story_50133401"
+    ],
+    "author": "pranshuchittora",
+    "created_at": "2026-10-17T18:01:41Z",
+    "aiHeadline": "OpenCode, the company that promised to keep your data safe, got hacked. Now your passwords are probably on the dark web, along with everyone else's."
+  },
+  {
+    "title": "DeepSeek-v4.1-Flash-1017",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+    "points": 741,
+    "num_comments": 607,
+    "tags": [
+      "story",
+      "author_theykk",
+      "story_50129045",
       "front_page"
     ],
-    "author": "737max",
-    "created_at": "2026-10-13T16:03:16Z",
-    "aiHeadline": "Google's Gemini 4 Argon: Because the World Needs Another AI Model, Apparently."
+    "author": "theykk",
+    "created_at": "2026-10-17T08:21:25Z",
+    "aiHeadline": "DeepSeek releases yet another update to their AI model, because apparently, making it better at understanding sarcasm wasn't enough."
   },
   {
-    "title": "Apple HomeView",
-    "url": "https://www.apple.com/apple-homeview/",
-    "points": 698,
-    "num_comments": 822,
+    "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+    "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+    "points": 512,
+    "num_comments": 5,
     "tags": [
       "story",
-      "author_etothet",
-      "story_50071017",
+      "author_theanonymousone",
+      "story_50129121"
+    ],
+    "author": "theanonymousone",
+    "created_at": "2026-10-17T08:37:46Z",
+    "aiHeadline": "DeepSeek is at it again, this time with a new version of their AI model that probably just adds more layers to the confusion."
+  },
+  {
+    "title": "Solar surpasses nuclear power globally for first time",
+    "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+    "points": 507,
+    "num_comments": 320,
+    "tags": [
+      "story",
+      "author_xbmcuser",
+      "story_50131256",
       "front_page"
     ],
-    "author": "etothet",
-    "created_at": "2026-10-13T13:02:12Z",
-    "aiHeadline": "Apple HomeView: The Most Expensive Way to View Your Home Ever Invented."
+    "author": "xbmcuser",
+    "created_at": "2026-10-17T14:01:01Z",
+    "aiHeadline": "Solar power finally overtakes nuclear power globally, proving that sometimes, it takes decades for the obvious to happen."
   },
   {
-    "title": "11 year old unsoundness bugs found in Rust borrow checker",
-    "url": "https://github.com/rust-lang/rust/issues/164250",
-    "points": 693,
-    "num_comments": 386,
+    "title": "Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day",
+    "url": "https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day",
+    "points": 423,
+    "num_comments": 237,
     "tags": [
       "story",
-      "author_formerly_proven",
-      "story_50069499"
+      "author_DeepLogin",
+      "story_50136881"
     ],
-    "author": "formerly_proven",
-    "created_at": "2026-10-13T10:27:00Z",
-    "aiHeadline": "Rust Borrow Checker: Because Who Needs Memory Safety Anyway?"
-  },
-  {
-    "title": "Firefox Enterprise",
-    "url": "https://www.firefox.com/en-US/enterprise/",
-    "points": 678,
-    "num_comments": 274,
-    "tags": [
-      "story",
-      "author_recvonline",
-      "story_50070302"
-    ],
-    "author": "recvonline",
-    "created_at": "2026-10-13T12:00:42Z",
-    "aiHeadline": "Firefox Enterprise: Because Enterprise Browsing Should Be as Fun as Filling Out Tax Forms."
-  },
-  {
-    "title": "Redesigning source control at Anthropic",
-    "url": "https://www.anthropic.com/engineering/redesigning-source-control",
-    "points": 608,
-    "num_comments": 583,
-    "tags": [
-      "story",
-      "author_Philpax",
-      "story_50073633",
-      "front_page"
-    ],
-    "author": "Philpax",
-    "created_at": "2026-10-13T15:49:56Z",
-    "aiHeadline": "Anthropic Redesigns Source Control: Because Git Wasn't Complicated Enough Already."
+    "author": "DeepLogin",
+    "created_at": "2026-10-18T01:18:50Z",
+    "aiHeadline": "Meta, the company that built its empire on free expression, decides to take down a protest page. Because nothing says 'free speech' like censorship during a protest."
   }
 ]
