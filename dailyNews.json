@@ -1,74 +1,76 @@
 [
   {
-    "title": "OpenCode Hacked: User credentials leaked",
-    "url": "https://twitter.com/opencode/status/2111516673953935833",
-    "points": 805,
-    "num_comments": 152,
+    "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+    "url": "https://api-docs.deepseek.com/guides/search/",
+    "points": 556,
+    "num_comments": 262,
     "tags": [
       "story",
-      "author_pranshuchittora",
-      "story_50133401"
+      "author_fagnerbrack",
+      "story_50138531"
     ],
-    "author": "pranshuchittora",
-    "created_at": "2026-10-17T18:01:41Z",
-    "aiHeadline": "OpenCode, the company that promised to keep your data safe, got hacked. Now your passwords are probably on the dark web, along with everyone else's."
+    "author": "fagnerbrack",
+    "created_at": "2026-10-18T06:50:36Z",
+    "aiHeadline": "DeepSeek's new search tool is so good, it'll cost you a fortune—or just 75 cents per thousand requests, whichever comes first."
   },
   {
-    "title": "DeepSeek-v4.1-Flash-1017",
-    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-    "points": 741,
-    "num_comments": 607,
+    "title": "Namecheap just seized and disabled all my domains",
+    "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
+    "points": 484,
+    "num_comments": 234,
     "tags": [
       "story",
-      "author_theykk",
-      "story_50129045",
+      "author_sashk",
+      "story_50142866",
       "front_page"
     ],
-    "author": "theykk",
-    "created_at": "2026-10-17T08:21:25Z",
-    "aiHeadline": "DeepSeek releases yet another update to their AI model, because apparently, making it better at understanding sarcasm wasn't enough."
+    "author": "sashk",
+    "created_at": "2026-10-18T16:56:56Z",
+    "aiHeadline": "Namecheap proves that sometimes, the only thing worse than losing your domains is having them taken away by the company you trusted to keep them safe."
   },
   {
-    "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
-    "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
-    "points": 512,
-    "num_comments": 5,
+    "title": "Someone behind the software",
+    "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+    "points": 351,
+    "num_comments": 141,
     "tags": [
       "story",
-      "author_theanonymousone",
-      "story_50129121"
-    ],
-    "author": "theanonymousone",
-    "created_at": "2026-10-17T08:37:46Z",
-    "aiHeadline": "DeepSeek is at it again, this time with a new version of their AI model that probably just adds more layers to the confusion."
-  },
-  {
-    "title": "Solar surpasses nuclear power globally for first time",
-    "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
-    "points": 507,
-    "num_comments": 320,
-    "tags": [
-      "story",
-      "author_xbmcuser",
-      "story_50131256",
+      "author_tosh",
+      "story_50142573",
       "front_page"
     ],
-    "author": "xbmcuser",
-    "created_at": "2026-10-17T14:01:01Z",
-    "aiHeadline": "Solar power finally overtakes nuclear power globally, proving that sometimes, it takes decades for the obvious to happen."
+    "author": "tosh",
+    "created_at": "2026-10-18T16:32:00Z",
+    "aiHeadline": "Meet the person behind the software—because even software needs someone to blame when things go wrong."
   },
   {
-    "title": "Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day",
-    "url": "https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day",
-    "points": 423,
-    "num_comments": 237,
+    "title": "RepRapMicron",
+    "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
+    "points": 348,
+    "num_comments": 55,
     "tags": [
       "story",
-      "author_DeepLogin",
-      "story_50136881"
+      "author_RobotToaster",
+      "story_50141076",
+      "front_page"
     ],
-    "author": "DeepLogin",
-    "created_at": "2026-10-18T01:18:50Z",
-    "aiHeadline": "Meta, the company that built its empire on free expression, decides to take down a protest page. Because nothing says 'free speech' like censorship during a protest."
+    "author": "RobotToaster",
+    "created_at": "2026-10-18T13:48:48Z",
+    "aiHeadline": "Introducing RepRapMicron: because you didn't have enough 3D printers already, now you can control them all with this new, slightly more complicated tool."
+  },
+  {
+    "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+    "url": "https://arxiv.org/abs/2610.18861",
+    "points": 263,
+    "num_comments": 153,
+    "tags": [
+      "story",
+      "author_allinonai",
+      "story_50145337",
+      "front_page"
+    ],
+    "author": "allinonai",
+    "created_at": "2026-10-18T20:48:14Z",
+    "aiHeadline": "Meet the Hybrid Reasoning Agents: they think in ways you can't even imagine and act through text because, hey, why make it easy when you can make it sound impressive?"
   }
 ]
