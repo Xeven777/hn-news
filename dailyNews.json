@@ -1,76 +1,74 @@
 [
   {
-    "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
-    "url": "https://api-docs.deepseek.com/guides/search/",
-    "points": 556,
-    "num_comments": 262,
+    "title": "PHP 8.2.35",
+    "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+    "points": 984,
+    "num_comments": 535,
     "tags": [
       "story",
-      "author_fagnerbrack",
-      "story_50138531"
+      "author_tuyuri",
+      "story_50180873"
     ],
-    "author": "fagnerbrack",
-    "created_at": "2026-10-18T06:50:36Z",
-    "aiHeadline": "DeepSeek's new search tool is so good, it'll cost you a fortune—or just 75 cents per thousand requests, whichever comes first."
+    "author": "tuyuri",
+    "created_at": "2026-10-21T13:45:33Z",
+    "aiHeadline": "PHP 8.2.35: Because fixing bugs is apparently a never-ending game, and developers everywhere are just thrilled to update their code yet again."
   },
   {
-    "title": "Namecheap just seized and disabled all my domains",
-    "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
-    "points": 484,
-    "num_comments": 234,
+    "title": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
+    "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+    "points": 856,
+    "num_comments": 406,
     "tags": [
       "story",
-      "author_sashk",
-      "story_50142866",
-      "front_page"
+      "author_hkc",
+      "story_50177916"
     ],
-    "author": "sashk",
-    "created_at": "2026-10-18T16:56:56Z",
-    "aiHeadline": "Namecheap proves that sometimes, the only thing worse than losing your domains is having them taken away by the company you trusted to keep them safe."
+    "author": "hkc",
+    "created_at": "2026-10-21T09:08:08Z",
+    "aiHeadline": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds, proving once again that 'secure' is just a word we pretend to believe in."
   },
   {
-    "title": "Someone behind the software",
-    "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
-    "points": 351,
-    "num_comments": 141,
+    "title": "Today's PHP security release, and how we're strengthening security",
+    "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+    "points": 697,
+    "num_comments": 343,
     "tags": [
       "story",
-      "author_tosh",
-      "story_50142573",
+      "author_ejohnso49",
+      "story_50182987",
       "front_page"
     ],
-    "author": "tosh",
-    "created_at": "2026-10-18T16:32:00Z",
-    "aiHeadline": "Meet the person behind the software—because even software needs someone to blame when things go wrong."
+    "author": "ejohnso49",
+    "created_at": "2026-10-21T15:48:56Z",
+    "aiHeadline": "Today's PHP security release, and how we're strengthening security: Because last month's patches clearly weren't enough to keep the hackers at bay."
   },
   {
-    "title": "RepRapMicron",
-    "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
-    "points": 348,
-    "num_comments": 55,
+    "title": "The 1.5°C goal of the Paris Agreement is no longer viable",
+    "url": "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/",
+    "points": 619,
+    "num_comments": 753,
     "tags": [
       "story",
-      "author_RobotToaster",
-      "story_50141076",
-      "front_page"
+      "author_velo_aprx",
+      "story_50177911"
     ],
-    "author": "RobotToaster",
-    "created_at": "2026-10-18T13:48:48Z",
-    "aiHeadline": "Introducing RepRapMicron: because you didn't have enough 3D printers already, now you can control them all with this new, slightly more complicated tool."
+    "author": "velo_aprx",
+    "created_at": "2026-10-21T09:07:49Z",
+    "aiHeadline": "The 1.5°C goal of the Paris Agreement is no longer viable: Great news for anyone who enjoys the idea of our planet slowly roasting like a marshmallow."
   },
   {
-    "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-    "url": "https://arxiv.org/abs/2610.18861",
-    "points": 263,
-    "num_comments": 153,
+    "title": "EA is shutting down BioWare",
+    "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+    "points": 566,
+    "num_comments": 343,
     "tags": [
       "story",
-      "author_allinonai",
-      "story_50145337",
+      "author_aaronbrethorst",
+      "story_50184586",
       "front_page"
     ],
-    "author": "allinonai",
-    "created_at": "2026-10-18T20:48:14Z",
-    "aiHeadline": "Meet the Hybrid Reasoning Agents: they think in ways you can't even imagine and act through text because, hey, why make it easy when you can make it sound impressive?"
+    "author": "aaronbrethorst",
+    "created_at": "2026-10-21T17:29:33Z",
+    "aiHeadline": "EA is shutting down BioWare: Because what better way to alienate fans than to kill the studio responsible for some of the most beloved games of the past decade?"
   }
 ]
