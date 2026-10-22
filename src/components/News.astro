@@ -1,10 +1,9 @@
 ---
-import { Image } from "astro:assets";
-import img1 from "../assets/image1.jpeg";
-import img2 from "../assets/image2.jpeg";
-import img3 from "../assets/image3.jpeg";
-import img4 from "../assets/image4.jpeg";
-import img5 from "../assets/image5.jpeg";
+import img1 from "../assets/image1.jpeg?url";
+import img2 from "../assets/image2.jpeg?url";
+import img3 from "../assets/image3.jpeg?url";
+import img4 from "../assets/image4.jpeg?url";
+import img5 from "../assets/image5.jpeg?url";
 const images = [img1, img2, img3, img4, img5];
 import stories from "../../dailyNews.json";
 ---
@@ -20,13 +19,10 @@ import stories from "../../dailyNews.json";
       stories[0] && (
         <div class="pb-6 mx-auto w-full max-w-4xl">
           <div class="overflow-hidden rounded-2xl mx-auto relative">
-            <Image
+            <img
               src={images[0]}
               alt={stories[0].title}
-              widths={[300, 600, 950]}
-              sizes={`(max-width: 360px) 300px, (max-width: 720px) 600px, (max-width: 1600px) 950px`}
-              fetchpriority={"high"}
-              loading={"eager"}
+              loading="eager"
               class="rounded-lg w-full hover:scale-105 hover:sepia-0 sepia transition-all duration-500 aspect-square md:aspect-[5/4] object-cover"
             />
             <div class="bg-gradient-to-b from-transparent via-stone-700/70 to-stone-900 absolute bottom-0 z-10 h-40 w-full" />
@@ -84,15 +80,10 @@ import stories from "../../dailyNews.json";
         stories.slice(1).map((story, i) => (
           <div class="bg-amber-50/80 shadow-lg rounded-2xl overflow-hidden transition-all duration-300 hover:shadow-xl">
             <div class="pb-6 flex flex-col justify-between h-full">
-              <Image
+              <img
                 src={images[i + 1]}
                 alt={story.title}
-                width={"950"}
-                height={"750"}
-                widths={[300, 565]}
-                sizes={`(max-width: 720px) 300px, (max-width: 1600px) 565px`}
-                fetchpriority={"low"}
-                loading={"lazy"}
+                loading="lazy"
                 class="w-full mb-6 aspect-square object-cover hover:sepia-0 sepia-[0.3] transition-all duration-500"
               />
 
