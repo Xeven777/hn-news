@@ -1,75 +1,74 @@
 [
   {
-    "title": "Today, we hacked what we'd set out to hack: the iPhone",
-    "url": "https://blog.calif.io/p/iphone",
-    "points": 778,
-    "num_comments": 523,
+    "title": "No signs of AI payoff outside the tech sector",
+    "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+    "points": 508,
+    "num_comments": 521,
     "tags": [
       "story",
-      "author_pavel_lishin",
-      "story_50211474",
+      "author_the-mitr",
+      "story_50224463"
+    ],
+    "author": "the-mitr",
+    "created_at": "2026-10-24T19:47:19Z",
+    "aiHeadline": "AI continues to be the most overhyped technology of the decade, delivering zero tangible benefits outside of making tech bros richer."
+  },
+  {
+    "title": "Root shell on Samsung TV",
+    "url": "https://twitter.com/log4j/status/2113014142600953868?s=46",
+    "points": 494,
+    "num_comments": 204,
+    "tags": [
+      "story",
+      "author_testing22321",
+      "story_50218633"
+    ],
+    "author": "testing22321",
+    "created_at": "2026-10-24T05:49:57Z",
+    "aiHeadline": "Because nothing says 'smart home' like having a complete stranger take over your TV and turn it into a command center for their evil plans."
+  },
+  {
+    "title": "OBS Studio 33",
+    "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+    "points": 444,
+    "num_comments": 161,
+    "tags": [
+      "story",
+      "author_pentagrama",
+      "story_50218430"
+    ],
+    "author": "pentagrama",
+    "created_at": "2026-10-24T04:49:58Z",
+    "aiHeadline": "The latest update to OBS Studio brings you... more bugs! Because nothing says 'we care about our users' like breaking everything they rely on."
+  },
+  {
+    "title": "Show HN: Steal My Bitcoin",
+    "url": "https://stealmybitcoin.com/",
+    "points": 433,
+    "num_comments": 261,
+    "tags": [
+      "story",
+      "author_cloudlandsdev",
+      "story_50224916",
+      "show_hn",
       "front_page"
     ],
-    "author": "pavel_lishin",
-    "created_at": "2026-10-23T16:21:50Z",
-    "aiHeadline": "After years of trying, we finally hacked the iPhone—because apparently, that's still a thing people care about."
+    "author": "cloudlandsdev",
+    "created_at": "2026-10-24T20:30:31Z",
+    "aiHeadline": "A new website is daring you to 'steal' their Bitcoin, because clearly, the best way to secure your digital assets is to shout about them on the internet."
   },
   {
-    "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-    "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-    "points": 774,
-    "num_comments": 477,
+    "title": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
+    "url": "https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/",
+    "points": 424,
+    "num_comments": 458,
     "tags": [
       "story",
-      "author_Jowsey",
-      "story_50212065",
-      "front_page"
+      "author_sblank",
+      "story_50220913"
     ],
-    "author": "Jowsey",
-    "created_at": "2026-10-23T16:59:08Z",
-    "aiHeadline": "Kimi K3.1 Pro and Highspeed: because why have one when you can have two, and both are still confusingly named?"
-  },
-  {
-    "title": "Apple Music 404 Not Found",
-    "url": "https://music.apple.com/this-url-doesnt-exist",
-    "points": 639,
-    "num_comments": 207,
-    "tags": [
-      "story",
-      "author_frizlab",
-      "story_50207910",
-      "front_page"
-    ],
-    "author": "frizlab",
-    "created_at": "2026-10-23T12:28:47Z",
-    "aiHeadline": "Apple Music: where your favorite songs go to hide—because apparently, they're on a vacation from your playlist."
-  },
-  {
-    "title": "Investor-owned utilities charge 23% more for electricity than public providers",
-    "url": "https://www.kadoa.com/energy-prices/insights/investor-owned-utilities",
-    "points": 527,
-    "num_comments": 384,
-    "tags": [
-      "story",
-      "author_hubraumhugo",
-      "story_50208837"
-    ],
-    "author": "hubraumhugo",
-    "created_at": "2026-10-23T13:41:10Z",
-    "aiHeadline": "Investor-owned utilities charge 23% more: because nothing says 'we love the planet' like hiking up the bills."
-  },
-  {
-    "title": "Your Phone Is About to Stop Being Yours: 70 Days Until Lockdown",
-    "url": "https://keepandroidopen.org/?",
-    "points": 484,
-    "num_comments": 337,
-    "tags": [
-      "story",
-      "author_NackerHughes",
-      "story_50208558"
-    ],
-    "author": "NackerHughes",
-    "created_at": "2026-10-23T13:19:42Z",
-    "aiHeadline": "Your Phone Is About to Stop Being Yours: 70 Days Until Lockdown—because soon, even your device will question your right to use it."
+    "author": "sblank",
+    "created_at": "2026-10-24T13:09:28Z",
+    "aiHeadline": "Elon Musk has done it again—this time, he's single-handedly convinced Europe that they need to diversify their tech suppliers, because relying on one eccentric billionaire for all your tech needs is clearly a sustainable strategy."
   }
 ]
