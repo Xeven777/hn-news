@@ -1,74 +1,76 @@
 [
   {
-    "title": "No signs of AI payoff outside the tech sector",
-    "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-    "points": 508,
-    "num_comments": 521,
+    "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+    "url": "https://lynchlab.net/llm-skin-cancer",
+    "points": 482,
+    "num_comments": 220,
     "tags": [
       "story",
-      "author_the-mitr",
-      "story_50224463"
-    ],
-    "author": "the-mitr",
-    "created_at": "2026-10-24T19:47:19Z",
-    "aiHeadline": "AI continues to be the most overhyped technology of the decade, delivering zero tangible benefits outside of making tech bros richer."
-  },
-  {
-    "title": "Root shell on Samsung TV",
-    "url": "https://twitter.com/log4j/status/2113014142600953868?s=46",
-    "points": 494,
-    "num_comments": 204,
-    "tags": [
-      "story",
-      "author_testing22321",
-      "story_50218633"
-    ],
-    "author": "testing22321",
-    "created_at": "2026-10-24T05:49:57Z",
-    "aiHeadline": "Because nothing says 'smart home' like having a complete stranger take over your TV and turn it into a command center for their evil plans."
-  },
-  {
-    "title": "OBS Studio 33",
-    "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
-    "points": 444,
-    "num_comments": 161,
-    "tags": [
-      "story",
-      "author_pentagrama",
-      "story_50218430"
-    ],
-    "author": "pentagrama",
-    "created_at": "2026-10-24T04:49:58Z",
-    "aiHeadline": "The latest update to OBS Studio brings you... more bugs! Because nothing says 'we care about our users' like breaking everything they rely on."
-  },
-  {
-    "title": "Show HN: Steal My Bitcoin",
-    "url": "https://stealmybitcoin.com/",
-    "points": 433,
-    "num_comments": 261,
-    "tags": [
-      "story",
-      "author_cloudlandsdev",
-      "story_50224916",
-      "show_hn",
+      "author_sungam",
+      "story_50233779",
       "front_page"
     ],
-    "author": "cloudlandsdev",
-    "created_at": "2026-10-24T20:30:31Z",
-    "aiHeadline": "A new website is daring you to 'steal' their Bitcoin, because clearly, the best way to secure your digital assets is to shout about them on the internet."
+    "author": "sungam",
+    "created_at": "2026-10-25T17:15:38Z",
+    "aiHeadline": "Old-School AI Proves That Sometimes, Age Really Does Bring Wisdom, Especially When It Comes to Spotting Skin Cancer"
   },
   {
-    "title": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
-    "url": "https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/",
-    "points": 424,
-    "num_comments": 458,
+    "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
+    "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
+    "points": 473,
+    "num_comments": 328,
     "tags": [
       "story",
-      "author_sblank",
-      "story_50220913"
+      "author_vrganj",
+      "story_50229587"
     ],
-    "author": "sblank",
-    "created_at": "2026-10-24T13:09:28Z",
-    "aiHeadline": "Elon Musk has done it again—this time, he's single-handedly convinced Europe that they need to diversify their tech suppliers, because relying on one eccentric billionaire for all your tech needs is clearly a sustainable strategy."
+    "author": "vrganj",
+    "created_at": "2026-10-25T09:00:40Z",
+    "aiHeadline": "Meta’s Latest Move: Ignoring Court Orders is Just Another Day at the Office for Big Tech"
+  },
+  {
+    "title": "Dolly Parton's Imagination Library",
+    "url": "https://imaginationlibrary.com/",
+    "points": 444,
+    "num_comments": 84,
+    "tags": [
+      "story",
+      "author_jumploops",
+      "story_50234474",
+      "front_page"
+    ],
+    "author": "jumploops",
+    "created_at": "2026-10-25T18:23:54Z",
+    "aiHeadline": "Dolly Parton’s Imagination Library: Because Who Doesn’t Want a Celebrity-Backed Book Club for Kids?"
+  },
+  {
+    "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+    "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+    "points": 430,
+    "num_comments": 116,
+    "tags": [
+      "story",
+      "author_tdeck",
+      "story_50234232",
+      "front_page"
+    ],
+    "author": "tdeck",
+    "created_at": "2026-10-25T18:04:11Z",
+    "aiHeadline": "Oregon Police: When Catching Criminals Isn’t Enough, Why Not Sue the Press for $2.5 Million?"
+  },
+  {
+    "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+    "url": "https://talkweb.eu/openweb/4558/",
+    "points": 423,
+    "num_comments": 207,
+    "tags": [
+      "story",
+      "author_Tomte",
+      "story_50233929",
+      "front_page"
+    ],
+    "author": "Tomte",
+    "created_at": "2026-10-25T17:30:55Z",
+    "aiHeadline": "Join the Fight Against Censorship: Because Who Needs a Free and Open Internet Anyway?"
   }
 ]
